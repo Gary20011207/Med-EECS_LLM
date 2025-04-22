@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatbot with History</title>
+    <style>
+        body { font-family: Arial; max-width: 600px; margin: auto; padding: 20px; }
+        #chatbox { border: 1px solid #ccc; padding: 10px; height: 300px; overflow-y: scroll; margin-bottom: 10px; }
+        .user { color: blue; }
+        .bot { color: green; }
+    </style>
+</head>
+<body>
+    <h2>Welcome, {{ username }}! <a href="/logout">Logout</a></h2>
+    <div id="chatbox"></div>
+    <input type="text" id="message" placeholder="Type your message..." style="width: 80%;">
+    <button onclick="sendMessage()">Send</button>
+
+    <script>
+        // Load previous chat history on page load
+        window.onload = async function () {
+            const response = await fetch("/get_history");
+            const history = await response.json();
+            const chatbox = document.getElementById("chatbox");
+
+            history.forEach(entry => {
+                const senderClass = entry.sender === "user" ? "user" : "bot";
+                const senderName = entry.sender === "user" ? "You" : "Bot";
+                chatbox.innerHTML += `<div class="${senderClass}"><strong>${senderName}:</strong> ${entry.message}</div>`;
+            });
+
+            chatbox.scrollTop = chatbox.scrollHeight;
+        };
+
+        async function sendMessage() {
+            const message = document.getElementById("message").value;
+            if (!message.trim()) return;
+
+            // Send message to server
+            const response = await fetch("/send_message", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ message })
+            });
+
+            const data = await response.json();
+            const chatbox = document.getElementById("chatbox");
+
+            // Append new messages
+            chatbox.innerHTML += `<div class="user"><strong>You:</strong> ${message}</div>`;
+            chatbox.innerHTML += `<div class="bot"><strong>Bot:</strong> ${data.reply}</div>`;
+            document.getElementById("message").value = "";
+            chatbox.scrollTop = chatbox.scrollHeight;
+        }
+    </script>
+</body>
+</html>
