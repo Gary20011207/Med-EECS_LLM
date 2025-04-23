@@ -1,10 +1,9 @@
 # Med-EECS_LLM
 
 ## Naive RAG Pipeline
-# I use CUDA 12.6 with RTX 4090.
-
 ### Installation
 ```
+# I use CUDA 12.6 with RTX 4090.
 conda create -n langchain-rag python=3.10 -y
 conda activate langchain-rag
 pip install -r requirements.txt
