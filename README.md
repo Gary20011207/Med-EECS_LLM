@@ -7,7 +7,7 @@ https://a7b695a5096a2cffd5.gradio.live
 ```
 conda create -n langchain-rag python=3.10 -y
 conda activate langchain-rag
-pip install -r requirements.txt
+pip install -r RAG_requirements.txt
 ```
 ### Run
 ```
