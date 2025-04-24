@@ -1,7 +1,7 @@
 # Med-EECS_LLM
 
 ## Naive RAG Pipeline
-https://a7b695a5096a2cffd5.gradio.live
+https://a7b695a5096a2cffd5.gradio.live (Shutdown)
 ## I use CUDA 12.6 with RTX 4090.
 ### Installation
 ```
