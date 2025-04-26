@@ -152,7 +152,7 @@ def launch_gradio():
                 file_path = os.path.join(PDF_FOLDER, f)
                 gr.File(value=file_path, file_types=[".pdf"], label=f"📄 {f}", interactive=True)
 
-    demo.launch(share=True, server_name="0.0.0.0", server_port=7860)
+    demo.launch(share=False, server_name="0.0.0.0", server_port=7860)
 
 if __name__ == "__main__":
     launch_gradio()

@@ -2,6 +2,15 @@
 .gradio
 /VectorDB
 
+# SQLite database
+*.sqlite3
+*.db
+
+# log
+*.log
+app_log.txt
+rag_log.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
