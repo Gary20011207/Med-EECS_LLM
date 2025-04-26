@@ -95,7 +95,7 @@ README.md                       # 專案說明
 
 #### 查看 Prototype
 - **網址**：
-  - 主應用程式：訪問 [eras.haobba.org](https://eras.haobba.org) 查看 Web 介面。
+  - 主應用程式：訪問 [eras.haobbc.org](https://eras.haobbc.org) 查看 Web 介面。
   - RAG QA 測試：訪問 [erasllm.haobbc.org](https://erasllm.haobbc.org/) 體驗 LLM 問答功能。
 - **注意**：目前應用部署於本地伺服器（規格：Intel i9-9900K, DDR4 64GB RAM, CUDA 12.8, NVIDIA RTX 4070s）
 
