@@ -1,0 +1,674 @@
+World J Surg (2020) 44:2482–2492
+https://doi.org/10.1007/s00268-020-05530-1
+
+ SCIENTIFIC REVIEW
+
+Consensus Guidelines for Perioperative Care in Neonatal
+Intestinal Surgery: Enhanced Recovery After Surgery (ERASÒ)
+Society Recommendations
+
+               1,14                    1,2            1                1
+Mary E. Brindle    • Caraline McDiarmid  • Kristin Short • Kathleen Miller •
+             1                   1               3                4
+Ali MacRobie  • Jennifer Y. K. Lam • Megan Brockel • Mehul V. Raval •
+                 5                 6                6               7
+Alexandra Howlett  • Kyong-Soon Lee • Martin Offringa • Kenneth Wong  •
+             8               9                  10               11
+David de Beer  • Tomas Wester • Erik D. Skarsgard • Paul W. Wales  •
+             11                11                 12              13
+Annie Fecteau  • Beth Haliburton  • Susan M. Goobie • Gregg Nelson
+Published online: 8 May 2020
+Ó The Author(s)
+
+
+   Abstract
+   Background Enhanced Recovery After Surgery (ERASÒ) Society guidelines integrate evidence-based practices into
+   multimodal care pathways that have improved outcomes in multiple adult surgical specialties. There are currently no
+   pediatric ERASÒ Society guidelines. We created an ERASÒ guideline designed to enhance quality of care in
+   neonatal intestinal resection surgery.
+   Methods A multidisciplinary guideline generation group deﬁned the scope, population, and guideline topics. Systematic
+   reviews were supplemented by targeted searching and expert identiﬁcation to identify 3514 publications that were screened
+   to develop and support recommendations. Final recommendations were determined through consensus and were assessed
+   for evidence quality and recommendation strength. Parental input was attained throughout the process.
+   Results Final recommendations ranged from communication strategies to antibiotic use. Topics with poor-quality
+   and conﬂicting evidence were eliminated. Several recommendations were combined. The quality of supporting
+   evidence was variable. Seventeen ﬁnal recommendations are included in the proposed guideline.
+   Discussion We have developed a comprehensive, evidence-based ERAS guideline for neonates undergoing intestinal
+   resection surgery. This guideline, and its creation process, provides a foundation for future ERAS guideline
+   development and can ultimately lead to improved perioperative care across a variety of pediatric surgical specialties.
+
+                                                     Introduction
+
+                                                     Enhanced Recovery After Surgery (ERASÒ) guidelines are
+Mary E. Brindle and Caraline McDiarmid are co-ﬁrst authors. designed to deliver standardized, evidence-based, collabo-
+                                                     rative care throughout the surgical journey [1–6]. The
+Electronic supplementary material The online version of this
+article (https://doi.org/10.1007/s00268-020-05530-1) contains sup-
+plementary material, which is available to authorized users.
+                                                     4  Division of Pediatric Surgery, Department of Surgery,
+&  Mary E. Brindle                                      Northwestern University Feinberg School of Medicine and
+   MaryEBrindle@gmail.com                               Ann & Robert H. Lurie Children’s Hospital of Chicago, 225
+                                                        E Chicago Avenue, Chicago, IL 60611, USA
+1
+   Department of Surgery, Alberta Children’s Hospital, 5 Section of Neonatology, Department of Pediatrics, Alberta
+   Cumming School of Medicine, University of Calgary, 28 Oki Children’s Hospital, Cumming School of Medicine,
+   Drive, Calgary, AB T3B 6A8, Canada                   University of Calgary, 28 Oki Drive, Calgary, AB T3B 6A8,
+2  Department of Medicine, McMaster University, 1280 Main Canada
+   Street West, Hamilton, ON L8S 4L8, Canada         6  Division of Neonatology, Hospital for Sick Children,
+3  Department of Anesthesiology, Children’s Hospital    University of Toronto, 555 University Avenue, Toronto,
+   Colorado, 13123 E 16th Avenue, Aurora, CO 80045, USA ON M5G 1X8, Canada
+123
+
+
+World J Surg (2020) 44:2482–2492                                                                   2483
+
+ERASÒ   Society published its ﬁrst guideline in adult col- (C37 weeks gestational age) without major comorbidities
+orectal surgery which was subsequently adapted for use in undergoing intestinal resection surgery within the ﬁrst
+other surgeries [1]. ERASÒ implementation has reduced 4 weeks of life. Complex surgical conditions were exclu-
+complications, length of stay (LOS), and costs, while ded including necrotizing enterocolitis (NEC), abdominal
+improving patient and staff satisfaction [5–7]. Despite wall defects, and short bowel syndrome. Fourteen topics
+these successes, there are few pediatric ERASÒ studies and were identiﬁed for areas of recommendation development
+no ERASÒ  Society pediatric guidelines. Limited applica- (Online resource 1) [16].
+tions of ERASÒ in children have demonstrated reduced
+surgical infections, readmissions, reoperations, LOS, and Literature search
+cost [4, 8–10].
+  Neonates could greatly beneﬁt from ERASÒ as they   GDC members were assigned topics based on expertise.
+experience variable perioperative care and suffer high rates For each topic, a systematic search strategy was performed
+of complications [11, 12]. Neonatal ERASÒ guidelines in conjunction with a research librarian (Online resource
+must consider the unique aspects of neonatal physiology as 2). Screening followed standard Preferred Reporting Items
+well as a unique perioperative team [13–15].         for Systematic Review  and Meta-Analysis (PRISMA)
+  Our international team collaboratively developed the methods [17]. GDC members supplemented these searches
+ﬁrst ERASÒ guideline for surgical neonates using a rigor- with further targeted literature searches [16].
+ous, evidence-based, consensus-driven process integrating
+parents and clinicians.                              Study selection and data synthesis
+
+                                                     Systematic reviews, randomized and  non-randomized
+Methods                                              controlled trials, observational cohorts and case series were
+                                                     included. Case studies and expert opinion were excluded.
+The details of our approach have been published and are Articles meeting eligibility criteria were reviewed in full
+summarized below [16].                               text. One or more recommendations were drafted for each
+                                                     topic. Evidence was summarized, and the Grading of
+Multidisciplinary team                               Recommendations, Assessment, Development and Evalu-
+                                                     ation (GRADE) approach was used to assess the quality of
+A guideline development committee (GDC) was assembled evidence based on risk of bias, imprecision, inconsistency,
+including surgeons, anesthesiologists, and neonatologists indirectness, and publication bias [18].
+as well as subject matter experts. Parent representatives
+were  consulted at multiple points during guideline  Recommendation grading
+development.
+                                                     A  two-round modiﬁed Delphi was used to review and
+Scope determination                                  select recommendations [19]. In the ﬁrst round, the GDC
+                                                     provided feedback on recommendations and evidence, and
+A modiﬁed Delphi method was used to reach consensus  rated necessity for inclusion. At the second round, rec-
+regarding the target population and topics. The target ommendation inclusion in the guideline was determined
+population was   determined to  be  term  neonates   through consensus. Included items were assessed for
+
+
+                                                     11 Division of General and Thoracic Surgery, Hospital for Sick
+7  Department of Surgery, Li Ka Shing Faculty of Medicine,
+                                                        Children, University of Toronto, 555 University Avenue,
+   University of Hong Kong, 21 Sassoon Road, William M.
+                                                        Toronto, ON M5G 1X8, Canada
+   W. Mong Block, Hong Kong, China
+                                                     12 Department of Anesthesiology, Critical Care and Pain
+8  Department of Pediatric Anesthesia, Great Ormond Street
+                                                        Medicine, Boston Children’s Hospital, Harvard University,
+   Hospital, Great Ormond Street, London WC1N 3JH, UK
+                                                        300 Longwood Avenue, Boston, MA 02115, USA
+9  Department of Pediatric Surgery, Karolinska University
+                                                     13 Department of Oncology, Cumming School of Medicine,
+   Hospital, Eugeniavagen 23, 171 76 Solna, Stockholm,
+                                                        University of Calgary, 1403 29 Street NW, Calgary,
+   Sweden
+                                                        AB T2N 2T9, Canada
+10 Department of Pediatric Surgery, British Columbia
+                                                     14 Department of Surgery and Community Health Sciences,
+   Children’s Hospital, 4480 Oak Street, Vancouver,
+                                                        Cumming School of Medicine, University of Calgary, 28 Oki
+   BC V6H 3N1, Canada
+                                                        Drive, Calgary, AB T3B 6A8, Canada
+                                                                                               123
+
+
+2484                                                                         World J Surg (2020) 44:2482–2492
+
+Table 1 GRADE system for rating (a) quality of evidence [18] and (b) strength of recommendations [18]
+(a) Quality of evidence  Deﬁnition
+
+High quality             Further research is very unlikely to change conﬁdence in the estimate of effect
+Moderate quality         Further research is likely to have an important impact on conﬁdence in the estimate of effect and may change
+                          the estimate
+Low quality              Further research is very likely to have an important impact on conﬁdence in the estimate of effect and is likely
+                          to change the estimate
+Very low quality         Any estimate of effect is very uncertain
+
+(b) Recommendation strength Deﬁnition
+
+Strong                   When the desirable effects of an intervention clearly outweigh the undesirable effects, or clearly do not
+Weak (‘‘conditional’’ or When the trade-offs are less certain—either because of low-quality evidence or because evidence suggests that
+  ‘‘discretionary’’)      desirable and undesirable effects are closely balanced
+
+aggregate evidence quality and the strength of the recom- secondary anastomosis in neonates with intestinal atresia
+mendation according to the GRADE approach [18] (see  demonstrates that primary anastomosis is associated with a
+Table 1a and b). The strength of the recommendation  reduction in LOS, decreased readmissions, and decreased
+(‘‘strong’’ or ‘‘weak’’) was based on evidence quality, as need for reoperations [20–22]. Given the likelihood of
+well as potential desirable and undesirable consequences of selection bias in these studies, the recommendation has
+the  recommendation  [18].  Recommendations   were   been limited to neonates with uncomplicated atresia.
+reviewed by experts and future guideline users to ensure
+feasibility.
+                                                     Recommendation: Perform primary anastomosis as the ﬁrst
+                                                                      choice in patients with uncomplicated
+                                                                      intestinal atresia
+Results                                              Evidence Quality: Very low
+                                                     Recommendation  Weak
+Of 3514 total publications reviewed, 2909 were identiﬁed Strength:
+via initial systematic searches and 605 through additional
+searches, citation searches, and expert identiﬁcation.
+Screening and data extraction was performed within each
+topic (Online resource 3). GDC members reviewed the
+evidence and submitted 36 preliminary recommendations. Antimicrobial prophylaxis
+  Based on consensus, recommendations were eliminated
+due to very poor-quality or conﬂicting evidence. Other Antibiotics within 60 min
+recommendations were rephrased or combined.
+  The ﬁnal ERASÒ   guideline has 17 recommendations  Surgical Site Infection (SSI) rates are high in neonatal
+(Table 2) (Fig. 1). Overall, 116 articles were used to sup- intestinal surgery, and the consequences of SSIs are severe
+port the recommendations (Online Resource 4). The quality [11]. The quality of evidence for antibiotic prophylaxis in
+of evidence of these papers was relatively low. 68.1% neonatal surgery is low. Given neonatal pharmacodynam-
+(n = 81) of the papers had a rating of very low (23%; ics, SSI rates, and the immunocompromised state of neo-
+n = 27) or low (45%; n = 54), 22% (n = 26) had a rating of nates, recommendations were deemed reasonable to
+moderate, and 10% (n = 12) had a rating of high.     extrapolate from the adult literature. High-quality evidence
+                                                     from adult studies demonstrates decreased SSI rates in
+Evidence base and recommendations (online            intestinal surgery patients provided with well-timed pre-
+resource 5)                                          operative antibiotics [23, 24]. This can be extrapolated to
+                                                     neonates given that studies of neonatal pharmacokinetics
+Surgical practices                                   suggest that the \60 min time frame for prophylactic
+                                                     dosing would also be effective [25].
+In the setting of intestinal atresia, pediatric surgeons must
+decide between stoma creation or primary anastomosis.
+Very  low  quality evidence comparing primary  and
+
+123
+
+
+World J Surg (2020) 44:2482–2492                                                                                 2485
+
+                                                            Low quality studies show no difference in neonatal SSI
+Recommendation:   Administer appropriate preoperative
+                    antibiotic prophylaxis within 60 min prior rates when prophylactic antibiotics were given for less than
+                    to skin incision                        24 h as compared to greater than 24 h [26,  27]. Although
+Evidence Quality: Low                                       adult literature demonstrates that a single preoperative dose
+Recommendation    Weak                                      of antibiotics is generally sufﬁcient for prophylaxis, similar
+  Strength:                                                 evidence in neonates is lacking. Given the signiﬁcantly
+                                                            higher rate and severity of neonatal SSIs, general practice
+                                                            has been to provide longer periods of prophylactic antibi-
+                                                            otics as demonstrated in a survey study where patients
+                                                            received inconsistent and prolonged prophylactic antibiotic
+Duration of postoperative antibiotics                       courses with some extending beyond 1 week [26–28].
+                                                            Antibiotic administration, however, carries an increased
+Few studies investigate the optimal duration of periopera-  risk of invasive Candida infections, and emergence of
+tive antibiotic prophylaxis after neonatal intestinal surgery. resistant organisms [29]. In the setting of a documented
+
+Table 2 Guidelines for enhanced perioperative care in neonatal intestinal surgery: Enhanced Recovery After Surgery (ERASÒ) Society
+recommendations
+Item                  Recommendation                                                                Quality   Strength
+
+Surgical practices    Perform primary anastomosis as the ﬁrst choice in patients with uncomplicated intestinal Very low Weak
+                        atresia
+Antimicrobial         Administer appropriate preoperative antibiotic prophylaxis within 60 min prior to skin Low Weak
+  prophylaxis           incision
+                      Discontinue postoperative antibiotics within 24 h of surgery, unless ongoing treatment is Low Weak
+                        required
+Preventing intraoperative Continuously monitor intraoperative core temperature and take pre-emptive measures to Low Strong
+  hypothermia           prevent hypothermia (\36.5 °C) and maintain normothermia
+Perioperative ﬂuid    Use perioperative ﬂuid management to maintain tissue perfusion and prevent hypovolemia, Moderate Weak
+  management            ﬂuid overload, hyponatremia, and hyperglycemia
+Perioperative analgesia Unless contraindicated, administer acetaminophen regularly during the early postoperative High Strong
+                        period (not on an ‘‘as needed’’ basis) to minimize opioid use
+                      Use an opioid-limiting strategy is recommended in the postoperative period. Manage Moderate Strong
+                        breakthrough pain with the lowest effective dose of opioid with continuous monitoring
+                      Use regional anesthesia and acetaminophen perioperatively in combination with general High Strong
+                        anesthesia. Multimodal strategies including regional techniques should be continued
+                        postoperatively
+                      Provide lingual sucrose/dextrose to reduce pain during naso/orogastric tube placement and High Strong
+                        other minor painful procedures
+Optimal Hemoglobin    Restrict transfusions to maintaining HgB C 90 (9 g/dL for a term neonate with no oxygen Low Weak
+                        requirement. Term neonates within the ﬁrst week of life, intubated or with an oxygen
+                        requirement should be transfused to maintain a HgB C 110 (11 g/dL)
+                      Use written transfusion guidelines and take into account not only a target hemoglobin Low Weak
+                        threshold, but also the clinical status of the neonate and local practices
+Perioperative         Implement perioperative multidisciplinary team communication with a structured process and Moderate Strong
+  Communication         protocol (‘‘pre- and postoperative huddle’’) utilizing established checklists
+Parental involvement  Facilitate hands on care and purposeful practice by parents that is individualized to meet the High Strong
+                        unique needs of parents early during the admission. Sustain these to build the knowledge
+                        and skills of parents to take on a leading role as caregivers and facilitate their readiness for
+                        discharge
+Postoperative nutritional Start early enteral feeds within 24-48 h after surgery when possible. Do not wait for formal High Weak
+  care                  return of bowel function
+                      Use breast milk as the ﬁrst choice for nutrition                              High      Strong
+                      Monitor urinary sodium in all neonates with a stoma. Target urinary sodium should be greater Low Weak
+                        than 30 mmol/L and exceed the level of urinary potassium
+Mucous ﬁstula refeeding Use mucous ﬁstula refeeding in neonates with enterostomy to improve growth  Moderate  Weak
+
+                                                                                                            123
+
+
+2486                                                                         World J Surg (2020) 44:2482–2492
+
+
+ Fig. 1 Elements of the ERASÒ approach for neonatal intestinal resection surgery. Refer to Table 2 for greater detail on each recommendation
+
+infection or wound contamination, an appropriate thera- their non-hypothermic counterparts [31]. Neonates are at
+peutic antibiotic regimen should be pursued.         greatest risk of hypothermia in the OR [31]. Implementa-
+                                                     tion of hypothermia bundles can signiﬁcantly reduce peri-
+                                                     operative hypothermia [32, 33]. Despite low quality of
+Recommendation: Discontinue postoperative antibiotics within evidence, the risks of hypothermia in neonates warrant a
+                  24 h of surgery, unless ongoing treatment
+                  is required                        strong recommendation for monitoring and pre-emptive
+Evidence Quality: Low                                measures to maintain normothermia.
+Recommendation  Weak
+  Strength:
+                                                     Recommendation: Continuously monitor intraoperative core
+                                                                      temperature and take pre-emptive
+                                                                      measures to prevent hypothermia
+                                                                      (<36.5 °C) and maintain normothermia
+                                                     Evidence Quality: Low
+Preventing intraoperative hypothermia                Recommendation  Strong
+                                                       Strength:
+Neonates  are at high  risk of surgical hypothermia
+(\36.5 °C), and temperature monitoring is frequently
+neglected [30]. Hypothermic infants suffer more respira-
+tory adverse events and require more interventions than
+
+123
+
+
+World J Surg (2020) 44:2482–2492                                                                   2487
+
+Perioperative ﬂuid management                        short-term use of acetaminophen is safe, longer-term safety
+                                                     is less clear [40]. Acetaminophen should be given regularly
+Perioperative ﬂuid management in  neonates aims to   (not prn) in postoperative neonates with strict adherence to
+maintain tissue perfusion, metabolic function, and acid– the recommended dose, dosing interval, and maximum
+base-electrolyte status. Monitoring clinical response to allowable daily dose.
+ﬂuids, blood glucose, blood gases and electrolytes is a key
+part of intraoperative care [34]. Isotonic solutions with
+glucose are recommended for intraoperative ﬂuid admin- Recommendation: Unless contraindicated, administer
+                                                                      acetaminophen regularly during the early
+istration. Both hyperglycema and hypoglycemia have been               postoperative period (not on an ‘‘as
+documented in neonates with different ﬂuid regimens in the            needed’’ basis) to minimize opioid use
+OR [35]. Glucose-containing ﬂuids may decrease intraop- Evidence Quality: High
+erative hypoglycemia, but high concentrations may con- Recommendation Strong
+tribute to hyperglycemia [35]. Targeting glucose to 3.3– Strength:
+7 mmol/L reﬂects deﬁnitions of hypo- and hyperglycemia
+in neonates [36, 37]. Targets for anesthetized infants,
+however, do not exist. Clinicians may target a slightly
+higher range for these infants, recognizing that levels above
+8 mmol/L may have detrimental effects on neurodevelop-
+ment. Hypotonic IV ﬂuids should not be used as they
+heighten the risk for hyponatremia [38]. Colloids are only Opioid use
+recommended to recover normovolemia when crystalloids
+alone are not sufﬁcient and blood products are not indi- Morphine is effective in treating postoperative pain fol-
+cated. Despite moderate quality evidence supporting this lowing neonatal surgery [41]. However, pharmacokinetic
+recommendation, there are few  studies demonstrating differences lead to less predictable clinical effects in neo-
+downstream effects. Therefore, speciﬁc regimens cannot be nates as compared to older children with an increased
+suggested and the strength of the recommendation is weak. variability in plasma concentrations of morphine and its
+                                                     metabolites [41]. Reduced doses and increased dosing
+                                                     intervals are necessary to avoid accumulation and the risk
+Recommendation: Use perioperative ﬂuid management to of sedation and respiratory depression [41].
+                 maintain tissue perfusion and prevent  With neonatal morphine use, the therapeutic window
+                 hypovolemia, ﬂuid overload,         between analgesia and respiratory depression is narrow
+                 hyponatremia, and hyperglycemia
+                                                     [41]. Other important adverse effects include hypotension
+Evidence Quality: Moderate
+                                                     and decreased gastrointestinal motility [42].
+Recommendation Weak
+  Strength:                                             Moderate evidence supports the use of an opioid spar-
+                                                     ing, multimodal analgesia strategy in postoperative neo-
+                                                     nates. The lowest dose of opioid should be given for the
+                                                     shortest possible time. All neonates receiving opioids
+                                                     should be managed with continuous pulse oximetry, mon-
+Perioperative analgesia                              itoring of other vital signs, and regular assessment of pain
+                                                     scores.
+Acetaminophen
+
+                                                     Recommendation: Use an opioid-limiting strategy is
+Acetaminophen is an important part of a multimodal                     recommended in the postoperative period.
+regime to limit opioid exposure after neonatal surgery.                Manage breakthrough pain with the
+Multiple high-quality studies indicate that IV acet-                   lowest effective dose of opioid with
+aminophen reduces postoperative morphine consumption                   continuous monitoring
+in neonates when compared with other regimens [39].  Evidence Quality: Moderate
+When IV   acetaminophen is not available, rectal acet- Recommendation Strong
+                                                       Strength:
+aminophen should be given, although it may be less
+effective. Despite concerns about the hepatic effects of IV
+acetaminophen, low doses are well tolerated in term neo-
+nates and have a good safety proﬁle when used for limited
+periods [40]. Although current evidence suggests that the
+
+                                                                                               123
+
+
+2488                                                                         World J Surg (2020) 44:2482–2492
+
+Standard analgesia protocol                          Optimal hemoglobin
+
+High-quality evidence demonstrates that ultrasound-guided Neonates require a distinct set of hemoglobin thresholds
+regional anesthetic techniques and regular acetaminophen and transfusion guidelines. Neonates have a limited ability
+reduces the exposure of infants to opioids and other anes- to tolerate stress, and anemia is associated with a high risk
+thetic agents [43]. Epidural analgesia, when combined with of mortality [49]. Due to the lack of a universally accepted
+general anesthesia, decreases respiratory complications and deﬁnition of anemia in neonates, determining an optimal
+shortens the time to bowel function [44, 45]. Regional hemoglobin threshold is challenging. Most evidence-based
+blocks avoid some of the risks of epidurals while achieving sources recommend a restrictive hemoglobin threshold in
+good pain control [46]. In appropriate neonates, the use of term neonates given that no differences in short term out-
+regional anesthesia and regular (not prn) acetaminophen is comes have been found comparing restrictive and liberal
+recommended and may reduce the need for perioperative strategies [49, 50]. Methods to decrease blood loss should
+narcotics.                                           be pursued, including measures to minimize blood sam-
+                                                     pling. When indicated, red blood cell transfusions should
+                                                     be single donor, leukocyte depleted, irradiated, and fresh
+Recommendation: Use regional anesthesia and acetaminophen [50]. Recommendations for the optimal hemoglobin
+                  perioperatively in combination with
+                  general anesthesia. Multimodal strategies threshold for term neonates ARE currently based on low
+                  including regional techniques should be quality evidence.
+                  continued postoperatively
+Evidence Quality: High
+Recommendation  Strong                               Recommendation: Restrict transfusions to maintaining
+  Strength:                                                           HgB ‡ 90 (9 g/dL for a term neonate with
+                                                                      no oxygen requirement. Term neonates
+                                                                      within the ﬁrst week of life, intubated or
+                                                                      with an oxygen requirement should be
+                                                                      transfused to maintain a HgB ‡ 110 (11 g/
+                                                                      dL)
+                                                     Evidence Quality: Low
+                                                     Recommendation  Weak
+Lingual sucrose/dextrose                               Strength:
+
+Many high-quality studies have demonstrated the efﬁcacy Recommendation: Use written transfusion guidelines and take
+                                                                      into account not only a target hemoglobin
+of lingual sucrose/dextrose as an analgesic in neonates. A            threshold, but also the clinical status of the
+large systematic review demonstrated the beneﬁts of oral              neonate and local practices
+sucrose in neonates undergoing heel lance, venipuncture, Evidence Quality: Low
+and intramuscular injections [47]. A smaller number of Recommendation Weak
+studies showed sucrose to be of beneﬁt for other inter- Strength:
+ventions such as naso/orogastric tube insertion, with lower
+pain scores when compared with placebo [48]. Due to the
+low morbidity and high feasibility, we recommend lingual
+sucrose/dextrose to reduce pain during naso/orogastric tube
+placement and other minor painful procedures.        Perioperative communication
+
+                                                     Standardized perioperative communication and care pro-
+Recommendation: Provide lingual sucrose/dextrose to reduce cesses can reduce adverse patient outcomes, ensure conti-
+                 pain during naso/orogastric tube    nuity of care and improve staff communication [51, 52]. A
+                 placement and other minor painful
+                 procedures                          systematic review of postoperative handovers found that
+Evidence Quality: High                               successful elements include: (a) checklist use (b) comple-
+Recommendation Strong                                tion of urgent tasks prior to handover, (c) minimizing
+  Strength:                                          handover interruptions, (d) presence of all relevant team
+                                                     members, and (e) team communication training [53]. Staff
+                                                     engagement and teamwork are the most important factors
+                                                     for promoting a safe surgical environment [54]. Due to the
+                                                     potential adverse effects of miscommunication, complete
+
+123
+
+
+World J Surg (2020) 44:2482–2492                                                                   2489
+
+interdisciplinary team participation in structured perioper- Postoperative nutrition
+ative communication processes should be implemented
+[54].                                                Early feeding
+
+                                                     There is high-quality evidence to support early enteral
+Recommendation: Implement perioperative multidisciplinary feeding in post-surgical neonates. Neonates that were fed
+                 team communication with a structured
+                 process and protocol (‘‘pre- and    early have a shorter LOS, and decreased SSIs with no
+                 postoperative huddle’’) utilizing   increase in anastomotic leaks [63, 64]. Additionally, in
+                 established checklists              very low birth weight infants, the early introduction of low
+Evidence Quality: Moderate                           volume feeds showed no increased incidence of NEC and a
+Recommendation Strong                                decreased incidence of sepsis [65, 66]. Although high-
+  Strength:                                          quality evidence supports this recommendation, variable
+                                                     clinical situations may require a delay in feeding so the
+                                                     recommendation was determined to be weak.
+
+                                                     Recommendation: Start early enteral feeds within 24–48 h
+                                                                       after surgery when possible. Do not wait
+                                                                       for formal return of bowel function
+Parental involvement
+                                                     Evidence Quality: High
+                                                     Recommendation  Weak
+Improving  communication with parents by  providing    Strength:
+information on communication, family centered rounds,
+and using technology (e.g., smartphone texts) all have
+demonstrated improved patient outcomes and family sat-
+isfaction [55–58]. Parental involvement should be indi-
+vidualized, and special consideration provided for patients Breast milk as ﬁrst nutrition
+of different ethnicities, ages and genders [55, 56].
+  The discharge experience is frequently perceived by Breast milk is a resource-friendly feeding choice for term
+parents as confusing with inconsistent communication [57]. infants, with a high level of evidence for its beneﬁts. In
+To better prepare parents for discharge after surgery, post-surgical patients, where feeding intolerances are
+teaching necessary skills should be initiated early and common, breast milk is typically well tolerated and the
+continued throughout hospitalization [58, 59]. Providing presence of immunoglobulin, prebiotics, and growth fac-
+educational opportunities increases parental knowledge, tors improve intestinal adaptation [67, 68]. The protective
+conﬁdence, and satisfaction; and may improve infant  effect of breast milk on the development and recurrence of
+developmental outcomes, increase compliance with well- NEC in preterm and low birth weight infants is well
+baby checks, and reduce emergency room visits [59–61]. described [69]. Breast milk consumption promotes devel-
+Written materials, audiovisual aids, and simulation have all opment of beneﬁcial fecal ﬂora and suppresses growth of
+been found to be helpful by parents [58, 59, 61, 62]. potential pathogenic organisms in term infants [70].
+
+Recommendation: Facilitate hands on care and purposeful Recommendation: Use breast milk as the ﬁrst choice for
+                 practice by parents that is individualized to           nutrition
+                 meet the unique needs of parents early
+                 during the admission. Sustain these to Evidence Quality: High
+                 build the knowledge and skills of parents to Recommendation Strong
+                 take on a leading role as caregivers and Strength:
+                 facilitate their readiness for discharge
+Evidence Quality: High
+Recommendation Strong
+  Strength:
+                                                     Urinary sodium monitoring
+
+                                                     Infants with stomas commonly suffer from sodium deple-
+                                                     tion [71, 72]. Inadequate urine sodium concentration is
+
+                                                                                               123
+
+
+2490                                                                         World J Surg (2020) 44:2482–2492
+
+associated with slower weight gain in infants undergoing potential beneﬁts were judged to outweigh harms (pre-
+intestinal surgery [72]. Neonates with stomas should vention of hypothermia). Finally, in some cases, weak
+undergo urinary sodium level monitoring. Sodium supple- evidence was bolstered by national standards (transfusions)
+mentation to  maintain urinary sodium  [30 mmol/L    [50].
+improves overall growth in surgical neonates [71]. The low
+quality of evidence supports a case-by-case approach to
+sodium supplementation.                              Conclusion
+
+                                                     ERASÒ   guidelines integrate evidence-based practices into
+Recommendation: Monitor urinary sodium in all neonates with multimodal care pathways to optimize postoperative
+                 a stoma. Target urinary sodium should be
+                 greater than 30 mmol/L and exceed the recovery [1]. Due to neonatal physiological differences and
+                                                                                                      Ò
+                 level of urinary potassium          the unique nature of the care team, a neonatal ERAS
+Evidence Quality: Low                                guideline is necessarily different from adult guidelines.
+                                                                                                      Ò
+Recommendation Weak                                  This article presents the evidence base for 17 ERAS
+  Strength:                                          recommendations.
+                                                        Often the data supporting recommendations are of low
+                                                     to moderate quality. The guideline will undergo regular
+                                                     review, and higher quality data will be used to further
+                                                     improve recommendations [2]. Effective implementation
+Mucous ﬁstula refeeding                              requires local leadership and consideration of local context.
+                                                     We anticipate that a longitudinal, iterative approach to
+In neonates with stomas, mucous ﬁstula refeeding can developing neonatal ERASÒ guidelines will continue to
+augment absorption of enteral nutrition required for healing improve the care of neonatal surgical patients.
+and growth. Low to moderate quality studies of mucous
+ﬁstula refeeding demonstrate improved weight gain,
+shorter duration of parenteral nutrition, decreased anasto- Funding The Brian and Brenda MacNeill Chair in Pediatric Surgery,
+motic leakage, and less cholestasis [73–75]. Complications Alberta Children’s Hospital Foundation
+are rare; however, the risk of bowel perforation and death Compliance with ethical standards
+lends caution [74]. The decision to proceed with mucous
+ﬁstula feeding should include careful patient selection Conﬂict of interest Gregg Nelson has a nonﬁnancial relationship
+                                                                Ò
+(term infants with a healthy mucous ﬁstula and distal small with the ERAS Society as their secretary.
+bowel), ongoing monitoring, and nursing education.
+
+                                                     Open Access This article is licensed under a Creative Commons
+Recommendation: Use mucous ﬁstula refeeding in neonates Attribution 4.0 International License, which permits use, sharing,
+                  with enterostomy to improve growth adaptation, distribution and reproduction in any medium or format, as
+                                                     long as you give appropriate credit to the original author(s) and the
+Evidence Quality: Moderate                           source, provide a link to the Creative Commons licence, and indicate
+Recommendation  Weak                                 if changes were made. The images or other third party material in this
+  Strength:                                          article are included in the article’s Creative Commons licence, unless
+                                                     indicated otherwise in a credit line to the material. If material is not
+                                                     included in the article’s Creative Commons licence and your intended
+                                                     use is not permitted by statutory regulation or exceeds the permitted
+                                                     use, you will need to obtain permission directly from the copyright
+                                                     holder. To view a copy of this licence, visit http://creativecommons.
+Excluded items and weak evidence                     org/licenses/by/4.0/.
+
+In some instances, good quality data were not available
+(urinary catheter use) or data were conﬂicting (chlorhexi-
+dine vs. povidone iodine based skin preparation) prevent- References
+ing the development of recommendations.
+                                                      1. Ljungqvist O, Scott M, Fearon KC (2017) Enhanced recovery
+  Many recommendations within this guideline are sup-   after surgery: a review. JAMA Surg 152(3):292
+ported by weak evidence. In some cases, supporting evi- 2. Brindle M, Nelson G, Lobo DN et al (2020) Recommendations
+dence is inferred from high-quality studies in other    from the ERASÒ Society for standards for the development of
+populations (preoperative antibiotics); in other cases, enhanced recovery after surgery guidelines. BJS Open
+                                                        4(1):157–163
+
+123
+
+
+World J Surg (2020) 44:2482–2492                                                                                 2491
+
+ 3. Nelson G, Kiyang LN, Crumley ET et al (2016) Implementation 23. Classen DC, Evans RS, Pestotnik SL et al (1992) The timing of
+   of Enhanced Recovery After Surgery (ERAS) across a provincial prophylactic administration of antibiotics and the risk of surgical-
+   healthcare system: the ERAS Alberta Colorectal Surgery Expe- wound infection. N Engl J Med 326(5):281–286
+   rience. World J Surg 40(5):1092–1103. https://doi.org/10.1007/ 24. Bratzler DW, Dellinger EP, Km Olsen et al (2013) Clinical
+   s00268-016-3472-7                                            practice guidelines for antimicrobial prophylaxis in surgery. Am J
+ 4. Shinnick JK, Short HL, Heiss KF et al (2016) Enhancing      Health-Syst Pharm 70:195–283
+   recovery in pediatric surgery: a review of the literature. J Surg 25. Paap CM, Nahata MC (1990) Clinical pharmacokinetics of
+   Res 202(1):165–176                                           antibacterial drugs in  neonates.  Clin  Pharmacokinet
+ 5. Gillis C, Gill M, Marlett N et al (2017) Patients as partners in 19(4):280–318
+   enhanced recovery after surgery: a qualitative patient-led study. 26. Vu LT, Vittinghoff E, Nobuhara KK et al (2014) Surgical site
+   BMJ Open 7(6):e017002                                        infections in neonates and infants: is antibiotic prophylaxis nee-
+ 6. Nelson G, Kiyang LN, Chuck A et al (2016) Cost impact analysis ded for longer than 24 h? Pediatr Surg Int 30(6):587–592
+   of Enhanced Recovery After Surgery program implementation in 27. Walker S, Datta A, Massoumi RL et al (2017) Antibiotic stew-
+   Alberta colon cancer patients. Curr Oncol 23(3):221          ardship in the newborn surgical patient: a quality improvement
+ 7. Varadhan KK, Neal KR, Dejong CHC et al (2010) The enhanced  project in  the neonatal  intensive care unit. Surgery
+   recovery after surgery (ERAS) pathway for patients undergoing 162(6):1295–1303
+   major elective open colorectal surgery: a meta-analysis of ran- 28. Fallat ME, Mitchell KA (1994) Random practice patterns of
+   domized controlled trials. Clin Nutr 29(4):434–440           surgical antimicrobial prophylaxis in neonates. Pediatr Surg Int
+ 8. Lyon A, Solomon MJ, Harrison JD (2014) A qualitative study  9:479–482
+   assessing the barriers to implementation of enhanced recovery 29. Lo´pez Sastre JB, Coto Cotallo GD, Ferna´ndez Colomer B et al
+   after surgery. World J Surg 38(6):1374–1380. https://doi.org/10. (2003) Neonatal invasive candidiasis: a prospective multicenter
+   1007/s00268-013-2441-7                                       study of 118 cases. Am J Perinatol 20(3):153–163
+ 9. Pearson KL, Hall N (2017) What is the role of enhanced recovery 30. World Health Organization (1997) Thermal protection of the
+   after surgery in children? A scoping review. Pediatr Surg Int newborn: a practical guide. Report No. WHO/RHT/MSM/97.2,
+   33(1):43–51                                                  World Health Organization, Geneva
+10. Short HL, Heiss KF, Burch K et al (2017) Implementation of an 31. Morehouse D, Williams L, Lloyd C et al (2014) Perioperative
+   enhanced recovery protocol in pediatric colorectal surgery. J Pe- hypothermia in NICU infants: its occurrence and impact on infant
+   diatr Surg 53(4):688–692                                     outcomes. Adv Neonatal Care 14(3):154–164
+11. Segal I, Kang C, Albersheim SG et al (2014) Surgical site 32. Engorn BM, Kahntroff SL, Frank KM et al (2017) Perioperative
+   infections in infants admitted to the neonatal intensive care unit. hypothermia in neonatal intensive care unit patients: effective-
+   J Pediatr Surg 49(3):381–384                                 ness of a thermoregulation intervention and associated risk fac-
+12. Matlow AG, Baker GR, Flintoft V et al (2012) Adverse events tors. Pediatr Anesth 27(2):196–204
+   among children in Canadian hospitals: the Canadian Paediatric 33. Kim P, Taghon T, Fetzer M et al (2013) Perioperative
+   Adverse Events Study. Can Med Assoc J 184(13):E709–E718      hypothermia in the pediatric population: a quality improvement
+13. Mamie C, Habre W, Delhumeau C et al (2004) Incidence and risk project. Am J Med Qual 28(5):400–406
+   factors of perioperative respiratory adverse events in children 34. Su¨mpelmann R, Becke K, Brenner S et al (2017) Perioperative
+   undergoing elective surgery. Pediatr Anesth 14(3):218–224    intravenous ﬂuid therapy in children: guidelines from the Asso-
+14. Keenan RL (1985) Cardiac arrest due to anesthesia: a study of ciation of the Scientiﬁc Medical Societies in Germany. Pediatr
+   incidence and causes. JAMA 253(16):2373                      Anesth 27(1):10–18
+15. Kain ZN, Caldwell-Andrews AA, Mayes LC et al (2007) Family- 35. Larsson LE, Nilsson K, Niklasson A et al (1990) Inﬂuence of
+   centered preparation for surgery improves perioperative out- ﬂuid regimens on perioperative blood-glucose concentrations in
+   comes in children: a randomized controlled trial. Anesthesiology neonates. Br J Anaesth 64(4):419–424
+   106(1):65–74                                             36. Narvey MR, Marks SD (2019) The screening and management of
+16. Gibb ACN, Crosby MA, McDiarmid C et al (2018) Creation of an newborns at risk for low blood glucose. Pediatr Child Health
+   Enhanced  Recovery After Surgery (ERAS) Guideline  for       24(8):536–554
+   neonatal intestinal surgery patients: a knowledge synthesis and 37. Hey E (2005) Hyperglycemia and the very preterm baby. Semin
+   consensus generation approach and protocol study. BMJ Open   Fetal Neonatal Med 10:377–387
+   8(12):e023651                                            38. Duke T, Molyneux EM (2003) Intravenous ﬂuids for seriously ill
+17. Moher D, Liberati A, Tetzlaff J et al (2009) Preferred reporting children: time to reconsider. The Lancet 362(9392):1320–1323
+   items for systematic reviews and meta-analyses: the PRISMA 39. Ceelie I, de Wildt SN, van Dijk M et al (2013) Effect of intra-
+   statement. J Clin Epidemiol 62(10):1006–1012                 venous paracetamol on postoperative morphine requirements in
+18. Guyatt GH, Oxman AD, Vist GE et al (2008) GRADE: an         neonates and infants undergoing major noncardiac surgery: a
+   emerging consensus on rating quality of evidence and strength of randomized controlled trial. JAMA 309(2):149
+   recommendations. BMJ 336(7650):924–926                   40. Allegaert K, Rayyan M, De Rijdt T et al (2008) Hepatic tolerance
+19. Fitch K (2001) The RAND/UCLA appropriateness method user’s  of repeated intravenous paracetamol administration in neonates.
+   manual. RAND Corp, Santa Monica                              Pediatr Anesth 18(5):388–392
+20. Del Pin CA, Czyrko C, Ziegler MM et al (1992) Management and 41. Bouwmeester NJ, Hop WCJ, van Dijk M et al (2003) Postoper-
+   survival of meconium ileus: a 30-year review. Ann Surg       ative pain in the neonate: age-related differences in morphine
+   215(2):179–185                                               requirements and   metabolism.  Intensive  Care  Med
+21. Singh M, Owen A, Gull S et al (2006) Surgery for intestinal 29(11):2009–2015
+   perforation in preterm neonates: anastomosis vs stoma. J Pediatr 42. Saarenmaa E, Huttunen P, Leppa¨luoto J et al (1999) Advantages
+   Surg 41(4):725–729                                           of fentanyl over morphine in analgesia for ventilated newborn
+22. Hillyer MM, Baxter KJ, Clifton MS et al (2019) Primary versus infants after birth: a randomized trial. J Pediatr 134(2):144–150
+   secondary anastomosis in intestinal atresia. J Pediatr Surg 43. Somri M, Tome R, Yanovski B et al (2007) Combined spinal-
+   54(3):417–422                                                epidural anesthesia in major abdominal surgery in high-risk
+                                                                neonates and infants. Pediatr Anesth 17(11):1059–1065
+
+                                                                                                            123
+
+
+2492                                                                                    World J Surg (2020) 44:2482–2492
+
+44. Somri M, Coran AG, Mattar I et al (2011) The postoperative 60. Pfander S, Bradley-Johnson S (1990) Effects of an intervention
+   occurrence of cardio-respiratory adverse events in small infants program and its components on NICU infants. Child Health Care
+   undergoing gastrointestinal surgery: a prospective comparison of 19(3):140–146
+   general anesthesia and combined spinal-epidural anesthesia. 61. Ingram JC, Powell JE, Blair PS et al (2016) Does family-centred
+   Pediatr Surg Int 27(11):1173–1178                            neonatal discharge planning reduce healthcare usage? A before
+45. Somri M, Matter I, Parisinos CA et al (2012) The effect of  and after study in South West England. BMJ Open 6(3):e010752
+   combined spinal-epidural anesthesia versus general anesthesia on 62. Raines DA (2017) Simulation as part of discharge teaching for
+   the recovery time of intestinal function in young infants under- parents of infants in the neonatal intensive care unit. MCN Am J
+   going intestinal surgery: a randomized, prospective, controlled Matern Nurs 42(2):95–100
+   trial. J Clin Anesth 24(6):439–445                       63. Ekingen G, Ceran C, Guvenc BH  et al (2005) Early enteral
+46. Jacobs A, Bergmans E, Arul GS et al (2011) The transversus  feeding in newborn surgical patients. Nutrition 21(2):142–146
+   abdominis plane (TAP) block in neonates and infants—results of 64. Prasad GR, Subba Rao JV, Aziz A et al (2018) Early enteral
+   an audit: correspondence. Pediatr Anesth 21(10):1078–1080    nutrition in neonates following abdominal surgery. J Neonatal
+47. Stevens B, Yamada J, Ohlsson A et al (2016) Sucrose for anal- Surg 7(2):21
+   gesia in newborn  infants undergoing painful procedures. 65. Terrin G, Passariello A, Canani RB et al (2009) Minimal enteral
+   Cochrane Database Syst Rev 7:CD001069                        feeding reduces the risk of sepsis in feed-intolerant very low birth
+48. Ravishankar A, Thawani R, Dewan P et al (2014) Oral dextrose weight newborns. Acta Paediatr 98(1):31–35
+   for analgesia in neonates during nasogastric tube insertion: a 66. Morgan J, Young L, McGuire W (2014) Delayed introduction of
+   randomised controlled trial: oral dextrose for analgesia in neo- progressive enteral feeds to prevent necrotising enterocolitis in
+   nates. J Paediatr Child Health 50(2):141–145                 very low birth weight infants. Cochrane Database Syst Rev
+49. Goobie S, Faraoni D, Zurakowski D (2016) Association of pre- 12:CD001970
+   operative anemia with postoperative mortality in neonates. 67. Varma S, Bartlett EL, Nam L et al (2019) Use of breast milk and
+   JAMA Pediatr 170(9):855–862                                  other feeding practices following gastrointestinal surgery in
+50. Whyte RK, Jeffries AL, Canadian Pediatric Society, Fetus and infants. J Pediatr Gastroenterol Nutr 68(2):264–271
+   Newborn Committee (2014) Red blood cell transfusion in new- 68. Agostoni C, Buonocore G, Carnielli V et al (2010) Enteral
+   born infants. Pediatr Child Health 19(4):213–217             nutrient supply for preterm infants: commentary from the Euro-
+51. Brodsky D, Gupta M, Quinn M et al (2013) Building collabora- pean Society of Paediatric Gastroenterology, Hepatology and
+   tive teams  in neonatal intensive care. BMJ  Qual  Saf       Nutrition Committee on Nutrition. J Pediatr Gastroenterol Nutr
+   22(5):374–382                                                50(1):85–91
+52. Lagoo J, Lopushinsky SR, Haynes AB et al (2017) Effectiveness 69. Quigley M, Embleton ND, McGuire W (2018) Formula versus
+   and meaningful use of paediatric surgical safety checklists and donor breast milk for feeding preterm or low birth weight infants.
+   their implementation strategies: a systematic review with narra- Cochrane Database Syst Rev 6:CD002971
+   tive synthesis. BMJ Open 7(10):e016298                   70. Kleessen B, Bunke H, Tovar K et al (1995) Inﬂuence of two
+53. Segall N, Bonifacio AS, Schroeder RA et al (2012) Can we make infant formulas and human milk on the development of the faecal
+   postoperative patient handovers safer? A systematic review of the ﬂora in newborn infants. Acta Paediatr 84(12):1347–1356
+   literature. Anesth Analg 115(1):102–115                  71. Butterworth SA, Lalari V, Dheensaw K (2014) Evaluation of
+54. Singer SJ, Molina G, Li Z et al (2016) Relationship between sodium deﬁcit in infants undergoing intestinal surgery. J Pediatr
+   operating room teamwork, contextual factors, and safety checklist Surg 49(5):736–740
+   performance. J Am Coll Surg 223(4):568–580.e2            72. Mansour F, Petersen D, De Coppi P et al (2014) Effect of sodium
+55. Penticuff JH, Arheart KL (2005) Effectiveness of an intervention deﬁciency on growth of surgical infants: a retrospective obser-
+   to improve parent-professional collaboration in neonatal intensive vational study. Pediatr Surg Int 30(12):1279–1284
+   care. J Perinat Neonatal Nurs 19(2):187–202              73. Lau ECT, Fung ACH, Wong KKY et al (2016) Beneﬁcial effects
+56. Sisson H, Jones C, Williams R et al (2015) Metaethnographic of mucous ﬁstula refeeding in necrotizing enterocolitis neonates
+   synthesis of fathers’ experiences of the neonatal intensive care with enterostomies. J Pediatr Surg 51(12):1914–1916
+   unit environment during hospitalization of their premature 74. Haddock CA, Stanger JD, Albersheim SG et al (2015) Mucous
+   infants. J Obstet Gynecol Neonatal Nurs 44(4):471–480        ﬁstula refeeding in neonates with enterostomies. J Pediatr Surg
+57. Sneath N (2009) Discharge teaching in the NICU: are parents 50(5):779–782
+   prepared? An  Integrative review of parents’ perceptions. 75. Richardson L, Banerjee S, Rabe H (2006) What is the evidence
+   Neonatal Netw 28(4):237–246                                  on the practice of mucous ﬁstula refeeding in neonates with short
+58. Browne JV, Talmi A  (2005) Family-based intervention to     bowel syndrome? J Pediatr Gastroenterol Nutr 43(2):267–270
+   enhance infant-parent relationships in the neonatal intensive care
+   unit. J Pediatr Psychol 30(8):667–677                    Publisher’s Note Springer Nature remains neutral with regard to
+59. Franck LS, Oulton K, Nderitu S et al (2011) Parent involvement jurisdictional claims in published maps and institutional afﬁliations.
+   in pain management for NICU infants: a randomized controlled
+   trial. Pediatrics 128(3):510–518
+
+
+123
+
+
+

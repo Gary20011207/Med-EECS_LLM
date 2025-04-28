@@ -1,0 +1,1238 @@
+World J Surg (2021) 45:1272–1290
+https://doi.org/10.1007/s00268-021-05994-9
+
+ ORIGINAL SCIENTIFIC REPORT
+
+Guidelines for Perioperative Care for Emergency Laparotomy
+Enhanced Recovery After Surgery (ERAS) Society
+Recommendations: Part 1—Preoperative: Diagnosis, Rapid
+Assessment and Optimization
+
+              1,2                 3                   4                   5,6                 7
+Carol J. Peden    • Geeta Aggarwal   • Robert J. Aitken  • Iain D. Anderson  • Nicolai Bang Foss •
+            8                   9                    10                 11                   12,13
+Zara Cooper    • Jugdeep K. Dhesi • W. Brenton French  • Michael C. Grant • Folke Hammarqvist     •
+             14                    15                 16               17               18
+Sarah P. Hare  • Joaquim M. Havens   • Daniel N. Holena • Martin Hu¨bner • Jeniffer S. Kim •
+               19                 20                21,22                23                     24,25
+Nicholas P. Lees   • Olle Ljungqvist • Dileep N. Lobo     • Shahin Mohseni    • Carlos A. Ordon˜ez    •
+           26                  27                  28                  29,30                   31
+Nial Quiney  • Richard D. Urman     • Elizabeth Wick • Christopher L. Wu    • Tonia Young-Fadok  •
+Michael Scott32
+
+Accepted: 30 January 2021 / Published online: 6 March 2021
+Ó The Author(s) 2021
+
+
+   Abstract
+   Background Enhanced Recovery After Surgery (ERAS) protocols reduce length of stay, complications and costs for
+   a large number of elective surgical procedures. A similar, structured approach appears to improve outcomes,
+   including mortality, for patients undergoing high-risk emergency general surgery, and speciﬁcally emergency
+   laparotomy. These are the ﬁrst consensus guidelines for optimal care of these patients using an ERAS approach.
+   Methods Experts in aspects of management of the high-risk and emergency general surgical patient were invited to
+   contribute by the International ERASÒ Society. Pubmed, Cochrane, Embase, and MEDLINE database searches on
+   English language publications were performed for ERAS elements and relevant speciﬁc topics. Studies on each item
+   were selected with particular attention to randomized controlled trials, systematic reviews, meta-analyses and large
+   cohort studies, and reviewed and graded using the Grading of Recommendations, Assessment, Development and
+   Evaluation (GRADE) system. Recommendations were made on the best level of evidence, or extrapolation from
+   studies on non-emergency patients when appropriate. The Delphi method was used to validate ﬁnal recommenda-
+   tions. The guideline has been divided into two parts: Part 1—Preoperative Care and Part 2—Intraoperative and
+   Postoperative management. This paper provides guidelines for Part 1.
+   Results Twelve components of preoperative care were considered. Consensus was reached after three rounds.
+   Conclusions These guidelines are based on the best available evidence for an ERAS approach to patients undergoing
+   emergency laparotomy. Initial management is particularly important for patients with sepsis and physiological
+   derangement. These guidelines should be used to improve outcomes for these high-risk patients.
+
+
+&  Carol J. Peden                                       Zara Cooper
+   carol.peden@med.usc.edu                              zcooper@bwh.harvard.edu
+   Geeta Aggarwal                                       Jugdeep K. Dhesi
+   geetaaggarwal@nhs.net                                Jugdeep.Dhesi@gstt.nhs.uk
+   Robert J. Aitken                                     W. Brenton French
+   rjaitken@me.com                                      william.french@vcuhealth.org
+   Iain D. Anderson                                     Michael C. Grant
+   iain.anderson@srft.nhs.uk                            mgrant17@jhmi.edu
+   Nicolai Bang Foss                                    Folke Hammarqvist
+   nbfoss@gmail.com                                     folke.hammarqvist@ki.se
+
+123
+
+
+World J Surg (2021) 45:1272–1290                                                                   1273
+
+Introduction
+
+Enhanced Recovery After Surgery (ERAS) is a multidis- of patients with advanced cancer who underwent emer-
+ciplinary structured approach which provides standardized gency laparotomy for bowel perforation [20], showed a
+evidence-based components of care to patients undergoing 30-day mortality of 34%, 52% of survivors were dis-
+speciﬁc types of surgery. To date, ERAS has largely been charged to an institution. A number of studies have shown
+applied to elective surgery but there is now evidence that wide variation not only in outcomes, but also in the
+high-risk surgical patients such as those undergoing delivery of evidence-based care to this high-risk patient
+emergency laparotomy, can also beneﬁt signiﬁcantly from group [19, 21–28]. Given the concerning nature of these
+an ERAS approach [1–11]. The term ‘‘emergency laparo- outcomes, namely high patient morbidity and mortality, a
+tomy’’ encompasses a surgical exploration of the acute number of groups worldwide started using evidence-based
+abdomen for a number of underlying pathologies [12–17]. protocolized ERAS-like approaches in the management of
+Common causes are intestinal obstruction, perforation and these patients, with signiﬁcant improvements in outcomes
+exploratory laparotomy with or without wound debride- [1–4, 6, 8, 29]. The UK established a National Emergency
+ment or abscess drainage [13–15, 17]. For these ERASÒ Laparotomy Audit (NELA), to measure process delivery
+Society guidelines the term ‘‘emergency’’ is applied to all and outcomes. Since the start of NELA data collection in
+patients with a non-elective, potentially life-threatening 2013, outcomes have improved with 30-day mortality
+intra-abdominal condition requiring surgery, excluding decreasing from 11.8% to 9.3% and performance on key
+trauma laparotomies, vascular conditions, appendectomy, process measures improving [17].
+and cholecystectomy.                                    The important difference between patients undergoing
+  Until recently patients undergoing emergency general emergency laparotomy and those undergoing elective intra-
+surgery including emergency laparotomy have been a rel- abdominal procedures is presentation of the former in a state
+atively overlooked group [15]. Just under a decade ago, of physiological derangement [13, 30]. Patients are often
+major cohort studies reported 30-day mortality for emer- older [14, 17], have co-morbidities, and 30–50% present
+gency laparotomy of between 14 and 18.5% rising to over with systemic inﬂammatory response syndrome (SIRS),
+25% in patients over 80 years of age [14, 18, 19]. A review sepsis or septic shock [13, 14, 17, 30–33]. More emergency
+                                                     patients undergo an  open  procedure rather than a
+
+   Sarah P. Hare                                        Christopher L. Wu
+   Sarah.hare1@nhs.net                                  eduwuch@hss.edu
+   Joaquim M. Havens                                    Tonia Young-Fadok
+   jhavens@bwh.harvard.edu                              youngfadok.tonia@mayo.edu
+   Daniel N. Holena                                     Michael Scott
+   Daniel.Holena@pennmedicine.upenn.edu                 Michael.Scott@Pennmedicine.Upenn.edu
+
+   Martin Hu¨bner                                    1
+   martin.hubner@chuv.ch                                Department of Anesthesiology and Gehr Family Center for
+                                                        Health Systems Science & Innovation, Keck School of
+   Jeniffer S. Kim                                      Medicine, University of Southern California, 2020 Zonal
+   Jeniffer.Kim@med.usc.edu                             Avenue IRD 322, Los Angeles, CA 90033, USA
+   Nicholas P. Lees                                  2  Department of Anesthesiology, University of Pennsylvania,
+   nick.lees@srft.nhs.uk                                3400 Spruce St, Philadelphia, PA 19104, USA
+   Olle Ljungqvist                                   3  Department of Anesthesia and Intensive Care Medicine,
+   olle.ljungqvist@oru.se                               Royal Surrey County Hospital, Guildford, Surrey, UK
+   Dileep N. Lobo                                    4  Sir Charles Gardiner Hospital, Hospital Avenue, Nedlands,
+   Dileep.Lobo@nottingham.ac.uk                         WA 6009, Australia
+   Carlos A. Ordon˜ez                                5  Salford Royal NHS Foundation Trust, Stott La,
+   ordonezcarlosa@gmail.com                             Salford M6 8HD, UK
+   Nial Quiney                                       6  University of Manchester, Manchester, UK
+   nialquiney@nhs.net
+                                                     7  Hvidovre University Hospital, Copenhagen, Denmark
+   Richard D. Urman
+                                                     8
+   rurman@bwh.harvard.edu                               Harvard Medical School, Kessler Director, Center for
+                                                        Surgery and Public Health, Brigham and Women’s Hospital
+   Elizabeth Wick                                       and Division of Trauma, Burns, Surgical Critical Care, and
+   Elizabeth.Wick@ucsf.edu                              Emergency Surgery, Brigham and Women’s Hospital, 1620,
+                                                        Tremont Street, Boston, MA 02120, USA
+
+                                                                                               123
+
+
+1274                                                                         World J Surg (2021) 45:1272–1290
+
+laparoscopic procedure for comparable surgery in the elec- healthcare professionals with diverse expertise in the
+tive setting [5]. In spite of recent improvements, emergency management of patients undergoing emergency laparo-
+laparotomy remains one of the highest risk surgical proce- tomy. The GDG consisted of surgeons, anesthesiologists,
+dures with about one in ten patients deceased 30 days after and geriatricians. A number of authors are accredited in
+surgery, rising to one in four over the age of 80 years [17]. intensive care, including the ﬁrst and last authors, or have
+Complications are common and mortality increases until at signiﬁcant experience of intensive care management of
+least 1 year [34]. Functional outcomes and return to inde- these patients. The group was also selected to ensure
+pendence can also be poor in survivors [35].         international representation. A list of topics was generated
+  These high-risk patients are likely to beneﬁt from a and groups of physicians with different backgrounds and
+structured approach with deﬁned pathways of care and from different countries were assigned to each topic, based
+organizational resource allocation to prioritize their man- on their expertise, to perform a literature review of English
+agement [26, 36]. As emergency laparotomy comprises a language publications and then to generate recommenda-
+diverse group of patients and there are a number of new tions using the GRADE structure [37]. The time period
+pathway components to be considered, we have divided searched was from  2005 until mid-2020, with greater
+these guidelines into Part One (preoperative care) and Part emphasis on recent publications, randomized controlled
+Two (intra- and postoperative care, organizational aspects trials, systematic reviews, meta-analyses and large cohort
+of management, and end of life issues). We suggest these studies. Retrospective studies were considered where no
+ERASÒ   Society Guidelines should be routinely applied to other higher level of evidence was available, and if there
+the care of patients undergoing emergency laparotomy and was particular relevance to emergency laparotomy. The
+used to audit processes and outcomes of care.        guideline development and Delphi process [38] used to
+                                                     reach consensus on recommendations were based on the
+                                                     process published by the ERASÒ Society [39]. Twelve
+Materials and methods                                components of preoperative care were considered. Three
+                                                     rounds of the Delphi process were performed.
+This project was initiated by the ERASÒ Society. Lead
+authors (CP and MS) were invited by the ERASÒ Society
+to establish a guideline development group (GDG) of
+
+9  Faculty of Life Sciences and Medicine, School of Population
+                                                     17
+   Health & Environmental Sciences, Guy’s and St Thomas’ Department of Visceral Surgery, Lausanne University
+   NHS Foundation Trust, King’s College London, Division of Hospital CHUV, University of Lausanne (UNIL), Rue du
+   Surgery & Interventional Science, University College Bugnon 46, 1011 Lausanne, Switzerland
+   London, London, UK
+                                                     18 Gehr Family Center for Health Systems Science &
+10
+   Department of Surgery, Virginia Commonwealth University Innovation, Keck School of Medicine, University of Southern
+   Health System, 1200 E. Broad Street, Richmond, VA 23298, California, 2020 Zonal Avenue IRD 322, Los Angeles,
+   USA                                                  CA 90033, USA
+11
+   Department of Anesthesiology and Critical Care Medicine, 19 Department of General & Colorectal Surgery, Salford Royal
+   Department of Surgery, The Johns Hopkins University  NHS Foundation Trust, Scott La, Salford M6 8HD, UK
+   School of Medicine, 1800 Orleans Street, Baltimore,
+                                                     20
+   MD 21287, USA                                        Department of Surgery, Faculty of Medicine and Health,
+                                                        School of Health and Medical Sciences, O¨ rebro University,
+12
+   Department of Emergency and Trauma Surgery, Karolinska O¨ rebro, Sweden
+   University Hospital, CLINTEC, Karolinska Institutet,
+                                                     21
+   Stockholm, Sweden                                    Gastrointestinal Surgery, Nottingham Digestive Diseases
+                                                        Centre and National Institute for Health Research (NIHR)
+13
+   Karolinska University Hospital, Huddinge Ha¨lsova¨gen 3. Nottingham Biomedical Research Centre, Nottingham
+   B85, S 141 86, Stockholm, Sweden                     University Hospitals and University of Nottingham, Queen’s
+14 Department of Anaesthesia, Perioperative Medicine and Medical Centre, Nottingham NG7 2UH, UK
+   Critical Care, Medway Maritime Hospital, Windmill Road, 22 MRC Versus Arthritis Centre for Musculoskeletal Ageing
+   Gillingham, Kent ME7 5NY, UK                         Research, School of Life Sciences, University of Nottingham,
+15 Division of Trauma, Burns and Surgical Critical Care, Queen’s Medical Centre, Nottingham NG7 2UH, UK
+   Brigham and Women’s Hospital, 75 Francis Street, Boston, 23 Division of Trauma and Emergency Surgery, Department of
+   MA 02115, USA                                        Surgery, Orebro University Hospital & School of Medical
+                                                                ¨                  ¨
+16 Department of Surgery and Critical Care Medicine,    Sciences, Orebro University, 701 85 Orebro, Sweden
+   University of Pennsylvania, Philadelphia, PA 19104, USA 24 Division of Trauma and Acute Care Surgery, Department of
+                                                        Surgery, Fundacio´n Valle del Lili, Cra 98 No. 18 – 49,
+                                                        760032 Cali, Colombia
+123
+
+
+World J Surg (2021) 45:1272–1290                                                                   1275
+
+Deﬁnitions                                           Commentary
+
+In these guidelines, emergency laparotomy is deﬁned in The components of a standard elective colorectal pathway
+line with criteria used by large cohort studies [16, 40] and were reviewed in relation to the patient undergoing emer-
+deﬁnitions of high-risk emergency general surgical proce- gency laparotomy [44]. However, it is the additional
+dures [41], therefore, trauma laparotomies, appendectomy, management of the acute physiological derangement
+and cholecystectomy are excluded. The majority of vas- before, during and after surgery that leads to a unique
+cular conditions are excluded such as laparotomy for vas- emergency laparotomy pathway.
+cular pathology including ruptured aortic aneurysm and
+return to theatre with complications following a vascular
+procedure. Conditions relating to bowel ischemia such as Results
+mesenteric vascular insufﬁciency are included [16, 40].
+The deﬁnition of emergency can also vary, from classiﬁ- Evidence and recommendations
+cation of the case by the surgeon and anesthesiologist as an
+emergency [14, 42] to a deﬁnition used in a major US A summary of the ERAS elements and grading of recom-
+epidemiology study of emergency surgery [32] as non- mendations with their respective level of evidence are
+elective surgery within 48 h of admission. NELA deﬁnes depicted in Table 1.
+emergencies as patients having a non-elective admission
+with a potentially life-threatening condition [40], and Preoperative phase
+urgency is deﬁned [43] as immediate, urgent (surgery
+within hours of the decision to operate) or expedited The preoperative phase of an ERAS protocol for emer-
+(surgery within days of the decision to operate where some gency laparotomy aims to rapidly correct alterations in the
+conservative management may occur initially). In these patients’ physiologic homeostasis. Management of physi-
+guidelines, the term ‘‘emergency’’ is applied to all patients ological derangement should occur alongside investigation
+with a non-elective, potentially life-threatening intra-ab- and diagnosis. Surgery is a key component to correction of
+dominal condition requiring surgery.                 the underlying pathology and when appropriate should
+                                                     occur without delay. The following evidence-based com-
+                                                     ponents should be incorporated into a preoperative path-
+                                                     way  of care for each  patient undergoing emergency
+                                                     laparotomy. Organization of care to ensure these key
+                                                     components are delivered reliably, by highly skilled per-
+25 Seccio´n de Cirugı´a de Trauma Y Emergencias, Universidad sonnel, to all patients regardless of location and type of
+   del Valle – Hospital Universitario del Valle, Cl 5 No. 36-08, presentation is one of the main challenges to improving
+   760032 Cali, Colombia
+                                                     care for these high-risk patients. [25–28, 33, 36].
+26 Department of Anesthesia and Intensive Care Medicine,
+   Royal Surrey County Hospital, Egerton Road,
+   Guildford, Surrey GU5 7XX, UK                     1. Early identiﬁcation of physiological derangement,
+                                                     and intervention
+27 Department of Anesthesiology, Perioperative and Pain
+   Medicine, Brigham and Women’s Hospital / Harvard
+   Medical School, 75 Francis Street, Boston, MA 02115, USA ERAS protocols are designed to minimize the physiologi-
+28                                                   cal impact and stress response of the surgical insult. For
+   Department of Surgery, University of California San
+   Francisco, 513 Parnassus Ave HSW1601, San Francisco, patients who require emergency laparotomy the insult and
+   CA 94143, USA                                     physiological derangement driven by inﬂammation, surgi-
+29 Department of Anesthesiology, Critical Care and Pain cal stress and decompensation, are already occurring prior
+   Medicine-Hospital for Special Surgery, 535 East 70th Street, to the surgery. Resuscitation must go hand in hand with
+   New York, NY 10021, USA                           diagnostic interventions and preparation for surgery.
+30 Department of Anesthesiology, Weill Cornell Medicine, 535 Optimization consists of two parts: (1) patient optimization
+   East 70th Street, New York, NY 10021, USA         and (2) system  optimization regarding availability of
+31 Division of Colon and Rectal Surgery, Department of facilities and efﬁcient care pathways [45]. Physiological
+   Surgery, Mayo Clinic College of Medicine, Mayo Clinic derangements at presentation include a marked stress
+   Arizona, 5777 E. Mayo Blvd, Phoenix, AZ 85054, USA response, gut dysfunction, insulin resistance, ﬂuid shifts,
+32 Department of Anesthesiology and Critical Care Medicine, SIRS and sepsis with varying degrees of organ dysfunction
+   University of Pennsylvania, 3400 Spruce St, Philadelphia, [12, 30]. Emergency surgical patients may be hypovolemic
+   PA 19104, USA
+                                                     with a potential critical impact on renal function and
+                                                                                               123
+
+
+1276                                                                                    World J Surg (2021) 45:1272–1290
+
+Table 1 ERAS Emergency laparotomy preoperative phase guideline review by delphi method [38, 39]
+ERAS item                      Guideline                                                    Level of  Recommendation
+                                                                                            evidence  grade
+
+1. Early identiﬁcation of      Resuscitation and correction of underlying physiological derangement High Strong
+  physiological derangement and  should begin immediately and should continue during diagnostic
+  intervention                   pathways
+                               Rapid assessment of the patient for physiological derangement using a High Strong
+                                 validated method such as an early warning scoring system should
+                                 occur. Abnormal scores should trigger rapid escalation to senior
+                                 personnel in line with pre-established local protocols. While awaiting
+                                 surgery patients should have regular re-evaluation with a frequency
+                                 dictated by local physiological track and trigger protocols
+2. Screen and monitor for      All patients for emergency laparotomy should be assessed with a High   Strong
+  sepsis and                     validated sepsis score as early in their presentation as possible. This
+  accompanying physiological     should be repeated at appropriate intervals in line with severity of
+  derangement                    signs, and sepsis risk stratiﬁcation guidance
+                               If SIRs, sepsis or septic shock is diagnosed, treatment should begin High Strong
+                                 immediately in line with the Surviving Sepsis recognized management
+                                 algorithms including measurement of lactate
+                               Prompt antibiotic administration should occur in line with existing High Strong
+                                 international guidelines on sepsis management when signs of sepsis are
+                                 present, or when the underlying surgical pathology makes the patient at
+                                 high risk of infection or sepsis such as patients with peritonitis or
+                                 hollow viscus perforation. Speciﬁc antibiotic choice should be guided
+                                 by local protocols in line with antimicrobial stewardship. Delay to
+                                 antibiotic administration in patients with sepsis increases mortality
+                               Monitoring of blood lactate as a marker of risk and in monitoring of High Strong
+                                 response to resuscitation should be considered even in the absence of
+                                 sepsis
+3. Early imaging, surgery, and Delay to surgery increases mortality in patients with sepsis and septic High Strong
+  source control of sepsis       shock. All patients with septic shock should receive source control with
+                                 surgery or interventional radiology as soon as possible and within 3 h.
+                                 For patients with sepsis without septic shock source control should
+                                 occur within 6 h
+                               Perform a CT scan with IV contrast as soon as possible if indicated. The High Strong
+                                 CT scan should be reviewed by a radiologist immediately. Acquiring a
+                                 CT scan should not cause a delay to surgery if surgery is very urgent
+4. Risk assessment             A risk score using a validated model should be performed on all patients High Strong
+                                 prior to surgery and at the end of surgery. The score can be used to
+                                 guide pathways of care and facilitate discussion between team
+                                 members, and with patients and family on treatment, risks and
+                                 limitations
+5. Age-related evaluation of frailty, All patients over 65 years of age, and others at high risk, for example, High Strong
+  and cognitive assessment       patients with cancer, should be assessed for frailty using a validated
+                                 frailty score
+                               Perform a validated simple assessment of cognitive function such as the Moderate Strong
+                                 Mini-CogÒ in all patients over 65 years of age if time permits. For
+                                 patients who are at risk for delirium and postoperative cognitive
+                                 dysfunction take steps to keep the patient oriented and avoid drugs
+                                 known to cause harm as deﬁned in the Beers’ criteria
+                               All patients over 65 should have regular delirium screening pre and High Strong
+                                 postoperatively with a validated assessment method
+                               Patients over 65 years of age should be assessed by a physician with Low Strong
+                                 expertise in care of the older patient (geriatrician) preoperatively and
+                                 evidence-based elder-friendly practices used. If preoperative
+                                 assessment is not possible refer for postoperative follow-up
+ERAS item                      Guideline                                                    Level of  Recommendation
+                                                                                            evidence  grade
+
+123
+
+
+World J Surg (2021) 45:1272–1290                                                                                 1277
+
+Table 1 continued
+ERAS item                      Guideline                                                    Level of  Recommendation
+                                                                                            evidence  grade
+
+6. Reversal of antithrombotic  Strongly consider reversal of home anticoagulation medications when Moderate Strong
+  medications                    major surgical intervention is planned. This decision should be based
+                                 on both the patient’s risk of procedure-related bleeding and the risk of
+                                 thromboembolism
+                               Consider platelet transfusion in patients taking antiplatelet therapy when Low Weak
+                                 the planned procedural bleeding risk is high. In patients with a strong
+                                 indication for antiplatelet therapy, specialty consultation should be
+                                 obtained for perioperative co-management of these medications
+7. Assessment of venous        Patients should be risk assessed with a validated tool for VTE risk on High Strong
+  thromboembolism risk           admission. If pharmaceutical prophylaxis is not possible mechanical
+                                 prophylaxis should be used. Reassessment should occur daily
+                                 postoperatively
+8. Pre-anesthetic medication – Sedative medication should be avoided preoperatively to avoid the risk of Moderate Strong
+  anxiolysis and analgesia       micro-aspiration, hypoventilation and delirium
+                               Analgesia should be given to alleviate the patient’s pain and stress High Strong
+                               Multi modal opioid-sparing analgesia should be titrated to effect to High Strong
+                                 maximize comfort and minimize side-effects
+9. Preoperative glucose and    Hyperglycemia and hypoglycemia are risk factors for adverse  Moderate  Weak
+  electrolyte management         postoperative outcomes. Preoperatively, glucose levels should be
+                                 maintained at 144-180 mg/dL (8-10 mmol/L), a variable rate (sliding
+                                 scale) insulin infusion should be used judiciously to maintain blood
+                                 glucose in this range with appropriate monitoring of point of care blood
+                                 glucose in line with local protocols, to avoid hypoglycemia
+                               Correction of potassium and magnesium prior to surgery should be done Moderate Weak
+                                 using the intravenous route with appropriate monitoring and following
+                                 local hospital policy. However, it should not delay the patient being
+                                 taken to the operating room
+10. Preoperative carbohydrate  Authors could not recommend use of preoperative carbohydrate loading
+  loading                        in the emergency laparotomy population
+11. Preoperative nasogastric   Preoperative nasogastric tube insertion should be considered on an Moderate Strong
+  intubation                     individual basis assessing for the risk of aspiration and gastric
+                                 distension depending on the pathology and patient factors
+12. Patient and family education Patients and families should have the opportunity to discuss the risk of Low Strong
+  and shared decision making     surgery with a senior physician (this could be the surgeon,
+                                 anesthesiologist or intensive care physician) prior to surgery.
+                                 Counselling should be informed by a validated risk score but with the
+                                 clear understanding that scores have limitations when applied to
+                                 individual patients. When appropriate, treatment escalation plans and
+                                 advance care plans should be discussed and documented
+                               Clear, concise, written information or decision aids combined with verbal Low Strong
+                                 patient education should be provided to the patient and family before
+                                 surgery if possible
+
+circulation. These derangements require early recognition   Preoperative goal-directed ﬂuid therapy was used in two of
+and management with a sense of urgency. There is little     the multimodal cohort studies which showed signiﬁcant
+evidence supporting delay for optimization prior to surgery reduction in mortality [3, 29]. Another small study used a
+in this patient category [1, 3, 17, 29, 46]. Some cohort    goal-directed ﬂuid optimization protocol in the preopera-
+studies have used standardized perioperative care protocols tive holding room in patients with perforated peptic ulcer
+including screening and management of sepsis in line with   and showed reduced length of stay and mortality compared
+the Surviving Sepsis Campaign [46] such as initial circu-   with a usual management control group [47]. Lactate gui-
+latory and respiratory stabilization, early goal-directed ﬂuid ded resuscitation of patients with septic shock has been
+therapy, thorough   and  invasive  monitoring   of vital    shown to reduce mortality [46] and may be beneﬁcial in
+parameters, and minimization of surgical delay. These       patients undergoing emergency laparotomy. The issue is
+studies have shown a reduction in mortality [1, 3, 6, 29].  not whether to delay for optimization but rather that staff
+
+                                                                                                            123
+
+
+1278                                                                         World J Surg (2021) 45:1272–1290
+
+competent in the management of signiﬁcant physiological for those with SIRS, and 6.7 for patients with septic shock
+derangement must be involved at the earliest possible [54]. A study of 360,000 general surgical patients from the
+stage.                                               NSQIP database found that the presence of any comor-
+  The pathophysiological abnormalities vary depending bidity increased the risk of sepsis and septic shock six-fold,
+on the patient’s underlying health and co-morbidities, and increased 30-day mortality 22-fold [55]. The three
+metabolic and immune status [48], and the underlying major risk factors for sepsis and septic shock were age [
+disorder and the duration of injury before presentation 60 years, comorbidity and emergency surgery. The
+[27, 30, 36]. Patients who undergo emergency laparotomy authors commented that these patients would beneﬁt from
+represent only a fraction of the total volume of emergency mandatory sepsis screening in order not to miss the win-
+general surgical cases but constitute the overwhelming dow of early intervention in which the septic source must
+majority of cases resulting in mortality and morbidity [32]. be eliminated, and physiologic derangements corrected.
+Use of physiological track and trigger systems [49] such as The presence of hypotension secondary to sepsis has a
+Early Warning Scores have been found to be highly pre- particularly poor outcome [55–58], with one large study of
+dictive for severity of outcome including ICU admission perforated peptic ulcer showing a 6% increased odds of
+and mortality in emergency surgical patients [50]. Scoring 90-day mortality on adjusted risk analysis per hour delay to
+systems found to be predictive in emergency surgical surgery in patients with preoperative hypotension [57].
+patients include the Acute Physiological and Chronic Clinicians should have a high index of suspicion of sepsis
+Health Evaluation (APACHE II), Physiological and Oper- when assessing emergency surgery patients.
+ative Severity Score for the enUmeration of Mortality   The Sepsis 3 guidelines [59] recommend the use of
+(POSSUM), Portsmouth-POSSUM    (P-POSSUM), Modi-     quick Sepsis-related Organ Failure Assessment (qSOFA)
+ﬁed Early Warning Score (MEWS) and National Early    as a screening tool to identify patients who are at risk of
+Warning Score (NEWS) (UK) [51]. In particular deterio- developing sepsis and septic shock. A positive qSOFA
+rating early warning scores, in comparison to stable or score should prompt further investigation for organ dys-
+improving scores, are highly predictive of mortality [52]. function, to initiate or escalate therapy as appropriate, and
+  Recommendations:                                   to consider referral to critical care or increase the fre-
+                                                     quency of monitoring. The qSOFA score may have limi-
+•  Resuscitation and correction of underlying physiolog-
+                                                     tations for emergency surgery patients and the use of the
+   ical derangement should begin immediately and should
+                                                     EWS to identify deterioration due to sepsis outperformed
+   continue during diagnostic pathways.
+                                                     SIRS and qSOFA score in one large study [51]. In a review
+•  Rapid  assessment of the patient for physiological
+                                                     of sepsis-screening tools for surgery, it was noted that signs
+   derangement using a validated method [49] such as
+                                                     of sepsis in surgical patients may be diffuse and there is no
+   an Early Warning Scoring (EWS) system should occur.
+                                                     perfect screening tool—what is clear is that when screening
+   Abnormal scores should trigger rapid escalation to
+                                                     tools are used there is increased recognition of sepsis [60].
+   senior personnel in line with pre-established local
+                                                        Once sepsis is suspected clinically, validated manage-
+   protocols. While awaiting surgery patients should have
+                                                     ment algorithms should be completed with a sense of
+   regular re-evaluation, with a frequency dictated by
+                                                     urgency [46, 61, 62]. These algorithms all include the
+   local physiological track and trigger protocols.
+                                                     empiric administration of broad-spectrum antibiotics (after
+                                                     relevant cultures have been obtained when possible), and
+  Level of evidence: High.                           cardiovascular resuscitation using intravenous ﬂuids titra-
+  Recommendation grade: Strong.                      ted to clinical endpoints. Speciﬁc antibiotic choice should
+                                                     be guided by local protocols in line with antimicrobial
+                                                     stewardship. Further evaluation and escalation should also
+2. Screen and monitor for sepsis and accompanying    follow these algorithms (Fig. 1). The NELA 2019 report
+physiological derangement                            found that there was major room for improvement in speed
+                                                     and urgency of management with only 19%  of patients
+The presence of sepsis should be considered in all patients with suspected sepsis receiving antibiotics within the ﬁrst
+undergoing emergency surgery at presentation. One large hour [17]. Studies have shown an association between early
+prospective study found an incidence of over 20% of sepsis risk scoring, active management and a reduction in mor-
+or septic shock in patients presenting to an emergency tality [1, 17]. Blood lactate has been used as a marker of
+general surgical service [53]. Upregulation of the inﬂam- risk [63], and in monitoring of response to resuscitation in
+matory response as occurs with SIRS and sepsis is a major line with the Surviving Sepsis guidelines [46, 63].
+contributor to death; one major study found an increased Recommendations:
+hazard ratio of death in emergency surgical patients of 1.9
+
+123
+
+
+World J Surg (2021) 45:1272–1290                                                                   1279
+
+ Fig. 1 The hour-1 surviving
+ sepsis campaign bundle of care.
+ From Levy et al. [63]
+
+
+•  All patients for emergency laparotomy should be   perforation with septic shock found no patients survived to
+   assessed with a validated sepsis score as early in their 60 days if surgery was delayed more than 6 h [66]. In
+   presentation as possible. This should be repeated at another Danish cohort of all high-risk emergency laparo-
+   appropriate intervals in line with severity of signs and tomy patients including those with obstruction as well as
+   sepsis risk stratiﬁcation guidance [61, 63].      perforation, no statistically signiﬁcant adjusted association
+•  If SIRS, sepsis or septic shock are diagnosed, or when between delay and surgical mortality at 90 days was found
+   the underlying surgical pathology makes the patient at [67]. In a study from the NELA database, speciﬁcally
+   high risk of infection or sepsis, such as patients with focusing on small bowel obstruction, increased mortality
+   peritonitis or hollow viscus perforation, treatment was found for patients delayed more than 72 h [68]. In a
+   should begin immediately in line with the Surviving multi-center study of septic patients in German ICUs when
+   Sepsis management algorithms including measurement source control was needed, a delay of 6 h or more was
+   of lactate [46]. Delay to antibiotic administration in associated with increased mortality [69]. Multimodal
+   patients with sepsis increases mortality [64].    perioperative cohort intervention studies in emergency
+•  Monitoring of blood lactate as a marker of risk and in laparotomy have all had a surgical delay target of \ 6h
+   assessment of physiological response to resuscitation from time of decision to operate to surgery, and have been
+   should be considered even in the absence of sepsis. associated with improved outcome [1, 3, 6, 29]. However,
+                                                     none of these studies have analyzed the impact of delay on
+                                                     survival in patients with perforation versus patients with
+  Level of evidence: High-large prospective cohort studies obstruction. While these two clinical entities comprise the
+  and international guidelines.                      majority of indications for emergency laparotomy, the
+  Recommendation grade: Strong.                      initial pathophysiology may be quite different. Patients
+                                                     with perforations often present with sepsis and the data are
+3. Early imaging, surgery, and source control of sepsis very clear that there should be minimal delay to surgical
+                                                     intervention, while the perioperative pathophysiology of
+Delay to surgical intervention can be due to any or all of patients with obstruction is poorly researched and the
+the following: delayed diagnosis, preoperative therapeutic impact of delay and  resuscitation less clear
+interventions/optimization or logistics. However, delay for [3, 57, 65, 66, 68, 70]. Standards for time to surgery have
+patients undergoing emergency laparotomy can lead to been set in the UK by the Royal College of Surgeons
+increased mortality. In a Danish National cohort of perfo- [70, 71] and monitored by NELA and have been shown to
+rated peptic ulcers, there was a 2.4% decreased probability be achievable at the 80% level [17].
+of survival for every hour delay from hospital admission Recommendations:
+[65]. A large UK study of perforated peptic ulcer found that • Delay to surgery increases mortality in patients with
+for patients in shock there was an increase of 6% in risk- sepsis and septic shock. All patients with septic shock
+adjusted odds of death for every hour laparotomy was    should receive source control with surgery or interven-
+delayed after admission [57]. A small Japanese study of tional radiology as soon as possible and within 3 h. For
+
+                                                                                               123
+
+
+1280                                                                         World J Surg (2021) 45:1272–1290
+
+   patients with sepsis without septic shock, source control involvement of highly experienced staff and helps direct
+   should occur within 6 h.                          discussion with the patient and family. There are a number
+                                                     of surgical or disease-speciﬁc risk prediction tools [76–80].
+                                                     Some, such as the Portsmouth-POSSUM   (P-POSSUM)
+  Level of evidence: High-large prospective cohort stud- score [77], were developed many years ago for retrospec-
+  ies, large  retrospective cohort studies, national tive comparison of observed and expected outcomes when
+  guidelines.                                        all variables are known. There is some concern regarding
+  Recommendation grade: Strong.                      over-interpretation of individual patient preoperative pre-
+                                                     diction when these scores are used prospectively, and some
+Radiological investigation Examination and identiﬁca- variables must be estimated. Risk prediction scores give a
+tion of clinical signs are the main means of diagnosis of an population risk based on a risk model, scores can over and
+acute abdomen. However, patients who undergo emer-   under-estimate risk for individual patients and clinicians
+gency laparotomy present both in the emergency depart- must be cautious in using these scores for prognosticating
+ment and on hospital wards, with complications secondary patient outcomes. An example is a patient with a perforated
+to primary surgery or initial misdiagnosis of their condi- peptic ulcer, who is acutely unwell with markedly deranged
+tion. NELA has shown signiﬁcant delays to surgical review physiology and a very high-risk score, but who may beneﬁt
+(up to 8 times longer) if the initial presentation is to an from rapid relatively simple surgery.
+internal medicine team [17]. The gold standard for diag- The large number of patients in the NELA database and
+nosis is abdominal computed tomography (CT) scan with the American College of Surgeons NSQIP database have
+intravenous contrast, which is recommended as ‘‘usually allowed development of speciﬁc risk tools for patients
+appropriate’’ for all presentations of acute abdomen unless undergoing emergency laparotomy which more consis-
+eGFR is less than 30 (mL/min/1.73 m2)[72]. Intravenous tently predict the actual risk for high-risk patients [78, 79].
+contrast improves diagnostic information and the risk of A recent review comparing the NELA tool with ACS-
+allergic reaction or acute kidney injury to iodinated con- NSQIP, P-POSSUM and APACHE II found the NELA
+trast is minimal [73, 74]. CT scans allow surgeons to score showed the highest discrimination with an area under
+visualize the problem and plan an optimal approach with the curve (AUC) of 0.83, ACS-NSQIP had an AUC of 0.80
+the goal of reducing complications. However, CT scans [81]. When a risk score was calculated retrospectively on
+and other diagnostic tests can present a time delay, and patients in the NELA dataset who had not been risk scored
+optimal diagnostic pathways to minimize delay should be preoperatively or at the end of surgery, those patients were
+used [75].                                           less likely to have potentially protective perioperative
+  Recommendation:                                    interventions such as planned postoperative critical care
+                                                     admission, and had poorer outcomes than a risk matched
+  Perform a CT scan with IV contrast as soon as possible if cohort who had prospective risk scoring performed [17].
+  indicated. The CT  scan should be reviewed by a    Having a risk score available preoperatively may facilitate
+  radiologist immediately. Acquiring a CT scan should communication and planning for patient care. An ethno-
+  not cause a delay to surgery if surgery is very urgent. graphic study of surgical teams, particularly those who did
+  Level of evidence: High.                           not routinely manage emergency surgical patients, found
+  Recommendation grade: Strong.                      that use of a score enhanced inter-professional communi-
+                                                     cation and decision making [82].
+4. Risk assessment                                      Most risk prediction tools do not directly adjust for
+                                                     certain relatively uncommon co-morbidities and some
+Risk assessment has become an important tool to support speciﬁc acute abdominal pathologies (other than cancer)
+clinical assessment in management of patients undergoing which probably impact signiﬁcantly on the survivability of
+emergency laparotomy [70]. Risk scoring was promoted in an emergency laparotomy. Examples include a patient with
+the ﬁrst Higher Risk Surgical patient guidelines in the UK a severe neurological condition or a patient with bowel
+[71], as many laparotomy patients were not receiving care infarction. When applying a risk prediction tool to an
+appropriate to their risk, such as planned admission post- individual patient it is prudent to consider whether there are
+operatively to an ICU. Clinical teams, inexperienced in additional risk-altering variables present that have not been
+management of emergency laparotomy, underestimated the taken into account in any calculation. Additionally, these
+potential for poor outcome. A risk score facilitates com- models are derived from patients who underwent surgery
+munication amongst clinical teams about priorities and and do not include those evaluated for surgery but declined
+pathways  including  for  patient transfer, prompts  secondary to prohibitive risk.
+                                                        Recommendation:
+123
+
+
+World J Surg (2021) 45:1272–1290                                                                   1281
+
+•  A  risk score using a validated model should be   signiﬁcant reduction in mortality, length of stay and dis-
+   performed and documented on all patients prior to charge to a higher level of care [95]. Proactive manage-
+   surgery, and at the end of surgery. The score can be ment of these frail patients may also decrease the costs of
+   used to guide pathways of care and facilitate discussion care [97, 98]. At present the evidence indicates that most
+   between team members and with patients and family on older emergency laparotomy patients are not reliably
+   treatment, risks and limitations.                 assessed for frailty nor co-managed with a care of the
+                                                     elderly team [17].
+
+  Level of evidence: High.                           Delirium  and  perioperative neurocognitive disorders
+  Recommendation grade: Strong.                      Patients over 65 years of age who undergo emergency
+                                                     surgery are at particular risk for delirium and perioperative
+5. Age-related evaluation of frailty, and cognitive  neurocognitive disorders [99–101]. All patients over
+assessment                                           65 years of age and any with risk factors for preexisting
+                                                     cognitive impairment should have a baseline assessment of
+Age and frailty are not the same. Frailty is deﬁned as an cognition with a simple screening tool [102–105] and a
+age-related state of decreased physiologic reserve [83]. All preoperative assessment of delirium. Patients should be
+the large studies show that age alone is signiﬁcantly monitored regularly for delirium with awareness that
+associated with poor outcomes for emergency laparotomy hypoactive delirium occurs more commonly than an agi-
+[14]. In NELA mortality for patients over 80 years old in tated delirious state and has a poorer outcome [106]. The
+particular, remains very high at 17% at 30 days and 22% at American College of Surgeons and the American Geriatric
+90 days [17]. Clearly the risk for these patients is so high Society (AGS) have joint guidelines on how to prevent,
+that if emergency surgery is to be performed meticulous diagnose and care for delirium in the surgical patient [104].
+delivery of all evidence-based pathway components is If delirium should occur, it is associated with increased
+essential. An ERAS approach has been shown to reduce mortality, complications, readmission, and long-term cog-
+mortality in patients over the age of 70 [1, 6]. A systematic nitive decline [107, 108]. Delirium is preventable in about
+review found an ERAS approach to be beneﬁcial for older 40% of cases with simple steps [104, 109, 110] and
+patients undergoing emergency surgery [7]. Many of these avoidance of drugs that fall under AGS Beers criteria
+patients will also be frail, resulting in a lack of resilience in drugs, such as benzodiazepines and anticholinergics
+the face of a physiological insult [84–87], and a validated [109, 111] Table 2. Incorporation of a ‘‘hospital elder life
+frailty assessment [70, 83, 88, 89] should be performed if program’’ with simple measures such as mouth care and
+possible acknowledging the limitations in the acute envi- regular orienting communication for patients undergoing
+ronment. Frail patients and those with cognitive impair- major elective intra-abdominal surgery demonstrated a
+ment have a higher risk of mortality and morbidity which signiﬁcant reduction in the incidence of delirium [110].
+may not be captured by the commonly used surgical risk  Recommendations:
+scores [70, 81, 90]. In a study of outcomes at 12 months in • All patients over 65 years of age, and others at high
+older patients after emergency laparotomy, the strongest risk, for example patients with cancer, should be
+predictors of mortality were frailty and increased American assessed for frailty using a validated frailty score [83].
+Society of Anesthesiologists (ASA) status [91]. Involve- Evidence: High.
+ment of a physician specialized in the care of older adults Recommendation grade: Strong.
+to co-manage these patients, and/or the use of targeted • Perform a validated simple assessment of cognitive
+interventions should occur as soon as possible and is   function such as the Mini-CogÒ [112] in all patients
+associated with better outcomes. The strongest evidence for over 65 years of age if time permits. For patients who
+comprehensive geriatric assessment exists for patients with are at risk for delirium and postoperative cognitive
+hip fractures [92–95], but a recent paper shows postoper- dysfunction take steps to keep the patient oriented and
+ative geriatrician review was associated with reduced   avoid drugs known to cause harm as deﬁned in the
+mortality in patients over the age of 65 years undergoing Beers’ criteria [111].
+emergency laparotomy [26, 96]. Another recent study using Level of evidence: Moderate.
+a proactive approach for patients over 65 years presenting Recommendation grade: Strong.
+for emergency general surgery with integration of a geri- • All patients over 65 should have regular delirium
+atric assessment team, optimization of evidence-based   screening pre and postoperatively with a validated
+elder-friendly practices, promotion of patient-oriented assessment method [113].
+rehabilitation, and early discharge planning found a
+
+                                                                                               123
+
+
+1282                                                                         World J Surg (2021) 45:1272–1290
+
+Table 2 Medications commonly given in perioperative care that should be avoided or used with caution in patients over 65 year of age adapted
+from the 2019 American geriatric society Beers criteria [111] and Berger et al. [103]
+Medication or class of medication Examples                      Rationale for avoiding
+
+First generation antihistamines   Diphenhydramine, Chlorpheniramine Central anticholinergic effects
+Phenothiazine-type antiemetics    Prochlorperazine, Promethazine Central anticholinergic effects
+Antispasmodics/anticholinergics   Atropine, Scopolamine         Central anticholinergic effects
+Antipsychotics(ﬁrst and second generation) Haloperidol          Risk of cognitive impairment, delirium, neuroleptic
+                                                                  malignant syndrome, tardive dyskinesia
+Benzodiazepines                   Midazolam, Diazepam, Temazepam Risk of cognitive impairment, delirium
+Benzodiazepine receptor agonist hypnotics Zolpidem, Eszopiclone Delirium, falls
+  ‘‘ Z drugs’’
+Corticosteroids                   Hydrocortisone, Methylprednisolone Risk of cognitive impairment, delirium, psychosis
+
+H2-receptor antagonists           Ranitidine                    Risk of cognitive impairment, delirium
+Metoclopramide                                                  Extrapyramidal effects
+Pethidine/Meperidine                                            Neurotoxic effect
+
+H2, histamine 2 receptor.
+
+   Level of evidence: High.                          (PTT) among others should be obtained preoperatively
+   Recommendation grade: Strong.                     where appropriate, although conventional clotting studies do
+•  Patients over 65 years of age should be assessed by a not help with low molecular weight heparin or DOACs. A
+   physician with expertise in care of the older patient variety of platelet function tests are available and should be
+   (geriatrician) pre-operatively and evidence-based elder- considered for patients taking antiplatelet therapy
+   friendly practices used. If preoperative assessment is [124, 125]. The decision to reverse antithrombotic medica-
+   not possible refer for postoperative follow-up.   tion should be based on the patient’s immediate need for
+                                                     surgery, the risk of associated bleeding, and the risk of
+                                                     thromboembolism [121, 122].
+  Level of evidence: Low.
+  Recommendation grade: Strong.                      Anticoagulants (Warfarin,  DOACs,   Heparin/Enoxa-
+                                                     parin)  Prothrombin complex concentrate (PCC) and fresh
+6. Reversal of antithrombotic medications            frozen plasma may be administered and titrated to the
+                                                     required effect in these cases [121, 122]. Speciﬁc reversal
+Anticoagulants and platelet function inhibitors Long-term agents exist for DOAC medications and can be used if
+antiplatelet and anticoagulation use is increasingly common available. Dabigatran has a reversal agent idarucizumab
+in many populations, and their management in emergency [126] and recombinant factor Xa functions to reverse
+surgery is complex. Patients undergoing  emergency   apixaban and rivaroxaban [127].
+laparotomy are at high risk of perioperative hemorrhage and Recommendation:
+thrombosis, given both the nature of their procedure and the • Strongly consider reversal of home anticoagulation
+underlying coagulopathy of sepsis and systemic inﬂamma- medications when   major surgical intervention is
+tion [114]. Hemorrhage following surgery is highly-associ- planned. This decision should be based on both the
+ated with end-organ dysfunction and mortality in emergency patient’s risk of procedure-related bleeding and the risk
+general surgical patients [115–119]. Reversal of these agents of thromboembolism.
+or their effects prior to emergent surgery, when possible,
+may reduce the risk of perioperative hemorrhage. Vitamin K
+antagonists such as warfarin are common, although newer Level of evidence: Moderate.
+direct-acting oral anticoagulants (DOACs) are increasingly Recommendation grade: Strong.
+used [120]. Guidance on reversal of speciﬁc antithrombotic
+medications and platelet function inhibitors has been pub-
+                                                     Platelet inhibitors: (including Aspirin, Clopidogrel,
+lished by various societies and is beyond the scope of this
+                                                     Dipyridamole, Ticagrelor) Patients taking antiplatelet
+article [121–124]. To guide management decisions, coagu-
+                                                     medications may be considered for platelet transfusion if
+lation tests including international normalized ratio (INR),
+                                                     warranted given the risk of bleeding from the planned
+prothrombin time (PT), and partial thromboplastin time
+
+123
+
+
+World J Surg (2021) 45:1272–1290                                                                   1283
+
+operation. There is some evidence that transfused platelets 8. Pre-anesthetic medication—anxiolysis and analgesia
+may partially reverse the effects of these medications
+[122, 128]. If a patient is taking only aspirin at the time of Patients with an acute abdomen often require strong anal-
+surgery, many surgeons elect to proceed without reversal gesia. Pain should be assessed, and an appropriate inter-
+[121, 129]. Patients taking dual antiplatelet therapy are vention should be made using multimodal analgesic
+likely at higher risk of bleeding complications and trans- titration and by minimizing the amount of opioid used to
+fusion [125, 130]. P2Y12 and aspirin response assays are achieve effective analgesia. Opioids increase the risk of a
+available in some hospitals to assess the impairment of patient being over-sedated, hypo-ventilating and even
+platelet function by these drugs. If the risk of surgical delay aspirating, so appropriate monitoring should be performed.
+is high, a reasonable approach may be to proceed to sur- The addition of benzodiazepines or other sedative agents
+gery and transfuse platelets if excess bleeding is encoun- compound these risks and should be avoided, and can
+tered [125]. For patients with recent coronary artery increase the risk of postoperative delirium in older patients
+stenting, given the risk of adverse cardiac events consul- [106]. The use of preoperative nerve blocks such as
+tation and co-management of antiplatelet therapy with a transversus abdominis plane (TAP) blocks prior to surgery
+cardiologist is recommended.                         do not address the peritoneal and visceral pain of an acute
+  Recommendation:                                    abdomen. Therefore, opioids are often necessary in addi-
+                                                     tion to other multimodal agents. Non-steroidal anti-in-
+•  Consider platelet transfusion in patients taking anti-
+                                                     ﬂammatory drugs (NSAIDs) are best avoided, due to the
+   platelet therapy when the planned procedural bleeding
+                                                     high risk of acute kidney injury (AKI) in this population,
+   risk is high. In patients with a strong indication for
+                                                     until postoperatively when renal function has normalized
+   antiplatelets, specialty consultation should be obtained
+                                                     [44, 135, 136].
+   for perioperative co-management of these medications.
+                                                        Recommendations:
+                                                     •  Sedative medication should be avoided preoperatively
+  Level of evidence: Low.                               to avoid the risk of micro-aspiration, hypoventilation
+  Recommendation grade: Weak.                           and delirium.
+
+7. Assessment of venous thromboembolism risk
+                                                       Evidence: Moderate.
+                                                       Recommendation grade: Strong.
+Compared with elective surgical patients undergoing a
+comparable intra-abdominal procedure, emergency patients • Analgesia should be given to alleviate the patient’s pain
+are at increased risk of venous thromboembolism (VTE)   and stress.
+[131, 132]. Patients should be assessed for risk with a
+validated tool at admission, and VTE prophylaxis (me-
+chanical and/or pharmacologic) should be initiated as soon Evidence: High.
+as possible even if surgery is planned [131, 133, 134]. If Recommendation grade: Strong.
+pharmaceutical prophylaxis is not an option, mechanical • Multi modal opioid-sparing analgesia should be titrated
+prophylaxis should be used. The patient should be reas- to effect to maximize comfort and minimize side-
+sessed at regular intervals pre and postoperatively [131]. effects.
+  Recommendation:
+•  Patients should be risk assessed with a validated tool
+   for VTE risk on admission. If pharmaceutical prophy- Evidence: High.
+   laxis is not possible mechanical prophylaxis should be Recommendation grade: Strong.
+   used. Reassessment should occur daily postoperatively
+   [131].                                            9. Preoperative glucose and electrolyte management
+
+                                                     Perioperative glucose control is important to maintain body
+  Level of evidence: Strong (extrapolated from studies in homeostasis and reduce downstream complications [137].
+  elective major abdominal surgery).                 Hyperglycemia  during and after surgery is common,
+  Recommendation grade: Strong.                      occurring in 20–40% of elective surgical patients, particu-
+                                                     larly in diabetic patients or those with impaired glucose
+                                                     tolerance. Elevated blood glucose impairs neutrophil
+
+                                                                                               123
+
+
+1284                                                                         World J Surg (2021) 45:1272–1290
+
+function and can cause overproduction of inﬂammatory    Recommendations:
+mediators, reactive oxygen species and free fatty acids
+                                                     •  Hyperglycemia and hypoglycemia are risk factors for
+causing direct cellular damage, vascular endothelial changes
+                                                        adverse postoperative outcomes. Pre-operatively, glu-
+and immune dysfunction. Substantial evidence indicates that
+                                                        cose levels should be maintained at 144–180 mg/dL
+correction of hyperglycemia with insulin administration
+                                                        (8–10 mmol/L), a variable rate (sliding scale) insulin
+reduces hospital complications and decreases mortality in
+                                                        infusion should be used judiciously to maintain blood
+general surgery patients [137–139]. The stress response
+                                                        glucose in this range with appropriate monitoring of
+drives insulin resistance at a time when patients are likely to
+                                                        point of care blood glucose in line with local protocols
+have poor oral calorie intake and omit their insulin or dia-
+                                                        to avoid hypoglycemia.
+betic tablets for fear of hypoglycemia. ERAS pathways for
+                                                     •  Correction of potassium, magnesium and phosphate
+elective surgery try to mitigate this insulin resistance by
+                                                        prior to surgery should be done using the intravenous
+using components such as oral carbohydrate loading and
+                                                        route with appropriate monitoring and following local
+regional anesthesia [44]. However, this is usually not fea-
+                                                        hospital policy. However, it should not delay the patient
+sible in emergency laparotomy patients.
+                                                        from being taken to the operating room.
+  A  proactive approach to avoid both hyper and hypo-
+glycemia should be taken in emergency laparotomy patients.
+Pre-operative blood glucose levels should be controlled in a Level of evidence: moderate (inconsistency, extrapolated,
+similar  range  to  critical care  patients—between    uncertain target glucose values, potassium and magne-
+144–180 mg/dL  (8–10 mmol/L). Tight control of blood   sium extrapolated from cardiac and critical care data).
+sugar has been relaxed since the ﬁrst tight glycemic control Recommendation grade: weak (beneﬁt must be out-
+ICU studies, the incidence of complications appears not to weighed against the risk of hypoglycemia, diabetic
+be signiﬁcantly altered when allowing blood glucose to be patients likely to beneﬁt the most, the risk of atrial
+180 mg/dL  (10 mmol/L) [140] but with a reduction in   ﬁbrillation may be reduced by ﬂuid and electrolyte
+hypoglycemic  neurological complications [141]. Most   correction, but the cause is multifactorial).
+patients will be taking minimal calories by mouth and be
+receiving intravenous resuscitation and ongoing mainte-
+nance ﬂuid with balanced crystalloid infusions which con- 10. Preoperative carbohydrate loading
+tain no glucose. Hypoglycemia should be treated with an
+intravenous 50% dextrose bolus and appropriate follow-up An oral carbohydrate drink given preoperatively is a rec-
+dextrose administration, again according to local hospital ommendation in most other ERAS Society Guidelines to
+policy. It is unclear for hyperglycemia, whether a basal- reduce dehydration and improve insulin sensitivity by
+bolus of insulin [138] is beneﬁcial compared with a standard giving a carbohydrate load 2–4 h prior to surgery. Emer-
+sliding scale in the emergency surgical population. Judicious gency laparotomy patients are already under physiological
+use of a variable rate insulin infusion (sliding scale) regimen stress and giving carbohydrates in this setting may elevate
+should be utilized according to local hospital policy and glucose levels further with no effect on insulin sensitivity.
+attention given to plasma potassium levels that can be We could not identify any studies on the use or beneﬁt of
+lowered by insulin administration. The ongoing manage- carbohydrate loading in emergency general surgery. The
+ment of glucose control is outlined in Part 2 of this Guide- increased risk of gastric stasis, intra-abdominal pathology,
+line. An HbA1c taken on admission is useful in guiding preoperative use of opioids and generalized practice of
+whether a patient has long-term glycemic control issues and using preoperative nasogastric tubes and avoiding oral
+may aid decision making on clinical intervention.    intake prior to surgery meant we extrapolated evidence of
+  Electrolyte disturbance is common in this group of potential harm and this group could not recommend the use
+patients due to high ﬂuid shifts and external losses of body of carbohydrate loading [44].
+ﬂuids. Hypokalemia, hypomagnesemia  and  hypophos-      Recommendation:
+phatemia are risk factors for cardiac dysrhythmias, partic- Level of evidence: Low and potential harm.
+ularly atrial ﬁbrillation which is particularly common in Recommendation grade: Strong, do not use in the
+this patient group due to age and preexisting atrial ﬁbril- emergency laparotomy population.
+lation, ﬂuid shifts, electrolyte imbalance and septic shock
+needing vasopressor infusions. Attempts should be made to
+correct low potassium, phosphate and magnesium using 11. Pre-operative nasogastric intubation
+intravenous repletion with appropriate monitoring and
+according to local policy to reduce the risk of atrial ﬁb- Nasogastric tubes (NGTs) have been traditionally used in
+rillation [142].                                     emergency surgery to reduce gastric distension and drain
+123
+
+
+World J Surg (2021) 45:1272–1290                                                                   1285
+
+gastric contents. The use of nasogastric tubes in elective scenario may support a clear structured standardized
+colorectal surgical patients is declining as the evidence approach [149, 150, 153]. Discussions should not just be
+base has shown an increase in complications such as res- about life or death, but loss of independence, quality of life
+piratory infections and pharyngolaryngitis as well as and other important factors to patients, such as long-term
+patient discomfort and delay to feeding, [143, 144] with no stoma formation [154]. There is guidance available to
+change in morbidity or mortality. [145]. The use in the surgical teams to help manage these situations [155]
+emergency setting is very different with a risk–beneﬁt ratio although the complexity and acuity of the situation means
+depending on the clinical circumstances and cause of that eliciting patient preference and achieving goal- con-
+abdominal pathology and patient factors. Patients may have cordant care is challenging [156]. The goal should be to
+pathology causing gastric distension and high gastric ﬂuid achieve active joint and realistic decision making before
+volumes, and decompression may be beneﬁcial and reduce surgery. For all patients and families, satisfaction with
+the risk of aspiration at induction of anesthesia. This risk emergency abdominal surgery is associated with receiving
+beneﬁt is different in the preoperative and postoperative sufﬁcient information about the risks and beneﬁts of sur-
+setting. We therefore discuss the postoperative use and gery [20, 149, 157], and it is feasible to collect patient
+continuation in part 2 of this guideline.            reported outcome  measures from  patients who have
+  Recommendations:                                   undergone emergency laparotomy [158].
+                                                        Recommendation:
+•  Pre-operative nasogastric tube insertion should be
+   considered on an individual basis assessing for the risk • Patients and families should have the opportunity to
+   of aspiration and gastric distension depending on the discuss the risk of surgery with a senior physician (this
+   pathology and patient factors.                       could be the surgeon, anesthesiologist or intensive care
+                                                        physician) prior to surgery. Counseling should be
+                                                        informed by a validated risk score but with the clear
+  Level of evidence: Moderate (extrapolation from elec- understanding that scores have  limitations when
+  tive surgery).                                        applied to individual patients. When appropriate,
+  Recommendation grade: Strong (aspiration can be life- treatment escalation plans and advance care plans
+  threatening and its reduction by nasogastric insertion should be discussed and documented.
+  outweighs the risk of short-term use).             •  Clear, concise, written information or decision aids
+                                                        combined with verbal patient education should be
+12. Patient and family education and shared decision    provided to the patient and family before surgery if
+making                                                  possible.
+
+Patient education is a central pillar of elective enhanced
+                                                       Level of evidence: Low.
+recovery pathways, beneﬁts include reduced pain and
+                                                       Recommendation   grade: Strong (improves informed
+anxiety [146–148]. There is less time for education or
+                                                       consent process).
+explanation of complex surgery in the emergency setting,
+although handouts can be given to patients and families to
+read before or after surgery. In very high-risk patients,
+surgery should not be undertaken without discussion about Conclusions
+ceilings of care, even though this is challenging in the acute
+situation. Objective mortality scores can support conver- These guidelines present the current evidence base and
+sations and should be used in combination with other recommendations for the preoperative phase of an ERAS
+assessments such as frailty scores [70, 149]. Shared deci- approach to patients undergoing emergency laparotomy.
+sion making (SDM) and personalization of care is espe- Such an approach has been shown to improve outcomes for
+cially challenging in a patient in pain and with acute these very high-risk patients. An increased awareness of
+physiological disturbance from abdominal pathology [150]. the speciﬁc risks of older patients with attention to peri-
+Additionally, there is less time to develop the clinician- operative neurocognitive disorders, frailty and geriatric
+patient rapport/relationship which SDM relies upon [151]. care is a new addition to ERAS guidelines. The evidence
+Scenario planning and the use of decision aids may support base is low in certain areas and much has been extrapolated
+SDM, helping to move detailed, complex conversations from elective ERAS guidelines and other evidence based
+toward more  rapidly understood and patient-centered on planned surgery. While it would be ideal to test all
+information [152]. Using the BRAN methodology (‘bene- elements in the emergency situation, the lack of random-
+ﬁts, risks, alternatives, do nothing) or best/worst case ized controlled trials in this patient group demonstrates the
+
+                                                                                               123
+
+
+1286                                                                                    World J Surg (2021) 45:1272–1290
+
+challenges of research in this area. Other concepts relevant if changes were made. The images or other third party material in this
+to the care of the emergency laparotomy patient such as     article are included in the article’s Creative Commons licence, unless
+                                                            indicated otherwise in a credit line to the material. If material is not
+organization of surgical services, end-of-life care and other included in the article’s Creative Commons licence and your intended
+ERAS elements will be covered in Part 2 of these guide-     use is not permitted by statutory regulation or exceeds the permitted
+lines. It is hoped that these pre-operative guidelines, when use, you will need to obtain permission directly from the copyright
+paired with the intra, and postoperative guidelines will    holder. To view a copy of this licence, visit http://creativecommons.
+                                                            org/licenses/by/4.0/.
+provide a framework for improved management of patients
+undergoing emergency laparotomy.
+                                                            References
+
+Author contributions CP contributed to literature review, grading of 1. Huddart S, Peden CJ, Swart M et al (2015) Use of a pathway
+evidence, and drafted, edited, and made a substantial contribution to quality improvement care bundle to reduce mortality after
+ﬁnalizing the manuscript. MS performed literature review, grading of emergency laparotomy. Br J Surg 102:57–66
+evidence, and also contributed to the writing of the manuscript. Both 2. Lohsiriwat V (2014) Enhanced recovery after surgery vs con-
+CJ and MS organized the Delphi method amongst the authors. WBF   ventional care in emergency colorectal surgery. World J Gas-
+and JK contributed to literature review, reference organization, and to troenterol 20:13950–13955
+writing the manuscript. DL, CW, MH, NL, OL, IA, RU, RA, MG, FH, 3. Møller MH, Adamsen S, Thomsen RW et al (2011) Multicentre
+SH, JH, CO, GA, SM, NQ, DH, ZC, T Y-F and JD contributed to      trial of a perioperative protocol to reduce mortality in patients
+writing and revising the paper, critical appraisal, and grading of with peptic ulcer perforation. Br J Surg 98:802–810
+evidence.                                                      4. Wisely JC, Barclay KL (2016) Effects of an enhanced recovery
+                                                                 after surgery programme on emergency surgical patients. ANZ J
+Funding None.                                                    Surg 86:883–888
+                                                               5. Roulin D, Blanc C, Muradbegovic M et al (2014) Enhanced
+Compliance with ethical standards                                recovery pathway for urgent colectomy. World  J Surg
+                                                                 38:2153–2159. https://doi.org/10.1007/s00268-014-2518-y
+Conﬂict of interest Dr. Peden has received consultancy fees from 6. Aggarwal G, Peden CJ, Mohammed MA et al (2019) Evaluation
+the American College of Surgeons Improving Care and Surgical     of the collaborative use of an evidence-based care bundle in
+Recovery program and from the Institute for Healthcare Improve-  emergency laparotomy. JAMA Surg 154:e190145
+ment, and from Merck for unrelated work. Dr. Scott has honoraria 7. Paduraru M, Ponchietti L, Casas IM et al (2017) Enhanced
+from and serves on advisory boards of Baxter, Edwards Lifesciences, recovery after surgery (ERAS)—the evidence in geriatric
+Deltex, Trevena, and Merck. He also receives travel reimbursement emergency surgery: a systematic review. Chirurgia 112:546–557
+from these companies. Dr. Lobo has received speaker honoraria for 8. Gonenc M, Dural AC, Celik F et al (2014) Enhanced postop-
+unrelated work from Fresenius Kabi in the last 3 years and is the erative recovery pathways in emergency surgery: a randomised
+Scientiﬁc Chair of the ERASÒ Society. Dr. Wu has nothing to dis- controlled clinical trial. Am J Surg 207:807–814
+close. Dr. Hu¨bner has nothing to disclose. Dr. Lees has nothing to 9. Mohsina S, Shanmugam D, Sureshkumar S et al (2018) Adapted
+disclose. Dr. Urman has received research funding or fees from   ERAS pathway vs. standard care in patients with perforated
+Merck, Covidien/Medtronic, AcelRx, Pﬁzer and Takeda outside the  duodenal ulcer—a randomized controlled trial. J Gastrointest
+submitted work, as well as federal funding from NIH, AHRQ and    Surg 22:107–116
+NSF. Dr. Aitken has nothing to disclose. Dr. Grant has nothing to 10. Shida D, Tagawa K, Inada K et al (2017) Modiﬁed enhanced
+disclose. Dr. Hammarqvist has nothing to disclose. Dr. Hare has  recovery after surgery (ERAS) protocols for patients with
+nothing to disclose. Dr. Havens has research grant funding from  obstructive colorectal cancer. BMC Surg 17:18
+Johnson and Johnson outside the submitted work. Dr Ljungqvist is the 11. Shang Y, Guo C, Zhang D (2018) Modiﬁed enhanced recovery
+Chairman of the ERASÒ Society, founded and owns stock in Encare  after surgery protocols are beneﬁcial for postoperative recovery
+AB, and has received honoraria for advice, lecturing including travel for patients undergoing emergency surgery for obstructive col-
+support from Nutricia, Fresenius-Kabi, Pharamcosmos, Encare AB,  orectal cancer. Medicine 97:e12348
+and lecturing honoraria from Medtronic and BBraun outside the 12. Symons NRA, Moorthy K, Almoudaris AM et al (2013) Mor-
+related work. Dr Ljungqvist previously held a now expired patent for tality in high-risk emergency general surgical admissions. Br J
+a preoperative carbohydrate drink. Dr. Ordon˜ez has nothing to dis- Surg 100:1318–1325
+close. Dr. Kim has nothing to disclose. Dr. French has nothing to 13. Shaﬁ S, Aboutanos MB, Agarwal S Jr et al (2013) Emergency
+disclose. Dr. Aggarwal has nothing to disclose. Dr. Quiney has   general surgery: deﬁnition and estimated burden of disease.
+nothing to disclose. Dr. Holena has nothing to disclose. Dr. Cooper J Trauma Acute Care Surg 74:1092–1097
+has nothing to disclose. Dr. Wick has funding from the Agency for 14. Al-Temimi MH, Griffee M, Enniss TM et al (2012) When is
+Healthcare Research and Quality outside the submitted work. Dr.  death inevitable after emergency laparotomy? Analysis of the
+Bang Foss has nothing to disclose. Dr. Young-Fadok has nothing to American College of Surgeons National Surgical Quality
+disclose. Dr. Mohseni has nothing to disclose. Dr. Dhesi has nothing Improvement Program database. J Am Coll Surg 215:503–511
+to disclose.                                                  15. Lee KC, Sturgeon D, Lipsitz S et al (2020) Mortality and health
+                                                                 care utilization among Medicare patients undergoing emergency
+                                                                 general surgery vs those with acute medical conditions. JAMA
+Open Access This article is licensed under a Creative Commons    Surg 155:216–223
+Attribution 4.0 International License, which permits use, sharing, 16. American College of Surgeons (2018) User Guide for the 2017
+adaptation, distribution and reproduction in any medium or format, as ACS NSQIP Participant Use Data File. https://www.facs.org/
+long as you give appropriate credit to the original author(s) and the Quality-Programs/ACS-NSQIP/participant-use Accessed on
+source, provide a link to the Creative Commons licence, and indicate 11/17/2020
+
+123
+
+
+World J Surg (2021) 45:1272–1290                                                                                 1287
+
+ 17. NELA Project Team (2019) Fifth Patient Report of the National 35. Louis DJ, Hsu A, Brand MI, Saclarides TJ (2009) Morbidity and
+    Emergency Laparotomy Audit. https://www.nela.org.uk/down     mortality in octogenarians and older undergoing major intestinal
+    loads/The%20Fifth%20Patient%20Report%20of%20the%             surgery. Dis Colon Rectum 52:59–63
+    20NELA%202019%20-%20Full%20Patient%20Report.pdf           36. Foss NB, Kehlet H (2020) Challenges in optimising recovery
+    Accessed on 11/17/2020                                       after emergency laparotomy. Anaesthesia 75(Suppl 1):e83–e89
+ 18. Vester-Andersen M, Lundstrøm LH, Møller MH et al (2014)  37. Guyatt GH, Oxman AD, Kunz R et al (2008) Going from evi-
+    Mortality and postoperative care pathways after emergency    dence to recommendations. BMJ 336:1049–1051
+    gastrointestinal surgery in 2904 patients: a population-based 38. Brown BB (1968) Delphi process: a methodology used for the
+    cohort study. Br J Anaesth 112:860–870                       elicitation of opinions of experts. RAND Corporation, Santa
+ 19. Saunders DI, Murray D, Pichel AC et al (2012) Variations in Monica, CA
+    mortality after emergency laparotomy: the ﬁrst report of the UK 39. Brindle M, Nelson G, Lobo DN et al (2020) Recommendations
+    Emergency Laparotomy Network. Br J Anaesth 109:368–375       from the ERASÒ Society for standards for the development of
+ 20. Cauley CE, Panizales MT, Reznor G et al (2015) Outcomes after enhanced recovery after surgery guidelines. BJS Open
+    emergency abdominal surgery in patients with advanced cancer: 4:157–163
+    opportunities to reduce complications and improve palliative 40. NELA Project Team (2017) Audit Inclusion and Exclusion
+    care. J Trauma Acute Care Surg 79:399–406                    Criteria: NELA Inclusion Criteria. In: National Emergency
+ 21. Havens JM, Peetz AB, Do WS et al (2015) The excess morbidity Laparotomy Audit. https://www.nela.org.uk/Criteria. Accessed
+    and mortality of emergency general surgery. J Trauma Acute   20 Aug 2019
+    Care Surg 78:306–311                                      41. Feeney T, Castillo-Angeles M, Scott JW et al (2018) The
+ 22. Columbus AB, Morris MA, Lilley EJ et al (2018) Critical dif- independent effect of emergency general surgery on outcomes
+    ferences between elective and emergency surgery: identifying varies depending on case type: a NSQIP outcomes study. Am J
+    domains for quality improvement in emergency general surgery. Surg 216:856–862
+    Surgery 163:832–838                                       42. American College of Surgeons (2012) User Guide for the 2011
+ 23. Ingraham AM, Cohen ME, Bilimoria KY et al (2010) Com-       Participant Use Data File.https://www.facs.org/-/media/ﬁles/
+    parison of hospital performance in nonemergency versus       quality-programs/nsqip/ug11.ashx Accessed 11/17/2020
+    emergency colorectal operations at 142 hospitals. J Am Coll 43. The NCEPOD Classiﬁcation of Intervention (2004) In: National
+    Surg 210:155–165                                             Conﬁdential Enquiry into Patient Outcome and Death. https://
+ 24. Ingraham AM, Ayturk MD, Kiefe CI, Santry HP   (2019)        www.ncepod.org.uk/classiﬁcation.html. Accessed 20 Aug 2019
+    Adherence to 20 emergency general surgery best practices: 44. Gustafsson UO, Scott MJ, Hubner M et al (2019) Guidelines for
+    results of a national survey. Ann Surg 270:270–280           perioperative care in elective colorectal surgery: enhanced
+ 25. Daniel VT, Ingraham AM, Khubchandani JA  et al (2019)       recovery after surgery (ERASÒ) society recommendations:
+    Variations in the delivery of emergency general surgery care in 2018. World J Surg 37:259–284. https://doi.org/10.1007/
+    the era of acute care surgery. Jt Comm J Qual Patient Saf    s00268-018-4844-y
+    45:14–23                                                  45. Poulton T, Murray D, The National Emergency Laparotomy
+ 26. Oliver CM, Bassett MG, Poulton TE et al (2018) Organisational Audit (NELA) project team (2019) Pre-optimisation of patients
+    factors and mortality after an emergency laparotomy: multilevel undergoing emergency laparotomy: a review of best practice.
+    analysis of 39 903 National Emergency Laparotomy Audit       Anaesthesia 74:100–107
+    patients. Br J Anaesth 121:1346–1356                      46. Rhodes A, Evans LE, Alhazzani W et al (2017) Surviving sepsis
+ 27. Symons NRA, Moorthy K, Vincent CA, London Surgical          campaign: international guidelines for management of sepsis
+    Research Group (2016) Reliability in the process of care during and septic shock: 2016. Intensive Care Med 43:304–377
+    emergency general surgical admission: a prospective cohort 47. Sethi A, Debbarma M, Narang N et al (2018) Impact of targeted
+    study. Int J Surg 32:143–149                                 preoperative optimization on clinical outcome in emergency
+ 28. Ingraham AM, Cohen ME, Raval MV et al (2011) Variation in   abdominal surgeries: a prospective randomized trial. Anesth
+    quality of care after emergency general surgery procedures in Essays Res 12:149–154
+    the elderly. J Am Coll Surg 212:1039–1048                 48. El Hechi MW, Lee JM, Naar L et al (2020) The effect of
+ 29. Tengberg LT, Bay-Nielsen M, Bisgaard T et al (2017) Mul-    immunosuppression on emergency colectomy outcomes: a
+    tidisciplinary perioperative protocol in patients undergoing nationwide retrospective analysis. World J Surg 44:1637–1647.
+    acute high-risk abdominal surgery. Br J Surg 104:463–471     https://doi.org/10.1007/s00268-020-05378-5
+ 30. Peden C, Scott MJ (2015) Anesthesia for emergency abdominal 49. NICE Short Clinical Guidelines Technical Team (2006) Acutely
+    surgery. Anesthesiol Clin 33:209–221                         ill patients in hospital: recognition of and response to acute
+ 31. Gale SC, Shaﬁ S, Dombrovskiy VY et al (2014) The public     illness in adults in hospital. London: National Institute for
+    health burden of emergency general surgery in the United     Health and Clinical Excellence. https://www.nice.org.uk/gui
+    States: a 10-year analysis of the Nationwide Inpatient Sample– dance/cg50/evidence/full-guideline-pdf-195219037 Accessed
+    2001 to 2010. J Trauma Acute Care Surg 77:202–208            11/17/2020
+ 32. Scott JW, Olufajo OA, Brat GA et al (2016) Use of national 50. Kovacs C, Jarvis SW, Prytherch DR et al (2016) Comparison of
+    burden to deﬁne operative emergency general surgery. JAMA    the national early warning score in non-elective medical and
+    Surg 151:e160480                                             surgical patients. Br J Surg 103:1385–1393
+ 33. Ingraham AM, Cohen ME, Raval MV et al (2011) Comparison  51. Churpek MM, Snyder A, Han X et al (2017) Quick sepsis-
+    of hospital performance in emergency versus elective general related organ failure assessment, systemic inﬂammatory
+    surgery operations at 198 hospitals. J Am Coll Surg 212:20-  response syndrome, and early warning scores for detecting
+    28.e1                                                        clinical deterioration in infected patients outside the intensive
+ 34. Cooper Z, Mitchell SL, Gorges RJ et al (2015) Predictors of care unit. Am J Respir Crit Care Med 195:906–911
+    mortality up to 1 year after emergency major abdominal surgery 52. Garcea G, Ganga R, Neal CP et al (2010) Preoperative early
+    in older adults. J Am Geriatr Soc 63:2572–2579               warning scores can predict in-hospital mortality and critical care
+                                                                 admission following emergency  surgery. J  Surg  Res
+                                                                 159:729–734
+
+                                                                                                            123
+
+
+1288                                                                                    World J Surg (2021) 45:1272–1290
+
+ 53. UK National Surgical Research Collaborative (2017) Multi- 72. Acute non localized abdominal pain. ACR Appropriateness Cri-
+    centre observational study of adherence to Sepsis Six guidelines teria (2018) In: American College of Radiologists. https://acsearch.
+    in emergency general surgery. Br J Surg 104:e165–e171        acr.org/docs/69467/Narrative/ Accessed December 1st 2020
+ 54. Becher RD, Hoth JJ, Miller PR et al (2012) Systemic inﬂam- 73. De Simone B, Ansaloni L, Sartelli M et al (2018) Is the risk of
+    mation worsens outcomes in emergency  surgical patients.     contrast-induced nephropathy a real contraindication to perform
+    J Trauma Acute Care Surg 72:1140–1149                        intravenous contrast enhanced computed tomography for non-
+ 55. Moore LJ, Moore FA, Todd SR et al (2010) Sepsis in general  traumatic acute abdomen in emergency surgery department?
+    surgery: the 2005–2007 national surgical quality improvement Acta Biomed 89:158–172
+    program perspective. Arch Surg 145:695–700                74. Ellis JH, Khalatbari S, Yosef M et al (2019) Inﬂuence of clinical
+ 56. Moore LJ, Moore FA, Jones SL et al (2009) Sepsis in general factors on risk of contrast-induced nephrotoxicity from IV iod-
+    surgery: a deadly complication. Am J Surg 198:868–874        inated low-osmolality contrast material in patients with a low
+ 57. Boyd-Carson H, Doleman B, Cromwell D et al (2020) Delay in  estimated glomerular ﬁltration rate. AJR Am J Roentgenol
+    source control in perforated peptic ulcer leads to 6% increased 213:W188–W193
+    risk of death per hour: a nationwide cohort study. World J Surg 75. Wang DC, Parry CR, Feldman M et al (2015) Acute abdomen in
+    44:869–875. https://doi.org/10.1007/s00268-019-05254-x       the emergency department: is CT a time-limiting factor? AJR
+ 58. Kumar A, Roberts D, Wood KE et al (2006) Duration of        Am J Roentgenol 205:1222–1229
+    hypotension before initiation of effective antimicrobial therapy 76. Moonesinghe SR, Mythen MG, Das P et al (2013) Risk strati-
+    is the critical determinant of survival in human septic shock. Crit ﬁcation tools for predicting morbidity and mortality in adult
+    Care Med 34:1589–1596                                        patients undergoing major surgery: qualitative systematic
+ 59. Singer M, Deutschman CS, Seymour CW et al (2016) The third  review. Anesthesiology 119:959–981
+    international consensus deﬁnitions for sepsis and septic shock 77. Prytherch DR, Whiteley MS, Higgins B et al (1998) POSSUM
+    (Sepsis-3). JAMA 315:801–810                                 and portsmouth POSSUM for predicting mortality. physiologi-
+ 60. Villegas N, Moore LJ (2018) Sepsis screening: current evidence cal and operative severity score for the enumeration of mortality
+    and available tools. Surg Infect 19:126–130                  and morbidity. Br J Surg 85:1217–1220
+ 61. National Institute for Health and Care Excellence (2017) 78. Haskins IN, Maluso PJ, Schroeder ME et al (2017) A calculator
+    Algorithm for managing suspected sepsis in adults and young  for mortality following emergency general surgery based on the
+    people aged 18 years and over in an acute hospital setting. In: American College of Surgeons National Surgical Quality
+    Sepsis: recognition, diagnosis, and early management. https:// Improvement Program database. J Trauma Acute Care Surg
+    www.nice.org.uk/guidance/ng51/resources. Accessed 8 Aug      82:1094–1099
+    2019                                                      79. Eugene N, Oliver CM, Bassett MG et al (2018) Development
+ 62. Daniels R, Nutbeam T, McNamara G, Galvin C (2011) The       and internal validation of a novel risk adjustment model for
+    sepsis six and the severe sepsis resuscitation bundle: a     adult patients undergoing emergency laparotomy surgery: the
+    prospective observational cohort study. Emerg Med   J        National Emergency Laparotomy Audit risk model. Br J
+    28:507–512                                                   Anaesth 121:739–748
+ 63. Levy MM, Evans LE, Rhodes A (2018) The surviving sepsis  80. Stonelake S, Thomson P, Suggett N (2015) Identiﬁcation of the
+    campaign bundle: 2018 update. Crit Care Med 46:997–1000      high risk emergency surgical patient: which risk prediction
+ 64. Seymour CW, Gesten F, Prescott HC et al (2017) Time to      model should be used? Ann Med Surg (Lond) 4:240–247
+    treatment and mortality during mandated emergency care for 81. Barazanchi A, Bhat S, Palmer-Neels K et al (2020) Evaluating
+    sepsis. N Engl J Med 376:2235–2244                           and improving current risk prediction tools in emergency
+ 65. Buck DL, Vester-Andersen M, Møller MH (2013) Surgical       laparotomy. J Trauma Acute Care Surg 89(2):382–387
+    delay is a critical determinant of survival in perforated peptic 82. Martin GP, Kocman D, Stephens T et al (2017) Pathways to
+    ulcer. Br J Surg 100:1045–1049                               professionalism? Quality improvement, care pathways, and the
+ 66. Azuhata T, Kinoshita K, Kawano D et al (2014) Time from     interplay of standardisation and clinical autonomy. Sociol
+    admission to initiation of surgery for source control is a critical Health Illn 39:1314–1329
+    determinant of survival in patients with gastrointestinal perfo- 83. Alvarez-Nebreda ML, Bentov N, Urman RD et al (2018) Rec-
+    ration with associated septic shock. Crit Care 18:R87        ommendations for preoperative management of frailty from the
+ 67. Vester-Andersen M, Lundstrøm LH, Buck DL, Møller MH         Society for Perioperative Assessment and Quality Improvement
+    (2016) Association between surgical delay and survival in high- (SPAQI). J Clin Anesth 47:33–42
+    risk emergency abdominal surgery. a population-based Danish 84. McIsaac DI, Moloo H, Bryson GL, van Walraven C (2017) The
+    cohort study. Scand J Gastroenterol 51:121–128               association of frailty with outcomes and resource use after
+ 68. Peacock O, Bassett MG, Kuryba A et al (2018) Thirty-day     emergency general surgery: a population-based cohort study.
+    mortality in patients undergoing laparotomy for small bowel  Anesth Analg 124:1653–1661
+    obstruction. Br J Surg 105:1006–1013                      85. Akyar S, Armenia SJ, Ratnani P, Merchant AM (2018) The
+ 69. Bloos F, Thomas-Ru¨ddel D, Ru¨ddel H et al (2014) Impact of impact of frailty on postoperative cardiopulmonary complica-
+    compliance with infection management guidelines on outcome   tions in the emergency general surgery population. Surg J (N Y)
+    in patients with severe sepsis: a prospective observational multi- 4:e66–e77
+    center study. Crit Care 18:R42                            86. Parmar KL, Law J, Carter B et al (2019) Frailty in older patients
+ 70. Royal College of Surgeons England, Department of Health     undergoing emergency laparotomy: results from the UK obser-
+    (2018) The high-risk general surgical patient: raising the stan- vational Emergency Laparotomy and Frailty (ELF) Study. Ann
+    dard. https://www.rcseng.ac.uk/news-and-events/media-centre/ Surg. https://doi.org/10.1097/SLA.0000000000003402
+    press-releases/high-risk-general-surgical/. Accessed 03/01/2021 87. Tan HL, Chia STX, Nadkarni NV et al (2019) Frailty and
+ 71. The Royal College of Surgeons England and Department of     functional decline after emergency abdominal surgery in the
+    Health (2011) The Higher Risk General Surgical Patient:      elderly: a prospective cohort study. World J Emerg Surg 14:62
+    Towards Improved Care for a Forgotten Group. https://www. 88. Joseph B, Zangbar B, Pandit V et al (2016) Emergency general
+    rcseng.ac.uk/library-and-publications/rcs-publications/docs/the- surgery in the elderly: too old or too frail? J Am Coll Surg
+    higher-risk-general-surgical-patient/ Accessed 11/17/2020    222:805–813
+
+123
+
+
+World J Surg (2021) 45:1272–1290                                                                                 1289
+
+ 89. Murphy PB, Savage SA, Zarzaur BL (2020) Impact of patient 106. American Geriatrics Society Expert Panel on Postoperative
+    frailty on morbidity and mortality after common emergency    Delirium in Older Adults (2015) American Geriatrics Society
+    general surgery operations. J Surg Res 247:95–102            abstracted clinical practice guideline for postoperative delirium
+ 90. Desserud KF, Veen T, Søreide K (2016) Emergency general     in older adults. J Am Geriatr Soc 63:142–150
+    surgery in the geriatric patient. Br J Surg 103:e52-61   107. Sprung J, Roberts RO, Weingarten TN et al (2017) Postopera-
+ 91. Vilches-Moraga A, Rowley M, Fox J et al (2020) Emergency    tive delirium in elderly patients is associated with subsequent
+    laparotomy in the older patient: factors predictive of 12-month cognitive impairment. Br J Anaesth 119:316–323
+    mortality—Salford-POPS-GS An observational study. Aging  108. Gleason LJ, Schmitt EM, Kosar CM et al (2015) Effect of
+    Clin Exp Res. https://doi.org/10.1007/s40520-020-01578-0     delirium and other major complications on outcomes after
+ 92. Lee KC, Streid J, Sturgeon D et al (2020) The impact of frailty elective surgery in older adults. JAMA Surg 150:1134–1140
+    on long-term patient-oriented outcomes after emergency general 109. Hshieh TT, Yue J, Oh E et al (2015) Effectiveness of multi-
+    surgery: a retrospective cohort study. J Am Geriatr Soc      component nonpharmacological delirium interventions: a meta-
+    68:1037–1043                                                 analysis. JAMA Intern Med 175:512–520
+ 93. Eamer G, Taheri A, Chen SS et al (2018) Comprehensive   110. Chen CC-H, Li H-C, Liang J-T et al (2017) Effect of a modiﬁed
+    geriatric assessment for older people admitted to a surgical hospital elder life program on delirium and length of hospital
+    service. Cochrane Database Syst Rev 1:CD012485               stay in patients undergoing abdominal surgery: a cluster ran-
+ 94. Engelhardt KE, Reuter Q, Liu J et al (2018) Frailty screening domized clinical trial. JAMA Surg 152:827–834
+    and a frailty pathway decrease length of stay, loss of indepen- 111. The 2019 American Geriatrics Society Beers CriteriaÒ Update
+    dence, and 30-day readmission rates in frail geriatric trauma and Expert Panel (2019) American Geriatrics Society 2019 Updated
+    emergency general surgery patients. J Trauma Acute Care Surg AGS Beers CriteriaÒ for potentially inappropriate medication
+    85:167–173                                                   use in older adults. J Am Geriatr Soc 67:674–694
+ 95. Khadaroo RG, Warkentin LM, Wagg AS et al (2020) Clinical 112. Chow WB, Rosenthal RA, Merkow RP et al (2012) American
+    effectiveness of the elder-friendly approaches to the surgical College of Surgeons National Surgical Quality Improvement
+    environment initiative in emergency general surgery. JAMA    Program; American Geriatrics Society. optimal preoperative
+    Surg 155:e196021                                             assessment of the geriatric surgical patient: a best practices
+ 96. Aitken RM, Partridge JSL, Oliver CM et al (2020) Older      guideline from the American College of Surgeons National
+    patients undergoing emergency laparotomy: observations from  Surgical Quality Improvement Program and the American
+    the National Emergency Laparotomy Audit (NELA) years 1–4.    Geriatrics Society. J Am Coll Surg 215:453–466
+    Age Ageing. https://doi.org/10.1093/ageing/afaa075       113. Scottish Intercollegiate Guidelines Network (SIGN) (2019) Risk
+ 97. Eamer GJ, Clement F, Holroyd-Leduc J et al (2019) Frailty   reduction and management of delirium: A national clinical
+    predicts increased costs in emergent general surgery patients: a guideline. Edinburgh, Scotland. https://www.sign.ac.uk/our-
+    prospective cohort cost analysis. Surgery 166:82–87          guidelines/risk-reduction-and-management-of-delirium/ Acces-
+ 98. Hofmeister M, Khadaroo RG, Holroyd-Leduc J et al (2020)     sed 11/17/2020
+    Cost-effectiveness Analysis of the Elder-Friendly Approaches to 114. Levi M, Opal SM (2006) Coagulation abnormalities in critically
+    the Surgical Environment (EASE) intervention for emergency   ill patients. Crit Care 10:222
+    abdominal surgical care of adults aged 65 years and older. 115. Scarborough JE, Schumacher J, Pappas TN et al (2016) Which
+    JAMA Netw Open 3:e202034                                     complications matter most? Prioritizing quality improvement in
+ 99. Saravana-Bawan B, Warkentin LM, Rucker D et al (2019)       emergency general surgery. J Am Coll Surg 222:515–524
+    Incidence and predictors of postoperative delirium in the older 116. McCoy CC, Englum BR, Keenan JE et al (2015) Impact of
+    acute care surgery population: a prospective study. Can J Surg speciﬁc postoperative complications on the outcomes of emer-
+    62:33–38                                                     gency general surgery patients. J Trauma Acute Care Surg
+100. de Castro SMM, U¨ nlu¨ C¸ , Tuynman JB et al (2014) Incidence 78:912–918 (Discussion 918–9)
+    and risk factors of delirium in the elderly general surgical 117. Douketis JD, Spyropoulos AC, Spencer FA et al (2012) Peri-
+    patient. Am J Surg 208:26–32                                 operative management of antithrombotic therapy: antithrom-
+101. Saljuqi AT, Hanna K, Asmar S et al (2020) Prospective evalu- botic therapy and prevention of thrombosis, 9th ed: American
+    ation of delirium in geriatric patients undergoing emergency College of Chest Physicians Evidence-Based Clinical Practice
+    general surgery. J Am Coll Surg 230:758–765                  Guidelines. Chest 141:e326S-e350S
+102. Culley DJ, Flaherty D, Fahey MC et al (2017) Poor performance 118. Baron TH, Kamath PS, McBane RD (2013) Management of
+    on a preoperative cognitive screening test predicts postoperative antithrombotic therapy in patients undergoing invasive proce-
+    complications in older orthopedic surgical patients. Anesthesi- dures. N Engl J Med 368:2113–2124
+    ology 127:765–774                                        119. Douketis JD, Johnson JA, Turpie AG (2004) Low-molecular-
+103. Berger M, Schenning KJ, Brown CH 4th et al (2018) Best      weight heparin as bridging anticoagulation during interruption
+    practices for postoperative brain health: recommendations from of warfarin: assessment of a standardized periprocedural anti-
+    the ﬁfth international perioperative neurotoxicity working   coagulation regimen. Arch Intern Med 164:1319–1326
+    group. Anesth Analg 127:1406–1413                        120. Barnes GD, Lucas E, Alexander GC, Goldberger ZD (2015)
+104. Mohanty S, Rosenthal RA, Russell MM et al (2016) Optimal    National trends in ambulatory oral anticoagulant use. Am J Med
+    perioperative management of the geriatric patient: a best prac- 128:1300–5.e2
+    tices guideline from the American College of Surgeons NSQIP 121. Hornor MA, Duane TM, Ehlers AP et al (2018) American
+    and  the American Geriatrics Society. J Am Coll Surg         College of Surgeons’ guidelines for the perioperative manage-
+    222:930–947                                                  ment of antithrombotic medication. J Am Coll Surg 227:521-
+105. Arias F, Wiggins M, Urman RD et al (2020) Rapid in-person   536.e1
+    cognitive screening in the preoperative setting: test considera- 122. Keeling D, Tait RC, Watson H, B Committee of Standards for
+    tions and recommendations from the Society for Perioperative Haematology (2016) Peri-operative management of anticoagu-
+    Assessment and Quality Improvement (SPAQI). J Clin Anesth    lation and antiplatelet therapy. Br J Haematol 175:602–613
+    62:109724                                                123. Tran H, Joseph J, Young L et al (2014) New oral anticoagulants:
+                                                                 a practical guide on prescription, laboratory testing and peri-
+
+                                                                                                            123
+
+
+1290                                                                                    World J Surg (2021) 45:1272–1290
+
+    procedural/bleeding management. Australasian Society of      the surgical care and outcomes assessment program. Ann Surg
+    Thrombosis and Haemostasis. Intern Med J 44:525–536          257:8–14
+124. Kozek-Langenecker SA, Ahmed AB, Afshari A et al (2017)  140. NICE-SUGAR Study Investigators, Finfer S, Liu B et al (2012)
+    Management of severe perioperative bleeding: guidelines from Hypoglycemia and risk of death in critically ill patients. N Engl
+    the European Society of Anaesthesiology: ﬁrst update 2016. Eur J Med 367:1108–1118
+    J Anaesthesiol 34:332–395                                141. Yatabe T, Inoue S, Sakaguchi M, Egi M (2017) The optimal
+125. Godier A, Garrigue D, Lasne D et al (2019) Management of    target for acute glycemic control in critically ill patients: a
+    antiplatelet therapy for non elective invasive procedures of network meta-analysis. Intensive Care Med 43:16–28
+    bleeding complications: proposals from the French working 142. Alghamdi AA, Al-Radi OO, Latter DA (2005) Intravenous
+    group on perioperative haemostasis (GIHP), in collaboration  magnesium for prevention of atrial ﬁbrillation after coronary
+    with the French Society of Anaesthesia and Intensive Care    artery bypass surgery: a systematic review and meta-analysis.
+    Medicine (SFAR). Anaesth Crit Care Pain Med 38:289–302       J Card Surg 20:293–299
+126. Pollack CV Jr, Reilly PA, Eikelboom J et al (2015) Idaru- 143. Nelson R, Edwards S, Tse B (2007) Prophylactic nasogastric
+    cizumab for dabigatran reversal. N Engl J Med 373:511–520    decompression after abdominal surgery. Cochrane Database
+127. Siegal DM, Curnutte JT, Connolly SJ et al (2015) Andex-     Syst Rev 18(3):CD004929
+    anet alfa for the reversal of factor Xa inhibitor activity. N Engl J 144. Rao W, Zhang X, Zhang J et al (2011) The role of nasogastric
+    Med 373:2413–2424                                            tube in decompression after elective colon and rectum surgery: a
+128. Vilahur G, Choi BG, Zafar MU et al (2007) Normalization of  meta-analysis. Int J Colorectal Dis 26:423–429
+    platelet reactivity in clopidogrel-treated subjects. J Thromb 145. Jottard K, Hoff C, Maessen J et al (2009) Life and death of the
+    Haemost 5:82–90                                              nasogastric tube in elective colonic surgery in the Netherlands.
+129. Burger W, Chemnitius J-M, Kneissl GD, Ru¨cker G (2005) Low- Clin Nutr 28:26–28
+    dose aspirin for secondary cardiovascular prevention—cardio- 146. Ronco M, Iona L, Fabbro C et al (2012) Patient education
+    vascular risks after its perioperative withdrawal versus bleeding outcomes in surgery: a systematic review from 2004 to 2010. Int
+    risks with its continuation—review and meta-analysis. J Intern J Evid Based Healthc 10:309–323
+    Med 257:399–414                                          147. Ayyadhah Alanazi A (2014) Reducing anxiety in preoperative
+130. Columbo JA, Lambour AJ, Sundling RA et al (2018) A meta-    patients: a systematic review. Br J Nurs 23:387–393
+    analysis of the impact of aspirin, clopidogrel, and dual anti- 148. Hounsome J, Lee A, Greenhalgh J et al (2017) A systematic
+    platelet therapy on bleeding complications in noncardiac sur- review of information format and timing before scheduled adult
+    gery. Ann Surg 267:1–10                                      surgery for peri-operative anxiety. Anaesthesia 72:1265–1272
+131. Murphy PB, Vogt KN, Lau BD et al (2018) Venous throm-   149. Cooper Z, Courtwright A, Karlage A et al (2014) Pitfalls in
+    boembolism prevention in emergency general surgery: a review. communication that lead to nonbeneﬁcial emergency surgery in
+    JAMA Surg 153:479–486                                        elderly patients with serious illness: description of the problem
+132. Ross SW, Kuhlenschmidt KM, Kubasiak JC  et al (2020)        and elements of a solution. Ann Surg 260:949–957
+    Association of the risk of a venous thromboembolic event in 150. Taylor LJ, Nabozny MJ, Steffens NM et al (2017) A framework
+    emergency vs elective general surgery. JAMA Surg. https://doi. to improve surgeon communication in high-stakes surgical
+    org/10.1001/jamasurg.2020.0433                               decisions: best case/worst case. JAMA Surg 152:531–538
+133. National Institute for Health and Care Excellence (2018) 151. Morris RS, Ruck JM, Conca-Cheng AM et al (2018) Shared
+    Venous Thromboembolism  in over 16s: reducing the risk of    decision-making in acute surgical illness: the surgeon’s per-
+    hospital-acquired deep vein thrombosis or pulmonary embolism. spective. J Am Coll Surg 226:784–795
+    NICE   guideline [NG89]. https://www.nice.org.uk/guidance/ 152. Stacey D, Le´gare´ F, Lewis K et al (2017) Decision aids for
+    ng89 Accessed 11/17/2020                                     people facing health treatment or screening decisions. Cochrane
+134. Kearon C, Akl EA, Comerota AJ et al (2012) Antithrombotic   Database Syst Rev. https://doi.org/10.1002/14651858
+    therapy for VTE disease: antithrombotic therapy and prevention 153. (2020) Choosing Wisely UK. https://www.choosingwisely.co.
+    of thrombosis, 9th ed: American College of Chest Physicians  uk/about-choosing-wisely-uk/. Accessed 24 Jun 2020
+    Evidence-Based Clinical Practice Guidelines. Chest 141:e419S- 154. Berian JR, Mohanty S, Ko CY et al (2016) Association of loss of
+    e496S                                                        independence with readmission and death after discharge in
+135. Hu QL, Grant MC, Hornor MA, et al (2020) Technical evidence older patients after surgical procedures. JAMA  Surg
+    review for emergency major abdominal operation conducted for 151:e161689–e161689
+    the agency for healthcare research and quality safety program 155. Cooper Z, Koritsanszky LA, Cauley CE et al (2016) Recom-
+    for improving surgical care and recovery. J Am Coll Surg     mendations for best communication practices to facilitate goal-
+    23:S1072–7515(20)32338–3.                                    concordant care for seriously ill older patients with emergency
+136. Ban KA, Gibbons MM, Ko CY et al (2019) Evidence review      surgical conditions. Ann Surg 263:1–6
+    conducted for the agency for healthcare research and quality 156. Taylor LJ, Johnson SK, Nabozny MJ et al (2018) Barriers to
+    safety program for improving surgical care and recovery: focus goal-concordant care for older patients with acute surgical ill-
+    on  anesthesiology for colorectal surgery. Anesth Analg      ness. Ann Surg 267:677–682
+    128:879–889                                              157. Jones CH, O’Neill S, McLean KA et al (2017) Patient experi-
+137. Duggan EW, Carlson K, Umpierrez GE (2017) Perioperative     ence and overall satisfaction after emergency abdominal sur-
+    hyperglycemia management:  an   update. Anesthesiology       gery. BMC Surg 17:76
+    126:547–560                                              158. Kwong E, Neuburger J, Murray D, Black N (2018) Feasibility of
+138. Umpierrez GE, Smiley D, Jacobs S et al (2011) Randomized    collecting and assessing patient-reported outcomes for emer-
+    study of basal-bolus insulin therapy in the inpatient management gency admissions: laparotomy for gastrointestinal conditions.
+    of patients with type 2 diabetes undergoing general surgery  BMJ Open Gastroenterol 5:e000238
+    (RABBIT 2 surgery). Diabetes Care 34:256–261
+139. Kwon S, Thompson R, Dellinger P et al (2013) Importance of Publisher’s Note Springer Nature remains neutral with regard to
+    perioperative glycemic control in general surgery: a report from jurisdictional claims in published maps and institutional afﬁliations.
+
+123
+
+
+

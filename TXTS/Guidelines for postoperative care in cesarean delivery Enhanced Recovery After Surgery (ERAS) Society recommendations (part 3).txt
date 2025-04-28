@@ -1,0 +1,586 @@
+Original Research                                                                              ajog.org
+
+OBSTETRICS
+Guidelines for postoperative care in cesarean delivery:
+Enhanced Recovery After Surgery (ERAS) Society
+recommendations (part 3)
+George A. Macones, MD; Aaron B. Caughey, MD, PhD; Stephen L. Wood, MD; Ian J. Wrench, MB, ChB, PhD;
+Jeffrey Huang, MD; Mikael Norman, MD, PhD; Karin Pettersson, MD, PhD; William J. Fawcett, MBBS, FRCA, FFPMRCA;
+Medhat M. Shalabi, MD; Amy Metcalfe, PhD; Leah Gramlich, MD; Gregg Nelson, MD, PhD; R. Douglas Wilson, MD, MSc
+
+BACKGROUND:    This Enhanced Recovery After Surgery Guideline for recommendations were evaluated according to the Grading of Recom-
+postoperative care in cesarean delivery will provide best practice, mendations, Assessment, Development and Evaluation system as used
+evidenced-based recommendations for postoperative care with primarily a and described in previous Enhanced Recovery After Surgery Guidelines.
+maternal focus.                                       RESULTS:  The Enhanced Recovery After Surgery cesarean delivery
+OBJECTIVE:  The pathway process for scheduled and unscheduled guideline/pathway has created a pathway for postoperative care. Speciﬁcs
+cesarean delivery for this Enhanced Recovery After Surgery cesarean include sham feeding, nausea and vomiting prevention, postoperative
+delivery guideline will consider time from completion of cesarean delivery analgesia, nutritional care, glucose control, thromboembolism prophy-
+until maternal hospital discharge.                    laxis, early mobilization, urinary drainage, and discharge counseling. A
+STUDY DESIGN:  The literature search (1966e2017) used Embase number of elements of postoperative care of women who undergo ce-
+and PubMed to search medical subject headings that included “Cesarean sarean delivery are recommended, based on the evidence.
+Section,” “Cesarean Delivery,” “Cesarean Section Delivery,” and all CONCLUSION: As the Enhanced Recovery After Surgery cesarean
+postoperative Enhanced Recovery After Surgery items. Study selection delivery pathway (elements/processes) are studied, implemented, audited,
+allowed titles and abstracts to be screened by individual reviewers to evaluated, and optimized by the maternity care teams, there will be an
+identify potentially relevant articles. Metaanalyses, systematic reviews, opportunity for focused and optimized areas of care and recommendations
+randomized controlled studies, nonrandomized controlled studies, re- to be further enhanced.
+views, and case series were considered for each individual topic. Quality
+assessment and data analyses evaluated the quality of evidence, and Key words: cesarean delivery, enhanced recovery
+
+    nhanced  recovery after surgery and decrease the “harmful” clinical var- determined. After the topics were agreed
+E   (ERAS) is a standardized, periop- iances that are identiﬁed in certain high- on, they were allocated among the group
+erative care program that is embedded volume clinical care processes and according to expertise. The literature
+ﬁrmly within multiple surgical disci- procedures that will increase quality of search (1966e2017) used Embase and
+plines that include colorectal, urologic, care, patient safety, and health outcomes. PubMed to search medical subject
+gynecologic, and hepatobiliary surgery. This serialized ERAS guideline for headings that included “Cesarean Sec-
+ERAS has been shown to result in both perioperative care in cesarean delivery tion,”“Cesarean Delivery,”“Cesarean
+clinical beneﬁts (reductions in length of will provide best practice recommenda- Section Delivery,” and all postoperative
+stay, complications, and readmissions) tions for part 1 (antenatal/preopera- ERAS items. Reference lists of all eligible
+and health system beneﬁts (reduction in tive),3 part 2 (intraoperative),4 and part articles were cross-checked for other
+cost).1,2                           3 (postoperative phases) that are the relevant studies.
+  ERAS is a tool for process manage- focus of this document. Although
+ment, with the creation of a focused care certain ERAS principles have been Study selection
+process. The use of audit and feedback, established for other abdominal/pelvic Titles and abstracts were screened
+whereby clinicians are provided with surgeries, this present ERAS cesarean by individual reviewers to identify
+comparative data to educate, change, delivery pathway will provide evidenced- potentially relevant articles. Meta-
+                                    based recommendations for the surgical analyses, systematic reviews, random-
+                                    pathway that is related to cesarean de- ized controlled studies, nonrandomized
+Cite this article as: Macones GA, Caughey AB, Wood SL, livery with, primarily, a maternal focus. controlled studies, reviews, and case se-
+et al. Guidelines for postoperative care in cesarean de-                ries were considered for each individual
+livery: Enhanced Recovery After Surgery (ERAS) Society Methods          topic.
+recommendations (part 3). Am J Obstet Gynecol Literature search
+2019;221:247.e1-9.
+                                    The author group was selected and vet- Quality assessment and data
+0002-9378/$36.00                    ted by the ERAS Society Guideline   analyses
+ª 2019 Elsevier Inc. All rights reserved.
+https://doi.org/10.1016/j.ajog.2019.04.012 Committee in 2017 based on expertise in The quality of evidence and recom-
+                                    the area, and a consensus topic list was mendations were evaluated according to
+
+                                                       SEPTEMBER 2019 American Journal of Obstetrics & Gynecology 247.e1
+
+
+Original Research          OBSTETRICS                                                            ajog.org
+
+                                                                        traditional feeding trials. This was a 7-
+                           AJOG at a Glance
+                                                                        hour improvement in time to ﬂatus
+  Why was this study conducted?                                         compared with those who did not chew
+  This Enhanced Recovery After Surgery Society guideline was created to support gum. Only 4 studies reported post-
+  the most common surgical procedure in the industrialized healthcare world, the operative ileus that was reduced with
+  cesarean delivery. It has the goal to enhance the quality and safety of the cesarean gum chewing (odds ratio, 0.39; 95%
+  delivery for improved maternal and fetal/neonatal outcomes through evaluation conﬁdence interval, 0.19e0.80). Hospi-
+  and audit.                                                            tal stay was not changed: e0.36 days
+                                                                        (95%  conﬁdence interval, e0.53 to
+  Key ﬁndings                                                           0.18). Quality of evidence was rated
+  The broad Enhanced Recovery After Surgery Society cesarean delivery elements “low” mainly because of lack of blinding.
+  and recommendations (Parts 1e3) break down the surgical delivery process into Applicability to all settings is limited
+  a pathway that starts at 30e60 minutes before skin incision, for both scheduled because a high proportion of subjects
+  and unscheduled cesarean deliveries, until hospital discharge and presents a had general anesthesia in many of the
+  longer pathway that manages antenatal education, maternal comorbidities, and trials.
+  immediate neonatal needs at delivery. This postoperative section (Part 3) focuses
+  on the time from the completion of cesarean delivery until maternal discharge. Summary and recommendation
+                                                                        Gum chewing appears to be effective and
+  What does this add to what is known?
+                                                                        is low risk. It may be a redundant treat-
+  This Enhanced Recovery After Surgery Society cesarean delivery guideline has
+                                                                        ment if a policy for early oral intake is
+  taken the evidenced-based knowledge that was created from the cesarean delivery
+                                                                        being used. However, it should be
+  research and has critically and with consensus published the information in a 3-
+                                                                        considered if delayed oral intake is
+  part guideline that uses the Enhanced Recovery After Surgery Society principles
+                                                                        planned. (Evidence level: low/ recom-
+  and process for improved surgical quality and safety for obstetric surgical
+                                                                        mendation grade: weak.)
+  deliveries.
+                                                                        Nausea and vomiting prevention
+                                                                        Nausea and  vomiting are common
+the  Grading  of Recommendations,   Postoperative Cesarean              symptoms that are experienced during
+Assessment, Development and Evalua- Delivery Pathway (Focused           cesarean delivery and that happen dur-
+tion system, as used and described in Elements)                         ing the surgery if the patient is awake or
+previous ERAS guidelines (Table 1).3,4 ERAS sham feeding (chewing gum)  after the procedure in the recovery
+Brieﬂy, recommendations are given in after cesarean delivery            room.8 The overall incidence of nausea
+the following manner: “Strong” recom- Sham postoperative feeding (chewing and vomiting during regional anesthesia
+mendations indicate that the panel is gum) after abdominal surgery has been for cesarean delivery is variable
+                                                                                  e
+conﬁdent that the desirable effects of evaluated in multiple clinical trials and, (21e79%).8 17 Maternal symptoms can
+adherence  to   a  recommendation   in a Cochrane review, appeared to reduce potentially prolong the duration of the
+outweigh the undesirable effects. “Weak” the time to recovery of gastrointestinal surgery and increase the risk of bleeding
+recommendations  indicate that the  function.6 In a separate review of gum and surgical trauma. Nausea and vom-
+desirable effects of adherence to a chewing after cesarean delivery, 15 clin- iting can increase the potential risk of
+recommendation probably outweigh the ical trials were identiﬁed.7 The regimens aspiration, which is a recognized cause of
+undesirable effects, but the panel is less for gum chewing varied widely in maternal death.18 Nausea and vomiting
+conﬁdent. Recommendations are based studies: initiation from immediately af- reduced patient satisfaction and delayed
+not only on the quality of evidence (high, ter the operation to up to 12 hours after discharge from hospital.
+moderate, low, and very low) but also on the operation, duration of each session There are multiple causes of nausea
+the balance between desirable and un- of 15e60 minutes, and number of ses- and vomiting during cesarean delivery.
+desirable effects. In some cases, strong sions per day from 3 to >6. In 10 of these Maternal hypotension from regional
+recommendations may be reached from studies, the comparator group was   anesthesia is a common cause. Several
+low-quality data and vice versa. The core traditional delayed feeding until return approaches are used currently to mini-
+ERAS cesarean delivery team (A.B.C., of intestinal function (bowel sounds or mize or prevent hypotension and likely
+G.A.M., S.L.W., G.N., and  R.D.W)   ﬂatus). In 2 studies, the comparator to decrease the incidence of nausea and
+reviewed the evidence in detail for each group had an early feeding policy. With vomiting. A Cochrane review study (75
+section and assigned both the recom- gum chewing (using a variety of gum studies and 4624 women who received
+mendation and evidence level (Table 2). types and duration of chewing), the time spinal anesthesia for cesarean delivery)
+Discrepancies were resolved by the lead to ﬁrst report of ﬂatus was 5.9 hours in showed that colloid or crystalloid pre-
+and senior authors.                 early feeding trials and 7.8 hours in the loading, the intravenous administration
+
+247.e2 American Journal of Obstetrics & Gynecology SEPTEMBER 2019
+
+
+ajog.org                                                          OBSTETRICS    Original Research
+
+of ephedrine or phenylephrine, and
+lower limb compression (by bandages,  TABLE 1
+              ﬂ                       Grading of Recommendations, Assessment, Development and Evaluation
+stockings, or in atable boots) reduced system5
+the     incidence    of     spinal
+                           19
+anesthesiaerelated hypotension.       Variable                         Deﬁnition
+  Antiemetic agents that have been used Rating quality of evidence:
+prophylactically during cesarean delivery evidence level
+under regional anesthesia are effective High quality                   Further research is unlikely to change
+for the prevention of nausea and vom-                                  conﬁdence in estimate of effect.
+iting.20 A multimodal approach  to
+                                        Moderate quality               Further research is likely to have important
+nausea and  vomiting prevention is                                     impact on conﬁdence in estimate of effect
+quickly becoming a standard of care. A                                 and may change the estimate.
+Cochrane review study (41 studies and   Low quality                    Further research is very likely to have
+5046 patients) demonstrated that 5-HT3                                 important impact on conﬁdence in estimate
+antagonists (eg, ondansetron, granise-                                 of effect and likely to change the estimate.
+tron), dopamine antagonists (eg, meto-  Very low quality               Any estimate of effect is very uncertain.
+clopramide, droperidol), and sedatives
+(eg, midazolam, propofol) were effective Rating strength of recommendations:
+                                      recommendation strength
+in the reduction of intraoperative nausea
+and vomiting.19 Corticosteroids (such as Strong                        When desirable effects of intervention clearly
+                                                                       outweigh the undesirable effects, or clearly
+dexamethasone) were found to reduce                                    do not.
+only intraoperative nausea and vomit-
+   8                                    Weak                           When trade-offs are less certain: either
+ing.   Anticholinergic agents (eg,                                     because of low quality evidence or
+scopolamine) were  effective at the                                    because evidence suggests desirable
+reduction of postoperative nausea and                                  and undesirable effects are closely balanced.
+        19
+vomiting.  Other interventions (opi-  Macones et al. ERAS cesarean: part 3. Am J Obstet Gynecol 2019.
+oids, supplemental oxygen, supple-
+mental intravenous ﬂuid, acupressure/
+acupuncture) did not reduce intra-  postoperative nausea and vomiting dur- provide analgesia for several hours after
+operative nausea or postoperative nausea ing cesarean delivery. Multimodal cesarean delivery, although at the
+and vomiting.8                      approach should be applied to treat expense of a number of side-effects that
+  A metaanalysis (33 trials with data postoperative nausea and vomiting. include nausea, vomiting, and pruri-
+from 3447 patients) reported that com- (Evidence level: moderate (multiple in- tus.26,27 In the absence of long-acting
+bination regimens (5-HT is combined terventions); recommendation grade: intrathecal opioids, the transversus
+with either droperidol or dexametha- strong.)                           abdominis plane ﬁeld block provides
+sone) are signiﬁcantly more effective                                   excellent postoperative pain control.28 A
+                 21
+than 5-HT3  alone.  The efﬁcacy of  Postoperative analgesia             Cochrane review of local analgesia inﬁl-
+combination antiemetic agents to pre- Poor postoperative pain control may be tration and abdominal nerve blocks
+vent nausea and vomiting in patients detrimental to recovery for surgery of found that they improved postoperative
+who underwent cesarean delivery was any kind. Pain may prolong recovery and analgesia for cesarean delivery.29
+demonstrated in a randomized  pro-  delay discharge23 and has a negative  A review of oral analgesia for post-
+spective study.22 Tropisetron 2 mg and impact on rehabilitation.24 For cesarean cesarean delivery pain relief concluded
+metoclopramide  20 mg   are highly  delivery, high pain scores have the po- that there was insufﬁcient evidence to
+effective in the prevention of nausea and tential to prevent early mobilization and make recommendations regarding the
+vomiting.                           the mother’s efforts to be independent safest and most effective form.30
+                                    and to care for her newborn  baby.  Nevertheless, the perioperative admin-
+Summary and recommendation          Multimodal analgesia is a key compo- istration of nonsteroidal antiin-
+(1) Fluid preloading, the intravenous nent in the management of post-   ﬂammatorydrugs(NSAIDs)isknown
+administration of ephedrine or phenyl- operative pain as part of an enhanced to diminish postoperative pain for ce-
+ephrine, and lower limb compression are recovery protocol,25 which results in sarean delivery.31 Evidence in the ob-
+effective in the reduction of hypotension fewer side-effects and faster post- stetric population is less clear for
+and the incidence of intraoperative and operative recovery.             paracetamol, although a systematic re-
+postoperative nausea and vomiting.    Postcesarean delivery analgesia may view of studies that included studies in
+(Evidence level: moderate; recommen- be enhanced by a number of intra-  which patients underwent cesarean de-
+dation grade: strong). (2) Antiemetic operative interventions. Long-acting livery found that the combination of
+agents are effective for the prevention of intrathecal opioids, such as morphine, NSAIDs and paracetamol was
+
+                                                       SEPTEMBER 2019 American Journal of Obstetrics & Gynecology 247.e3
+
+
+Original Research             OBSTETRICS                                                                      ajog.org
+
+
+   TABLE 2
+   Guidelines for postoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations
+
+                                                                             Recommendation
+                                                                                                    Recommendation
+   Variable                 Item                                             Evidence level         grade
+   Postoperative pathway
+     Chewing gum after      Gum chewing appears to be effective and is low risk. It Low             Weak
+     cesarean section       may be a redundant treatment if a policy for early oral
+     (focused element)      intake is being used. However, it should be considered
+                            if delayed oral intake is planned.
+     Nausea and vomiting    (1) Fluid preloading, the intravenous administration of Moderate (multiple Strong
+     prevention (focused    ephedrine or phenylephrine, and lower limb       interventions)
+     element)               compression are effective ways to reduce hypotension
+                            and the incidence of intraoperative and postoperative
+                            nausea and vomiting.
+                            (2) Antiemetic agents are effective for the prevention of Moderate      Strong
+                            postoperative nausea and vomiting during cesarean
+                            delivery. Multimodal approach should be applied to
+                            treat postoperative nausea and vomiting.
+     Postoperative          Multimodal analgesia that include regular nonsteroidal Moderate         Strong
+     analgesia (focused     antiinﬂammatory drugs and paracetamol is
+     element)               recommended for enhanced recovery for cesarean
+                            delivery.
+     Perioperative          A regular diet within the 2 hours after cesarean delivery High          Strong
+     nutritional care       is recommended.
+     (focused element)
+     Perioperative glucose  Tight control of capillary blood glucose is      Low                    Strong
+     control (focused       recommended.
+     element)
+     Prophylaxis against    (1) Pneumatic compression stockings should be used Low                  Strong
+     thromboembolism        to prevent thromboembolic disease in patients who
+     (focused element)      undergo cesarean delivery.
+                            (2) Heparin should not be used routinely for venous Low                 Weak
+                            thromboembolism prophylaxis in patients after
+                            cesarean delivery.
+     Early postecesarean    Early mobilization after cesarean delivery is    Very low               Weak
+     delivery mobilization  recommended.
+     (focused element)
+     Postecesarean          Urinary catheter should be removed immediately after Low                Strong
+     delivery urinary       cesarean delivery, if placed during surgery.
+     drainage (focused
+     element)
+   Postoperative/
+   postpartum mother
+   pathway
+     Discharge counselling  Standardized written discharge instructions should be Low               Weak
+     (focused element)      used to facilitate discharge counselling.
+
+   Macones et al. ERAS cesarean: part 3. Am J Obstet Gynecol 2019.
+
+synergistic for postoperative pain.32    and NSAIDs.33    This combination is     Summary and recommendation
+A   survey  of  practice  surrounding    cheap, effective, easy to administer, and Multimodal postoperative analgesia that
+cesarean   delivery  in   the   United   opioid-sparing, which leads to fewer     includes regular NSAIDs and paraceta-
+Kingdom   found that almost all units    opioid-related  side-effects,25 and  is  mol is recommended for enhanced re-
+were using postoperative paracetamol     compatible with ERAS regimens.           covery for cesarean delivery. (Evidence
+
+
+247.e4  American Journal of Obstetrics & Gynecology SEPTEMBER 2019
+
+
+ajog.org                                                          OBSTETRICS    Original Research
+
+level: moderate; recommendation grade: fetus.43,44 Patients with diabetes mellitus number of serious side-effects that
+strong.)                            who undergo surgery have increased  include hyperglycemia and hypoglyce-
+                                    complications (particularly wound in- mia, hyponatremia, and hypokalemia.
+Perioperative nutritional care      fections), length of hospital stay, and It requires appropriate ﬂuids to run
+There   are  multiple  randomized   death.45 Patients with undiagnosed dia- along aside the insulin with 5%
+controlled trials on the subject of early betes mellitus are at greater risk, with a dextrose and 0.45% saline solution with
+feeding from countries across the world dose-response relationship between the additional potassium chloride. Hourly
+with differing cultural norms dating level of capillary blood glucose (CBG) and CBG monitoring is required; 20%
+                e
+back >15 years.34 41 Early feeding is composite adverse events.46 Conversely, glucose (50e100 mL) is available to
+deﬁned variably as feeding as early as 30 strict control of hyperglycemia can help to treat hypoglycemia.52,53
+minutes34 and up to 8 hours after ce- reduce surgical site infections.47  Cesarean deliveries are best carried
+sarean delivery.35 The largest trial to The level of control of CBG is a out under a regional technique where
+study early feeding randomized 1154 complex area; for nonobstetric patients, possible. Not only does it avoid the risk
+patients to conventional feeding within the ideal range is probably 6e10 mmol/ of general anesthesia, but in addition
+18 hours or early feeding within 2  L.48 Lower limits of 4e7 mmol/L are regional anesthesia will considerably
+hours and demonstrated a reduction in recommended at the time of delivery to obtund the ‘stress’ response (including
+thirst and  hunger  and  improved   reduce fetal hypoglycemia49 that often the hyperglycemic response) to surgery.
+maternal satisfaction, ambulation, and will require variable rate insulin in- CBG is optimally measured every 30 min
+length of stay, with no impact on   fusions, formerly known as a sliding from induction of general anesthesia
+readmissions or gastrointestinal symp- scale. As a result, these standards have until the mother is fully conscious.49
+toms or infections.38 The ﬁndings of been challenged, and a higher upper  Oral carbohydrate preloading is an
+this trial are similar to those in other limit of 8 mmol/L is suggested by Modi area of controversy for patients with
+trials that have demonstrated similar or et al,50 because there is little further risk impaired glucose control. Although the
+enhanced satisfaction, earlier resump- of fetal hypoglycemia. Moreover, CBG patient may beneﬁt from the advantages
+tion of solid food, accelerated return of meters have been shown to have, at least, of preloading (such as reduced length of
+bowel activity, and reduced length of a 15% error that is permitted by the US stay and reduced complications for some
+stay with  no  evidence of  higher  Food and Drug Administration, with a surgeries) and, in particular, a reduction
+complication rates related to wound measured CBG of 4 mmol/L that could in insulin resistance, there are no large
+                   e
+healing or infection.34 41 A systematic be as low as 3.4 mmol/L, thereby putting trials to support or refute its use in
+review and metaanalysis of 17 studies mothers at risk of severe maternal hy- women with diabetes mellitus. The ma-
+also supported these ﬁndings.41 One poglycemia (<2.8 mmol/L).48         jority of diabetic care providers would
+study did document increased nausea   For patients who take insulin for not support its use in diabetic patients
+with early resumption of diet, but this type I diabetes mellitus, the major because of the fear of worsening of
+was this was self-limited.34 Descriptions issue is to never stop all insulin glucose control. Patients, nevertheless,
+of postoperative diets vary. The post- because ketoacidosis may develop should be scheduled early in the day
+operative diet should provide more  rapidly. The manipulation of periop- (particularly those who require insulin)
+servings of milk, fruit, vegetables, and erative insulin is complex, with a small with minimal fasting to reduce the risk of
+calories to support breast feeding. That evidence base for patients who un- dehydration, acidosis, and ketosis
+diet should provide adequate ﬁber to dergo cesarean delivery.             After delivery of the fetus, maternal
+prevent constipation.                 Generally, the dose of once daily insulin requirements fall rapidly, and
+                                    long-acting insulins are reduced by 20% CBG should be checked if the patient is
+Summary and recommendation          with more frequent injections of short- receiving insulin. There is a further risk of
+A regular diet within the 2 hours after acting insulin or mixtures reduced by hypoglycemia during breast feeding too.
+cesarean delivery is recommended. (Ev- 50%. CBG are measured on admission Patients with gestational diabetes mellitus
+idence level: high; recommendation  to hospital. The aim is to return the should discontinue therapy and those
+grade: strong.)                     patient to normal insulin with food as with type II diabetes mellitus can
+                                    soon as possible after surgery. The use continue with metformin and glibencla-
+Perioperative glucose control       of continuous subcutaneous insulin  mide even if breastfeeding.49 The neonate
+Insulin resistance is a common physio- pumps are increasing in usage and will is at risk of severe hypoglycemia after
+logic change in pregnancy. There are often be advised to reduce the basal delivery; there must be assessment by a
+various controversies about the peri- infusion by 10e20% and to omit the pediatrician regarding whether admission
+partum treatment of diabetic patients.42 bolus dose before meals.51 The use of to a neonatal unit is appropriate.
+  Diabetes mellitus in pregnancy is the variable rate insulin infusions is still Finally these patients require coun-
+associated with adverse outcomes that popular for patients who take insulin or seling, advice (diet, weight control, and
+include an increase in morbidity and with signiﬁcant hyperglycemia (>12 exercise), and follow-up evaluation to
+mortality rates for both the mother and mmol/L), but it is associated with a minimize the impact of poor glucose
+
+                                                       SEPTEMBER 2019 American Journal of Obstetrics & Gynecology 247.e5
+
+
+Original Research          OBSTETRICS                                                            ajog.org
+
+control on their future health, such as Summary and recommendation      Urinary drainage after cesarean
+worsening of glucose control and car- (1) Pneumatic compression stockings delivery
+diovascular disease.                should be used to prevent thromboem- Urinary catheter placement during ce-
+                                    bolic disease in patients who undergo sarean delivery is a widely accepted prac-
+Summary and recommendations         cesarean delivery. (Evidence level: low; tice. It is believed generally that bladder
+Tight control of CBG postoperatively is recommendation grade: strong.) (2) drainage can measure urinary output,
+recommended. (Evidence  level: low; Heparin should not be used routinely for reduce urinary system injuries, and
+recommendation grade: strong.)      venous thromboembolism prophylaxis  decrease postoperative urinary reten-
+                                    in patients after cesarean delivery. (Evi- tion.57 However, urinary tract infection is
+Prophylaxis against                 dence level: low; recommendation grade: 1 of the most common complications
+                                                                                            e
+thromboembolism                     weak.)                              after cesarean delivery.58 61 Indwelling
+Pregnant and postpartum women are at                                    urinary catheters can increase the inci-
+an increased risk of venous thromboem- Early mobilization after cesarean dence of urinary tract infection, urethral
+bolism. A variety of modalities are avail- delivery                     pain, and difﬁcult voiding. These com-
+able to reduce the risk of postecesarean Early mobilization theoretically can plications result in delayed ambulation,
+delivery thromboembolic disease that improve a number of short-term out- prolonged hospital stay, and increased
+include mechanical methods (graduated comes after surgery, which include rapid costs.
+compression  stockings, intermittent return of bowel function, reduced risk of In 2003, Ghoreishi57 conducted a
+pneumatic compression) and pharma-  thrombosis, and decreased length of stay. prospective study with 270 patients who
+cologic methods (unfractionated heparin, There are no available data to judge underwent cesarean delivery. The results
+low molecular weight heparin).      whether early mobilization improves indicated that placement of a urinary
+  A recent Cochrane review assessed the outcomes after cesarean delivery.56 catheter during cesarean delivery did not
+efﬁcacy  of  some    strategies for   Early mobilization is often part of a improve surgical exposure of the lower
+postecesarean delivery thrombopro-  surgical bundle “fast track” or “enhanced uterine segment or reduce injury to the
+phylaxis. In the comparison of heparin recovery after surgery” (ie, ERAS). These urinary tract. Patients without
+(either low molecular weight heparin or bundles include extensive preoperative indwelling urinary catheters had a
+unfractionated heparin) with placebo/ counseling, improved preoperative shorter mean ambulation time and
+no treatment, there were no differences nutrition, improved pain relief along length of hospital stay. In a non-
+in symptomatic thromboembolic events with rapid postoperative diet resump- randomized clinical trial with 344 pa-
+(relative risk, 1.30; 95% conﬁdence in- tion, and early mobilization. This bundle tients, Senanayake62 demonstrated that
+terval [CI], 39.0e4.27), symptomatic of care has not been evaluated in patients there was low incidence of postoperative
+pulmonary embolism (relative risk, 1.10; after cesarean delivery. Additionally, urinary retention after cesarean delivery
+95%  CI, 0.25e4.87), or symptomatic there are no randomized controlled trials in patients without an indwelling uri-
+deep vein thrombosis (relative risk, 1.74; of this process in gynecologic patients. A nary catheter.
+95%  CI, 0.23e13.31). Importantly, in recent Cochrane review of this bundled In a prospective study, 420 patients
+this metaanalysis, there were few studies approach in colorectal surgery patients who underwent elective cesarean de-
+that enrolled a relatively small number of included 4 small randomized trials of livery were assigned randomly into an
+patients who were generally not of high low quality. Complications were reduced noncatheterized group or a catheterized
+methodologic quality. In addition, there with the ERAS process, although not group (the catheter was removed 12
+were no included studies that compared because of a reduction in major com- hours postoperatively).63 The study re-
+mechanical with pharmacologic throm- plications. The review concluded that ported that mean time to patient
+boprophylaxis or mechanical methods quantity and quality of the data in this ambulation, ﬁrst postoperative voiding,
+with placebo/no treatment.54        population are low and  that ERAS   oral rehydration, bowel movement, and
+  One recent study from a large health should not be adopted universally based length of hospital stay were signiﬁcantly
+system compared rates of postecesarean on these data. It is important to note less in the noncatheterized group
+delivery pulmonary embolism deaths in that, in addition to these studies being (P<.001). Even though the urinary
+the time period before a universal policy done on patients very different from catheter was removed 12 hours after
+for pneumatic compression stockings to obstetrics patients, the effects of the in- surgery, the incidence of urinary tract
+the time period after implementation. dividual components of the bundle infection was signiﬁcantly higher (5.7%
+There was a signiﬁcant reduction in death cannot be separated analytically.56 vs 0.5%; P<.001). A systemic review (2
+from postecesarean delivery pulmonary                                   randomized controlled trials and 1
+embolism between these 2 time periods Summary and recommendation        nonrandomized    controlled  trial)
+(7/458,097 cesarean births before imple- Early mobilization after cesarean de- concluded that urinary catheter usage is
+mentation vs 1/456,880 cesarean births livery is recommended. (Evidence level: associated with higher rates of urinary
+after implementation; P¼.038).55    very low; recommendation grade: weak.) tract infections.64 Urinary catheter does
+
+
+247.e6 American Journal of Obstetrics & Gynecology SEPTEMBER 2019
+
+
+ajog.org                                                          OBSTETRICS    Original Research
+
+not reduce postoperative urinary reten- have been explored, but there are not assessment/improvement research,
+tion or decrease intraoperative surgical extensive support data at present.69 evaluation, audit, and collaboration will
+difﬁculties.64                        Looking at what can be learned from be required for enhancement of the
+  In another prospective randomized other areas, a systematic review of 30 maternal and fetal health outcomes,
+clinical trial of immediate (n¼150) vs randomized controlled trials that have quality, and safety.      n
+12-hour (n¼150) removal of the urinary evaluated discharge planning across
+                                                                        References
+catheter in women who undergo elective multiple patient groups and medical
+                                                                        1.
+cesarean delivery, the incidence of post- specialties found that overall discharge Steenhagen E. Enhanced recovery after sur-
+                                                                        gery: It’s time to change practice! Nutr Clin Pract
+operative bacteriuria, dysuria, burning planning may lead to a small reduction 2016;31:18–29.
+on the micturition, urinary frequency in length of stay, a reduced risk of read- 2. Elias KM. Understanding enhanced recovery
+and urgency, the time till the ﬁrst void- mission for some patient groups, and after surgery guidelines: An introductory
+ing, mean  postoperative ambulation increased satisfaction for both patients approach. J Laparoendosc Adv Surg Tech A
+                                                        70              2017;27:871–5.
+time, and length of hospital stay were and health professionals. With a focus 3.
+    ﬁ                                                                    Wilson RD, Caughey AB, Wood SL, et al.
+signi cantly lower in the immediate exclusively on surgical patients, 2 trials Guideline for antenatal and preoperative care in
+                           65
+urinary catheter removal group.     reported a nonsigniﬁcant reduction in cesarean delivery: Enhanced Recovery after
+  A Cochrane review (5 randomized   length of stay (e0.06 days; 95% CI, Surgery Society recommendations (part 1). Am
+controlled trials with 1065 patients) e1.23 to 1.11); 1 trial reported a J Obstet Gynecol 2018;219:523.
+                                                                        4.
+showed that the use of urinary catheters nonsigniﬁcant difference in readmission Caughey AB, Wood SL, Macones GA, et al.
+                                          þ             e           70  Guidelines for intraoperative care in cesarean
+in patients who underwent cesarean de- rates ( 3%; 95% CI, 7 to 13%).   delivery: Enhanced Recovery after Surgery So-
+livery was associated with increased time Additionally, a prospective before-and- ciety recommendations (part 2). Am J Obstet
+to ﬁrst voiding, higher incidence of after study of 1219 patients found that Gynecol 2018;219:533–44.
+discomfort because of catheterization, compliance with discharge instructions 5. Guyatt GH, Oxman AD, Vist GE, et al.
+delayed postoperative ambulation, and in the emergency department was   GRADE: an emerging consensus on rating
+                      66                                                quality of evidence and strength of recommen-
+prolonged stay in hospital.         increased from 26.2% to 36.2% (odds dations. BMJ 2008;336:924–6.
+                                    ratio, 1.59; 95% CI, 1.2e2.1) with the 6. Short V, Herbert G, Perry R, et al. Chewing
+Summary and recommendation          provision of standardized written infor- gum for postoperative recovery of gastrointes-
+In women who do not need ongoing    mation that included information on the tinal function. Cochrane Database Syst Rev
+strict assessment of urine output, the diagnosis, medication dosage and length 2015;2:CD006506.
+                                                                        7. Pereira Gomes Morais E, Riera R, Porﬁrio GJ,
+urinary catheter should be removed  of treatment, potential medication side- et al. Chewing gum for enhancing early recovery
+immediately after cesarean delivery, if effects, and suggested time and location of bowel function after caesarean section.
+placed during surgery. (Evidence level: of out-patient clinic follow up.71 Cochrane Database Syst Rev 2016;10:
+low; recommendation grade: strong.)                                     CD011562.
+                                    Summary and recommendations         8. Grifﬁths JD, Gyte GML, Paranjothy S,
+Postoperative/Postpartum                                                Brown HC, Broughton HK, Thomas J. In-
+                                    Standardized written discharge in-  terventions for preventing nausea and vomiting
+Mother Pathway (Focused             structions should be used to facilitate in women undergoing regional anaesthesia for
+Element)                            discharge counselling. (Evidence level: caesarean section. Cochrane Database Syst
+Discharge counseling                low; recommendation grade: weak)    Rev 2012;9:CD007579.
+                                                                        9.                         ﬁ
+There is limited research on speciﬁc                                     Pan PH, Moore CH. Comparing the ef cacy of
+                                    Comment                             prophylactic metoclopramide, ondansetron and
+optimal  discharge counselling for                                      placebo in cesarean section patients given
+women after cesarean delivery. However, The ERAS cesarean delivery guideline/ epidural anesthesia. J Clin Anesth 2001;13:
+active surveillance of complications after pathway has created a pathway (for 430–5.
+discharge after cesarean delivery suggests scheduled and unscheduled surgery 10. Harmon D, Ryan M, Kelly A, Bowen M.
+that surgical site infections occur in starting from 30e60 minutes before skin Acupressure and prevention of nausea and
+                          >                                             vomiting during and after spinal anaesthesia for
+approximately 10% of patients, 80% of incision to maternal discharge) with 5 cesarean section. Br J Anaesth 2000;84:463–7.
+                          67
+which develop after discharge, which pre- elements (8 recommendations); 4 11. Carvalho JCA, Cardoso MMSC, Capelli EL,
+indicates a need for women to be pro- intraoperative elements (9 recommen- et al. Prophylactic ephedrine during cesarean
+vided with comprehensive information dations); 9 postoperative elements (11 delivery under spinal anesthesia. Dose-
+on the normal discharge course, signs recommendations, which are the focus response study of bolus and continuous infu-
+                                                                        sion administration. Braz J Anesthesiol (Int)
+and symptoms of infection, activity re- of this document); and 1 neonatal 2000;11:32–7.
+strictions, and instructions on when to element (6 recommendations).    12. Abouleish EI, Rashid S, Haque S,
+seek medical attention. The Perceived The maternity clinical care area has Giezentanner A, Joynton P, Chuang AZ.
+Readiness for Discharge After Birth Scale complex pathways, but there are Ondansetron versus placebo for the control of
+is a validated tool that may help clini- increasing risk management factors that nausea and vomiting during caesarean section
+                                                                        under spinal anaesthesia. Anaesthesia 1999;54:
+cians to identify patients who are at are related to obstetric comorbid medi- 479–82.
+increased risk  of  problems  after cal, genetic, surgical, and lifestyle 13. Ure D, James KS, McNeil M. Glycopyrrolate
+discharge.68 Web-based opportunities factors. More prospective and quality reduces nausea during spinal anaesthesia for
+
+                                                       SEPTEMBER 2019 American Journal of Obstetrics & Gynecology 247.e7
+
+
+Original Research                  OBSTETRICS                                                                                   ajog.org
+
+
+caesarean section without affecting neonatal   undergoing cesarean section with spinal anes-   40. Patolia DS, Hilliard RL, Toy EC, Baker B.
+outcome. Br J Anaesth 1999;82:277–9.           thesia: a qualitative and quantitative systematic Early feeding after cesarean: randomized trial.
+14. Stein  DJ,  Birnbach   DJ,   Danzer   B,   review of randomized controlled trials. Anes-   Obstet Gynecol 2001;98:113–6.
+Kuroda   MM,    Grunebaum    T,  Thys   DM.    thesiology 1999;91:1919–27.                     41. Hsu YY, Hung HY, Chang YI. Early oral
+Acupressure versus iv metoclopramide to pre-   27. Sultan P, Halpern SH, Pushpanathan E,       intake and gastrointestinal function after cesar-
+vent nausea and vomiting during spinal anes-   Patel S, Carvalho B. The effect of intrathecal  ean delivery: a systematic review and meta-
+thesia for cesarean  section. Anesth   Analg   morphine dose on outcomes after elective ce-    analysis. Obstet Gynecol 2013;121:1327–34.
+1997;84:342–5.                                 sarean delivery: a meta-analysis. Anesth Analg  42. Modi A, Levy N, Hall GM. Controversies in
+15. Lussos SA, Datta S, Bader AM. The anti-    2016;123:154–64.                                the  peripartum  management     of diabetes.
+emetic  efﬁcacy and   safety of prophylactic   28. Abdallah FW, Halpern SH, Margarido CB.      Anaesthesia 2016;71:750–5.
+metoclopramide for elective cesarean delivery  Transversus abdominis plane block for post-     43. HAPO Study Cooperative Research Group.
+during spinal anesthesia. Reg Anesth 1992;17:  operative analgesia after caesarean   delivery  Hyperglycemia and   adverse pregnancy out-
+126–30.                                        performed under spinal anaesthesia? A sys-      comes. N Engl J Med 2008;358:1991–2002.
+16. Chestnut DH, Vandewalker GE, Owen CL.      tematic review and meta-analysis. Br J Anaesth  44. Negrato CA, Mattar R, Gomes MB. Adverse
+Administration of metoclopramide for prevention 2012;109:679–87.                               pregnancy outcomes in women with diabetes.
+of nausea and vomiting during epidural anes-   29. Bamigboye AA, Hofmeyr GJ. Local anaes-      Diabetol Metab Syndr 2012;4:41.
+thesia for elective cesarean section. Anesthesi- thetic wound inﬁltration and abdominal nerves 45. Frisch A, Chandra P, Smiley D, et al. Preva-
+ology 1987;66:563–6.                           block  during  caesarean   section for post-    lence and clinical outcome of hyperglycemia in
+17. Santos A, Datta S. Prophylactic use of dro- operative pain relief. Cochrane Database Syst  the perioperative period in noncardiac surgery.
+peridol for control of nausea and vomiting during Rev 2009;3:CD006954.                         Diabetes Care 2010;33:1783–8.
+spinal anesthesia for cesarean section. Anesth 30. Mkontwana N, Novikova N. Oral analgesia     46. Kotagal M, Symons RG, Hirsch IB, et al.
+Analg 1984;63:85–7.                            for relieving post-caesarean pain. Cochrane     Perioperative hyperglycemia and risk of adverse
+18. Paranjothy S, Grifﬁths JD, Broughton HK,   Database Syst Rev 2015;3:CD010450.              events among patients with and without dia-
+Gyte GM, Brown HC, Thomas J. Interventions at  31. McDonnell NJ, Keating ML, Muchatuta NA,     betes. Ann Surg 2015;261:97–103.
+caesarean section for reducing the risk of aspi- Pavy TJ, Paech MJ. Analgesia after caesarean  47. De Vries FE, Gans SL, Solomkin JS, et al.
+ration pneumonitis. Cochrane Database Syst     delivery. Anaesth   Intensive Care  2009;37:    Meta-analysis  of lower perioperative  blood
+Rev 2010;1:CD004943.                           539–51.                                         glucose target levels for reduction of surgical-
+19. Emmett   RS,   Cyna   AM,   Andrew    M,   32. Ong CK, Seymour RA, Lirk P, Merry AF.       site infection. Br J Surg 2017;104:e95–105.
+Simmons SW. Techniques for preventing hy-      Combining paracetamol (acetaminophen) with      48. Aldam  P, Levy N, Hall GM. Perioperative
+potension   during   spinal  anesthesia   for  nonsteroidal antiinﬂammatory drugs: a qualita-  management of diabetic patients: new contro-
+caesarean section. Cochrane Database Syst      tive systematic review of analgesic efﬁcacy for versies. Br J Anaesth 2014;113:906–9.
+Rev 2006;4:CD002251.                           acute   postoperative  pain.  Anesth   Analg    49. National Institute for Health and   Care
+20. Balki M, Carvalho JC. Intraoperative nausea 2010;110:1170–9.                               Excellence. Diabetes in pregnancy: manage-
+and vomiting during cesarean section under     33. Aluri S, Wrench IJ. Enhanced recovery from  ment from   preconception  to  the  postnatal
+regional anesthesia. Int J   Obstet Anesth     obstetric surgery: a UK survey of practice. Int J period. Available at: https://www.nice.org.uk/
+2005;14:230–41.                                Obstet Anesth 2014;23:157–60.                   guidance/ng3. Accessed October 1, 2017.
+21. Habib AS, El-Moalem HE, Gan TJ. The efﬁ-   34. Teoh    WHL,    Shah    MK,   Mah    CL.    50. Modi A, Levy N, Hall GM. Controversies in
+cacy of the 5-HT3 receptor antagonists com-    A randomised controlled trial on beneﬁcial ef-  the  peripartum  management     of diabetes.
+bined with droperidol for PONV prophylaxis is  fects of early feeding post-caesarean delivery  Anaesthesia 2016;71:750–5.
+similar to their combination with dexametha-   under regional anaesthesia. Singapore Med J     51. Partridge H,   Perkins  B,  Mathieu   S,
+sone. A meta-analysis of randomized controlled 2007;48:152.                                    Nicholls A, Adeniji K. Clinical recommendations
+trials. Can J Anaesth 2004;51:311–9.           35. Izbizky GH, Minig L, Sebastiani MA, Otano L. in the management of the patient with type 1
+22. Voigt M, Fröhlich CW, Hüttel C, et al. Pro- The  effect of early  versus  delayed  post    diabetes on insulin pump therapy in the periop-
+phylaxis of intra- and postoperative nausea and caesarean feeding on women’s satisfaction: a   erative period: a primer for the anaesthetist. Br J
+vomiting in patients during cesarean section in randomized controlled trial. BJOG 2008;115:    Anaesth 2016;116:18–26.
+spinal anesthesia. Med  Sci Monit 2013;19:     332–8.                                          52. Dhatariya K, Levy N, Kilvert A, et al. NHS
+993–1000.                                      36. Orji EO, Olabode TO, Kuti O, Ogunniyi AO.   Diabetes guideline for the perioperative man-
+23. American Society of Anesthesiologists Task A randomized controlled trial of early initiation of agement of the adult patient with diabetes.
+Force on Acute Pain Management. Practice       oral feeding after cesarean section. J Matern   Diabet Med 2012;29:420–33.
+guidelines for acute pain management in the    Fetal Neonatal Med 2009;22:65–71.               53. Barker P, Creasey PE, Dhatariya K, et al.
+perioperative setting: an updated report by the 37. Masood   SN,   Masood     Y,  Naim   U,    Peri-operative management of the surgical pa-
+American Society of Anesthesiologists Task     Masood MF. A randomized comparative trial       tient with diabetes 2015. Anaesthesia 2015;70:
+Force on Acute Pain Management. Anesthesi-     of early initiation of oral maternal feeding    1427–40.
+ology 2012;16:248–73.                          versus conventional oral feeding after cesar-   54. Bain E, Wilson A, Tooher R, Gates S,
+24. Horlocker TT, Kopp   SL, Pagnano    MW,    ean delivery. Int J Gynaecol Obstet 2014;126:   Davis L-J, Middleton P. Prophylaxis for venous
+Hebl JR. Analgesia for total hip  and  knee    115–9.                                          thromboembolic disease in pregnancy and the
+arthroplasty: a multimodal pathway featuring   38. Jalilian N, Ghadami MR. Randomized clin-    early postnatal period. Cochrane Database Syst
+peripheral nerve block. J Am Acad Orthop Surg  ical trial comparing postoperative outcomes of  Rev 2014;2:CD001689.
+2006;4:26–35.                                  early versus late oral feeding after cesarean   55. Clark SL, Christmas JT, Frye DR, Meyers JA,
+25. Tan M, Siu-Chun Law L, Joo Gan T. Opti-    section. J  Obstet Gynaecol Res 2014;40:        Perlin JB. Maternal mortality in the United States:
+mizing pain management to facilitate enhanced  1649–52.                                        predictability and the impact of protocols on fatal
+recovery after surgery pathways. J Can Anesth  39. Nantasupha     C,    Ruengkhachorn      I,  postcesarean    pulmonary    embolism    and
+2015;62:203–18.                                Ruangvutilert P. Effect of conventional diet    hypertension-related intracranial hemorrhage.
+26. Dahl JB, Jeppesen     IS, Jørgensen   H,   schedule, early feeding and early feeding plus  Am J Obstet Gynecol 2014;211:32.
+Wetterslev J, Møiniche S. Intraoperative and   domperidone on postcesarean diet tolerance: a   56. Spanjersberg WR, Reurings J, Keus F, van
+postoperative analgesic efﬁcacy and adverse    randomized controlled trial. J Obstet Gynaecol  Laarhoven C. Fast track surgery versus con-
+effects of  intrathecal opioids  in  patients  Res 2016;42:519–25.                             ventional recovery  strategies for colorectal
+
+247.e8   American Journal of Obstetrics & Gynecology SEPTEMBER 2019
+
+
+ajog.org                                                                               OBSTETRICS          Original Research
+
+
+surgery. Cochrane Database Syst Rev 2011;2:    caesarean section necessary? A systematic re-   emergency department referral: the effect of
+CD007635.                                      view. BJOG 2011;118:400–9.                      computerized   discharge   instructions. Ann
+57. Ghoreishi J. Indwelling urinary catheters in 65. El-Mazny A, El-Sharkawy M, Hassan A.      Emerg Med 1993;2:819–23.
+cesarean  delivery. Int J  Gynaecol Obstet     A    prospective  randomized    clinical trial
+2003;83:267–70.                                comparing immediate versus delayed removal of
+58. Schwartz  MA, Wang     CC, Eckert LO,      urinary catheter following elective cesarean
+Critchlow CW. Risk factors for urinary tract   section. Eur J Obstet Gynecol Reprod Biol       Author and article information
+infection in the postpartum period. Am J Obstet 2014;181:111–4.                                From the Department of Obstetrics & Gynecology,
+Gynecol 1999;181:547–53.                       66. Abdel-Aleem H, Aboelnasr MF, Jayousi TM,    Washington University in St Louis, St. Louis, MO (Dr
+59. Barnes JS. Is it better to avoid urethral  Habib FA. Indwelling bladder catheterisation as Macones); the Department of Obstetrics & Gynecology,
+catheterization at hysterectomy and cesarean   part of intraoperative and postoperative care for Oregon Health & Science University, Portland, OR (Drs
+section? Aust NZ J Obstet Gynaecol 1998;8:     caesarean section. Cochrane Database Syst       Caughey, Metcalfe, Nelson, and Wilson); the Department
+15–316.                                        Rev 2014;4:CD010322.                            of Obstetrics & Gynecology, Cumming School of Medi-
+60. Bartzen PJ, Hafferty FW. Pelvic laparotomy 67. Ward    VP,   Charlett   A,   Fagan    J,   cine, University of Calgary, Calgary, Alberta, Canada (Dr
+without an indwelling catheter. A retrospective Crawshaw SC. Enhanced surgical site infection  Wood); the Shefﬁeld Teaching Hospitals Trust, Royal
+review of 949 cases. Am   J Obstet Gynecol     surveillance following caesarean section: expe- Hallamshire Hospital, Glossop Road, Shefﬁeld, United
+1987;156:1426–32.                              rience  of a  multicentre collaborative post-   Kingdom (Dr Wrench); the Anesthesiologists of Greater
+61. Leigh DA, Emmanuel FX, Segdwick       J,   discharge  system. J   Hosp  Infect 2008;70:    Orlando, Orlando, FL (Dr Huang); the Division of Pediat-
+Dean R. Post-operative urinary tract infection 166–73.                                         rics, Department of Clinical Science, Intervention and
+and wound infection in women undergoing ce-    68. Weiss ME, Ryan P, Lokken L. Validity and    Technology, Karolinska Institutet, Stockholm, Sweden (Dr
+sarean section: a comparison of two study pe-  reliability of the  perceived  readiness  for   Norman); the Division of Obstetrics, Department of Clin-
+riods in 1985 and 1987. J Hosp Infect 1989;13: discharge after birth scale. J Obstet Gynecol   ical Science, Intervention and Technology, Karolinska
+349–54.                                        Neonatal Nurs 2006;35:34–45.                    Institutet, Stockholm, Sweden (Dr Pettersson); the
+62. Senanayake H. Elective cesarean section    69. Castillio E, McIsaac  C, MacDougall B,      Department of Anaesthesia, Royal Surrey County Hospi-
+without  urethral catheterization. J  Obstet   Wilson D, Kohr R. Post-caesarean section sur-   tal, Egerton Road, Guildford, United Kingdom (Dr Faw-
+Gynaecol Res 2005;31:32–7.                     gical site infection surveillance using an online cett); the Departments of Anesthesiology and Intensive
+63. Nasr AM, El Bigawy AF, Abdelamid AE, Al-   database   and   mobile   phone   technology.   Care, Alzahra Hospital, Dubai, United Arab Emirates (Dr
+Khulaidi S, Al-Inany HG, Sayed EH. Evaluation of J Obstet Gynecol Can 2017;39:645–51.          Shalabi); the Department of Medicine, University of
+the use vs nonuse of urinary catheterization   70. Goncalves-Bradley    DC,    Lannin   NA,    Alberta, Edmonton, Alberta, Canada (Dr Gramlich).
+during cesarean delivery: a prospective, multi- Clemson   LM, Cameron     ID, Shepperd    S.     Received Feb. 11, 2019; revised April 2, 2019;
+center, randomized controlled trial. J Perinatol Discharge planning from hospital. Cochrane    accepted April 9, 2019.
+2009;29:416–21.                                Database Syst Rev 2016;1:CD000313.                The authors report no conﬂict of interest.
+64. Li L, Wen J, Wang L, Li YP, Li Y. Is routine 71. Vukmir RB, Kremen R, Ellis GL, DeHart DA,   Corresponding author: George A. Macones, MD.
+indwelling catheterisation of the bladder for  Plewa   MC, Menegazzi J. Compliance      with   maconesg@wudosis.wustl
+
+
+                                                                         SEPTEMBER 2019   American Journal of Obstetrics & Gynecology 247.e9
+
+
+

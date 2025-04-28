@@ -1,0 +1,1529 @@
+ Review
+
+Consensus guidelines for enhanced recovery after gastrectomy
+Enhanced Recovery After Surgery (ERAS®) Society recommendations
+
+K. Mortensen1, M. Nilsson2, K. Slim3,M.Schäfer4, C. Mariette5,M.Braga6, F. Carli7,
+N. Demartines4,S.M.Griffin8        and K. Lassen1     on behalf of the Enhanced Recovery After Surgery
+(ERAS®) Group
+
+1Department of Gastrointestinal and Hepatobiliary Surgery, University Hospital of Northern Norway, Tromsø, Norway, 2Department of Surgical
+Gastroenterology, Karolinska University Hospital, Stockholm, Sweden, 3Department of Digestive Surgery, Centre Hospitalier Universitaire Estaing,
+Clermont-Ferrand, France, 4Department of Visceral Surgery, University Hospital of Lausanne (Centre Hospitalier Universitaire Vaudois), Lausanne,
+Switzerland, 5Department of Digestive and Oncological Surgery, University Hospital C. Huriez, Lille, France, 6Department of Surgery, San Raffaele
+University, Milan, Italy, 7Department of Anesthesia, McGill University Health Centre, Montreal, Quebec, Canada, and 8Northern Oesophagogastric
+Cancer Unit, Royal Victoria Infirmary, Newcastle Upon Tyne, UK
+Correspondence to: Dr K. Mortensen., Department of Gastrointestinal and Hepatobiliary Surgery, University Hospital of Northern Norway, 9038 Breivika,
+Norway (e-mail: kim.mortensen@unn.no)
+
+      Background:  Application of evidence-based perioperative care protocols reduces complication rates,
+      accelerates recovery and shortens hospital stay. Presently, there are no comprehensive guidelines for
+      perioperative care for gastrectomy.
+      Methods: An international working group within the Enhanced Recovery After Surgery (ERAS®) Soci-
+      ety assembled an evidence-based comprehensive framework for optimal perioperative care for patients
+      undergoing gastrectomy. Data were retrieved from standard databases and personal archives. Evidence
+      and recommendations were classified according to     the Grading of      Recommendations,  Assessment,
+      Development and Evaluation (GRADE) system   and were discussed until consensus was reached within
+      the group. The quality of evidence was rated ‘high’, ‘moderate’, ‘low’ or ‘very low’. Recommendations
+      were graded as ‘strong’ or ‘weak’.
+      Results: The available evidence has been summarized and recommendations are given for 25 items, eight
+      of which contain procedure-specific evidence. The quality of evidence varies substantially and further
+      research is needed for many issues to improve the strength of evidence and grade of recommendations.
+      Conclusion: The present evidence-based framework provides comprehensive advice on optimal peri-
+      operative care for the patient undergoing gastrectomy and facilitates multi-institutional prospective
+      cohort registries and adequately powered randomized trials for further research.
+
+      Paper accepted 8 May 2014
+      Published online 21 July 2014 in Wiley Online Library (www.bjs.co.uk). DOI: 10.1002/bjs.9582
+
+
+Introduction                                                A large body of literature suggests that such protocols
+                                                            are pivotal in improving patient outcomes. An inter-
+Enhanced   recovery  protocols  for  perioperative care
+                                                            national working  group  with  extensive experience in
+have proven   valuable in reducing complications after
+                                                            enhanced recovery following surgery aimed to construct
+surgery, improving   overall outcomes and    shortening
+                                                            a comprehensive and evidence-based framework for best
+length of stay, thus also  saving  resources1. Updated
+                                                            perioperative care in elective gastric cancer surgery and to
+and evidence-based guidelines have been developed by
+                                                            process this through an expanded international group to
+the Enhanced Recovery After Surgery (ERAS®) study
+                                                            achieve consensus behind the recommendations.
+group and are now available for colonic and rectal resec-
+tions  and   pancreaticoduodenectomies2–7.    Although
+several publications have highlighted sporadic efforts to   Methods
+evaluate enhanced recovery or fast-track pathways for
+patients undergoing elective gastrectomy for cancer8,9,a    The group was initiated from  within the ERAS®    Soci-
+comprehensive and evidence-based framework is lacking.      ety and was reinforced with acknowledged specialists from
+
+
+© 2014 BJS Society Ltd                                                                       BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                              13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+1210                                               K. Mortensen, M. Nilsson, K. Slim, M. Schäfer, C. Mariette, M. Braga et al.
+
+
+several countries to achieve a broad knowledge base and Procedure-specific items versus general upper
+ensure international validity for the conclusions. A core abdominal surgery items
+group (K.M., K.L., M.N., K.S., M.S.) performed a com-
+                                                    Several enhanced recovery items are probably unrelated
+prehensive literature search between September 2012 and
+                                                    to the specific intra-abdominal procedure (for example
+April 2013, and constructed a primary set of recommenda-
+                                                    glycaemic control, fluid management, antimicrobial pro-
+tions based on reports published between 1985 and 2013.
+                                                    phylaxis) and these are referred to here as ‘general’ as
+The entire authorship group repeatedly added scientific
+                                                    opposed  to ‘procedure-specific’ items. Recent publi-
+content, and adjusted evaluation of evidence and strength
+                                                    cations have assessed a large number of general enhanced
+of conclusions. As most of the authors had worked together
+                                                    recovery care items, and reached a consensus on peri-
+on previous guidelines3,10 and meet repeatedly in person,
+                                                    operative care recommendations for patients under-
+communication for these guidelines consisted solely of                           ,
+                                                    going pancreaticoduodenectomy3 6. In the absence of
+e-mail contact. Lastly, the collaborators offered important
+                                                    procedure-specific evidence, the author group has consid-
+input on the guidelines.
+                                                    ered some of these updated recommendations to be valid
+  All authors screened web-based databases and personal
+                                                    also for patients undergoing elective gastrectomy. These
+archives for relevant papers. Emphasis was placed on recent
+                                                    items are presented in part 2 of the results.
+publications and papers of good quality (moderate- and
+
+high-quality randomized clinical trials (RCTs) and large, RESULTS PART 1: PROCEDURE-SPECIFIC ITEMS
+high-quality cohort studies as well as systematic reviews
+and meta-analyses of these). Retrospective series were A summary of the procedure-specific guidelines is shown
+included if data of better quality were lacking.    in Ta b l e 1 .
+  The author group specifically included only literature on
+elective gastric cancer surgery. This was because of the Preoperative nutrition
+large differences in the extent of dissection necessary in
+                                                    A uniform definition of malnutrition that identifies those
+oncological surgery compared with surgery for benign dis-
+                                                    who will benefit from preoperative nutrition is suggested
+ease such as bariatric surgery, the consequences of which
+                                                    in the 2009 European Society for Clinical Nutrition and
+are very different postoperative courses for these patients,
+                                                    Metabolism (ESPEN) guidelines14. Malnutrition is associ-
+and so varying needs for perioperative treatment guide-
+                                                    ated with increased morbidity after surgery15–17. It appears
+lines. Emergency surgery of any kind was not included.
+                                                    prudent to identify these patients18 and give enteral sip
+                                                    feeds, or nasogastric or nasojejunal tube feeding, although
+Quality assessment and grading                      data to support intervention are weak. If the tumour pre-
+The level of evidence and final recommendations were cludes access to the duodenum, parenteral nutrition may
+                                                               19
+evaluated and adjusted until consensus was achieved. Level be warranted . For patients not suffering from significant
+of evidence and recommendations were set according to malnutrition, preoperative artificial nutrition has not been
+                                                                         14
+the Grading of Recommendations, Assessment, Develop- shown to confer benefits .
+ment and Evaluation (GRADE) system11–13. Level of evi-
+dence was based on trial design and risk of bias, but also Summary and recommendation
+negatively affected if there was inconsistency of results Routine use of preoperative artificial nutrition is not warranted,
+or indirectness of evidence, such as extrapolation from but significantly malnourished patients should be optimized with
+                   11–13
+other areas of surgery . As for recommendations, the oral supplements or enteral nutrition before surgery.
+GRADE guidelines state: ‘Strong recommendations indi- Evidence level: Very low
+cate that the panel is confident that the desirable effects Recommendation grade: Strong
+of adherence to a recommendation outweigh the unde-
+sirable effects. Weak recommendations indicate that the Preoperative oral pharmaconutrition
+desirable effects of adherence to a recommendation prob-
+ably outweigh the undesirable effects, but the panel is less Pharmaconutrition (PN) or immunonutrition, denot-
+confident’. Recommendations were based not only onthe ing the administration of immune-stimulating nutrients
+quality of evidence (high, moderate, low, very low) but also (generally arginine, glutamine, ω-3 fatty acids and/or
+on the balance between wanted and unwanted effects, and nucleotides), has been evaluated extensively in major
+on values and preferences13. The latter implies that, in surgery and more than 20 RCTs have included patients
+                                                                                        20
+some instances, strong recommendations may be reached undergoing upper gastrointestinal surgery . Conclusions
+from low-quality data and vice versa.               are difficult as  PN is administered to different patient
+
+© 2014 BJS Society Ltd                              www.bjs.co.uk                 BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                                                                                                13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+Consensus guidelines for enhanced recovery after gastrectomy                                                                                                1211
+
+
+Table 1   Procedure-specific guidelines for perioperative care for gastrectomy: Enhanced Recovery After                                   Surgery® (ERAS )Society
+recommendations
+
+                                                         Summary and recommendations                       Evidence level              Recommendation grade
+
+ Preoperative nutrition                                  Routine use of preoperative artificial            Very low                             Strong
+                                                           nutrition is not warranted, but
+                                                           significantly malnourished patients
+                                                           should be optimized with oral
+                                                           supplements or enteral nutrition
+                                                           before surgery
+ Preoperative oral pharmaconutrition                     The benefit shown for major                       Moderate                              Weak
+                                                           gastrointestinal cancer surgery in
+                                                           general has not been reproduced in
+                                                           dedicated trials on patients
+                                                           undergoing gastrectomy. Although a
+                                                           benefit cannot be excluded, there is
+                                                           presently insufficient evidence for this
+                                                           patient group
+ Access                                                  Distal gastrectomy: Evidence supports             High                                 Strong
+                                                           LADG in early gastric cancer as it
+                                                           results in fewer complications, faster
+                                                           recovery and may be performed to a
+                                                           standard that is oncologically
+                                                           equivalent to open access surgery.
+                                                         For advanced disease, T2–T4a gastric              Moderate                              Weak
+                                                           cancer, more data on long-term
+                                                           survival comparing LADG and ODG
+                                                           are needed
+                                                         Total gastrectomy: There is some                  Moderate                              Weak
+                                                           evidence supporting LATG owing to
+                                                           lower postoperative complications,
+                                                           shorter hospital stay and oncological
+                                                           safety. However, LATG is technically
+                                                           demanding
+ Wound catheters and TAP block                           Evidence is conflicting regarding wound           Wound catheters:                      Weak
+                                                           catheters in abdominal surgery                    Low to moderate
+                                                         Evidence is strong in support of TAP              TAP blocks: Low                       Weak
+                                                           block in abdominal surgery in general,
+                                                           although the effect is evident only
+                                                           during the first   48 h after surgery and
+                                                           none of the evidence is from
+                                                           gastrectomies
+  Nasogastric/nasojejunal decompression                  Nasogastric tubes should not be used              High                                 Strong
+                                                           routinely in the setting of enhanced
+                                                           recovery protocols in gastric surgery
+ Perianastomotic drains                                  Avoiding the use of abdominal drains              High                                 Strong
+                                                           may reduce drain-related
+                                                           complications and shorten hospital
+                                                           stay after gastrectomy
+ Early postoperative diet and artificial nutrition Patients undergoing total gastrectomy                   Moderate                              Weak
+                                                           should be offered drink and food at
+                                                           will from POD 1. They should be
+                                                           advised to begin cautiously and
+                                                           increase intake according to tolerance
+                                                         Patients clearly malnourished or those            Moderate                             Strong
+                                                           unable to meet 60%    of daily
+                                                           requirements by POD 6 should be
+                                                           given individualized nutritional
+                                                           support
+ Audit                                                   Systematic audit improves compliance              Low                                  Strong
+                                                           and clinical outcomes
+
+LADG, laparoscopically assisted distal gastrectomy; ODG, open distal gastrectomy; LATG, laparoscopically assisted total gastrectomy; TAP, transversus
+abdominis plane; POD, postoperative day.
+
+
+© 2014 BJS Society Ltd                                                              www.bjs.co.uk                                  BJS  2014;  101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                              13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+1212                                               K. Mortensen, M. Nilsson, K. Slim, M. Schäfer, C. Mariette, M. Braga et al.
+
+
+groups, at different time periods relating to surgery, in assisted distal gastrectomy (LADG) with open distal
+different combinations and dosages, and compared with gastrectomy (ODG). Combining these meta-analyses, a
+control preparations that are not always isonitrogenous. total of 4574 patients with largely early gastric cancer
+Many trials are more than 10 years old, few are blinded treated with LADG and 4260 with ODG were compared.
+and few investigated only a single component. For major Although three analyses35–37 reported longer operat-
+abdominal cancer surgery as a group, there appears to be a ing times (mean 71 min), all reported that laparoscopic
+benefit from perioperative enteral PN with respect tothe access resulted in significantly less blood loss. Three
+rate of infectious complications in malnourished patients, analyses34,35,38 reported shorter time to oral intake (a mean
+but results are inconsistent20–26. In a recent double-blind gain of 1 day) and shorter hospital stay (mean 4⋅5days
+RCT27, preoperative PN did not show any benefit in  less). Overall postoperative morbidity (in particular pul-
+patients, of whom two of three underwent major upper monary complications) was also reduced after LADG.
+gastrointestinal or hepatopancreatobiliary (HPB) cancer Tw o a n a l y s e s 36,39 reported less postoperative analgesic
+surgery, and all were at nutritional risk. A reduction in consumption. There were no differences in anastomotic
+mortality has never been demonstrated. A meta-analysis20 complications between LADG and ODG. The number of
+in 2011 identified only one double-blinded trial with ade- harvested lymph nodes during LADG has been of concern
+quate blinding assessing PN for gastric cancer surgery. In in many publications. Three meta-analyses35–37 reported
+this trial28, postoperative PN reduced the rate of surgical a mean of 4⋅2 fewer lymph nodes harvested, whereas the
+                                               ,
+wound healing complications. Two recent reviews19 29 other three34,38,39 reported no difference between LADG
+have come to conflicting conclusions regarding PN after and ODG. Three RCTs40 –42 including early and advanced
+oesophageal resections, and no benefit was found ina gastric cancer reported data on long-term survival (24–62
+                   30
+double-blinded RCT    in predominantly oesophago-   months), which was found to be similar.
+gastric surgery. In two recent large RCTs31,32, PN, given
+for 5–7 days after operation to patients undergoing Summary and recommendation
+gastrectomy or oesophagogastrectomy, did not confer any
+benefit. Further trials are warranted and, as this is anissue Evidence supports LADG in early gastric cancer as it is associated
+that lends itself well to double-blinded RCTs, this should with fewer complications, faster recovery and may be performed
+be the study design. Future trials should be conducted to a standard that is oncologically equivalent to open access
+in modern perioperative care settings and with single surgery. For advanced disease, T2–T4 gastric cancer, more data
+immune-enhancing substances.                        on long-term survival comparing LADG and ODG are needed.
+                                                      Evidence level: Early gastric cancer – High
+Summary and recommendation                                        Advanced gastric cancer – Moderate
+                                                      Recommendation grade: Early gastric cancer – Strong
+The possible benefit of reduced infectious and wound healing
+                                                                         Advanced gastric cancer – Weak
+complications after major gastrointestinal cancer surgery in gen-
+eral has not been reproduced in dedicated, high-quality trials on
+patients undergoing gastrectomy. Although a benefit cannot be Access: total gastrectomy
+excluded, there is presently insufficient evidence to support routine Three meta-analyses43–45 compared results of laparoscop-
+administration in this patient group and its used is not recom- ically assisted total gastrectomy (LATG) in 1497 patients
+mended                                              with those of open total gastrectomy (OTG) in 1486
+  Evidence level: Moderate                          patients treated for both early and advanced gastric can-
+                    Weak
+  Recommendation grade:                             cer. All studies reported longer operating times (mean
+Access: distal gastrectomy                          54 min) for LATG  and all three analyses reported that
+                                                    patients treated by a laparoscopic approach had lower
+Distal gastrectomy is defined here as resection of the lower blood loss (mean 120 ml less) and shorter hospital stay
+two-thirds of the stomach with lymph node harvest (D1, (mean stay almost 5 days shorter). One analysis45 reported
+                                                                             ,
+D1+  and D2) performed according to recommendations less postoperative pain, two43 45 reported earlier passage of
+from the latest Japanese Gastric Cancer Association treat- flatus by a mean of 1⋅2 days, one45 documented fewer post-
+ment guidelines33. Early gastric cancer is defined as T1 and operative complications (wound infections and ileus) and
+any N category, and advanced gastric cancer as T2–4 and one43 found no differences. No meta-analysis reported any
+any N category.                                     difference in number of retrieved lymph nodes between
+  Six meta-analyses34–39 (of 6 RCTs, 8 prospective studies LATG and OTG, and two meta-analyses44,45 found an
+and 32 retrospective series) compared laparoscopically equal 60-month recurrence-free survival. Concerns were
+
+
+© 2014 BJS Society Ltd                              www.bjs.co.uk                 BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                              13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+Consensus guidelines for enhanced recovery after gastrectomy                                      1213
+
+
+raised about higher anastomotic leak rates after LATG in Several RCTs and meta-analyses52–55 have suggested
+another publication46. Although the results after laparo- a significant reduction in postoperative pain and opioid
+scopic distal and total gastrectomies are promising, it must consumption during the first 24–48 h after surgery with
+be borne in mind that the evidence level is only moderate the use of TAP blocks. There are no studies specifically
+owing to the shortage of RCTs, and the heterogeneity of addressing gastrectomy and most procedures included in
+data in the prospective and retrospective series on which these trials, such as cholecystectomies, appendicectomies
+these trends are based.                             and caesarean sections, are indeed less invasive, with regard
+                                                    to both abdominal wall incision and extent of internal
+Summary and recommendation                          dissection, than open gastrectomy for cancer52–55. Another
+                                                    limitation of TAP blocks in postgastrectomy analgesia is
+Most publications suggest that LATG results in a lower rate
+                                                    that there is no evidence of an effect exceeding the first
+of postoperative complications and shorter hospital stay. Data
+                                                    48 h after operation52–55. None of the studies available has
+are inconclusive regarding oncological safety for advanced gastric
+                                                    suggested an increased risk of infection related to TAP
+cancer. LATG may be recommended for early gastric cancer
+                                                    blocks52–55.OneRCT56 comparing wound infiltration and
+wherever surgeons are proficient in the technique and the
+                                                    patient-controlled analgesia (PCA) using opiates with EDA
+procedure is established.
+                                                    after open liver resection found that the latter conferred
+  Evidence level: Moderate
+                                                    superior analgesia but not faster mobilization or recovery.
+  Recommendation grade: Weak
+                                                    Summary and recommendation
+Wound catheters and transversus abdominis
+                                                    Evidence is strong in support of TAP blocks for abdominal surgery
+plane block
+                                                    in general, although the effect is evident only during the first 48 h
+Wound catheters and transversus abdominis plane (TAP) after surgery and none of the evidence is from gastrectomies.
+block offer the potential of incisional analgesia without the Evidence level: Wound catheters – Low to moderate
+need for more invasive methods such as epidural analge-           TAP blocks – Low
+sia (EDA). The technique offers an attractive alternative Recommendation grade: Weak
+to EDA as peripheral block of afferent stress-mediating
+                                                    Nasogastric/nasojejunal decompression
+impulses is achieved without troublesome and potentially
+hazardous hypotension. Furthermore, the risk of compli- Nine RCTs8,57 –64 and two meta-analyses65,66 have speci-
+cations such as epidural haematomas and abscess formation fically studied nasogastric/nasojejunal tubes in gastrect-
+is avoided. Although there are no specific data regarding omies. One RCT61 not included in the published meta-
+                             47–49
+gastrectomy, several meta-analyses have assessed the analyses showed results compatible with those from the
+efficacy  of wound infusion with local anaesthetic agents RCTs and meta-analyses. A Cochrane review67 evaluated
+for postoperative analgesia after abdominal surgery in nasogastric/nasojejunal tubes after several types of opera-
+                        49
+general. One meta-analysis , comprising a wide range tion with a subgroup analysis dedicated to ‘gastroduodenal
+of surgical procedures, including general surgical laparo- operations’.
+tomies, showed a significant reduction in postoperative There is strong evidence against the routine use
+pain, opioid consumption, as well as postoperative nau- of nasogastric/nasojejunal decompression following
+sea and vomiting (PONV). Similarly, in patients under- gastrectomy. Surgical morbidity was not significantly
+going colorectal surgery, there was a reduced use of opi- influenced by decompression65–67. The most recent of the
+oids and reduction in length of hospital stay in patients meta-analyses65 and the Cochrane review67 concluded that
+                                               50
+randomized to preperitoneal wound catheter placement . patients without routine decompression experienced sig-
+                         47
+A more recent meta-analysis did not, however, show  nificantly fewer pulmonary complications, earlier time to
+any effect of wound infusion with regard to postoperative passage of flatus, earlier time to oral diet and shorter hospi-
+pain intensity or in opioid consumption after laparotomy. tal stay. This was not confirmed in another meta-analysis66.
+The inconsistency in results may reflect the heterogene-
+ity in techniques used, including catheter placement (sub-
+                                                    Summary and recommendation
+cutaneous, subfascial, preperitoneal), and type, concentra-
+tion and dose of local anaesthetic. No differences in risk Nasogastric/nasojejunal tubes should not be used routinely in the
+of infectious complications were found between patients setting of enhanced recovery protocols in gastric surgery.
+in whom a wound catheter was used and those managed   Evidence level: High
+without one47,49–51.                                  Recommendation grade: Strong
+
+
+© 2014 BJS Society Ltd                              www.bjs.co.uk                 BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                              13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+1214                                               K. Mortensen, M. Nilsson, K. Slim, M. Schäfer, C. Mariette, M. Braga et al.
+
+
+Perianastomotic drains                              allowed food at will in this subgroup78. Importantly, no
+                                                    trial has reported any adverse outcome from any attempt
+Tw o R C Ts 68,69 including a total of 278 patients treated by
+                                                    at introducing patient-controlled or early introduction of
+subtotal gastrectomy with D1 or D2 lymphadenectomy
+                                                    food for patients undergoing gastrectomy.
+found no difference in postoperative course in terms of
+                                                      It may be assumed that total calorie intake is low for
+time to passage of flatus, intake of soft diet or length of
+                                                    the first few days and that some patients will need addi-
+hospital stay between patients in whom drains were or
+                                                    tional sip feeds or artificial tube or catheter feeding. A
+were not used. Postoperative complication rates at 30 days
+                                                    recent educational review79 on nutritional care for patients
+were also similar68,69. Another RCT70 with 60 patients
+                                                    undergoing oesophageal and gastric surgery recommends
+undergoing D2 gastrectomy found that the group with
+                                                    nutritional support after operation in patients who have
+drains experienced longer hospital stays, higher post-
+                                                    not reached 60 per cent of desired intake by the first week
+operative morbidity with more frequent reoperations, and
+                                                    following surgery79. Nutritional support should preferably
+longer time to oral intake.
+                                                    be by high-energy oral sip feeds. Enteral tube feeding is
+  A meta-analysis of four RCTs71 including 438 patients
+                                                    indicated where oral intake is not possible, and parenteral
+randomized to either perianastomotic drain or no drain
+                                                    nutrition only when the gut is not working or is inaccessi-
+found no differences between the groups with respect
+                                                    ble. Although robust data are lacking, it appears pragmatic
+to wound infection, postoperative pulmonary infection,
+                                                    and safe to provide more intensive nutritional support
+intra-abdominal abscess, mortality, time to flatus, and
+                                                    both before and after operation to severely malnourished
+initiation of soft diet. Both incidence of postoperative
+                                                    patients.
+complications and length of stay were lower in the
+no-drain group. A Cochrane analysis72 concluded that Summary and recommendation
+there was no convincing evidence to support routine use of
+postoperative drains after gastrectomy for gastric cancer. Patients undergoing total gastrectomy should be offered drink
+                                                    and food at will from POD 1. They should be advised to begin
+Summary and recommendation                          cautiously and increase intake according to tolerance.
+                                                      Evidence level: Moderate
+Avoiding the use of abdominal drains may reduce drain-related Recommendation grade: Weak
+complications and shorten hospital stay after gastrectomy.
+  Evidence level: High                              Patients clearly malnourished or those unable to meet 60 per cent
+  Recommendation grade: Strong                      of daily requirements by POD 6 should be given individualized
+                                                    nutritional support, as detailed above.
+Early postoperative diet and artiﬁcial nutrition      Evidence level: Moderate
+                                                      Recommendation grade: Strong
+Patients subjected to total gastrectomy are probably at
+greater risk of malnutrition and cachexia at the time of Audit
+surgery than other groups of patients with abdominal
+cancer19. This may result both from the location of their Regular audit is crucial to determine clinical outcome,
+tumours, but also following neoadjuvant chemotherapy in and ascertain the implementation and sustained use of a
+a large proportion of the patients. A nil-by-mouth regi- care protocol. There are indications that audit in itself
+                                                                                         80
+men for several days after surgery has traditionally been improves clinical results through feedback and several
+used for these patients73. The absence of a gastric remnant real-time graphical methods are now available to monitor
+has its advantages, but oesophagojejunostomy is probably surgical treatment outcomes of gastro-oesophageal
+                                                           81,82
+a more vulnerable reconstruction than that following a dis- surgery . It is vital to distinguish between unsuccessful
+tal or subtotal gastric resection. Most trials challenging implementation and lack of desired effect from an imple-
+the ubiquitous nil-by-mouth routine have done so in the mented protocol if results are short of the desired quality
+setting of distal gastrectomy74,75 or only partly, introduc- standards. Multi-institutional agreement on a common
+ing light food on postoperative day (POD) 29,76,77.Data evidence-based treatment platform and joint use of a pro-
+from Western centres are scant. A large Norwegian multi- spective database is a powerful tool for audit and research.
+centre trial78 randomized patients undergoing major upper
+                                                    Summary and recommendation
+gastrointestinal and HPB surgery to food at will from
+POD 1. Of 447 patients included, 77 had undergone total Systematic audit improves compliance and clinical outcomes.
+gastrectomy and a significant reduction in the number Evidence level: Low
+of intra-abdominal abscesses was demonstrated for those Recommendation grade: Strong
+
+
+© 2014 BJS Society Ltd                              www.bjs.co.uk                 BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                              13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+Consensus guidelines for enhanced recovery after gastrectomy                                      1215
+
+
+RESULTS PART 2: GENERAL (NOT PROCEDURE-SPECIFIC)    Oral bowel preparation
+ITEMS
+                                                    Mechanical bowel preparation (MBP) may cause dehydra-
+The author group found that the data and recommenda- tion, and fluid and electrolyte imbalance, especially in the
+tions published recently for patients undergoing pancre- elderly100. Meta-analyses101,102 of trials on patients under-
+                                         ,
+aticoduodenectomy seem valid for gastrectomy3 6.Inthe going colonic surgery have not shown MBP to be bene-
+following sections these recommendations are reiterated ficial. There are no data comparing MBP versus a routine
+and the background for each recommendation is addressed without MBP and unrestricted diet up to midnight before
+briefly. For a fuller consideration of the available litera- operation.
+ture with expanded references, the reader is referred to the
+                        3,6
+aforementioned publications . A summary of the general Summary and recommendation
+itemsisshowninTa b l e 2 .
+                                                    Extrapolation of data from colonic surgery suggests that MBP
+Preoperative counselling                            has no proven benefit. MBP should not be used.
+                                                      Evidence level: Moderate
+Personalized counselling, oral or written, and relaxation
+                                                      Recommendation grade: Strong
+techniques may reduce anxiety and fear and improve
+recovery83–86. Detailed explanations of procedure and spe-
+cific daily targets for the postoperative period may facilitate Preoperative fasting and preoperative
+eating, mobilization, pain control and respiratory function, treatment with carbohydrates
+                                 87–90
+thus reducing the risk of complications .           Fasting from midnight is not supported by evidence103,
+Summary and recommendation                          and increases insulin resistance and discomfort following
+                                                    abdominal surgery104,105. Guidelines106 recommend intake
+Patients should receive dedicated preoperative counselling rou- of clear fluids up to 2 h before induction of anaesthesia
+tinely.                                             and solids up to 6 h. A complex clear carbohydrate-rich
+  Evidence level: Low                               drink designed for use within 2 h before anaesthesia
+  Recommendation grade: Strong                      reduced hunger, thirst, anxiety and length of stay, as
+                                                    well as postoperative insulin resistance107–109.Themost
+Preoperative smoking and alcohol consumption        recent meta-analysis110 showed no reduction in in-hospital
+                                                    complication rates. Data on patients having gastrec-
+Overall postoperative morbidity is increased markedly in tomy are inadequate110, and data for diabetic patients are
+alcohol abusers91, and 4 weeks of abstinence before surgery  ,
+                                                    wanting111 112.
+was shown to improve outcome in patients who drank
+‘five  or more drinks (60 g of ethanol) a day without clin-
+                                                    Summary and recommendation
+ical or historical evidence of alcohol related illness’92.
+                                              ,
+Daily smokers have an increased risk of complications93 94. Preoperative fasting should be limited to 2 h for clear fluids and
+RCTs94 –96 have shown reduced postoperative morbidity 6 h for solids. Data extrapolation from studies in major surgery
+after 1 month of smoking cessation. Preoperative physio- suggests that preoperative oral carbohydrate treatment should be
+therapy reduces postoperative pulmonary complications given to patients without diabetes.
+and length of hospital stay after elective cardiac surgery97, Evidence level: Fluid intake – High
+and preoperative pulmonary rehabilitation before lung             Solid intake – Low
+cancer surgery decreases postoperative respiratory morbid-        Carbohydrate loading – Low
+                   ,
+ity and complications98 99.                           Recommendation grade: Fasting – Strong
+                                                                         Carbohydrate loading – Strong
+Summary and recommendation
+                                                    Preanaesthetic medication
+For alcohol abusers, 1 month of abstinence before surgery is
+beneficial. For daily smokers, 1 month of abstinence before surgery Reduced postoperative pain has not been demonstrated
+is beneficial. For appropriate groups, both should be attempted. following pre-emptive use of analgesics113, but medica-
+Preoperative pulmonary rehabilitation is advised.   tions for chronic pain should be continued around the
+  Evidence level: Alcohol abstention – Low          time of operation. Preinduction anxiolytic medication
+              Smoking cessation – Moderate          might increase sedation on POD 1114,115, and benefits are
+  Recommendation grade: Strong                      uncertain. Short-acting drugs to alleviate anxiety may be
+
+
+© 2014 BJS Society Ltd                              www.bjs.co.uk                 BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                                                                                                13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+1216                                                                             K. Mortensen, M. Nilsson, K. Slim, M. Schäfer, C. Mariette, M. Braga       et al.
+
+
+Table 2   General (not procedure-specific) enhanced recovery care                    items as suggested recently for pancreaticoduodenectomy
+
+                                          Summary and recommendations                          Evidence level                       Recommendation grade
+
+ Preoperative counselling                 Patients should receive dedicated                    Low                                  Strong
+                                             preoperative counselling routinely
+ Preoperative smoking and                 For alcohol abusers, 1 month of                      Alcohol abstention: Low              Strong
+    alcohol consumption                      abstinence before surgery is beneficial
+                                             and should be attempted
+                                          For daily smokers, 1 month of abstinence             Smoking cessation:
+                                             before surgery is beneficial                        Moderate
+                                          For appropriate groups, both should be
+                                             attempted
+ Oral bowel preparation                   Extrapolation of data from studies on                Moderate                             Strong
+                                             colonic surgery shows that MBP has no
+                                             proven benefit; MBP should not be used
+ Preoperative fasting and                 Intake of clear fluids ≤ 2hbefore                    Fluid intake: High
+    preoperative treatment with              anaesthesia does not increase gastric
+    carbohydrates                            residual volume and is recommended
+                                             before elective surgery
+                                          Intake of solids should be withheld 6 h              Solid intake: Low                    Fasting: Strong
+                                             before anaesthesia
+                                          Data extrapolation from studies on major             Carbohydrate loading:                Carbohydrate loading:
+                                             surgery suggests that preoperative oral             Low                                  Strong
+                                             carbohydrate treatment should be given
+                                             to patients without diabetes
+ Preanaesthetic medication                Data from studies on abdominal surgery               No long-acting sedatives:            Weak
+                                             show no evidence of clinical benefit                Moderate
+                                             from preoperative use of long-acting
+                                             sedatives, and they should not be used
+                                             routinely
+                                          Short-acting anxiolytics may be used for
+                                             procedures such as insertion of epidural
+                                             catheters
+ Antithrombotic prophylaxis               LMWH reduces the risk of                             High                                 Strong
+                                             thromboembolic complications.
+                                             Concomitant use of epidural analgesia
+                                             necessitates close adherence to safety
+                                             guidelines. Mechanical measures
+                                             should probably be added for patients
+                                             at high risk
+ Antimicrobial prophylaxis and            Antimicrobial prophylaxis prevents                   High                                 Strong
+    skin preparation                         surgical-site infections, and should be
+                                             used in a single-dose manner initiated
+                                             within 1 h before skin incision.
+                                             Repeated intraoperative doses may be
+                                             necessary depending on the half-life of
+                                             the drug and duration of procedure
+ Epidural analgesia                       Mid-thoracic epidurals are recommended               Pain: High                           Weak
+                                             based on data from studies on major               Reduced respiratory
+                                             open abdominal surgery showing                      complications:
+                                             superior pain relief and fewer                      Moderate
+                                             respiratory complications compared                Overall morbidity: Low
+                                             with use of intravenous opioids
+ Intravenous analgesia                    Some evidence supports the use of PCA                PCA: Moderate                        Weak
+                                             or intravenous lidocaine analgesic                Intravenous lidocaine:
+                                             methods                                             Moderate
+ Anaesthetic management                   Short-acting anaesthetic drugs and                   BIS: High                            Strong
+                                             short-acting muscle relaxants are
+                                             suggested. Titration of anaesthetic
+                                             agents can be achieved using the BIS
+                                          Low-tidal volume ventilation is suggested            Low-tidal volume
+                                                                                                 ventilation: High
+
+
+© 2014 BJS Society Ltd                                                              www.bjs.co.uk                                  BJS  2014;  101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                                                                                                13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+Consensus guidelines for enhanced recovery after gastrectomy                                                                                                1217
+
+
+Table 2   Continued
+
+                                        Summary and recommendations                           Evidence level                        Recommendation grade
+
+ PONV                                   Data from the literature on gastrointestinal          Low                                   Strong
+                                          surgery in patients at risk of PONV show the
+                                          benefits of using different pharmacological
+                                          agents depending on the patient’s PONV
+                                          history, type of surgery and type of
+                                          anaesthesia. Multimodal intervention during
+                                          and after surgery is indicated
+ Avoiding hypothermia                   Intraoperative hypothermia should be avoided          High                                  Strong
+                                          by using cutaneous warming, i.e. forced-air
+                                          or circulating-water garment systems
+ Postoperative glycaemic                Insulin resistance and hyperglycaemia are             Low                                   Strong
+    control                               strongly associated with postoperative
+                                          morbidity and mortality. Treatment of
+                                          hyperglycaemia with intravenous insulin in
+                                          the ICU improves outcomes but
+                                          hypoglycaemia remains a risk. Several
+                                          enhanced recovery protocol items
+                                          attenuate insulin resistance and facilitate
+                                          glycaemic control without the risk of
+                                          hypoglycaemia. Hyperglycaemia should be
+                                          avoided as far as possible without
+                                          introducing the risk of hypoglycaemia
+ Fluid balance                          Near-zero fluid balance, avoiding overload of         Fluid balance: High                   Strong
+                                          salt and water results in improved outcomes
+                                        Perioperative monitoring of stroke volume             Oesophageal Doppler:
+                                          with transoesophageal Doppler to optimize             Moderate
+                                          cardiac output with fluid boluses may
+                                          improve outcomes
+                                        Balanced crystalloids should be preferred to          Balanced crystalloids  versus
+                                          0⋅9%  saline                                          0⋅9%  saline: Moderate
+ Urinary drainage                       Suprapubic catheterization is superior to             High                                  Suprapubic catheter
+                                          transurethral catheterization if used for                                                   use: Weak
+                                          > 4 days. Transurethral catheters can be                                                  Removal of transurethral
+                                          removed safely on POD 1–2 unless                                                            catheter on POD 1–2:
+                                          indicated otherwise                                                                         Strong
+ Stimulation of bowel                   A multimodal approach with epidural and               Chewing gum: Low                      Weak
+    movement                              near-zero fluid balance is recommended
+                                        Oral laxatives given after surgery may                Laxatives: Very low
+                                          accelerate gastrointestinal transit
+ Early and scheduled                    Patients should be mobilized actively from the        Very low                              Strong
+    mobilization                          morning of POD 1 and encouraged to meet
+                                          daily targets for mobilization
+
+In the absence of procedure-specific evidence for these         items, the author group considers extrapolation of            these recommendations to oingpatients underg
+total gastrectomy to be safe and feasible. For discussion and references please see original papers3,6. MBP, mechanical bowel preparation; LMWH, low
+molecular weight heparin; PCA, patient-controlled analgesia; BIS, bispectral index; PONV, postoperative nausea and vomiting; ICU, intensive careunit;
+POD, postoperative day.
+
+helpful during insertion of an epidural catheter in some                            Antithrombotic prophylaxis
+patients. A carbohydrate-rich drink has also been shown
+to attenuate anxiety108.                                                            A   large tumour burden, major surgery, chemotherapy
+                                                                                    and prolonged periods of recumbency are risk factors for
+Summary and recommendation                                                          venous thromboembolism (VTE). Heparins are effective at
+                                                                                    preventing VTE116         and fractionated low molecular weight
+Data from studies on abdominal surgery show no evidence of
+clinical benefit from preoperative use of long-acting sedatives, and                heparin     (LMWH) has better compliance (once-daily
+                                                                                                        117
+they should not be used routinely. Short-acting anxiolytics may be                  administration)         . Injections are usually started 2–12 h
+used for procedures such as insertion of epidural catheters.                        before surgery and continued until the patient is mobi-
+   Evidence level:   No long-acting sedatives – Moderate                            lized. Data even          support postdischarge treatment for
+   Recommendation grade:        Weak                                                several weeks118. Use of LMWH and epidural catheters is
+
+
+© 2014 BJS Society Ltd                                                              www.bjs.co.uk                                  BJS  2014;  101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                              13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+1218                                               K. Mortensen, M. Nilsson, K. Slim, M. Schäfer, C. Mariette, M. Braga et al.
+
+
+controversial119–122 and a 12-h interval should probably improvement in pulmonary function, decreased risk of
+separate LMWH   and catheter insertion and removal123. postoperative pneumonia, better arterial oxygenation after
+Mechanical measures (intermittent pneumatic leg com- abdominal or thoracic surgery134, and reduced insulin
+pression and elastic stockings) may provide additional resistance135. Data from a recent RCT136 indicate that, for
+benefits in patients at increased risk of VTE124,125. patients undergoing gastrectomy for cancer specifically,
+                                                    patient-controlled EDA appears to result in superior pain
+Summary and recommendation                          relief and lower stress response than patient-controlled
+                                                    intravenous analgesia.
+LMWH    reduces the risk of thromboembolic complications.
+                                                      Adverse perfusion effects of EDA may be caused by
+Administration should probably be continued for 4 weeks after
+                                                    prolonged and extended sympathetic block. This suggests
+hospital discharge. Concomitant use of EDA necessitates close
+                                                    that the beneficial effects of EDA can be preserved pro-
+adherence to safety guidelines. Mechanical measures should
+                                                    vided that the haemodynamic consequences are adequately
+probably be added for patients at high risk.
+                                                    controlled with vasopressors137. Concerns about negative
+  Evidence level: High
+                                                    effects on anastomotic healing have been raised after colo-
+  Recommendation grade: Strong
+                                                    rectal surgery, but one meta-analysis138 did not identify dif-
+                                                    ferences in rates of anastomotic leakage between patients
+Antimicrobial prophylaxis and skin preparation
+                                                    treated with postoperative local anaesthetic epidurals and
+There is sufficient evidence to support the prescrip- those receiving systemic or epidural opioids. A potential
+tion of antimicrobial prophylaxis for major abdominal drawback with EDA is that up to one-third of epidurals may
+                                                                         139,140
+procedures126,127. Recent studies recommend prescription not function adequately , possibly owing to catheter
+in a single-dose manner127, usually advocated within 1 h misplacement, inadequate dose or pump failure. For upper
+before incision; however, recent data suggest that the abdominal incisions, epidural catheters should be inserted
+timing may not be crucial128. An extra dose should be between T5 and T8 root levels. Sensory block should be
+given every 3–4 h during the procedure if drugs with a tested before induction of general anaesthesia. EDA should
+short half-life are used129. The choice of antibiotic varies continue for 48 h and, after a successful stop test, replaced
+according to local guidelines, but should be different from by oral multimodal analgesia. If needed, functioning epidu-
+the drug used for management of established infections. ral catheters may be used for a longer duration.
+Skin preparation with a scrub of chlorhexidine–alcohol
+has been claimed to be superior to povidone–iodine in Summary and recommendation
+preventing surgical-site infections130.
+                                                    Mid-thoracic epidurals are recommended based on data from
+                                                    studies of major open abdominal surgery showing superior pain
+Summary and recommendation
+                                                    relief and fewer respiratory complications compared with intra-
+Antimicrobial prophylaxis prevents surgical-site infections and venous opioids.
+should be used in a single-dose manner initiated before skin inci- Evidence level: Pain – High
+sion. Repeated intraoperative doses may be necessary depending    Reduced respiratory complications –
+on the half-life of the drug and duration of the procedure.         Moderate
+  Evidence level: High                                            Overall morbidity – Low
+  Recommendation grade: Strong                        Recommendation grade: Weak
+
+Epidural analgesia                                  Intravenous analgesia
+
+Continuous EDA with or without opioids leads to sig- In situations where EDA cannot be employed, PCA with
+nificantly less postoperative pain than parenteral opioids opioids is the most common alternative. In a clinical trial141
+after open abdominal surgery131. A Cochrane review132 of the use of PCA in patients undergoing distal pancreate-
+demonstrated that EDA is better than patient-controlled ctomy this was the only analgesia employed. No comments
+intravenous opioid analgesia in relieving pain 72 h after were made, however, on the impact of systemic analgesia on
+open abdominal surgery, and epidural administration of accelerating recovery. Intravenous infusion of lidocaine has
+local anaesthetic led to a lower rate of ileus after laparo- analgesic, anti-inflammatory and antihyperalgesic proper-
+tomy than systemic or epidural opioids133.EDAwas    ties, and has been assessed as an analgesic modality for
+also associated with fewer complications, as well as an abdominal surgery. A systematic review of eight trials142
+
+
+© 2014 BJS Society Ltd                              www.bjs.co.uk                 BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                              13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+Consensus guidelines for enhanced recovery after gastrectomy                                      1219
+
+
+showed a decrease in the duration of ileus, length of hospi- Patients with two risk factors (non-smoker, female, a
+tal stay, postoperative pain and adverse effects, compared history of motion sickness (or PONV), postoperative
+with placebo. A recent RCT143 in patients undergoing administration of opioids)148,149 should be given prophy-
+laparoscopic colorectal resection using the ERAS® pro- laxis with dexamethasone upon induction or a serotonin
+gramme showed no difference in return of gastrointestinal receptor antagonist at the end of surgery150. High-risk
+function and length of hospital stay between continuous individuals (3 risk factors) should receive general anaes-
+infusion of lidocaine and thoracic EDA, whereas a recent thesia with propofol and remifentanil and no volatile
+RCT144  in patients undergoing laparoscopic gastrectomy anaesthetics, with dexamethasone 4–8 mg at the start
+showed a reduction in postoperative fentanyl consumption of surgery, with the addition of a serotonin receptor
+and pain with preoperative and intraoperative injection of antagonist or droperidol150, or 25–50 mg metoclopramide
+lidocaine by PCA.                                   30–60 min before the end of surgery151. A possible risk of
+                                                    impaired anastomotic healing caused by single-dose dexa-
+Summary and recommendation                          methasone or other perioperative steroids is of concern,
+                                                                     152–155
+Some evidence supports the use of PCA or intravenous lidocaine but remains unclear .
+analgesic methods.
+  Evidence level: PCA – Moderate                    Summary and recommendation
+              Intravenous lidocaine – Moderate
+  Recommendation grade: Weak                        Data from the literature on gastrointestinal surgery in patients
+                                                    at risk of PONV show the benefits of using different pharmaco-
+Anaesthetic management                              logical agents depending on the patient’s history of PONV, type
+                                                    of surgery and type of anaesthesia. Multimodal intervention,
+Although no trials exist, short-acting induction anaesthe- during and after surgery, is indicated.
+sia agents such as propofol and dexmedetomidine, and  Evidence level: Low
+opioids such as sufentanil and remifentanil, are widely Recommendation grade: Strong
+used. Likewise, short-acting muscle relaxants are sug-
+gested. Deep neuromuscular block is usually necessary to
+ensure optimal access, particularly in laparoscopic surgery. Avoiding hypothermia
+Titration of anaesthetic agents can be achieved using the Numerous meta-analyses and RCTs have shown that
+bispectral index (BIS), thereby avoiding sedation that is preventing hypothermia during major abdominal surgery
+                                              145
+too deep, which can be harmful in elderly patients . reduces the occurrence of wound infections156,157, cardiac
+Recent data suggest that a significant benefit for post- complications157–159, bleeding and transfusion require-
+operative morbidity can be achieved by intraoperative ments157–160, as well as the duration of postanaesthetic
+                        146
+low-tidal-volume ventilation .                      recovery161. Prolonging systemic warming in the peri-
+                                                    operative period (2 h before and after surgery) confers
+Summary and recommendation                          further benefits162. There is even evidence to conclude
+Short-acting induction agents, opioids and muscle relaxants that circulating-water garments offer superior temperature
+are recommended. Maintenance should be guided by the BIS. control to forced-air warming systems163–165.
+Low-tidal-volume ventilation is suggested.
+             BIS – High
+  Evidence level:                                   Summary and recommendation
+              Low-tidal-volume ventilation – High
+  Recommendation grade: Strong                      Intraoperative hypothermia should be avoided by using cutaneous
+                                                    warming in the form of forced-air or circulating-water garment
+                                                    systems.
+Postoperative nausea and vomiting
+                                                      Evidence level: High
+A  comparative non-randomized study147 indicated that Recommendation grade: Strong
+an enhanced recovery protocol with early mobilization,
+metoclopramide and removal of the nasogastric tube on Postoperative glycaemic control
+POD 1 or 2 reduced the rate of PONV after pancreatico-
+duodenectomy. Until further evidence becomes available Morbidity and mortality after major gastrointestinal
+for gastric cancer surgery, the suggestions for patients surgery are associated with insulin resistance166 and
+undergoing colorectal surgery10 should be applicable. plasma glucose levels167. Treatment of hyperglycaemia
+
+
+© 2014 BJS Society Ltd                              www.bjs.co.uk                 BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                              13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+1220                                               K. Mortensen, M. Nilsson, K. Slim, M. Schäfer, C. Mariette, M. Braga et al.
+
+
+with intravenous insulin in the intensive care setting treatment. Data for high-risk patients (American Society
+improves outcomes, although hypoglycaemia remains   of Anesthesiologists grade III) are lacking. Excessive use
+a risk. Core elements of enhanced recovery protocols of 0⋅9 per cent saline leads to an increase in postoperative
+alleviate postoperative insulin resistance and, therefore, complications compared with balanced crystalloids183–185.
+also lower glucose concentrations168,169. The most evident Although use of colloids results in improved blood volume
+protocol items are: avoidance of preoperative fasting and expansion and less interstitial space overload than adminis-
+oral bowel preparation; use of oral carbohydrate treatment tration of crystalloids186, there is no evidence from clinical
+and stimulation of gut function by optimal fluid balance trials or meta-analyses that they contribute to better clini-
+and avoidance of systemic opioids; and reduction of the cal outcome187.
+stress response by use of EDA. Target thresholds for
+glucose are disputed, but glucosuria with the risk of hypo- Summary and recommendation
+volaemia will ensue when the renal threshold is exceeded
+at 12 mmol/l170. This level has been used as the control Near-zero fluid balance as well as avoiding overload of sodium
+regimen in seminal studies171,172 and should probably be results in improved outcomes. High-risk patients need dedicated,
+regarded as a limit, irrespective of settings.      individualized, goal-directed fluid therapy handled by an experi-
+                                                    enced team to secure optimal tissue perfusion. A Doppler-guided
+Summary and recommendation                          technique may improve outcome. Balanced crystalloids should be
+                                                    preferred to 0⋅9 per cent saline.
+Insulin resistance and hyperglycaemia are strongly associated Evidence level: Fluid balance – High
+with postoperative morbidity and mortality. Hyperglycaemia        Oesophageal Doppler – Moderate
+should be avoided as far as possible without introducing the risk Balanced crystalloids versus 0⋅9 per cent
+of hypoglycaemia.                                                   saline – Moderate
+  Evidence level: Low                                 Recommendation grade: Strong
+  Recommendation grade: Strong
+
+                                                    Urinary drainage
+Fluid balance
+                                                    A  meta-analysis188 of RCTs on urinary drainage after
+Overload of salt and water, and hypovolaemia in the peri- surgery showed that suprapubic catheterization was better
+operative period all increase postoperative complication than transurethral catheterization, and more satisfactory to
+    173–177
+rates     , suggesting that near-zero fluid balance should patients. However, the majority of patients were catheter-
+be achieved around the time of surgery. Determining the ized for 4 days or longer. A recent RCT189 of patients
+correct amount required is complicated by the use of EDA undergoing major surgery with thoracic epidurals found
+as it causes vasodilatation and hypovolaemia with hypoten- that removal of the transurethral catheter on POD 1 led
+sion, often diagnosed and treated as fluid depletion. This to lower infection rates and did not lead to an increased
+may result in the administration of unnecessary and large rate of recatheterization compared with removal on POD
+              178
+volumes of fluid . To avoid unnecessary fluid overload, 3–5.
+vasopressors should be considered for intraoperative and
+postoperative management of epidural-induced hypoten-
+                                                    Summary and recommendation
+sion, bearing in mind the risk of drug-induced splanch-
+nic vasoconstriction179. Several cardiac output monitor- Suprapubic catheterization is probably superior to transurethral
+ing devices provide dynamic indicators of fluid respon- catheterization if used for more than 4 days. Transurethral
+siveness and haemodynamic assessment. These vary from catheters can be removed safely on POD 1 or 2 unless indicated
+invasive pulmonary artery catheters to non-invasive pulse otherwise.
+pressure analysis, bioimpedance, applied Fick principle Evidence level: High
+and Doppler imaging180. Intraoperative flow-guided fluid Recommendation grade: Suprapubic catheter use – Weak
+therapy with transoesophageal Doppler ultrasonography to                 Removal of transurethral catheter
+assess and monitor fluid status accurately has been shown to               on POD 1–2 – Strong
+reduce complications and length of hospital stay after major
+                181,182
+abdominal surgery    . All devices providing haemody- Stimulation of bowel movement
+namic surveillance show only whether an increase in fluids
+infused actually leads to improved cardiac output, and not There is no high-level evidence to support a precise
+whether the patient actually has hypoperfusion in need of motility-enhancing drug. The use of oral laxatives such
+
+
+© 2014 BJS Society Ltd                              www.bjs.co.uk                 BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                              13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+Consensus guidelines for enhanced recovery after gastrectomy                                      1221
+
+
+as magnesium sulphate or bisacodyl may stimulate early Consensus was  unproblematic for most   of the
+                                         ,
+gastrointestinal transit after colonic resections190 191.Use procedure-specific items covered in these guidelines,
+of epidurals and maintaining a near-zero fluid balance with the exception of PN and access. Literature on the for-
+are associated with an enhanced return of peristalsis after mer subject is incongruent and further high-quality RCTs
+                  ,
+abdominal surgery133 175. Chewing gum has been shown with single-component administration in enhanced recov-
+to be safe and helpful in restoring gut activity after col- ery settings are needed to reach more definite conclusions
+                              192
+orectal surgery in one meta-analysis . This was, however, and recommendations. The subject of access is complex.
+                         193,194
+not confirmed in recent RCTs  .                     Although there is an abundance of literature confirming
+                                                    perioperative benefits of laparoscopic treatment and safety
+Summary and recommendation                          for distal gastrectomy, there is a significant learning curve
+                                                    and studies describing outcomes after total gastrectomy
+A multimodal approach with epidural and near-zero fluid bal- are still wanting. Furthermore, the oncological aspect
+ance is recommended. Oral laxatives given after surgery may of minimally invasive surgery for proximal gastric can-
+accelerate gastrointestinal transit.                cer remains largely undocumented in RCTs as literature
+  Evidence level: Laxatives – Very low              reporting long-term survival after total gastrectomy is
+              Chewing gum – Low
+                                                    limited and further studies are needed. Comparing laparo-
+  Recommendation grade: Weak
+                                                    scopic and open resections in RCTs is challenging owing
+                                                    to the skill-dependent nature of these interventions and
+Early and scheduled mobilization                    consequently a predictably low validity of the results197.
+                                                    Implementation of minimally invasive surgery for the
+Delayed resumption of gut function combined with surgi-
+                                                    treatment of gastric cancer, nevertheless, offers a potential
+cal trauma leads to a lengthened recovery period in patients
+                                                    evolution in the postoperative clinical course of these
+undergoing major gastrointestinal surgery. Extended bed
+                                         ,          patients.
+rest is associated with several unwanted effects195 196.With
+                                                      A recent review198 on enhanced recovery in upper gastro-
+little evidence, the present authors support the use of
+written day-to-day instructions for patients with detailed intestinal surgery calls for international guidelines with
+postoperative targets. This improves autonomy and co- standardization of clinical pathways, allowing comparison
+operation with patients. Day-to-day progress can be of results between institutions and across nations. The
+documented with simple monitoring devices. Analgesia present consensus-based guidelines for enhanced recov-
+must be adequate.                                   ery after gastrectomy offer such a framework, allowing
+                                                    the establishment of multi-institutional prospective cohort
+                                                    registries.
+Summary and recommendation
+Patients should be mobilized actively from the morning of POD
+1 and encouraged to meet daily targets for mobilization. Collaborators
+  Evidence level: Very low
+  Recommendation grade: Strong                      C. H. C. Dejong (Department of Surgery, University
+                                                    Hospital Maastricht and NUTRIM School for Nutrition,
+                                                    Toxicology and Metabolism, Maastricht, The Nether-
+Comments                                            lands), K. C. F. Fearon (Clinical Surgery, University
+A comprehensive set of guidelines for enhanced recovery of Edinburgh, Royal Infirmary of Edinburgh, UK), O.
+after gastrectomy for cancer is presented. Although the Ljungqvist (Department of Surgery, Örebro University
+magnitude of effect following the successful implementa- Hospital, Örebro and Department of Molecular Medicine
+tion of these guidelines is yet to be established, they rep- and Surgery, Karolinska Institute, Stockholm, Sweden),
+resent an opportunity to apply the best available, updated D. N. Lobo (Division of Gastrointestinal Surgery, Not-
+perioperative practice to a group of patients at high risk of tingham Digestive Diseases Centre National Institute
+complications and morbidity.                        for Health Research, Biomedical Research Unit, Not-
+  For many of the items included, evidence is scarce and of tingham University Hospitals, Queen’s Medical Centre,
+low quality, and the use of a consensus-based process by an Nottingham, UK), A. Revhaug (Department of Gastroin-
+international author group is an attempt to minimize these testinal and Hepatopancreaticobiliary Surgery, University
+shortcomings.                                       Hospital of Northern Norway, Tromsø, Norway).
+
+
+© 2014 BJS Society Ltd                              www.bjs.co.uk                 BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                                              13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+1222                                                      K. Mortensen, M. Nilsson, K. Slim, M. Schäfer, C. Mariette, M. Braga et al.
+
+
+Acknowledgements                                                (ERAS) Group recommendations. Arch Surg 2009; 144:
+                                                                961–969.
+O.L. serves as advisor for Nutricia.                         11 Guyatt GH, Oxman AD, Vist GE, Kunz R, Falck-Ytter Y,
+Disclosure: The authors declare no other conflict of interest.  Alonso-Coello P et al. GRADE: an emerging consensus on
+                                                                rating quality of evidence and strength of
+                                                                recommendations. BMJ 2008; 336: 924–926.
+References                                                   12 Guyatt GH, Oxman AD, Kunz R, Vist GE, Falck-Ytter Y,
+                                                                Schunemann HJ. What is ‘quality of evidence’ and why is it
+  1 Varadhan KK, Neal KR, Dejong CH, Fearon KC,
+                                                                important to clinicians? BMJ 2008; 336: 995–998.
+     Ljungqvist O, Lobo DN. The enhanced recovery after
+                                                             13 Guyatt GH, Oxman AD, Kunz R, Falck-Ytter Y, Vist GE,
+     surgery (ERAS) pathway for patients undergoing major
+                                                                Liberati A et al. Going from evidence to recommendations.
+     elective open colorectal surgery: a meta-analysis of
+                                                                BMJ  2008; 336: 1049–1051.
+     randomized controlled trials.     2010; 29: 434–440.
+                              Clin Nutr                      14 Braga M, Ljungqvist O, Soeters P, Fearon K, Weimann A,
+  2 Gustafsson UO, Scott MJ, Schwenk W, Demartines N,           Bozzetti F. ESPEN Guidelines on Parenteral Nutrition:
+     Roulin D, Francis N et al.; Enhanced Recovery After        surgery. Clin Nutr 2009; 28: 378–386.
+     Surgery Society. Guidelines for perioperative care in   15 van Stijn MF, Korkic-Halilovic I, Bakker MS, van der
+     elective colonic surgery: Enhanced Recovery After Surgery  Ploeg T, van Leeuwen PA, Houdijk AP. Preoperative
+           ®
+     (ERAS  ) Society recommendations. Clin Nutr 2012; 31:      nutrition status and postoperative outcome in elderly
+     783–800.                                                   general surgery patients: a systematic review. JPEN J
+  3 Lassen K, Coolsen MM, Slim K, Carli F, de                   Parenter Enteral Nutr 2013; 37: 37–43.
+     Aguilar-Nascimento JE, Schäfer M et al. Guidelines for  16 Grotenhuis BA, Wijnhoven BP, Grüne F, van Bommel J,
+     perioperative care for pancreaticoduodenectomy:            Tilanus HW, van Lanschot JJ. Preoperative risk assessment
+                                        ®
+     Enhanced Recovery After Surgery (ERAS ) Society            and prevention of complications in patients with
+     recommendations. Clin Nutr 2012; 31: 817–830.              esophageal cancer. J Surg Oncol 2010; 101: 270–278.
+  4 Nygren J, Thacker J, Carli F, Fearon KC, Norderval S,    17 Heys SD, Schofield AC, Wahle KW,   Garcia-Caballero M.
+     Lobo DN  et al. Guidelines for perioperative care in       Nutrition and the surgical patient: triumphs and
+     elective rectal/pelvic surgery: Enhanced Recovery After    challenges. Surgeon 2005; 3: 139–144.
+                  ®
+     Surgery (ERAS  ) Society recommendations. Clin Nutr     18 Kondrup J, Rasmussen HH, Hamberg O, Stanga Z.
+     2012; 31: 801–816.                                         Nutritional risk screening (NRS 2002): a new method
+  5 Gustafsson UO, Scott MJ, Schwenk W, Demartines N,           based on an analysis of controlled clinical trials. Clin Nutr
+     Roulin D, Francis N et al. Guidelines for perioperative care 2003; 22: 321–336.
+     in elective colonic surgery: Enhanced Recovery After    19 Mariette C, De Botton ML, Piessen G. Surgery in
+     Surgery (ERAS®) Society recommendations. World J Surg      esophageal and gastric cancer patients: what is the role for
+     2013; 37: 259–284.                                         nutrition support in your daily practice? Ann Surg Oncol
+  6 Lassen K, Coolsen MM, Slim K, Carli F, de                   2012; 19: 2128–2134.
+     Aguilar-Nascimento JE, Schafer M et al. Guidelines for  20 Cerantola Y, Hübner M, Grass F, Demartines N, Schäfer
+     perioperative care for pancreaticoduodenectomy:            M. Immunonutrition in gastrointestinal surgery. Br J Surg
+     Enhanced Recovery After Surgery (ERAS®) Society            2011; 98: 37–48.
+     recommendations. World J Surg 2013; 37: 240–258.        21 Chen B, Zhou Y, Yang P, Wan HW, Wu XT. Safety and
+  7 Nygren J, Thacker J, Carli F, Fearon KC, Norderval S,       efficacy of fish oil-enriched parenteral nutrition regimen
+     Lobo DN  et al. Guidelines for perioperative care in       on postoperative patients undergoing major abdominal
+     elective rectal/pelvic surgery: Enhanced Recovery After    surgery: a meta-analysis of randomized controlled trials.
+     Surgery (ERAS®) Society recommendations. World J Surg      JPEN J Parenter Enteral Nutr 2010; 34: 387–394.
+     2013; 37: 285–305.                                      22 Marik PE, Zaloga GP. Immunonutrition in high-risk
+  8 Jiang ZW, Li JS, Wang ZM, Li N, Liu XX, Li WY et al.        surgical patients: a systematic review and analysis of the
+     [The safety and efficiency of fast track surgery in gastric literature. JPEN J Parenter Enteral Nutr 2010; 34: 378–386.
+     cancer patients undergoing D2 gastrectomy.] Zhonghua    23 Marimuthu K, Varadhan KK, Ljungqvist O, Lobo DN. A
+     Wai Ke Za Zhi 2007; 45: 1314–1317.                         meta-analysis of the effect of combinations of immune
+  9 Yamada T, Hayashi T, Cho H, Yoshikawa T, Taniguchi H,       modulating nutrients on outcome in patients undergoing
+     Fukushima R et al. Usefulness of enhanced recovery after   major open gastrointestinal surgery. Ann Surg 2012; 255:
+     surgery protocol as compared with conventional             1060–1068.
+     perioperative care in gastric surgery. Gastric Cancer 2012; 24 Wang Y, Jiang ZM, Nolan MT, Jiang H, Han HR, Yu K
+     15: 34–41.                                                 et al. The impact of glutamine dipeptide-supplemented
+ 10 Lassen K, Soop M, Nygren J, Cox PB, Hendry PO, Spies        parenteral nutrition on outcomes of surgical patients: a
+     C et al. Consensus review of optimal perioperative care in meta-analysis of randomized clinical trials. JPEN J Parenter
+     colorectal surgery: Enhanced Recovery After Surgery        Enteral Nutr 2010; 34: 521–529.
+
+
+© 2014 BJS Society Ltd                                      www.bjs.co.uk                    BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                                              13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+Consensus guidelines for enhanced recovery after gastrectomy                                                   1223
+
+
+ 25 Wei C, Hua J, Bin C, Klassen K. Impact of lipid emulsion 38 Yakoub D, Athanasiou T, Tekkis P, Hanna GB.
+     containing fish oil on outcomes of surgical patients:      Laparoscopic assisted distal gastrectomy for early gastric
+     systematic review of randomized controlled trials from     cancer: is it an alternative to the open approach? Surg Oncol
+     Europe and Asia. Nutrition 2010; 26: 474–481.              2009; 18: 322–333.
+ 26 Zhang Y, Gu Y, Guo T, Li Y, Cai H. Perioperative         39 Zeng YK, Yang ZL, Peng JS, Lin HS, Cai L.
+     immunonutrition for gastrointestinal cancer: a systematic  Laparoscopy-assisted versus open distal gastrectomy for
+     review of randomized controlled trials. Surg Oncol 2012;   early gastric cancer: evidence from randomized and
+     21: e87–e95.                                               nonrandomized clinical trials. Ann Surg 2012; 256: 39–52.
+ 27 Hubner M, Cerantola Y, Grass F, Bertrand PC, Schafer M,  40 Cai J, Wei D, Gao CF, Zhang CS, Zhang H, Zhao T. A
+     Demartines N. Preoperative immunonutrition in patients     prospective randomized study comparing open versus
+     at nutritional risk: results of a double-blinded randomized laparoscopy-assisted D2 radical gastrectomy in advanced
+     clinical trial. Eur J Clin Nutr 2012; 66: 850–855.         gastric cancer. Dig Surg 2011; 28: 331–337.
+ 28 Farreras N, Artigas V, Cardona D, Rius X, Trias M,       41 Huscher CG, Mingoli A, Sgarzini G, Sansonetti A, Di
+     González JA. Effect of early postoperative enteral         Paola M, Recher A et al. Laparoscopic versus open
+     immunonutrition on wound healing in patients undergoing    subtotal gastrectomy for distal gastric cancer: five-year
+     surgery for gastric cancer. Clin Nutr 2005; 24: 55–65.     results of a randomized prospective trial. Ann Surg 2005;
+ 29 Mudge L, Isenring E, Jamieson GG. Immunonutrition in        241: 232–237.
+     patients undergoing esophageal cancer resection. Dis    42 Lee JH, Han HS, Lee JH. A prospective randomized study
+     Esophagus 2011; 24: 160–165.                               comparing open vs laparoscopy-assisted distal gastrectomy
+ 30 Lobo DN, Williams RN, Welch NT, Aloysius MM, Nunes          in early gastric cancer: early results. Surg Endosc 2005; 19:
+     QM, Padmanabhan J et al. Early postoperative jejunostomy   168–173.
+                                                             43 Bracale U, Rovani M, Bracale M, Pignata G, Corcione F,
+     feeding with an immune modulating diet in patients
+                                                                Pecchia L. Totally laparoscopic gastrectomy for gastric
+     undergoing resectional surgery for upper gastrointestinal
+                                                                cancer: meta-analysis of short-term outcomes. Minim
+     cancer: a prospective, randomized, controlled,
+                                                                Invasive Ther Allied Technol 2012; 21: 150–160.
+     double-blind study. Clin Nutr 2006; 25: 716–726.
+                                                             44 Martínez-Ramos D, Miralles-Tena JM, Cuesta MA,
+ 31 Fujitani K, Tsujinaka T, Fujita J, Miyashiro I, Imamura H,
+                                                                Escrig-Sos J, Van der Peet D, Hoashi JS et al. Laparoscopy
+     Kimura Y et al. Prospective randomized trial of
+                                                                versus open surgery for advanced and resectable gastric
+     preoperative enteral immunonutrition followed by elective
+                                                                cancer: a meta-analysis. Rev Esp Enferm Dig 2011; 103:
+     total gastrectomy for gastric cancer. Br J Surg 2012; 99:
+                                                                133–141.
+     621–629.
+                                                             45 Wei HB, Wei B, Qi CL, Chen TF, Huang Y, Zheng ZH
+ 32 Sultan J, Griffin SM, Di FF, Kirby JA, Shenton BK, Seal
+                                                                et al. Laparoscopic versus open gastrectomy with D2 lymph
+     CJ et al. Randomized clinical trial of omega-3 fatty
+                                                                node dissection for gastric cancer: a meta-analysis. Surg
+     acid-supplemented enteral nutrition versus standard enteral
+                                                                Laparosc Endosc Percutan Tech 2011; 21: 383–390.
+     nutrition in patients undergoing oesophagogastric cancer
+                                                             46 Kim KM, An JY, Kim HI, Cheong JH, Hyung WJ, Noh
+     surgery. Br J Surg 2012; 99: 346–355.                      SH. Major early complications following open,
+ 33 Sano T, Aiko T. New Japanese classifications and            laparoscopic and robotic gastrectomy. Br J Surg 2012; 99:
+     treatment guidelines for gastric cancer: revision concepts 1681–1687.
+     and major revised points. Gastric Cancer 2011; 14: 97–100. 47 Gupta A, Favaios S, Perniola A, Magnuson A, Berggren L.
+ 34 Ding J, Liao GQ, Liu HL, Liu S, Tang J. Meta-analysis of    A meta-analysis of the efficacy of wound catheters for
+     laparoscopy-assisted distal gastrectomy with D2 lymph      post-operative pain management. Acta Anaesthesiol Scand
+     node dissection for gastric cancer. J Surg Oncol 2012; 105: 2011; 55: 785–796.
+     297–303.                                                48 Karthikesalingam A, Walsh SR, Markar SR, Sadat U, Tang
+ 35 MemonMA,KhanS,YunusRM,BarrR,MemonB.                         TY, Malata CM. Continuous wound infusion of local
+     Meta-analysis of laparoscopic and open distal gastrectomy  anaesthetic agents following colorectal surgery: systematic
+     for gastric carcinoma. Surg Endosc 2008; 22: 1781–1789.    review and meta-analysis. World J Gastroenterol 2008; 14:
+ 36 Ohtani H, Tamamori Y, Noguchi K, Azuma T, Fujimoto          5301–5305.
+     S, Oba H et al. A meta-analysis of randomized controlled 49 Liu SS, Richman JM, Thirlby RC, Wu CL. Efficacy of
+     trials that compared laparoscopy-assisted and open distal  continuous wound catheters delivering local anesthetic for
+     gastrectomy for early gastric cancer. J Gastrointest Surg  postoperative analgesia: a quantitative and qualitative
+     2010; 14: 958–964.                                         systematic review of randomized controlled trials. JAm
+ 37 Viñuela EF, Gonen M, Brennan MF, Coit DG, Strong VE.        Coll Surg 2006; 203: 914–932.
+     Laparoscopic versus open distal gastrectomy for gastric 50 Beaussier M, El’Ayoubi H, Schiffer E, Rollin M, Parc Y,
+     cancer: a meta-analysis of randomized controlled trials and Mazoit JX et al. Continuous preperitoneal infusion of
+     high-quality nonrandomized studies. Ann Surg 2012; 255:    ropivacaine provides effective analgesia and accelerates
+     446–456.                                                   recovery after colorectal surgery: a randomized,
+
+
+© 2014 BJS Society Ltd                                      www.bjs.co.uk                    BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                                              13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+1224                                                      K. Mortensen, M. Nilsson, K. Slim, M. Schäfer, C. Mariette, M. Braga et al.
+
+
+     double-blind, placebo-controlled study. Anesthesiology  64 Yoo CH, Son BH, Han WK, Pae WK. Nasogastric
+     2007; 107: 461–468.                                        decompression is not necessary in operations for gastric
+ 51 Yndgaard S, Holst P, Bjerre-Jepsen K, Thomsen CB,           cancer: prospective randomised trial. Eur J Surg 2002; 168:
+     Struckmann J, Mogensen T. Subcutaneously versus            379–383.
+     subfascially administered lidocaine in pain treatment after 65 Chen K, Mou YP, Xu XW, Xie K, Zhou W. [Necessity of
+     inguinal herniotomy. Anesth Analg 1994; 79: 324–327.       routine nasogastric decompression after gastrectomy for
+ 52 Charlton S, Cyna AM, Middleton P, Griffiths JD.             gastric cancer: a meta-analysis.] Zhonghua Yi Xue Za Zhi
+     Perioperative transversus abdominis plane (TAP) blocks for 2012; 92: 1841–1844.
+     analgesia after abdominal surgery. Cochrane Database Syst 66 Yang Z, Zheng Q, Wang Z. Meta-analysis of the need for
+     Rev 2010; (12)CD007705.                                    nasogastric or nasojejunal decompression after gastrectomy
+ 53 Johns N, O’Neill S, Ventham NT, Barron F, Brady RR,         for gastric cancer. Br J Surg 2008; 95: 809–816.
+     Daniel T. Clinical effectiveness of transversus abdominis 67 Nelson R, Edwards S, Tse B. Prophylactic nasogastric
+     plane (TAP) block in abdominal surgery: a systematic       decompression after abdominal surgery. Cochrane Database
+     review and meta-analysis. Colorectal Dis 2012; 14:         Syst Rev 2007; (3)CD004929.
+     e635–e642.                                              68 Kumar M, Yang SB, Jaiswal VK, Shah JN, Shreshtha M,
+ 54 Petersen PL, Mathiesen O, Torup H, Dahl JB. The             Gongal R. Is prophylactic placement of drains necessary
+     transversus abdominis plane block: a valuable option for   after subtotal gastrectomy? World J Gastroenterol 2007; 13:
+     postoperative analgesia? A topical review. Acta Anaesthesiol 3738–3741.
+     Scand 2010; 54: 529–535.                                69 Kim J, Lee J, Hyung WJ, Cheong JH, Chen J, Choi SH
+ 55 Siddiqui MR, Sajid MS, Uncles DR, Cheek L, Baig MK. A       et al. Gastric cancer surgery without drains: a prospective
+                                                                randomized trial.               2004; 8: 727–732.
+     meta-analysis on the clinical effectiveness of transversus                 J Gastrointest Surg
+                                                             70 Alvarez Uslar R, Molina H, Torres O, Cancino A. Total
+     abdominis plane block. JClinAnesth2011; 23: 7–14.
+                                                                gastrectomy with or without abdominal drains. A
+ 56 Revie EJ, McKeown DW, Wilson JA, Garden OJ,
+                                                                prospective randomized trial. Rev Esp Enferm Dig 2005; 97:
+     Wigmore SJ. Randomized clinical trial of local infiltration
+                                                                562–569.
+     plus patient-controlled opiate analgesia vs. epidural
+                                                             71 Liu HP, Zhang YC, Zhang YL, Yin LN, Wang J. Drain
+     analgesia following liver resection surgery. HPB (Oxford)
+                                                                versus no-drain after gastrectomy for patients with
+     2012; 14: 611–618.
+                                                                advanced gastric cancer: systematic review and
+ 57 Carrere N, Seulin P, Julio CH, Bloom E, Gouzi JL,
+                                                                meta-analysis. Dig Surg 2011; 28: 178–189.
+     Pradère B. Is nasogastric or nasojejunal decompression
+                                                             72 Wang Z, Chen J, Su K, Dong Z. Abdominal drainage versus
+     necessary after gastrectomy? A prospective randomized
+                                                                no drainage post gastrectomy for gastric cancer. Cochrane
+     trial. World J Surg 2007; 31: 122–127.
+                                                                Database Syst Rev 2011; (8)CD008788.
+ 58 Doglietto GB, Papa V, Tortorelli AP, Bossola M, Covino
+                                                             73 Lassen K, Dejong CH, Ljungqvist O, Fearon K, Andersen
+     M, Pacelli F. Nasojejunal tube placement after total
+                                                                J, Hannemann P et al. Nutritional support and oral intake
+     gastrectomy: a multicenter prospective randomized trial.   after gastric resection in five northern European countries.
+     Arch Surg 2004; 139: 1309–1313.                            Dig Surg 2005; 22: 346–352.
+ 59 Hsu S, Yu J C, Chen T W, Chou S J, Hsieh H F, Chan       74 Hirao M, Tsujinaka T, Takeno A, Fujitani K, Kurata M.
+     DC. Role of nasogastric tube insertion after gastrectomy.  Patient-controlled dietary schedule improves clinical
+     Chirurgische Gastroenterologie Interdisziplinar 2007; 23:  outcome after gastrectomy for gastric cancer. World J Surg
+     303–306.                                                   2005; 29: 853–857.
+ 60 Lee JH, Hyung WJ, Noh SH. Comparison of gastric          75 Hur H, Si Y, Kang WK, Kim W, Jeon HM. Effects of
+     cancer surgery with versus without nasogastric             early oral feeding on surgical outcomes and recovery after
+     decompression. Yonsei Med J 2002; 43: 451–456.             curative surgery for gastric cancer: pilot study results.
+ 61 Li C, Mei JW, Yan M, Chen MM, Yao XX, Yang QM  et al.       World J Surg 2009; 33: 1454–1458.
+     Nasogastric decompression for radical gastrectomy for   76 Jo DH, Jeong O, Sun JW, Jeong MR, Ryu SY, Park YK.
+     gastric cancer: a prospective randomized controlled study. Feasibility study of early oral intake after gastrectomy for
+     Dig Surg 2011; 28: 167–172.                                gastric carcinoma. J Gastric Cancer 2011; 11: 101–108.
+ 62 Mei JW, Li C, Xiang M, Chen MM, Yao XX, Yang QM          77 Suehiro T, Matsumata T, Shikada Y, Sugimachi K.
+     et al. [Evaluation of the gastrointestinal decompression   Accelerated rehabilitation with early postoperative oral
+     after gastrectomy: a prospective randomized controlled     feeding following gastrectomy. Hepatogastroenterology 2004;
+     trial.] Zhonghua Wei Chang Wai Ke Za Zhi 2009; 12:         51: 1852–1855.
+     452–455.                                                78 Lassen K, Kjaeve J, Fetveit T, Tranø G, Sigurdsson HK,
+ 63 Wu CC, Hwang CR, Liu TJ. There is no need for               Horn A  et al. Allowing normal food at will after major
+     nasogastric decompression after partial gastrectomy with   upper gastrointestinal surgery does not increase morbidity:
+     extensive lymphadenectomy. Eur J Surg 1994; 160:           a randomized multicenter trial. Ann Surg 2008; 247:
+     369–373.                                                   721–729.
+
+
+© 2014 BJS Society Ltd                                      www.bjs.co.uk                    BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                                              13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+Consensus guidelines for enhanced recovery after gastrectomy                                                   1225
+
+
+ 79 Mariette C, De Botton ML, Piessen G. Surgery in             misusers: randomised controlled trial. BMJ 1999; 318:
+     esophageal and gastric cancer patients: what is the role for 1311–1316.
+     nutrition support in your daily practice? Ann Surg Oncol 93 Bluman LG, Mosca L, Newman N, Simon DG.
+     2012; 19: 2128–2134.                                       Preoperative smoking habits and postoperative pulmonary
+ 80 Jamtvedt G, Young JM, Kristoffersen DT, Thomson             complications. Chest 1998; 113: 883–889.
+     O’Brien MA, Oxman AD. Audit and feedback: effects on    94 Sorensen LT, Karlsmark T, Gottrup F. Abstinence from
+     professional practice and health care outcomes. Cochrane   smoking reduces incisional wound infection: a randomized
+     Database Syst Rev 2003; (3)CD000259.                       controlled trial. Ann Surg 2003; 238:1–5.
+ 81 Collins GS, Jibawi A, McCulloch P. Control chart         95 Lindström D, Sadr Azodi O, Wladis A, Tønnesen H,
+     methods for monitoring surgical performance: a case study  Linder S, Nasell H et al. Effects of a perioperative smoking
+     from gastro-oesophageal surgery. Eur J Surg Oncol 2011;    cessation intervention on postoperative complications: a
+     37: 473–480.                                               randomized trial. Ann Surg 2008; 248: 739–745.
+ 82 Roberts G, Tang CB, Harvey M, Kadirkamanathan S.         96 Mastracci TM, Carli F, Finley RJ, Muccio S, Warner DO.
+     Real-time outcome monitoring following oesophagectomy      Effect of preoperative smoking cessation interventions on
+     using cumulative sum techniques. World J Gastrointest Surg postoperative complications. J Am Coll Surg 2011; 212:
+     2012; 4: 234–237.                                          1094–1096.
+ 83 Halaszynski TM, Juda R, Silverman DG. Optimizing         97 Hulzebos EH, Smit Y, Helders PP, van Meeteren NL.
+     postoperative outcomes with efficient preoperative         Preoperative physical therapy for elective cardiac surgery
+     assessment and management. Crit Care Med 2004;             patients. Cochrane Database Syst Rev 2012; (11)CD010118.
+     32(Suppl): S76–S86.                                     98 Harada H, Yamashita Y, Misumi K, Tsubokawa N, Nakao
+ 84 Carli F, Charlebois P, Baldini G, Cachero O, Stein B. An    J, Matsutani J et al. Multidisciplinary team-based approach
+     integrated multidisciplinary approach to implementation of for comprehensive preoperative pulmonary rehabilitation
+     a fast-track program for laparoscopic colorectal surgery.  including intensive nutritional support for lung cancer
+     Can J Anaesth 2009; 56: 837–842.                           patients. PLoS One 2013; 8: e59566.
+ 85 Stergiopoulou A, Birbas K, Katostaras T, Mantas J. The   99 Morano MT, Araujo AS, Nascimento FB, da Silva GF,
+     effect of interactive multimedia on preoperative knowledge Mesquita R, Pinto JS et al. Preoperative pulmonary
+     and postoperative recovery of patients undergoing          rehabilitation versus chest physical therapy in patients
+     laparoscopic cholecystectomy. Methods Inf Med 2007; 46:    undergoing lung cancer resection: a pilot randomized
+     406–409.                                                   controlled trial. Arch Phys Med Rehabil 2013; 94: 53–58.
+ 86 Broadbent E, Kahokehr A, Booth RJ, Thomas J, Windsor    100 Holte K, Nielsen KG, Madsen JL, Kehlet H. Physiologic
+     JA, Buchanan CM et al. A brief relaxation intervention     effects of bowel preparation. Dis Colon Rectum 2004; 47:
+     reduces stress and improves surgical wound healing         1397–1402.
+     response: a randomised trial. Brain Behav Immun 2012; 26: 101 Guenaga KF, Matos D, Castro AA, Atallah AN,
+     212–217.                                                   Wille-Jørgensen P. Mechanical bowel preparation for
+ 87 Edward GM, Naald NV, Oort FJ, de Haes HC, Biervliet         elective colorectal surgery. Cochrane Database Syst Rev 2005;
+     JD, Hollmann MW  et al. Information gain in patients       (1)CD001544.
+     using a multimedia website with tailored information on 102 Cao F, Li J, Li F. Mechanical bowel preparation for
+     anaesthesia. Br J Anaesth 2011; 106: 319–324.              elective colorectal surgery: updated systematic review and
+ 88 Haines TP, Hill AM, Hill KD, McPhail S, Oliver D,           meta-analysis. Int J Colorectal Dis 2011; 27: 803–810.
+     Brauer S et al. Patient education to prevent falls among 103 Ljungqvist O, Søreide E. Preoperative fasting. Br J Surg
+     older hospital inpatients: a randomized controlled trial.  2003; 90: 400–406.
+     Arch Intern Med 2011; 171: 516–524.                    104 Smith I, Kranke P, Murat I, Smith A, O’Sullivan G,
+ 89 Clarke HD, Timm VL, Goldberg BR, Hattrup SJ.                Søreide E et al. Perioperative fasting in adults and children:
+     Preoperative patient education reduces in-hospital falls   guidelines from the European Society of Anaesthesiology.
+     after total knee arthroplasty. Clin Orthop Relat Res 2011; Eur J Anaesthesiol 2011; 28: 556–569.
+     470: 244–249.                                          105 Svanfeldt M, Thorell A, Brismar K, Nygren J, Ljungqvist
+ 90 Stergiopoulou A, Birbas K, Katostaras T, Mantas J. The      O. Effects of 3 days of ‘postoperative’ low caloric feeding
+     effect of interactive multimedia on preoperative knowledge with or without bed rest on insulin sensitivity in healthy
+     and postoperative recovery of patients undergoing          subjects. Clin Nutr 2003; 22: 31–38.
+     laparoscopic cholecystectomy. Methods Inf Med 2007; 46: 106 American Society of Anesthesiologists Committee.
+     406–409.                                                   Practice guidelines for preoperative fasting and the use
+ 91 Tonnesen H, Kehlet H. Preoperative alcoholism and           of pharmacologic agents to reduce the risk of pulmonary
+     postoperative morbidity. Br J Surg 1999; 86: 869–874.      aspiration: application to healthy patients undergoing
+ 92 Tonnesen H, Rosenberg J, Nielsen HJ, Rasmussen V,           elective procedures: an updated report by the American
+     Hauge C, Pedersen IK et al. Effect of preoperative         Society of Anesthesiologists Committee on Standards and
+     abstinence on poor postoperative outcome in alcohol        Practice Parameters. Anesthesiology 2011; 114: 495–511.
+
+
+© 2014 BJS Society Ltd                                      www.bjs.co.uk                    BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                                              13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+1226                                                      K. Mortensen, M. Nilsson, K. Slim, M. Schäfer, C. Mariette, M. Braga et al.
+
+
+107 Ljungqvist O, Nygren J, Thorell A. Modulation of            American Society of Regional Anesthesia and Pain
+     post-operative insulin resistance by pre-operative         Medicine Evidence-Based Guidelines (Third Edition). Reg
+     carbohydrate loading. Proc Nutr Soc 2002; 61: 329–336.     Anesth Pain Med 2010; 35: 64–101.
+108 Hausel J, Nygren J, Lagerkranser M, Hellstrom PM,       121 Liu SS, Mulroy MF. Neuraxial anesthesia and analgesia in
+     Hammarqvist F, Almström C et al. A carbohydrate-rich       thepresenceofstandardheparin.Reg Anesth Pain Med
+     drink reduces preoperative discomfort in elective surgery  1998; 23(Suppl 2): 157–163.
+     patients. Anest Analg 2001; 93: 1344–1350.             122 Tryba M. European practice guidelines: thromboembolism
+109 Helminen H, Viitanen H, Sajanti J. Effect of preoperative   prophylaxis and regional anesthesia. Reg Anesth Pain Med
+     intravenous carbohydrate loading on preoperative           1998; 23(Suppl 2): 178–182.
+     discomfort in elective surgery patients. Eur J Anaesthesiol 123 Breivik H, Bang U, Jalonen J, Vigfússon G, Alahuhta S,
+     2009; 26: 123–127.                                         Lagerkranser M. Nordic guidelines for neuraxial blocks in
+110 Awad S, Varadhan KK, Ljungqvist O, Lobo DN. A               disturbed haemostasis from the Scandinavian Society of
+     meta-analysis of randomised controlled trials on           Anaesthesiology and Intensive Care Medicine. Acta
+     preoperative oral carbohydrate treatment in elective       Anaesthesiol Scand 2010; 54: 16–41.
+     surgery. Clin Nutr 2013; 32: 34–44.                    124 Kakkos SK, Caprini JA, Geroulakos G, Nicolaides AN,
+111 Gustafsson UO, Nygren J, Thorell A, Soop M, Hellstrom       Stansby GP, Reddy DJ. Combined intermittent pneumatic
+     PM, Ljungqvist O et al. Pre-operative carbohydrate         leg compression and pharmacological prophylaxis for
+     loading may be used in type 2 diabetes patients. Acta      prevention of venous thromboembolism in high-risk
+     Anaesthesiol Scand 2008; 52: 946–951.                      patients. Cochrane Database Syst Rev 2008; (4)CD005258.
+112 Breuer JP, von Dossow V, von Heymann C, Griesbach M,    125 Lippi G, Favaloro EJ, Cervellin G. Prevention of venous
+     von Schickfus M, Mackh E et al. Preoperative oral          thromboembolism: focus on mechanical prophylaxis. Semin
+     carbohydrate administration to ASA III–IV patients
+                                                                Thromb Hemost 2011; 37: 237–251.
+     undergoing elective cardiac surgery. Anesth Analg 2006;
+                                                            126 Bratzler DW, Houck PM. Antimicrobial prophylaxis for
+     103: 1099–1108.
+                                                                surgery: an advisory statement from the National Surgical
+113 Møiniche S, Kehlet H, Dahl JB. A qualitative and
+                                                                Infection Prevention Project. Am J Surg 2005; 189:
+     quantitative systematic review of preemptive analgesia for
+                                                                395–404.
+     postoperative pain relief: the role of timing of analgesia.
+                                                            127 Nelson RL, Glenny AM, Song F. Antimicrobial
+     Anesthesiology 2002; 96: 725–741.
+                                                                prophylaxis for colorectal surgery. Cochrane Database Syst
+114 Caumo W, Hidalgo MP, Schmidt AP, Iwamoto CW,
+                                                                Rev 2009; (1)CD001181.
+     Adamatti LC, Bergmann J et al. Effect of pre-operative
+                                                            128 Hawn MT, Richman JS, Vick CC, Deierhoi RJ, Graham
+     anxiolysis on postoperative pain response in patients
+                                                                LA, Henderson WG   et al. Timing of surgical antibiotic
+     undergoing total abdominal hysterectomy. Anaesthesia
+                                                                prophylaxis and the risk of surgical site infection. JAMA
+     2002; 57: 740–746.
+                                                                Surg 2013; 148: 649–657.
+115 Walker KJ, Smith AF. Premedication for anxiety in adult
+                                                            129 Fujita S, Saito N, Yamada T, Takii Y, Kondo K, Ohue M
+     day surgery. Cochrane Database Syst Rev 2009;
+     (4)CD002192.                                               et al. Randomized, multicenter trial of antibiotic
+116 Clagett GP, Anderson FA Jr, Geerts W, Heit JA, Knudson      prophylaxis in elective colorectal surgery: single dose vs 3
+     M, Lieberman JR et al. Prevention of venous                doses of a second-generation cephalosporin without
+     thromboembolism. Chest 1998; 114(Suppl): 531S–560S.        metronidazole and oral antibiotics. Arch Surg 2007; 142:
+117 Koch A, Bouges S, Ziegler S, Dinkel H, Daures JP, Victor    657–661.
+     N. Low molecular weight heparin and unfractionated     130 Darouiche RO, Wall MJ Jr, Itani KM, Otterson MF, Webb
+     heparin in thrombosis prophylaxis after major surgical     AL, Carrick MM  et al. Chlorhexidine–alcohol versus
+     intervention: update of previous meta-analyses. Br J Surg  povidone–iodine for surgical-site antisepsis. NEnglJMed
+     1997; 84: 750–759.                                         2010; 362: 18–26.
+118 Rasmussen MS, Jørgensen LN, Wille-Jørgensen P.          131 Block BM, Liu SS, Rowlingson AJ, Cowan AR, Cowan JA
+     Prolonged thromboprophylaxis with low molecular weight     Jr, Wu CL. Efficacy of postoperative epidural analgesia: a
+     heparin for abdominal or pelvic surgery. Cochrane Database meta-analysis. JAMA 2003; 290: 2455–2463.
+     Syst Rev 2009; (1)CD004318.                            132 Werawatganon T, Charuluxanun S. Patient controlled
+119 Horlocker TT, Wedel DJ, Benzon H, Brown DL,                 intravenous opioid analgesia versus continuous epidural
+     Enneking FK, Heit JA et al. Regional anesthesia in the     analgesia for pain after intra-abdominal surgery. Cochrane
+     anticoagulated patient: defining the risks (the second ASRA Database Syst Rev 2005; (1)CD004088.
+     Consensus Conference on Neuraxial Anesthesia and       133 JørgensenH,WetterslevJ,MoinicheS,DahlJB.Epidural
+     Anticoagulation). Reg Anesth Pain Med 2003; 28: 172–197.   local anaesthetics versus opioid-based analgesic regimens
+120 Horlocker TT, Wedel DJ, Rowlingson JC, Enneking FK,         on postoperative gastrointestinal paralysis, PONV and pain
+     Kopp SL, Benzon HT et al. Regional anesthesia in the       after abdominal surgery. Cochrane Database Syst Rev 2000;
+     patient receiving antithrombotic or thrombolytic therapy:  (4)CD001893.
+
+
+© 2014 BJS Society Ltd                                      www.bjs.co.uk                    BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                                              13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+Consensus guidelines for enhanced recovery after gastrectomy                                                   1227
+
+
+134 Popping DM, Elia N, Marret E, Remy C, Tramèr MR.            pancreatico-duodenectomy reduces delayed gastric
+     Protective effects of epidural analgesia on pulmonary      emptying. Br J Surg 2008; 95: 1387–1393.
+     complications after abdominal and thoracic surgery: a  148 Apfel CC, Kranke P, Eberhart LH, Roos A, Roewer N.
+     meta-analysis. Arch Surg 2008; 143: 990–999.               Comparison of predictive models for postoperative nausea
+135 Uchida I, Asoh T, Shirasaka C, Tsuji H. Effect of epidural  and vomiting. Br J Anaesth 2002; 88: 234–240.
+     analgesia on postoperative insulin resistance as evaluated by 149 Rusch D, Eberhart L, Biedler A, Dethling J, Apfel CC.
+     insulin clamp technique. Br J Surg 1988; 75: 557–562.      Prospective application of a simplified risk score to prevent
+136 Zhu Z, Wang C, Xu C, Cai Q. Influence of                    postoperative nausea and vomiting. Can J Anaesth 2005; 52:
+     patient-controlled epidural analgesia versus               478–484.
+     patient-controlled intravenous analgesia on postoperative 150 Carlisle JB, Stevenson CA. Drugs for preventing
+     pain control and recovery after gastrectomy for gastric    postoperative nausea and vomiting. Cochrane Database Syst
+     cancer: a prospective randomized trial. Gastric Cancer 2013; Rev 2006; (3)CD004125.
+     16: 193–200.                                           151 Wallenborn J, Gelbrich G, Bulst D, Behrends K,
+137 Hiltebrand LB, Koepfli  E, Kimberger O, Sigurdsson GH,      Wallenborn H, Rohrbach A et al. Prevention of
+     Brandt S. Hypotension during fluid-restricted abdominal    postoperative nausea and vomiting by metoclopramide
+     surgery: effects of norepinephrine treatment on regional   combined with dexamethasone: randomised double blind
+     and microcirculatory blood flow in the intestinal tract.   multicentre trial. BMJ 2006; 333: 324.
+     Anesthesiology 2011; 114: 557–564.                     152 De Oliveira GS Jr, Almeida MD, Benzon HT, McCarthy
+138 Holte K, Kehlet H. Epidural analgesia and risk of           RJ. Perioperative single dose systemic dexamethasone for
+     anastomotic leakage. Reg Anesth Pain Med 2001; 26:         postoperative pain: a meta-analysis of randomized
+     111–117.                                                   controlled trials. Anesthesiology 2011; 115: 575–588.
+139 Burstal R, Wegener F, Hayes C, Lantry G. Epidural       153 Engelman E, Maeyens C. Effect of preoperative
+     analgesia: prospective audit of 1062 patients. Anaesth     single-dose corticosteroid administration on postoperative
+     Intensive Care 1998; 26: 165–172.                          morbidity following esophagectomy. J Gastrointest Surg
+140 McLeod G, Davies H, Munnoch N, Bannister J, MacRae          2010; 14: 788–804.
+     W. Postoperative pain relief using thoracic epidural   154 Eubanks TR, Greenberg JJ, Dobrin PB, Harford FJ,
+     analgesia: outstanding success and disappointing failures. Gamelli RL. The effects of different corticosteroids on the
+     Anaesthesia 2001; 56: 75–81.                               healing colon anastomosis and cecum in a rat model. Am
+141 Kennedy EP, Grenda TR, Sauter PK, Rosato EL,                Surg 1997; 63: 266–269.
+     Chojnacki KA, Rosato FE Jr et al. Implementation of a  155 Polat A, Nayci A, Polat G, Aksöyek S. Dexamethasone
+     critical pathway for distal pancreatectomy at an academic  down-regulates endothelial expression of intercellular
+     institution. J Gastrointest Surg 2009; 13: 938–944.        adhesion molecule and impairs the healing of bowel
+142 Marret E, Rolin M, Beaussier M, Bonnet F. Meta-analysis     anastomoses. Eur J Surg 2002; 168: 500–506.
+     of intravenous lidocaine and postoperative recovery after 156 Kurz A, Sessler DI, Lenhardt R. Perioperative
+     abdominal surgery. Br J Surg 2008; 95: 1331–1338.          normothermia to reduce the incidence of surgical-wound
+143 Wongyingsinn M, Baldini G, Charlebois P, Liberman S,        infection and shorten hospitalization. Study of Wound
+     Stein B, Carli F. Intravenous lidocaine versus thoracic    Infection and Temperature Group. NEnglJMed1996;
+     epidural analgesia: a randomized controlled trial in patients 334: 1209–1215.
+     undergoing laparoscopic colorectal surgery using an    157 Scott EM, Buckland R. A systematic review of
+     enhanced recovery program. Reg Anesth Pain Med 2011; 36:   intraoperative warming to prevent postoperative
+     241–248.                                                   complications. AORN J 2006; 83: 1090–1113.
+144 Kim TH, Kang H, Choi YS, Park JM, Chi KC, Shin HY       158 Frank SM, Fleisher LA, Breslow MJ, Higgins MS, Olson
+     et al. Pre- and intraoperative lidocaine injection for     KF, Kelly S et al. Perioperative maintenance of
+     preemptive analgesics in laparoscopic gastrectomy: a       normothermia reduces the incidence of morbid cardiac
+     prospective, randomized, double-blind, placebo-controlled  events. A randomized clinical trial. JAMA 1997; 277:
+     study. J Laparoendosc Adv Surg Tech A 2013; 23: 663–668.   1127–1134.
+145 Punjasawadwong Y, Boonjeungmonkol N,                    159 Nesher N, Zisman E, Wolf T, Sharony R, Bolotin G,
+     Phongchiewboon A. Bispectral index for improving           David M  et al. Strict thermoregulation attenuates
+     anaesthetic delivery and postoperative recovery. Cochrane  myocardial injury during coronary artery bypass graft
+     Database Syst Rev 2007; (4)CD003843.                       surgery as reflected by reduced levels of cardiac-specific
+146 Futier E, Constantin JM, Paugam-Burtz C, Pascal J, Eurin    troponin I. Anesth Analg 2003; 96: 328–335.
+     M, Neuschwander A et al. A trial of intraoperative     160 Rajagopalan S, Mascha E, Na J, Sessler DI. The effects of
+     low-tidal-volume ventilation in abdominal surgery. NEngl   mild perioperative hypothermia on blood loss and
+     J Med 2013; 369: 428–437.                                  transfusion requirement. Anesthesiology 2008; 108: 71–77.
+147 Balzano G, Zerbi A, Braga M, Rocchetti S, Beneduce AA,  161 Lenhardt R, Marker E, Goll V, Tschernich H, Kurz A,
+     Di Carlo V. Fast-track recovery programme after            Sessler DI et al. Mild intraoperative hypothermia prolongs
+
+
+© 2014 BJS Society Ltd                                      www.bjs.co.uk                    BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                                              13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+1228                                                      K. Mortensen, M. Nilsson, K. Slim, M. Schäfer, C. Mariette, M. Braga et al.
+
+
+     postanesthetic recovery. Anesthesiology 1997; 87:          a randomised controlled trial. Lancet 2002; 359:
+     1318–1323.                                                 1812–1818.
+162 Wong PF, Kumar S, Bohra A, Whetter D, Leaper DJ.        176 Lobo DN. Fluid overload and surgical outcome: another
+     Randomized clinical trial of perioperative systemic        piece in the jigsaw. Ann Surg 2009; 249: 186–188.
+     warming in major elective abdominal surgery. Br J Surg 177 Varadhan KK, Lobo DN. A meta-analysis of randomised
+     2007; 94: 421–426.                                         controlled trials of intravenous fluid therapy in major
+163 Galvão CM, Liang Y, Clark AM. Effectiveness of              elective open abdominal surgery: getting the balance right.
+     cutaneous warming systems on temperature control:          Proc Nutr Soc 2010; 69: 488–498.
+     meta-analysis. JAdvNurs2010; 66: 1196–1206.            178 Holte K, Foss NB, Svensén C, Lund C, Madsen JL, Kehlet
+164 Perez-Protto S, Sessler DI, Reynolds LF, Bakri MH,          H. Epidural anesthesia, hypotension, and changes in
+     Mascha E, Cywinski J et al. Circulating-water garment or   intravascular volume. Anesthesiology 2004; 100: 281–286.
+     the combination of a circulating-water mattress and    179 Low J, Johnston N, Morris C. Epidural analgesia: first do
+     forced-air cover to maintain core temperature during       no harm. Anaesthesia 2008; 63:1–3.
+     major upper-abdominal surgery. Br J Anaesth 2010; 105: 180 Alhashemi JA, Cecconi M, Hofer CK. Cardiac output
+     466–470.                                                   monitoring: an integrative perspective. Crit Care 2011; 15:
+165 Taguchi A, Ratnaraj J, Kabon B, Sharma N, Lenhardt R,       214.
+     Sessler DI et al. Effects of a circulating-water garment and 181 Abbas SM, Hill AG. Systematic review of the literature for
+     forced-air warming on body heat content and core           the use of oesophageal Doppler monitor for fluid
+     temperature. Anesthesiology 2004; 100: 1058–1064.          replacement in major abdominal surgery. Anaesthesia 2008;
+166 Sato H, Carvalho G, Sato T, Lattermann R, Matsukawa T,      63: 44–51.
+     Schricker T. The association of preoperative glycemic  182 Giglio MT, Marucci M, Testini M, Brienza N.
+     control, intraoperative insulin sensitivity, and outcomes  Goal-directed haemodynamic therapy and gastrointestinal
+     after cardiac surgery. J Clin Endocrinol Metab 2010; 95:   complications in major surgery: a meta-analysis of
+     4338–4344.                                                 randomized controlled trials. Br J Anaesth 2009; 103:
+167 Jackson RS, Amdur RL, White JC, Macsata RA.                 637–646.
+     Hyperglycemia is associated with increased risk of     183 Chowdhury AH, Cox EF, Francis ST, Lobo DN. A
+     morbidity and mortality after colectomy for cancer. JAm    randomized, controlled, double-blind crossover study on
+     Coll Surg 2012; 214: 68–80.                                the effects of 2-l infusions of 0⋅9% saline and
+168 Ljungqvist O. Insulin resistance and outcomes in surgery.   Plasma-Lyte® 148 on renal blood flow velocity and renal
+     J Clin Endocrinol Metab 2010; 95: 4217–4219.               cortical tissue perfusion in healthy volunteers. Ann Surg
+169 Ljungqvist O, Jonathan E. Rhoads lecture 2011: Insulin      2012; 256: 18–24.
+     resistance and enhanced recovery after surgery. JPEN J 184 Shaw AD, Bagshaw SM, Goldstein SL, Scherer LA, Duan
+     Parenter Enteral Nutr 2012; 36: 389–398.                   M, Schermer CR  et al. Major complications, mortality, and
+170 Van den Berghe G, Schetz M, Vlasselaers D, Hermans G,       resource utilization after open abdominal surgery: 0⋅9%
+     Wilmer A, Bouillon R et al. Clinical review: Intensive     saline compared to Plasma-Lyte. Ann Surg 2012; 255:
+     insulin therapy in critically ill patients: NICE-SUGAR or  821–829.
+     Leuven blood glucose target? J Clin Endocrinol Metab 2009; 185 McCluskey SA, Karkouti K, Wijeysundera D, Minkovich
+     94: 3163–3170.                                             L, Tait G, Beattie WS. Hyperchloremia after noncardiac
+171 van den Berghe G, Wouters P, Weekers F, Verwaest C,         surgery is independently associated with increased
+     Bruyninckx F, Schetz M et al. Intensive insulin therapy in morbidity and mortality: a propensity-matched cohort
+     critically ill patients. N Engl J Med 2001; 345: 1359–1367. study. Anesth Analg 2013; 117: 412–421.
+172 Van den Berghe G, Wilmer A, Hermans G, Meersseman       186 Lobo DN, Stanga Z, Aloysius MM, Wicks C, Nunes QM,
+     W, Wouters PJ, Milants I et al. Intensive insulin therapy in Ingram KL et al. Effect of volume loading with 1 liter
+     the medical ICU. N Engl J Med 2006; 354: 449–461.          intravenous infusions of 0⋅9% saline, 4% succinylated
+173 Brandstrup B, Tønnesen H, Beier-Holgersen R, Hjortso E,     gelatine (Gelofusine) and 6% hydroxyethyl starch
+     Ørding H, Lindorff-Larsen K et al. Effects of intravenous  (Voluven) on blood volume and endocrine responses: a
+     fluid restriction on postoperative complications:          randomized, three-way crossover study in healthy
+     comparison of two perioperative fluid regimens: a          volunteers. Crit Care Med 2010; 38: 464–470.
+     randomized assessor-blinded multicenter trial. Ann Surg 187 Senagore AJ, Emery T, Luchtefeld M, Kim D, Dujovny N,
+     2003; 238: 641–648.                                        Hoedema R. Fluid management for laparoscopic
+174 Chowdhury AH, Lobo DN. Fluids and gastrointestinal          colectomy: a prospective, randomized assessment of
+     function. Curr Opin Clin Nutr Metab Care 2011; 14:         goal-directed administration of balanced salt solution or
+     469–476.                                                   hetastarch coupled with an enhanced recovery program.
+175 Lobo DN, Bostock KA, Neal KR, Perkins AC, Rowlands          Dis Colon Rectum 2009; 52: 1935–1940.
+     BJ, Allison SP. Effect of salt and water balance on recovery 188 McPhail MJ, Abu-Hilal M, Johnson CD. A meta-analysis
+     of gastrointestinal function after elective colonic resection: comparing suprapubic and transurethral catheterization for
+
+
+© 2014 BJS Society Ltd                                      www.bjs.co.uk                    BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+                                                                                                                              13652168, 2014, 10, Downloaded from https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs.9582 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+Consensus guidelines for enhanced recovery after gastrectomy                                                   1229
+
+
+     bladder drainage after abdominal surgery. Br J Surg 2006;  colorectal resectional surgery: a randomized clinical trial.
+     93: 1038–1044.                                             Ann Surg 2013; 257: 1016–1024.
+189 Zaouter C, Kaneva P, Carli F. Less urinary tract infection 194 Zaghiyan K, Felder S, Ovsepyan G, Murrell Z, Sokol T,
+     by earlier removal of bladder catheter in surgical patients Moore B et al. A prospective randomized controlled
+     receiving thoracic epidural analgesia. Reg Anesth Pain Med trial of sugared chewing gum on gastrointestinal
+     2009; 34: 542–548.                                         recovery after major colorectal surgery in patients managed
+190 Basse L, Madsen JL, Kehlet H. Normal gastrointestinal       with early enteral feeding. Dis Colon Rectum 2013; 56:
+     transit after colonic resection using epidural analgesia,  328–335.
+     enforced oral nutrition and laxative. Br J Surg 2001; 88: 195 Convertino VA. Cardiovascular consequences of bed rest:
+     1498–1500.                                                 effect on maximal oxygen uptake. Med Sci Sports Exerc
+191 Zingg U, Miskovic D, Pasternak I, Meyer P, Hamel CT,        1997; 29: 191–196.
+     Metzger U. Effect of bisacodyl on postoperative bowel  196 Kehlet H, Wilmore DW. Multimodal strategies to improve
+     motility in elective colorectal surgery: a prospective,    surgical outcome. Am J Surg 2002; 183: 630–641.
+     randomized trial. Int J Colorectal Dis 2008; 23: 1175–1183. 197 Lassen K, Hϕye A, Myrmel T. Randomised trials in
+192 Noble EJ, Harris R, Hosie KB, Thomas S, Lewis SJ. Gum       surgery: the burden of evidence. Rev Recent Clin Trials
+     chewing reduces postoperative ileus? A systematic review   2012; 7: 244–248.
+     and meta-analysis. Int J Surg 2009; 7: 100–105.        198 Dorcaratto D, Grande L, Pera M. Enhanced recovery in
+193 LimP,MorrisOJ,NolanG,MooreS,DraganicB,Smith                 gastrointestinal surgery: upper gastrointestinal surgery. Dig
+     SR. Sham feeding with chewing gum after elective           Surg 2013; 30: 70–78.
+
+
+                 If you wish to comment on this, or any other article published in the BJS, please
+                 visit the on-line correspondence section of the website (www.bjs.co.uk). Electronic
+                 communications will be reviewed by the Correspondence Editor and a selection
+                 will appear in the correspondence section of the Journal.
+
+
+© 2014 BJS Society Ltd                                      www.bjs.co.uk                    BJS 2014; 101: 1209–1229
+Published by John Wiley & Sons Ltd
+
+
+

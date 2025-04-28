@@ -1,0 +1,948 @@
+Special Reports                                                                                ajog.org
+
+Guidelines for Antenatal and Preoperative care
+in Cesarean Delivery: Enhanced Recovery After
+Surgery Society Recommendations (Part 1)
+R. Douglas Wilson, MD, MSc; Aaron B. Caughey, MD, PhD; Stephen L. Wood, MD; George A. Macones, MD;
+Ian J. Wrench, MB ChB, PhD; Jeffrey Huang, MD; Mikael Norman, MD, PhD; Karin Pettersson, MD, PhD;
+William J. Fawcett, MBBS, FRCA, FFPMRCA; Medhat M. Shalabi, MD; Amy Metcalfe, PhD;
+Leah Gramlich, MD; Gregg Nelson, MD, PhD
+
+    nhanced Recovery After Surgery
+E   (ERAS) is a standardized, periop- This Enhanced Recovery After Surgery (ERAS) Guideline for perioperative care in cesarean de-
+erative care program  that now  is    livery will provide best practice, evidenced-based, recommendations for preoperative, intra-
+embedded ﬁrmly within multiple surgi- operative, and postoperative phases with, primarily, a maternal focus. The focused pathway
+cal disciplines that include colorectal, process for scheduled and unscheduled cesarean delivery for this ERAS Cesarean Delivery
+urologic, gynecologic, and hepatobiliary Guideline will consider from the time from decision to operate (starting with the 30e60 minutes
+surgery.1,2 Bisch et al3 reported on the before skin incision) to hospital discharge. The literature search (1966e2017) used Embase and
+ERAS use in gynecologic oncology with PubMed to search medical subject headings that included “Cesarean Section,” “Cesarean
+the  conclusion that the systematic   Section,” “Cesarean Section Delivery” and all pre- and intraoperative ERAS items. Study selection
+implementation of ERAS gynecologic    allowed titles and abstracts to be screened by individual reviewers to identify potentially relevant
+oncology guidelines across a healthcare articles. Metaanalyses, systematic reviews, randomized controlled studies, nonrandomized
+                                      controlled studies, reviews, and case series were considered for each individual topic. Quality
+system improves patient outcomes and
+                                      assessment and data analyses that evaluated the quality of evidence and recommendations were
+saves resources. ERAS has been shown to
+                                      evaluated according to the Grading of Recommendations, Assessment, Development and
+                                      Evaluation system, as used and described in previous ERAS Guidelines. The ERAS Cesarean
+From the Department of Obstetrics &   Delivery Guideline/Pathway has created a maternal focused pathway (for scheduled and un-
+Gynecology, Oregon Health & Science   scheduled surgery starting from 30e60 minutes before skin incision to maternal discharge) with
+University, Portland, OR (Dr Caughey); the ERAS cesarean delivery consensus recommendations preoperative elements (anesthetic med-
+Department of Obstetrics & Gynecology, ications, fasting, carbohydrate supplementation, prophylactic antibiotics/skin preparation, ),
+Cumming School of Medicine, University of intraoperative elements (anesthetic management, maternal hypothermia prevention, surgical
+Calgary, Calgary, Alberta, Canada (Drs Wilson, technique, hysterotomy creation and closure, management of peritoneum, subcutaneous space,
+Wood, Metcalfe, and Nelson); the Department of
+Obstetrics & Gynecology, Washington   and skin closure), perioperative ﬂuid management, and postoperative elements (chewing gum,
+University in St Louis, St. Louis, MO (Dr management of nausea and vomiting, analgesia, timing of food intake, glucose management,
+Macones); Shefﬁeld Teaching Hospitals Trust, antithrombotic prophylaxis, timing of ambulation, urinary management, and timing of maternal
+Royal Hallamshire Hospital, Glossop Road, and neonate discharge). Limited topics for optimized care and for antenatal education and
+Shefﬁeld, United Kingdom (Dr Wrench); counselling and the immediate neonatal needs at delivery are discussed. Strong recommen-
+University of Central Florida, Orlando, FL (Dr dations for element use were given for preoperative (antenatal education and counselling, use of
+Huang); the Divisions of Pediatrics (Dr Norman)
+                                      antacids and histamine, H2 receptor antagonists, 2-hour fasting and small meal within 6 hours
+and Obstetrics (Dr Pettersson), Department of
+Clinical Science, Intervention and Technology, surgery, antimicrobial prophylaxis and skin preparation/chlorhexidine-alcohol), intraoperative
+Karolinska Institutet, Stockholm, Sweden; the (regional anesthesia, prevention of maternal hypothermia [forced warm air, warmed intravenous
+Department of Anaesthesia, Royal Surrey ﬂuids, room temperature]), perioperative (ﬂuid management for euvolemia and neonatal im-
+County Hospital, Egerton Road, Guildford, mediate care needs that include delayed cord clamping), and postoperative (ﬂuid management to
+United Kingdom (Dr Fawcett); the Departments prevent nausea and vomiting, antiemetic use, analgesia with nonsteroidal antiinﬂammatory
+of Anesthesiology and Intensive Care, Alzahra drugs/paracetamol, regular diet within 2 hours, tight capillary glucose control, pneumatic
+Hospital, Dubai, United Arab Emirates (Dr
+Shalabi); and the Department of Medicine, compression stocking for venous thromboembolism prophylaxis, immediate removal of urinary
+University of Alberta, Edmonton, Alberta, catheter). Recommendations against the element use were made for preoperative (maternal
+Canada (Dr Gramlich).                 sedation, bowel preparation), intraoperative (neonatal oral suctioning or increased inspired ox-
+Received April 19, 2018; revised Aug. 13, 2018; ygen), and postoperative (heparin should not be used routinely venous thromboembolism pro-
+accepted Sept. 10, 2018.              phylaxis). Because these ERAS cesarean delivery pathway recommendations (elements/
+The authors report no conﬂict of interest. processes) are studied, implemented, audited, evaluated, and optimized by the maternity care
+Corresponding author: R. Douglas Wilson, MD, teams, this will create an opportunity for the focused and optimized areas of care research with
+MSc. doug.wilson@ahs.ca               further enhanced care and recommendation.
+0002-9378/$36.00
+ª 2018 Elsevier Inc. All rights reserved. Key words: cesarean delivery, enhanced recovery, intraoperative, postoperative, preoper-
+https://doi.org/10.1016/j.ajog.2018.09.015 ative, quality, safety
+
+                                                          DECEMBER 2018 American Journal of Obstetrics & Gynecology 523
+
+
+Special Reports                                                                                  ajog.org
+
+                                                                        perform a cesarean delivery, and once
+                           AJOG at a Glance
+                                                                        the decision is made a process with
+  Why was this study conducted?                                         evidence-based factors and decreased
+  This ERAS Society Guideline was created to support the most common surgical variance for enhanced recovery is being
+  procedure in the industrialized healthcare world, the cesarean delivery. This proposed.
+  ERAS cesarean delivery guideline has the goal to enhance the quality and safety of
+  the cesarean delivery for improved maternal and fetal/neonatal outcomes Methods
+  through evaluation and audit.                                         Literature search
+                                                                        The author group was selected and vet-
+  Key Findings                                                          ted by the ERAS Society Guideline
+  The broad ERAS cesarean delivery elements and recommendations (Parts 1e3) Committee in May 2017 based on in-
+  break down the surgical delivery process into a “focused” pathway that starts at ternational expertise in the area, and a
+  30e60 minutes before skin incision for both scheduled and unscheduled consensus ERAS CDeenhanced recov-
+  cesarean deliveries until hospital discharge along with a longer “optimized” ery topic list was determined. The
+  pathway that manages antenatal education, maternal comorbidities, and ERAS  Gynecologic/Oncology guide-
+  immediate neonatal needs after delivery.                              lines5,6 were used as templates; however,
+                                                                        several other elements unique to cesar-
+  What does this add to what is known?
+                                                                        ean section delivery were added. After
+  This ERAS Cesarean Delivery Guideline has taken the evidence-based knowledge the topics were agreed on, they were then
+  that has been created from the cesarean delivery research, has evaluated it criti- allocated among the group according
+  cally, and, with authorship consensus, has published recommendations for to expertise. The literature search
+  process-directed maternal care for the pre-, intra-, and postoperative cesarean (1966e2017) used Embase and PubMed
+  delivery timing in a 3-part guideline with the use of the ERAS Society principles to search medical subject headings that
+  and process for improved surgical quality and safety for obstetric surgical included “Cesarean Section,”“Cesarean
+  deliveries that promote enhanced recovery for maternal and neonatal outcomes. Delivery,”“Cesarean Section Delivery,”
+                                                                        and all pre- and intraoperative ERAS
+                                                                        items. Reference lists of all eligible arti-
+result in both clinical beneﬁts (re- delivery with, primarily, a maternal cles were crosschecked for other relevant
+ductions in length of stay, complications, focus. The “focused” pathway process studies.
+and readmissions) and health system for scheduled and unscheduled ERAS
+                        e
+beneﬁts (reduction in cost).1 3     CD has been created, for the complete Study selection
+  ERAS is a tool for process manage- ERAS CD Guideline (Parts 1e3), from Titles and abstracts were screened by in-
+ment, creating a focused care process. decision-to-operate (30e60 minutes dividual reviewers to identify potentially
+The use of audit and feedback allows an before skin incision) to hospital relevant articles. Metaanalyses, systematic
+implementation process, whereby clini- discharge, which includes the immediate reviews, randomized controlled studies,
+cians are provided with comparative data neonatal care. The Appendix (Part 1) has nonrandomized controlled studies, re-
+to educate, change, and decrease the additional information that would assist views, and case series were considered for
+‘harmful’ clinical variances that are providers with optimizing the maternal each individual topic.
+identiﬁed in certain high volume clinical antenatal care when comorbidities are
+care processes and procedures. This present that may impact maternal and Quality assessment and data analyses
+ERAS process will enhance the quality of neonatal heath with additional potential The quality of evidence and recom-
+care, patient safety, and health outcomes. operative impact.            mendations were evaluated according to
+  ERAS Guideline for perioperative care As a ﬁnal introduction comment, Panda the Grading of Recommendations,
+in  cesarean delivery will provide  et al4 researched clinicians’ views of factors Assessment, Development, and Evalua-
+evidenced-based practice recommenda- for cesarean delivery using systematic re- tion system,7 as used and described in
+                                                                                                       e
+tions for preoperative (Part 1), intra- view and metasynthesis of qualitative, previous ERAS Guidelines (Table 1).5 7
+operative (Part 2), and postoperative quantitative, and mixed methods. Three Brieﬂy, the following recommendations
+(Part 3) phases and allow audit assess- main themes were identiﬁed: (1) clinicians’ are given: Strong recommendations
+ment and measurement of the desired personal beliefs, (2) healthcare systems indicate that the panel is conﬁdent that
+outcome. Although certain ERAS prin- (litigation, resources, private vs public in- the desirable effects of adherence to a
+ciples have been established for other surance payments, guidelines, manage- recommendation outweigh the undesir-
+abdominal/pelvic surgeries,3,4 this pre- ment policy), (3) clinicians’ characteristics able effects. Weak recommendations
+sent ERAS Cesarean Delivery (ERAS   (personal convenience, clinicians’ de- indicate that the desirable effects
+CD) pathway will provide additional mographics, conﬁdence, and skill).  of adherence to a recommendation
+evidenced-based recommendations for   Obstetricians and  midwives  are  probably outweigh  the undesirable
+the surgical pathway related to cesarean directly involved in the decision to effects, but the panel is less conﬁdent.
+
+524  American Journal of Obstetrics & Gynecology DECEMBER 2018
+
+
+ajog.org                                                                            Special Reports
+
+Recommendations are based not only on
+the quality of evidence (high, moderate, TABLE 1
+                                      Grading of Recommendations, Assessment, Development and Evaluation
+low, and very low) but also on the bal-                                5
+ance between desirable and undesirable system for rating quality of evidence
+effects. In some cases strong recom-  Rating quality        Deﬁnition
+mendations may be reached from low-   Evidence level
+quality data and vice versa. The Core   High quality        Further research is unlikely to change conﬁdence in estimate
+ERAS CD Team (A.B.C., G.A.M., S.L.W.,                       of effect
+G.N., and R.D.W.) reviewed the evidence
+                                        Moderate quality    Further research is likely to have important impact on
+in detail for each section and assigned                     conﬁdence in the estimate of effect and may change the
+both the recommendation and evidence                        estimate
+level. Discrepancies were resolved by the Low quality impact on Further research is very likely to have important impact on
+lead and senior authors.                conﬁdence estimate  conﬁdence estimate of effect and likely to change the estimate
+  Recommendations for each ERAS CD
+                                        Very low quality    Any estimate of effect is very uncertain
+element  in  pre-/intra-/postoperative
+(Parts 1e3) have been identiﬁed, dis- Recommendation strength
+cussed, and agreed upon with the pre-   Strong              When desirable effects of intervention clearly outweigh the
+operative ERAS CD (Part 1) elements                         undesirable effects or clearly do not
+presented in Table 2.                   Weak                When trade-offs are less certain, either because of low quality
+                                                            evidence or because evidence suggests desirable and
+Results                                                     undesirable effects are closely balanced
+Antenatal and preoperative ERAS CD    Caughey. ERAS for cesarean delivery. Am J Obstet Gynecol 2018.
+topics (Part 1)
+The cesarean delivery pathway and the
+process elements have a wider scope for elective cesarean delivery. They identi- is  2 cm.9 No clinical value was found
+the maternal antenatal and preoperative- ﬁed 5 clinical protocols with a total of 25 for manual cervical dilation for uterine
+natal care and can be considered within clinical components, with 3 (early oral drainage, subcutaneous drains in the
+the ERAS CD pathways.               intake, mobilization, removal of the wound, or maternal supplemental oxy-
+  The preoperative pathway is a focused urinary catheter) of the 25 components gen for the reduction of infective
+pathway  that starts 30e60 minutes  present in all 5 protocols. The Appraisal morbidity.9
+before the cesarean incision and ends at of Guidelines for Research and Evalua- These systematic reviews, subsequent
+maternal (fetal) discharge from hospital, tion II scores were generally low. Sys- other systematic reviews, and meta-
+which allows for a more consistent and tematic reviews of single components analyses in the reference lists have been
+generalizable ERAS CD process that in- identiﬁed a reduced length of stay after used in this ERAS CD Guideline to
+cludes the same comprehensive care to cesarean delivery of 0.5e1.5 days with evaluate the present status of the previ-
+both unscheduled and scheduled cesar- the use of the studied factors (minimally ous and new clinical care factors for the
+ean delivery.                       invasive Joel-Cohen surgical technique, enhanced quality, safety, and recovery of
+  An antenatal optimized pathway start early catheter removal, postoperative pregnant women who require a cesarean
+from 10e20 weeks of gestational age antibiotic prophylaxis). They concluded delivery.
+with a highlighted clinical process for that more ERAS CD research is required
+maternity care by a multidisciplinary to evaluate and audit directed pathways Antenatal preadmission information,
+team to support preadmission informa- for enhanced recovery.8           education, and counselling (Optimized
+tion,  education, counselling, and    A 2013 systematic review for cesarean Element)
+maternal  comorbidities (ERAS  CD   delivery had the objective to provide an Appropriate antenatal care should
+Expanded Program). Within the clinical updated evidence-based guide for sur- include preparation of pregnant women
+scenario, there are complex maternity gical decisions during the cesarean de- and their partners for delivery, which
+patients who may require an unplanned livery.9 Recommendations, with a high includes the possibility of either vaginal
+cesarean delivery but may need access to level of certainty for clinical value, were or surgical delivery. Documentation of a
+the team-based optimized antenatal care made for preeskin incision prophylactic preadmission information and counsel-
+to minimize the operative risks for antibiotics, cephalad-caudad blunt  ling process should include when the
+themselves and their offspring, if surgery uterine extension, spontaneous placental procedure will occur, the type of pro-
+is required.                        removal, and surgeon preference on  cedure, by whom the information was
+  Corso et al8 undertook a rapid review uterine exteriorization; single layer provided, and a comment on how the
+of clinical protocols and an umbrella uterine closure when future fertility is information was accepted or understood
+review of systematic reviews that are undesired, and suture closure of the by the patient. Additionally, because
+related to enhanced  recovery after subcutaneous tissue when the thickness unscheduled or emergent cesarean
+
+                                                          DECEMBER 2018 American Journal of Obstetrics & Gynecology 525
+
+
+Special Reports                                                                                               ajog.org
+
+
+   TABLE 2
+   Guidelines for perioperative care in cesarean delivery: Enhanced Recovery After Surgery (ERAS) Society
+   recommendations
+                                                                                           Evidence   Recommendation
+   Item                         Recommendation                                             level      grade
+   Antenatal pathway: OPTIMIZED
+     Preadmission information,  1. Although high-quality evidence is lacking, good clinical practice Very Strong
+     education and counselling  includes informing the patient about procedures before, during, and Low-Low
+     (optimized element)        after cesarean delivery. The information should be adapted to whether
+                                cesarean delivery is an unscheduled or is a scheduled surgery.
+                                2. Cesarean delivery without medical indication should not be Very    Strong
+                                recommended without a solid preadmission evaluation of harms Low-Low
+                                and beneﬁts, both for the mother and her baby.
+   Preoperative pathway: FOCUSED
+     Preanesthetic medications  1. Antacids and histamine H2 receptor antagonists should be Low       Strong
+     (focused elements)         administered as premedication to reduce the risk from aspiration
+                                pneumonitis.
+                                2. Preoperative sedation should not be used for scheduled cesarean Low Strong
+                                delivery because of the potential for detrimental effects on the
+                                mother and neonate.
+     Preoperative bowel preparation 1. Oral or mechanical bowel preparation should not be used before High Strong
+     (focused element)          cesarean delivery.
+     Preoperative fasting       1. Women should be encouraged to drink clear ﬂuids (pulp-free High    Strong
+     (focused element)          juice, coffee, or tea without milk) until 2 hours before surgery.
+                                2. A light meal may be eaten up to 6 hours before surgery. High       Strong
+     Preoperative carbohydrate  1. Oral carbohydrate ﬂuid supplementation, 2 hours before cesarean Low Weak
+     supplementation            delivery, may be offered to nondiabetic women.
+     (focused element)
+   Appendix: Preoperative maternal 1. Maternal obesity (body mass index, >40 kg/m2) signiﬁcantly increases High Strong
+   comorbidity optimization     risks of maternal and fetal complications. Optimal gestational weight gain
+   (optimized elements)         management should be used to control their weight during pregnancy.
+                                Surgical complexity requires multidisciplinary planning.
+                                2. Maternal hypertension should be managed during pregnancy because High Strong
+                                maternal chronic hypertension has been found to increase signiﬁcantly
+                                the incidence of maternal and fetal morbidity and cesarean delivery.
+                                3. Maternal gestational diabetes mellitus has been found to signiﬁcantly High Strong
+                                increase the risk for maternal and fetal morbidity. Maternal diabetes
+                                should receive timely and effective management during preconception
+                                and pregnancy.
+                                4. Maternal anemia during pregnancy is associated with low birthweight, Moderate Strong
+                                preterm birth, and increases perioperative morbidity and mortality rates.
+                                The cause of the anemia should be identiﬁed and corrected.
+                                5. Maternal cigarette smoking is associated with adverse medical and High Strong
+                                reproductive morbidity and should be stopped before or in early
+                                pregnancy.
+   Caughey. ERAS for cesarean delivery. Am J Obstet Gynecol 2018.
+
+deliveries can occur with very little lead should be provided. The information    situation, such as to whether the cesar-
+time, it is important to inform all women and recommendations will differ in      ean delivery was unscheduled or was a
+about the potential need for a cesarean  relation to whether there is a clear     repeat (indicated/rejected vaginal birth
+delivery and the risks, beneﬁts, and     medical indication for caesarean delivery after cesarean delivery (VBAC) or not a
+alternatives of the procedure.           or   whether   surgery  is  performed    VBAC candidate/not indicated) or pri-
+   In case of a cesarean delivery, infor- on maternal request. Maternity and      mary cesarean delivery.
+mation   about the procedure before,     support providers should also adapt        In an unscheduled cesarean delivery,
+during, and after the cesarean delivery  their communication to the required      the informed consent process demands
+
+526   American Journal of Obstetrics & Gynecology DECEMBER 2018
+
+
+ajog.org                                                                            Special Reports
+
+instructive and reassuring behavior with adapted to whether cesarean delivery is sodium citrate to neutralize gastric acid)
+clear and essential information to the an unscheduled or is a scheduled surgery and histamine H2 receptor antagonists
+patient or partner presented by the (Evidence Level: Very Low/Recommen- (ranitidine act by inhibiting the secretion
+attending surgeon, appropriate level dation Grade: Strong). (2) Cesarean of acid into the stomach decreasing both
+obstetrics trainee, and anesthesiologist. delivery without medical indication volume and acidity) was more effective
+In this unscheduled situation, a short should not be recommended without a than no intervention and was superior to
+description of the indication for the ce- solid preadmission evaluation of risks antacids alone in the prevention of low
+sarean delivery, the recommended type and beneﬁts, both for the mother and gastric pH. Although these ﬁndings were
+of anesthesia, and the surgical informa- her baby. (Evidence Level: Very Low/ for women who had a general anesthetic,
+tion related to the procedure and its Recommendations Grade: Strong).   they still have some relevance for cesar-
+urgency is important.                 Antenatal optimization of maternal ean delivery, under regional techniques,
+  When a need for neonatal care of the comorbidities and their impact on a because a proportion of the women may
+newborn infant is identiﬁed and when cesarean delivery is beyond the scope of require conversion to general anesthesia.
+time allows, the pregnant woman and this direct and focused ERAS process/ The preoperative administration of
+her partner should have the option to pathway guideline. A limited maternal gabapentin has been found to improve
+meet a neonatologist or pediatrician and comorbidity (body mass index, chronic postcesarean delivery pain control in
+to visit the neonatal unit before the hypertension, diabetes mellitus, iron some,42,43 but not all,44 studies. How-
+cesarean delivery is performed.     deﬁciency anemia) and a pregnancy   ever, a systematic review of perioperative
+  Cesarean delivery without a medical outcome summary are provided in the gabapentin for postoperative pain man-
+indication should not be considered Appendix for the interested maternity agement for a variety of different types of
+without a comprehensive preadmission providers because these maternal factors surgery found little beneﬁt, with an
+evaluation of  harms  and  beneﬁts  have perinatal and surgical impact. increased incidence of serious adverse
+                               e
+for both the mother and her baby.10 13                                  events.45
+Information about the increased surgi- Preoperative pathway               One  study that considered post-
+cal risk of short-term complications This focused preoperative 30- to   cesarean delivery maternal sedation
+(injuries to the abdominal organs,  60-minute time period is very com-  (either scheduled or unscheduled cesar-
+postoperative infection, thrombosis, and pressed for the women who undergo an ean delivery surgeries)46 reported more
+      e
+pain)14 17 and the known long-term  unscheduled cesarean delivery because sedation (self-reported or observer
+effects (risk of uterine rupture and the scheduled cesarean delivery allows assessment) after the unscheduled
+placental complications in subsequent for an expanded antenatal/preoperative cesarean delivery surgery. Sedating
+            e
+pregnancies)18 21 should be compared knowledge translation.             medications (fentanyl, midazolam,
+with the beneﬁt and risk proﬁle of    A checklist for the focused ERAS CD meperidine, ketamine) were given more
+vaginal delivery as part of the preopera- will allow for the patient and operative frequently in the unscheduled cesarean
+tive counselling.                   staff to have a summarized version  delivery group for management of side-
+  Short-term  outcomes   for   the  of the informed knowledge that the  effects and breakthrough pain. It has
+       e
+infant22 25 and associations to longer patient requires and the overall ERAS been suggested that maternal sedation
+                               e
+term  outcomes in  childhood21,26 31 CD pre-/intra-/postoperative elements may delay skin-to-skin contact between
+                                             e
+should be discussed. In an evaluation (Figure 135 39). Some of the pre- and mother and baby and therefore should
+of longer term outcomes that are asso- intraoperative elements will have a be used judiciously.47
+ciated with scheduled cesarean delivery, different time sequence, which is There is little published information
+it is important to help the pregnant dependent on the individual surgical regarding the use of sedative premed-
+woman interpret the relative and abso- team processes, but all elements are ication before cesarean delivery. The
+lute risks for different pediatric chronic covered in ERAS CD Parts 1 and 2. administration of benzodiazepines in
+disorders in childhood and  young                                       pregnancy have been associated with
+adulthood that are  associated with Preoperative anesthetic medications “ﬂoppy baby syndrome,”47,48 disturbed
+cesarean delivery and that, although (Focused Element)                  neonatal thermogenesis,41 and lower
+the underlying mechanisms remain to Although rare, aspiration pneumonitis is Apgar scores.48 A Cochrane review of
+be explored, causality has not been still a cause of maternal death during sedative premedication for adult outpa-
+        e
+proved.32 34                        anesthesia for a cesarean delivery, even in tient surgery found that there was an
+                                    well-resourced countries.40 Interven- impairment in psychomotor function up
+Summary and recommendations         tions to reduce the risk of aspiration to 3 hours after the operation (total 11
+(1) Although high-quality evidence is pneumonitis, at cesarean delivery, have studies: 3/11 no effect; 6/11 some effect;
+lacking, good clinical practice includes been considered.41 Although the quality 2/11 signiﬁcant effect).49 Therefore
+informing the patient about procedures of evidence was poor, it was found that considering the potential for maternal
+before, during, and  after cesarean the preoperative administration of a and neonatal side-effects, preoperative
+delivery. The information should be combination of antacids (nonparticulate sedation should be avoided.
+
+                                                          DECEMBER 2018 American Journal of Obstetrics & Gynecology 527
+
+
+Special Reports                                                                                  ajog.org
+
+                                                                        leak. However, a recent metaanalysis,50
+  FIGURE
+                                                                        which included gynecologic surgery
+  Checklist for focused Enhanced Recovery After Surgery (ERAS) cesarean
+                                                                        trials,51 found no beneﬁt of bowel
+  delivery patient “informed knowledge”
+                                                                        preparation. The only clear effect was to
+                                                                        cause a  “more  unpleasant patient
+The patient/maternal has a clear understanding of the following factors:         ”
+   1. The reason/indication for the cesarean delivery                   experience.
+   2. The location and type of abdominal laparotomy incision              There is only 1 small clinical trial of
+   3. The abdominal skin incision closure technique that is used by the attending mechanical bowel preparation before
+      surgeon (randomized controlled trial evidence supports subcuticular skin closure cesarean delivery that did not document
+                                         1
+      for patient satisfaction and cosmetic outcome )                   any beneﬁt.52
+   4. The preventive efforts that are used to minimize postoperative maternal infective 
+                                                          –    2,3
+      morbidity (wound/uterus/pelvis/bladder); estimated prevalence of 3 15% Summary and recommendation. Oral or
+   5. The patient’s estimated individualized postoperative risk assessment for 
+                                                                        mechanical bowel preparation should
+      thromboembolism and whether additional medical prophylaxis is needed beyond 
+      the standard mechanical techniques (elastic stockings or sequential compression not be used before cesarean delivery
+      devices); estimated prevalence is 0.5–2.2 per 1000 pregnancies or prevalence of (Evidence Level: High/Recommendation
+      venous thromboembolism ranges from 1–2 per 1000, with 80% an indication of Grade: Strong).
+      antepartum deep vein thrombosis and 20–25% an indication of pulmonary 
+      embolism4; pulmonary embolism, 40–60% after delivery5             Preoperative fasting (Focused Element)
+   6. The gastrointestinal/oral intake plans for pre- and postoperative time periods Preoperative fasting was ﬁrst described
+   7. The anticipated postoperative activities and locations of mother and baby as a measure to prevent vomiting after
+                                                                        the use of ether anesthetics. After a
+List of ERAS cesarean delivery elements:
+Preoperative                                                            syndrome of post-operative aspiration
+   1. Anesthetic medications                                            pneumonia was described, it became
+   2. Fasting                                                           more common to recommend fasting
+   3. Carbohydrate supplementation                                      periods increase from 6 hours to the
+   4. Antimicrobial prophylaxis                                         standard “NPO  after midnight.”53 A
+   5. Skin wash/vaginal preparation to minimize infectious risk         Cochrane Review concluded that there
+   6. Procedures for prevention of intraoperative hypothermia           was no  increase in the volume or
+Intraoperative                                                          decrease in pH of gastric contents or an
+   1. Pre- and intraoperative anesthetic management
+                                                                        increase in complications with shorted
+   2. Abdominal/vaginal antimicrobial cleansing                                                   54
+   3. Cesarean delivery surgical techniques (opening-delivery-closure)  preoperative fasting intervals. The
+   4. Perioperative fluid management                                    European Society of Anaesthesiology
+   5. Neonatal immediate care/delayed cord clamping                     Guideline recommended that adults and
+Postoperative                                                           children should be encouraged to drink
+   1. ERAS sham feeding/chewing gum                                     clear ﬂuids up to 2 hours before elective
+   2. Nausea and vomiting management                                    surgery (including cesarean delivery).
+   3. Analgesia                                                         Solid food should be prohibited for 6
+   4. Perioperative nutritional care/early feeding
+                                                                        hours before elective surgery in adults
+   5. Glucose control                                                              55
+   6. Thromboembolism prevention                                        and children. There have been no
+                                                                        “     ”
+   7. Early mobilization                                                fasting trials in cesarean delivery pa-
+   8. Urinary drainage management                                       tients, but 2 trials found similar results in
+ Maternal and neonate discharge                                         patients immediately after delivery.56,57
+Caughey. ERAS for cesarean delivery. Am J Obstet Gynecol 2018.          Contemporary perioperative guidelines,
+                                                                        which include cesarean delivery, reﬂects
+                                                                                                   e
+                                                                        these data and this approach.55,58 65
+
+Summary   and  recommendations. (1) effects on the mother and neonate (Evi- Summary and Recommendations. (1)
+Antacids and histamine H2 receptor an- dence Level: Low /Recommendation Women should be encouraged to drink
+tagonists should be administered as pre- Grade: Strong).                clear ﬂuids (pulp-free juice, coffee, or tea
+medication to reduce the risk from                                      without milk) until to 2 hours before
+aspiration pneumonitis (Evidence Level: Bowel preparation (Focused Element) surgery (Evidence Level: High/Recom-
+Low/Recommendation Grade: Strong).  Preoperative oral and/or mechanical mendation Grade: Strong). (2) A light
+(2) Preoperative sedation should not be bowel preparation has been used pri- meal may be eaten up to 6 hours before
+used for scheduled cesarean delivery marily in colorectal surgery to prevent surgery (Evidence Level: High/Recom-
+because of the potential for detrimental postoperative infection and anastomotic mendation Grade: Strong).
+
+
+528  American Journal of Obstetrics & Gynecology DECEMBER 2018
+
+
+ajog.org                                                                            Special Reports
+
+Preoperative carbohydrate supplementa-
+tion (Focused Element)                TABLE 3
+There have been multiple trials of oral Enhanced Recovery After Surgery (ERAS) for cesarean delivery
+carbohydrate supplementation use up to preoperative modiﬁable clinical factors
+2 hours before surgery. A Cochrane Re- Nonmodiﬁable clinical factor Modiﬁable clinical factors/audit
+view found most trials had a high risk of Maternal age
+bias and that treatment was associated Paternal age
+with only a small reduction in the length
+of stay (0.3 days) and a decreased time to History (obstetrics/medical/ Optimization of selected comorbidities
+          ﬂ                           surgery/body mass index)     (hypertension/diabetes mellitus/anemia/smoking)
+passage of atus (0.39 days). Overall,                              (small for gestational age/large for gestational age/
+postoperative complications were not                               stillbirth/preterm birth <34 weeks gestation)
+changed, and there were no reported
+                          66          Family history (genetics/birth Surgical pathway (preoperative;
+cases of aspiration pneumonia.        defects/multifactorial disease) intraoperative; postoperative)
+  Patient outcomes may be improved by
+                                      Gestational weeks 0e20
+a shorter fasting period preceded by pre- (chromosomes/birth defects/
+scribed carbohydrate intake. Postoperative miscarriage)
+insulin is preserved by carbohydrate
+                                      Caughey. ERAS for cesarean delivery. Am J Obstet Gynecol 2018.
+drinks (100 g the night before surgery and
+50 g 2 hours before surgery/intravenous
+glucose 5 mg/k/min).67 Metaanalysis of
+low-to-moderate quality and small clinical childbirth, and the most common sur- forceps or vacuum delivery, 3%); repeat
+trials indicate more evidence is required to gery is a cesarean delivery. With this indications (no VBAC attempt, 82; failed
+establish beneﬁt.68,69              clinical volume of obstetric surgical ac- VBAC attempt, 17%; failed forceps or
+  The use of carbohydrate loading,  tivity, it seems appropriate that the ERAS vacuum delivery, 0.4%).
+preoperatively, is controversial and un- process be applied to this surgical care Cesarean delivery has associated risk
+accepted for pregnant women with dia- area because there are always  2 patients and beneﬁt proﬁles for both processes
+betes mellitus. The preoperative use of (mother and fetus[es]) impacted. of unscheduled or scheduled surgery.
+carbohydrate loading in the nonpreg-  There  are quality, industry-based Complications that are associated with
+nant patient with diabetes mellitus “Deming   Principles” that can be   unscheduled (emergency) care and the
+was evaluated in a prospective, non- directed toward healthcare process man- time from decision to incision have been
+inferiority cohort; preoperative carbo- agement72: quality improvement is the evaluated.75 The maternal and neonatal
+hydrate loading was  found  to be   science of process management; if you outcomes were compared for decision to
+noninferior to fasting, and neither group cannot measure it, you cannot improve it; incision of <30 minutes (1814 patients)
+showed  superiority for preoperative managed care means managing the pro- and >30 minutes (994 patients). The
+blood glucose concentration, hypergly- cesses of care (not the human resources of adverse maternal outcomes for decision
+cemia, or length of stay.70         care); getting the right data in the right to incision of <30 minutes compared
+  Several clinical trials have evaluated format at the right time in the right with >30 minutes were endometritis
+carbohydrate supplementation or feed- hands; and engaging the human health- (11.7%; 13.0%), wound complication
+ing in labor to improve labor outcomes. care resources (physicians, nurses, and (1.3%; 0.9%), and operative injury
+Although ineffective for this purpose, other allied health professionals). Certain (0.3%; 0.5%), respectively, in the later
+the practice appears safe.71 There are no signiﬁcant pregnancy-related factors can timed cohort. The adverse neonatal
+trials of oral carbohydrate supplemen- be measured but cannot be modiﬁed outcomes were 5-minute APGAR  3
+tation before cesarean delivery for (Table 3).                          (1.0%; 0.9%), umbilical artery pH <7.0
+either pregnant diabetic or nondiabetic The frequency of a cesarean delivery (4.8%; 1.6%), hypoxic ischemic en-
+women.                              has increased from 4.5% in 1970 to  cephalopathy (0.7%; 0.5%), fetal death
+                                    31.9% in 2015 in the United States. In in labor (0.2%; 0%), and neonatal death
+Summary   and  recommendation. Oral response to this increasing surgical ac- with no malformation (0.4%; 0.1%) and
+carbohydrate ﬂuid supplementation, 2 tivity, process change has been initiated, with malformations (0.4%; 0.3%),
+hours before cesarean delivery, may be but the clinical care goals have not been respectively. Hypoxic ischemic enceph-
+offered to nondiabetic pregnant women achieved.73                       alopathy was  the  only signiﬁcant
+(Evidence Level: Low/Recommendation   The indications for a cesarean delivery comparison (P¼.001) against the <30-
+Grade: Weak).                       were summarized by the Maternal Fetal minute delivery group.
+                                    Medicine Unit Network74: primary in-  Complications associated with preg-
+Comment                             dications (dystocia, 37%; nonreassuring nancy outcomes after a scheduled low-
+In North America, the most common   fetal heart rate, 25%; abnormal fetal risk cesarean delivery (46,766 patients)
+indication to be admitted to hospital is presentation, 20%; other, 15%; failed and planned vaginal birth (2,292,420
+
+                                                          DECEMBER 2018 American Journal of Obstetrics & Gynecology 529
+
+
+Special Reports                                                                                  ajog.org
+
+patients) have been reported.76 The surgical process and activity measure- patient outcomes. Gynecol Oncol 2018;15:
+overall maternal morbidity (cesarean ments of the services provided (Surgical 117–23.
+                                                                        4. Panda S, Begley C, Daly D. Clinicians’ views
+delivery, 2.23%; vaginal birth, 0.9%) was Safety Checklist/ERAS/National Surgical of factors inﬂuencing decision-making for
+        ﬁ                       76
+not signi cant for all comparisons. Quality Improvement Program), the   caesarean section: a systematic review and
+Other investigators have reported a identiﬁcation and removal of unjustiﬁed metasynthesis of qualitative, quantitative and
+2-fold increase for cesarean delivery with system- and human-based variance, mixed methods studies. PLoS ONE 2018;13:
+an increased morbidity outcome as the team building practice (simulation), and e0200941.
+                                                                        5. Nelson G, Altman A, Nick A, et al. Guidelines
+result of puerperal infection, hemor- the introduction of new training ap-
+                          77,78                                         for pre- and intraoperative care in gynecologic/
+rhage, and thromboembolism.         proaches and oversight.             oncology surgery: enhanced recovery after
+  Comparisons of multiple repeat ce-  The  ERAS  CD   Guideline/Pathway surgery (ERAS) society recommendations e
+sarean deliveries has shown that, after (Part 1) has initiated a Focused Pathway part I. Gynecol Oncol 2016;140:313–22.
+the second repeat cesarean delivery, there (for scheduled and unscheduled surgery 6. Nelson G, Altman A, Nick A, et al. Guidelines
+                                                                        for postoperative care in gynecologic/oncology
+is an increasing risk for wound and starting from 30e60 minutes before skin
+                    e                                                   surgery: enhanced recovery after surgery
+uterine hematoma (4  6%), placenta  incision to maternal discharge) with 4 (ERAS) society recommendations e part II.
+previa (1e2%), red cell transfusions focused preoperative elements with 6 Gynecol Oncol 2016;140:323–32.
+(1e4%), hysterectomy (0.5e4%), and  recommendations: 3 recommendations  7. Guyatt GH, Oxman AD, Vist GE, et al.
+placenta accrete (0.25e3%).79       are strong for their use, antacids and GRADE: an emerging consensus on rating
+                                                                        quality of evidence and strength of recommen-
+  Initiatives to reduce the frequency of histamine H2 receptor antagonists, fast- dations. BMJ 2008;336:924–6.
+cesarean delivery and enhance maternal ing only 2 hours, and small meal within 6 8. Corso E, Hind D, Beever D, et al. Enhanced
+                      80
+safety have been proposed.          hours before surgery; 2 recommenda- recovery after elective caesarean: a rapid review
+  The focused ERAS CD pathway (Parts tions against their use, maternal sedation, of clinical protocols, and an umbrella review of
+1e3) will summarize the evidenced-  and bowel preparation, and 1 recom- systematic reviews. BMC Pregnancy Childbirth
+                                                                        2017;17:91–101.
+based preoperative, intraoperative, and mendation for antenatal optimized 9. Dahlke JD, Mendez-Figueroa H, Rouse DJ,
+postoperative clinical care processes. element (2 strong recommendations for Berghella V, Baxter JK, Chauhan SP. Evidence-
+The ERAS CD (Part 1) Antenatal/Pre- use; Table 2).                      based surgery for cesarean delivery: an updated
+operative recommendations with the    This 3-part ERAS CD   Guideline/  systematic review. Am J Obstet Gynecol
+level of evidence and the recommenda- Pathway will follow with intraoperative 2013;209:294–306.
+                                                                        10. Bettes BA, Coleman VH, Zinberg S, et al.
+tion grade are summarized in Table 2. (Part 2) and optimized immediate  Cesarean delivery on maternal request: obste-
+Each of the elements or processes within neonatal care elements and post- trician-gynecologists’ knowledge, perception,
+the focused ERAS CD   pathway has   operative (Part 3) to maternal discharge. and practice patterns. Obstet Gynecol
+the  opportunity to  be  measured,    The maternity clinical care process has 2007;109:57–66.
+compared  between services/providers, both normal and complex pathways that 11. Dodd JM, Crowther CA, Grivell RM,
+                                                             ’          Deussen AR. Elective repeat caesarean section
+and improved as required. The opti- are dependent on the patient s a priori versus induction of labour for women with a
+mized ERAS CD elements have a broad obstetric risk, but there are increasing previous caesarean birth. Cochrane Database
+antenatal clinical scope that add   risk management   factors for the   Syst Rev 2017;7:CD004906.
+complexity, but the management of the maternal and fetal patient that are related 12. Khunpradit S, Tavender E, Lumbiganon P,
+comorbid maternal factors should be to obstetric comorbid medical, genetic, Laopaiboon M, Wasiak J, Gruen RL. Non-clinical
+                                                                        interventions for reducing unnecessary
+considered for enhanced outcomes.   surgical, and lifestyle factors. More caesarean section. Cochrane Database Syst
+  Quality and   safety elements to  prospective and quality assessment/ Rev 2011;6:CD005528.
+consider, for the creation of a clinical improvement research, evaluation, 13. Lavender T, Hofmeyr GJ, Neilson JP,
+audit tool, require that81 (1) the audited audit, and collaboration will be required Kingdon C, Gyte GM. Caesarean section for
+pathway has an important impact in  for enhancement of the maternal and non-medical reasons at term. Cochrane Data-
+                                                                        base Syst Rev 2012;3:CD004660.
+terms of costs, resources, or risk, (2) fetal health outcomes, quality, and 14. Blondon M, Casini A, Hoppe KK, Boehlen F,
+            ﬁ                                                      -
+strong scienti c evidence is available, safety.                         Righini M, Smith NL. Risks of venous thrombo-
+and (3) improvements to be made on the                                  embolism after cesarean sections: a meta-
+topic in question can be evaluated easily                               analysis. Chest 2016;150:572–96.
+                                    REFERENCES
+and become a source of important clin-                                  15. Hardy-Fairbanks AJ, Lauria MR,
+                                    1.                                  Mackenzie T, McCarthy M Jr. Intensity and un-
+ical/organizational consequence.      Steenhagen E. Enhanced recovery after sur-
+                                    gery: It’s time to change practice! Nutr Clin Pract pleasantness of pain following vaginal and ce-
+  The purpose of quality improvement 2016;31:18–29.                     sarean delivery: a prospective evaluation. Birth
+is to enhance the safety, efﬁciency, and 2. Elias KM. Understanding enhanced recovery 2013;40:125–33.
+effectiveness in the multiple areas of the after surgery guidelines: An introductory 16. Jackson N, Paterson-Brown S. Physical
+healthcare process. Surgical obstetric approach. J Laparoendosc Adv Surg Tech A sequelae of caesarean section. Best Pract Res
+                                    2017;27:871–5.                      Clin Obstet Gynaecol 2001;15:49–61.
+healthcare has become a more delegated 3.                               17.
+“         ”                           Bisch SP, Wells T, Gramlich L, et al. Smaill FM, Grivell RM. Antibiotic prophylaxis
+ team sport but with optimized pre- Enhanced Recovery After Surgery (ERAS)in gy- versus no prophylaxis for preventing infection
+operative preparation (patient educa- necologic oncology: System-wide implementa- after cesarean section. Cochrane Database Syst
+tion/informed  consent), improved   tion and audit leads to improved value and Rev 2014;10:CD007482.
+
+530  American Journal of Obstetrics & Gynecology DECEMBER 2018
+
+
+ajog.org                                                                                                       Special Reports
+
+
+18. Bonnar J. Massive obstetric haemorrhage.   34. Romero R, Korzeniewski SJ. Are infants      48. Whitelaw     AGL,     Cummings       AJ,
+Baillieres Best Pract Res Clin Obstet Gynaecol born by elective cesarean delivery without labor McFadyen IR. Effect of maternal lorazepam on
+2000;14:1–18.                                  at risk for developing immune disorders later in the neonate. BMJ 1981;282:1106–8.
+19. Colmorn LB, Krebs L, Klungsoyr K, et al.   life? Am J Obstet Gynecol 2013;208:243–6.       49. Walker KJ, Smith AF. Premedication for
+Mode of   ﬁrst delivery and severe maternal    35. Fleisher J, Khalifeh A, Pettker C, Berghella V, anxiety in adult day surgery. Cochrane Database
+complications in the subsequent pregnancy.     Dabbish N, MacKeen AD. Patient satisfaction     Syst Rev 2009:CD002192.
+Acta Obstet Gynecol Scand 2017;96:1053–62.     and cosmetic outcome in a RCT of cesarean       50. Dahabreh   IJ,  Steele  DW,    Shah   N,
+20. Lee YM, D’Alton ME. Cesarean delivery on   skin  closure. J  Matern   Fetal Med   2018,    Trikalinos TA. Oral mechanical bowel prepara-
+maternal request: maternal and neonatal com-   https://doi.org/10.1080/14767058.2018.1474870.  tion for colorectal surgery: systematic review
+plications. Curr Opin Obstet Gynecol 2008;20:  [Epub ahead of print].                          and meta-analysis. Dis Colon Rectum 2015;58:
+597–601.                                       36. Sood G, Argani C, Ghanem    KG, Perl TM,    698–707.
+21. Keag OE, Norman JE, Stock SJ. Long-term    Shefﬁeld JS. Infections complicating cesarean   51. Arnold A, Aitchison LP, Abbott J. Preoper-
+risks and beneﬁts associated with cesarean     delivery. Curr Opin Infect Dis 2018;31:368–76.  ative mechanical bowel preparation for abdom-
+delivery for mother, baby, and   subsequent    37. Saeed   KBM, Greene    RA, Corcoran    P,   inal, laparoscopic, and  vaginal surgery: a
+pregnancies: systematic review and meta-anal-  O’Neill SM. Incidence of surgical site infection systematic review. J Minim Invasive Gynecol
+ysis. PLoS Med 2018;15:e1002494.               following cesarean section: a systematic review 2015;22:737–52.
+22. Altman  M, Vanpee    M, Cnattingius   S,   and meta-analysis protocol. BMJ Open 2017;7:    52. Lurie S, Baider C, Glickman H, Golan A,
+Norman M. Risk factors for acute respiratory   e013037.                                        Sadan O. Are enemas given before cesarean
+morbidity in moderately preterm infants. Pae-  38. Kolettis D, Craigo S. Thromboprophylaxis in section  useful? A  prospective  randomized
+diatr Perinat Epidemiol 2013;27:172–81.        pregnancy. Obstet Gynecol Clin N Am 2018;45:    controlled study. Eur J Obstet Gynecol Reprod
+23. Kamath   BD,   Todd   JK,   Glazner  JE,   389–402.                                        Biol 2012;163:27–9.
+Lezotte D, Lynch AM. Neonatal outcomes after   39. Villani M, Ageno W, Grandone E, Dentali F.  53. Maltby JR. Fasting from midnight: the his-
+elective cesarean  delivery. Obstet Gynecol    The   prevention  and  treatment of venous      tory behind the dogma. Best Pract Res Clin
+2009;113:1231–8.                               thromboembolism    in pregnancy. Expert Rev     Anaesthesiol 2006;20:363–78.
+24. Signore C, Klebanoff M. Neonatal morbidity Cardiovasc Ther 2017;15:397–402.                54. Brady MC, Kinn S, Stuart P, Ness V. Pre-
+and mortality after elective cesarean delivery. 40. Conﬁdential enquiries into maternal deaths. operative fasting for adults to prevent perioper-
+Clin Perinatol 2008;35:361–71.                 Why mothers die 1997-1999: the   ﬁfth report of ative complications. Cochrane Database Syst
+25. De   Luca   R,  Boulvain   M,  Irion  O,   the Conﬁdential Enquiries into Maternal Deaths  Rev 2003;4:CD004423.
+Berner M, Pﬁster RE. Incidence      of early   in the United Kingdom. London: RCOG Press;      55. Smith I, Kranke P, Murat I, et al. Periopera-
+neonatal mortality and  morbidity after late-  2001.                                           tive fasting in adults and children: guidelines
+preterm and term   cesarean delivery. Pediat-  41. Paranjothy S, Grifﬁths JD, Broughton HK,    from the European Society of Anaesthesiology.
+rics 2009;123:e1064–71.                        Gyte GML, Brown HC, Thomas J. Interventions     Eur J Anaesthesiol 2011;28:556–69.
+26. Bager P, Simonsen J, Nielsen NM, Frisch M. at caesarean section for reducing the risk of   56. SomwanshiM,TripathiA,SinghB,
+Cesarean section and offspring’s risk of inﬂam- aspiration pneumonitis. Cochrane Database of   Bajaj P. Effect of preoperative oral ﬂuids on
+matory bowel disease: a national cohort study. Syst Rev 2014:CD004943.                         gastric volume and   pH  in postpartum   pa-
+Inﬂamm Bowel Dis 2012;18:857–62.               42. Najaﬁ Anaraki A, Mirzaei K. The effect of   tients. Middle East J Anaesthesiol 1995;13:
+27. Cardwell CR, Stene LC, Joner G, et al.     gabapentin versus intrathecal fentanyl on post- 197–203.
+Caesarean   section is  associated  with  an   operative pain and morphine consumption in      57. Lam  KK, So HY, Gin T. Gastric pH and
+increased risk of childhood-onset type 1 dia-  cesarean delivery: a prospective, randomized,   volume after oral ﬂuids in the postpartum patient.
+betes mellitus: a meta-analysis of observational double-blind study. Arch  Gynecol Obstet      Can J Anaesth 1993;40:218–21.
+studies. Diabetologia 2008;51:726–35.          2014;290:47–52.                                 58. American   Society  of Anesthesiologists.
+28. Decker E, Engelmann G, Findeisen A, et al. 43. Moore A, Costello J, Wieczorek P, Shah V,   Practice guidelines for preoperative  fasting
+Cesarean delivery is associated with celiac dis- Taddio A, Carvalho JC. Gabapentin improves    and the use of pharmacologic agents to reduce
+ease but not inﬂammatory bowel disease in      postcesarean   delivery pain management: a      the risk of pulmonary aspiration: application
+children. Pediatrics 2010;125:e1433–40.        randomized, placebo-controlled   trial. Anesth  to healthy patients undergoing elective proced-
+29. Huh SY, Rifas-Shiman SL, Zera CA, et al.   Analg 2011;112:167–73.                          ures: an updated report by the American Society
+Delivery by caesarean   section and  risk of   44. Short J, Downey K, Bernstein P, Shah V,     of Anesthesiologists Committee on Standards
+obesity in preschool age children: a prospec-  Carvalho JC. A   single preoperative dose of    and   Practice  Parameters.   Anesthesiology
+tive cohort study. Arch Dis Child 2012;97:     gabapentin does not improve postcesarean        2011;114:495–511.
+610–6.                                         delivery pain  management: a     randomized,    59. Abdelhamid YA, Chapman MJ, Deane AM.
+30. Sevelsted A, Stokholm  J, Bonnelykke K,    double-blind, placebo-controlled dose-ﬁnding    Review  article peri-operative nutrition. Anaes-
+Bisgaard H. Cesarean section and chronic im-   trial. Anesth Analg 2012;115:1336–42.           thesia 2016;71(suppl1):9–18.
+mune disorders. Pediatrics 2015;135:e92–8.     45. Fabritius L, Geisler A, Petersen PL, et al. 60. Alfonsi P, Slim  K, Chauvin   M, et al.
+31. Thavagnanam   S, Fleming J, Bromley A,     Gabapentin for postoperative pain manage-       French guidelines for enhanced recovery after
+Shields MD, Cardwell CR. A meta-analysis of the ment: a systematic review with meta-analyses   elective colorectal surgery.  J   Visc  Surg
+association between caesarean section and      and trial sequential analyses. Acta Anesthesiol 2014;151:65–79.
+childhood asthma. Clin Exp Allergy 2008;38:    Scand 2016;60:1188–208.                         61. Feldheiser A, Aziz O, Baldini G, et al.
+629–33.                                        46. Bavaro JB, Mendoza JL, McCarthy RJ,         Enhanced Recovery After Surgery (ERAS) for
+32. Cho CE, Norman M. Cesarean section and     Toledo P, Bauchat JR. Maternal sedation during  gastrointestinal surgery, part 2: a consensus
+development of the immune system      in the   scheduled versus unscheduled cesarean de-       statement   for anaesthesia   practice. Acta
+offspring. Am  J Obstet Gynecol 2013;208:      livery: implications for skin-to-skin contact. Int J Anaesthesiol Scand 2016;60:289–334.
+249–54.                                        Obstet Anesth 2016;27:17–24.                    62. Findlay JM, Gillies RS, Millo J, Sgromo B,
+33. Lynch CD, Iams JD. Diseases resulting from 47. Cree JE, Meyer J, Hailey DM. Diazepam in    Marshall RE, Maynard ND. Enhanced recovery
+suboptimal immune function in offspring: is ce- labour: its metabolism and effect on the clinical for esophagectomy: a systematic review and
+sarean delivery itself really to blame? Am J   condition and thermogenesis of the newborn.     evidenced   based    guidelines. Ann    Surg
+Obstet Gynecol 2013;208:247–8.                 BMJ 1973;4:251–5.                               2014;259:413–31.
+
+
+                                                                             DECEMBER 2018   American Journal of Obstetrics & Gynecology 531
+
+
+Special Reports                                                                                                                 ajog.org
+
+63. Lambert E, Carey S. Practice guideline rec- 69. Awad   S,   Varadhan   KK,    Ljungqvist,  fetal outcomes. Obstet Gynecol 2006;108:
+ommendations on perioperative fasting: a sys-  Lobo   DN. A   meta-analysis  of randomized     6–11.
+tematic review. JPEN J Parenter Enteral Nutr   controlled trials on preoperative oral carbohy- 76. Liu SL, Liston  RM, Joseph    KS, et al.
+2016;40:1158–65.                               drate treatment in elective surgery. Clin Nutr  Maternal mortality and severe morbidity associ-
+64. Mortensen K, Nilsson M, Slim   K, et al.   2013;32:34–44.                                  ated with low-risk planned cesarean delivery
+Consensus guidelines for enhanced recovery     70. Lafﬂin MR, Shuai L, Brisebois R, Senior PA, versus planned vaginal delivery at term. CMAJ
+after gastrectomy: Enhanced Recovery After     Wang H. The use of a preoperative carbohydrate  2007;176:455–60.
+Surgery (ERAS) Society recommendations. Br J   drink in patients with diabetes mellitus: a pro- 77. Villar J, Carroli G, Zavaleta N, et al. Maternal
+Surg 2014;101:1209–29.                         spective, non-inferiority, cohort study. World J and neonatal individual risks and beneﬁts asso-
+65. Nelson G, Altman AD, Nick A, et al. Guide- Surg 2018;42:1965–70.                           ciated with cesarean delivery: Multicentre pro-
+lines for pre- and intraoperative care in gyneco- 71. Malin GL, Bugg GJ, Thornton J, et al. Does spective study. BJM 2007;335:1025.
+logic/oncology surgery: Enhanced Recovery After oral carbohydrate supplementation improve la-  78. Burrows LJ, Meyn LA, Weber AM, et al.
+Surgery (ERAS) Society recommendations-Part    bour outcome? A systematic review and indi-     Maternal morbidity  associated  with  vaginal
+1. Gynecol Oncol 2014;140:313–22.              vidual patient   data  meta-analysis.  BJOG     versus  cesarean   delivery. Obstet Gynecol
+66. Smith MD, McCall J, Plank L, Herbison PG,  2016;123:510–7.                                 2004;103:907–12.
+Soop M, Nygren J. Preoperative carbohydrate    72. Orsini JN. The essential Deming: leadership 79. Silver RM, Landon MB, Rouse DJ, et al.
+treatment for enhancing recovery after elective principles from the father of quality. New York: Maternal morbidity associated with multiple
+surgery. Cochrane Database Syst Rev 2014;8:    McGraw Hill Professional; 2012.                 repeat cesarean   deliveries. Obstet Gynecol
+CD009161.                                      73. Cesarean delivery and peripartum  hyster-   2006;107:1226–32.
+67. Ljungqvist O,   Thorell A,  Gutniak   M,   ectomy. In: Cunningham      FG, Leveno   KJ,    80. Lagrew DC, Low LK, Brennan R, et al. Na-
+Haggmark   T, Efendic   S. Glucose   infusion  Bloom  SL, Hauth JC, Roude DJ, Spong CY,        tional  partnership   for  maternal   safety:
+instead of preoperative fasting reduces post-  eds. Williams obstetrics, 23rd ed. New York:    Consensus bundle on safe reduction of primary
+operative insulin resistance. J Am Coll Surg   McGraw-Hill Medical; 2010. p. 544–8.            cesarean births: supporting intended vaginal
+1994;178:329–36.                               74. Alexander JM, Leveno KJ, Hauth J, et al.    births. Obstet Gynecol 2018;131:503–13.
+68. Bilku  DR,   Dennison   AR,    Hall  TC,   Fetal injury associated with cesarean delivery. 81. Esposito P, Dal Canton A. Clinical audit, a
+Metcalfe MS, Garcea G. Role of preoperative    Obstet Gynecol 2006;108:885.                    valuable tool to improve quality of care: General
+carbohydrate loading: a systematic review. Ann 75. Bloom  SL, Leveno KJ, Spong CY, et al.      methodology and applications in nephrology.
+R Coll Surg Engl 2014;96:15–22.                Decision-to-incision times and maternal and     World J Nephrol 2014;3:249–55.
+
+
+532   American Journal of Obstetrics & Gynecology DECEMBER 2018
+
+
+ajog.org                                                                            Special Reports
+
+Appendix: Early Recovery After      preferred; abdominal   skin/pannus  adverse fetal complications, such as in-
+Surgery (ERAS) cesarean delivery    preparation with chlorhexidine wash trauterine growth restriction, low birth-
+(CD): Part 1 Pathway and            [day of the scheduled cesarean delivery] weight, preterm delivery, and neonatal
+Appendix Table 1                    and no shaving), (2) intraoperative care respiratory distress syndrome.30 Appro-
+ERAS CD: antenatal optimization     (review of plan for pannus management priate management of maternal chronic
+(Optimized Element)                 and operative ﬁeld draping; wound care: hypertension during pregnancy can
+  Preoperative medical optimization is intravenous antibiotic prophylaxis with improve the clinical outcome, reduce the
+an important clinical goal for better higher dosing; no manual removal of the complications, and decrease cesarean
+surgical outcomes and requires multi- placenta; intraabdominal uterine  delivery rate.25,30,31
+disciplinary team-based care. This ERAS closure; closure of subcutaneous layer In pregnancy, the goal of antihyper-
+CD optimization is directed at women >2 cm; minimize creation of dead space tensive treatment includes the preven-
+who are pregnant with a comorbidity with surgical technique; consider the use tion of severe hypertension and the
+and is not directed at preconception an absorbable suture for skin closure; do possibility of prolonging gestation to
+care. Evidence supports that modiﬁable not use wound drains), and (3) post- allow the fetus more time to mature
+clinical factors for the pregnant woman operative care (enhanced postpartum before delivery. Treatment of mild-to-
+could include body mass index (obesity), follow up for wound assessment). moderate hypertension (systolic blood
+preexisting hypertension, preexisting New  guidelines for the prevention, pressure 140e169 mm  Hg/diastolic
+diabetes mellitus, and   anemia.1,2 detection, evaluation, and management blood pressure 90e109 mm Hg) has
+Pregnancy-associated hypertension and of high blood pressure in adults provide reduced the progression to severe hy-
+diabetes mellitus require optimization guidance for women with preexisting pertension by 50% compared with pla-
+after diagnosis that is based on severity hypertension during pregnancy.23,24 cebo but has not been shown to prevent
+and gestational age. Although preexist- First-trimester screening for pre- preeclampsia, preterm birth, small for
+ing obesity (body mass index >40 kg/m2 eclampsia is not considered in this ERAS gestational age, or infant death. Beta-
+prevalence of 7%) impacts clinical out- CD optimization.                blockers and calcium channel blockers
+comes, it is very difﬁcult to modify once Classiﬁcation of blood pressure in appear superior to alpha-methyldopa for
+pregnant.1                          adults requires the following values25: the prevention of preeclampsia.31
+  A systematic review (22 review arti- Normal: systolic pressure <120 mm Women with hypertension who become
+cles, 624 studies) reported that maternal Hg/diastolic pressure <80 mm Hg; pregnant should be transitioned to
+obesity signiﬁcantly increased the inci- Elevated: systolic pressure range methyldopa, nifedipine, or labetalol
+dence of gestational diabetes mellitus 120e128mm Hg/diastolic pressure <80 during pregnancy.32 Women with hy-
+(GDM), hypertension, preeclampsia,  mm Hg;                              pertension who become pregnant should
+depression, cesarean delivery, and    Hypertension: stage  1   systolic not  be  treated with angiotensin-
+infection.10 In addition, the study 130e139 mm  Hg/diastolic 80e89 mm   converting enzyme inhibitors, angio-
+demonstrated that maternal obesity  Hg; stage 2 systolic  140 mm Hg/dia- tensin II receptor blockers, or direct
+increased the risk of fetal complications stolic  90 mm Hg.             renin inhibitors because they are
+such  as  preterm birth, congenital   Maternal chronic hypertension is a fetotoxic.31
+anomalies, neonatal macrosomia, and common   comorbidity during  preg-    The 2013 American College of Ob-
+perinatal death.10 Optimal gestational nancy.26 A systemic review and meta- stetricians and Gynecologists (ACOG)
+weight gain should be based on the  analysis (55 studies; 795,221 patients) Task Force on Hypertension in Preg-
+prepregnancy maternal body mass index reported that chronic hypertension nancy recommends systolic 120e160
+                             e
+to enhance pregnancy outcomes.11 13 signiﬁcantly increased the incidence of mm Hg/diastolic 80e105 mm Hg for
+  Surgical complexity for cesarean de- preeclampsia, cesarean section delivery, pregnant women with chronic hyper-
+livery is present for women with a body fetal growth restriction, preterm de- tension as the optimal blood pressure
+                       e
+mass index >40 kg/m2 14 22: (1) pre- livery, neonatal unit admission, and target.24 Blood pressure values of systolic
+operative care (identiﬁcation of an perinatal death.27 Twenty-ﬁve percent of  150e160 mm Hg/diastolic  100e110
+appropriate operating room table with women with chronic hypertension will mm Hg should be treated.24 Drug choice
+air mattress, lift device, wheel chair, and experience superimposed preeclamp- of antihypertensive medications in hy-
+toilet; adequate human resource plan- sia,28 which will further increase the risk pertensive pregnant women is limited
+ning [medical and nursing stafﬁng]; of the development of serious maternal to those medications that have been
+abdominal incision planning based on problems, such as kidney failure, liver proved relatively safe and that have a
+the primary obesity location and the failure, abnormalities of the clotting long history of clinical use in pregnancy
+relationship to the position of the uterus/ system, and stroke.29 Preeclampsia with acceptable side-effects (such as
+lower uterine segment/fetal position; (caused by chronic or pregnancy-related labetalol, nifedipine, methyldopa, and
+transverse abdominal wall incision is hypertension) increases the risk of hydralazine).28,29 There are insufﬁcient
+
+
+                                                        DECEMBER 2018 American Journal of Obstetrics & Gynecology 532.e1
+
+
+Special Reports                                                                                  ajog.org
+
+data regarding the best regimen to treat glucose values at fasting [<95 mg/dL]/1 delivery, and admission to the neonatal
+hypertension in pregnancy because of hour [<191 mg/dL]/2 hours [<160 mg/ intensive care unit.44
+the lack of adequately powered, ran- dL]; National Diabetes Data Group    Optimization of maternal diabetic
+domized trials.29                   100-g load with normal plasma glucose glycemic control in pregnant women
+  Diabetes mellitus during pregnancy values at fasting [<105 mg/dL]/1 hour decreases the risk of preeclampsia, fetal
+comprises both  preexisting diabetes [<190 mg/dL]/2 hours [<165 mg/dL]/3 macrosomia, shoulder dystocia, and ce-
+mellitus (type 1 or type 2) and GDM that hours (<145 mg/dL]).40,41      sarean delivery.43
+was ﬁrst diagnosed during pregnancy   The new IADPSG criteria oral glucose Multidisciplinary team care can opti-
+(typically at 24e28 weeks of gestation tolerance test increases the prevalence of mize maintenance of euglycemia,45 but
+                    e
+after GDM screening).33 35 Women with GDM to 19.6% from the Australasian optimal glycemic targets have not been
+preexisting diabetes mellitus or GDM are Diabetes in Pregnancy Society oral identiﬁed by controlled trials.40
+at an increased risk for maternal and fetal glucose tolerance test rate of 9.8%.42 The WHO has reported that globally
+                               e
+complications (type 1 and 2 GDM).33 35 Glycemic targets in pregnancy (ADA; 38.2% of pregnant women are anemic
+Poorly controlled diabetes mellitus in ACOG)39,40 are similar for both preex- with the use of the WHO redeﬁned
+pregnancy increases the risk of sponta- isting diabetes mellitus and GDM deﬁnition of hemoglobin levels <11.0 g
+neous abortion, fetal anomalies, pre- (>24e28 weeks of gestation) with fast- %.46,47 Iron deﬁciency anemia accoun-
+eclampsia, fetal death, macrosomia  ing and either 1- or 2-hour postprandial ted for most maternal anemia cases. The
+and  neonatal hyperglycemia, and/or testing (preprandial testing for preexist- National Health Service Blood Trans-
+                  e
+hyperbilirubinemia.34 37 Amatcheding diabetes mellitus with insulin pumps fusion Committee Guidelines supports
+control study with 2775 patients reported and basal-bolus therapy is considered): the use of preoperative screening for
+that untreated GDM carried signiﬁcant (1) fasting <95 mg/dL (<5.3 mmol/L), maternal anemia.47 Iron deﬁciency and
+risks for perinatal morbidity and death (2) 1-hour postprandial <140 mg/dL any underlying disorder should be
+(stillbirth, neonatal  macrosomia,  (<7.8 mmol/L), (3) 2 postprandial <120 identiﬁed and corrected by oral supple-
+neonatal hypoglycemia, erythrocytosis, mg/dL (<6.7 mmol/L).             mentation or parenteral intravenous
+and hyperbilirubinemia).38            Hemoglobin A1C level should only be iron if the disorder is unresponsive to
+  The American Diabetes Association used as a secondary measure of glycemic oral therapy before any scheduled
+“Management of Diabetes in   Preg-  control in pregnancy.39             surgery.48,49
+nancy”39 and the revised ACOG Practice GDM  management starts with life-  Maternal anemia during pregnancy is
+Bulletin on Gestational Diabetes Melli- style management (medical nutrition, associated with low neonatal birthweight
+tus40 have new recommendations for  physical activity, weight management) that affects 25% of newborn infants
+diabetic management in pregnancy.   with the use of the glycemic targets listed (adjusted odds ratio, 1.23; 95% conﬁ-
+  There are a variety of glucose chal- earlier. This approach has a 70e85% dence interval, 1.06e1.43)50,51 and pre-
+lenge test screening tools that are used success rate for the American Diabetes term birth.51 Risk of maternal death is
+internationally at 24e28 weeks  of  Association criteria but lower success for associated with severe anemia in preg-
+gestation.41 There are 2-step and 1-step the IADPSG criteria.39         nancy and  the  postpartum period
+protocols recommended, and their use  If unable to meet the glycemic targets, (adjusted odds ratio, 2.36; 95% conﬁ-
+tends to be regional or country directed. pharmacologic therapy will require the dence interval, 1.60e3.48; propensity
+The World Health Organization (WHO) use of medication with insulin as the score analysis [conditional probability]
+and the International Association of the preferred choice because both metfor- adjusted odds ratio, 1.86; 95% conﬁdence
+Diabetes and Pregnancy Study Groups min (greater transfer/less neonatal hy- interval, 1.39e2.49).52 There was a linear
+(IADPSG) recommend a 1-step screen  poglycemia) and  glyburide (higher  relationship between maternal anemia
+(with the use of a 75-g glucose load with neonatal hypoglycemia and macro- and death; with each 10 g/L increase in
+normal plasma glucose measurements of somia) cross the placenta.39      maternal hemoglobin, there was a 29%
+fasting [92e125 mg/dL]/1 hour [<180   A randomized, controlled trial (948 reduction in maternal mortality rate
+mg/dL]/2 hour [WHO 153e199 mg/dL;   patients) demonstrated that women who (odds ratio, 0.71; 95% conﬁdence inter-
+IADSPG   <153 mg/dL]). The 2-step   were treated for GDM reduced the risks val, 0.60e0.85).53 In addition, preopera-
+approach initially uses a primary 50-g of fetal overgrowth, shoulder dystocia, tive anemia increased the perioperative
+glucose load (with no fasting required) cesarean delivery, and hypertensive dis- morbidity and mortality rates.54
+with a 1-hour normal plasma glucose of orders.43 Another metaanalysis (42 tri- Clinical evidence has demonstrated
+<135 mg/dL. If levels are normal, no als) showed that a combination of  the relationship between smoking and
+                                                                                                      e
+further testing is recommended; how- treatments that start with dietary modi- adverse reproductive outcomes.32,55 58
+ever, when  the  plasma glucose is  ﬁcation, exercise, glucose monitoring, The United States Surgeon General’s
+elevated, a 75- or 100-g glucose challenge and pharmacologic treatments reduced report demonstrated that there is a
+test is required (American Diabetic As- the risks of neonatal hypoglycemia, strong association between smoking
+sociation 75-g load with normal plasma macrosomia, preeclampsia, cesarean during pregnancy and fetal growth
+
+
+532.e2 American Journal of Obstetrics & Gynecology DECEMBER 2018
+
+
+ajog.org                                                                                                       Special Reports
+
+
+                                                                                               16. Satpathy   HK,   Fleming   A,   Frey  D,
+restriction/low    birthweight,    preterm     APPENDIX REFERENCES
+delivery, spontaneous abortion, prema-                                                         Barsoom    M, Satpathy    C, Khandavala    J.
+                                               1. Alberta Perinatal Health Program. Available  Maternal obesity and pregnancy. Postgrad Med
+ture rupture of the membranes, placenta        at: http://aphp.fapasoft.com. Accessed April 3, 2008;120:E01–9.
+previa, placental abruption, stillbirth,       2018.                                           17. Lamon AM, Habib AS. Managing anes-
+                                  54,55
+and neonatal mortality rates.           The    2. World  Health  Organization  (WHO). The      thesia for cesarean section on obese patients:
+effects of nicotine on       human     fetal   Global Prevalence of Anaemia in 2011. Geneva:   current perspectives. Local Reg Anesth 2016;9:
+development have indicated that in utero       WHO; 2015.                                      45–57.
+                                               3. Weiss JL, Malon FD, Emig D, et al. Obesity,  18. Gaiser R. Anesthetic considerations in the
+exposed children have multisystem        ef-   obstetrical complications, and cesarean delivery obese parturient. Clin Obstet Gynecol 2016;59:
+fects in endocrine, reproductive, respi-       rate: a  population-based   screening  study.   193–203.
+ratory, cardiovascular, and neurologic         FASR-ER Research Consortium. Am J Obstet        19. Friedman   AM, Ananth    CV. Obstetrical
+systems      that     include      learning    Gynecol 2004;190:1091–7.                        venous thromboembolism: epidemiology and
+disabilities.59,60                             4. Stothard KJ, Tennant PW, Bell R, et al.      strategies for prophylaxis. Semin   Perinatol
+                                               Maternal overweight and obesity and the risk of 2016;40:81–6.
+                                               congenital anomalies: a systematic review and   20. Kawakita T, Landy HJ. Surgical site in-
+Summary and recommendations                    meta-analysis. JAMA 2009;301:636–50.            fections after cesarean delivery: epidemiology,
+1. Maternal obesity (body mass index           5. Martin KE, Grivell RM, Yelland LN, Dodd JM.  prevention, and treatment. Matern Health Neo-
+   >40 kg/m2) signiﬁcantly increases           The inﬂuence of maternal BMI and gestational    natol Perinatol 2017;3:12.
+   risks of maternal and fetal compli-         diabetes on pregnancy outcome. Diabetes Res     21. Grupper M, Nicolau DP. Obesity and skin
+                                               Clin Pract 2015;108:508–13.                     and soft tissue infections: how  to optimize
+   cations. Optimal gestational weight         6. Bramham    K, Parnell B, Nelson-Piercy C,    antimicrobial usage for prevention and treat-
+   gain management should be used to           Seed PT, Posaton L, Chappell LC. Chronic hy-    ment. Curr Opin Infect Dis 2017;30:180–91.
+   control the weight during pregnancy.        pertension and pregnancy outcomes: system-      22. Ayres-de-Campos D. Obesity and the chal-
+   Surgical complexity requires multi-         atic review and meta-analysis. BMJ 2014;348:    lenges of caesarean delivery: prevention and
+   disciplinary     planning     (Evidence     g2301.                                          management of would complications. Best Pract
+                                               7. Metcalfe A, Sabr Y, Hutcheon JA, et al.      Res Clin Obstet Gynaecol 2015;29:406–14.
+   Level: High/Recommendation Grade:           Trends in obstetrical intervention and pregnancy 23. Aronow WS, Fridhman WH. Implications of
+   Strong).                                    outcomes of Canadian women with diabetes in     the new  national guidelines for hypertension.
+2. Maternal hypertension        should   be    pregnancy from  2004 to 2015. J Endocr Soc      Cardiol Rev 2018;26:55–61.
+   managed during pregnancy because            2017;1:1540–9.                                  24. American College of Obstetricians, Gyne-
+   maternal chronic- and pregnancy-            8. Butwick AJ, Walsh EM, Kuzniewicz, Li SX,     cologists, Task Force on Hypertension in preg-
+                                               Escobar GJ. Patterns and predictors of severe   nancy. Hypertension in pregnancy: report of the
+   associated hypertension have been
+                               ﬁ               postpartum   anemia  after cesarean  section.   American College of Obstetricians and Gyne-
+   found to increase signi      cantly the     Transfusion 2017;57:36–44.                      cologists’ Task Force on Hypertension in Preg-
+   incidence    of maternal and        fetal   9. Drukker L, Hants Y, Farkash R, Ruchlemer R,  nancy. Obstet Gynecol 2013;122:1122–31.
+   morbidity     and    cesarean   delivery    Samueloff A, Grisaru-Granovsky S. Iron deﬁ-     25. Whelton PK, Carey RM, Casey DE, et al.
+   (Evidence Level: High/Recommen-             ciency anemia at admission for labor and de-    2017       ACC/AHA/AAPA/ABC/ACPM/AGS/
+                                               livery is associated with an increased risk for APhA/ASH/ ASPC/NMA/PCNA guideline for the
+   dation Grade: Strong).                      cesarean section and adverse maternal and       prevention, detection, evaluation, and man-
+3. Maternal prepregnancy and GDM               neonatal outcomes.     Transfusion  2015;55:    agement of high blood pressure in adults: a
+   have been found to increase signiﬁ-         2799–806.                                       report of the American College of Cardiology/
+   cantly the risk for maternal and            10. Marchi J, Berg M, Dencker A, Olander EK,    American Heart Association Task Force on
+   fetal morbidity. Maternal diabetes          Begley C. Risks associated with obesity in      clinical practice guidelines. J Am Soc Hypertens
+                                               pregnancy, for the mother and baby: a sys-      2018;12:579.e1–73.
+   mellitus should receive timely and          tematic review of reviews. Obes Rev 2015;16:    26. Bateman BT, Bansil P, Hernandez-Diaz S,
+   effective management during pre-            621–38.                                         Mhyre JM, Callaghan WM, Kuklina EV. Preva-
+   conception and pregnancy (Evidence          11. Dutton H, Borengasser SJ, Gaudet LM,        lence, trends, and outcomes of chronic hyper-
+   Level: High/Recommendation Grade:           Barbour LA, Keely EJ. Obesity in pregnancy      tension: a   nationwide  sample  of delivery
+   Strong).                                    optimizing outcomes for mom and baby. Med       admissions. Am  J Obstet Gynecol 2012;206:
+                                               Clin N Am 2018;102:87–106.                      e1–8.
+4. Maternal anemia during pregnancy is         12. Chen   A, Xie   C, Vuong    AM, Wu    E,    27. Bramham   K, Parnell B, Nelson-Piercy C,
+   associated    with   low    birthweight,    DeFranco EA. Optimal gestational weight gain:   Seed PT, Poston L, Chappell LC. Chronic hy-
+   preterm    birth, and increased peri-       prepregnancy   BMI speciﬁcinﬂuences       on    pertension and pregnancy outcomes: system-
+   operative morbidity and mortality           adverse pregnancy and infant health outcomes.   atic review and meta-analysis. BMJ 2014;348:
+   rates. The cause of the anemia should       J Perinatal 2017;37:369–74.                     g2301.
+             ﬁ                                 13. Rasmussen KM, Catalano PM, Yaktine AL.      28. Sava RI, March KL, Pepine CJ. Hyperten-
+   be identi  ed and corrected (Evidence       New guidelines for weight gain during pregnancy: sion in pregnancy: taking cues from  patho-
+   Level:    Moderate/Recommendation           what obstetrician/gynecologists should know.    physiology for clinical practice. Clin Cardiol
+   Grade: Strong).                             Curr Opin Obstet Gynecol 2009;21:521–6.         2018;41:220–7.
+5. Maternal cigarette smoking is asso-         14. Overcash RT, Lacoursiere DY. The clinical   29. Sibai BM, Lindheimer M, Hauth J, et al. Risk
+   ciated   with   adverse medical and         approach to obesity in pregnancy. Clin Obstet   factors for preeclampsia, abruptio placentae,
+                                               Gynecol 2014;57:485–500.                        and adverse neonatal outcomes among women
+   reproductive morbidity and should           15. Shirazian T, Raghavan    S. Obesity and     with chronic hypertension: National Institute of
+   be stopped before or in early preg-         pregnancy:   Implications and   management      Child Health and Human Development Network
+   nancy (Evidence Level: Moderate/            strategies for providers. Mt Sinai Med     J    of Maternal-Fetal Medicine Units. N Engl J Med
+   Recommendation Grade: Strong).              2009;76:539–45.                                 1998;339:667–71.
+
+                                                                          DECEMBER 2018   American Journal of Obstetrics & Gynecology 532.e3
+
+
+Special Reports                                                                                                                 ajog.org
+
+30. Schlembach D, Homuth V, Dechend R.          42. Sexton H, Heal C, Banks J, Braniff K. Impact multilevel analysis. Lancet Glob Health 2018;6:
+Treating hypertension  in  pregnancy. Curr      of new diagnostic criteria foe gestational dia- e548–54.
+Hypertens Rep 2015;17:63.                       betes. J Obstet Gynaecol Res 2018;44:425–31.   53. Young MF. Maternal anaemia and risk of
+31. Hypertension in pregnancy: the manage-      43. Landon MB, Spong CY, Thom      E, et al.   mortality: a call for action. Lancet Glob Health
+ment of hypertensive disorders during preg-     A multicenter, randomized trial of treatment for 2018;6:e479–80.
+nancy:  National Collaborating   Centre  for    mild gestational diabetes. N   Engl J  Med     54. Musallam  KM, Tamim    HM, Richards T,
+Women’s and Children’s Health (UK). London:     2009;361:1339–48.                              et al. Preoperative anaemia and postoperative
+RCOG Press; 2010.                               44. Farrar D, Simmonds M, Bryant M, et al.     outcomes in   non-cardiac  surgery: a  retro-
+32. Abraham M, Airamadhan S, Iniguez C, et al.  Treatments for gestational diabetes: a system- spective  cohort  study. Lancet   2011;378:
+A systematic review of maternal smoking during  atic review and  meta-analysis. BMJ   Open     1396–407.
+pregnancy and fetal measurements with meta-     2017;7:e015557.                                55. US   Department of Health   and  Human
+analysis. PLOS One 2017;12:e0170946.            45. Berger H, Gagnon R, Sermer M, et al. Dia-  Services. The health consequences of invol-
+33. Hod M, Kapur A, Sacks DA, et al. The In-    betes in pregnancy. J Obstet Gynaecol Can      untary exposure to tobacco smoke: a report
+ternational Federation of Gynecology and Ob-    2016;38:667–79.                                of the Surgeon General. Atlanta: US Depart-
+stetrics (FIGO) Initiative on gestational diabetes 46. World Health Organization. Hemoglobin   ment of Health and Human Services, Centers
+mellitus: a pragmatic guide for diagnosis, man- concentrations for the diagnosis of anaemia and for Disease Control and Prevention, Coordi-
+agement, and care. Int J Gynaecol Obstet        assessment of severity. Vitamin and mineral    nating Center for Health Promotion, National
+2015;131(suppl3):S173–211.                      nutrition information system. World  Health    Center for Chronic Disease Prevention and
+34. Persson M, Norman M, Hanson U. Ob-          Organization. United Nations; 2011; WHO/       Health  Promotion, Ofﬁce   on  Smoking   and
+stetric and perinatal outcomes in type 1 diabetic NMH/NHD/MNM/11.1. Available    at:  http://  Health; 2006.
+pregnancies. Diabetes Care 2009;32:2003–9.      www.who.int/vmnis/indicators/haemoglobin/en/.  56. US Department of Health and Human Ser-
+35. Balsells M, Garcia-Patterson A, Gich I,     Accessed June 12, 2017.                        vices. The health consequences of smoking: a
+Corcoy R. Maternal and fetal outcome in women   47. NHS Blood Transfusion Committee. Patient   report of the Surgeon General. Atlanta: US
+with type 2 versus type 1 diabetes mellitus: a  blood  management    e  an  evidence-based     Department of Health and Human Services,
+systematic review  and  metaanalysis. J Clin    approach to patient care. 2014. Available at:  Centers for Disease Control and Prevention,
+Endocrinol Metab 2009;94:4284–91.               http://www.transfusionguidleines.org.uk/uk-    Coordinating Center for Health Promotion, Na-
+36. Gray SG, Sweeting    AN, McGuire    TM,     tranfusion-committees/national-blood-transfusion- tional Center for Chronic Disease Prevention
+Cohen N, Ross GP, Little PJ. The changing       committee/patient-blood-management. Accessed   and Health Promotion, Ofﬁce on Smoking and
+environment of hyperglycaemia in pregnancy:     October 12, 2018.                              Health; 2004.
+Gestational diabetes and diabetes mellitus in   48. Sun   D,    McLeod    A,    Gandhi   S,    57. Veisani Y, Jenabi E, Delpisheh A, Khazaei S.
+pregnancy. J Diabetes 2018;10:633–40.           Malinowski AK, Shehata N. Anemia in preg-      Effect of prenatal smoking     cessation  in-
+37. Schaefer-Graf U, Napoli A, Nolan CJ. Dia-   nancy: a pragmatic approach. Obstet Gynecol    terventions on  birth weight: meta-analysis.
+betes in pregnancy: a new decade of challenges  Surv 2017;72:730–6.                            J Matern Fetal Neonatal Med 2017;19:1–7.
+ahead. Diabetologia 2018;61:1012–21.            49. Avni T, Bieber A, Grossman A, Green H,     58. Kharkova OA, Grjibovski AM, Krettek A,
+38. Langer O, Yogev Y, Most O, Yexakis EMJ.     Leibovici L, Gafter-Gvili A. The safety of intra- Nieboer E, Odland JO. Effect of smoking
+Gestational diabetes: the consequences of not   venous iron preparations: systematic review    behavior before   and  during pregnancy on
+treating. Am  J  Obstet Gynecol 2005;192:       and meta-analysis. Mayo Clin Proc 2015;90:     selected birth outcomes among singleton full-
+989–97.                                         12–23.                                         term  pregnancy: a Murmansk County Birth
+39. American Diabetes Association. Manage-      50. Figueiredo  ACMG,     Gomes-Filho    IS,   Registry study. Int J Environ Res Public Health
+ment of diabetes in pregnancy: standards of     Silva RB, et al. Maternal anemia and low birth 2017;14:e867.
+medical care in diabetese2018. Diabetes Care    weight: a systematic review and meta-analysis. 59. Holbrook BD. Review The effects of nicotine
+2018;41(suppl1):S137–43.                        Nutrients 2018;10:e601.                        on human fetal development. Birth Defects Res
+40. Committee on Practice Bulletins: Obstet-    51. Levy A, Fraser D, Katz M, Mazor M,         2016;108:181–92.
+rics. ACOG Practice Bulletin No. 190: gesta-    Sheiner E. Maternal anemia during pregnancy is 60. Leybovitz-Haleluya   N,   Wainstock   T,
+tional diabetes  mellitus. Obstet   Gynecol     an independent risk factor for low birthweight Landau   D, Sheiner E. Maternal smoking
+2018;131:e49–64.                                and preterm  delivery. Eur J Obstet Gynecol    during pregnancy and    the risk of pediatric
+41. Denney JM, Quinn KH. Gestational dia-       Reprod Biol 2005;122:182–6.                    cardiovascular diseases of the offspring: a
+betes underpinning principles, surveillance, and 52. Daru J, Zamora J, Fernandez-Felix BM,     population-based cohort study with up to 18-
+management. Obstet Gynecol Clin      N  Am      et al. Risk of maternal mortality with severe  years of follow up. Reprod Toxicol 2018;78:
+2018;45:299–314.                                anaemia during pregnancy and post partum: a    69–74.
+
+
+532.e4   American Journal of Obstetrics & Gynecology DECEMBER 2018
+
+
+ajog.org                                                                                        Special Reports
+
+
+   APPENDIX TABLE
+   Summary of maternal and fetal adverse events for maternal obesity body mass index        >40 kg/m2
+   Odds ratio for adverse maternal outcomes associated with body         Odds ratio for adverse fetal outcomes for maternal
+   mass index >35 kg/m2a                                                 obesityb
+   Adverse outcome                           Odds ratio                  Fetal outcome                Odds ratio
+     Gestational diabetes mellitus           4.0 (3.1e5.2)               NTD                          1.87 (1.62e2.15)
+     Gestational hypertension                3.2 (2.6e4.0)               CL/P                         1.20 (1.03e1.40)
+   Preeclampsia                              3.3 (2.4e4.5)               Hydrocephalus                1.68 (1.19e2.36)
+     Operative vaginal delivery              1.7 (1.2e2.2)               Limb reduction               1.34 (91.03e1.73)
+     Fetal macrosomia >4500 g                2.4 (1.5e3.8)               Cardiac                      1.30 (1.12e1.51)
+                                                                         IUFD                         3.90 (2.44e6.22)
+   CL/P, cleft lip/palate; IUFD, intrauterine fetal death; NTD, neutral tube defect.
+   a Data from75; b data from76. United States data indicate that 8% of all reproductive age women have a body mass index of >40 kg/m2.75 Maternal obesity and associated fetal risks would include
+    congenital anomalies, stillbirth, macrosomia, and long-term implications such as childhood obesity and type II diabetes mellitus. Fetal anomalies will impact the providers, counselling, and
+    planning.76
+   Caughey. ERAS for cesarean delivery. Am J Obstet Gynecol 2018.
+
+
+                                                                DECEMBER 2018 American Journal of Obstetrics & Gynecology 532.e5
+
+
+

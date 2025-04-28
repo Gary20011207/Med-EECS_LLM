@@ -1,0 +1,780 @@
+ajog.org                                                                            Special Reports
+Guidelines for intraoperative care in cesarean
+delivery: Enhanced Recovery After Surgery Society
+Recommendations (Part 2)
+Aaron B. Caughey, MD, PhD; Stephen L. Wood, MD; George A. Macones, MD;
+Ian J. Wrench, MB ChB, PhD; Jeffrey Huang, MD; Mikael Norman, MD, PhD;
+Karin Pettersson, MD, PhD; William J. Fawcett, MBBS, FRCA, FFPMRCA;
+Medhat M. Shalabi, MD; Amy Metcalfe, PhD; Leah Gramlich, MD; Gregg Nelson, MD, PhD;
+R. Douglas Wilson, MD, MSc
+
+    nhanced Recovery After Surgery
+E   (ERAS) is a standardized, periop- The Enhanced Recovery After Surgery Society guideline for intraoperative care in cesarean
+erative care program  that now  is    delivery will provide best practice, evidenced-based, recommendations for intraoperative
+embedded ﬁrmly within multiple surgi- care, with primarily a maternal focus. The “focused” pathway process for scheduled and
+cal disciplines that include colorectal, unscheduled cesarean delivery for this Enhanced Recovery After Surgery cesarean delivery
+urologic, gynecologic, and hepatobiliary guideline will consider procedure from the decision to operate (starting with the 30e60
+surgery.1 ERAS has been shown to result minutes before skin incision) through the surgery. The literature search (1966e2017) used
+in both clinical beneﬁts (reductions in Embase and PubMed to search medical subject headings including “cesarean section,”
+length of stay, complications, and read- “cesarean section,” “cesarean section delivery,” and all pre- and intraoperative Enhanced
+missions) and health system beneﬁts   Recovery After Surgery items. Study selection allowed titles and abstracts to be screened by
+(reduction in cost).1,2               individual reviewers to identify potentially relevant articles. Metaanalyses, systematic reviews,
+                                      randomized controlled studies, nonrandomized controlled studies, reviews, and case series
+                                      were considered for each individual topic. Quality assessment and data analyses evaluated
+                                      the quality of evidence and recommendations were evaluated according to the Grading of
+                                      Recommendations, Assessment, Development and Evaluation system as used and described
+From the Department of Obstetrics &   in previous Enhanced Recovery After Surgery Society guidelines. The Enhanced Recovery
+Gynecology, Oregon Health & Science   After Surgery cesarean delivery guideline/pathway has created a maternal focused pathway
+University, Portland, OR (Dr Caughey); the                                    e
+Department of Obstetrics & Gynecology, (for scheduled and unscheduled surgery starting from 30 60 minutes before skin incision to
+Cumming School of Medicine, University of maternal discharge) with Enhanced Recovery After Surgeryedirected preoperative elements,
+Calgary, Calgary, Alberta, Canada (Drs Wood, intraoperative elements, and postoperative elements. Speciﬁcs of the intraoperative care
+Metcalfe, Nelson, and Wilson); the Department included the use of prophylactic antibiotics before the cesarean delivery, appropriate patient
+of Obstetrics & Gynecology, Washington warming intraoperatively, blunt expansion of the transverse uterine hysterotomy, skin closure
+University in St Louis, St. Louis, MO (Dr with subcuticular sutures, and delayed cord clamping. A number of speciﬁc elements of
+Macones); the Shefﬁeld Teaching Hospitals
+                                      intraoperative care of women who undergo cesarean delivery are recommended based on the
+Trust, Royal Hallamshire Hospital, Glossop
+Road, Shefﬁeld, United Kingdom (Dr Wrench); evidence. The Enhanced Recovery After Surgery Society guideline for intraoperative care in
+the University of Central Florida, Orlando, FL (Dr cesarean delivery will provide best practice, evidenced-based, recommendations for intra-
+Huang); the Divisions of Pediatrics (Dr Norman) operative care with primarily a maternal focus. When the cesarean delivery pathway (ele-
+and Obstetrics (Dr Pettersson), Department of ments/processes) is studied, implemented, audited, evaluated, and optimized by maternity
+Clinical Science, Intervention and Technology, care teams, this will create an opportunity for the focused and optimized areas of care and
+Karolinska Institutet, Stockholm, Sweden; the recommendations to be further enhanced.
+Department of Anaesthesia, Royal Surrey
+County Hospital, Egerton Road, Guildford,
+United Kingdom (Mr Fawcett); the Departments Key words: cesarean delivery, enhanced recovery
+of Anesthesiology and Intensive Care, Alzahra
+Hospital, Dubai, United Arab Emirates (Dr
+Shalabi); the Department of Medicine, University
+of Alberta, Edmonton, Alberta, Canada (Dr The intent is for this ERAS Society recommendations for the surgical
+Gramlich).                          guideline for perioperative care in cesar- pathway related to cesarean delivery with
+Received June 26, 2018; accepted Aug. 1, ean delivery to provide best practice primarily a maternal focus. The current
+2018.                               recommendations  for  preoperative, document is the second in a series of 3 to
+The authors report no conﬂict of interest. intraoperative, and postoperative phases focus on ERAS CD and is focused pri-
+Corresponding author: R. Douglas Wilson, MD, primarily. Although certain ERAS prin- marily on intraoperative care beginning
+MSc. doug.wilson@ahs.ca             ciples have been established for other 30e60 minutes before the procedure,
+0002-9378/$36.00                    abdominal/pelvic surgeries, this present with the ﬁrst document focused on
+ª 2018 Elsevier Inc. All rights reserved.
+https://doi.org/10.1016/j.ajog.2018.08.006 ERAS cesarean delivery (ERAS CD) preoperative care and the third docu-
+                                    pathway will provide evidence-based ment focused on postoperative care. The
+
+                                                          DECEMBER 2018 American Journal of Obstetrics & Gynecology 533
+
+
+Special Reports                                                                                  ajog.org
+
+                                                                        Guidelines.3,4 Brieﬂy, recommendations
+                           AJOG at a Glance
+                                                                        are given as follows: Strong recommen-
+                                                                                                       ﬁ
+  Why was this study conducted?                                         dations indicate that the panel is con -
+  This Enhanced Recovery After Surgery Society guideline was created to support dent that the desirable effects of
+  the most common surgical procedure in the industrialized healthcare world: the adherence to a recommendation
+  cesarean delivery. It has the goal to enhance the quality and safety of the cesarean outweigh the undesirable effects. Weak
+  delivery for improved maternal and fetal/neonatal outcomes through evaluation recommendations indicate that the
+  and audit.                                                            desirable effects of adherence to a
+                                                                        recommendation probably outweigh the
+  Key ﬁndings                                                           undesirable effects, but the panel is less
+  The broad Enhanced Recovery After Surgery Society cesarean delivery elements conﬁdent (Table 2). Recommendations
+  and recommendations (parts 1e3) break down the surgical delivery process into are based on the quality of evidence:
+  a “focused” pathway that starts at 30e60 minutes before skin incision, for both high, moderate, low, and very low, but
+  scheduled and unscheduled cesarean deliveries, until hospital discharge along also on the balance between desirable
+  with a longer “optimized” pathway that manages antenatal education, maternal and undesirable effects. In some cases,
+  comorbidities, and immediate neonatal needs at delivery. The intraoperative strong recommendations may be
+  section (Part 2) focuses on the time immediately prior to beginning the surgery reached from low-quality data and vice
+  including prophylactic antibiotics, through the cesarean surgery, to the imme- versa. The core ERAS CD team (A.B.C.,
+  diate newborn care.                                                   G.A.M., S.L.W., G.N., and R.D.W.)
+                                                                        reviewed the evidence in detail for each
+  What does this add to what is known?                                  section and assigned both the recom-
+  This Enhanced Recovery After Surgery Society cesarean delivery guideline has mendation and evidence level. Discrep-
+  taken the evidence-based knowledge created from the cesarean delivery research ancies were resolved by the lead author
+  and has critically and with consensus published the information in a 3-part (A.B.C.) and senior author (R.D.W.).
+  guideline that uses the Enhanced Recovery After Surgery Society principles and
+  process for improved surgical quality and safety for obstetric surgical deliveries. Results
+                                                                        The cesarean delivery pathway and el-
+                                                                        ements have a wide scope for maternal
+“focused” pathway process for scheduled the topics were agreed on, they were then antenatal, delivery, and postoperative
+and unscheduled ERAS CD   has been  allocated among the group according natal care. The focus of this document
+created for this ERAS CD guideline from to expertise. The literature search is on a focused pathway that starts
+“decision to operate (30 - 60 minutes (1966e2017) used Embase and PubMed 30e60 minutes before cesarean inci-
+before  skin incision) to  hospital to search medical subject headings  sion to maternal (fetal) discharge,
+discharge.”                         including “cesarean section”, “cesarean which allows for a more consistent and
+  Ultimately, ERAS is a tool for process delivery”, “cesarean section delivery” and generalizable ERAS CD process that
+management that creates a focused care all intraoperative ERAS items (Table 1). includes the same comprehensive care
+process. The tool should be used in a Reference lists of all eligible articles were to both unscheduled and scheduled
+cycle of audit and feedback, whereby crosschecked for other relevant studies. cesarean delivery.
+clinicians are provided with comparative
+data to educate, change, and decrease the Study selection               Intraoperative cesarean delivery
+“harmful” clinical variances that are Titles and abstracts were screened pathway (focused elements)
+identiﬁed in certain high-volume clinical by individual reviewers to identify Preoperative antimicrobial prophylaxis
+care processes and procedures that will potentially relevant articles. Meta- and skin preparation (focused element)
+increase quality of care, patient safety, analyses, systematic reviews, random- A cesarean delivery performed before
+and health outcomes.                ized controlled studies, nonrandomized rupture of the membranes and without
+                                    controlled studies, reviews, and case se- chorioamnionitis usually will be
+Methods                             ries were considered for each individual considered a clean (class I) incision.
+Literature search                   topic.                              However, a cesarean delivery in the
+The author group was selected by the                                    setting of ruptured membranes, partic-
+ERAS   Society in May  2017  based  Quality assessment and data analyses ularly in active phase of labor or second
+on expertise in the area, and a consensus The quality of evidence and recom- stage of labor or with chorioamnionitis,
+topic list was determined. The ERAS mendations were evaluated according to usually is classiﬁed as a clean contami-
+Gynecologic/Oncology   guidelines3,4 the Grading of  Recommendations,   nated (class II) incision. There could be
+were  used  as  templates; however, Assessment, Development and Evalua- an argument made that, at least, some of
+several other elements unique to cesar- tion (GRADE) system5 as used and these latter incisions are contaminated
+ean section delivery were added. After described in  previous   ERAS    (class III) incisions. Regardless, all are at
+
+534  American Journal of Obstetrics & Gynecology DECEMBER 2018
+
+
+ajog.org                                                                                        Special Reports
+
+
+   TABLE 1
+   Guidelines for intraoperative care in cesarean delivery: Enhanced Recovery After Surgery Society
+   recommendations
+                                                                                        Evidence      Recommendation
+   Item                                Recommendation                                   level         grade
+   Intraoperative pathway focused:     1. Intravenous antibiotics should be administered routinely High Strong
+   preoperative antimicrobial prophylaxis and within 60 min before the cesarean delivery skin incision.
+   skin preparation (focused elements) In all women, a ﬁrst-generation cephalosporin is
+                                       recommended; in women in labor or with ruptured
+                                       membranes, the addition of azithromycin confers
+                                       additional reduction in postoperative infections.
+                                       2. Chlorhexidine-alcohol is preferred to aqueous Low           Strong
+                                       povidone-iodine solution for abdominal skin
+                                       cleansing before cesarean delivery.
+                                       3. Vaginal preparation with povidine-iodine solution should Moderate Weak
+                                       be considered for the reduction of postcesarean infections.
+   Intraoperative pathway focused
+     Pre- and intraoperative anesthetic 1. Regional anesthesia is the preferred method of Low         Strong
+     management (focused element)      anesthesia for cesarean delivery as part of an
+                                       enhanced recovery protocol.
+     Prevention of intraoperative hypothermia 1. Appropriate patient monitoring is needed to apply Low Strong
+     (focused element)                 warming devices and avoid hypothermia.
+                                       2. Forced air warming, intravenous ﬂuid warming, High          Strong
+                                       and increasing operating room temperature are all
+                                       recommended to prevent hypothermia during
+                                       cesarean delivery.
+     Cesarean delivery surgical techniques/ 1. Blunt expansion of a transverse uterine hysterotomy Moderate Weak
+     considerations (focused element)  at time of cesarean delivery is recommended to reduce
+                                       surgical blood loss.
+                                       2. Closure of the hysterotomy in 2 layers may be Low           Weak
+                                       associated with a lower rate of uterine rupture.
+                                       3. The peritoneum does not need to be closed because Low       Weak
+                                       closure is not associated with improved outcomes and
+                                       increases operative times.
+                                       4. In women with  2 cm of subcutaneous tissue,   Moderate      Weak
+                                       reapproximation of that tissue layer should be performed.
+                                       5. The skin closure should be closed with subcuticular Moderate Weak
+                                       suture in most cases, because of evidence of reduced
+                                       wound separation in those women whose staples were
+                                       removed  4 days postoperatively.
+     Perioperative ﬂuid management (focused 1. Perioperative and intraoperative euvolemia are Low-    Strong
+     element)                          important factors in patient perioperative care and moderate
+                                       appear to lead to improved maternal and neonatal
+                                       outcomes after cesarean delivery.
+
+   Caughey. Guidelines for intraoperative care in cesarean delivery. Am J Obstet Gynecol 2018.               (continued)
+
+an increased risk of postoperative infec- the primary issues when considering     similar beneﬁts have been seen with
+tion  and  have demonstrated    beneﬁt   prophylactic antibiotics, wound prepa-   other antibiotic regimens.6 Historically,
+from prophylactic antibiotics and other  ration, and vaginal preparation.         because of concerns of fetal exposure,
+interventions. Although the class I in-    For   cesarean  delivery  performed    these antibiotics were often given after
+cisions will be predominantly at-risk    before rupture of the membranes, the     cord clamping. However, because of the
+from abdominal skin   ﬂora, the class II standard of care has been to use a rela- beneﬁt of a decrease in    subsequent
+or class III incisions both carry the risk of tively narrow-spectrum ﬁrst-generation wound infections reported in several
+skin ﬂora plus the risk of exposure from cephalosporin directed against skin ﬂora studies, it is now recommended to give
+vaginal ﬂora. These microbial risks are  for  infectious prophylaxis, although    the antibiotics 30e60 minutes before the
+
+                                                                   DECEMBER 2018 American Journal of Obstetrics & Gynecology 535
+
+
+Special Reports                                                                                  ajog.org
+
+
+  TABLE 1
+  Guidelines for intraoperative care in cesarean delivery: Enhanced Recovery After Surgery Society
+  recommendations  (continued)
+                                                                             Evidence    Recommendation
+  Item                            Recommendation                             level       grade
+  Neonate pathway focused: Immediate care 1. Delayed cord clamping for at least 1 minute at a Moderate Strong
+  of the newborn infant at delivery (focused term delivery is recommended.
+  element)
+                                  2. Delayed cord clamping for at least 30 seconds at a Low- Strong
+                                  preterm delivery is recommended.           moderate
+                                  3. Body temperature should be measured and Low-        Strong
+                                  maintained between 36.5 C and 37.5 C after birth moderate
+                                  through admission and stabilization.
+                                  4. Routine suctioning of the airway or gastric aspiration Low Strong
+                                  should be avoided and used only for symptoms of an
+                                  obstructive airway (by secretions or meconium).
+                                  5. Routine neonatal supplementation with room air is Low- Strong
+                                  recommended because the use of inspired air with oxygen moderate
+                                  may be associated with harm.
+                                  6. In all settings that perform cesarean delivery, a capacity High Strong
+                                  for immediate neonatal resuscitation is mandatory.
+  Caughey. Guidelines for intraoperative care in cesarean delivery. Am J Obstet Gynecol 2018.
+
+cesarean delivery when possible.7,8 The However, in 2 recent prospective, ran- there is a wider body of literature in other
+most recent Cochrane review reported a domized trials, there were no differences surgeries, the evidence is more scant in
+signiﬁcant reduction in  composite  in infectious morbidity between 2-g and the setting of cesarean deliveries19: the
+maternal  infectious morbidity for  3-g dosing of cephazolin.15,16 Thus, 2014 Cochrane review did not demon-
+women who received preoperative pro- further evidence must be collected strate a difference.12 However, there have
+phylactic antibiotics as compared with before increased dosing of prophylactic been 2 large studies since that systematic
+women who received prophylactic anti- antibiotics in obese women is routinely review. One large study demonstrated a
+biotics at the time of cord clamping (risk recommended.                 lower rate of wound infections with the
+ratio, 0.57; 95% conﬁdence interval,  Another recent approach to antibiotic chlorhexidine-alcohol scrub.20 However,
+0.45e0.72).9 There is increasing evi- prophylaxis in obese women has been another recent large, randomized trial
+dence that broadening the preincision postsurgical prophylaxis. In a recent demonstrated no difference.21 Thus,
+antibiotic spectrum might   further prospective, randomized trial, the risk of although the chlorhexidine-alcohol
+reduce the risk of wound infections.10 In surgical site infection was reduced from usually is recommended, it is based not
+a recent, multicenter trial, the addition 15.4e6.4% (P¼.01) from the use of only on the studies in cesarean deliveries
+of azithromycin to the routine cephalo- cephalosporin and metronidazole versus but also on the wider body of evidence in
+sporins further  reduced infectious placebo after cesarean delivery.17 How- other surgeries.22
+complications from 12.0%  to 6.1%   ever, this prophylaxis regimen has not
+(P<.001) and wound infections from  been compared with a preincision pro- Vaginal preparation
+6.6e2.4%.11 Additionally, there have tocol that incorporates azithromycin and There is an increasing body of evidence
+been studies of the use of antibiotic- requires further study.          to suggest that an antimicrobial vaginal
+infused drapes without adequate evi-                                    preparation with a povidone-iodine
+dence to support routine use.12     Wound preparation                   solution before cesarean delivery in
+  There are special concerns for obese Even before the hospital admission for a women in labor or with rupture of
+women because of their increased risk of scheduled cesarean delivery, it is recom- membranes reduces the risk of infectious
+wound complications and the potential mended that women shower with an  complications. In the most  recent
+of higher blood volume for the antibiotic antimicrobial soap if possible.18 The Cochrane review, the risk of endome-
+distribution. In several recent studies, it Centers for Disease Control recommen- tritis was reduced from 8.3e4.3%
+has been suggested that the tissue con- dations encourage the use of the (relative risk, 0. 45; 95% conﬁdence
+centrations of ﬁrst-generation cephalo- chlorhexidine-alcohol scrub over the interval, 0.25e0.81).23 In stratiﬁed ana-
+sporins may not be adequate from    povidone-iodine solution to prepare lyses, this was true for women both
+the standard 1- or 2-g  dosing.13,14 the abdomen before surgery. Although in labor and with ruptured membranes.
+
+536  American Journal of Obstetrics & Gynecology DECEMBER 2018
+
+
+ajog.org                                                                            Special Reports
+
+
+  TABLE 2
+  Grading of Recommendations, Assessment, Development and Evaluation system for rating quality of evidence
+  and strength of recommendations
+  Grading of Recommendations, Assessment,
+  Development and Evaluation          Deﬁnition
+  Rating quality of evidence5: evidence level
+    High quality                      Further research is unlikely to change conﬁdence in estimate of effect.
+    Moderate quality                  Further research is likely to have important impact on conﬁdence in estimate of effect and may
+                                      change the estimate.
+    Low quality                       Further research is very likely to have important impact on conﬁdence in estimate of effect and
+                                      likely to change the estimate.
+    Very low quality                  Any estimate of effect is very uncertain.
+  Rating strength of recommendations5:
+  recommendation strength
+    Strong                            When desirable effects of intervention clearly outweigh, or are outweighed by, the undesirable
+                                      effects.
+    Weak                              When trade-offs are less certain, either because of low-quality evidence or because evidence
+                                      suggests desirable and undesirable effects are closely balanced.
+  Caughey. Guidelines for intraoperative care in cesarean delivery. Am J Obstet Gynecol 2018.
+
+Summary and recommendation.         nausea and vomiting, number of days The use of intrathecal morphine results
+                                    spent in hospital, and adverse events.24 in improved postoperative analgesia,34,35
+1. Intravenous antibiotics should be Obstetric anesthesia regional techniques although the risk of side-effects (nausea,
+   administered routinely within 60 are thought to be safer than general vomiting, and pruritis) increases with
+   minutes before the cesarean delivery anesthesia and their increased adoption is the dosage used and the optimal dose is
+   skin incision. In all women, a ﬁrst- thought to be 1 of the reasons that not established. Shorter acting opioids
+   generation cephalosporin is recom- maternal death rates because of anes- such as fentanyl and sufentanil, when
+   mended; in women in labor or with thesia have fallen.25 However, a meta- administered intrathecally, improve the
+   ruptured membranes, the addition analysis of mode of anesthesia for  intraoperative but not the postoperative
+   of azithromycin confers additional cesarean delivery26 reported that, other analgesia.34 In the absence of intrathecal
+   reduction in postoperative infections than a higher maternal blood loss with morphine, the transversus abdominis
+   (evidence level: high/recommenda- general anesthesia, there was no evidence plane ﬁeld block provides superior
+   tion grade: strong).             that regional anesthesia was superior to analgesia when compared with a placebo
+2. Chlorhexidine-alcohol is preferred to general anesthesia in terms of major and can reduce the ﬁrst 24-hour
+   aqueous povidone-iodine solution maternal or neonatal outcomes. This may maternal morphine consumption in the
+   for abdominal skin cleansing before be due to the infrequency of death and setting of a multimodal analgesic
+   cesarean delivery (evidence level: serious morbidity that leads to the inad- regimen.36 A Cochrane review of local
+   low/recommendation grade: strong). equate power of most studies. Addition- analgesia inﬁltration and abdominal
+3. Vaginal preparation with povidone- ally, because of a greater potential for nerve blocks found that these inﬁltrative
+   iodine solution should be consid- postoperative sedation with general techniques improved  postoperative
+   ered for the reduction of infections anesthesia, regional anesthesia may be the analgesia for caesarean delivery.37
+                                                               e
+   after cesarean delivery (evidence preferable choice in this regard.27 29
+   level:  moderate/recommendation    Outcomes are similar for spinal and Summary and  recommendation. Re-
+   grade: weak).                    epidural anesthesia30; the onset time for gional anesthesia is the preferred method
+                                    an effective block is shorter and the of anesthesia for caesarean delivery as
+Intraoperative cesarean delivery    incidence of intraoperative pain is lower part of an enhanced recovery protocol
+pathway (focused elements)          for spinal than for epidural anesthesia.31 (evidence level: low/recommendation
+Pre- and intraoperative anesthetic man- Combined spinal epidural anesthesia grade: strong).
+agement (focused element)           may allow for a more rapid motor
+Regional anesthesia has been found to recovery than spinal anesthesia,32 Prevention of intraoperative hypothermia
+have a positive impact for enhanced re- although the presence of an epidural (focused element)
+covery outcomes in terms of pain control, catheter provides a capability to extend Perioperative hypothermia can occur in
+organ function, mobility, postoperative or prolong an inadequate spinal block.33 50e80% of patients who undergo spinal
+
+                                                          DECEMBER 2018 American Journal of Obstetrics & Gynecology 537
+
+
+Special Reports                                                                                  ajog.org
+
+anesthesia for cesarean delivery.38,39 Summary and recommendation.      incised only at the midline in a transvers
+Several randomized  control studies                                     fashion. The rectus sheath is separated
+showed that perioperative hypothermia 1. Appropriate patient temperature along its ﬁbers with blunt dissection, and
+is associated with complications in    monitoring is needed  to  apply  the rectus muscles are separated by pull-
+nonpregnant patients.40,41 These com-  warming devices and avoid hypo-  ing. The parietal peritoneum is opened
+plications have included surgical site thermia (evidence level: low/recom- digitally at the upper level of the inter-
+infection, myocardial ischemia, altered mendation grade: strong).       muscular space and stretched in a cranial-
+drug metabolism, coagulopathy, pro- 2. Forced air warming, intravenous  caudal direction. A small transverse
+longed  duration of  hospitalization,  ﬂuid warming, and increasing oper- incision is made into the uterus with a
+shivering, reduced skin integrity, and ating  room   temperature   are  scalpel, 2 cm above the vesical-uterine
+                        e
+poor patient satisfaction.42 44 Hypo-  all recommended to prevent hypo- fold until the membranes bulge, and 2
+thermia can also have adverse effects on thermia during cesarean delivery index ﬁngers are inserted to stretch the
+neonates, such as temperature, umbilical (evidence level: moderate/recom- opening laterally. A modiﬁcation to this
+pH, Apgar score.45,46                  mendation grade: strong).        of cranial-caudal expansion has been
+  Generally, patient core temperature is                                described and is associated with fewer
+monitored  poorly during  neuraxial Cesarean delivery surgical techniques/ extensions and less blood loss.57,58 Over-
+anesthesia.47,48 Skin temperature moni- considerations (focused element) all, the Joel-Cohen approach has been
+toring can be used during neuraxial In the last decades, cesarean delivery associated with lower operative times and
+anesthesia, but the temperatures are rates have increased in many countries lower blood loss.59
+2.0e4.0 C less than the core tempera- and have become the most commonly
+ture.49 Axillary temperatures can be performed intraperitoneal surgical pro- Repair of incision
+measured if the sensor is placed over the cedure. Despite its worldwide spread, a The uterine incision is repaired
+axillary artery with arms adducted to the consensus on the most appropriate ce- commonly in 1 or 2 layers with a
+                                                                                                      e
+side.50 Thus, it is important to consider sarean delivery technique to use has not continuous unlocked suture.60 62
+how to best monitor a patient’s temper- yet been reached.54 The operative tech- Generally, a 2-layer closure has been
+ature during surgery.               nique performed generally is based on used because of nonrandomized trial ev-
+  A recent systematic review (13 ran- the individual experience and preference idence that suggests a higher rate of
+domized controlled studies and 789 pa- of operators, the characteristics of pa- uterine rupture in women who had
+tients) examined the efﬁcacy of active tients, and the timing and urgency of the pregnancies after a previous cesarean
+warming during cesarean delivery.51 The intervention. However, there are many delivery with hysterotomies closed in a
+active warming methods included forced randomized trials that have examined a single layer. However, the most recent
+air warming  and  intravenous ﬂuid  variety of the approaches to various Cochrane review did not ﬁnd a difference
+warming. Active warming group (either components of the cesarean delivery; in in outcomes between 1- or 2-layer
+forced air warming or intravenous ﬂuid 1 recent study when a range of evidence- closure.58 The use of a delayed absorb-
+warming) patients had signiﬁcantly less based approaches were adopted, cesar- able monoﬁlament (Monocryl; Ethicon
+temperature change (P¼.0002), fewer ean delivery wound complications were Inc, Bridgewater, NJ) has been described,
+shivering episodes (P¼.0004), higher reduced.55                         as has chromic catgut and Vicryl (Ethicon
+temperature at end of surgery or on                                     Inc), without strong evidence to support
+arrival to the postanesthetic care unit Surgical incision               a particular suture. There are studies of
+(P<.00001), and higher umbilical artery The traditional approach to the cesarean blunt vs sharp needles that do not
+pH  (P¼.04). A randomized controlled delivery has been the Pfannenstiel skin demonstrate beneﬁt to patients.63 In such
+study showed ﬂuid warming combined  incision that is made sharply through the studies, a reduction in glove perforations
+with forced air warming to be effective in subcutaneous tissue, sharply through the is seen (relative risk, 0.54; 95% conﬁ-
+decreasing the incidence of perioperative fascia, and sharply entering the parietal dence interval, 0.41e0.71), but providers
+hypothermia and improving maternal  peritoneum. The Kerr hysterotomy is also are less satisﬁed with blunt needles.64
+thermal comfort.52                  made sharply in a transverse fashion into Historically, the visceral and parietal
+  Ambient operating room  tempera-  the uterus. A bladder ﬂap commonly was peritoneum were closed; however, in sys-
+ture can affect maternal and neonatal created to dissect the bladder inferiorly tematic reviews, there is no evidence that
+temperature. A randomized controlled away from the hysterotomy, although a outcomes such as intraabdominal adhe-
+trial with 799 patients demonstrated recent metaanalysis does not support this sions are different and that the operative
+that operating room temperature at  being performed routinely.56        times are shorter leaving the peritoneum
+23.0 C resulted in signiﬁcantly lower More recently, the Joel-Cohen incision open.56,65 Similarly, the rectus muscles
+maternal hypothermia when compared  has been described. The subcutaneous commonly were sutured at the midline,
+with the operating room temperature at tissue is left undisturbed apart from the but there is no evidence to support
+20.0 C.53                           midline, and the abdominal fascia is closure, and there is concern that
+
+
+538  American Journal of Obstetrics & Gynecology DECEMBER 2018
+
+
+ajog.org                                                                            Special Reports
+
+intramuscular sutures will tear through.66 Summary and recommendation.  during spinal anesthesia for cesarean
+The abdominal fascia is usually closed                                  delivery.80,81 Perioperative ﬂuid man-
+with a continuous suture, PDS or Vicryl.67 1. Blunt expansion of a transverse agement is always a controversial topic
+  The subcutaneous tissue, when it is <2 uterine hysterotomy at time of ce- in anesthesia practice. Adequate peri-
+cm  in thickness is often not reapproxi- sarean delivery is recommended to operative ﬂuid administration can
+mated. However, in women whose sub-    reduce surgical blood loss (evidence reduce surgical morbidities.82 Although
+cutaneous tissue is  2 cm in thickness, level: moderate/recommendation  the use of intravenous ﬂuids to preload
+reapproximation with catgut or Vicryl  grade: weak).                    the circulation is recommended, a recent
+suture has been demonstrated to reduce 2. Closure of the hysterotomy in 2 layers consensus statement and accompanying
+wound complications.68 Placement of a  may be associated with a lower rate of editorial suggest that intravenous ﬂuids
+subcutaneous drain evenwith wounds >4  uterine rupture (evidence level: low/ alone have limited efﬁcacy and that
+cm  in thickness has not been demon-   recommendation grade: weak).     many clinicians now administer pro-
+strated to improve outcomes and has been 3. The peritoneum does not need to be phylactic phenylephrine infusions,
+associated with worse wound outcomes.  closed because closure is not associated which not only prevent hypertension but
+  The skin can be closed with staples or with improved outcomes and in- also reduce the risk of fetal acidosis.83,84
+subcuticular/intracutaneous techniques creases operative times (evidence level: One metaanalysis and systematic review
+with Vicryl or Monocryl. The most      low / recommendation grade: weak). showed that the use of goal-directed
+recent Cochrane metaanalysis found no 4. In women with  2 cm of subcu-  ﬂuid therapy in patients who under-
+difference between the 2 approaches    taneous tissue, reapproximation of went major surgery reduced post-
+with regards to wound infections or    that tissue layer should be performed operative complications such as wound
+complications overall.69 However, there (evidence level: moderate/recom- infection, abdominal complications, and
+was a large trial published in 2014 that mendation grade: weak).        hypotension.85 Another metaanalysis
+demonstrated a signiﬁcant reduction in 5. The skin closure should be closed and systematic review indicated that
+wound complications70; in a subsequent with subcuticular suture in most goal-directed ﬂuid therapy signiﬁcantly
+metaanalysis of skin closure that incor- cases, because of evidence of reduced reduced the incidence of surgical site
+porated this trial, subcuticular closure wound separation in those whose infections and length of hospital stay
+with suture was supported  for the     staples were removed  4 days after after abdominal surgery.86 However, the
+reduction in wound  complications.71   surgery (evidence level: moderate/ number of high-quality research trials
+Additionally, women    also   have     recommendation grade: weak).     that have evaluated the effects of goal-
+improved  preference and experience                                     directed ﬂuid therapy during cesarean
+scores with suture closure.72 One caveat Perioperative ﬂuid management  delivery is too few to provide consistent
+is that the only difference is in wound (focused element)               evidence of beneﬁt.
+separation; in many trials, staples were Perioperative euvolemia is an important More complex areas include patients
+removed <4 days after surgery. Similarly, factor to obtain optimal outcomes after with cardiovascular disease, such as se-
+in a recent trial of obese women only, cesarean delivery. Intravascular volume vere preeclampsia and preexisting car-
+although there were no clinical differ- determines not only blood pressure but diac disease. These patients should have
+ences, more women would choose su-  also cardiac output and oxygen delivery. multidisciplinary preoperative assess-
+ture for a future surgery.73        Maintaining adequate uterine perfusion ment and planning and may require
+  Once the wound is closed, there is cannot only optimize fetal oxygenation invasive blood pressure monitoring and
+increasing evidence that prophylactic and prevent acidosis but also deliver cardiac output measurements to opti-
+negative-pressure wound therapy may be nutrients and eliminate waste products mize both ﬂuid management and the use
+useful, particularly in obese women. In a from the uterine myometrium.75 Peri- of vasoactive drugs or inotropes. These
+recent systematic review, there was evi- operative ﬂuid overload has higher risks patients require vigilance not only before
+dence of reduction in wound infections of increased cardiovascular work and delivery of the fetus but also with the
+(relative risk, 0.45; 95% conﬁdence inter- pulmonary edema in pregnant  cardiovascular changes that may occur
+val, 0.31e0.66) and overall wound com- women.76 Maternal intrapartum ﬂuid after the use of uterotonics and uterine
+plications (relative risk, 0.68; 95% overload can result in newborn infant contraction after delivery.
+conﬁdence interval, 0.49e0.94) in high- weight loss during the ﬁrst 3 days after
+risk women (predominantly obese) who birth.77,78                        Summary  and  recommendation. Pre-
+were assigned randomly to receive the The incidence of hypotension, after operative and intraoperative euvolemia
+negative-pressure dressing.74 There are spinal anesthesia, is high and can cause are important factors in patient periop-
+several ongoing trials at this time; thus, severe effects on the mother and fetus.79 erative care and appear to lead to
+although it would be reasonable for a Studies show that a combination of va- improved maternal and neonatal out-
+clinician to use this technology, there is a sopressors and adequate ﬂuid therapy comes after cesarean delivery (evidence
+need for additional research to fully could be effective in reducing the inci- level: low to moderate/recommendation
+address this question.              dence and  severity of hypotension  grade: strong).
+
+                                                          DECEMBER 2018 American Journal of Obstetrics & Gynecology 539
+
+
+Special Reports                                                                                  ajog.org
+
+Neonate pathway (focused element)   neonatal normothermia.99 Immediate  lung disease/neurodevelopmental out-
+Immediate care of the newborn infant drying and covering of the infant’s head comes). Electrocardiogram use is sup-
+(optimized element)                 reduce heat losses while awaiting cord ported, although the other monitoring
+The stress of being born exceeds that of clamping. Use of exothermic heaters or requires further evaluation.107
+most other critical life-events, and there open bed incubators, transwarmer mat- Neonatal morbidity in a planned ce-
+are signiﬁcant transitions in physiology tresses, plastic wraps/bags, and caps all sarean delivery setting was compared in 2
+to accomplish. To promote a safe and keep preterm infants warmer  and   cohorts of women, those with no labor
+successful transition from fetal to lead to higher temperatures on admis- and those with spontaneous onset of la-
+neonatal life, the immediate care of the sion to neonatal units and less bor before the cesarean delivery.108 Data
+                                                 e
+newborn infant is important.        hypothermia.100 103 Body temperature were stratiﬁed for early term (37e38
+  In all settings that perform cesarean should be measured and maintained weeks) and full term (39e40 weeks).
+delivery, ﬁtness for service includes a between 36.5 C and 37.5 C after birth Among 103,919 live births, there were
+capacity (equipment, stafﬁng, and skills) through admission and stabilization.87 5071 nonlabor and 731 postlabor onset
+and   preparedness for   immediate    Besides hypothermia   prevention, cesarean deliveries. Similar risks for
+neonatal resuscitation if needed.87 Apgar supporting the infant to regain body neonatal admission and respiratory
+scores are important health and perfor- control and gently stimulating for ﬁrst distress were found for the 2 groups, but a
+mance indicators and should be assessed breath or cry are recommended.  2- to 3-fold increase for neonatal septi-
+and documented at 1, 5, and 10 minutes Approximately 85% of babies who are cemia or antibiotic use at early term was
+after delivery. For the vigorous infant, born at term will initiate spontaneous identiﬁed. Labor onset at early term had
+interventions in the operating room respirations within 10e30 seconds of decreased maternal blood loss of >500
+include optimal timing of umbilical cord birth; an additional 10% will respond mL after cesarean delivery but increased
+clamping,  hypothermia  prevention, during drying and stimulation, whereas endometritis and antibiotic use. The
+facilitating onset of breathing, and the remaining 5% need some form of conclusion was that labor onset before
+maternal-neonatal skin-to-skin contact. assisted ventilation.87 Routine suction- planned cesarean delivery was not asso-
+  Delay of clamping of the umbilical ing of the airway or gastric aspiration ciated with a decrease in neonatal respi-
+cord for at least 1 minute after term should be avoided; secretions should be ratory morbidity but may be associated
+delivery decreases anemia in infancy and cleared only if they appear to be with increased risks of neonatal infection.
+improves  neurodevelopmental  out-  obstructing the airway. A  similar
+       e
+comes.88 91 In cesarean delivery, the approach is recommended if meconium Summary and recommendations.
+newborn infant can be placed on the is present in the amniotic ﬂuid.87,104,105
+maternal abdomen or legs or held by Routine  neonatal  supplementation  1. Delayed cord clamping for at least 1
+the surgeon or assistant close to the level (outside resuscitation) of the inspired air minute at a term delivery is recom-
+of the placenta until the umbilical cord with oxygen may be associated with mended (evidence level: moderate/
+is  clamped.92 In  preterm infants, harm and is not recommended.106       recommendation grade: strong).
+delayed cord clamping for at least 30 The care of the preterm infant (<37 2. Delayed cord clamping for at least
+seconds has been reported in systematic weeks gestation) can be optimized, 30 seconds at a preterm delivery is
+reviews to contribute to less need for starting in the delivery room. Katheria recommended (evidence level: low-
+transfusion, less intraventricular hem- et al107 review the use of checklists, moderate/recommendation grade:
+orrhage, and lower risk for necrotizing avoidance of early cord clamping, strong).
+enterocolitis than after immediate cord resuscitation during delayed cord 3. Body temperature should   be
+          e
+clamping.93 97 These ﬁndings have been clamping, consideration for early  measured and maintained at between
+challenged by a large and recent ran- administration of caffeine soon after 36.5 C and 37.5 C after birth,
+domized  controlled trial.98 Because birth, and the use of additional physio- through admission and stabilization
+delayed cord clamping is associated with logic monitoring (electrocardiogram, (evidence level: low-moderate/
+increased risk for hyperbilirubinemia, carbon dioxide, respiratory function recommendation grade: strong).
+care providers should ensure they can (airway pressure/tidal volume) in the 4. Routine suctioning of the airway or
+monitor   for and   treat neonatal  delivery area. A delivery room resusci- gastric aspiration should be avoided
+         e
+jaundice.88 91 Immediate cord clamping tation checklist directs communication and used only for symptoms of an
+should be restricted to infants with im- and directed care. The beneﬁts of obstructive airway (by secretions or
+mediate need of resuscitation or when delayed cord clamping and, if required, meconium; evidence level: low/
+placental circulation is not intact. cord milking for cesarean delivery were recommendation grade: strong).
+  Hypothermia   is associated with  supported. The early use of caffeine is 5. Routine neonatal supplementation
+increased neonatal morbidity and death discussed; however, larger prospective with room air is recommended
+across gestational ages. Standards for trials are required that are related to because the use of inspired air
+operating room temperature (21e25 C) intubation, intraventricular hemor-  with oxygen is not recommended and
+may   maintain both  maternal and   rhage, and long-term outcome (chronic may   be  associated with harm
+
+540  American Journal of Obstetrics & Gynecology DECEMBER 2018
+
+
+ajog.org                                                                            Special Reports
+
+
+  TABLE 3
+  Enhanced Recovery After Surgery for cesarean delivery preoperative modiﬁable clinical factors
+  Nonmodiﬁable clinical factors     Modiﬁable clinical factors
+  Paternal age
+  History (obstetrics/medical/surgery/body mass Optimization of selected comorbidities (hypertension/diabetes mellitus/anemia/smoking; small
+  index)                            for gestational age/large for gestational
+                                    age/stillbirth/preterm birth at <34 weeks gestation)
+  Family history (genetics/birth defects/ Surgical pathway (preoperative, intraoperative, postoperative)
+  multifactorial disease)
+  Gestational weeks 0e20 (chromosomes/birth
+  defects/miscarriage)
+  Caughey. Guidelines for intraoperative care in cesarean delivery. Am J Obstet Gynecol 2018.
+
+
+   (evidence  level: low-moderate/  31.9% in 2015 in the United States. In uterine hematoma (4e6%), placenta
+   recommendation grade: strong).   response to this increasing surgical ac- previa (1e2%), red cell transfusions
+6. In all settings that perform cesarean tivity, many groups have attempted to (1e4%), hysterectomy (0.5e4%), and
+   delivery, a capacity for immediate initiate process change, but the ap- placenta accreta (0.25e3%).115 Initia-
+   neonatal resuscitation is mandatory proaches have varied and clinical care tives to reduce the frequency of cesarean
+   (evidence level: high/recommenda- goals nationally have not been achieved delivery and enhance maternal safety
+   tion grade: strong).             in terms of reduction of morbidity and have been initiated.116 Additionally, ap-
+                                    mortality rates.110 The indications for a proaches to reducing complications in
+Comments                            cesarean delivery have been summarized cesarean delivery have been adopted and
+In North America, the most common   by the Maternal-Fetal Medicine Unit demonstrated to be impactful.117
+indication for admission to the hospital is Network: primary indications (dystocia The focused ERAS CD pathway has
+childbirth, and the most common surgery 37%; nonreassuring fetal heart rate 25%; summarized a number of evidenced-
+is a cesarean delivery. With this clinical abnormal fetal presentation 20%; other based intraoperative clinical care
+volume of obstetric surgical activity, it 15%; failed forceps or vacuum delivery processes. Recommendations for the
+seems appropriate that the ERAS process 3%); repeat indications (no vaginal birth scheduled/unscheduled cesarean de-
+be applied to this surgical care arena to after cesarean section attempt 82%; livery with the level of evidence and the
+improve patient outcomes with the use of failed vaginal birth after cesarean section recommendation grade are summarized
+evidence-based approaches. Further, the attempt 17%; failed forceps or vacuum in Table 2. Each of the elements or pro-
+impact may be even greater because there delivery 0.4%).111             cesses the focused ERAS CD pathway has
+are always  2 patients (mother and fetus) Cesarean delivery has associated risk the opportunity to be measured,
+impacted by such care.              and beneﬁt proﬁles for both processes of compared between services/providers,
+  There  are quality industry-based unscheduled or  scheduled  surgery. and improved as required.
+Deming principles that can be directed Complications associated with preg- Elements to consider, for the creation
+toward healthcare process management nancy outcomes after a scheduled low- of a clinical audit tool,118 require (1) that
+such: quality improvement is the science risk cesarean delivery (46,766 patients) the audited pathway has an important
+of process management; if you cannot and planned vaginal birth (2,292,420 impact in terms of costs, resources, or
+measure it, you cannot improve it;  patients) have been reported in a large risk, (2) that strong scientiﬁc evidence is
+managed  care means managing   the  cohort study.112 The overall maternal available, and (3) that improvements
+processes of care (not the human re- morbidity (cesarean delivery 2.23%; to be made on the topic in question can
+sources of care); getting the right data in vaginal birth 0.9%) was not signiﬁcant be evaluated easily and become a source
+the right format at the right time in the for all comparisons.112 Other investi- of important clinical/organizational
+right hands; and engaging the human gators have reported a 2-fold increase for consequence(s).
+healthcare resources (physicians, nurses, cesarean delivery with an increased The purpose of quality improvement
+and other allied health professionals).109 morbidity outcome secondary to puer- is to enhance the safety, efﬁciency, and
+Of course it is important to note that peral infection, hemorrhage, and effectiveness in the multiple areas of the
+some signiﬁcant pregnancy-related fac- thromboembolism.113,114          healthcare process. Surgical healthcare
+tors can be measured but cannot be    Comparisons of multiple repeat ce- has become a more delegated team sport
+modiﬁed (Table 3).                  sarean deliveries has shown that, after with optimized preoperative preparation
+  The frequency of a cesarean delivery the second repeat cesarean delivery, there (patient education/informed consent),
+has increased from 4.5% in 1970 to  is an increasing risk for wound and improved surgical process and activity
+
+                                                          DECEMBER 2018 American Journal of Obstetrics & Gynecology 541
+
+
+Special Reports                                                                                                                 ajog.org
+
+measurements of the services provided          7. Sullivan SA, Smith T, Chang E, Hulsey T,     agents at cesarean delivery. N  Engl J Med
+(Surgical     Safety      Checklist/ERAS/      Vandorsten   JP, Soper D. Administration   of   2016;374:647–55.
+                                               cefazolin prior to skin incision is superior to 21. Springel EH,   Wang    XY,  Sarfoh   VM,
+National Surgical Quality Improvement
+                            ﬁ                  cefazolin at cord clamping in preventing post-  Stetzer  BP,    Weight   SA,   Mercer   BM.
+Program),      the    identi  cation    and    cesarean infectious morbidity: a randomized,    A  randomized  open-label controlled  trial of
+removal of unjustiﬁed        systems and       controlled trial. Am J Obstet Gynecol 2007;196: chlorhexidine-alcohol vs povidone-iodine  for
+human-based variability, team building         455.e1–5.                                       cesarean antisepsis: the CAPICA trial. Am  J
+practice (simulation), and the introduc-       8. Kaimal AJ, Zlatnik MG, Cheng YW, et al. Ef-  Obstet Gynecol 2017;217:463.e1–8.
+                                               fect of a change in policy regarding the timing of 22. Darouiche RO, Wall MJ Jr, Itani KM, et al.
+tion of new     training approaches and        prophylactic antibiotics on the rate of post-   Chlorhexidine-alcohol versus povidone-iodine
+oversight (competency by design).              cesarean delivery surgical-site infections. Am J for surgical-site antisepsis. N Engl J Med
+   The ERAS CD guideline/pathway has           Obstet Gynecol 2008;199:310.e1–5.               2010;362:18–26.
+created a focused pathway (for scheduled       9. Mackeen    AD,   Packard    RE,   Ota   E,   23. Haas DM, Morgan S, Contreras K. Vaginal
+and unscheduled surgery starting from          Berghella V, Baxter JK. Timing of intravenous   preparation with antiseptic solution before ce-
+  e                                            prophylactic antibiotics for preventing post-   sarean section for preventing postoperative in-
+30  60 minutes before skin incision to         partum  infectious morbidity in women under-    fections. Cochrane Database Syst Rev 2014;12:
+maternal discharge) with 5 preoperative        going cesarean delivery. Cochrane Database      CD007892.
+elements     (8   recommendations);        4   Syst Rev 2014;5:CD009516.                       24. McIsaac DI, Cole ET, McCartney CJ. Impact
+intraoperative elements (9 recommen-           10. Tita AT, Owen J, Stamm    AM, Grimes A,     of including regional anaesthesia in enhanced
+dations); 9 postoperative elements (11         Hauth JC, Andrews WW. Impact of extended-       recovery protocols: a scoping review. Br J
+                                               spectrum antibiotic prophylaxis on incidence of Anaesth 2015;115(suppl2):ii46–56.
+recommendations); and          1   neonatal    postcesarean surgical wound infection. Am   J   25. Rollins M, Lucero J. Overview of anesthetic
+element (6     recommendations). This          Obstet Gynecol 2008;199:303.e1–3.               considerations for cesarean delivery. Br Med
+document focused speciﬁcally on the            11. Tita AT, Szychowski JM, Boggess K, et al.   Bull 2012;101:105–25.
+intraoperative pieces along with preop-        C/SOAP    Trial Consortium. Adjunctive   azi-   26. Afolabi BB, Lesi FE. Regional versus general
+erative antibiotics and neonatal care.         thromycin prophylaxis for cesarean delivery.    anaesthesia for caesarean section. Cochrane
+                                               N Engl J Med 2016;375:1231–41.                  Database Syst Rev 2012;10:CD004350.
+   As clinicians adopt these approaches,       12. Hadiati DR, Hakimi M, Nurdiati DS, Ota E.   27. Bavaro JB, Mendoza JL, McCarthy RJ,
+there is a need      to assess outcomes        Skin   preparation  for  preventing  infection  Toledo P, Bauchat JR. Maternal sedation during
+continuously     and    to    use   quality    following caesarean section. Cochrane Data-     scheduled versus unscheduled cesarean de-
+improvement approaches to incorporate          base Syst Rev 2014;17:CD007462.                 livery: implications for skin-to-skin contact. Int J
+best practices. More prospective and           13. Swank    ML,   Wing   DA,   Nicolau  DP,    Obstet Anesth 2016;27:17–24.
+                                               McNulty   JA.   Increased  3-gram    cefazolin  28. Moore ER, Anderson GC, Bergman N,
+quality   assessment/improvement         re-   dosing for cesarean delivery prophylaxis in obese Dowswell T. Early skin-to-skin contact for
+search, evaluation, audit, and        colla-   women. Am    J Obstet Gynecol 2015;213:415.     mothers and   their healthy newborn infants.
+boration    will be    required    for   the   e1–8.                                           Cochrane    Database    Syst   Rev   2012;5:
+enhancement of the maternal and fetal          14. Young OM, Shaik IH, Twedt R, et al. Phar-   CD003519.
+health outcomes, quality, and safety.     -    macokinetics of cefazolin prophylaxis in obese  29. Wrench IJ, Allison A, Galimberti A, Radley S,
+                                               gravidae at time of cesarean delivery. Am   J   Wilson MJ. Introduction of enhanced recovery
+                                               Obstet Gynecol 2015;213:541.e1–7.               for elective caesarean section enabling next day
+                                               15. Ahmadzia HK, Patel EM, Joshi D, et al. Ob-  discharge: a tertiary centre experience. Int J
+REFERENCES                                     stetric surgical site infections: 2 grams compared Obstet Anesth 2015;24:124–30.
+1. Steenhagen E. Enhanced recovery after sur-  with 3 grams of cefazolin in morbidly obese     30. Ng KW, Parsons J, Cyna AM, Middleton P.
+gery: it’s time to change practice! Nutr Clin Pract women. Obstet Gynecol 2015;126:708–15.     Spinal   versus  epidural   anaesthesia   for
+2016;31:18–29.                                 16. Maggio   L,  Nicolau  DP,   DaCosta   M,    caesarean section. Cochrane Database Syst
+2. Elias KM. Understanding enhanced recovery   Rouse DJ, Hughes BL. Cefazolin prophylaxis in   Rev 2004;2:CD003765.
+after surgery   guidelines: an   introductory  obese women undergoing cesarean delivery: a     31. Schewe   JC, Komusin    A, Zinserling  J,
+approach. J Laparoendosc Adv Surg Tech A       randomized   controlled trial. Obstet Gynecol   Nadstawek J, Hoeft A, Hering R. Effects of spinal
+2017;27:871–5.                                 2015;125:1205–10.                               anaesthesia versus epidural anaesthesia for
+3. Nelson G, Altman A, Nick A, et al. Guidelines 17. Valent AM, DeArmond C, Houston JM, et al. caesarean section on postoperative analgesic
+for pre- and intraoperative care in gynecologic/ Effect of post-cesarean delivery oral cephalexin consumption and postoperative pain. Eur J
+oncology  surgery: enhanced   recovery  after  and metronidazole on surgical site infection    Anaesthesiol 2009;26:52–9.
+surgery (ERAS) society recommendations: part   among obese women: a randomized clinical        32. Lew  E, Yeo SW, Thomas E. Combined
+I. Gynecol Oncol 2016;140:313–22.              trial. JAMA 2017;318:1026–34.                   spinal-epidural anesthesia using epidural vol-
+4. Nelson G, Altman A, Nick A, et al. Guidelines 18. Berríos-Torres SI,    Umscheid     CA,    ume extension leads to faster motor recovery
+for post-operative care in gynecologic/oncology Bratzler DW, et al. Healthcare infection control after elective caesarean delivery: a prospective,
+surgery: enhanced    recovery  after surgery   practices advisory committee: Centers for Dis-  randomized, double-blind study. Anesth Analg
+(ERAS) society recommendations     - part II.  ease Control and Prevention guideline for the   2004;98:810–4.
+Gynecol Oncol 2016;140:323–32.                 prevention of surgical site infection. JAMA Surg 33. Thorén  T,  Holmström    B,  Rawal   N,
+5. Guyatt GH, Oxman     AD, Vist GE, et al.    2017;152:784–91.                                Schollin  J,  Lindeberg   S,  Skeppner    G.
+GRADE: an    emerging  consensus on    rating  19. Menderes G, Athar Ali N, Aagaard K, Sangi-  Sequential combined    spinal epidural block
+quality of evidence and strength of recommen-  Haghpeykar       H.     Chlorhexidine-alcohol   versus  spinal block for caesarean   section:
+dations. BMJ 2008;336:924–6.                   compared with povidone-iodine for surgical-site effects on maternal hypotension and neuro-
+6. Smaill FM, Grivell RM. Antibiotic prophylaxis antisepsis in cesarean deliveries. Obstet Gyne- behavioural function of the newborn. Anesth
+versus no prophylaxis for preventing infection col 2012;120:1037–44.                           Analg 1994;78:1087–92.
+after cesarean section. Cochrane Database Syst 20. Tuuli MG,    Liu  J,  Stout  MJ,   et al.   34. Dahl JB, Jeppesen     IS, Jørgensen   H,
+Rev 2014;28:CD007482.                          A randomized trial comparing skin antiseptic    Wetterslev J, Møiniche S. Intraoperative and
+
+542   American Journal of Obstetrics & Gynecology DECEMBER 2018
+
+
+ajog.org                                                                                                       Special Reports
+
+
+postoperative analgesic efﬁcacy and adverse    49. Cork RC, Vaughan RW, Humphrey LS.           of uterine  rupture. Int J  Gynecol Obstet
+effects of intrathecal opioids in patients under- Precision and accuracy of intraoperative tem- 2011;115:5.
+going cesarean section with spinal anesthesia: a perature monitoring. Anesth Analg 1983;62:    63. Anderson ER, Gates S. Techniques and
+qualitative and quantitative systematic review of 211–4.                                       materials for closure of the abdominal wall in
+randomized  controlled trials. Anesthesiology  50. Sessler DI. Temperature monitoring and      caesarean section. Cochrane Database Syst
+1999;91:1919–27.                               management     during  neuraxial  anesthesia.   Rev 2004;4:CD004663.
+35. Sultan P, Halpern SH, Pushpanathan E,      Anesth Analg 1999;88:243–5.                     64. Sullivan S, Williamson   B, Wilson   LK,
+Patel S, Carvalho B. The effect of intrathecal 51. Sultan P, Habib AS, Cho Y, Carvalho B. The  Korte  JE, Soper D. Blunt needles for the
+morphine  dose  on  outcomes after elective    Effect of patient warming during caesarean de-  reduction of needlestick injuries during cesarean
+cesarean  delivery: a meta-analysis. Anesth    livery on maternal and neonatal outcomes: a     delivery: a randomized controlled trial. Obstet
+Analg 2016;123:154–64.                         meta-analysis. Br J Anaesth 2015;115:500–10.    Gynecol 2009;114:211–6.
+36. Abdallah FW, Halpern SH, Margarido CB.     52. Cobb   B, Cho    Y, Hilton   G, Ting   V,   65. Bamigboye   AA, Hofmeyr GJ. Closure
+Transversus abdominis plane block for post-    Carvalho B. Active warming utilizing combined IV versus non-closure  of the   peritoneum  at
+operative analgesia after caesarean  delivery  ﬂuid and forced-air warming decreases hypo-     caesarean section: short- and long-term out-
+performed under spinal anaesthesia? A sys-     thermia and improves maternal comfort during    comes. Cochrane Database Syst Rev 2014;8:
+tematic review and meta-analysis. Br J Anaesth cesarean delivery: a randomized control trial.  CD000163.
+2012;109:679–87.                               Anesth Analg 2016;122:1490–7.                   66. Lyell DJ, Caughey AB, Hu E, et al. Rectus
+37. Bamigboye AA, Hofmeyr GJ. Local anaes-     53. Duryea EL, Nelson DB, Wyckoff MH, et al.    muscle and visceral peritoneum closure at ce-
+thetic wound inﬁltration and abdominal nerves  The impact of ambient operating room temper-    sarean delivery and intraabdominal adhesions.
+block  during  caesarean  section  for post-   ature on neonatal and maternal hypothermia and  Obstet Gynecol 2012;206:515.
+operative pain relief. Cochrane Database Syst  associated morbidities: a randomized controlled 67. Israelsson LA, Millbourn D. Prevention of
+Rev 2009;3:CD006954.                           trial. Am J Obstet Gynecol 2016;214:505.e1–7.   incisional hernias. Surg Clin N Am  2013;93:
+38. Butwick AJ, Lipman SS, Carvalho B. Intra-  54. Dahlke JD, Mendez-Figueroa H, Rouse DJ,     1027.
+operative forced air-warming during cesarean   Berghella V, Baxter JK, Chauhan SP. Evidence-   68. Husslein H, Gutschi M, Leipold H, et al.
+delivery under spinal anesthesia does not pre- based surgery for cesarean delivery: an updated Suture closure versus non-closure of subcu-
+vent  maternal hypothermia. Anesth     Analg   systematic  review. Am    J  Obstet Gynecol     taneous fat and cosmetic outcome after cesar-
+2007;105:1413–9.                               2013;209:294–306.                               ean section: a randomized controlled trial. PLOS
+39. Harper CM, Alexander R. Hypothermia and    55. Temming LA, Raghuraman N, Carter EB,        One 2014;9:e114730.
+spinal anesthesia. Anaesthesia 2006;61:612.    et al. Impact of evidence-based interventions on 69. Mackeen  AD, Berghella  V, Larsen   ML.
+40. Frank SM, Fleisher LA, Breslow MJ, et al.  wound complications after cesarean delivery.    Techniques and materials for skin closure in
+Perioperative maintenance of normothermia re-  Am J Obstet Gynecol 2017;217:449.e1–9.          caesarean section. Cochrane Darabase Syst
+duces the incidence of morbid cardiac events: a 56. O’Neill HA, Egan G, Walsh CA, Cotter AM,   Rev 2012;11:CD003577.
+randomized   clinical trial. JAMA 1997;277:    Walsh SR. Omission of the bladder     ﬂap at    70. Mackeen AD, Khalifeh A, Fleisher J, et al.
+1127–34.                                       caesarean section reduces delivery time without Suture compared with staple skin closure after
+41. Kurz A, Sessler DI, Lenhardt R. Periopera- increased morbidity: a meta-analysis of ran-    cesarean delivery: a randomized controlled trial.
+tive normothermia to reduce the incidence of   domized controlled trials. Eur J Obstet Gynecol Obstet Gynecol 2014;123:1169–75.
+surgical-wound infection and shorten hospitali- Reprod Biol 2014;174:20–6.                     71. Mackeen AD, Schuster M, Berghella V. Su-
+zation: Study of Wound Infection and Temper-   57. Vitale SG, Marilli I, Cignini P, et al. Compar- ture versus staples for skin closure after cesar-
+ature Group. N Engl J Med 1996;334:1209–15.    ison  between  modiﬁed   Misgav-Ladach   and    ean: a metaanalysis. Am   J Obstet Gynecol
+42. Melling AC, Ali B, Scott EM, Leaper DJ. Ef- Pfannenstiel-Kerr techniques for cesarean sec- 2015;212:621.e1–10.
+fects of preoperative warming on the incidence tion: review of literature. J Prenat Med 2014;8: 72. Fleisher J, Khalifeh A, Pettker C, Berghella V,
+of wound infection after clean surgery: a rando- 36–41.                                        Dabbish N, Mackeen AD. Patient satisfaction
+mised controlled trial. Lancet 2001;358:876–80. 58. Dodd   JM,   Anderson   ER,   Gates   S,   and cosmetic outcome in a randomized study of
+43. Rajagopalan S, Mascha E, Na J, Sessler DI. Grivell RM. Surgical techniques for uterine inci- cesarean skin closure. J Matern Fetal Neonatal
+The effects of mild perioperative hypothermia on sion and uterine closure at the time of caesarean Med 2018;24:1–6.
+blood loss and transfusion requirement. Anes-  section. Cochrane Database Syst Rev 2014;7:     73. Zaki MN, Wing DA, McNulty JA. Compari-
+thesiology 2008;108:71–7.                      CD004732.                                       son of staples vs subcuticular suture in class III
+44. Sessler DI. Complications and treatment of 59. Saad   AF, Rahman    M, Costantine  MM,     obese women undergoing cesarean: a ran-
+mild hypothermia. Anesthesiology    2001;95:   Saade GR. Blunt versus sharp uterine incision   domized controlled trial. Am J Obstet Gynecol
+531–43.                                        expansion during low transverse cesarean de-    2018;218:451.e1–8.
+45. Horn EP, Schroeder F, Gottschalk A, et al. livery: a metaanalysis. Am J Obstet Gynecol     74. Yu L, Kronen RJ, Simon LE, Stoll CRT,
+Active warming during cesarean delivery. Anesth 2014;211:684.e1–11.                            Colditz GA, Tuuli MG. Prophylactic negative-
+Analg 2002;94:409–14.                          60. Di   Spiezio  Sardo    A,  Saccone    G,    pressure wound therapy after cesarean is asso-
+46. Yokoyama   K, Suzuki M, Shimada       Y,   McCurdy R, Bujold E, Bifulco G, Berghella V.    ciated with reduced risk of surgical site infection:
+Matsushima T, Bito H, Sakamoto A. Effect of    Risk of cesarean scar defect following single-  a systematic review and meta-analysis. Am  J
+administration of pre-warmed intravenous ﬂuids vs  double-layer uterine  closure: systematic   Obstet Gynecol 2018;218:200–10.e1.
+on the frequency of hypothermia following spinal review and  meta-analysis   of  randomized    75. Dawood F, Dowswell T, Quenby S. Intra-
+anesthesia for Cesarean delivery. J Clin Anesth controlled trials. Ultrasound Obstet Gynecol   venous ﬂuids for reducing the duration of labour
+2009;21:242–8.                                 2017;50:578–83.                                 in low risk nulliparous women. Cochrane Data-
+47. Frank  SM,   Nguyen   JM,   Garcia  CM,    61. Glavind J, Madsen LD, Uldbjerg N, et al.    base Syst Rev 2013;6:CD007715.
+Barnes RA. Temperature monitoring practices    Ultrasound evaluation of cesarean scar after    76. Carvalho JC, Mathias RS. Intravenous hy-
+during  regional anesthesia.  Anesth   Analg   single- and double-layer uterotomy closure: a   dration in  obstetrics. Int Anesthesiol Clin
+1999;88:373–7.                                 cohort  study. Ultrasound    Obstet  Gynecol    1994;32:103–15.
+48. Glosten B, Sessler DI, Faure EAM, et al.   2013;42:207.                                    77. Chantry CJ, Nommsen-Rivers LA. Excess
+Central temperature changes are not perceived  62. Roberge S, Chaillet N, Boutin A, et al. Sin- weight loss in ﬁrst-born breastfed newborns
+during  epidural anesthesia. Anesthesiology    gle- versus double-layer closure of the hyster- relates to maternal intrapartum ﬂuid balance.
+1992;77:10–6.                                  otomy incision during cesarean delivery and risk Pediatrics 2011;127:171–9.
+
+                                                                             DECEMBER 2018   American Journal of Obstetrics & Gynecology 543
+
+
+Special Reports                                                                                                                 ajog.org
+
+78. Noel-Weiss J, Woodend AK, Peterson WE,     clamping  of term   infants on maternal and     105. Foster  JP,  Dawson    JA,  Davis   PG,
+Gibb W, Groll D. An observational study of as- neonatal outcomes. Cochrane Database Syst       Dahlen HG. Routine oro/nasopharyngeal suc-
+sociations among maternal ﬂuids during partu-  Rev 2013;7:CD004074.                            tion versus no suction at birth. Cochrane Data-
+rition, neonatal output, and breastfed newborn 92. Committee   Opinion  No. 684   Summary:     base Syst Rev 2017;4:CD010332.
+weight loss. Int Breastfeed J 2011;6:1–10.     delayed  umbilical cord clamping after birth.   106. Tan A, Schulze A, O’Donnell CP, Davis PG.
+79. Mercier FJ. Fluid loading for cesarean de- Obstet Gynecol 2017;129:232–3.                  Air versus oxygen for resuscitation of infants at
+livery under spinal anesthesia: Have we studied 93. Ghavam S, Batra D, Mercer J, et al. Effects birth. Cochrane Database Syst Rev 2005;2:
+all the options? Anesth Analg 2011;113:677–80. of placental transfusion in extremely low birth- CD002273.
+80. Ngan Kee WD, Khaw KS, Ng FF. Prevention    weight infants: meta-analysis of long- and short- 107. Katheria A, Rich W, Finer N. Optimizing
+of hypotension during spinal anesthesia for ce- term outcomes. Transfusion 2014;54:1192–8.     care of the preterm infant starting in the delivery
+sarean delivery: an effective technique using  94. Rabe   H,   Diaz-Rossello JL,   Duley  L,   room. Am J Perinatol 2016;33:297–304.
+combination phenylephrine infusion and crys-   Dowswell T. Effect of timing of umbilical cord  108. Glavind  J,   Milidou  J,  Uldbjerg  N,
+talloid cohydration. Anesthesiology 2005;103:  clamping  and   other strategies to inﬂuence    Maimburg    R,   Henriksen    TB.   Neonatal
+744–50.                                        placental transfusion  at preterm   birth on    morbidity after spontaneous labor onset prior
+81. Mercier FJ. Cesarean delivery ﬂuid man-    maternal and infant outcomes. Cochrane Data-    to  intended  cesarean  delivery at term: a
+agement. Curr Opin    Anaesthesiol 2012;25:    base Syst Rev 2012;8:CD003248.                  cohort study. Acta   Obstet Gynecol Scand
+286–91.                                        95. Rabe   H, Reynolds G, Diaz-Rossello    J.   2017;96:479–86.
+82. Bellamy MC. Wet, dry or something else? Br A systematic review and meta-analysis of a brief 109. Orsini JN. The essential Deming: leader-
+J Anaesth 2006;97:755–7.                       delay in clamping the umbilical cord of preterm ship principles from the father of quality. New
+83. Kinsella SM, Carvalho B, Dyer RA, et al. In- infants. Neonatology 2008;93:138–44.          York: McGraw Hill Professional; 2012.
+ternational consensus statement on the man-    96. Fogarty M, Osborn DA, Askie L, et al.       110. Cesarean Delivery and Peripartum   Hys-
+agement of hypotension    with vasopressors    Delayed vs early umbilical cord clamping for    terectomy. In: Cunningham   FG, Leveno KJ,
+during caesarean section under spinal anaes-   preterm infants: a systematic review and meta-  Bloom  SL, Hauth JC, Rouse DJ, Spong CY,
+thesia. Anaesthesia 2018;73:71–92.             analysis. Am J Obstet Gynecol 2018;218:1–18.    editors. Williams Obstetrics, 23rd Ed. New York:
+84. Campbell JP, Stocks GM. Management of      97. Rabe   H, Reynolds G, Diaz-Rossello    J.   McGraw-Hill; 2010:544-8.
+hypotension with vasopressors at caesarean     A systematic review and meta-analysis of a brief 111. Alexander JM, Leveno KJ, Hauth J, et al.
+section under spinal anaesthesia: have we found delay in clamping the umbilical cord of preterm Fetal injury associated with cesarean delivery.
+the Holy Grail of obstetric anaesthesia? Anaes- infants. Neonatology 2008;93:138–44.           Obstet Gynecol 2006;108:885.
+thesia 2018;73:3–6.                            98. Tarnow-Mordi W, Morris J, Kirby A, et al.   112. Liu SL, Liston RM, Joseph KS, et al.
+85. Som   A,   Maitra  S,  Bhattacharjee  S,   Delayed versus immediate cord clamping in       Maternal mortality and severe morbidity associ-
+Baidya DK. Goal directed   ﬂuid therapy de-    preterm  infants. N  Engl J  Med   2017;377:    ated with low-risk planned cesarean delivery
+creases postoperative morbidity but not mortal- 2445–55.                                       versus planned vaginal delivery at term. CMAJ
+ity in major non-cardiac surgery: a meta-analysis 99. Duryea EL, Nelson  DB, Wyckoff MH,       2007;176:455.
+and  trial sequential analysis of randomized   et al. The impact of ambient operating room     113. Villar J, Carroli G, Zavaleta N, et al.
+controlled trials. J Anesth 2017;31:66–81.     temperature on neonatal and maternal hypo-      Maternal and neonatal individual risks and ben-
+86. Yuan J, Sun Y, Pan C, Li T. Goal-directed  thermia  and  associated  morbidities: a ran-   eﬁts associated with cesarean delivery: multi-
+ﬂuid therapy for reducing risk of surgical site in- domized controlled trial. Am J Obstet Gynecol centre prospective study. BMJ 2007;335:1025.
+fections following abdominal surgery: a sys-   2016;214:505.                                   114. Burrows LJ, Meyn LA, Weber AM, et al.
+tematic review and meta-analysis of randomized 100. Li S, Guo P, Zou Q, He F, Xu F, Tan L. Ef- Maternal morbidity  associated  with  vaginal
+controlled trials. Int J Surg 2017;39:74–87.   ﬁcacy and safety of plastic wrap for prevention of versus cesarean delivery. Obstet Gynecol
+87. Perlman JM, Wyllie J, Kattwinkel J, et al. Part hypothermia after birth and during NICU in pre- 2004;103:907–12.
+7: neonatal resuscitation: 2015  International term  infants: a systematic review and meta-    115. Silver RM, Landon MB, Rouse DJ, et al.
+consensus on cardiopulmonary resuscitation     analysis. PLoS One 2016;11:e0156960.            Maternal morbidity associated   with multiple
+and emergency cardiovascular care science      101. McCall EM, Alderdice    F, Halliday HL,    repeat cesarean   deliveries. Obstet Gynecol
+with treatment recommendations. Circulation    Jenkins JG, Vohra S. Interventions to prevent   2006;107:1226–32.
+2015;132(suppl1):S204–41.                      hypothermia at birth in preterm   and/or low    116. Lagrew  DC, Low   LK, Brennan R, et al.
+88. Delayed umbilical cord clamping after birth. birthweight infants. Cochrane Database Syst   National  partnership  for  maternal  safety:
+Pediatrics 2017;139:e20170957.                 Rev 2010;3:CD004210.                            Consensus bundle on safe reduction of primary
+89. Bayer K. Delayed umbilical cord clamping in 102. Perlman J, Kjaer K. Neonatal and maternal cesarean births: supporting intended  vaginal
+the 21st century: indications for practice. Adv temperature regulation during and after delivery. births. Obstet Gynecol 2018;131:503–13.
+Neonatal Care 2016;16:68–73.                   Anesth Analg 2016;123:168–72.                   117. Temming LA, Raghuraman N, Carter EB,
+90. Kc A, Rana N, Målqvist M, et al. Effects of 103. Russo A, McCready M, Torres L, et al.     et al. Impact of evidence-based interventions on
+delayed  umbilical cord  clamping   vs  early  Reducing   hypothermia   in  preterm  infants   wound complications after cesarean delivery.
+clamping on anemia in infants at 8 and 12      following   delivery. Pediatrics   2014;133:    Am J Obstet Gynecol 2017;217:449.e1–9.
+months: a   randomized   clinical trial. JAMA  e1055–62.                                       118. Esposito P, Dal Canton A. Clinical audit, a
+Pediatr 2017;171:264–70.                       104. Committee Opinion No. 689 Summary:         valuable tool to improve quality of care: general
+91. McDonald SJ, Middleton P, Dowswell T,      delivery of a newborn with meconium-stained     methodology and applications in nephrology.
+Morris PS. Effect of timing of umbilical cord  amniotic ﬂuid. Obstet Gynecol 2017;129:593–4.   World J Nephrol 2014;3:249–55.
+
+
+544   American Journal of Obstetrics & Gynecology DECEMBER 2018
+
+
+
