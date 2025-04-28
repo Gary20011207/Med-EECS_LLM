@@ -1,0 +1,260 @@
+MINIREVIEW
+published:23October2020
+doi:10.3389/fsurg.2020.573398
+mHealth Apps for Enhanced
+Management of Spinal Surgery
+Patients: A Review
+MichaelY.Bai1,2,RalphJ.Mobbs1,2,3,4,5*,WilliamR.Walsh1,5andCallumBetteridge1,2,3,4
+1NeuroSpineSurgeryResearchGroup(NSURG),Sydney,NSW,Australia,2NeuroSpineClinic,PrinceofWalesPrivate
+Hospital,Randwick,NSW,Australia,3FacultyofMedicine,UniversityofNewSouthWales(UNSW),Sydney,NSW,Australia,
+4WearablesandGaitAssessmentResearch(WAGAR)Group,PrinceofWalesPrivateHospital,Randwick,NSW,Australia,
+5SurgicalOrthopedicResearchLabs(SORL),UniversityofNewSouthWales(UNSW),Sydney,NSW,Australia
+mHealth(mobilehealth)referstomobiletechnologiesthataidmedicalandpublichealth
+practices. As of February 2019, 81% of Americans own a smartphone, and mHealth
+applications(apps)havebecomeincreasinglycommonwithmorethan400,000mHealth
+applications currently available. Advancements in mobile technology now allow us to
+provide personalized up-to-date information, track personal health data, remind and
+engagepatients,andcommunicateinacost-effectiveway.Therearenewopportunities
+forhealthcareproviderstointegratemHealthintoclinicalpractice.Wediscussthecurrent
+scientificevidence,andresearchintomHealthtechnology.
+Keywords:surgery,spine,mHealth,smartphone,apps
+Editedby:
+VassiliosS.Nikolaou, INTRODUCTION
+NationalandKapodistrianUniversity
+ofAthens,Greece
+mHealth(mobilehealth)referstomobiletechnologiesthataidmedicalandpublichealthpractices
+Reviewedby:
+(1). As of February 2019, 81% of Americans own a smartphone (2), and mHealth applications
+KonstantinosMarkatos,
+(apps) have become increasingly common with over 400,000 mHealth applications currently
+SalaminaMedicalCenter,Greece
+available to download on the Google Play Store and Apple App Store (3). Advancements in
+DimitriosChytas,
+EuropeanUniversityCyprus,Cyprus mobiletechnologyallowustoprovidepersonalizedup-to-dateinformation,trackpersonalhealth
+data,remindandengagepatients,andcommunicateinacost-effectiveway.Thishascreatednew
+*Correspondence:
+RalphJ.Mobbs opportunitiesforhealthcareproviderstointegratemHealthintoclinicalpractice.However,most
+Ralphmobbs@hotmail.com mHealth apps are not based on scientific evidence, and there are calls for further research to
+enhancethescopeandutilizationofmHealthtechnology(4).
+Specialtysection: Post-operativecommunicationwithpatientsisadesirablepartofsafeandeffectiveclinicalcare.
+Thisarticlewassubmittedto However,effectivepathwaysforcommunicationmaybedifficultandmayresultinpatientsmaking
+OrthopedicSurgery, unplanned and potentially unnecessary visits to their general practitioner or local emergency
+asectionofthejournal
+department.Theymayalsotakeupmoreresourcesintermsoftimespentonscreeningphonecalls
+FrontiersinSurgery
+andemailsbyadministrativestaff(5).Theuseofsmartphonetechnologyprovidessecuremethods
+Received:16June2020 tolinkpatientsdirectlywithcareproviderstostreamlinethepatientexperienceandoptimizethe
+Accepted:16September2020
+useoflimitedresources.
+Published:23October2020
+The use of mHealth in neurosurgery is becoming a hot topic, with many researchers from
+Citation: aroundtheworldpublishingtheirsuccessesregardingtheuseofappswithspinalsurgerypatients.
+BaiMY,MobbsRJ,WalshWRand
+Spinalsurgerypatientsfaceimportantchallengesinpost-oprehabilitation,painmanagement,and
+BetteridgeC(2020)mHealthAppsfor
+complications. Any advancement in a positive direction has the benefit of increasing quality of
+EnhancedManagementofSpinal
+lifeandpatientsatisfaction.Asurveyconductedin2017hasshownthatthree-quartersofspinal
+SurgeryPatients:AReview.
+Front.Surg.7:573398. surgerypatientswouldbeinterestedinusingamHealthapptotracktheirpost-operativeprogress
+doi:10.3389/fsurg.2020.573398 andcommunicatewiththeircareteam(6).
+FrontiersinSurgery|www.frontiersin.org 1 October2020|Volume7|Article573398Baietal. mHealthAppsforSpinePatients
+Theaimofthisreviewistosummarizethecurrentliterature Penn Medicine’s NeuroPath app is one such mHealth app
+regardingmHealthinthefieldofspinalsurgeryanddiscussthe that has been piloted in spinal surgery patients (17). This app
+benefitsofthisusefultechnology. utilizesprinciplesfromenhancedrecoveryaftersurgery(ERAS)
+toencouragepatientstododailytasks,provideinstructionsand
+REVIEW education, allow them to track and share their activity levels
+andmedicationusageandcommunicatedirectlywiththeircare
+Enhanced Information Delivery team (17). This app presented patients with daily to-do lists
+Smartphone technology can be used to solve the major issues that included specific instructions depending on the time since
+of inconsistent information, difficulty accessing information, theirsurgery,suchasexercise,diet,woundcareinstructions,and
+and delayed communication, which are faced by many surgical requestedpatientstoinputtheirsymptomsdaily.Careproviders
+patients (7). Compared to large, generic, printed patient cantheninteractwithpatientsandprovidefeedbackbasedonthe
+informationbooklets,mHealthappsmakeiteasierforpatientsto informationtheyuploadedtotheapp.
+findimportantinformationrelatedtotheirsurgeryandprovide Postural and walking stability is an important objective gait
+themwithaconvenientwaytorevisitpersonalizedinformation metric for patients with spinal pathology. Changes in posture
+provided to them at their clinic visit. Studies have shown that and walking stability, including falls, correlates with recovery
+patients have poor retention of medical information, and an following any spinal intervention. Yoong and authors noted,
+app can improve the patients understanding of their diagnosis, however,thatmHealthappsandwearabledevicestoassistwith
+proposedsurgery,requiredinvestigations,andchangestheyneed themonitoringofrelevantmetricsfollowingspinalinterventions
+tomaketotheirmedications(8).mHealthappsalsohelpremind isstillinitsinfancywithfurtherdeviceandappdevelopmentto
+patients of crucial tasks they must complete in preparation for bedone(18).
+theirsurgery,suchasstoppinganticoagulants(7).
+TheAmieTMappbyFavorHealthwasstudiedbyStewartetal., Improved Follow-Up
+whoshowedthatpreventablesurgicalcancellationsduetopoor mHealth apps offer a cost-effective way to safely allow earlier
+compliancewithpre-operativeinstructionscouldbereducedby dischargewhilemaintainingclosefollow-upwithpatientspost-
+usingpersonalizedpushnotificationstoagroupofneurosurgical operatively (19, 20). It can save time for care providers and
+patients (8). Push notifications also help remind patients to patientsandreduceunnecessarytransfers.AFrenchstudywhich
+follow pre-operative instructions on the correct days. An app lookedattheuseofanmHealthappforthepost-operativefollow
+thatrequirespatientstoacknowledgenotificationscanalsorelay upofpatientswhounderwentoutpatientmicrodiscectomyfound
+information back to care providers and give them a chance to that 94% of issues could be handled remotely. This allows
+contact the patient directly to remind them of pre-operative the patient to have direct access to their care team and avoid
+instructionsifnecessary(9). unnecessary visits to their primary care physician or return to
+Patientsarealsomorelikelytoadheretopost-operativeand thehospital(21).Thecostsassociatedwithimplementingtheapp
+discharge instructions when using mHealth apps (10). Those and maintaining a team to respond to alerts can be offset by a
+whoengagewithmHealthappsshowgreaterpatientsatisfaction, reductioninlengthofhospitalstay(22).
+bettermedicationadherence,improvedclinicattendance,lower There is also the potential that certain patients who
+readmission, and emergency department visits post-operatively communicategoodprogressviatheirmHealthappmaynotneed
+(11). One study found that in the absence of an mHealth to return for an in-person follow-up appointment. This could
+application, up to 55% of patients would have returned to the reducethecostsassociatedwithrunningclinicsandallowhealth
+hospitalforassessmentoftheirwounds(12). careproviderstofocustheirresourcesonotheractivities(7).
+Behavior and Activity Modification Improved Outcomes
+TheproofofconceptformHealthappshasbeendemonstrated mHealth is an extremely promising modality for improving
+in many other specialties, and these give insight into what patientcareandoutcomes.Ithasbeenshowntoimprovepatient
+makes mHealth apps successful and worthwhile. mHealth apps experiences by involving patients in their own management
+have been successful in behavior modification for secondary whichprovidesmoreconfidencetopatientsaftertheyhavebeen
+preventionofcardiovasculardisease(13),substancemisuse(14), discharged. Patients engage more with mHealth apps that have
+andmedicationcompliance(15).Itisclearthatinterventionsfor personalized content, a higher frequency of text messages, and
+behaviorssuchasphysicalactivity,smoking,andopioidmisuse two-waycommunication(13).
+wouldbenefitpatientsundergoingspinalsurgery.Theexperience mHealth apps are extremely useful in the post-operative
+of other mHealth apps can help inform the development of period for wound monitoring. Surgical site infections, if
+an application made specifically for spinal surgery patients, recognizedearly,canbesafelymanagedasanoutpatient,whereas
+which can be as simple as scheduled reminders to complete a delaysinrecognitioncanleadtoreadmission,patientstress,and
+symptomatic questionnaire. Encouraging these behaviors adds anincreasedburdenonthehealthcaresystem(7).Thetechnology
+diagnostic value for conditions that are partially diagnosed by existstoallowsecuretransferofphotographsofsurgicalwounds
+symptomprofile,likeLumbarSpinalStenosis(16),andprovides frompatientstocareprovidersviaanencryptedsmartphoneapp.
+a longitudinal view of the symptom progression for clinical This solution would decrease complication rates and increase
+assessmentofdiseasestatus. patientsatisfaction.
+FrontiersinSurgery|www.frontiersin.org 2 October2020|Volume7|Article573398Baietal. mHealthAppsforSpinePatients
+A randomized controlled trial of patients in China post inhealth.Finally,the2014annualstudyonmHealthapplication
+lumbar spinal surgery explored the use of an mHealth app to development (26) predicted two further barriers to mHealth
+deliver rehabilitation (23). The app allowed patients to view application uptake over the 2014–2019 period, practitioner
+personalized rehabilitation plans made by their physicians and resistanceanddifficultdiscoverabilityofindividualapplications
+provided daily reports and prompts to encourage continued duetothesheernumberofapplicationsavailable.
+use of the app. Patients could also communicate with their mHealth apps may be beneficial for spinal surgery patients
+doctorsthroughtheapp,andtheycouldmakechangestotheir with poor access to rehabilitation services (23) or may be
+rehabilitation plans. This resulted in a significant improvement useful in complementing traditional services. By reducing the
+intheirdisabilityindexandpainscoresafter2yearscompared burden of traditional services, it may free up resources so that
+totraditionalrehabilitation(23).Theirstudyalsodemonstrated more patients may benefit without compromising the quality
+increasedbenefitswithhigherappcompliance. of the service. There is also further potential for mHealth
+appstointegratewithadd-ondevicestoenhancepost-operative
+Increased Patient Satisfaction monitoring. These could include simple activity monitors or
+Asystematicreviewoftheabilityofsmartphoneappstoenhance specialized medical devices designed for specific purposes (7).
+communication with surgical patients was published by De La Suchcommunicationbetweenasmartphoneandexternaldevice
+CruzMonroyetal.in2019(7).Theynotedanoverwhelmingly has already demonstrated clinical utility in spinal surgery (27).
+positiveresponsefrompatientsandcareproviderswhoareusing Additionally, the processing power of handheld phones could
+mHealthappsintheperioperativesetting. allow mHealth apps to extrapolate the unprocessed data from
+PatientsarewillingtoengagewithmHealthappsandusethem externaldevicestogenerateamuchmorecomplexpicturethan
+dailyastheyfeeltheyarepersonaltotheircare.Theyalsoprovide what the device itself could provide. For example, it is possible
+a sense of security as there is a continuous link to their care to use the accelerometry data captured by a smartwatch to
+providers, and give the patients the opportunity to be involved calculate gait velocity, smoothness, or asymmetry, rather than
+inresearch.Someevenreportusingtheappsimplybecausethey juststepcount.
+were bored (24). mHealth apps have the potential to provide Integration of data from a mHealth app to a patient’s
+continuous24-hmonitoringforpatientswithoutoverburdening electronic health record (EHR) (28) would allow the data from
+the healthcare system. They also have the potential to increase the mHealth app to be stored on a centralized database for the
+patient compliance by featuring individualized feedback and hospital or local health district (28). This means that while the
+rewardstopatients. data would primarily be used by the spinal surgeon and the
+The mHealth app “e-fitback” (Nouveal, e-santé) was used patient,otherclinicianswhoadoptcareofthepatientcanaccess
+in a study of ERAS for patients undergoing spinal fusion theinformationaswell,allowingforbetterintegrationbetween
+for degenerative conditions (22). It collected post-operative primary,secondaryandtertiarycaresystems.
+informationonpain,temperature,voiding,motordisorders,and Asitstands,thedatacapturedbymHealthappsislimitedto
+blood-stained dressings. The app then triggered an alarm that questionnairesandsimplemeasuresofhealthlikeheartrateand
+would instigate a phone call from the ERAS team if needed. step count by the storage and processing capacity of handheld
+Patientsrespondedwelltotheapp,with82.3%ofusersreporting devices. With advancements in mobile phone technology, it
+feelingsatisfiedorverysatisfiedwiththemHealthappasatoolto stands to reason that the phone would be able to obtain more
+optimizepatientcare. complex measures of health. For example, improvements in
+the sampling rate of the phone’s internal accelerometers and
+Future Directions gyroscopes, and an increase in phone processing power may
+One of the fears regarding the utilization of mHealth is that allowforconstantmeasurementofgaitvelocityandsmoothness,
+elderly patients would not engage with the technology. A pilot which could be useful for an mHealth app specific to spinal
+study by von Glinski et al. has demonstrated that as long surgery patients. As the amount of health data captured per
+as patients own and use a smartphone, mHealth apps are minuteincreases,sodoestheneedforasystemcapableofsorting
+well-received by elective spinal surgery patients regardless of throughthisdata,anddecidingwhatisusefulorimportantfor
+age, gender, or procedure invasiveness (5). This is promising thecliniciantoknow,asdoestheneedtoquicklyuploadthisdata.
+and encourages the future development of more apps tailored Thus, some adjuvant technologies such as artificial intelligence
+to surgical patients. Another barrier to the implementation (AI) and cellular networks with greater bandwidth (5G+) may
+of mHealth apps is privacy concerns. Privacy concerns may playaroleinthisfuturewhenmHealthappsandhandheldphone
+relate to the amount of information that the clinician has technologyareoptimized.
+access to, or the potential for hacking and data leaks which
+may result in the patient’s health data being publicly available.
+When filling in a questionnaire regarding data privacy using CONCLUSION
+mHealthapps,patientsinlowersocioeconomicclasseshadfewer
+concerns regarding privacy and were more likely to use an In conclusion, there have been several mHealth apps specially
+mHealth app, meaning greater benefit amongst (25). However, designed for and tested with spinal surgery patients reported
+Limited uptake by wealthier individuals diminishes the overall in literature worldwide. Early experiences have shown that
+benefit of widespread implementation of mHealth applications mHealthappsareacost-effectivewaytoprovidesafe,beneficial,
+FrontiersinSurgery|www.frontiersin.org 3 October2020|Volume7|Article573398Baietal. mHealthAppsforSpinePatients
+and satisfactory care to patients. mHealth apps enhance two- it is exciting to witness this significant advancement in patient
+way communication between patients and their care providers. communicationandcare.
+They help to deliver patient information in a convenient and
+individualized fashion. Rehabilitation and follow-up care can
+AUTHOR CONTRIBUTIONS
+be optimized via mobile apps also, allowing patients to take
+controloftheirowncareandengagewiththeappasfrequently
+The first draft of the manuscript was written by MB.
+as they like. These optimizations are likely to improve long-
+All authors listed have made a substantial, direct and
+termoutcomesintermsofbetterqualityoflife,lesspain,better
+intellectual contribution to the work, and approved it
+mobility,andreducedcomplications.Itshouldbenotedthatthe
+forpublication.
+conclusions drawn from this article are limited by its nature as
+a narrative review. The present study did not follow PRISMA
+reportingguidelines,andthereforehasahigherriskofbiasthan ACKNOWLEDGMENTS
+a structured narrative review. The quality of studies included
+in this review was high, with many implementing randomized The NeuroSpine Surgery Research Group (NSURG) aided with
+allocationtointerventiongroups. manuscript production. The Wearables And Gait Assessment
+mHealth apps are still in their infancy, and further research Research (WAGAR) Group provided assistance with wearables
+into this growing field is necessary. There is no doubt that this literature. The NeuroSpineClinic, Sydney Australia, provided
+technologywillintegratefurtherintoallfieldsofmedicine,and clinicassistanceforauthors.
+REFERENCES
+12. Martínez-RamosC,CerdánMT,LopezRS.Mobilephone–basedtelemedicine
+systemforthehomefollow-upofpatientsundergoingambulatorysurgery.
+1. KayM,SantosJ,TakaneM.mHealth:newhorizonsforhealththroughmobile TelemedEHealth.(2009)15:531–7.doi:10.1089/tmj.2009.0003
+technologies.WorldHealthOrgan.(2011)64:66–71. 13. ParkLG,BeattyA,StaffordZ,WhooleyMA.Mobilephoneinterventions
+2. Statistica. Percentage of US Adults Who Own a Smartphone. (2019). forthesecondarypreventionofcardiovasculardisease.ProgCardiovascDis.
+Available online at: https://www.statista.com/statistics/219865/percentage- (2016)58:639–50.doi:10.1016/j.pcad.2016.03.002
+of-us-adults-who-own-a-smartphone/(accessedJune3,2020). 14. TofighiB,AbrantesA,SteinMD.Theroleoftechnology-basedinterventions
+3. Georgiou M. Developing A Healthcare App In 2020: What do patients forsubstanceusedisordersinprimarycare:areviewoftheliterature.Med
+reallywant?(2020).Availableonineat:https://www.imaginovation.net/blog/ Clin.(2018)102:715–31.doi:10.1016/j.mcna.2018.02.011
+developing-a-mobile-health-app-what-patients-really-want/(accessedJune 15. MorawskiK,GhazinouriR,KrummeA,LauffenburgerJC,LuZ,DurfeeE,
+3,2020). etal.Associationofasmartphoneapplicationwithmedicationadherenceand
+4. Nilsen W, Kumar S, Shar A, Varoquiers C, Wiley T, Riley WT, et al. bloodpressurecontrol:theMedISAFE-BPrandomizedclinicaltrial.JAMA
+Advancing the science of mHealth. J Health Commun. (2012) 17(Suppl. InterMed.(2018)178:802–9.doi:10.1001/jamainternmed.2018.0447
+1):5–10.doi:10.1080/10810730.2012.677394 16. PerringJ,MobbsR,BetteridgeC.Analysisofpatternsofgaitdeterioration
+5. von Glinski A, Ishak B, Elia C, Goodmanson R, Pierre C, Norvell DC, inpatientswithlumbarspinalstenosis.WorldNeurosurg.(2020)141:e55–
+etal.Emerginginsight inthe useofan active postdischarge surveillance 9.doi:10.1016/j.wneu.2020.04.146
+programinspinesurgery:aretrospectivepilotstudy.WorldNeurosurg.(2020) 17. Glauser G, Ali ZS, Gardiner D, Ramayya AG, Pessoa R, Grady MS,
+139:e237–44.doi:10.1016/j.wneu.2020.03.185 et al. Assessing the utility of an IoS application in the perioperative care
+6. Nathan JK, Rodoni BM, Joseph JR, Smith BW, Park P. Smartphone use of spine surgery patients: the NeuroPath Pilot study. mHealth. (2019)
+andinterestinaspinesurgeryrecoverymobileapplicationamongpatients 5:40.doi:10.21037/mhealth.2019.09.01
+in a US academic neurosurgery practice. Oper Neurosurg. (2020) 18:98– 18. YoongNKM,PerringJ,MobbsRJ.Commercialposturaldevices:areview.
+102.doi:10.1093/ons/opz061 Sensors.(2019)19:5128.doi:10.3390/s19235128
+7. De La Cruz Monroy MF, Mosahebi A. The use of smartphone 19. Wang QQ, Zhao J, Huo XR, Wu L, Yang LF, Li JY, et al. Effects of
+applications (apps) for enhancing communication with surgical a home care mobile app on the outcomes of discharged patients with
+patients: a systematic review of the literature. Surg Innov. (2019) a stoma: a randomised controlled trial. J Clin Nurs. (2018) 27:3592–
+26:244–59.doi:10.1177/1553350618819517 602.doi:10.1111/jocn.14515
+8. StewartJJ,FayedI,HenaultS,KalantarB,VoyadzisJ-M.Useofasmartphone 20. MobbsRJ,KatsinasCJ,ChoyWJ,RookeK,MaharajM.Objectivemonitoring
+applicationforspinesurgeryimprovespatientadherencewithpreoperative ofactivityandGaitVelocityusingwearableaccelerometerfollowinglumbar
+instructionsanddecreasesLast-minutesurgerycancellations.Cureus.(2019) microdiscectomy to detect recurrent disc herniation. J Spine Surg. (2018)
+11:e4192.doi:10.7759/cureus.4192 4.doi:10.21037/jss.2018.12.02
+9. Felbaum DR, Stewart JJ, Anaizi AN, Sandhu FA, Nair MN, Voyadzis J- 21. Debono B, Bousquet P, Sabatier P, Plas J-Y, Lescure J-P, Hamel O.
+M. Implementation and evaluation of a smartphone application for the Postoperativemonitoringwithamobileapplicationafterambulatorylumbar
+perioperativecareofneurosurgerypatientsatanacademicmedicalcenter: discectomy:aneffectivetoolforspinesurgeons.EurSpineJ.(2016)25:3536–
+implicationsforpatientsatisfaction,surgerycancelations,andreadmissions. 42.doi:10.1007/s00586-016-4680-4
+OperNeurosurg.(2018)14:303–11.doi:10.1093/ons/opx112 22. DebonoB,CorniolaMV,PiettonR,SabatierP,HamelO,TessitoreE.Benefits
+10. GuY,WangL,ZhaoL,LiuZ,LuoH,TaoQ,etal.Effectofmobilephone ofenhancedrecoveryaftersurgeryforfusionindegenerativespinesurgery:
+remindermessagesonadherenceofstentremovalorexchangeinpatientswith impactonoutcome,lengthofstay,andpatientsatisfaction.NeurosurgFocus.
+benign pancreaticobiliary diseases: a prospectively randomized, controlled (2019)46:E6.doi:10.3171/2019.1.FOCUS18669
+study.BMCGastroenterol.(2016)16:105.doi:10.1186/s12876-016-0522-4 23. HouJ,YangR,YangY,TangY,DengH,ChenZ,etal.Theeffectiveness
+11. LuK,MarinoNE,RussellD,SingareddyA,ZhangD,HardiA,etal.Use and safety of utilizing mobile phone–based programs for rehabilitation
+ofshortmessageserviceandsmartphoneapplicationsinthemanagement after lumbar spinal surgery: multicenter, prospective randomized
+ofsurgicalpatients:asystematicreview.TelemedEHealth.(2018)24:406– controlled trial. JMIR mHealth uHealth. (2019) 7:e10201. doi: 10.2196/
+14.doi:10.1089/tmj.2017.0123 10201
+FrontiersinSurgery|www.frontiersin.org 4 October2020|Volume7|Article573398Baietal. mHealthAppsforSpinePatients
+24. Scott AR, Alore EA, Naik AD, Berger DH, Suliburk JW. Mixed-methods 28. Kao CK, Liebovitz DM. Consumer mobile health apps: current
+analysis of factors impacting use of a postoperative mHealth app. JMIR state, barriers, and future directions. PM R. (2017) 9:S106–
+mHealthuHealth.(2017)5:e11.doi:10.2196/mhealth.6728 15.doi:10.1016/j.pmrj.2017.02.018
+25. ZhouL,BaoJ,WatzlafV,ParmantoB.Barrierstoandfacilitatorsoftheuseof
+mobilehealthappsfromasecurityperspective:mixed-methodsstudy.JMIR ConflictofInterest:Theauthorsdeclarethattheresearchwasconductedinthe
+mHealthuHealth.(2019)7:e11223.doi:10.2196/11223 absenceofanycommercialorfinancialrelationshipsthatcouldbeconstruedasa
+26. Research2guidance. mHealth App Developer Economics 2014. Berlin: potentialconflictofinterest.
+Research2Guidance (2014). Available online at: https://www.fer.unizg.
+hr/download/repository/research2guidance-mHealth-App-Developer- Copyright©2020Bai,Mobbs,WalshandBetteridge.Thisisanopen-accessarticle
+Economics-2014.pdf distributedunderthetermsoftheCreativeCommonsAttributionLicense(CCBY).
+27. GhentF,MobbsRJ,MobbsRR,SyL,BetteridgeC,ChoyWJ.Assessment Theuse,distributionorreproductioninotherforumsispermitted,providedthe
+and post-intervention recovery after surgery for lumbar disk herniation original author(s) and the copyright owner(s) are credited and that the original
+basedonobjectivegaitmetricsfromwearabledevicesusingthegaitposture publicationinthisjournaliscited,inaccordancewithacceptedacademicpractice.
+index. World Neurosurg. (2020) 142:e111–e116. doi: 10.1016/j.wneu.2020. Nouse,distributionorreproductionispermittedwhichdoesnotcomplywiththese
+06.104 terms.
+FrontiersinSurgery|www.frontiersin.org 5 October2020|Volume7|Article573398
