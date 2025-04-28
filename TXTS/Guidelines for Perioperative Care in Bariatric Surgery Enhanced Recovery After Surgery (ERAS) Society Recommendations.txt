@@ -1,0 +1,1211 @@
+World J Surg (2016) 40:2065–2083
+DOI 10.1007/s00268-016-3492-3
+
+ SCIENTIFIC REVIEW
+
+Guidelines for Perioperative Care in Bariatric Surgery: Enhanced
+Recovery After Surgery (ERAS) Society Recommendations
+
+         1                   2,3         4,5           4           6
+A. Thorell • A. D. MacCormick   • S. Awad  • N. Reynolds • D. Roulin •
+             6             7           8            9            10
+N. Demartines  • M. Vignaud • A. Alvarez • P. M. Singh • D. N. Lobo
+
+
+Published online: 4 March 2016
+Ó Socie´te´ Internationale de Chirurgie 2016
+
+
+   Abstract
+   Background  During the last two decades, an increasing number of bariatric surgical procedures have been per-
+   formed worldwide. There is no consensus regarding optimal perioperative care in bariatric surgery. This review aims
+   to present such a consensus and to provide graded recommendations for elements in an evidence-based ‘‘enhanced’’
+   perioperative protocol.
+   Methods  The English-language literature between January 1966 and January 2015 was searched, with particular
+   attention paid to meta-analyses, randomised controlled trials and large prospective cohort studies. Selected studies
+   were examined, reviewed and graded. After critical appraisal of these studies, the group of authors reached a
+   consensus recommendation.
+   Results Although for some elements, recommendations are extrapolated from non-bariatric settings (mainly col-
+   orectal), most recommendations are based on good-quality trials or meta-analyses of good-quality trials.
+   Conclusions A comprehensive evidence-based consensus was reached and is presented in this review by the
+   enhanced recovery after surgery (ERAS) Society. The guidelines were endorsed by the International Association for
+   Surgical Metabolism and Nutrition (IASMEN) and based on the evidence available in the literature for each of the
+   elements of the multimodal perioperative care pathway for patients undergoing bariatric surgery.
+
+
+&  A. Thorell
+                                                     6  Department of Visceral Surgery, University Hospital CHUV,
+   anders.thorell@erstadiakoni.se
+                                                        Lausanne, Switzerland
+1  Karolinska Institutet, Department of Clinical Sciences, 7 De´partement d’anesthe´sie reanimation Service de chirurgie
+   Danderyds Hospital & Department of Surgery, Ersta    digestive, CHU estaing 1, place Lucie et Raymond Aubrac,
+   Hospital, 116 91 Stockholm, Sweden                   Clermont Ferrand, France
+2  Department of Surgery, University of Auckland, Auckland, 8 Department of Anesthesia, Hospital Italiano de Buenos Aires,
+   New Zealand                                          Buenos Aires University, 1179 Buenos Aires, Argentina
+3  Department of Surgery, Counties Manukau Health,   9  Department of Anesthesia, All India Institute of Medical
+   Auckland, New Zealand                                Sciences, New Delhi 110029, India
+4  The East-Midlands Bariatric & Metabolic Institute, Derby 10 Gastrointestinal Surgery, National Institute for Health
+   Teaching Hospitals NHS Foundation Trust, Royal Derby Research Nottingham Digestive Diseases Biomedical
+   Hospital, Derby DE22 3NE, UK                         Research Unit, Nottingham University Hospitals and
+                                                        University of Nottingham, Queen’s Medical Centre,
+5  School of Clinical Sciences, University of Nottingham,
+                                                        Nottingham NG7 2UH, UK
+   Nottingham NG7 2UH, UK
+
+                                                                                               123
+
+
+2066                                                                         World J Surg (2016) 40:2065–2083
+
+Introduction                                         gastrectomy’’, ‘‘fast track’’ and ‘‘enhanced recovery’’.
+                                                     Reference lists of all eligible articles were checked for
+Bariatric surgery is the most effective treatment for other relevant studies.
+morbid obesity, resulting in sustained weight loss as well
+as pronounced effects on obesity-related comorbidities. Study selection
+The   number  of  procedures  performed  worldwide
+increased from 146,000 to 340,000 between 2003 and   Titles and abstracts were screened by individual authors to
+2011, with Roux-en-Y  gastric bypass and sleeve gas- identify potentially relevant articles. Discrepancies in
+trectomy accounting for approximately 75 % of all pro- judgment were resolved by the ﬁrst and senior authors and
+cedures [1]. In the 2013  Scandinavian Registry for  through correspondence within the writing group. Particu-
+Obesity Surgery (SOReg) annual report which included lar emphasis was placed on recent publications of good
+[8000   procedures ‘‘any complication’’ and ‘‘severe quality (moderate- and high-quality RCTs and large high-
+complication’’ (Clavien grade [3a) [2] within 30 days quality cohort studies as well as systematic reviews and
+were reported to be 7 and 3 %, respectively [3]. Similar meta-analyses) which were considered for each topic.
+ﬁgures were reported from the United Kingdom in 2014 Retrospective series were included if data of better quality
+[4].                                                 were lacking. Conference proceedings were excluded.
+  Enhanced recovery after surgery (ERAS) pathways
+involve a series of perioperative evidence-based interven- Quality assessment and data analysis
+tions that were developed initially for elective colorectal
+surgery [5]. ERAS pathways aim to maintain physiological The methodological quality of the studies was assessed
+function, enhance mobilisation, reduce pain and facilitate using the Delphi checklist [12]. The strength of evidence
+early oral nutrition postoperatively by reducing periopera- and conclusions were assessed and agreed by all authors.
+tive surgical stress. The adoption of ERAS pathways has Quality of evidence and recommendations were evaluated
+resulted in improved outcome in terms of reduced mor- according to the Grading of Recommendations, Assess-
+bidity, faster recovery and reduced length of hospital stay ment, Development and Evaluation (GRADE) system [13].
+in dedicated centres [6–11]. Although several of the indi- Quoting from the GRADE guidelines, the recommenda-
+vidual ERAS components have been introduced in the   tions are given as follows: ‘‘Strong recommendations
+setting of bariatric surgery, there are few reports in the indicate that the panel is conﬁdent that the desirable effects
+literature on the effects resulting from adoption of com- of adherence to a recommendation outweigh the undesir-
+plete ERAS pathways.                                 able effects’’. ‘‘Weak recommendations indicate that the
+  This article represents an initiative by the ERAS Society desirable effects of adherence to a recommendation prob-
+(www.erassociety.org) to present a consensus review of ably outweigh the undesirable effects, but the panel is less
+optimal perioperative care for bariatric surgery based on conﬁdent’’. Recommendations are based not only on
+best evidence available currently. The guidelines were quality of evidence (‘‘high’’, ‘‘moderate’’, ‘‘low’’ and ‘‘very
+endorsed by the International Association for Surgical low’’) but also on the balance between desirable and
+Metabolism and Nutrition (IASMEN;  www.iasmen.org)   undesirable effects and on values and preferences [13]. The
+after review of the ﬁnal version of the manuscript.  latter implies that, in some cases, strong recommendations
+                                                     may be reached from low-quality data and vice versa.
+
+Methods                                              Results: evidence base and recommendations
+
+Literature search                                    The recommendations, evidence and grade of recommen-
+                                                     dation are summarised in Table 1.
+The authors corresponded by email during the fall of 2013
+and the various topics for inclusion were agreed and allo- Preoperative interventions
+cated. The literature search utilised the Medline, Embase
+and Cochrane databases to identify relevant contributions Preoperative information, education and counselling
+published between January  1966 and  January 2015.
+Medical Subject Heading (MeSH) terms were used, as   There is little evidence available on the impact of infor-
+were accompanying entry terms for the patient group, mation, education or counselling prior to bariatric surgery.
+interventions and  outcomes. Key   words   included  Preoperative information and/or a visit to the ward has
+‘‘obesity’’, ‘‘obese’’, ‘‘bariatric’’, ‘‘gastric bypass’’, ‘‘sleeve been shown to reduce anxiety and improve compliance
+123
+
+
+World J Surg (2016) 40:2065–2083                                                                                 2067
+
+Table 1 ERAS recommendations for (a) preoperative, (b) intraoperative and (c) postoperative care in bariatric surgery
+Element             Recommendation                                     Level of evidence       Recommendation grade
+
+(a)
+Preoperative        Patients should receive preoperative counselling   Moderate                Strong
+  information,
+  education and
+  counselling
+Prehabilitation and Although prehabilitation may improve functional recovery, Low              Weak
+  exercise            there are insufﬁcient data in the literature to recommend
+                      prehabilitation before bariatric surgery for the reduction
+                      of complications or length of stay
+Smoking and alcohol Tobacco smoking should be stopped at least 4 weeks before Smoking: High    Strong
+  cessation           surgery. For patients with a history of alcohol abuse, Alcohol: Low (only one
+                      abstinence should be strictly adhered to for at least high-quality RCT)
+                      2 years. Moreover, the risk of relapse (or new onset in
+                      patients without earlier abuse) after gastric bypass should
+                      be acknowledged
+Preoperative weight Preoperative weight loss should be recommended prior to Postoperative      Strong
+  loss                bariatric surgery Patients on glucose-lowering drugs complications: High
+                      should be aware of the risk of hypoglycaemia     Postoperative weight loss:
+                                                                         Low (inconsistency, low
+                                                                         quality)
+Glucocorticoids     Eight mg dexamethasone should be administered i.v., Low (no RCTs in bariatric Strong
+                      preferably 90 min prior to induction of anaesthesia for surgery)
+                      reduction of PONV as well as inﬂammatory response
+Preoperative fasting Obese patients may have clear ﬂuids up to 2 h and solids up Non-diabetic obese Strong
+                      to 6 h prior to induction of anaesthesia. Further data are patients: High
+                      necessary in diabetic patients with autonomic neuropathy Diabetic patients without Weak
+                      due to potential risk of aspiration                Autonomic neuropathy:
+                                                                         Moderate
+                                                                       Diabetic patients with  Weak
+                                                                         autonomic neuropathy:
+                                                                         Low
+Carbohydrate loading While preoperative oral carbohydrate conditioning in Shortened preoperative Strong
+                      patients undergoing major abdominal elective surgery has fasting (Non-diabetic
+                      been associated with metabolic and clinical beneﬁts, obese patients): Low
+                      further data are required in morbidly obese patients. Diabetic patients without
+                      Similarly, further data are needed on preoperative autonomic neuropathy:
+                      carbohydrate conditioning in patients with gastro- Moderate
+                      oesophageal reﬂux who may be at increased risk of
+                                                                       Diabetic patients with
+                      aspiration during anaesthetic induction
+                                                                         autonomic neuropathy:
+                                                                         Low
+                                                                       Preoperative
+                                                                         carbohydrate loading in
+                                                                         obese patients: Low
+(b)
+Perioperative ﬂuid  Excessive intraoperative ﬂuids are not needed to prevent Maintenance as opposed Maintenance ﬂuid
+  management          rhabdomyolysis and maintain urine output. Functional to liberal ﬂuid       regimens: Strong
+                      parameters, such as stroke volume variation facilitate regimens: Moderate
+                      goal-directed ﬂuid therapy and avoid intraoperative Reduce stress response:
+                      hypotension and excessive ﬂuid administration.     Moderate
+                      Postoperative ﬂuid infusions should be discontinued as
+                                                                       Open surgery: High
+                      soon as practicable with preference given to use of the
+                      enteral route                                    Laparoscopic surgery:
+                                                                         Moderate
+PONV                A multimodal approach to PONV prophylaxis should be Low                    Strong
+                      adopted in all patients
+
+
+                                                                                                            123
+
+
+2068                                                                                    World J Surg (2016) 40:2065–2083
+
+Table 1 continued
+Element             Recommendation                                     Level of evidence       Recommendation grade
+
+Standardised        The current evidence does not allow recommendation of Low                  Weak
+  anaesthetic         speciﬁc anaesthetic agents or techniques
+  protocol
+Airway management   Anaesthetists should be aware of the speciﬁc difﬁculties in Moderate       Strong
+                      managing bariatric airway
+                    Tracheal intubation remains the reference for airway Moderate              Strong
+                      management
+Ventilation strategies Lung protective ventilation should be adopted for elective Moderate     Strong
+                      bariatric surgery
+                    Patient positioning in an anti-Trendelenburg, ﬂexed hip, Low               Weak
+                      anti- or beach chair positioning, particularly in the
+                      absence of pneumoperitoneum improves pulmonary
+                      mechanics and gas exchange
+Neuromuscular block Deep neuromuscular block improves surgical performance Low                 Weak
+                    Ensuring full reversal of neuromuscular blockade improves Moderate         Strong
+                      patient recovery
+                    Objective qualitative monitoring of neuromuscular blockade Moderate        Strong
+                      improves patient recovery
+Monitoring of       BIS monitoring of anaesthetic depth should be considered High              Strong
+  anaesthetic depth   where ETAG monitoring is not employed
+Laparoscopy         Laparoscopic surgery for bariatric surgery is recommended High             Strong
+                      whenever expertise is available
+Nasogastric tube    Routine use of nasogastric tube is not recommended Low                     Strong
+                      postoperatively
+Abdominal drainage  There is insufﬁcient evidence to recommend routine use of Low              Weak
+                      abdominal drainage
+(c)
+Postoperative       Multimodal systemic medication and local anaesthetic Multimodal intravenous Multimodal intravenous
+  analgesia           inﬁltration techniques should be combined. Thoracic medication, local      medication, local
+                      epidural analgesia should be considered in laparotomy anaesthetic inﬁltration: anaesthetic inﬁltration:
+                                                                         High                    Strong
+                                                                       Epidural analgesia: Very Epidural analgesia: Weak
+                                                                         low
+Thromboprophylaxis  Thromboprophylaxis should involve mechanical and   Mechanical measures in  Strong
+                      pharmacological measures with LMWH. Dosage and     combination with
+                      duration of treatment should be individualised     LMWH:  High
+                                                                       Dosage of LMWH: Low     Weak
+Early postoperative Protein intake should be monitored. Iron, vitamin B12 and Nutritional      Strong
+  nutrition           calcium supplementation is mandatory               supplementation:
+                    Postoperative glycaemic and lipid control has to be strict in Moderate
+                     patients with diabetes                            Glycaemic control: High Strong
+Postoperative       Obese patients without OSA, should be supplemented with Prophylactic oxygen Strong
+  oxygenation         oxygen prophylactically in head-elevated or semi-sitting supplementation: Low
+                      position in the immediate postoperative period     (only retrospective data)
+                                                                       Positioning in the      Strong
+                                                                         postoperative period:
+                                                                         High
+                    Uncomplicated patients with OSA should receive oxygen High (14 RCTs and 1  Strong
+                      supplementation in a semi-sitting position. Monitoring for meta-analysis)
+                      possible increasing frequency of apnoeic episodes should
+                      be diligent. A low threshold for initiation of positive
+                      pressure support must be maintained in the presence of
+                      signs of respiratory distress
+
+
+123
+
+
+World J Surg (2016) 40:2065–2083                                                                   2069
+
+Table 1 continued
+Element           Recommendation                               Level of evidence   Recommendation grade
+
+Non-invasive positive Prophylactic routine postoperative CPAP is not Moderate (only Avoiding routine use of
+  pressure ventilation recommended in obese patients without diagnosed OSA retrospective data) CPAP: Weak
+                  CPAP therapy should be considered in patients with BMI Low       Strong
+                   [50 kg/m2, severe OSA or oxygen saturation B90 % on
+                   oxygen supplementation
+                  Obese patients with OSA on home CPAP therapy should use Moderate (Only Strong
+                   their equipment in the immediate postoperative period retrospective data)
+                  Patients with Obesity Hypoventilation Syndrome (OHS) Low (Only retrospective Strong
+                   should receive postoperative BiPAP/NIV prophylactically data)
+                   along with intensive care level monitoring
+
+with postoperative instructions, postoperative recovery, completed prehabilitation prior to colectomy but whose
+length of stay and long-term outcomes [14–20]. A preop- ﬁtness still deteriorated were more likely to suffer com-
+erative psychological intervention has also been shown to plications requiring reoperation or intensive care. A further
+reduce fatigue and stress and improve wound healing  RCT incorporated ‘trimodal prehabilitation’ which inclu-
+postoperatively [21, 22]. Two systematic reviews of patient ded nutritional counselling with protein supplementation,
+education [23, 24] evaluated outcomes including biophys- anxiety reduction and a moderate exercise program [34]
+ical, functional, experiential, cognitive, social, ethical and showed no difference in complication rates or length of
+ﬁnancial parameters. They identiﬁed variable impact of stay but better functional recovery at 4 and 8 weeks.
+education on outcome but positive results were in a     Despite prehabilitation being attractive and logical,
+minority. A subsequent RCT of preoperative education in there is sparse evidence linking improvement of physio-
+knee arthroplasty has shown a reduction in length of stay logical function with preoperative exercise and decreased
+[25]. Speciﬁc guidelines have recommended preoperative postoperative complications.
+information [26–28].
+                                                     Smoking and alcohol cessation
+Prehabilitation and exercise
+                                                     In many centres, as well as in most guidelines, drug or
+Prehabilitation comprises preoperative physical condition- alcohol abuse during the preceding 2 years is considered
+ing to improve functional and physiological capacity to contraindications for bariatric surgery [35].
+enable patients to recover sooner after surgical stress [29, Tobacco smoking is associated with increased risk of
+30]. Improved preoperative physiological status results in postoperative morbidity and mortality [36], attributed
+an improved postoperative physiological status and faster mainly to reduced tissue oxygenation (and consequent
+recovery, decreased postoperative complications and  wound infections) [37], pulmonary complications [38] and
+length of stay.                                      thromboembolism  [38]. Several controlled trials have
+  A systematic review evaluated the effects of preopera- demonstrated that cessation of smoking is associated with
+tive exercise therapy on postoperative complications and marked reductions in postoperative complications [39–42].
+length of stay in surgery of all types [31]. In patients The duration of smoking cessation seems to be equally
+undergoing cardiac and abdominal surgery, meta-analysis important, with a systematic review and meta-analysis
+indicated that prehabilitation led to reduced complication reporting that the treatment effect was signiﬁcantly larger
+rates and length of stay. The applicability of these studies in trials with smoking cessation of at least 4 weeks [36].
+to patients undergoing bariatric surgery is questionable. Although not studied speciﬁcally in patients undergoing
+  A  more recent systematic review looked at 8 RCTs  bariatric surgery, there are no data to suggest that either the
+investigating the effect of preoperative exercise on car- increased risk associated with smoking or the effect of
+diorespiratory function and recovery after multiple types of smoking cessation should be different in this category of
+surgery [32] and concluded that there was limited evidence patients.
+demonstrating physiological improvement with prehabili- Hazardous drinking, deﬁned as intake of three alcohol
+tation. In addition, there was little correlation between equivalents (12 g ethanol each) or more per day, has long
+improvement in physiological status and clinical outcomes. been identiﬁed as a risk factor for postoperative compli-
+  A reanalysis [33] of the data from an original RCT of cations [43–45]. A large retrospective study comprising
+two  prehabilitation methods showed that those who   [300 000 patients undergoing elective surgery (including
+
+                                                                                               123
+
+
+2070                                                                         World J Surg (2016) 40:2065–2083
+
+bariatric surgery) reported that consumption of [2 alcohol a recent systematic review and meta-analysis [59]of11
+equivalents/day within 2 weeks of surgery was an inde- RCTs of moderate quality addressing the effect of gluco-
+pendent predictor of pneumonia, sepsis, wound infection/ corticoids on postoperative outcome, they were found to
+disruption and length of hospital stay [44]. Alcohol absti- decrease complication rates and LOS. No effect was found
+nence for one month has been associated with better out- for overall complications or anastomotic leakage in col-
+come after colorectal surgery [46]. ERAS guidelines for orectal surgery [59]. A minimum dose of 2.5–5 mg dex-
+colonic surgery, therefore, recommend alcohol cessation amethasone given 90 min prior to induction of anaesthesia
+4 weeks prior to surgery. However, due to the need for is necessary to achieve the effect on PONV [60–62].
+behavioural changes associated with bariatric surgery in Data from studies including patients undergoing bar-
+combination with the increased risk of alcohol dependence iatric surgery are relatively sparse. In one retrospective
+after gastric bypass surgery [47], 1–2 years of alcohol analysis of 2000 consecutive patients undergoing outpa-
+abstinence is usually considered mandatory in patients with tient laparoscopic gastric bypass, a steroid bolus was
+earlier overconsumption. The evidence for this recom- identiﬁed as a predictor of successful discharge within 24 h
+mendation is, however, still to be established.      [63].
+                                                        In two meta-analyses, no adverse effects were identiﬁed
+Preoperative weight loss                             with the use of a single dose of glucocorticoids [59, 64]. As
+                                                     glucocorticoids can cause hyperglycaemia, which is asso-
+A preoperative low-calorie diet (LCD, 1000–1200 kcal/d) ciated with increased postoperative, especially infective,
+or very low-calorie diet (VLCD approx. 800 kcal/d) for complications [65], blood glucose should be monitored
+2-4 weeks is usually recommended in bariatric centres. intra- and postoperatively in patients undergoing bariatric
+This has been shown to reduce liver volume by 16–20 % surgery, particularly if glucocorticoids are administered.
+[48, 49] and the surgeon’s perceived complexity of the
+procedure [50]. In a systematic review of 11 non-ran- Preoperative fasting
+domised studies, preoperative weight loss was associated
+with  a   reduction in  postoperative complications  Recent studies have demonstrated no differences in resid-
+(18.8 ± 10.6 vs. 21.4 ± 13.1 %, p = 0.02) [51]. This ual gastric ﬂuid volume (RGFV), pH [66, 67] or gastric
+ﬁnding was also conﬁrmed in a multicentre RCT (5.8 vs. emptying rates following semi-solid meals [68, 69]or
+13.2 %, p = 0.04) [50] as well as in a study comprising drinks [70] in obese and lean patients. No differences were
+over 22,000 patients from the Scandinavian Obesity Reg- found in RGFV and pH in a randomised study of morbidly
+istry [52]. There are no data from studies evaluating dif- obese patients who drank 300 ml of clear ﬂuid 2 h before
+ferences between patients with or without diabetes in terms induction of anaesthesia, compared with those who fasted
+of effect of preoperative weight loss on postoperative from midnight [71, 72]. RGFV and pH were also similar
+complications.                                       following an overnight fast in obese diabetic patients (with
+  Recent systematic reviews reported mandatory weight and without autonomic neuropathy) and non-diabetic con-
+loss prior to surgery to be the only factor associated posi- trols [72–74]. Presently, anaesthesia societies recommend
+tively with postoperative weight loss [51, 53]. In a recent intake of clear ﬂuids up to 2 h and solids 6 h before
+registry study including [9000  patients undergoing  induction of anaesthesia in healthy [75, 76] and obese [76]
+laparoscopic gastric bypass, preoperative weight reduction patients.
+was associated with improved weight loss after 2 years.
+Moreover, this effect was more pronounced in patients with Carbohydrate loading
+high BMI ([45.7 kg/m2)[54].
+  In patients with type 2 diabetes on glucose-lowering Preoperative carbohydrate conditioning, using iso-osmolar
+drugs, low-caloric intake in combination with unchanged drinks ingested 2–3 h before induction of anaesthesia,
+medication may induce hypoglycaemia. Evidence-based  attenuated development of postoperative insulin resistance,
+guidelines for these situations are lacking, but some rec- reduced postoperative nitrogen and protein losses and
+ommendations are available [55].                     maintained lean body mass [77]. Recent meta-analyses [78,
+                                                     79] demonstrated preoperative conditioning using carbo-
+Glucocorticoids                                      hydrate drinks to be associated with signiﬁcant reduction in
+                                                     length of hospital stay by about 1 day in patients under-
+Glucocorticoids have anti-inﬂammatory properties and going major abdominal surgery. When ‘preoperative’ car-
+have therefore been used in elective surgery to reduce the bohydrate conditioning drinks were administered to
+stress response [56, 57]. They have also been used to patients with type II diabetes (mean BMI 28.6 kg/m2), no
+reduce postoperative nausea and vomiting (PONV) [58]. In differences were noted in gastric emptying times compared
+123
+
+
+World J Surg (2016) 40:2065–2083                                                                   2071
+
+with healthy subjects [80]. However, postprandial glucose management paradigms are based on studies of liberal
+concentrations reached a higher peak and were elevated for versus restrictive strategies in non-obese patients whereby
+longer in patients with diabetes, returning to baseline after ﬂuid excess or ‘imbalance’ resulted in worsened outcomes
+180 min  [80]. In addition, preoperative carbohydrate than maintaining ‘ﬂuid balance’ [88, 89]. In morbidly
+ingestion did not lead to an increase in aspiration-related obese patients, data from non-randomised studies [90–93]
+complications in patients undergoing laparoscopic gastric support ‘liberal’ ﬂuid regimens which were associated with
+bypass [81]. Two further studies have used these drinks in reduced occurrence of RML (up to 4–5 L crystalloid during
+bariatric surgery within an enhanced recovery pathway [82, a 2–3 h operation [90]), reduced postoperative nausea and
+83]. In the only randomised study comparing enhanced vomiting (25 ml/kg which in this study equated to a mean
+recovery versus standard care in bariatric patients (la- ±SD 3209 ± 1123 versus 2737 ± 828 ml administered
+paroscopic sleeve gastrectomy), no differences in overall intraoperatively) [92], postoperative ARF (4-5L crystalloid
+complications were noted between the groups [82]. How- for a 2 h operation [93]) and shortened hospital stay (7 ml/
+ever, it was of note that compliance with preoperative kg/h which in this study equated to[1750 ml administered
+carbohydrate conditioning was only 15 % in the enhanced intraoperatively) [94]. In more conservative intraoperative
+recovery group [82].                                 ﬂuid regimens (15 ml/kg), there were no differences in
+                                                     postoperative RML following laparoscopic bariatric sur-
+Intraoperative interventions                         gery compared to more liberal strategies (40 ml/kg) [95].
+                                                     No differences in intraoperative urine output were noted
+Perioperative ﬂuid management                        when morbidly obese patients were randomised to intra-
+                                                     operative low (4 ml/kg/h) vs high (10 ml/kg/h) volumes of
+Perioperative ﬂuid management and accurate assessment of Ringer’s lactate [96]. Functional parameters, such as stroke
+volume status in morbidly obese patients are a challenge. volume variation (SVV)-guided intraoperative ﬂuid ther-
+Reasons for this include physiological differences, the apy, enabled maintenance of haemodynamic parameters
+presence of multiple comorbidities (and associated poly- with lower infusion volumes in patients undergoing
+pharmacy), inaccuracies associated with use of non-inva- laparoscopic bariatric surgery [97]. The enteral route for
+sive monitoring and higher incidence of rhabdomyolysis ﬂuid and nutrition should be used preferentially and
+(RML) postoperatively [84]. Additionally, liver-shrinking numerous bariatric series have demonstrated that this is
+diets, employed for 2–3 weeks preoperatively, may result possible on the ﬁrst postoperative day [63, 98].
+in acute nutritional, electrolyte and ﬂuid deﬁcits [85].
+While total blood volume is increased in obese patients, Anaesthesia
+obese have a reduced blood volume on a volume/weight
+basis compared with non-obese patients (50 ml/kg com- In this section, information is focused on details of par-
+pared with 75 ml/kg) [86].                           ticular relevance in the bariatric setting. For general
+  In bariatric surgery, RML rates of 5–77 % were reported anaesthetic considerations in gastrointestinal surgery
+(deﬁned by elevation of serum creatine kinase (CK) of within an ERAS pathway, see Ref. [99].
+C1000 IU/L) (although 65 % of these procedures were
+performed by laparotomy) [84]. Of those with RML, the Postoperative nausea and vomiting prophylaxis Bariatric
+overall incidence of renal failure was 14 % and mortality patients are frequently \50 years of age, female and non-
+3 %. Risk factors for RML identiﬁed in a meta-analysis smokers undergoing laparoscopic procedures of more than
+were male sex, BMI [52 kg/m2 and operation time [4h  one hour in duration, and receive postoperative opioid
+[84]. Overall, postoperative Acute Renal Failure (ARF, analgesia, all of which are risk factors for PONV [100].
+deﬁned by the study authors [87] as a rise in serum crea- Additionally, a history of PONV or motion sickness, as
+tinine [1.4 mg/dL ([124 lmol/l) at any time during the well as the use of volatile anaesthetic increases the risk of
+inpatient stay, with an increase of serum creatinine of PONV [100].
+[0.3 mg/dL ([26 lmol/l) from the baseline value during  Recent guidelines for the management of PONV rec-
+the ﬁrst postoperative week) has been reported in 2 % of ommend a multimodal approach by reducing the baseline
+patients undergoing laparoscopic bariatric surgery [87]. risk with the use of antiemetics according to patient risk
+Occurrence of intraoperative hypotension was amongst factors [101]. Recommended strategies include Propofol
+nine predisposing risk factors identiﬁed on multivariate for induction and maintenance of anaesthesia, avoidance of
+analysis. Presence of preoperative renal insufﬁciency volatile anaesthetics, minimisation of intra- and postoper-
+placed patients at greatest risk for postoperative ARF [87]. ative opioids and avoidance of ﬂuid overload [101]. A
+  Few data from RCTs allow guiding perioperative ﬂuid recent RCT comparing opioid-free TIVA with volatile-
+therapy in  morbidly  obese  patients. Present ﬂuid  opioid  anaesthesia in bariatric surgery, reported a
+                                                                                               123
+
+
+2072                                                                         World J Surg (2016) 40:2065–2083
+
+signiﬁcantly lower rate and severity of PONV in the opi- between volume control and pressure control modes of
+oid-free TIVA group [102]. In addition to this baseline risk mandatory ventilation [119]. Concurrent use of positive
+reduction, the recommended antiemetics for PONV pro- end expiratory pressure (PEEP) and recruitment improved
+phylaxis are 5-hydroxytryptamine receptor antagonists, intraoperative oxygenation and pulmonary mechanics. In a
+corticosteroids, butyrophenones, neurokinin-1 receptor wider surgical population, adoption of the other elements
+antagonists, antihistamines and anticholinergics. The use of of lung protective ventilation (LPV) was associated with
+a combination of antiemetics in bariatric surgery is sup- signiﬁcant reduction in postoperative complications [120].
+ported by a randomised trial demonstrating the superiority Patient positioning affects pulmonary function peri-
+of triple combination of haloperidol, dexamethasone and operatively [121]. The ‘‘beach chair’’ and ‘‘leg ﬂexion
+ondansetron over a single or double combination in   position’’ have been demonstrated to be superior to
+laparoscopic sleeve gastrectomy [103].               straight, supine position regardless of Trendelenburg
+                                                     angle. These pulmonary effects are most marked in the
+Anaesthetic maintenance Various volatile agents have absence of the intraoperative pneumoperitoneum [122].
+been compared in the bariatric population. The results are However, they may have negative inﬂuence on surgical
+inconsistent, but in general favour the use of shorter acting, access with consequent need of increased insufﬂation
+lower absorption agents that may offer small advantages in pressures [123].
+emergence and functional recovery times [104–107].
+  No   prospective comparisons of intravenous versus Neuromuscular blockade  Deep Block: Higher pressure
+volatile anaesthetic technique were identiﬁed in bariatric pneumoperitoneum, to facilitate laparoscopic surgery, can
+surgery. A consistent ﬁnding is that early PONV is   have  deleterious cardiovascular effects and increased
+increased with volatile agents compared to Propofol target depth of neuromuscular blockade may improve surgical
+controlled infusion. This effect is particularly marked in conditions, without the need to increase insufﬂation
+patients at high risk of PONV [108].                 pressure.
+  Utilisation of short-acting agents and opioid minimisation Data from small trials in non-bariatric surgery suggest
+within a wider ERAS regimen appears to reduce costs, com- that deep blockade may facilitate manoeuvrability during
+plication rates and length of stay in other specialities [28]. The laparoscopic procedures [124, 125]. Although this may be
+current evidence does not allow recommendation of speciﬁc extrapolated to bariatric procedures, results from prospec-
+anaesthetic agents or techniques in bariatric surgery. tive trials have yet to be reported [126].
+                                                        Residual Blockade: The effect of the extent of residual
+Airway management   The airway of bariatric patients can depth of neuromuscular blockade in the recovery period
+present speciﬁc challenges. Bag and mask ventilation has has been studied extensively [127–129], although not
+been demonstrated to be difﬁcult in up to 15 % of patients speciﬁc in bariatric surgery. However, many of the physi-
+with higher BMI [109, 110].                          ological ﬁndings may have increased relevance to the
+  Endotracheal intubation remains the reference standard bariatric population, e.g. diminished airway/pharyngeal
+in obese patients. Correct sizing of endotracheal tube may tone, airway diameter, dysfunctional swallow and aspira-
+have impact on micro-aspiration and postoperative com- tion defenses.
+plications. Little literature currently exists to recommend There is evidence to suggest that a nerve-stimulated
+routine adoption of supraglottic devices [111].      train of four (TOF) ratio of 0.9 translates into recovery
+  A Cochrane review was unable to differentiate between beneﬁts [130, 131]. Trials in different healthcare settings
+the efﬁcacy of direct and indirect ﬁbre-optic mechanisms have shown an association between residual blockade and
+of tracheal tube placement [112]. However, adoption of a post anaesthesia care unit (PACU) pulmonary complica-
+speciﬁc ramped position for direct laryngoscopy in the tions [132, 133]. Reductions in PACU discharge time
+population with high BMI can reduce the incidence of associated with TOF ratio [0.9 have been demonstrated
+difﬁculty [113].                                     [134]. A higher level of neuromuscular function was also
+                                                     associated with patient perceived satisfaction with the
+Ventilation strategies The effects of intraoperative inter- quality of recovery [135].
+mittent positive pressure ventilation (IPPV) regimens on An early systematic review comparing recovery of
+physiological variables are reported in bariatric patients neuromuscular function with acetylcholine esterase inhi-
+[114–118]. Currently, the translation of these data into bition versus selective cyclodextrin binding (sugammadex)
+effects on postoperative pulmonary complications and out- suggested an equivalent side effect proﬁle [136]. The use of
+comes is lacking for the bariatric population.       binding agents is supported in bariatric surgery [137–140]
+  A 2012 systematic review and meta-analysis on venti- where predictability of complete neuromuscular recovery
+lation in bariatric patients did not identify any beneﬁt within short time is important.
+123
+
+
+World J Surg (2016) 40:2065–2083                                                                   2073
+
+Laparoscopy                                          postoperative leakage varied between 0 and 94 %, and the
+                                                     efﬁcacy of drainage for the non-operative treatment of leakage
+Laparoscopic bariatric surgery has rapidly superseded open was between 12.5 and 100 % [152]. Only one study reported
+surgery [141]. Three RCTs including  more than  50   data about non-operative treatment of leakage without drai-
+patients, compared open with laparoscopic gastric bypass nage, which was pursued in one out of three patients [153].
+[142–144]. The main ﬁndings were signiﬁcantly shorter However, there are no RCTs evaluating the role and efﬁcacy
+hospital stay [142–144] as well as reduced rate of inci- of prophylactic abdominal drainage following bariatric sur-
+sional hernia [142, 143] favouring laparoscopy. Further gery. A recent retrospective study on laparoscopic Roux-en-Y
+beneﬁcial effects like reduction in intraoperative blood loss gastric bypass compared an historical group of 272 patients
+[143], diminution of postoperative pain [144] and earlier with routine drain and 483 without [153]. The leakage and
+recovery [143] were also shown. None of these studies reoperation rates were similar.
+found any difference in terms of weight loss. However, due In one RCT including both subtotal and total gastrec-
+to  decreased  postoperative adhesions, laparoscopic tomy with D2 lymph node dissection for gastric cancer,
+approach may be associated with increased rates of internal there was no signiﬁcant difference between the groups with
+herniation [145, 146].                               or without drainage in the incidence of intra-abdominal
+  Higher costs of laparoscopic surgery are compensated abscess, wound infection or pneumonia [154].
+for by fewer postoperative complications and shorter hos- Despite lack of evidence in bariatric surgery, systematic
+pitalisation time [147]. The use of robotic surgery has also use of abdominal drainage might be unnecessary, as
+been described in bariatric surgery. A recently published demonstrated in other various types of gastrointestinal
+systematic review included results from 2 557 patients surgery [155].
+found similar overall major and minor complications
+between robotic and laparoscopic groups, but the costs for Postoperative interventions
+robotic gastric bypass were higher [148].
+                                                     Postoperative analgesia
+Nasogastric tube
+                                                     Respiratory function is compromised after bariatric sur-
+A  Cochrane meta-analysis concluded that routine naso- gery: obesity induces severe restrictive syndrome and lying
+gastric intubation following open abdominal surgery  ﬂat can induce atelectasis. Sedative drugs used during and
+should be abandoned in favour of selective use [149]. A after anaesthesia promote obstruction of the upper airways
+subgroup analysis of 9 RCTs including 1085 patients that which might induce postoperative hypoxaemia [156]. Thus,
+underwent gastro-duodenal surgery found increased pul- postoperative analgesia in bariatric surgery is based on two
+monary complication associated with routine use of post- strategies.
+operative nasogastric tube.
+  The role of nasogastric tubes in bariatric surgery was Multimodal systemic analgesia Multimodal pain man-
+speciﬁcally addressed in a retrospective cohort study of agement strategies should be used when possible to reduce
+1067 gastric bypass patients [150]. There was no difference the consumption of narcotics [157]. Non-opioid analgesics,
+in complication rates between patients with or without such as intravenous acetaminophen (paracetamol) and non-
+postoperative nasogastric tube. In a meta-analysis of steroidal anti-inﬂammatory drugs (NSAIDs) should be
+patients with gastrectomy for gastric cancer, time to oral used systematically [158]. Dosage should be adapted
+diet was signiﬁcantly shorter in patients without nasogas- according to ideal body weight [157]. Other drugs, like
+tric/jejunal decompression [151]. The rate of anastomotic pregabalin, have been studied but evidence for its efﬁcacy
+leakage and the number of pulmonary complications were is still awaited [159]. Current results on the use of
+similar.                                             dexmedetomidine do not allow recommending its routine
+  As routine postoperative nasogastric intubation has not use [160]. If opioids become necessary, patient-controlled
+been proven to protect against complications like leakage, analgesia with increased refractory period between boluses
+and even increases pulmonary infection risk and time to rather than continuous infusion is recommended, in par-
+recovery, nasogastric tubes placed during surgery should ticular for patients with obstructive sleep apnoea (OSA)
+be removed before reversal of anaesthesia.           [161]. For opioids, the enteral route should be used as early
+                                                     as possible. Surveillance must continue in the postoperative
+Abdominal drainage                                   phase [162].
+
+In a systematic review on the role of drainage after Roux-en-Y Nerve block and inﬁltration Wound inﬁltration with local
+gastric bypass, the sensitivity of drainage in detecting anaesthetics has been used with success in laparoscopic
+                                                                                               123
+
+
+2074                                                                         World J Surg (2016) 40:2065–2083
+
+surgery, particularly in cholecystectomy, colorectal and However, LMWH   has a number of advantages over
+gynaecological surgery, but there are no speciﬁc studies in UFH, including a more predictable dose response,
+bariatric surgery [163]. RCTs and meta-analyses have increased bioavailability and longer plasma half-life after
+demonstrated the safety of local anaesthetic aerosolisation subcutaneous injection, allowing once-daily dosing.
+techniques in laparoscopic surgery [164]. It may be com- LMWH also reduces the risk of heparin-related side
+bined with pre-incision inﬁltration [165]. Efﬁcacy of its use effects, such as thrombocytopenia and osteoporosis, with
+has also been demonstrated in bariatric surgery [166] and long-term use [180].
+ropivacaine or levobupivacaine seem to be more effective The ﬁrst injection should be administered 8–12 h after
+than short-acting agents, like lidocaine [167]. Recently, it surgery [181]. There are no data supporting an injection
+was reported that ultrasound-guided transversus abdominal twice a day for prophylaxis. However, an increased dose
+plane block is feasible and safe in bariatric surgery [168] adjusted to BMI (i.e. 6000 u of enoxaparin for BMI
+but data from RCTs comparing this technique with local [30 kg/m2, 8000 u for BMI[40 kg/m2, 10,000 u for BMI
+anaesthetic inﬁltration are lacking.                 [50 kg/m2) has been shown to be safe without increased
+  Thoracic  epidural analgesia (TEA) improves lung   risk of bleeding [182–184]. Finally, many studies indicate
+function and hastens recovery of spirometric values in prolonged risk of thrombotic events, not least due to
+obese patients following laparotomy [169] but there is no unpredictable food intake in some patients, encouraging
+consensus for laparoscopic surgery. A recent study in recommendation of 3–4 weeks treatment [185, 186]. There
+laparoscopic colorectal surgery suggested that the use of are no data suggesting that the use of fondaparinux or other
+TEA  did not improve outcome or respiratory function, new oral anticoagulants should be recommended.
+compared with patient-controlled analgesia [170]. A ret- Treatment with vitamin K antagonists should be stopped
+rospective study in open gastric bypass patients concluded 5 days before and resumed 12–24 h after surgery in com-
+that intravenous morphine was an acceptable strategy for bination with ‘‘bridging’’ LMWH [178].
+postoperative analgesia, and did not result in more adverse For patients who cannot receive anticoagulant treatment,
+events or poor outcome compared   with TEA   [171].  the use of retrievable vena cava ﬁlters has been evaluated.
+Moreover, application of TEA may be complicated in   Many adverse events have been reported and since con-
+obese patients. Surprisingly, TEA was reported to be vincing evidence for its efﬁcacy is lacking [187–189], the
+associated with a four-fold higher risk of wound infection use of such devices in current practice is not recommended.
+in patients undergoing open gastric bypass.
+                                                     Postoperative nutrition
+Thromboprophylaxis
+                                                     Prior to bariatric surgery, all patients should undergo an
+In many studies, thromboembolic complications represent appropriate nutritional evaluation, including selective
+the main cause of morbidity and 50 % of mortality after micronutrient measurements. In comparison with purely
+bariatric surgery [172–174]. Risk factors, in addition to restrictive procedures, more extensive perioperative nutri-
+obesity itself, include history of venous thromboembolism, tional evaluations are required for gastric bypass and even
+increased age, smoking, varicose veins, heart or respiratory more ‘‘aggressive’’ malabsorptive procedures such as bil-
+failure, OSA, thrombophilia and oestrogen oral contra- iopancreatic diversion [190].
+ception [175].
+  Although not shown to reduce the incidence of fatal Early postoperative nutritional care Nutritional and meal
+pulmonary embolism [176], mechanical methods such as planning guidance should be provided to patient and family
+intermittent pneumatic compression or graduated com- before bariatric surgery and during the postoperative hos-
+pression stockings should be used. Moreover, early   pital course and reinforced at subsequent outpatient visits.
+mobilisation and the use of calf-length compression  A  clear liquid meal regimen can usually be initiated a
+stockings were associated, with a low incidence of deep couple of hours postoperatively. A consultation should be
+venous thromboembolism  in a study of 280 bariatric  provided with a dietician and a protocol-derived staged
+patients [177].                                      meal progression, based on the type of surgical procedure,
+  Bariatric surgery patients are at least at moderate risk of should be adhered to.
+thromboembolism  and, therefore, mechanical methods     Patients should adhere to a plan of multiple small meals
+should be combined with pharmacological prophylaxis. each day, chewing their food thoroughly without drinking
+Many studies [172, 178] also in bariatric surgery [179] beverages at the same time.
+have compared low molecular weight heparins (LMWH)      The balanced meal plan should include more than ﬁve
+with unfractionated heparin (UFH), without demonstrating servings of fruits and vegetables daily for optimal ﬁbre
+any difference in efﬁciency or adverse events.       consumption, colonic function and phytochemical intake.
+123
+
+
+World J Surg (2016) 40:2065–2083                                                                   2075
+
+  Protein malnutrition causes an annual hospitalisation A Cochrane review evaluated preoperative incentive
+rate of 1 % per year after malabsorptive procedures and spirometry and failed to show any beneﬁt in preventing
+leads to signiﬁcant morbidity [191]. Protein intake should postoperative pulmonary complications [203]. Therefore,
+average 60–120 g daily. Concentrated sweets should be routine perioperative use of incentive spirometry for
+avoided after any bariatric procedure to reduce caloric improving oxygenation is not recommended. In open sur-
+intake and in particular after gastric bypass to minimise gery, use of congruent epidural analgesia (epidural inser-
+symptoms of dumping.                                 tion site corresponding to dermatomes of surgical incision)
+  Minimal nutritional supplementation includes 1–2 adult with local anaesthetics has been shown to improve post-
+multivitamin-mineral supplements  containing  iron,  operative oxygenation [204].
+1200–1500 mg/d of calcium and vitamin B12 preparation   Despite normal pulse oximetry values, immediate post-
+[192].                                               operative tissue oxygen saturation has been shown to be
+  Fluids should be consumed slowly and in sufﬁcient  lower in obese patients [205]. Although tissue oxygen
+amounts to maintain adequate hydration (more than 1.5 L saturation and pulmonary function have been reported to
+daily) [193]. Clinical and biochemical monitoring is rec- return to normal within the ﬁrst 24 h after surgery, there is
+ommended for micro- and macro-nutritional deﬁciencies, not enough evidence to recommend a minimum duration of
+particularly for iron, vitamin B12, calcium and folic acids oxygen supplementation. Thus, the use and the duration of
+deﬁciencies [194].                                   postoperative oxygen supplementation need to be individ-
+                                                     ualised. Postoperative positioning in head-elevated, semi-
+Management of diabetes mellitus and lipids Postopera- sitting or prone position (if feasible) further prevents pul-
+tive glycaemic control should aim at achieving HbA1c of monary atelectasis [202]. Any postoperative sign of
+62 mmol/mol or less with fasting blood glucose B110 mg/ insufﬁcient ventilation such as arterial desaturation,
+dl (6.1 mmol/l) and postprandial glucose B180 mg/dl  tachypnoea, unexplained tachycardia or hypercarbia should
+(10 mmol/l) [195]. Although this is higher compared with prompt the use of positive pressure ventilation.
+usual recommendations by, for example, The American
+                                                     b)  Obese patients with OSA
+Diabetes Association in non-morbidly obese patients, this
+degree of glucose control has been shown to be realistic There is strong evidence to support a high predictive
+and achievable after bariatric surgery [195]. Physicians and value of the STOP-BANG questionnaire for preoperative
+ward nurses should be familiar with glycaemic targets and screening of OSA [206]. Patients with moderate to high
+insulin protocols as well as the use of dextrose-free IV risk should be considered for positive airway pressure
+ﬂuids and low-sugar liquid supplements [196]. Obese  support postoperatively. High vigilance for the need of
+patients with type 1 diabetes should receive scheduled postoperative positive pressure support is recommended in
+insulin therapy during their hospital stay. Cessation of these patients, in addition to routine oxygen supplementa-
+insulin treatment is often possible early after bariatric tion. These patients should have at least continuous pulse
+surgery, while liberal continuation of treatment with met- oximetry [207] and respiratory rate monitoring. A meta-
+formin is usually recommended [197]. Lipid abnormalities analysis concluded that oxygen therapy improves oxygen
+should be treated according to the National Cholesterol saturation signiﬁcantly in patients with OSA [208]. How-
+Educational Program  (NCEP) guidelines [198]. Any    ever, it may also increase the duration of apnoea-hypop-
+existing lipid-lowering therapy for LDL-cholesterol and noea events and should, therefore, be used carefully. The
+triglyceride values should be continued after surgery if American Academy of Sleep Medicine recommends care-
+levels remain above desired goals [199, 200].        ful attention during the ﬁrst 24 h after surgery in patients
+                                                     with presumed OSA and also suggests that opioid based
+                                                     patient-controlled analgesia should be avoided [209].
+Postoperative oxygenation
+                                                     Patients should be discharged from PACU when clinical
+                                                     evaluation is satisfactory and they are fully conscious/ori-
+a)  Obese  patients without obstructive sleep apnoea
+                                                     ented with adequate respiratory rate and depth.
+    (OSA)
+Obesity is associated with increased gastric and oesopha- Non-invasive positive pressure ventilation
+geal pressures (promoting aspiration), along with reduced
+FRC and ERV, that increases the work of breathing [201]. Non-invasive positive pressure (NIPP) support includes
+After surgery, atelectasis has been found to persist for a continuous positive airway pressure (CPAP), non-invasive
+longer time in morbidly obese compared with normal   ventilation and bi-level positive airway pressure (BiPAP).
+weight patients [202]; thus, all obese patients should be Patients with OSA often beneﬁt more from positive pres-
+considered as high risk irrespective in the presence of OSA. sure support compared with oxygen therapy alone [210].
+                                                                                               123
+
+
+2076                                                                         World J Surg (2016) 40:2065–2083
+
+Data from  two recent meta-analyses demonstrate that adhered to according to the above criteria as well as in the
+
+higher FiO2s might actually increase the risk of apnoea/ presence of tachypnoea or hypercarbia.
+hypopnoea in morbidly obese patients postoperatively
+                                                     c)  Obese patients with OSA on home CPAP therapy.
+[211]. It is, therefore, recommended that CPAP (beginning
+from 5 to 7.5 cm of water) should be used in preference to Compliance with CPAP has been reported to be poor,
+oxygen therapy alone, in particular in patients with OSA ranging from 50 to 80 % [222]. However, patients pre-
+and signs of respiratory deterioration.              scribed CPAP habitually should continue their treatment in
+  Several retrospective analyses evaluating prophylactic the postoperative period since it decreases complication
+CPAP use have not demonstrated a clear beneﬁt in oxy- rates [223]. Based on data from retrospective studies,
+genation [212, 213]. ‘‘Super obese’’ patients (BMI[60 kg/ slightly higher CPAP values than prescribed for home use
+m2), with complications requiring reoperation may be may be needed in the postoperative period, due to respi-
+considered for prophylactic CPAP as these patients often ratory inhibitory effects of perioperative narcotics and
+need prolonged respiratory support [214]. There is a lack of muscle relaxants [224].
+available evidence to support the use of BiPAP over CPAP
+                                                     d)  Patients with Obesity Hypoventilation Syndrome
+in patients without Obesity Hypoventilation Syndrome
+                                                         (OHS) (‘‘Pickwickian syndrome’’)
+(OHS, see below) or patients with elevated pCO2 levels.
+The need of CPAP has been shown to be reduced after     OHS is deﬁned as severely obese patients with baseline
+laparoscopic compared with open procedures [215].    awake hypoxia and hypercarbia along with raised serum
+  In terms of requirement for postoperative CPAP/NIV, bicarbonate ([27 mmol/l). Patients with OHS are at high
+obese patients can be divided into the following subsets: risk of perioperative complications [225]. OHS patients are
+                                                     highly sensitive to opioids irrespective of route of admin-
+a)  Obese patients without diagnosed OSA.
+                                                     istration (intravenous/central neuraxial) and might present
+  These patients beneﬁt from oxygen therapy (via face- with sustained and life threatening respiratory depression
+mask or nasal cannula), upright positioning and early in the postoperative period [226]. Opioid-free anaesthesia
+ambulation. Retrospective analyses have shown that a with a preference of regional anaesthesia (using local
+diagnosis of OSA is often missed in many bariatric surgical anaesthetics) and the use of minimally invasive procedures
+patients [216] and this subset of patients is at high risk to is recommended. Prophylactic nasal BiPAP/NIV for
+develop postoperative complications [217]. In patients with 24–48 h postoperatively has been shown to reduce risk of
+BMI  [35 kg/m2 the use of nasal CPAP postoperatively respiratory complications [227]. At least, prophylactic
+might be an alternative due to higher tolerance/compliance, initiation of BiPAP in sitting/semi-sitting position along
+however its therapeutic efﬁcacy may be limited by oral air with intensive monitoring for ﬁrst 24 h is recommended in
+leaks [218].                                         these patients.
+b)  Patients with OSA-not using  preoperative CPAP
+    therapy.
+                                                     Summary and conclusion
+  Two subgroups of patients are included in this category:
+patients with diagnosed OSA without prescribed CPAP, ERAS versus traditional care in bariatric surgery:
+and patients with prescribed CPAP but who do not use it clinical outcomes
+regularly (poor compliance). The severity of OSA could be
+expected to be worse in the latter group who are candidates For bariatric surgery, the literature supporting the use of
+needing CPAP in the immediate postoperative period.  ERAS is comparatively sparse. Although not deﬁned as a
+However, in both groups intraoperative anaesthetic and regular ERAS program, McCarty and collaborators repor-
+surgical factors play the most important role for the need ted improved postoperative recovery in 2000 consecutive
+for positive pressure ventilatory support due to worsening patients undergoing laparoscopic RYGB with a standard-
+of OSA. Regional anaesthesia and short-acting anaesthetic ised multimodal program aimed to modify perioperative
+drugs should be used [219]. Patient-related factors indi- care [63]. So far, there is one single RCT published in
+cating increased need for NIPP use include moderate to which the use of a standardised ERAS programme in
+severe OSA  [211], male gender, age [50 years, BMI   patients undergoing laparoscopic sleeve gastrectomy was
+[60 kg/m2  [220], pulmonary co-morbidity, open surgery compared with ‘‘standard care’’. The authors reported
+[221] and the need for reoperation [214]. An oxygen sat- shorter hospital stay with ERAS but no differences in
+uration below 90 % in the immediate postoperative period readmission rates, postoperative complications or fatigue
+is usually deﬁned as hypoxia and indicates need for NIPP scores [82]. In general, most data reporting beneﬁcial
+[217]. Liberal use of NIPP therapy should, therefore, be effects associated with ERAS are generated from studies
+123
+
+
+World J Surg (2016) 40:2065–2083                                                                   2077
+
+involving elderly, sometimes medically frail patients, challenged and updated, probably within 3- to 5-years
+whereas individuals submitted to bariatric surgery are interval. It might seem to the reader that the level of evi-
+typically younger and more physically ﬁt. Therefore, dence for many of the elements is surprisingly low. How-
+results from previous studies may not be immediately ever, it should be acknowledged that this reﬂects the
+applicable to bariatric surgery. Morbidity and mortality current situation in most areas of modern medicine in
+rates in association with bariatric surgery are relatively low general and not least within surgical practice.
+with 3 and 0.04 % for severe complications and mortality,
+respectively, within 30 days as reported in the Scandina- Acknowledgments The authors thank Professor Karem Slim, Ser-
+vian Obesity Registry (SOReg) [3], and further reductions vice de Chirurgie Digestive & Unite´ de Chirurgie Ambulato-
+                                                     ries, CHU Estaing, Clermont-Ferrand, France for his preliminary
+in these may be difﬁcult to achieve.                 work on the manuscript.
+  It could be assumed that for some ERAS elements, such
+as early mobilisation and oral intake, adherence is rela- Funding Financial support was provided through the Erling-Pers-
+tively high in most centres, whereas there may be room for son Family Foundation and through the regional agreement on
+                                                     medical training and clinical research between Stockholm County
+improvement for others, such as postoperative oxygenation Council and Karolinska Institutet (AT). The ERAS society has sup-
+and non-invasive positive pressure ventilation. Since the port from Nutricia Research via an unrestricted educational grant.
+recommendation grade for the use of most of the included
+ERAS elements for obese individuals undergoing surgery Compliance with Ethical Standards
+in general is strong, the use of systematic ERAS pathway Conﬂict of Interests AT and MV have no conﬂicts of interest to
+may have the potential to improve outcomes after bariatric declare. ADM has no direct conﬂicts of interest to declare. He has
+surgery.                                             received speakers’ honoraria from Covidien. DR has no direct conﬂict
+                                                     of interest to declare. SA has no direct conﬂicts of interest to declare.
+                                                     He has received speakers’ honoraria and consultation fees from Fis-
+Future perspectives and validation                   cher & Paykel Healthcare, Merck Sharp & Dohme and BBraun;
+                                                     unrestricted educational grants from Fresenius Kabi, Nestle Nutrition,
+Data from studies evaluating the effects of ERAS pathways Covidien, Ethicon EndoSurgery, Merck Sharp & Dohme, Fischer &
+and health costs in patients undergoing bariatric surgery are Paykel Healthcare, GORE and BBraun. He has also completed a
+                                                     bariatric fellowship funded via an educational grant from Ethicon
+sparse. Some studies in colorectal [228] and pancreatic EndoSurgery (paid to the institution). ND has no direct conﬂicts of
+[229] surgery reported reduced costs with ERAS, whereas interest to declare. He has received unrestricted grants and speakers’
+others could not identify any difference [230]. For bariatric honoraria from Johnson & Johnson, Nestle´ and from MSD. DNL has
+surgery and ERAS, reports on quality of life (QOL) are still no direct conﬂicts of interest to declare. He has received unrestricted
+                                                     grants and speakers’ honoraria from Fresenius Kabi, BBraun, Nutricia
+due and the very few studies reporting data in colorectal and Baxter Healthcare.
+surgery have failed to demonstrate any difference [230,
+231]. Possible explanations for this might be difﬁculties
+associated with randomisation between ERAS and con-  References
+ventional care and/or lack of instruments with sufﬁcient
+                                                       1. Buchwald H, Oien DM (2013) Metabolic/bariatric surgery
+sensitivity to detect any possible improvements in patients’ worldwide 2011. Obes Surg 23:427–436
+perceived QOL. Nevertheless, QOL and cost will be key  2. Dindo D, Demartines N, Clavien PA (2004) Classiﬁcation of
+elements in evaluating the success of ERAS in the bariatric surgical complications: a new proposal with evaluation in a
+setting in the future. Implementation and validation of  cohort of 6336 patients and results of a survey. Ann Surg
+                                                         240:205–213
+guidelines like the present one are also important factors 3. SOReg—Scandinavian Obesity Surgery registry Annual Report
+for improvement of outcome. Therefore, the   teams       (2013), Annual Report http://ucr.uu.se/soreg
+involved in these guidelines will include the recommen- 4. National Bariatric Surgery Registry of the British Obesity &
+dations into a web-based ERASÒ database for continuous   Metabolic Sugery Society (2014). http://nbsr.co.uk/2014-report
+                                                       5. Fearon KC, Ljungqvist O, Von Meyenfeldt M et al (2005)
+audit and analysis, which will help validate the guidelines Enhanced recovery after surgery: a consensus review of clinical
+in clinical practice.                                    care for patients undergoing colonic resection. Clin Nutr
+                                                         24:466–477
+                                                       6. Basse L, Hjort Jakobsen D, Billesbolle P et al (2000) A clinical
+                                                         pathway to accelerate recovery after colonic resection. Ann Surg
+Comment                                                  232:51–57
+                                                       7. Basse L, Raskov HH, Hjort Jakobsen D et al (2002) Accelerated
+These guidelines represent an effort to provide all care- postoperative recovery programme after colonic resection
+givers involved in the management of patients undergoing improves physical performance, pulmonary function and body
+                                                         composition. Br J Surg 89:446–453
+bariatric surgery with an overview of the current literature. 8. Wind J, Hoﬂand J, Preckel B et al (2006) Perioperative strategy
+Surgical and anaesthesiological practice is continuously in colonic surgery; LAparoscopy and/or FAst track multimodal
+developing, which means that recommendations need to be  management versus standard care (LAFA trial). BMC Surg 6:16
+                                                                                               123
+
+
+2078                                                                                    World J Surg (2016) 40:2065–2083
+
+  9. Khoo CK, Vickery CJ, Forsyth N et al (2007) A prospective   recovery after surgery (ERASÒ) society recommendations. Clin
+    randomized controlled trial of multimodal perioperative man- Nutr 31:783–800
+    agement protocol in patients undergoing elective colorectal 29. Carli F, Zavorsky GS (2005) Optimizing functional exercise
+    resection for cancer. Ann Surg 245:867–872                   capacity in the elderly surgical population. Curr Opin Clin Nutr
+ 10. Serclova Z, Dytrych P, Marvan J et al (2009) Fast-track in open Metab Care 8:23–32
+    intestinal surgery: prospective randomized study (Clinical Trials 30. Topp R, Swank AM, Quesada PM et al (2009) The effect of
+    Gov Identiﬁer no. NCT00123456). Clin Nutr 28:618–624         prehabilitation exercise on strength and functioning after total
+ 11. Muller S, Zalunardo MP, Hubner M et al (2009) A fast-track  knee arthroplasty. PM R 1:729–735
+    program reduces complications and length of hospital stay after 31. Valkenet K, Port I, Dronkers J et al (2011) The effects of pre-
+    open colonic surgery. Gastroenterology 136:842–847           operative exercise therapy on postoperative outcome: a sys-
+ 12. Verhagen AP, de Vet HC, de Bie RA et al (1998) The Delphi   tematic review. Clin Rehabil 25:99–111
+    list: a criteria list for quality assessment of randomized clinical 32. Lemanu DP, Singh PP, MacCormick AD et al (2013) Effect of
+    trials for conducting systematic reviews developed by Delphi preoperative exercise on cardiorespiratory function and recovery
+    consensus. J Clin Epidemiol 51:1235–1241                     after surgery: a systematic review. World J Surg 37:711–720.
+ 13. Guyatt GH, Oxman AD, Vist GE et al (2008) GRADE: an         doi:10.1007/s00268-012-1886-4
+    emerging consensus on rating quality of evidence and strength 33. Carver TE, Mayo N, Andersen RE et al (2011) Pilot investiga-
+    of recommendations. BMJ 336:924–926                          tion to evaluate changes in exercise capacity following a pre-
+ 14. Kiecolt-Glaser J, Page G, Marucha P et al (1998) Psychological habilitation intervention among seriously obese patients
+    inﬂuences on surgical recovery. Perspectives from psychoneu- awaiting bariatric surgery. Can J Diabet 35:149
+    roimmunology. Am Psychol 53:1209–1218                     34. Carli F, Charlebois P, Stein B et al (2010) Randomized clinical
+ 15. Hathaway D (1986) Effect of preoperative instruction on post- trial of prehabilitation in colorectal surgery. Br J Surg
+    operative outcomes: a meta-analysis. Nurs Res 35:269–275     97:1187–1197
+ 16. Devine EC, Cook TD (1983) A meta-analytic analysis of effects 35. Fried M, Hainer V, Basdevant A et al (2007) Interdisciplinary
+    of psychoeducational interventions on length of postsurgical European guidelines for surgery for severe (morbid) obesity.
+    hospital stay. Nurs Res 32:267–274                           Obes Surg 17:260–270
+ 17. Egbert LD, Battit GE, Welch CE et al (1964) Reduction of 36. Mills E, Eyawo O, Lockhart I et al (2011) Smoking cessation
+    postoperative pain by encouragement and instruction of patients. reduces postoperative complications: a systematic review and
+    A study of doctor-patient rapport. N Engl J Med 270:825–827  meta-analysis. Am J Med 124(144–154):e8
+ 18. Disbrow EA, Bennett HL, Owings JT (1993) Effect of preop- 37. Sorensen LT, Karlsmark T, Gottrup F (2003) Abstinence from
+    erative suggestion on postoperative gastrointestinal motility. smoking reduces incisional wound infection: a randomized
+    West J Med 158:488–492                                       controlled trial. Ann Surg 238:1–5
+ 19. Halaszynski TM, Juda R, Silverman DG (2004) Optimizing   38. Gourgiotis S, Aloizos S, Gakis C et al (2011) Platypnea-orth-
+    postoperative outcomes with efﬁcient preoperative assessment odeoxia due to fat embolism. Int J Surg Case Rep 2:147–149
+    and management. Crit Care Med 32:S76–S86                  39. Moller AM, Villebro N, Pedersen T et al (2002) Effect of pre-
+ 20. Forster AJ, Clark HD, Menard A et al (2005) Effect of a nurse operative smoking intervention on postoperative complications:
+    team  coordinator on outcomes for hospitalized medicine      a randomised clinical trial. Lancet 359:114–117
+    patients. Am J Med 118:1148–1153                          40. Levin L, Herzberg R, Dolev E et al (2004) Smoking and com-
+ 21. Kahokehr A, Broadbent E, Wheeler BR et al (2012) The effect plications of onlay bone grafts and sinus lift operations. Int J
+    of perioperative psychological intervention on fatigue after Oral Maxillofac Implants 19:369–373
+    laparoscopic cholecystectomy: a randomized controlled trial. 41. Myles PS, Leslie K, Angliss M et al (2004) Effectiveness of
+    Surg Endosc 26:1730–1736                                     bupropion as an aid to stopping smoking before elective surgery:
+ 22. Broadbent E, Kahokehr A, Booth RJ et al (2012) A brief      a randomised controlled trial. Anaesthesia 59:1053–1058
+    relaxation intervention reduces stress and improves surgical 42. Warner DO, Patten CA, Ames SC et al (2005) Effect of nicotine
+    wound healing response: a randomised trial. Brain Behav      replacement therapy on stress and smoking behavior in surgical
+    Immun 26:212–217                                             patients. Anesthesiology 102:1138–1146
+ 23. Johansson K, Salantera S, Heikkinen K et al (2004) Surgical 43. Tonnesen H, Petersen KR, Hojgaard L et al (1992) Postoperative
+    patient education: assessing the interventions and exploring the morbidity among symptom-free alcohol misusers. Lancet
+    outcomes from experimental and quasi-experimental studies    340:334–337
+    from 1990 to 2003. Clin Eff Nurs 8:81–92                  44. Nath B, Li Y, Carroll JE et al (2010) Alcohol exposure as a risk
+ 24. Ronco M, Iona L, Fabbro C et al (2012) Patient education    factor for adverse outcomes in elective surgery. J Gastrointest
+    outcomes in surgery: a systematic review from 2004 to 2010. Int Surg 14:1732–1741
+    J Evid Based Healthc 10:309–323                           45. Tonnesen H, Kehlet H (1999) Preoperative alcoholism and
+ 25. Stacey D, Taljaard M, Dervin G et al (2015) Impact of patient postoperative morbidity. Br J Surg 86:869–874
+    decision aids on appropriate and timely access to hip or knee 46. Tonnesen H, Rosenberg J, Nielsen HJ et al (1999) Effect of
+    arthroplasty for osteoarthritis: a randomized controlled trial. preoperative abstinence on poor postoperative outcome in alcohol
+    Osteoarthr Cartil 24(1):99–107                               misusers: randomised controlled trial. BMJ 318:1311–1316
+ 26. Committee SG (2008) SAGES guideline for clinical application 47. Ostlund MP, Backman O, Marsk R et al (2013) Increased
+    of laparoscopic bariatric surgery. Surg Endosc 22:2281–2300  admission for alcohol dependence after gastric bypass surgery
+ 27. Mechanick J, Kushner R, Sugerman H et al (2009) American    compared with  restrictive bariatric surgery. JAMA Surg
+    Association of Clinical Endcrinoliogists, The Obesity Society, 148:374–377
+    and American Society for Metabolic and Bariatric Surgery  48. Edholm D, Kullberg J, Haenni A et al (2011) Preoperative
+    medical guidelines for clinical practice for the perioperative 4-week low-calorie diet reduces liver volume and intrahepatic
+    nutritional, metabolic, and nonsurgical support of the bariatric fat, and facilitates laparoscopic gastric bypass in morbidly
+    surgery patient. Obesity 17:S1–S70                           obese. Obes Surg 21:345–350
+ 28. Gustafsson UO, Scott MJ, Schwenk W et al (2012) Guidelines 49. Colles SL, Dixon JB, Marks P et al (2006) Preoperative weight
+    for perioperative care in elective colonic surgery: enhanced loss with a very-low-energy diet: quantitation of changes in liver
+
+123
+
+
+World J Surg (2016) 40:2065–2083                                                                                 2079
+
+    and  abdominal fat by serial imaging. Am J Clin  Nutr     70. Seimon RV, Brennan IM, Russo A et al (2013) Gastric empty-
+    84:304–311                                                   ing, mouth-to-cecum transit, and glycemic, insulin, incretin, and
+ 50. Van Nieuwenhove Y, Dambrauskas Z, Campillo-Soto A et al     energy intake responses to a mixed-nutrient liquid in lean,
+    (2011) Preoperative very low-calorie diet and operative outcome overweight, and obese males. Am J Physiol Endocrinol Metab
+    after laparoscopic gastric bypass: a randomized multicenter  304:E294–E300
+    study. Arch Surg 146:1300–1305                            71. Maltby JR, Pytka S, Watson NC et al (2004) Drinking 300 mL
+ 51. Cassie S, Menezes C, Birch DW et al (2011) Effect of preop- of clear ﬂuid two hours before surgery has no effect on gastric
+    erative weight loss in bariatric surgical patients: a systematic ﬂuid volume and pH in fasting and non-fasting obese patients.
+    review. Surg Obes Relat Dis 7:760–767 discussion 767         Can J Anaesth 51:111–115
+ 52. Anderin C, Gustafsson UO, Heijbel N et al (2015) Weight loss 72. Maltby JR (2006) Fasting from midnight—the history behind
+    before bariatric surgery and postoperative complications: data the dogma. Best Pract Res Clin Anaesthesiol 20:363–378
+    from the Scandinavian Obesity Registry (SOReg). Ann Surg  73. Ishihara H, Singh H, Giesecke AH (1994) Relationship between
+    261:909–913                                                  diabetic autonomic neuropathy and gastric contents. Anesth
+ 53. Livhits M, Mercado C, Yermilov I et al (2009) Does weight loss Analg 78:943–947
+    immediately before bariatric surgery improve outcomes: a sys- 74. Bertin E, Schneider N, Abdelli N et al (2001) Gastric emptying
+    tematic review. Surg Obes Relat Dis 5:713–721                is accelerated in obese type 2 diabetic patients without auto-
+ 54. Gerber P, Anderin C, Gustafsson UO et al (2015) Weight loss nomic neuropathy. Diabetes Metab 27:357–364
+    immediately prior to gastric bypass and postoperative weight 75. The American Society of Anesthesiologist Task Force on Pre-
+    change. Surg Obes Relat Dis. doi:10.1016/j.soard.2015.08.519 operative Fasting (1999) Practice guidelines for preoperative
+ 55. Thorell A, Hagstrom-Toft E (2012) Treatment of diabetes prior to fasting and the use of pharmacologic agents to reduce the risk of
+    and after bariatric surgery. J Diabetes Sci Technol 6:1226–1232 pulmonary aspiration: application to healthy patients undergoing
+ 56. Barnes PJ (1998) Anti-inﬂammatory actions of glucocorticoids: elective procedures: a report by the American Society of
+    molecular mechanisms. Clin Sci (Lond) 94:557–572             Anesthesiologist Task Force on Preoperative Fasting. Anesthe-
+ 57. Sapolsky RM, Romero LM, Munck AU (2000) How do gluco-       siology 90:896–905
+    corticoids inﬂuence stress responses? Integrating permissive, 76. Smith I, Kranke P, Murat I et al (2011) Perioperative fasting in
+    suppressive, stimulatory, and preparative actions. Endocr Rev adults and children: guidelines from the European Society of
+    21:55–89                                                     Anaesthesiology. Eur J Anaesthesiol 28:556–569
+ 58. Henzi I, Walder B, Tramer MR (2000) Dexamethasone for the 77. Ljungqvist O (2012) Jonathan E. Rhoads lecture 2011: insulin
+    prevention of postoperative nausea and vomiting: a quantitative resistance and enhanced recovery after surgery. JPEN J Parenter
+    systematic review. Anesth Analg 90:186–194                   Enteral Nutr 36:389–398
+ 59. Srinivasa S, Kahokehr AA, Yu TC et al (2011) Preoperative 78. Awad S, Varadhan KK, Ljungqvist O et al (2013) A meta-
+    glucocorticoid use in major abdominal surgery: systematic    analysis of randomised controlled trials on preoperative oral
+    review and meta-analysis of randomized trials. Ann Surg      carbohydrate treatment in elective surgery. Clin Nutr 32:34–44
+    254:183–191                                               79. Smith MD, McCall J, Plank L et al (2014) Preoperative carbo-
+ 60. Liu K, Hsu CC, Chia YY (1999) The effective dose of dex-    hydrate treatment for enhancing recovery after elective surgery.
+    amethasone for antiemesis after major gynecological surgery. Cochrane Database Syst Rev 8:Cd009161
+    Anesth Analg 89:1316–1318                                 80. Gustafsson UO, Nygren J, Thorell A et al (2008) Pre-operative
+ 61. Wang JJ, Ho ST, Lee SC et al (2000) The use of dexamethasone carbohydrate loading may be used in type 2 diabetes patients.
+    for preventing postoperative nausea and vomiting in females  Acta Anaesthesiol Scand 52:946–951
+    undergoing thyroidectomy: a dose-ranging study. Anesth Analg 81. Azagury DE, Ris F, Pichard C et al (2015) Does perioperative
+    91:1404–1407                                                 nutrition and oral carbohydrate load sustainably preserve muscle
+ 62. Wang JJ, Ho ST, Wong CS et al (2001) Dexamethasone pro-     mass after bariatric surgery? A randomized control trial. Surg
+    phylaxis of nausea and vomiting after epidural morphine for  Obes Relat Dis 11:920–926
+    post-Cesarean analgesia. Can J Anaesth 48:185–190         82. Lemanu DP, Singh PP, Berridge K et al (2013) Randomized
+ 63. McCarty TM, Arnold DT, Lamont JP et al (2005) Optimizing    clinical trial of enhanced recovery versus standard care after
+    outcomes in bariatric surgery: outpatient laparoscopic gastric laparoscopic sleeve gastrectomy. Br J Surg 100:482–489
+    bypass. Ann Surg 242:494–498 discussion 498–501           83. Ronellenﬁtsch U, Schwarzbach M, Kring A et al (2012) The
+ 64. Sauerland S, Nagelschmidt M, Mallmann P et al (2000) Risks  effect of clinical pathways for bariatric surgery on perioperative
+    and beneﬁts of preoperative high dose methylprednisolone in  quality of care. Obes Surg 22:732–739
+    surgical patients: a systematic review. Drug Saf 23:449–461 84. Chakravartty S, Sarma DR, Patel AG (2013) Rhabdomyolysis
+ 65. van den Berghe G, Wouters P, Weekers F et al (2001) Intensive in bariatric surgery: a systematic review. Obes Surg
+    insulin therapy in critically ill patients. N Engl J Med     23:1333–1340
+    345:1359–1367                                             85. Poso T, Kesek D, Aroch R et al (2013) Morbid obesity and opti-
+ 66. Harter RL, Kelly WB, Kramer MG et al (1998) A comparison of mization of preoperative ﬂuid therapy. Obes Surg 23:1799–1805
+    the volume and pH of gastric contents of obese and lean surgical 86. Adams JP, Murphy PG (2000) Obesity in anaesthesia and
+    patients. Anesth Analg 86:147–152                            intensive care. Br J Anaesth 85:91–108
+ 67. Juvin P, Fevre G, Merouche M et al (2001) Gastric residue is not 87. Sharma SK, McCauley J, Cottam D et al (2006) Acute changes
+    more copious in obese patients. Anesth Analg 93:1621–1622    in renal function after laparoscopic gastric surgery for morbid
+    table of contents                                            obesity. Surg Obes Relat Dis 2:389–392
+ 68. Cardoso-Junior A, Coelho LG, Savassi-Rocha PR et al (2007) 88. Bundgaard-Nielsen M, Secher NH, Kehlet H (2009) ‘Liberal’
+    Gastric emptying of solids and semi-solids in morbidly obese vs. ‘restrictive’ perioperative ﬂuid therapy–a critical assessment
+    and non-obese subjects: an assessment using the 13C-octanoic of the evidence. Acta Anaesthesiol Scand 53:843–851
+    acid and 13C-acetic acid breath tests. Obes Surg 17:236–241 89. Varadhan KK, Lobo DN (2010) A meta-analysis of randomised
+ 69. Buchholz V, Berkenstadt H, Goitein D et al (2013) Gastric   controlled trials of intravenous ﬂuid therapy in major elective
+    emptying is not prolonged in obese patients. Surg Obes Relat open abdominal surgery: getting the balance right. Proc Nutr
+    Dis 9:714–717                                                Soc 69:488–498
+
+                                                                                                            123
+
+
+2080                                                                                    World J Surg (2016) 40:2065–2083
+
+ 90. de Menezes Ettinger JE, dos Santos Filho PV, Azaro E et al 109. Cattano D, Killoran PV, Iannucci D et al (2013) Anticipation of
+    (2005) Prevention of rhabdomyolysis in bariatric surgery. Obes the difﬁcult airway: preoperative airway assessment, an educa-
+    Surg 15:874–9                                                tional and quality improvement tool. Br J Anaesth 111:276–285
+ 91. Domi R, Laho H (2012) Anesthetic challenges in the obese 110. Leoni A, Arlati S, Ghisi D et al (2014) Difﬁcult mask ventilation
+    patient. J Anesth 26:758–765                                 in obese patients: analysis of predictive factors. Minerva
+ 92. Schuster R, Alami RS, Curet MJ et al (2006) Intra-operative Anestesiol 80:149–157
+    ﬂuid volume inﬂuences postoperative nausea and vomiting after 111. Nicholson A, Cook TM, Smith AF et al (2013) Supraglottic
+    laparoscopic gastric bypass surgery. Obes Surg 16:848–851    airway devices versus tracheal intubation for airway manage-
+ 93. Ogunnaike BO, Jones SB, Jones DB et al (2002) Anesthetic    ment during general anaesthesia in obese patients. Cochrane
+    considerations for bariatric surgery. Anesth Analg 95:1793–1805 Database Syst Rev 9:CD010105. doi:10.1002/14651858.
+ 94. Nossaman VE, Richardson WS 3rd, Wooldridge JB Jr et al      CD010105.pub2
+    (2015) Role of intraoperative ﬂuids on hospital length of stay in 112. Nicholson A, Smith AF, Lewis SR et al (2014) Tracheal intu-
+    laparoscopic bariatric surgery: a retrospective study in 224 bation with a ﬂexible intubation scope versus other intubation
+    consecutive patients. Surg Endosc 29:2960–2969               techniques for obese patients requiring general anaesthesia.
+ 95. Wool DB, Lemmens HJ, Brodsky JB et al (2010) Intraoperative Cochrane Database Syst Rev 1:Cd010320
+    ﬂuid replacement and postoperative creatine phosphokinase 113. Collins JS, Lemmens HJ, Brodsky JB et al (2004) Laryngoscopy
+    levels in laparoscopic bariatric patients. Obes Surg 20:698–701 and morbid obesity: a comparison of the ‘‘sniff’’ and ‘‘ramped’’
+ 96. MatotI, Paskaleva R, Eid L etal(2012) Effect of the volume of ﬂuids positions. Obes Surg 14:1171–1175
+    administered on intraoperative oliguria in laparoscopic bariatric 114. Erlandsson K, Odenstedt H, Lundin S et al (2006) Positive end-
+    surgery: a randomized controlled trial. Arch Surg 147:228–234 expiratory pressure optimization using electric impedance
+ 97. Jain AK, Dutta A (2010) Stroke volume variation as a guide to tomography in morbidly obese patients during laparoscopic
+    ﬂuid administration in morbidly obese patients undergoing    gastric bypass surgery. Acta Anaesthesiol Scand 50:833–839
+    laparoscopic bariatric surgery. Obes Surg 20:709–715     115. Reinius H, Jonsson L, Gustafsson S et al (2009) Prevention of
+ 98. Awad S, Carter S, Purkayastha S et al (2014) Enhanced recovery atelectasis in morbidly obese patients during general anesthesia
+    after bariatric surgery (ERABS): clinical outcomes from a ter- and paralysis: a computerized tomography study. Anesthesiol-
+    tiary referral bariatric centre. Obes Surg 24(5):753–758     ogy 111:979–987
+ 99. Feldheiser A, Aziz O, Baldini G et al (2015) Enhanced recovery 116. Talab HF, Zabani IA, Abdelrahman HS et al (2009) Intraoper-
+    after surgery (ERAS) for gastrointestinal surgery, part 2: con- ative ventilatory strategies for prevention of pulmonary atelec-
+    sensus statement for anaesthesia practice. Acta Anaesthesiol tasis in obese patients undergoing laparoscopic bariatric surgery.
+    Scand 60(3):289–334                                          Anesth Analg 109:1511–1516
+100. Apfel CC, Heidrich FM, Jukar-Rao S et al (2012) Evidence- 117. Whalen FX, Gajic O, Thompson GB et al (2006) The effects of
+    based analysis of risk factors for postoperative nausea and  the alveolar recruitment maneuver and positive end-expiratory
+    vomiting. Br J Anaesth 109:742–753                           pressure on arterial oxygenation during laparoscopic bariatric
+101. Gan TJ, Diemunsch P, Habib AS et al (2014) Consensus        surgery. Anesth Analg 102:298–305
+    guidelines for the management of postoperative nausea and 118. Bohm SH, Thamm OC, von Sandersleben A et al (2009) Alveolar
+    vomiting. Anesth Analg 118:85–113                            recruitment strategy and high positive end-expiratory pressure
+102. Ziemann-Gimmel P, Goldfarb AA, Koppman J et al (2014)       levels do not affect hemodynamics in morbidly obese intravas-
+    Opioid-free total intravenous anaesthesia reduces postoperative cular volume-loaded patients. Anesth Analg 109:160–163
+    nausea and vomiting in bariatric surgery beyond triple prophy- 119. Aldenkortt M, Lysakowski C, Elia N et al (2012) Ventilation
+    laxis. Br J Anaesth 112:906–911                              strategies in obese patients undergoing surgery: a quantitative
+103. Benevides ML, Oliveira SS, de Aguilar-Nascimento JE (2013)  systematic review and meta-analysis. Br J Anaesth 109:493–502
+    The combination of haloperidol, dexamethasone, and ondanse- 120. Futier E, Constantin JM, Paugam-Burtz C et al (2013) A trial of
+    tron for prevention of postoperative nausea and vomiting in  intraoperative low-tidal-volume ventilation in abdominal sur-
+    laparoscopic sleeve gastrectomy: a randomized double-blind   gery. N Engl J Med 369:428–437
+    trial. Obes Surg 23:1389–1396                            121. Dixon BJ, Dixon JB, Carden JR, et al. (2005) Preoxygenation is
+104. Strum EM, Szenohradszki J, Kaufman WA, et al. (2004)        more effective in the 25 degrees head-up position than in the
+    Emergence and recovery characteristics of desﬂurane versus   supine position in severely obese patients: a randomized con-
+    sevoﬂurane in morbidly obese adult surgical patients: a      trolled study. Anesthesiology 102:1110–1115. discussion 5A
+    prospective, randomized study. Anesth Analg 99:1848–1853. 122. Valenza F, Vagginelli F, Tiby A et al (2007) Effects of the beach
+    table of contents                                            chair position, positive end-expiratory pressure, and pneu-
+105. Juvin P, Vadam C, Malek L et al (2000) Postoperative recovery moperitoneum on respiratory function in morbidly obese
+    after desﬂurane, propofol, or isoﬂurane anesthesia among mor- patients during anesthesia and paralysis. Anesthesiology
+    bidly obese patients: a prospective, randomized study. Anesth 107:725–732
+    Analg 91:714–719                                         123. Mulier JP, Dillemans B, Van Cauwenberge S (2010) Impact of
+106. Bilotta F, Doronzio A, Cuzzone V et al (2009) Early postoper- the patient’s body position on the intraabdominal workspace
+    ative cognitive recovery and gas exchange patterns after bal- during laparoscopic surgery. Surg Endosc 24:1398–1402
+    anced anesthesia with sevoﬂurane or desﬂurane in overweight 124. Staehr-Rye AK, Rasmussen LS, Rosenberg J et al (2014) Sur-
+    and obese patients undergoing craniotomy: a prospective ran- gical space conditions during low-pressure laparoscopic chole-
+    domized trial. J Neurosurg Anesthesiol 21:207–213            cystectomy with deep versus moderate neuromuscular blockade:
+107. Kaur A, Jain AK, Sehgal R et al (2013) Hemodynamics and     a randomized clinical study. Anesth Analg 119:1084–1092
+    early recovery characteristics of desﬂurane versus sevoﬂurane in 125. Martini CH, Boon M, Bevers RF et al (2014) Evaluation of
+    bariatric surgery. J Anaesthesiol Clin Pharmacol 29:36–40    surgical conditions during laparoscopic surgery in patients with
+108. Apfel CC, Kranke P, Katz MH et al (2002) Volatile anaesthetics moderate vs deep neuromuscular block. Br J Anaesth
+    may be the main cause of early but not delayed postoperative 112:498–505
+    vomiting: a randomized controlled trial of factorial design. Br J 126. Carron M, Gasparetto M, Vindigni V et al (2014) Laparoscopic
+    Anaesth 88:659–668                                           surgery in a morbidly obese, high-risk cardiac patient: the
+
+123
+
+
+World J Surg (2016) 40:2065–2083                                                                                 2081
+
+    beneﬁts of deep neuromuscular block and sugammadex. Br J 145. Higa KD, Ho T, Boone KB   (2003) Internal hernias after
+    Anaesth 113:186–187                                          laparoscopic Roux-en-Y gastric bypass: incidence, treatment
+127. Batistaki C, Tentes P, Deligiannidi P et al (2015) Residual and prevention. Obes Surg 13:350–354
+    neuromuscular blockade in a real life clinical setting. Correla- 146. Capella RF, Iannace VA, Capella JF (2006) Bowel obstruction
+    tion with sugammadex or neostigmine administration. Minerva  after open and laparoscopic gastric bypass surgery for morbid
+    Anestesiol [Epub ahead of print]                             obesity. J Am Coll Surg 203:328–335
+128. Fortier LP, McKeen D, Turner K et al (2015) The RECITE  147. Sussenbach SP, Silva EN, Pufal MA et al (2014) Systematic
+    Study: a Canadian Prospective. Multicenter Study of the Inci- review of economic evaluation of laparotomy versus laparo-
+    dence and  Severity of Residual Neuromuscular Blockade.      scopy for patients submitted to Roux-en-Y gastric bypass. PLoS
+    Anesth Analg 121:366–372                                     ONE 9:e99976
+129. Schreiber JU (2014) Management of neuromuscular blockade in 148. Bailey JG, Hayden JA, Davis PJ et al (2014) Robotic versus
+    ambulatory patients. Curr Opin Anaesthesiol 27:583–588       laparoscopic Roux-en-Y gastric bypass (RYGB) in obese adults
+130. Ozturk Arikan FG, Turan G, Ozgultekin A et al (2015)        ages 18 to 65 years: a systematic review and economic analysis.
+    Rocuronium: automatic infusion versus manual administration  Surg Endosc 28:414–426
+    with TOF monitorisation. J Clin Monit Comput. doi:10.1007/ 149. Nelson R, Edwards S, Tse B (2005) Prophylactic nasogastric
+    s10877-015-9751-2                                            decompression after abdominal surgery. Cochrane Database
+131. Murphy GS, Brull SJ (2010) Residual neuromuscular block:    Syst Rev:Cd004929
+    lessons unlearned. Part I: deﬁnitions, incidence, and adverse 150. Huerta S, Arteaga JR, Sawicki MP et al (2002) Assessment of
+    physiologic effects of residual neuromuscular block. Anesth  routine elimination of postoperative nasogastric decompression
+    Analg 111:120–128                                            after Roux-en-Y gastric bypass. Surgery 132:844–848
+132. Sauer M, Stahn A, Soltesz S et al (2011) The inﬂuence of 151. Yang Z, Zheng Q, Wang Z (2008) Meta-analysis of the need for
+    residual neuromuscular block on the incidence of critical res- nasogastric or nasojejunal decompression after gastrectomy for
+    piratory events. A randomised, prospective, placebo-controlled gastric cancer. Br J Surg 95:809–816
+    trial. Eur J Anaesthesiol 28:842–848                     152. Liscia G, Scaringi S, Facchiano E et al (2014) The role of
+133. Murphy GS, Szokol JW, Marymont JH et al (2008) Intraoper-   drainage after Roux-en-Y gastric bypass for morbid obesity: a
+    ative acceleromyographic monitoring reduces the risk of resid- systematic review. Surg Obes Relat Dis 10:171–176
+    ual neuromuscular blockade and adverse respiratory events in 153. Kavuturu S, Rogers AM, Haluck RS (2012) Routine drain
+    the postanesthesia care unit. Anesthesiology 109:389–398     placement in Roux-en-Y gastric bypass: an expanded retro-
+134. Butterly A, Bittner EA, George E et al (2010) Postoperative spective comparative study of 755 patients and review of the
+    residual curarization from intermediate-acting neuromuscular literature. Obes Surg 22:177–181
+    blocking agents delays recovery room discharge. Br J Anaesth 154. Kim J, Lee J, Hyung WJ et al (2004) Gastric cancer surgery
+    105:304–309                                                  without drains: a prospective randomized trial. J Gastrointest
+135. Murphy GS, Szokol JW, Avram MJ et al (2011) Intraoperative  Surg 8:727–732
+    acceleromyography monitoring reduces symptoms of muscle  155. Petrowsky H, Demartines N, Rousson V, et al. (2004) Evidence-
+    weakness and improves quality of recovery in the early post- based value of prophylactic drainage in gastrointestinal surgery:
+    operative period. Anesthesiology 115:946–954                 a  systematic review  and   meta-analyses. Ann  Surg
+136. Abrishami A, Ho J, Wong J, et al. (2009) Sugammadex, a      240:1074–1084. discussion 1084–5
+    selective reversal medication for preventing postoperative 156. Siyam M, Benhamou D (2007) Anaesthetic management of
+    residual neuromuscular blockade. Cochrane Database Syst      adult patients with obstructive sleep apnea syndrome. Ann Fr
+    Rev:Cd007362                                                 Anesth Reanim 26:39–52
+137. Suzuki T, Masaki G, Ogawa S (2006) Neostigmine-induced  157. Ziemann-Gimmel P, Hensel P, Koppman J et al (2013) Multi-
+    reversal of vecuronium in normal weight, overweight and obese modal analgesia reduces narcotic requirements and antiemetic
+    female patients. Br J Anaesth 97:160–163                     rescue medication in laparoscopic Roux-en-Y gastric bypass
+138. Baillard C, Clec’h C, Catineau J et al (2005) Postoperative surgery. Surg Obes Relat Dis 9:975–980
+    residual neuromuscular block: a survey of management. Br J 158. Maund E, McDaid C, Rice S et al (2011) Paracetamol and
+    Anaesth 95:622–626                                           selective and non-selective non-steroidal anti-inﬂammatory
+139. Jones RK, Caldwell JE, Brull SJ et al (2008) Reversal of pro- drugs for the reduction in morphine-related side-effects after
+    found rocuronium-induced blockade with sugammadex: a ran-    major  surgery: a  systematic review. Br  J  Anaesth
+    domized  comparison  with  neostigmine. Anesthesiology       106:292–297
+    109:816–824                                              159. Chaparro LE, Clarke H, Valdes PA et al (2012) Adding prega-
+140. Blobner M, Eriksson LI, Scholz J et al (2010) Reversal of rocuro- balin to a multimodal analgesic regimen does not reduce pain
+    nium-induced neuromuscular blockade with sugammadex com-     scores following cosmetic surgery: a randomized trial. J Anesth
+    pared with neostigmine during sevoﬂurane anaesthesia: results of a 26:829–835
+    randomised, controlled trial. Eur J Anaesthesiol 27:874–881 160. Tufanogullari B, White PF, Peixoto MP et al (2008) Dexmedeto-
+141. Nguyen NT, Nguyen B, Shih A et al (2013) Use of laparoscopy midine infusion during laparoscopic bariatric surgery: the effect on
+    in general surgical operations at academic centers. Surg Obes recovery outcome variables. Anesth Analg 106:1741–1748
+    Relat Dis 9:15–20                                        161. Graves DA, Batenhorst RL, Bennett RL et al (1983) Morphine
+142. Lujan JA, Frutos MD, Hernandez Q et al (2004) Laparoscopic  requirements using patient-controlled analgesia: inﬂuence of
+    versus open gastric bypass in the treatment of morbid obesity: a diurnal variation and morbid obesity. Clin Pharm 2:49–53
+    randomized prospective study. Ann Surg 239:433–437       162. Frey WC, Pilcher J (2003) Obstructive sleep-related breathing
+143. Nguyen NT, Goldman C, Rosenquist CJ et al (2001) Laparoscopic disorders in patients evaluated for bariatric surgery. Obes Surg
+    versus open gastric bypass: a randomized study of outcomes, quality 13:676–683
+    of life, and costs. Ann Surg 234:279–289. discussion 289–91 163. Beaussier M, Bouaziz H, Aubrun F et al (2012) Wound inﬁl-
+144. Westling A, Gustavsson S (2001) Laparoscopic vs open Roux-  tration with local anesthetics for postoperative analgesia. Results
+    en-Y gastric bypass: a prospective, randomized trial. Obes Surg of a national survey about its practice in France. Ann Fr Anesth
+    11:284–292                                                   Reanim 31:120–125
+
+                                                                                                            123
+
+
+2082                                                                                    World J Surg (2016) 40:2065–2083
+
+164. Kahokehr A, Sammour T, Soop M et al (2010) Intraperitoneal 182. Rowan BO, Kuhl DA, Lee MD et al (2008) Anti-Xa levels in
+    use of local anesthetic in laparoscopic cholecystectomy: sys- bariatric surgery patients receiving prophylactic enoxaparin.
+    tematic review and metaanalysis of randomized controlled trials. Obes Surg 18:162–166
+    J Hepatobiliary Pancreat Sci 17:637–656                  183. Simone EP, Madan AK, Tichansky DS et al (2008) Comparison
+165. Pappas-Gogos G, Tsimogiannis KE, Zikos N et al (2008)       of two low-molecular-weight heparin dosing regimens for
+    Preincisional and intraperitoneal ropivacaine plus normal saline patients undergoing laparoscopic bariatric surgery. Surg Endosc
+    infusion for postoperative pain relief after laparoscopic chole- 22:2392–2395
+    cystectomy: a randomized double-blind controlled trial. Surg 184. Borkgren-Okonek MJ, Hart RW, Pantano JE et al (2008)
+    Endosc 22:2036–2045                                          Enoxaparin thromboprophylaxis in gastric bypass patients:
+166. Alkhamesi NA, Kane JM, Guske PJ et al (2008) Intraperitoneal extended duration, dose stratiﬁcation, and antifactor Xa activity.
+    aerosolization of bupivacaine is a safe and effective method in Surg Obes Relat Dis 4:625–631
+    controlling postoperative pain in laparoscopic Roux-en-Y gas- 185. Bergqvist D, Agnelli G, Cohen AT et al (2002) Duration of
+    tric bypass. J Pain Res 1:9–13                               prophylaxis against venous thromboembolism with enoxaparin
+167. Hilvering B, Draaisma WA, van der Bilt JD et al (2011) Ran- after surgery for cancer. N Engl J Med 346:975–980
+    domized clinical trial of combined preincisional inﬁltration and 186. Hull RD, Pineo GF, Stein PD et al (2001) Extended out-of-
+    intraperitoneal instillation of levobupivacaine for postoperative hospital low-molecular-weight heparin prophylaxis against deep
+    pain after laparoscopic cholecystectomy. Br J Surg 98:784–789 venous thrombosis in patients after elective hip arthroplasty: a
+168. Wassef M, Lee DY, Levine JL et al (2013) Feasibility and    systematic review. Ann Intern Med 135:858–869
+    analgesic efﬁcacy of the transversus abdominis plane block after 187. Lorch H, Zwaan M, Siemens HJ et al (2000) Temporary vena
+    single-port laparoscopy in patients having bariatric surgery. cava ﬁlters and ultrahigh streptokinase thrombolysis therapy: a
+    J Pain Res 6:837–841                                         clinical study. Cardiovasc Intervent Radiol 23:273–278
+169. von Ungern-Sternberg BS, Regli A, Reber A et al (2005) Effect 188. Kaufman JA, Kinney TB, Streiff MB et al (2006) Guidelines for
+    of obesity and thoracic epidural analgesia on perioperative  the use of retrievable and convertible vena cava ﬁlters: report
+    spirometry. Br J Anaesth 94:121–127                          from the Society of Interventional Radiology multidisciplinary
+170. Levy BF, Scott MJ, Fawcett W et al (2011) Randomized clinical consensus conference. Surg Obes Relat Dis 2:200–212
+    trial of epidural, spinal or patient-controlled analgesia for 189. Offner PJ, Hawkes A, Madayag R et al (2003) The role of
+    patients undergoing laparoscopic colorectal surgery. Br J Surg temporary inferior vena cava ﬁlters in critically ill surgical
+    98:1068–1078                                                 patients. Arch Surg 138:591–594. discussion 594–5
+171. Charghi R, Backman S, Christou N et al (2003) Patient con- 190. Mechanick JI, Kushner RF, Sugerman HJ et al (2008) American
+    trolled i.v. analgesia is an acceptable pain management strategy Association of Clinical Endocrinologists. The Obesity Society,
+    in morbidly obese patients undergoing gastric bypass surgery. A and American Society for Metabolic & Bariatric Surgery
+    retrospective comparison with epidural analgesia. Can J Anaesth Medical guidelines for clinical practice for the perioperative
+    50:672–678                                                   nutritional, metabolic, and nonsurgical support of the bariatric
+172. Mismetti P, Laporte S, Darmon JY et al (2001) Meta-analysis of surgery patient. Endocr Pract 14(Suppl 1):1–83
+    low molecular weight heparin in the prevention of venous 191. Crowley LV, Seay J, Mullin G (1984) Late effects of gastric
+    thromboembolism in general surgery. Br J Surg 88:913–930     bypass for obesity. Am J Gastroenterol 79:850–860
+173. Clagett GP, Reisch JS (1988) Prevention of venous throm- 192. Kushner R (2000) Managing the obese patient after bariatric
+    boembolism in general surgical patients. Results of meta-anal- surgery: a case report of severe malnutrition and review of the
+    ysis. Ann Surg 208:227–240                                   literature. JPEN J Parenter Enteral Nutr 24:126–132
+174. Overby DW, Kohn GP, Cahan MA et al (2009) Prevalence of 193. Stocker DJ (2003) Management of the bariatric surgery patient.
+    thrombophilias in patients presenting for bariatric surgery. Obes Endocrinol Metab Clin North Am 32:437–457
+    Surg 19:1278–1285                                        194. Brolin RE (2001) Gastric bypass. Surg Clin North Am
+175. Samama MM (2000) An epidemiologic study of risk factors for 81:1077–1095
+    deep vein thrombosis in medical outpatients: the Sirius study. 195. Heber D, Greenway FL, Kaplan LM et al (2010) Endocrine and
+    Arch Intern Med 160:3415–3420                                nutritional management of the post-bariatric surgery patient: an
+176. Geerts WH, Pineo GF, Heit JA et al (2004) Prevention of venous Endocrine Society Clinical Practice Guideline. J Clin Endocri-
+    thromboembolism:  the Seventh  ACCP    Conference on         nol Metab 95:4823–4843
+    Antithrombotic and Thrombolytic Therapy. Chest 126:338s–400s 196. Donadelli SP, Junqueira-Franco MV, de Mattos Donadelli CA
+177. Gonzalez QH, Tishler DS, Plata-Munoz JJ et al (2004) Incidence et al (2012) Daily vitamin supplementation and hypovitaminosis
+    of clinically evident deep venous thrombosis after laparoscopic after obesity surgery. Nutrition 28:391–396
+    Roux-en-Y gastric bypass. Surg Endosc 18:1082–1084       197. Khanna V, Kashyap SR (2015) Clinical management of type 2
+178. Guyatt GH, Akl EA, Crowther M et al (2012) Executive sum-   diabetes mellitus after bariatric surgery. Curr Atheroscler Rep
+    mary: antithrombotic therapy and prevention of thrombosis, 9th 17:59
+    ed: American college of chest physicians evidence-based clini- 198. Expert Panel on Detection, Evaluation, and Treatment of High
+    cal practice guidelines. Chest 141:7S–47S                    Blood Cholesterol in Adults (2001) Executive summary of the
+179. Shepherd MF, Rosborough TK, Schwartz ML (2003) Heparin      third report of the national cholesterol education program
+    thromboprophylaxis in gastric bypass surgery. Obes Surg      (NCEP) expert panel on detection, evaluation, and treatment of
+    13:249–253                                                   high blood cholesterol in adults (adult treatment panel III).
+180. Hirsh J, Raschke R (2004) Heparin and low-molecular-weight  JAMA 285:2486–2497
+    heparin: the Seventh ACCP Conference on Antithrombotic and 199. The Evidence Report. National Institutes of Health (1998) Clinical
+    Thrombolytic Therapy. Chest 126:188s–203s                    guidelines on the identiﬁcation, evaluation, and treatment of
+181. American Society for Metabolic and Bariatric Surgery Clinical overweight and obesity in adults—the evidence report. National
+    Issues Committee (2013) ASMBS updated position statement on  Institutes of Health. Obes Res 6(Suppl 2):51s–209s
+    prophylactic measures to reduce the risk of venous throm- 200. Dhatariya K, Levy N, Kilvert A et al (2012) NHS Diabetes
+    boembolism in bariatric surgery patients. Surg Obes Relat Dis guideline for the perioperative management of the adult patient
+    9:493–497                                                    with diabetes. Diabet Med 29:420–433
+
+123
+
+
+World J Surg (2016) 40:2065–2083                                                                                 2083
+
+201. Robinson PD (2014) Obesity and its impact on the respiratory 217. Mutter TC, Chateau D, Moffatt M et al (2014) A matched cohort
+    system. Paediatr Respir Rev 15:219–226                       study of postoperative outcomes in obstructive sleep apnea:
+202. Eichenberger A, Proietti S, Wicky S et al (2002) Morbid obesity could preoperative diagnosis and treatment prevent complica-
+    and postoperative pulmonary atelectasis: an underestimated   tions? Anesthesiology 121:707–718
+    problem. Anesth Analg 95:1788–1792. table of contents    218. Zarbock A, Mueller E, Netzer S et al (2009) Prophylactic nasal
+203. Guimaraes MM, El Dib R, Smith AF et al (2009) Incentive     continuous positive airway pressure following cardiac surgery
+    spirometry for prevention of postoperative pulmonary compli- protects from postoperative pulmonary complications: a
+    cations in upper abdominal surgery. Cochrane Database Syst   prospective, randomized, controlled trial in 500 patients. Chest
+    Rev:Cd006058                                                 135:1252–1259
+204. von Ungern-Sternberg BS, Regli A, Schneider MC et al (2004) 219. Komatsu R, Turan AM, Orhan-Sungur M et al (2007)
+    Effect of obesity and site of surgery on perioperative lung vol- Remifentanil for general anaesthesia: a systematic review.
+    umes. Br J Anaesth 92:202–207                                Anaesthesia 62:1266–1280
+205. Fleischmann E, Kurz A, Niedermayr M et al (2005) Tissue 220. Olbers T, Fagevik-Olsen M, Maleckas A et al (2005) Ran-
+    oxygenation in obese and non-obese patients during laparo-   domized clinical trial of laparoscopic Roux-en-Y gastric bypass
+    scopy. Obes Surg 15:813–819                                  versus laparoscopic vertical banded gastroplasty for obesity. Br
+206. Chung F, Subramanyam R, Liao P et al (2012) High STOP-Bang  J Surg 92:557–562
+    score indicates a high probability of obstructive sleep apnoea. Br 221. Jensen C, Tejirian T, Lewis C et al (2008) Postoperative CPAP
+    J Anaesth 108:768–775                                        and BiPAP use can be safely omitted after laparoscopic Roux-
+207. Ahmad S, Nagle A, McCarthy RJ et al (2008) Postoperative    en-Y gastric bypass. Surg Obes Relat Dis 4:512–514
+    hypoxemia  in morbidly obese patients with and without   222. Lindberg E, Berne C, Elmasry A et al (2006) CPAP treatment of
+    obstructive sleep apnea undergoing laparoscopic bariatric sur- a population-based sample—what are the beneﬁts and the
+    gery. Anesth Analg 107:138–143                               treatment compliance? Sleep Med 7:553–560
+208. Mehta V, Vasu TS, Phillips B et al (2013) Obstructive sleep 223. Liao P, Yegneswaran B, Vairavanathan S et al (2009) Postop-
+    apnea and oxygen therapy: a systematic review of the literature erative complications in patients with obstructive sleep apnea: a
+    and meta-analysis. J Clin Sleep Med 9:271–279                retrospective matched cohort study. Can J Anaesth 56:819–828
+209. Meoli AL, Rosen CL, Kristo D et al (2003) Upper airway  224. Bolden N, Smith CE, Auckley D et al (2007) Perioperative
+    management of the adult patient with obstructive sleep apnea in complications during use of an obstructive sleep apnea protocol
+    the  perioperative period–avoiding complications. Sleep      following surgery and anesthesia. Anesth Analg 105:1869–1870
+    26:1060–1065                                             225. DeMaria EJ, Portenier D, Wolfe L (2007) Obesity surgery
+210. Wong DT, Adly E, Ip HY et al (2011) A comparison between    mortality risk score: proposal for a clinically useful score to
+    the Boussignac continuous positive airway pressure mask and  predict mortality risk in patients undergoing gastric bypass. Surg
+    the venturi mask in terms of improvement in the PaO2/F(I)O2  Obes Relat Dis 3:134–140
+    ratio in morbidly obese patients undergoing bariatric surgery: a 226. Macintyre PE, Loadsman JA, Scott DA (2011) Opioids, venti-
+    randomized controlled trial. Can J Anaesth 58:532–539        lation and acute pain management. Anaesth Intensive Care
+211. Giles TL, Lasserson TJ, Smith BJ et al (2006) Continuous    39:545–558
+    positive airways pressure for obstructive sleep apnoea in adults. 227. Rennotte MT, Baele P, Aubert G et al (1995) Nasal continuous
+    Cochrane Database Syst Rev:Cd001106                          positive airway pressure in the perioperative management of
+212. Goudra BG, Singh PM, Penugonda LC et al (2014) Signiﬁcantly patients with obstructive sleep apnea submitted to surgery. Chest
+    reduced hypoxemic events in morbidly obese patients under-   107:367–374
+    going gastrointestinal endoscopy: predictors and practice effect. 228. Roulin D, Donadini A, Gander S et al (2013) Cost-effectiveness
+    J Anaesthesiol Clin Pharmacol 30:71–77                       of the implementation of an enhanced recovery protocol for
+213. Neligan PJ, Malhotra G, Fraser M et al (2009) Continuous    colorectal surgery. Br J Surg 100:1108–1114
+    positive airway pressure via the Boussignac system immediately 229. Joliat GR, Labgaa I, Petermann D et al (2015) Cost-beneﬁt
+    after extubation improves lung function in morbidly obese    analysis of an enhanced recovery protocol for pancreaticoduo-
+    patients with obstructive sleep apnea undergoing laparoscopic denectomy. Br J Surg 102:1676–1683
+    bariatric surgery. Anesthesiology 110:878–884            230. King PM, Blazeby JM, Ewings P et al (2006) The inﬂuence of
+214. Helling TS, Willoughby TL, Maxﬁeld DM et al (2004) Deter-   an enhanced recovery programme on clinical outcomes, costs
+    minants of the need for intensive care and prolonged mechanical and quality of life after surgery for colorectal cancer. Colorectal
+    ventilation in patients undergoing bariatric surgery. Obes Surg Dis 8:506–513
+    14:1036–1041                                             231. Vlug MS, Wind J, Hollmann MW et al (2011) Laparoscopy in
+215. Grover BT, Priem DM, Mathiason MA et al (2010) Intensive    combination with fast track multimodal management is the best
+    care unit stay not required for patients with obstructive sleep perioperative strategy in patients undergoing colonic surgery: a
+    apnea after laparoscopic Roux-en-Y gastric bypass. Surg Obes randomized clinical trial (LAFA-study). Ann Surg 254:868–875
+    Relat Dis 6:165–170
+216. Singh M, Liao P, Kobah S et al (2013) Proportion of surgical
+    patients with undiagnosed obstructive sleep apnoea. Br J
+    Anaesth 110:629–636
+
+
+                                                                                                            123
+
+
+

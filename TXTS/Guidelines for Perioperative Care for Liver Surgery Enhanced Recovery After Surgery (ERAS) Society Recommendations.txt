@@ -1,0 +1,1031 @@
+World J Surg (2016) 40:2425–2440
+DOI 10.1007/s00268-016-3700-1
+
+ SCIENTIFIC REVIEW
+
+Guidelines for Perioperative Care for Liver Surgery: Enhanced
+Recovery After Surgery (ERAS) Society Recommendations
+
+                 1,2               1              3               4,5
+Emmanuel Melloul    • Martin Hu¨bner • Michael Scott • Chris Snowden •
+             6                     7                  8               9
+James Prentis • Cornelis H. C. Dejong • O. James Garden • Olivier Farges •
+                10                     11                    12
+Norihiro Kokudo   • Jean-Nicolas Vauthey • Pierre-Alain Clavien •
+Nicolas Demartines1
+
+
+Published online: 22 August 2016
+Ó Socie´te´ Internationale de Chirurgie 2016
+
+
+   Abstract
+   Background Enhanced Recovery After Surgery (ERAS) is a multimodal pathway developed to overcome the delete-
+   rious effect of perioperative stress after major surgery. In colorectal surgery, ERAS pathways reduced perioperative
+   morbidity, hospital stay and costs. Similar concept should be applied for liver surgery. This study presents the speciﬁc
+   ERAS Society recommendations for liver surgery based on the best available evidence and on expert consensus.
+   Methods A systematic review was performed on ERAS for liver surgery by searching EMBASE and Medline. Five
+   independent reviewers selected relevant articles. Quality of randomized trials was assessed according to the Jadad
+   score and CONSORT statement. The level of evidence for each item was determined using the GRADE system. The
+   Delphi method was used to validate the ﬁnal recommendations.
+   Results A total of 157 full texts were screened. Thirty-seven articles were included in the systematic review, and 16 of
+   the 23 standard ERAS items were studied speciﬁcally for liver surgery. Consensus was reached among experts after 3
+   rounds. Prophylactic nasogastric intubation and prophylactic abdominal drainage should be omitted. The use of post-
+   operative oral laxatives and minimally invasive surgery results in a quicker bowel recovery and shorter hospital stay.
+   Goal-directed ﬂuid therapy with maintenance of a low intraoperative central venous pressure induces faster recovery.
+   Early oral intake and mobilization are recommended. There is no evidence to prefer epidural to other types of analgesia.
+   Conclusions The current ERAS recommendations were elaborated based on the best available evidence and endorsed
+   by the Delphi method. Nevertheless, prospective studies need to conﬁrm the clinical use of the suggested protocol.
+
+
+Electronic supplementary material The online version of this
+article (doi:10.1007/s00268-016-3700-1) contains supplementary
+material, which is available to authorized users.
+
+&  Nicolas Demartines
+   demartines@chuv.ch
+                                                     5  Institute of Cellular Medicine, The Medical School,
+1  Department of Visceral Surgery, University Hospital  University of Newcastle upon Tyne, Newcastle upon Tyne,
+   Lausanne, CHUV, Rue du Bugnon 46, 1011 Lausanne,     UK
+   Switzerland
+                                                     6  Department of Perioperative and Critical Care Medicine,
+2  Recanati/Miller Transplantation Institute, Icahn School of Freeman Hospital, Newcastle upon Tyne, UK
+   Medicine at Mount Sinai, New York, USA
+                                                     7  Department of Surgery, Maastricht University Medical
+3  Royal Surrey County Hospital NHS Foundation Trust,   Center and NUTRIM School for Translational Research in
+   Guildford, UK                                        Metabolism, Maastricht, The Netherlands
+4  Department of Perioperative and Critical Care Medicine, 8 Department of Clinical Surgery, School of Clinical Sciences,
+   Freeman Hospital, Newcastle upon Tyne, UK            The University of Edinburgh, Edinburgh, UK
+                                                                                               123
+
+
+2426                                                                         World J Surg (2016) 40:2425–2440
+
+Introduction                                            The present systematic review elaborates speciﬁc ERAS
+                                                     Society guidelines for enhanced recovery care after liver
+Enhanced Recovery After Surgery (ERAS) is a multi-   surgery by systematic review of the literature and expert
+modal pathway  developed  to improve recovery after  consensus with the Delphi method.
+major surgery. The ERAS strategy has been validated in
+colorectal surgery and is applied in other specialties
+including urology, thoracic, vascular and orthopedic sur- Methods
+gery [1–3]. In colorectal surgery, ERAS pathways allow
+signiﬁcant reduction in postoperative complications, faster Literature search and data selection
+functional recovery, shorter hospital stays and reduced
+costs, even in elderly patients [4–6]. Patients within According to the PRISMA statements [14], EMBASE
+ERAS pathways mainly beneﬁt from   reduced medical   and Medline (through PubMed) were searched system-
+complications, while surgical morbidity remains generally atically using the medical subject headings (MeSH)
+unchanged [5].                                       ‘‘Hepatectomy AND the 23 pre-, intra- and postoperative
+  Liver surgery is a major and challenging procedure for validated ERAS items.’’ Only full-text articles in English
+both anesthesiologists and surgeons, and for the patient. were analyzed. Eligible articles included meta-analyses,
+Major morbidity ranges from 17 % in benign to 27 % in randomized controlled trials (RCTs) or prospective
+malignant disease, with a mortality risk of up to 5 % [7]. In cohort studies with control group published between
+particular, pulmonary complications may reach 30 % with January 1997 (1st landmark published study on ERAS
+increased risk of thromboembolic events of 5 % [7–10]. In [15]) and December 1, 2015. Retrospective series were
+addition, about 50 % of patients experience nausea and considered only if data of better quality could not be
+adverse digestive events [11]. Perioperative stress is identiﬁed.
+increased during major liver surgery, and all measures
+implemented to reduce the metabolic stress response could Inclusion and exclusion criteria
+potentially reduce medical complications [5]. A recent
+meta-analysis demonstrated that enhanced recovery path- According to our literature search, there are no data on
+ways for liver surgery was associated with a signiﬁcant the use of ERAS protocol in patients with obstructive
+decrease in postoperative complications and length of jaundice or cirrhosis. The expert panel agreed in the ﬁrst
+hospital stay compared to standard care [12]. However, the round of the Delphi process to focus the systematic
+majority of studies including ERAS protocols in liver review on non-obstructive jaundiced patients without
+surgery were performed in patients with normal liver par- cirrhosis. All types of hepatectomy according to the
+enchyma, while data in cirrhotic and obstructive jaundiced Brisbane classiﬁcation were included [16]. Major hepa-
+patients remained scarce. Unfortunately, published proto- tectomy was deﬁned as resection of 3 or more Couin-
+cols vary widely, and actual application of the intended aud’s segments. Patients with choledocho-jejunostomy or
+protocol (compliance) was provided in one single study vascular reconstruction were also included. All series
+only [13]. Furthermore, hepatic and colorectal surgeries including liver transplantation and patients with addi-
+differ in terms of underlying disease, comorbidities, tional non-liver surgery (e.g., hepato-pancreaticoduo-
+metabolic stress response and organ-speciﬁc complica- denectomy,  colorectal-associated resection) were
+tions. It is currently unclear whether the ERAS elements excluded.
+validated for colorectal surgery can be extrapolated and
+applied for liver surgery.                           Data extraction and quality assessment
+
+                                                     The ﬁrst literature search was performed independently by
+
+9                                                    5 authors (EM, MH, MS, CS and JP) in January 2015. The
+   Department of HPB Surgery and Liver Transplantation, terms of interest were ﬁrst identiﬁed in the title, secondly in
+   Beaujon Hospital, Clichy, France
+10                                                   the abstract or medical subject headings. All studies of
+   Hepato-Biliary-Pancreatic Surgery Division, Department of interest were screened with thorough full-text reading. The
+   Surgery, Graduate School of Medicine, The University of
+   Tokyo, Bunkyo-ku, Tokyo, Japan                    quality of RCTs included was assessed using the Jadad
+                                                     score (range 0–5) and the Consolidated Standards of
+11 Department of Surgical Oncology, U.T. MD Anderson
+   Cancer Center, Houston, TX, USA                   Reporting Trials (CONSORT) statement checklist [17, 18].
+                                                     According to the published ERAS recommendations for
+12 Swiss Hepato-pancreato-biliary and Transplantation Center,
+   Department of Surgery, University Hospital Zurich, Zurich, pancreaticoduodenectomy [19], the level of evidence for
+   Switzerland                                       each  item  was  determined using  the Grading  of
+123
+
+
+World J Surg (2016) 40:2425–2440                                                                                 2427
+
+Table 1 Summary of ERAS recommendations for each item and the respective level of evidence
+ERAS items             Summary                                             Evidence level        Grade of
+                                                                                                 recommendation
+
+1. Preoperative        Patients should receive routine dedicated preoperative Moderate           Strong
+  counseling             counseling and education before liver surgery
+2. Perioperative nutrition Patients at risk (weight loss [10–15 % within 6 months, High          Strong
+                         BMI \ 18.5 kg/m2 and serum albumin \30 g/l in the
+                         absence of liver or renal dysfunction) should receive oral
+                         nutritional supplements for 7 days prior to surgery. For
+                         severely malnourished patients ([10 % WL), surgery
+                         should be postponed for at least 2 weeks to improve
+                         nutritional status and allow patients to gain weight
+3. Perioperative oral  There is limited evidence for the use of IN in liver surgery Low          Weak
+  immunonutrition
+4. Preoperative fasting Preoperative fasting does not need to exceed 6 h for solids No preoperative fasting No preoperative fasting
+  and preoperative       and 2 h for liquids. Carbohydrate loading is recommended more than 6 h:   more than 6 h: strong
+  carbohydrates load     the evening before liver surgery and 2 h before induction moderate      Carbohydrate loading:
+                         of anesthesia                                     Carbohydrate loading:  weak
+                                                                            low
+5. Oral bowel preparation Oral MBP is not indicated before liver surgery   Low                   Weak
+6. Pre-anesthetic      Long-acting anxiolytic drugs should be avoided. Short-acting Moderate     Strong
+  medication             anxiolytics may be used to perform regional analgesia prior
+                         to the induction of anesthesia
+7. Anti-thrombotic     LMWH or unfragmented heparin reduces the risk of    Use of heparin:       Use of heparin: strong
+  prophylaxis            thromboembolic complications and should be started  moderate            Use of intermittent
+                         2–12 h before surgery, particularly in major hepatectomy. Use of intermittent pneumatic
+                         Intermittent pneumatic compression stockings should be pneumatic         compression devices:
+                         added to further decrease this risk                compression devices:  weak
+                                                                            low
+8. Perioperative steroids Steroids (methylprednisolone) may be used before Moderate              Weak
+  administration         hepatectomy in normal liver parenchyma, since it decreases
+                         liver injury and intraoperative stress, without increasing the
+                         risk of complications. Steroids should not be given in
+                         diabetic patients
+9. Antimicrobial       Single dose Intravenous antibiotics should be administered Antimicrobial  Antimicrobial
+  prophylaxis and skin   before skin incision and less than 1 h before hepatectomy. prophylaxis:   prophylaxis: strong
+  preparation            Postoperative ‘‘prophylactic’’ antibiotics are not  moderate            Skin preparation: strong
+                         recommended                                       Skin preparation:
+                       Skin preparation with chlorhexidine 2 % is superior to moderate
+                        povidone-iodine solution
+10. Incision           The choice of incision is at the surgeon’s discretion. It Moderate        Strong
+                         depends on the patient’s abdominal shape and location in
+                         the liver of the lesion to be resected. Mercedes-type
+                         incision should be avoided due to higher incisional hernia
+                         risk
+11. Minimally invasive LLR can be performed by hepato-biliary surgeons     Minimally invasive    Minimally invasive
+  approach               experienced in laparoscopic surgery, in particular left approach: moderate approach: strong
+                         lateral sectionectomy and resections of lesions located in Robotic surgery: low Robotic surgery: weak
+                         anterior segments
+                       There is currently no proven advantage of robotic liver
+                        resection in ERAS. Its use should be reserved for clinical
+                        trials
+12. Prophylactic       Prophylactic nasogastric intubation increases the risk of High            Strong
+  Nasogastric intubation pulmonary complications after hepatectomy. Its routine use
+                         is not indicated
+13. Prophylactic       The available evidence is non-conclusive and no     Low                   Weak
+  abdominal drainage     recommendation can be given for the use of prophylactic
+                         drainage or against it after hepatectomy
+
+                                                                                                            123
+
+
+2428                                                                                    World J Surg (2016) 40:2425–2440
+
+Table 1 continued
+ERAS items             Summary                                             Evidence level        Grade of
+                                                                                                 recommendation
+
+14. Preventing         Perioperative normothermia should be maintained during Moderate           Strong
+  intraoperative         liver resection
+  hypothermia
+15. Postoperative      Most patients can eat normal food at day one after liver Early oral intake: Early oral intake: strong
+  nutrition and early oral surgery. Postoperative enteral or parenteral feeding should moderate  Oral nutritional
+  intake                 be reserved for malnourished patients or those with Oral nutritional     supplements: weak
+                         prolonged fasting due to complications (e.g., ileus[5 days,
+                                                                            supplements:         No routine postoperative
+                         delayed gastric emptying)
+                                                                            moderate              artiﬁcial nutrition:
+                                                                           No routine             strong
+                                                                            postoperative artiﬁcial
+                                                                            nutrition: high
+16. Postoperative      Insulin therapy to maintain normoglycemia is recommended Moderate         Strong
+  glycaemic control
+17. Prevention of delayed An omentum ﬂap to cover the cut surface of the liver reduces High      Strong
+  gastric emptying       the risk of DGE after left-sided hepatectomy
+  (DGE)
+18. Stimulation of bowel Stimulation of bowel movement after liver surgery is not High           Strong
+  movement               indicated
+19. Early mobilization Early mobilization after hepatectomy should be encouraged Low             Weak
+                         from the morning after the operation until hospital
+                         discharge
+20. Analgesia          Routine TEA cannot be recommended in open liver surgery Moderate          Strong
+                         for ERAS patients. Wound infusion catheter or intrathecal
+                         opiates can be good alternatives combined with multimodal
+                         analgesia
+21. Preventing         Multimodal approach to PONV should be used. Patients Moderate             Strong
+  postoperative nausea   should receive PONV prophylaxis with 2 anti-emetic drugs
+  and vomiting (PONV)
+22. Fluid management   The maintenance of low CVP (below 5 cmH2O) with close Moderate            Strong
+                         monitoring during hepatic surgery is advocated. Balanced
+                         crystalloid should be preferred over 0.9 % saline or
+                         colloids to maintain intravascular volume and avoid
+                         hyperchloremic acidosis or renal dysfunction, respectively
+23. Audit              Systematic audit improves compliance and clinical outcome Moderate        Strong
+                         in healthcare practice
+
+
+Recommendations Assessment Development and Evalua-          Modiﬁed Delphi method
+tion (GRADE) system, in which the level of evidence was
+classiﬁed as high, moderate, low or very low [20]. The      A 3-round Web-based Delphi approach was used in this
+research team (EM, MH, ND) made a ﬁnal decision on          consensus process [21]. Surgical program directors, chair-
+inclusion of a study or not and was responsible for drafting men of liver surgery departments, academic surgeons and
+the ﬁrst manuscript.                                        anesthesiologists with publications involving ERAS and/or
+                                                            liver surgery were identiﬁed using PubMed database. They
+                                                            were deemed as ‘‘experts’’and were separated from the list of
+Items analyzed                                              authors. To ensure the international standpoint to this con-
+                                                            sensus, we aimed to recruit a panel of experts from America,
+The classical 23 ERAS items validated for colorectal sur-   Asia and Europe. A recruitment letter in English was sent via
+gery were analyzed for liver surgery (Table 1). When only   e-mail providing a brief outline of the project and its
+evidence in colorectal surgery was found for an item, it was objectives. If invited experts did not respond to the invitation
+searched for any evidence or rationale that this item should within 2 weeks, a reminder was sent out. Further experts
+not be used in liver surgery.                               were invited if no answer came in the next 2 weeks or the
+
+123
+
+
+World J Surg (2016) 40:2425–2440                                                                                 2429
+
+Fig. 1 PRISMA ﬂow diagram
+
+                                             1867 records identified 
+                                    through EMBASE and Medline database search 
+                               Identification  
+
+
+                                        1867 records screened (title/abstract)       1710 records excluded 
+                               Screening  
+
+
+                                                                                120 full text articles excluded due to: 
+                                                                                - Clinical outcome not addressed 
+                                     157 full text articles assessed for eligibility  
+                                                                                - Inadequate control/no control 
+                                                                                - Mixed surgical procedure  
+                               Eligibility  
+
+
+                                        37 studies included in final analysis 
+                               Included  
+
+
+Table 2 RCTs dedicated to liver surgery selected in the systematic review with the level of evidence
+Author      Year   Jadad   Level     Studied items                   Morbidity                            LOS
+                   score   evidence
+
+Lassen      2008   6       1         Postoperative artiﬁcial nutrition No difference                      No difference
+Darouiche   2010   4       1         Skin preparation                Preoperative cleansing with chlorhexidine Not assessed
+                                                                       is superior to povidone-iodine for
+                                                                       preventing SSI
+Hayashi     2011   7       1         Perioperative steroids          Positive impact on liver function. No No difference
+                                       administration                  difference in complications
+Wong        2007   5       2         Preventing intraoperative       Perioperative warming reduce blood loss No difference
+                                       hypothermia                     and complications
+Okabayashi  2009   3       2         Postoperative glycaemic control Intensive insulin therapy using a closed- Decreased
+                                                                       loop system lower SSI
+Pessaux     2007   5       2         Prophylactic Nasogastric        NGT has no advantage. NGT increased  No difference
+                                       intubation (NGT)                the risk of pulmonary complications
+Igami       2011   4       2         Prevention of delayed gastric   DGE reduced with omental ﬂap on the cut Not assessed
+                                       emptying (DGE)                  surface after left-sided hepatectomy
+Yoshida     2005   3       2         Prevention of delayed gastric   DGE reduced with omental ﬂap on the cut Not assessed
+                                       emptying (DGE)                  surface after left-sided hepatectomy
+Hendry      2010   2       2         Use of postoperative laxatives  Earlier passage of ﬁrst stool, no change in Decreased
+                                                                       morbidity
+Jones       2013   7       1         Goal-directed ﬂuid therapy      Decreased                            Decreased
+LOS length of hospital stay
+
+expert declined to participate in the study. A   positive   each ERAS item using the text editor track change system.
+response to the recruitment letter served as informed consent. The research team served in the role of facilitator, under-
+  In all 3 rounds, the manuscript was distributed by e-mail taking the synthesis between rounds. The process of syn-
+via a secured Web link. As previously validated, a modiﬁed  thesis included   discussion among   the research   team,
+Delphi process was used [22]. Each expert was asked to      exploring all expert opinions, disagreements and sugges-
+comment and edit anonymously the recommendations for        tions for change, before synthesized recommendations
+
+                                                                                                            123
+
+
+2430                                                                         World J Surg (2016) 40:2425–2440
+
+Table 3 Items with\75 % expert agreement in rounds 1 and 2 of the anesthesiologist (origin UK) and the others were liver surgeon.
+Delphi process                                       One expert originates from America, 1 from Japan, 1 from
+Item                          Round of    %of        Netherlands, 2 from England, 1 from France and 1 from
+                              disagreement agreement Switzerland. After 3 rounds, all recommendationswere agreed
+Perioperative oral immunonutrition 1      42         between the experts with a minimum of 75 %. Tables 3
+Perioperative steroids administration 1/2 42/71      summarize the items with\75 % agreement in rounds 1 and 2.
+Epidural analgesia            1           42
+Minimally invasive surgery    1           71
+                                                     ERAS recommendations
+Robotic surgery               1           57
+Fluid management              1/2         29/71
+                                                     1.  Preoperative counseling
+Prophylactic abdominal drainage 1         71
+                                                     There are no studies evaluating the therapeutic effect of
+were drafted for each subsequent round. Consensus was preoperative counseling and patient education before liver
+deﬁned as agreement by [75 % of raters (i.e., 6 of the 7 surgery. However, it is documented that patient decision aids
+experts) [23].                                       such as printed documents and online information sources
+                                                     increase the involvement of patients in decision-making
+                                                     process and also increase the value of informed consent [24].
+Results                                              In addition, leaﬂets or multimedia information regarding the
+                                                     procedure and details of the patients’ postoperative tasks
+The electronic search yielded 1867 potential studies. The improve results of perioperative feeding, mobilization and
+selection process according to PRISMA guidelines is dis- respiratory physiotherapy, thereby reducing complications
+played in Fig. 1.                                    after major abdominal surgery [1, 19].
+  Overall 10 RCTs, 3 prospective case series, 5 retro-  Recommendation:  Patients should receive routine
+spective case control series, 16 meta-analyses, 2 systematic dedicated preoperative counseling and education
+reviews and one expert opinion study were included in the before liver surgery.
+analysis. The overall quality of RCTs was high (Table 2); 9 Evidence level: moderate
+RCTs had a Jadad score C3. Among the 23 published       Grade: strong
+ERAS   items for colorectal surgery, 16 were studied
+speciﬁcally for liver surgery (perioperative oral nutrition,
+perioperative oral immunonutrition, treatment with carbo- 2. Perioperative nutrition
+hydrates, postoperative artiﬁcial nutrition, anti-thrombotic
+prophylaxis, antimicrobial prophylaxis and skin prepara- Malnutrition is an important modiﬁable risk factor for
+tion, type of incision, no routine resection site drainage, adverse outcomes after major surgery. Routine nutritional
+minimally  invasive approach,  perioperative steroid screening should be mandatory for all patients undergoing
+administration, postoperative glycaemic control, no pro- major surgery [25–27]. Several screening tools are avail-
+phylactic nasogastric intubation, prevention of delayed able, and their usefulness in clinical practice is demon-
+gastric emptying, laxatives use, multimodal analgesia and strated. The Nutritional Risk Score (NRS), the Malnutrition
+                                                     Universal Screening Tool          Subjective Global
+stringent ﬂuid management). Seven items were not studied                      and  the
+in liver surgery patients, and data were extrapolated from Assessment (SGA) deserve particular mention [25, 28].
+previous studies in colorectal surgery (preoperative coun- According to the ESPEN guidelines, delaying surgery to
+seling, no preoperative fasting, early mobilization, audit, allow for preoperative enteral nutrition (for at least
+early oral nutrition, prevention of postoperative nausea and 2 weeks) is recommended in patients with at least one of
+                                                     the following criteria: weight loss [10–15 % within
+vomiting (PONV) and prevention of postoperative ileus).                       2
+The summary and grading of recommendations with their 6 months, BMI \ 18.5 kg/m and serum albumin \30 g/l
+respective level of evidence are depicted in Table 1, and (with no evidence of hepatic or renal dysfunction) [25, 28].
+the results of the liver-speciﬁc studies used for the analysis Current recommendations suggest 5–7 days of oral sup-
+are summarized in Table 2 (and suppl. Table 1).      plements before surgery in patients at risk of malnutrition
+                                                     [25, 28]. In severely undernourished patients who cannot
+Delphi process results                               be fed adequately orally or enterally, parenteral nutrition is
+                                                     recommended (Grade A) [29].
+The response rate was 100 % after the ﬁrst invitation (7 Recommendation: Patients at risk (weight loss
+experts invited). Among the experts, one of the 7 was an [10–15 % within 6 months, BMI \ 18.5 kg/m2, and
+123
+
+
+World J Surg (2016) 40:2425–2440                                                                   2431
+
+  serum  albumin \30 g/l in the absence of liver or  5.  Oral bowel preparation
+  renal dysfunction) should receive oral nutritional
+                                                        Mechanical bowel preparation (MBP) may lead to ﬂuid
+  supplements for 7 days prior to surgery. For severely
+                                                     and electrolyte imbalances [37]. There are neither studies
+  malnourished patients ([10 % WL), surgery should
+                                                     nor evidences about MBP before liver surgery.
+  be postponed for at least 2 weeks to improve nutri-
+  tional status and allow patients to gain weight.      Recommendation:  Oral MBP is not indicated before
+  Evidence level: high                                  liver surgery.
+  Grade of recommendation:  strong                      Evidence level: low
+                                                        Grade of recommendation: weak
+
+3.  Perioperative oral immunonutrition
+                                                     6.  Pre-anesthetic medication
+  Immunonutrition (IN) contains x-3 fatty acids, arginine
+and nucleic acids. So far, the only randomized study on A recent Cochrane review on premedication for day case
+nutrition and liver resection included 26 patients only [30], surgery in adults suggested that patients receiving oral
+and no meaningful difference was reported. The ongoing anxiolytics showed impairment of psychomotor function
+PROPILS trial is likely to deliver a deﬁnitive answer: 200 4 h postoperatively, which reduced the patient’s ability to
+IN patients will be compared to 200 patients receiving mobilize, eat and drink [38]. This may also hold in patients
+isocaloric isonitrogenous nutrition for 7 days before liver with impaired liver function after resection, and long-act-
+resection with overall complications as primary endpoint ing sedative premedication should be avoided. In selected
+[31].                                                cases, short-acting anxiolytics may be administered, to
+                                                     facilitate regional anesthesia prior to general anesthesia
+  Recommendation:  There is limited evidence for the
+                                                     induction.
+  use of IN in liver surgery.
+  Evidence level: low                                   Recommendations:  Long-acting anxiolytic drugs
+  Grade of recommendation:  weak                        should be avoided. Short-acting anxiolytics may be
+                                                        used to perform regional analgesia prior to the
+                                                        induction of anesthesia.
+4.  Preoperative fasting and preoperative carbohydrate  Evidence level: moderate
+    load                                                Grade of recommendation: strong
+  Preoperative fasting no more than 2 h for liquids and 6 h 7. Anti-thrombotic prophylaxis
+for solid food has proven to be safe and is recommended
+for digestive surgery [32]. A recent systematic review  Major hepatectomy in a normal liver parenchyma is an
+included 17 randomized trials with 1445 surgical patients independent risk factor for postoperative PE [9]. In a large
+[33]. Patients receiving carbohydrates had less periopera- comparative cohort study (n = 419), patients treated with
+tive insulin resistance and fewer symptoms like malaise, postoperative thrombo-prophylaxis beginning at day 1 after
+hunger, thirst, nausea or anxiety. No difference in terms of major hepatectomy had lower postoperative symptomatic
+complications was observed, but one study demonstrated venous thromboembolism (VTE) [39]. LMWH or unfrag-
+reduced hospital stay [33]. Carbohydrate loading is ﬁrmly mented heparin treatment should be initiated 2–12 h before
+established in colorectal guidelines [34, 35] and may be surgery and continued until patients are fully mobile [19].
+recommended in major liver surgery, since some data in Of note, possible interference with the use of epidural
+the literature support the deleterious effect of insulin analgesia still needs to be assessed. The heparin should be
+resistance on liver regeneration [36].               administered 12 h prior to insertion of epidural catheter.
+                                                     A Cochrane meta-analysis supports continued treatment for
+  Recommendation:   Preoperative fasting does not
+                                                     4 weeks after hospital discharge particularly in oncologic
+  need to exceed 6 h for solids and 2 h for liquids.
+                                                     patients [40]. In addition, the use of compressive stockings
+  Carbohydrate loading is recommended the evening
+                                                     and intermittent pneumatic compression devices can fur-
+  before liver surgery and 2 h before induction of
+                                                     ther decrease this risk [35].
+  anesthesia.
+  Evidence level: No preoperative fasting more than     Recommendation:  LMWH or unfragmented heparin
+  6 h: moderate; Carbohydrate loading: low              reduces the risk of thromboembolic complications
+  Grade of recommendation: No preoperative fasting      and should be started 2–12 h before surgery, partic-
+  more than 6 h: strong; Carbohydrate loading: weak     ularly in major hepatectomy. Intermittent pneumatic
+
+                                                                                               123
+
+
+2432                                                                         World J Surg (2016) 40:2425–2440
+
+  compression stockings should be added to further   surgery [47]. In a recent Cochrane meta-analysis including
+  decrease this risk.                                7 RCTs’ (n = 521 patients), no antimicrobial method (i.e.,
+  Evidence level: Use of heparin: moderate; Use of   perioperative antibiotic therapy, pre- and probiotics
+  intermittent pneumatic compression devices: low    through enteral feeding catheter) could improve outcomes
+  Grade of recommendation:  Use of heparin: strong;  after liver surgery [43]. Hirokawa et al. [44] demonstrated
+  Use of intermittent pneumatic compression devices: that postoperative antibiotic therapy with ﬂomoxef sodium
+  weak                                               third-generation cephalosporin) every 12 h for 3 days did
+                                                     not prevent postoperative infectious complications com-
+                                                     pared to single preoperative administration. The adminis-
+8.  Perioperative steroid administration             tration of antibiotics for 2 or 5 days after hepatectomy
+                                                     without biliary reconstruction did not modify SSI and
+  According to a previous meta-analysis including 5
+                                                     systemic infections [45].
+RCTs’ (n = 379 patients) comparing preoperative steroid
+administration to placebo during liver resection, preop- Recommendation: Single dose intravenous antibi-
+erative steroid use was associated with a signiﬁcant    otics should be administered before skin incision and
+reduction in levels of bilirubin and interleukin 6 (IL-6) less than 1 h before hepatectomy. Postoperative
+on postoperative day 1 [41]. In addition, steroid used was ‘‘prophylactic’’ antibiotics are not recommended.
+associated with a trend toward lower incidence of post- Evidence level: moderate
+operative complications. A more recent meta-analysis by Grade of recommendation: strong
+Li et al. [42] showed contradictory results, with no
+                                                        Regarding skin preparation, one single RCT (n = 100
+impact on postoperative complications after liver resec-
+                                                     patients) assessed the efﬁcacy of chlorhexidine gluconate
+tion. Most studies used methylprednisolone at a dosage
+                                                     for pre-hepatectomy skin cleansing [48]. According to this
+of 30 mg/kg 30 min to 2 h prior to surgery. The use of
+                                                     study, SSI (primary outcome measure) was not different
+steroids in diabetics has not been studied and, since the
+                                                     compared to control with saline solution only. On the other
+glycaemic control is impaired after hepatectomy, it is
+                                                     hand, a recently published large RCT (n = 849 patients)
+best avoided in this group until further studies are
+                                                     including abdominal (and liver surgery) and non-abdomi-
+available.
+                                                     nal types of surgery  demonstrated that preoperative
+  Recommendation:    Steroids (methylprednisolone)   cleansing with chlorhexidine–alcohol 2 % was superior to
+  may be used before hepatectomy in normal liver     povidone-iodine to prevent SSI [49].
+  parenchyma, since it decreases liver injury and
+                                                        Recommendation:  Skin preparation with chlorhexi-
+  intraoperative stress, without increasing the risk of
+                                                        dine 2 % is superior to povidone-iodine solution.
+  complications. Steroids should not be given in dia-
+                                                        Evidence level: moderate
+  betic patients.
+                                                        Grade of recommendation: strong
+  Evidence level: moderate
+  Grade of recommendation:  weak
+                                                     10.  Incision
+9.  Antimicrobial prophylaxis and skin preparation      There are four major types of incision: median incision,
+                                                     right transverse incision with vertical extension to the
+  Liver surgery is classiﬁed as clean-contaminated surgery
+                                                     xiphoid (J-shaped), subcostal incision extending to the left
+due to bile duct transection. There is no clear evidence for
+                                                     and bilateral transverse incision with vertical extension
+systematic use of antimicrobial prophylaxis in liver surgery
+                                                     (Mercedes-type). According to the two largest retrospec-
+[43–45]. In addition, there is no evidence on the beneﬁt of
+                                                     tive cohort studies (n = 1426 and 626 patients, respec-
+long- or short-term antibiotic therapy in patients with
+                                                     tively) including one or multiple control groups, Mercedes-
+previous bile duct drainage (PBD). Up to 70 % of PBD
+                                                     type incision had the highest incisional hernia risk at one
+patients have positive bile cultures (4 % with MRSA) and
+                                                     year [50, 51]. Of note, perioperative morbidity and pul-
+are associated in up to 30 % of cases with surgical site
+                                                     monary complications were similar whatever the shape of
+infection (SSI), but without increased mortality or post-
+                                                     the incision. For a better exposure of the hepato-caval
+operative hospital stay compared to patients with negative
+                                                     junction, the inverted ‘‘L incision’’ (modiﬁed Makuuchi)
+bile cultures [46].
+                                                     can also be used [52].
+  Based on the Advisory Statement from the National
+Surgical Infection Prevention Project, antibiotics should be Recommendation: The choice of incision is at the
+administered before skin incision less than 1 h before  surgeon’s discretion. It depends on the patient’s
+
+123
+
+
+World J Surg (2016) 40:2425–2440                                                                   2433
+
+  abdominal shape and location in the liver of the      Recommendation:  There is currently no proven
+  lesion to be resected. Mercedes-type incision should  advantage of robotic liver resection in ERAS. Its use
+  be avoided due to higher incisional hernia risk.      should be reserved for clinical trials.
+  Evidence level: moderate                              Evidence level: low
+  Grade of recommendation:  strong                      Grade of recommendation: weak
+
+11.  Minimally invasive approach                     12.  Prophylactic nasogastric intubation
+  The Second International Consensus Conference on      Two recent Cochrane systematic reviews demonstrated
+Laparoscopic Liver Resections in Morioka 2014 (Japan) that prophylactic nasogastric intubation after abdominal
+concluded that minor laparoscopic liver resections (LLRs) surgery should be abandoned in favor of selective use.
+had become standard practice, while major LLRs still Increased pulmonary complications and longer time to
+remain  innovative procedures and  deserved further  return of bowel function were observed in patients with
+investigations [53]. One single retrospective study asses- routine nasogastric tube [75]. One RCT (including 200
+sed LLRs in patients within ERAS protocol and suggested patients) conﬁrmed those results after hepatectomy [76].
+its feasibility with acceptable risk and possible additional
+                                                        Recommendation:  Prophylactic nasogastric intuba-
+accelerate recovery with reduced length of stay [54]. The
+                                                        tion increases the risk of pulmonary complications
+results of the ongoing  multicenter Orange-II trials
+                                                        after hepatectomy. Its routine use is not indicated.
+assessing open versus laparoscopic left lateral hepatic
+                                                        Evidence level: high
+sectionectomy within an enhanced recovery ERAS pro-
+                                                        Grade of recommendation: strong
+gram  may provide further evidence [55]. Twelve other
+systematic reviews were identiﬁed [56–67], 9 included
+meta-analysis comparing open versus laparoscopic liver
+                                                     13.  Prophylactic abdominal drainage
+surgery [58–60, 62–67]. These meta-analyses concluded
+that LLR was associated with lower intraoperative blood The strongest evidence to omit routine prophylactic
+loss, blood transfusion, postoperative complications and drainage after major abdominal surgery arises from a meta-
+shorter hospital stay. In addition, LLR reduced the inci- analysis published in 2004 [77]. This meta-analysis, how-
+dence of liver failure and lowered postoperative ileus, ever, included 3 RCTs on liver resection only, with low
+while decreasing overall cost [60, 63, 68]. Moreover, it sample size [78, 79]. Kyoden et al. [80] assessed the value
+seems that patients with LLR had a faster oral intake and of prophylactic drainage in a retrospective cohort study
+required less intravenous narcotic use [66]. LLR achieved including 1269 consecutive elective liver resections. Pro-
+similar short- and long-term oncologic outcomes for HCC phylactic drainage reduced the frequency of subphrenic
+or colorectal liver metastases (CLM) [59, 62, 69]. Finally, abscess and biliary ﬁstula or biloma formation.
+some authors advocated the systematic use of LLR for
+                                                        Recommendation:  The available evidence is non-
+left lateral resection in benign liver lesions and in living
+                                                        conclusive and no recommendation can be given for
+donors for pediatric liver living donor transplantation
+                                                        the use of prophylactic drainage or against it after
+[70, 71].
+                                                        hepatectomy.
+  Recommendation: LLR can be performed by hep-          Evidence level: low
+  ato-biliary surgeons experienced in laparoscopic      Grade of recommendation: weak
+  surgery, in particular left lateral sectionectomy and
+  resections of lesions located in anterior segments.
+  Evidence level: moderate                           14.  Preventing intraoperative hypothermia
+  Grade of recommendation:  strong
+                                                        Normothermia ([36°) during surgery is recommended
+  There were no studies assessing the safety of robotic to reduce postoperative cardiac and non-cardiac compli-
+liver surgery in patients within an ERAS protocol. Robotic cations [81–86]. However, no study speciﬁc to liver sur-
+liver resection seems to be feasible by hepato-biliary sur- gery investigating this point could be found. According to
+geons with advanced training, especially for lesions located one RCT and one recent meta-analysis, even mild
+in the postero-superior segments [72, 73]. However,  hypothermia increased signiﬁcantly the risk of blood loss
+according to a recent large series comparing robotic versus and transfusion [82, 86]. One meta-analysis suggested that
+laparoscopic hepatectomy, signiﬁcant beneﬁts were not circulating water garments offer better temperature control
+demonstrated yet [74].                               than forced air warming systems [87].
+
+                                                                                               123
+
+
+2434                                                                         World J Surg (2016) 40:2425–2440
+
+  Recommendation:     Perioperative normothermia     during surgery [96]. In addition, there is a rapid change in
+  should be maintained during liver resection.       glucose concentration during hepatectomy with Pringle
+  Evidence level: moderate                           maneuver, reﬂecting glycogen breakdown within hepato-
+  Grade of recommendation:  strong                   cytes because of hypoxia [97]. According to one RCT
+                                                     (n = 88), patients who received insulin therapy using a
+                                                     closed-loop glycemic control system (i.e., an artiﬁcial
+                                                     pancreas) during hepatectomy had reduced total hospital
+15.  Postoperative nutrition and early oral intake
+                                                     costs and SSI compared to the commonly used sliding-
+  Lassen et al. [88] conducted a multicenter randomized scale method [98]. There is evidence that preoperative oral
+trial with 427 digestive surgery patients, who received supplementation with carbohydrate and branched-chain
+either normal food from postoperative day 1 or a conser- amino acid-enriched nutrient decreased insulin resistance
+vative regimen with nil by mouth and enteral tube feeding. in patients undergoing hepatectomy [99]. A raised blood
+There was no difference in complications, reoperations or lactate after liver surgery, which correlates with postoper-
+mortality, but resumption of bowel function was faster in ative morbidity [100], can be related to insulin resistance or
+the ‘‘early food’’ group. Sixty-six patients in this study had to a mix between insulin resistance and ischemia–reper-
+either liver resection or hepatico-jejunostomy, conﬁrming fusion injury. Therefore, insulin therapy should be initiated
+safety and beneﬁts of early oral intake. Hendry et al. [89] early during liver surgery to maintain normoglycemia
+demonstrated the beneﬁts of the routine use of oral laxa- (80–120 mg/dL). Programmed infusion of insulin admin-
+tives combined with oral nutritional supplements in liver istered as determined by the control algorithm of a closed-
+surgery patients within enhanced recovery pathway. Post- loop artiﬁcial endocrine system seems to be superior than
+operative supplemental nutrition is only indicated in mal- manual injection of insulin according to the commonly
+nourished patients or in prolonged postoperative fasting used sliding-scale method [98].
+([5 days) such  as when  severe complications arise
+                                                        Recommendation:  Insulin therapy to maintain nor-
+[25–27]. A  systematic review conﬁrmed that enteral
+                                                        moglycemia is recommended.
+nutrition should be preferred over parenteral nutrition after
+                                                        Evidence level: moderate
+liver resections for better immune function and lower rates
+                                                        Grade of recommendation: strong
+of infectious complications [90].
+  Recommendation:   Most patients can eat normal
+  food at day one after liver surgery. Postoperative 17.  Prevention of delayed gastric emptying
+  enteral or parenteral feeding should be reserved for
+                                                        Left-sided liver resection may be associated with a
+  malnourished patients or those with prolonged fasting
+                                                     higher risk of DGE due to disruption of normal gastroin-
+  due to complications (e.g., ileus [5 days, delayed
+                                                     testinal movement at the point of contact between the
+  gastric emptying).
+                                                     stomach and the cut liver surface. According to 2 RCTs,
+  Evidence level: Early oral intake: moderate; Oral
+                                                     the use of omentum ﬂap to cover the liver cut surface after
+  nutritional supplements: moderate; No routine post-
+                                                     left-sided hepatectomy reduced the incidence of DGE
+  operative artiﬁcial nutrition: high.
+                                                     [101, 102].
+  Grade   of recommendation:   Early oral intake:
+  strong; Oral nutritional supplements: weak; No rou-   Recommendation: An omentum ﬂap to cover the cut
+  tine postoperative artiﬁcial nutrition: strong.       surface of the liver reduces the risk of DGE after left-
+                                                        sided hepatectomy.
+                                                        Evidence level: high
+16.  Postoperative glycaemic control                    Grade of recommendation: strong
+  Perioperative hyperglycemia is frequently observed
+after major surgery [91, 92]. These changes result from a
+                                                     18.  Stimulation of bowel movement
+transient insulin resistance with a compromised peripheral
+insulin-dependent glucose uptake [93]. Hyperglycemia    According to 2 recent meta-analyses, the use of ERAS
+induced by surgical stress results in deregulation of liver protocol signiﬁcantly shortened the time to ﬁrst ﬂatus,
+metabolism and immune function, impairing postoperative hence reducing the postoperative ileus period [12, 103]. In
+recovery. In colorectal and pancreatic surgery, early post- the study by Hendry et al. [89], the routine use of post-
+operative hyperglycemia was associated with adverse out- operative laxatives resulted in an earlier ﬁrst passage of
+comes [19, 94, 95]. Postoperative insulin sensitivity is stool, but the overall rate of recovery was unaltered in liver
+signiﬁcantly reduced in patients not treated with insulin surgery patients. The use of chewing gum (CG) after
+123
+
+
+World J Surg (2016) 40:2425–2440                                                                   2435
+
+surgery has been addressed in a large Cochrane review [113]. There was no difference in hospital length of stay,
+[104]. This meta-analysis showed no clear beneﬁt of CG in and the overall complication rate was higher in the
+ERAS patients and included few patients with liver sur- epidural group.
+gery. The use of laparoscopic surgery and aiming for a
+                                                        Recommendations: Routine TEA cannot be recom-
+neutral ﬂuid balance by avoiding salt and ﬂuid overload in
+                                                        mended in open liver surgery for ERAS patients.
+the postoperative period have been shown to reduce the
+                                                        Wound infusion catheter or intrathecal opiates can be
+risk of postoperative ileus [12, 63].
+                                                        good alternatives when combined with multimodal
+  Recommendation:   Stimulation of bowel movement       analgesia.
+  after liver surgery is not indicated.                 Evidence level: moderate
+  Evidence level: high                                  Grade of recommendation: strong
+  Grade of recommendation:  strong
+
+                                                     21.  Postoperative nausea and vomiting
+19.  Early mobilization
+                                                        Postoperative nausea and vomiting (PONV) is common
+  Bed rest is associated with multiple documented dele- after major surgery, but the multimodal approach within
+terious effects [105, 106]. Bed rest favors diffuse muscle ERAS pathway enables most patients after liver resection
+atrophy, thromboembolic disease and insulin resistance to eat on postoperative day 1 [13]. Risk factors are assessed
+[107]. There was no evidence that early mobilization is preoperatively and include: previous PONV, female gen-
+deleterious after liver surgery. Further studies are needed to der, younger age, non-smoker and use of volatile anesthetic
+determine the frequency and the number of hours required agents and opioids [114]. 5HT3 antagonists remain the
+to improve patients outcome.                         ﬁrst-line therapy due to their good side effect proﬁle. Low-
+                                                     dose dexamethasone improves liver regeneration (with no
+  Recommendation:   Early mobilization after hepate-
+                                                     additional beneﬁt at higher doses) [115]. As dexametha-
+  ctomy should be encouraged from the morning after
+                                                     sone can worsen glycemic control, it should be used with
+  the operation until hospital discharge.
+                                                     caution in diabetics. Other secondary drugs are antihis-
+  Evidence level: low
+                                                     tamines, butyrophenones  and  phenothiazines [115].
+  Grade of recommendation:  weak
+                                                     According to the recommendations from the international
+                                                     consensus group on PONV, 2 antiemetic drugs are advo-
+                                                     cated to reduce postoperative PONV [116].
+20.  Analgesia
+                                                        Recommendations:   A  multimodal approach  to
+  In one RCT using thoracic epidural analgesia (TEA), a
+                                                        PONV should be used. Patients should receive PONV
+short length of stays of 4 days after major liver resection
+                                                        prophylaxis with 2 antiemetic drugs.
+was achieved with low complication rate [13]. A concern
+                                                        Evidence level: moderate
+using TEA  is the possible prolongation of prothrombin
+                                                        Recommendation Grade:  strong
+time  after hepatectomy, which may   delay epidural
+catheter removal and increase administration of corrective
+blood products [108]. A recent RCT showed that epidural
+                                                     22.  Fluid management
+analgesia in open liver resection might be a risk factor for
+postoperative kidney failure due to hypotension [109].  The reduction in hepatic venous congestion by careful
+Several studies have suggested that intrathecal opiates are control of central venous pressure (CVP) during hepatic
+a suitable alternative to epidural analgesia and traditional resection is associated with a reduction in intraoperative
+morphine PCA [110, 111]. One recent RCT compared the blood loss [117–119]. A Cochrane review evidenced that a
+role of local anesthetic wound infusion catheter plus lower CVP reduced blood loss, but there was no difference
+patient-controlled opiate analgesia to standard epidural in red cell transfusion requirements, intraoperative mor-
+analgesia after open liver resection within an ERAS  bidity or long-term survival beneﬁts [120]. In a recent
+protocol [112]. Wound infusion reduced the length of meta-analysis by Hughes et al., the maintenance of a low
+time required to fulﬁll criteria for hospital discharge; CVP is associated with reduced blood loss and blood
+however, epidural analgesia conferred better analgesia transfusion rates [121]. The goals of intraoperative ﬂuid
+control. A meta-analysis of 4 studies (n = 705) with open management are to maintain central euvolemia and to
+liver resections has shown lower pain scores on day 1 avoid excess salt and water. To achieve this, patients
+postoperatively with epidural, but similar outcome com- undergoing surgery within an ERAS protocol should have
+pared to local anesthetic inﬁltration via wound catheters an individualized ﬂuid management plan. As part of this
+                                                                                               123
+
+
+2436                                                                         World J Surg (2016) 40:2425–2440
+
+plan, excess crystalloid and blood loss should be avoided in quality and level of evidence of the studies remain low.
+all patients. Although the measure of stroke volume vari- The highest level of evidence (level 1 or 2) was available
+ation (SVV) has been proposed as appropriate replacement for only 5 items. Though the value of enhanced recovery
+for CVP monitoring [122], it is more likely that a syner- pathways has now been demonstrated in colorectal surgery,
+gistic combination of CVP monitoring and SVV methods with a signiﬁcant reduction in morbidity, cost and hospital
+will become the standard form of hemodynamic monitor- stay, there is a need to perform high-quality studies to
+ing in liver surgery.                                conﬁrm the beneﬁt of ERAS pathways in liver surgery. In
+  One recent study has demonstrated that goal-directed conclusion, the proposed ERAS pathway for liver surgery
+ﬂuid therapy at the end of hepatic resection and during the is based on the best available evidence, but it needs to be
+ﬁrst 6 h enabled a faster restoration of circulating volume further investigated. In addition, a very important aspect of
+with reduction in complications [13]. The use of balanced ERAS pathways is the assessment of adherence to the
+crystalloid solution rather than 0.9 % normal saline to protocol (compliance). Compliance with the new proposed
+maintain intravascular volume is recommended to avoid liver ERAS protocol should be documented as part of
+hyperchloremic acidosis and other causes of postoperative further trial to allow benchmarking.
+morbidity [123, 124]. The role of colloids remains con-
+troversial, and the use of hetastarches increases the risks of Authors’ contributions EM performed the systematic review and
+renal dysfunction when SIRS response and sepsis are pre- wrote and edited the manuscript; MH performed the systematic review,
+                                                     wrote one part of the manuscript and edited the manuscript; MS per-
+sent, and should be avoided in liver resection [125]. formed the systematic review, wrote one part of the manuscript and
+                                                     edited the manuscript; CS performed the systematic review and wrote
+  Recommendations:   The maintenance of low CVP      one part of the manuscript; JP performed the systematic review and
+  (below  5 cmH2O) with  close monitoring during     wrote one part of the manuscript; CHCD revised critically and edited
+  hepatic surgery is advocated. Balanced crystalloid the manuscript; OJG revised critically and edited the manuscript; OF
+  should be preferred over 0.9 % saline or colloids to revised critically and edited the manuscript; NK revised critically and
+                                                     edited the manuscript; JNV revised critically and edited the manuscript;
+  maintain intravascular volume and avoid hyper-     PAC revised critically and edited the manuscript; ND supervised the
+  chloremic acidosis or renal dysfunction, respectively. strategy and revised critically and edited the manuscript.
+  Evidence level: moderate
+  Recommendation Grade:   strong                     Compliance with ethical standards
+                                                     Conﬂict of interest EM, MH, CS, JP, CHCD, OF, JNV, PAC
+                                                     declares that they have no conﬂicts of interest. MS Grants, consulting
+23.  Audit                                           and travel: Merck, Deltex, Baxter, LIDCO, not related to present
+                                                     work. OJG Educational grant: Ethicon (Johnson and Johnson), not
+  The effectiveness of audit in improving health care has related to present work. NK Research grants from Dainihon Sumit-
+been demonstrated in a recent Cochrane systematic review omo, Bristol Mayers, and Taiho Yakuhin, not related to present work.
+[126]. Feedback was more efﬁcient when baseline perfor- ND Grants and consulting: Nestle´ Scientiﬁc, MSD, Covidien, Johnson
+                                                     and Johnson, not related to present work.
+mance was low, when the source was a supervisor or a
+colleague, and when it was provided more than once,
+delivered in verbal and written formats, and when it
+included both explicit targets and action plan. Since strict References
+adherence to the protocol is paramount for the success of
+ERAS implementation, auditing compliance has become    1. Cerantola Y, Valerio M, Persson B et al (2013) Guidelines for
+                                                         perioperative care after radical cystectomy for bladder cancer:
+per se a key element [34].                               Enhanced Recovery After Surgery (ERAS((R))) society rec-
+  Recommendation:   Systematic audit improves com-       ommendations. Clin Nutr 32:879–887
+                                                       2. Varadhan KK, Neal KR, Dejong CH et al (2010) The enhanced
+  pliance and clinical outcome in healthcare practice    recovery after surgery (ERAS) pathway for patients undergoing
+  Evidence level: moderate                               major elective open colorectal surgery: a meta-analysis of ran-
+  Grade of recommendation:  strong                       domized controlled trials. Clin Nutr 29:434–440
+                                                       3. Ansari D, Gianotti L, Schroder J, Andersson R (2013) Fast-track
+                                                         surgery: procedure-speciﬁc aspects and future direction. Lan-
+                                                         genbecks Arch Surg 398:29–37
+Conclusions                                            4. Muller S, Zalunardo MP, Hubner M et al (2009) A fast-track
+                                                         program reduces complications and length of hospital stay after
+This systematic review highlights that the current available open colonic surgery. Gastroenterology 136:842–847
+                                                       5. Greco M, Capretti G, Beretta L et al (2014) Enhanced recovery
+data on enhanced recovery pathways in liver surgery are  program in colorectal surgery: a meta-analysis of randomized
+scarce and lacks standardization. Although 16 out of the 23 controlled trials. World J Surg 38:1531–1541. doi:10.1007/
+standard items of ERAS were studied for liver surgery, the s00268-013-2416-8
+
+123
+
+
+World J Surg (2016) 40:2425–2440                                                                                 2437
+
+  6. Roulin D, Donadini A, Gander S et al (2013) Cost-effectiveness 28. Schindler K, Pernicka E, Laviano A et al (2010) How nutritional
+    of the implementation of an enhanced recovery protocol for   risk is assessed and managed in European hospitals: a survey of
+    colorectal surgery. Br J Surg 100:1108–1114                  21,007 patients ﬁndings from the 2007–2008 cross-sectional
+  7. Dokmak S, Fteriche FS, Borscheid R et al (2013) 2012 Liver  nutritionDay survey. Clin Nutr 29:552–559
+    resections in the 21st century: we are far from zero mortality. 29. Braga M, Ljungqvist O, Soeters P et al (2009) ESPEN Guide-
+    HPB (Oxford) 15:908–915                                      lines on parenteral nutrition: surgery. Clin Nutr 28:378–386
+  8. Dondero F, Taille C, Mal H et al (2006) Respiratory compli- 30. Mikagi K, Kawahara R, Kinoshita H, Aoyagi S (2011) Effect of
+    cations: a major concern after right hepatectomy in living liver preoperative immunonutrition in patients undergoing hepatec-
+    donors. Transplantation 81:181–186                           tomy; a randomized controlled trial. Kurume Med J 58:1–8
+  9. Melloul E, Dondero F, Vilgrain V et al (2012) Pulmonary  31. Ciacio O, Voron T, Pittau G et al (2014) Interest of preoperative
+    embolism after elective liver resection: a prospective analysis of immunonutrition in liver resection for cancer: study protocol of
+    risk factors. J Hepatol 57:1268–1275                         the PROPILS trial, a multicenter randomized controlled phase
+ 10. Farges O, Goutte N, Bendersky N et al (2012) Incidence and  IV trial. BMC Cancer 14:980
+    risks of liver resection: an all-inclusive French nationwide study. 32. Gustafsson UO, Scott MJ, Schwenk W et al (2013) Guidelines
+    Ann Surg 256:697–704 (discussion 704–695)                    for perioperative care in elective colonic surgery: Enhanced
+ 11. Verhoef C, Singla N, Moneta G et al (2015) Fibrocaps for    Recovery After Surgery (ERAS((R))) Society recommendations.
+    surgical hemostasis: two randomized, controlled phase II trials. World J Surg 37:259–284. doi:10.1016/j.clnu.2012.08.013
+    J Surg Res 194:679–687                                    33. Bilku DK, Dennison AR, Hall TC et al (2014) Role of preop-
+ 12. Hughes MJ, McNally S, Wigmore SJ (2014) Enhanced recovery   erative carbohydrate loading: a systematic review. Ann R Coll
+    following liver surgery: a systematic review and meta-analysis. Surg Engl 96:15–22
+    HPB (Oxford) 16:699–706                                   34. Gustafsson UO, Hausel J, Thorell A et al (2011) Adherence to
+ 13. Jones C, Kelliher L, Dickinson M et al (2013) Randomized    the enhanced recovery after surgery protocol and outcomes after
+    clinical trial on enhanced recovery versus standard care fol- colorectal cancer surgery. Arch Surg 146:571–577
+    lowing open liver resection. Br J Surg 100:1015–1024      35. Nygren J, Thacker J, Carli F et al (2013) Guidelines for peri-
+ 14. Hutton B, Salanti G, Caldwell DM et al (2015) The PRISMA    operative care in elective rectal/pelvic surgery: Enhanced
+    extension statement for reporting of systematic reviews incor- Recovery After Surgery (ERAS((R))) Society recommendations.
+    porating network meta-analyses of health care interventions: World J Surg 37:285–305. doi:10.1016/j.clnu.2012.08.012
+    checklist and explanations. Ann Intern Med 162:777–784    36. Beyer TA, Werner S (2008) The cytoprotective Nrf2 transcrip-
+ 15. Kehlet H (1997) Multimodal approach to control postoperative tion factor controls insulin receptor signaling in the regenerating
+    pathophysiology and rehabilitation. Br J Anaesth 78:606–617  liver. Cell Cycle 7:874–878
+ 16. Strasberg SM (2005) Nomenclature of hepatic anatomy and  37. Holte K, Nielsen KG, Madsen JL, Kehlet H (2004) Physiologic
+    resections: a review of the Brisbane 2000 system. J Hepatobil- effects of bowel preparation. Dis Colon Rectum 47:1397–1402
+    iary Pancreat Surg 12:351–355                             38. Walker KJ, Smith AF (2009) Premedication for anxiety in adult
+ 17. Jadad AR, Moore RA, Carroll D et al (1996) Assessing the    day surgery. Cochrane Database Syst Rev (4):CD002192. doi:
+    quality of reports of randomized clinical trials: is blinding 10.1002/14651858.CD002192.pub2
+    necessary? Control Clin Trials 17:1–12                    39. Reddy SK, Turley RS, Barbas AS et al (2011) Post-operative
+ 18. Schulz KF, Altman DG, Moher D, Group C (2010) CONSORT       pharmacologic thromboprophylaxis after major hepatectomy:
+    2010 statement: updated guidelines for reporting parallel group does peripheral venous thromboembolism prevention outweigh
+    randomized trials. Ann Intern Med 152:726–732                bleeding risks? J Gastrointest Surg 15:1602–1610
+ 19. Lassen K, Coolsen MM, Slim K et al (2012) Guidelines for 40. Rasmussen MS, Jorgensen LN, Wille-Jorgensen P (2009) Pro-
+    perioperative care for pancreaticoduodenectomy: Enhanced     longed thromboprophylaxis with low molecular weight heparin
+    Recovery After Surgery (ERAS(R)) Society recommendations.    for abdominal or pelvic surgery. Cochrane Database Syst Rev
+    Clin Nutr 31:817–830                                         (1):CD004318. doi:10.1002/14651858.CD004318.pub2
+ 20. Guyatt GH, Oxman AD, Kunz R et al (2008) Going from evi- 41. Richardson AJ, Laurence JM, Lam VW (2014) Use of pre-op-
+    dence to recommendations. BMJ 336:1049–1051                  erative steroids in liver resection: a systematic review and meta-
+ 21. Hsu CC, Sandford BA (2007) The Delphi technique: making     analysis. HPB (Oxford) 16:12–19
+    sense of consensus. Pract Assess Res Eval 12:1–7          42. Li N, Gu WL, Weng JF et al (2015) Short-term administration of
+ 22. Pike I, Piedt S, Davison CM et al (2015) Youth injury preven- steroids does not affect postoperative complications following
+    tion in Canada: use of the Delphi method to develop recom-   liver resection: evidence from a meta-analysis of randomized
+    mendations. BMC Public Health 15:1274                        controlled trials. Hepatol Res 45:201–209
+ 23. Loblaw DA, Prestrud AA, Somerﬁeld MR et al (2012) American 43. Gurusamy KS, Naik P, Davidson BR (2011) Methods of
+    Society of Clinical Oncology Clinical Practice Guidelines: for- decreasing infection to improve outcomes after liver resections.
+    mal systematic review-based consensus methodology. J Clin    Cochrane Database Syst Rev (11):CD006933. doi:10.1002/
+    Oncol 30:3136–3140                                           14651858.CD006933.pub2
+ 24. International patient decision aid standards collaboration. 44. Hirokawa F, Hayashi M, Miyamoto Y et al (2013) Evaluation of
+    Background document. http://ipdas.ohri.ca/IPDAS_Background.  postoperative antibiotic prophylaxis after liver resection: a ran-
+    pdf. Published February 17, 2005                             domized controlled trial. Am J Surg 206:8–15
+ 25. Weimann A, Braga M, Harsanyi L et al (2006) ESPEN Guide- 45. Togo S, Tanaka K, Matsuo K et al (2007) Duration of antimi-
+    lines on enteral nutrition: surgery including organ transplanta- crobial prophylaxis in patients undergoing hepatectomy: a
+    tion. Clin Nutr 25:224–244                                   prospective randomized controlled trial using ﬂomoxef. J An-
+ 26. Guenter P, Robinson L, DiMaria-Ghalili RA et al (2012)      timicrob Chemother 59:964–970
+    Development of Sustain: ASPENs National Patient Registry for 46. Takara D, Sugawara G, Ebata T et al (2011) Preoperative biliary
+    Nutrition Care. JPEN J Parenter Enteral Nutr 36:399–406      MRSA infection in patients undergoing hepatobiliary resection
+ 27. Weimann A, Breitenstein S, Breuer JP et al (2014) [Clinical with cholangiojejunostomy: incidence, antibiotic treatment, and
+    nutrition in surgery. Guidelines of the German Society for   surgical outcome. World J Surg 35:850–857. doi:10.1007/
+    Nutritional Medicine]. Chirurg 85:320–326                    s00268-011-0990-1
+
+                                                                                                            123
+
+
+2438                                                                                    World J Surg (2016) 40:2425–2440
+
+ 47. Bratzler DW, Houck PM, Surgical Infection Prevention Guide- 65. Mizuguchi T, Kawamoto M, Meguro M et al (2011) Laparo-
+    lines, Writers W et al (2004) Antimicrobial prophylaxis for  scopic hepatectomy: a systematic review, meta-analysis, and
+    surgery: an advisory statement from the National Surgical    power analysis. Surg Today 41:39–47
+    Infection Prevention Project. Clin Infect Dis 38:1706–1715 66. Croome KP, Yamashita MH (2010) Laparoscopic vs open
+ 48. Hsieh CS, Cheng HC, Lin JS et al (2014) Effect of 4 %       hepatic resection for benign and malignant tumors: an updated
+    chlorhexidine gluconate predisinfection skin scrub prior to  meta-analysis. Arch Surg 145:1109–1118
+    hepatectomy: a double-blinded, randomized control study. Int 67. Simillis C, Constantinides VA, Tekkis PP et al (2007) Laparo-
+    Surg 99:787–794                                              scopic versus open hepatic resections for benign and malignant
+ 49. Darouiche RO, Wall MJ Jr, Itani KM et al (2010) Chlorhexi-  neoplasms—a meta-analysis. Surgery 141:203–211
+    dine–alcohol versus povidone–iodine for surgical-site antisepsis. 68. Bhojani FD, Fox A, Pitzul K et al (2012) Clinical and economic
+    N Engl J Med 362:18–26                                       comparison of laparoscopic to open liver resections using a 2-to-
+ 50. D’Angelica M, Maddineni S, Fong Y et al (2006) Optimal      1 matched pair analysis: an institutional experience. J Am Coll
+    abdominal incision for partial hepatectomy: increased late   Surg 214:184–195
+    complications with Mercedes-type incisions compared to    69. Montalti R, Berardi G, Laurent S et al (2014) Laparoscopic liver
+    extended right subcostal incisions. World J Surg 30:410–418. resection compared to open approach in patients with colorectal
+    doi:10.1007/s00268-005-0183-x                                liver metastases improves further resectability: Oncological
+ 51. Togo S, Nagano Y, Masumoto C et al (2008) Outcome of and    outcomes of a case–control matched-pairs analysis. Eur J Surg
+    risk factors for incisional hernia after partial hepatectomy. Oncol 40:536–544
+    J Gastrointest Surg 12:1115–1120                          70. Dokmak S, Raut V, Aussilhou B et al (2014) Laparoscopic left
+ 52. Chang SB, Palavecino M, Wray CJ et al (2010) Modiﬁed        lateral resection is the gold standard for benign liver lesions: a
+    Makuuchi incision for foregut procedures. Arch Surg 145:     case–control study. HPB (Oxford) 16:183–187
+    281–284                                                   71. Scatton O, Katsanos G, Boillot O et al (2015) Pure laparoscopic
+ 53. Wakabayashi G, Cherqui D, Geller DA et al (2015) Recom-     left lateral sectionectomy in living donors: from innovation to
+    mendations for laparoscopic liver resection: a report from the development in France. Ann Surg 261:506–512
+    second international consensus conference held in Morioka. Ann 72. Troisi RI, Patriti A, Montalti R, Casciola L (2013) Robot
+    Surg 261:619–629                                             assistance in liver surgery: a real advantage over a fully
+ 54. Stoot JH, van Dam RM, Busch OR et al (2009) The effect of a laparoscopic approach? Results of a comparative bi-institutional
+    multimodal fast-track programme on outcomes in laparoscopic  analysis. Int J Med Robot 9:160–166
+    liver surgery: a multicentre pilot study. HPB (Oxford) 11:140–144 73. Ho CM, Wakabayashi G, Nitta H et al (2013) Systematic review
+ 55. van Dam RM, Wong-Lun-Hing EM, van Breukelen GJ et al        of robotic liver resection. Surg Endosc 27:732–739
+    (2012) Open versus laparoscopic left lateral hepatic sectionec- 74. Tsung A, Geller DA, Sukato DC et al (2014) Robotic versus
+    tomy  within an enhanced recovery ERAS(R) programme          laparoscopic hepatectomy: a matched comparison. Ann Surg
+    (ORANGE II-trial): study protocol for a randomised controlled 259:549–555
+    trial. Trials 13:54                                       75. Nelson R, Edwards S, Tse B (2007) Prophylactic nasogastric
+ 56. Lin NC, Nitta H, Wakabayashi G (2013) Laparoscopic major    decompression after abdominal surgery. Cochrane Database
+    hepatectomy: a systematic literature review and comparison of 3 Syst Rev (3):CD004929. doi:10.1002/14651858.CD004929.
+    techniques. Ann Surg 257:205–213                             pub3
+ 57. Rao AM, Ahmed I (2013) Laparoscopic versus open liver    76. Pessaux P, Regimbeau JM, Dondero F et al (2007) Randomized
+    resection for benign and malignant hepatic lesions in adults. clinical trial evaluating the need for routine nasogastric
+    Cochrane  Database Syst  Rev  (5):CD1016. doi:10.1002/       decompression after elective hepatic resection. Br J Surg
+    14651858.CD010162.pub2                                       94:297–303
+ 58. Parks KR, Kuo YH, Davis JM et al (2014) Laparoscopic versus 77. Petrowsky H, Demartines N, Rousson V, Clavien PA (2004)
+    open liver resection: a meta-analysis of long-term outcome.  Evidence-based value of prophylactic drainage in gastrointesti-
+    HPB (Oxford) 16:109–118                                      nal surgery: a systematic review and meta-analyses. Ann Surg
+ 59. Yin Z, Fan X, Ye H et al (2013) Short- and long-term outcomes 240:1074–1084 (discussion 1084–1075)
+    after laparoscopic and open hepatectomy for hepatocellular 78. Belghiti J, Kabbej M, Sauvanet A et al (1993) Drainage after
+    carcinoma: a global systematic review and meta-analysis. Ann elective hepatic resection. A randomized trial. Ann Surg
+    Surg Oncol 20:1203–1215                                      218:748–753
+ 60. Xiong JJ, Altaf K, Javed MA et al (2012) Meta-analysis of 79. Fong Y, Brennan MF, Brown K et al (1996) Drainage is
+    laparoscopic vs open liver resection for hepatocellular carci- unnecessary after elective liver resection. Am J Surg 171:
+    noma. World J Gastroenterol 18:6657–6668                     158–162
+ 61. Nguyen KT, Marsh JW, Tsung A  et al (2011) Comparative   80. Kyoden Y, Imamura H, Sano K et al (2010) Value of prophy-
+    beneﬁts of laparoscopic vs open hepatic resection: a critical lactic abdominal drainage in 1269 consecutive cases of elective
+    appraisal. Arch Surg 146:348–356                             liver resection. J Hepatobiliary Pancreat Sci 17:186–192
+ 62. Fancellu A, Rosman AS, Sanna V et al (2011) Meta-analysis of 81. Frank SM, Fleisher LA, Breslow MJ et al (1997) Perioperative
+    trials comparing minimally-invasive and open liver resections maintenance of normothermia reduces the incidence of morbid
+    for hepatocellular carcinoma. J Surg Res 171:e33–e45         cardiac events. A randomized clinical trial. JAMA 277:1127–
+ 63. Mirnezami R, Mirnezami AH, Chandrakumaran K et al (2011)    1134
+    Short- and long-term outcomes after laparoscopic and open 82. Rajagopalan S, Mascha E, Na J, Sessler DI (2008) The effects of
+    hepatic resection: systematic review and meta-analysis. HPB  mild perioperative hypothermia on blood loss and transfusion
+    (Oxford) 13:295–308                                          requirement. Anesthesiology 108:71–77
+ 64. Zhou YM, Shao WY, Zhao YF et al (2011) Meta-analysis of  83. Scott EM, Buckland R (2006) A systematic review of intraop-
+    laparoscopic versus open resection for hepatocellular carcinoma. erative warming to prevent postoperative complications. AORN
+    Dig Dis Sci 56:1937–1943                                     J 83(1090–1104):1107–1113
+
+123
+
+
+World J Surg (2016) 40:2425–2440                                                                                 2439
+
+ 84. Lehtinen SJ, Onicescu G, Kuhn KM et al (2010) Normothermia 102. Yoshida H, Mamada Y, Taniai N et al (2005) Fixation of the
+    to prevent surgical site infections after gastrointestinal surgery: greater omentum for prevention of delayed gastric emptying
+    holy grail or false idol? Ann Surg 252:696–704               after left-sided hepatectomy: a randomized controlled trial.
+ 85. Melton GB, Vogel JD, Swenson BR et al (2013) Continuous     Hepatogastroenterology 52:1334–1337
+    intraoperative temperature measurement and surgical site 103. Ni CY, Yang Y, Chang YQ  et al (2013) Fast-track surgery
+    infection risk: analysis of anesthesia information system data in improves postoperative recovery in patients undergoing partial
+    1008 colorectal procedures. Ann Surg 258:606–612 (discussion hepatectomy for primary liver cancer: a prospective randomized
+    612–603)                                                     controlled trial. Eur J Surg Oncol 39:542–547
+ 86. Wong PF, Kumar S, Bohra A et al (2007) Randomized clinical 104. Short V, Herbert G, Perry R et al (2015) Chewing gum for
+    trial of perioperative systemic warming in major elective    postoperative recovery of gastrointestinal function. Cochrane
+    abdominal surgery. Br J Surg 94:421–426                      Database Syst Rev  (2):CD006506. doi:10.1002/14651858.
+ 87. Galvao CM, Liang Y, Clark AM (2010) Effectiveness of cuta-  CD006506.pub3
+    neous warming systems on temperature control: meta-analysis. 105. Kehlet H, Wilmore DW (2002) Multimodal strategies to
+    J Adv Nurs 66:1196–1206                                      improve surgical outcome. Am J Surg 183:630–641
+ 88. Lassen K, Kjaeve J, Fetveit T et al (2008) Allowing normal food 106. Convertino VA (1997) Cardiovascular consequences of bed rest:
+    at will after major upper gastrointestinal surgery does not  effect on maximal oxygen uptake. Med Sci Sports Exerc
+    increase morbidity: a randomized multicenter trial. Ann Surg 29:191–196
+    247:721–729                                              107. Brower RG (2009) Consequences of bed rest. Crit Care Med
+ 89. Hendry PO, van Dam RM, Bukkems SF et al (2010) Random-      37:S422–S428
+    ized clinical trial of laxatives and oral nutritional supplements 108. Sakowska M, Docherty E, Linscott D, Connor S (2009) A
+    within an enhanced recovery after surgery protocol following change in practice from epidural to intrathecal morphine anal-
+    liver resection. Br J Surg 97:1198–1206                      gesia for hepato-pancreato-biliary surgery. World J Surg
+ 90. Richter B, Schmandra TC, Golling M, Bechstein WO (2006)     33:1802–1808. doi:10.1007/s00268-009-0131-2
+    Nutritional support after open liver resection: a systematic 109. Kambakamba P, Slankamenac K, Tschuor C et al (2015)
+    review. Dig Surg 23:139–145                                  Epidural analgesia and perioperative kidney function after major
+ 91. Frisch A, Chandra P, Smiley D et al (2010) Prevalence and   liver resection. Br J Surg 102:805–812
+    clinical outcome of hyperglycemia in the perioperative period in 110. Roy JD, Massicotte L, Sassine MP et al (2006) A comparison of
+    noncardiac surgery. Diabetes Care 33:1783–1788               intrathecal morphine/fentanyl and patient-controlled analgesia
+ 92. King JT Jr, Goulet JL, Perkal MF, Rosenthal RA (2011) Gly-  with patient-controlled analgesia alone for analgesia after liver
+    cemic control and infections in patients with diabetes undergo- resection. Anesth Analg 103:990–994
+    ing noncardiac surgery. Ann Surg 253:158–165             111. Kasivisvanathan R, Abbassi-Ghadi N, Prout J et al (2014) A
+ 93. Lipshutz AK, Gropper MA  (2009) Perioperative glycemic      prospective cohort study of intrathecal versus epidural analgesia
+    control: an evidence-based review. Anesthesiology 110:408–421 for patients undergoing hepatic resection. HPB (Oxford)
+ 94. Eshuis WJ, Hermanides J, van Dalen JW et al (2011) Early    16:768–775
+    postoperative hyperglycemia is associated with postoperative 112. Revie EJ, McKeown DW, Wilson JA et al (2012) Randomized
+    complications after pancreatoduodenectomy. Ann Surg 253:739– clinical trial of local inﬁltration plus patient-controlled opiate
+    744                                                          analgesia vs. epidural analgesia following liver resection sur-
+ 95. Jackson RS, Amdur RL, White JC, Macsata RA    (2012)        gery. HPB (Oxford) 14:611–618
+    Hyperglycemia is associated with increased risk of morbidity 113. Bell R, Pandanaboyana S, Prasad KR (2015) Epidural versus
+    and mortality after colectomy for cancer. J Am Coll Surg     local anaesthetic inﬁltration via wound catheters in open liver
+    214:68–80                                                    resection: a meta-analysis. ANZ J Surg 85:16–21
+ 96. Blixt C, Ahlstedt C, Ljungqvist O et al (2012) The effect of 114. Apfel CC, Heidrich FM, Jukar-Rao S et al (2012) Evidence-
+    perioperative glucose control on postoperative insulin resis- based analysis of risk factors for postoperative nausea and
+    tance. Clin Nutr 31:676–681                                  vomiting. Br J Anaesth 109:742–753
+ 97. Maeda H, Okabayashi T, Nishimori I et al (2010) Hyper-  115. Carlisle JB, Stevenson CA (2006) Drugs for preventing post-
+    glycemia during hepatic resection: continuous monitoring of  operative nausea and vomiting. Cochrane Database Syst Rev
+    blood glucose concentration. Am J Surg 199:8–13              (3):CD004125. doi:10.1002/14651858.CD004125.pub2
+ 98. Okabayashi T, Nishimori I, Maeda H et al (2009) Effect of 116. Gan TJ, Diemunsch P, Habib AS (2014) Consensus guidelines
+    intensive insulin therapy using a closed-loop glycemic control for the management of postoperative nausea and vomiting.
+    system in hepatic resection patients: a prospective randomized Anesth Analg 118(1):85–113
+    clinical trial. Diabetes Care 32:1425–1427               117. Chen H, Merchant NB, Didolkar MS (2000) Hepatic resection
+ 99. Okabayashi T, Nishimori I, Yamashita K et al (2010) Preoper- using intermittent vascular inﬂow occlusion and low central
+    ative oral supplementation with carbohydrate and branched-   venous pressure anesthesia improves morbidity and mortality.
+    chain amino acid-enriched nutrient improves insulin resistance J Gastrointest Surg 4:162–167
+    in patients undergoing a hepatectomy: a randomized clinical 118. Jones RM, Moulton CE, Hardy KJ (1998) Central venous
+    trial using an artiﬁcial pancreas. Amino Acids 38:901–907    pressure and its effect on blood loss during liver resection. Br J
+100. Vibert E, Boleslawski E, Cosse C et al (2015) Arterial lactate Surg 85:1058–1060
+    concentration at the end of an elective hepatectomy is an early 119. Li Z, Sun YM, Wu FX et al (2014) Controlled low central
+    predictor of the postoperative course and a potential surrogate of venous pressure reduces blood loss and transfusion requirements
+    intraoperative events. Ann Surg 262:787–793                  in hepatectomy. World J Gastroenterol 20:303–309
+101. Igami T, Nishio H, Ebata T et al (2011) Using the greater 120. Gurusamy KS, Li J, Sharma D, Davidson BR (2009) Car-
+    omental ﬂap to cover the cut surface of the liver for prevention diopulmonary interventions to decrease blood loss and blood
+    of delayed gastric emptying after left-sided hepatobiliary   transfusion requirements for liver resection. Cochrane Database
+    resection: a prospective randomized controlled trial. J Hepato- Syst Rev (5):CD007338. doi:10.1002/14651858.CD007338.
+    biliary Pancreat Sci 18:176–183                              pub3
+
+                                                                                                            123
+
+
+2440                                                                                    World J Surg (2016) 40:2425–2440
+
+121. Hughes MJ, Ventham NT, Harrison EM, Wigmore SJ (2015)   124. Shaw AD, Bagshaw SM, Goldstein SL et al (2012) Major
+    Central venous pressure and liver resection: a systematic review complications, mortality, and resource utilization after open
+    and meta-analysis. HPB (Oxford) 17:863–871                   abdominal surgery: 0.9 % saline compared to Plasma-Lyte. Ann
+122. Dunki-Jacobs EM, Philips P, Scoggins CR et al (2014) Stroke Surg 255:821–829
+    volume variation in hepatic resection: a replacement for stan- 125. Perner A, Haase N, Guttormsen AB et al (2012) Hydroxyethyl
+    dard central venous pressure monitoring. Ann Surg Oncol      starch 130/0.42 versus Ringer’s acetate in severe sepsis. N Engl
+    21:473–478                                                   J Med 367:124–134
+123. McCluskey SA, Karkouti K, Wijeysundera D et al (2013)   126. Ivers N, Jamtvedt G, Flottorp S et al (2012) Audit and feedback:
+    Hyperchloremia after noncardiac surgery is independently     effects on professional practice and healthcare outcomes.
+    associated with increased morbidity and mortality: a propensity- Cochrane Database Syst Rev (6):CD000259. doi:10.1002/
+    matched cohort study. Anesth Analg 117:412–421               14651858.CD000259.pub3
+
+
+123
+
+
+

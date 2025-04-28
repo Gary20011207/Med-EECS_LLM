@@ -1,0 +1,1192 @@
+ REVIEW    ARTICLE
+
+Enhanced Recovery After Surgery (ERAS) for gastrointestinal
+surgery, part 1: pathophysiological considerations
+M. J. Scott1, G. Baldini2, K. C. H. Fearon3, A. Feldheiser4, L. S. Feldman5, T. J. Gan6, O. Ljungqvist7,
+D. N. Lobo8, T. A. Rockall1, T. Schricker9        and F. Carli2
+
+1Royal Surrey County Hospital NHS Foundation Trust, University of Surrey, Guildford, UK
+2Department of Anesthesia, McGill University Health Centre, Montreal General Hospital, Montreal, QC, Canada
+3University of Edinburgh, The Royal Inﬁrmary, Clinical Surgery, Edinburgh, UK
+4Department of Anesthesiology and Intensive Care Medicine Campus Charit, Mitte and Campus Virchow-Klinikum Charit, University Medicine,
+Berlin, Germany
+5Department of Surgery, McGill University Health Centre, Montreal General Hospital, Montreal, QC, Canada
+6Department of Anesthesiology, Duke University Medical Center, Durham, NY, USA
+7Department of Surgery, Faculty of Medicine and Health, Orebro University, Orebro, Sweden
+8Division of Gastrointestinal Surgery, Nottingham Digestive Diseases Centre National Institute for Health Research Biomedical Research Unit
+Nottingham University Hospitals, Queen’s Medical Centre, Nottingham, UK
+9Department of Anesthesia, McGill University Health Centre, Royal Victoria Hospital, Montreal, QC, Canada
+
+
+Correspondence                               Background:        The present article has been written to convey con-
+F. Carli, Department of Anesthesia, Room     cepts of anaesthetic care           within     the   context of an       Enhanced
+D10.165.2, McGill University Health Centre,  Recovery After Surgery (ERAS) programme, thus aligning the
+1650 Cedar Ave, Montreal, QC H3G 1A4,        practice of anaesthesia with           the care delivered        by the surgical
+Canada
+Email: franco.carli@mcgill.ca                team   before, during and after surgery.
+                                             Methods:       The    physiological principles supporting              the   imple-
+Current Address:
+T. J. Gan, Department of Anesthesiology,     mentation of the ERAS programmes in patients undergoing major
+Stony Brook University, Stony Brook, NY, USA abdominal procedures are reviewed using an updated literature
+                                             search and discussed by a multidisciplinary group composed of
+Conﬂicts of interest                         anaesthesiologists and surgeons with the aim                 to improve periop-
+Dr Olle Ljungqvist is founder, shareholder and erative care.
+board member of Encare AB, Sweden;           Results:     The    pathophysiology        of some      key   perioperative ele-
+advisory board appointment Nutricia A/S,
+                                             ments disturbing the homoeostatic mechanisms such as insulin
+Netherlands. He also receives speaking
+honoraria from Fresenius-Kabi, B/Braun,      resistance, ileus and pain is here discussed.
+Nutricia, and Merck.                         Conclusions:       Evidence-based strategies aimed at controlling the
+                                             disruption of homoeostasis need to be evaluated in the context of
+Funding                                      ERAS     programmes. Anaesthesiologists could, therefore, play                       a
+None.                                        crucial role in facilitating the recovery process.
+
+Submitted 18 June 2015; accepted 23 July
+2015; submission 19 February 2015.
+
+Citation
+Scott MJ, Baldini G, Fearon KCH, Feldheiser A,
+Feldman LS, Gan TJ, Ljungqvist O, Lobo DN,
+Rockall TA, Schricker T, Carli F. Enhanced
+Recovery After Surgery (ERAS) for
+gastrointestinal surgery, part 1:
+pathophysiological considerations. Acta
+Anaesthesiologica Scandinavica 2015
+
+doi: 10.1111/aas.12601
+
+                                                                                      Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+          ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation.
+                     This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and
+1212              distribution in any medium, provided the original work is properly cited, the use is non-commercial and no modiﬁcations or adaptations are made.
+
+
+                                                                                                              13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+                                                                      ERAS AND PATHOPHYSIOLOGY
+
+
+ Editorial comment: what this article tells us
+ Complications after surgery are still a major problem. Enhanced Recovery after Surgery (ERAS)
+ programmes may minimise some of the negative impact of surgery on organ function and this arti-
+ cle describes the pathophysiology and the role of the anaesthesiologist in this context.
+
+Despite steady advances in anaesthetic and sur-    effect, all together they have a stronger synergis-
+gical techniques over the years, post-operative    tic impact (Fig. 1).
+complications remain  one of the major draw-         The ERAS    Society recently published  three
+backs  of surgery, not only    for the  speciﬁc    guidelines  on  perioperative care  focused  on
+patient involved but also for their surgical care  colonic,5 rectal/pelvic6 and pancreatic and gas-
+team  and  the health  care system  in general.    tric resection.7 Previous versions of such guide-
+Rarely do patients die on   the operating table    lines have  been  shown    to impact on   daily
+during the surgical procedure, but rather from     practice.4,8
+the pathophysiological response to surgery and       Gustafsson and coworkers9  showed that with
+its complications. The progressive understand-     better compliance to an  evidence-based  ERAS
+ing of the physiological basis of surgical injury  protocol, outcomes improved: ERAS programme
+has  been   the   rationale underpinning    the    patients treated with less than 50% compliance
+research efforts of interdisciplinary teams, incor- had a complication rate of almost 50%, while
+porating   surgeons,   anaesthesiologists  and     those following the protocol more closely (90%
+nurses (among others) to minimise the surgical     compliance) had fewer than 20%   complications.
+stress response and thereby improve outcomes.      Similar improvements have been reported in a
+However, one of the immediate challenges to        meta-analysis of randomised trials.10
+improve the quality of perioperative care is not     The  aim  of this article was to  review  the
+to discover new  knowledge, but rather to inte-    pathophysiological basis of some key elements
+grate what we already know   into clinical prac-   which form  the basis of the ERAS programme.
+tice. To this end, the   concept of “fast-track    The  second  article, which  follows, is  more
+surgery” was introduced in the 1990s by Henrik     hands on and practical, and is meant to propose
+Kehlet. It was demonstrated that by applying       recommendations for anaesthetic    protocols in
+evidence-based perioperative principles to open    the ERAS setting. Obviously, such an approach
+colonic surgery, the  post-operative length  of    is based on best available evidence and should
+hospital stay could be reduced   to 2–3 days.1,2   not to be seen as set in stone, as there are areas
+Realising that the   surgical journey  involves    of challenge  for the  anaesthesiologist beside
+many professional competencies, a more inte-       several aspects  of  controversial nature  that
+grated,   multiprofessional,  multidisciplinary    require more   research and  development. The
+approach  was   needed,   whereby   a  decision    current papers are the joint effort of a wide
+taken early in the course of the treatment plan    range of professionals involved in the improve-
+would impact on later developments and inﬂu-       ment of perioperative   care  working   for the
+ence the choices available for recovery further    ERAS Society.
+down   the line. Unfortunately, large gaps still
+exist between   what   the  evidence   suggests
+                                                   Methods
+should  happen  and  what actually happens in
+practice.1,3                                       The present narrative review  has been written
+  Compared with traditional perioperative care,    following several meetings of a group of anaes-
+the Enhanced   Recovery After Surgery (ERAS)       thesiologists and surgeons, and after reviewing
+programme represents a fundamental shift in        the literature between 1990 and 2014 on speciﬁc
+the process of care, by including multiple inter-  perioperative  topics. The   intention  of  the
+ventions that attenuate surgical stress, maintain  authors was to convey concepts of pathophysiol-
+physiological function and  expedite return  to    ogy within the context of the ERAS programme,
+baseline.4 While each intervention has a small     aligning the practice of anaesthesia with   the
+
+Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation. 1213
+
+
+                                                                                                           13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+ M. J. SCOTT ET AL.
+
+
+                                                                    Fig. 1. ERAS elements. Reproduced from
+                                                                    Varadhan KK et al. with permission.105
+
+care delivered by the surgical team before, dur-   leadership,  protocol  compliance,   audit  and
+ing and after surgery.                             ongoing team  education.
+
+The role of the anaesthesiologist in               Preparing the patient for surgical stress
+implementing ERAS
+                                                   The world’s population has increasing longev-
+Implementing   ERAS    programmes    requires a    ity, with average life expectancies rising yearly.
+multidisciplinary approach and within this phi-    A  large proportion  of the elderly  population
+losophy, it is vital to avoid a ‘silo mentality’   requires surgery for various reasons. The physi-
+and this applies most emphatically to the anaes-   ological changes   associated with  ageing  are
+thesia member of the team. Indeed      in many     responsible  for  decreased  reserve,  impaired
+institutes/countries, there is a drive towards     functional status, thus leading to poor capacity
+anaesthesiologists fulﬁlling the role of perioper- to withstand the stress of surgery. Co-morbidi-
+ative physicians.                                  ties associated with the elderly include hyper-
+  In the pre-operative phase, the anaesthesiolo-   tension,   ischaemic   heart  disease,   stroke,
+gist may well run a formal pre-admission anaes-    hypercholesterolaemia, chronic obstructive air-
+thesia clinic for  the  assessment of patients     way disease and diabetes. Although age per se
+deemed at high risk by either the surgeon or the   does not preclude surgery, the presence of coex-
+pre-admission nurse. Activities may include for-   isting diseases has a greater impact on post-op-
+mal risk assessment, optimisation or referral to   erative  morbidity   and  mortality   than  age
+other specialties such as cardiology or the frailty alone.11 Furthermore, the  burden  of obesity,
+clinic. In the post-operative phase, the anaesthe- cancer and surgery represents a major stressor
+siologist has a role in  patient supervision in    on  organ  systems with   possible sequelae for
+PACU/HDU     to optimise opiate sparing, avoid     cancer spread and declining functional ability.
+excessive ﬂuid loading and intervene early with    Smoking, alcohol, anaemia, poor nutritional sta-
+complications such as delirium. Such a role can    tus  and  poor  glycaemic  control can   further
+be extended onto the ward as a key member of       impact adversely   on  post-operative  infection
+the acute pain team. Finally, at a strategic level, rate, immune function and tissue healing. Pre-
+the  anaesthesiologist can  contribute to  team    operative  anxiety,   emotional   distress  and
+
+                                                                 Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+1214   ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation.
+
+
+                                                                                                              13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+                                                                      ERAS AND PATHOPHYSIOLOGY
+
+
+depression have been   shown   to be associated    this response represents the central mechanism
+with higher complication rates, greater post-op-   around which the concept of enhanced recovery
+erative pain, cognitive disturbances and delayed   is based. This response encompasses all ele-
+convalescence.                                     ments associated with surgery such as anxiety,
+  Fitness can  be  subdivided   into coexisting    fasting, tissue damage, haemorrhage, hypother-
+medical problems and physical ﬁtness. Pre-ex-      mia, ﬂuid shifts, pain, hypoxia, bed rest, ileus
+isting health factors such as myocardial infarc-   and   cognitive  imbalance.   Such   signiﬁcant
+tion, heart failure, stroke, peripheral vascular   changes   in   metabolic    and   physiological
+disease  and  impaired   kidney   function  can    homoeostasis represent a threat to the body and
+increase the  risk of post-operative  complica-    mind  that need  to be treated for a successful
+tions. There  is also  sufﬁcient evidence  that    return  to pre-operative  conditions. Evidence
+patients with poor physical conditions and low     suggests that this phenomenon, if left untreated,
+anaerobic threshold have greater post-operative    can lead to increased morbidity and mortality.
+morbidity and mortality.12 In patients with car-   Therefore, it makes sense to provide not only a
+diopulmonary disease, a 6-min walking distance     rational basis for accelerated recovery but also to
+(6MWD)    < 350 m   predicts mortality.13 Simi-    minimise the potential risk of organ dysfunction
+larly, in colorectal surgery patients, the 6MWD    leading to  complications and  decreased  long-
+(which has a weak inverse correlation with sar-    term survival.16
+copenia) was found to correlate well with peak       The “stress response” is represented by hor-
+oxygen  consumption   in predicting post-opera-    monal and    metabolic  changes  that result in
+tive cardiopulmonary complications.14              haematological, immunological   and   endocrine
+  Risk assessment, optimisation of pre-existing    responses, and its extent parallels the degree of
+organ  function  and   education  are  essential   tissue injury, being further ampliﬁed with post-
+ERAS elements for the preparation of patients      operative   complications.    The    interaction
+facing  surgery.  The  multidisciplinary  team     between    the  endocrine   and   inﬂammatory
+involved in the process includes anaesthesiolo-    response  is characterised by  an  elevation in
+gists, surgeons, internists, nutritionists, physio- counter-regulatory hormones (cortisol, growth
+therapists,  nurses    and,    when    needed,     hormone, glucagon and catecholamines) induced
+psychologists. Besides increasing physiological    by activation of hypothalamic–pituitary–adrenal
+reserves  and   pharmacological   optimisation,    axis, and an initial predominance of pro-inﬂam-
+patients and  caregivers need  to  be educated     matory cytokines followed by anti-inﬂammatory
+about the surgical process and empowered. The      cytokines. Following tissue injury, the systemic
+whole patient journey, starting with evaluation,   inﬂammatory response is activated   and  medi-
+then  optimisation of physical, mental, nutri-     ated mainly by pro-inﬂammatory cytokines such
+tional functions (prehabilitation), then moving    as interleukins, IL-1 and  IL-6. The effects of
+through surgery and the hospital episode and       these  mediators  on  target  organs  (such  as
+ﬁnishing  with  recovery, should  be explained     hypothalamic thermoregulation or hepatic acute
+well in advance to facilitate active participation, phase protein production) are modulated poten-
+comprehension and allay anxiety. Ideally audio-    tially by other components of the stress response
+visual material should  be made available. As      (e.g. glucagon, cortisol or adrenaline). Local
+patient expectation plays a role in determining    change  impacts not only    on  the generalised
+post-operative outcome, clear information about    inﬂammatory   state but also  on  homoeostatic,
+the process of care has to be delivered to care-   metabolic and circulatory organs. An example of
+givers as well as the patients.15                  surgical stress-induced organ  injury is repre-
+                                                   sented by the occurrence of myocardial injury
+                                                   after non-cardiac  surgery  (MINS). MINS     is
+Why it is important to control surgical stress
+                                                   where myocardial injury occurs causing a raised
+and maintain homoeostasis
+                                                   peak  troponin  T level of  > 0.03 ng/ml (even
+For every action, there is a reaction and the reac- without symptoms    or  a  full  deﬁnition  of
+tion to surgical stress is the metabolic response  myocardial infarction) and it is an independent
+to injury. Preventing stress and thus minimising   predictor of 30-day mortality.17 In a recent large
+
+Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation. 1215
+
+
+                                                                                                           13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+ M. J. SCOTT ET AL.
+
+
+cohort study of over 15,000 patients, 8.0%   of    bolic changes in  glucose and  protein metabo-
+patients suffered MINS   with  around   58%  of    lism also known as “diabetes of the injury”. In
+these patients not fulﬁlling the universal deﬁni-  non-diabetic patients undergoing major abdomi-
+tion of myocardial infarction and only 15.8% of    nal  procedures,  blood   glucose  (BG)  values
+patients with MINS experienced an     ischaemic    > 7 mmol/l are frequently observed. Evidence is
+symptom. Although     it is not known    which     mounting that hyperglycaemia is a predictor of
+ERAS elements can speciﬁcally reduce MINS, it      mortality and  complications, and  that even  a
+has been recently demonstrated that when all       moderate increase in blood glucose may be asso-
+                                                                                  –
+the  ERAS   elements   are used  cardiovascular    ciated with a worse outcome.22  24 Patients with
+complications are reduced.18                       fasting blood glucose concentrations > 7 mmol/l
+  The more extensive the surgical wound, inter-    or   random    blood   glucose   concentrations
+nal organ manipulation and tissue dissection, the  > 11.1 mmol/l   on    general  surgical  wards
+greater is the stress response. This concept not   showed a 18-fold increased in-hospital mortal-
+only applies to physiological/metabolic changes    ity, a longer hospital stay and a greater risk of
+but also to changes in the innate immune system.   infection.25 Post-operative protein catabolism is
+This combination of catecholamine release and      characterised by  a net loss of functional and
+hyper-inﬂammation    followed  by  immunosup-      structural body  protein. Metabolically healthy
+pression can contribute, among other things, to a  patients lose between 40 and 80 g of nitrogen
+state of insulin resistance.19,20                  after elective open abdominal operations, equiv-
+  A  main  reason  for the effectiveness of the    alent to 1.2–2.4 kg wet skeletal muscle.26 Also,
+ERAS   protocols is that many of the different     protein losses after abdominal surgery are 50%
+treatments building the protocol reduce the stress greater in insulin resistant patients than in those
+responses to the injury caused by the operation    who are not.27  More recent studies indicate a
+and thus help to maintain homoeostasis.            linear relationship between  insulin sensitivity
+                                                   and protein balance in parenterally fed patients
+                                                   undergoing open heart surgery.28   Loss of lean
+Metabolic homoeostasis
+                                                   tissue  delays  wound    healing,  compromises
+Normal metabolism   is governed by anabolic and    immune     function  and   diminishes    muscle
+catabolic hormones   in  interplay. Any   major    strength. The ensuing muscle weakness inhibits
+injury  including  surgery  disrupts  metabolic    coughing, impedes mobilisation    and  prolongs
+homoeostasis and cause insulin resistance. Insu-   mechanical ventilation if patients are on inten-
+lin resistance can be deﬁned    as a condition,    sive care  thereby  complicating  convalescence
+whereby a normal concentration of insulin pro-     and causing morbidity.
+duces a subnormal biological response.19  Stud-      Subjects with altered metabolic and inﬂamma-
+ies have demonstrated a signiﬁcant correlation     tory  states such   as  elderly, diabetics  and
+between the degree of the patient’s insulin sen-   patients with cancer undergoing surgery can be
+sitivity on  the ﬁrst post-operative  day   and    exposed to a greater stress response, profound
+length of hospital stay (r = 0.53, P = 0.0001).20  catabolic state as result of poor reserve, thus
+In a multifactorial analysis, the degree of insulin leading to  post-operative complications   and
+                                                                                –
+resistance, the magnitude of surgery and blood     delayed functional recovery.29 31
+loss were the three independent factors explain-     Plasma glycosylated haemoglobin A    (HbA1c)
+ing more than 70%   of the variation in length of  is an indicator of blood glucose control over the
+stay. More importantly, a signiﬁcant association   previous 3–4 months. Observations made in 273
+was shown between the magnitude of insulin         diabetic and  non-diabetic patients undergoing
+resistance and complications. For every decrease   open  heart surgery demonstrated   a signiﬁcant
+in intraoperative insulin sensitivity by 20%, the  correlation between the quality of pre-operative
+risk of serious complications was more than        glycaemic control as reﬂected by HbA1c levels
+doubled after open heart surgery.21                and  insulin sensitivity during cardiac surgery
+  The  relevance of insulin  resistance to out-    (r = 0.527, P < 0.001).21 In addition, diabetic
+comes is also reﬂected by the clinical problems    patients with   HbA1c   > 6.5%   had  a  greater
+associated with its metabolic sequelae, the cata-  incidence  of major complications   (P = 0.010),
+
+                                                                 Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+1216   ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation.
+
+
+                                                                                                              13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+                                                                      ERAS AND PATHOPHYSIOLOGY
+
+
+and minor infections (P = 0.006). Such patients    Many   National and   International Anaesthetic
+received  more   blood   products,  and   spent    Societies recommend a 6-h pre-operative fast for
+more  time  in  the  ICU  (P = 0.030)  and  the    solids and a 2-h fast for clear liquids, including
+                                                                         –
+hospital (P < 0.001) than metabolically normal     carbohydrate drinks.44 47
+patients.21 These ﬁndings are in agreement with
+the results of other observational studies indi-
+                                                   Epidural anaesthesia
+cating worse outcomes after cardiac, abdominal
+                                                   Another way of minimising post-operative insu-
+and  vascular procedures   in the  presence  of
+                                 –                 lin resistance is to use  epidural anaesthesia.
+increased HbA1c concentrations.32 34
+                                                   Ample evidence has accumulated in open sur-
+                                                   gery to identify the peripheral and central ner-
+ERAS interventions reducing insulin                vous system  as a common pathway triggering
+resistance                                         the catabolic responses to tissue trauma. Block-
+                                                   ade of these pathways by epidural anaesthesia
+Several  ERAS   interventions  are  directed to
+                                                   and   local anaesthetic  blocks   prevents  the
+reduce surgical stress and modulate periopera-
+                                                   increase in circulating counter-regulatory hor-
+tive insulin sensitivity directly and indirectly.
+                                                   mones, thereby   minimising  insulin  resistance
+                                                   and limiting protein catabolism48 and hypergly-
+Pre-operative carbohydrate loading and adherence to caemia.49 The physiological effects of epidural
+pre-operative fasting guidelines                   anaesthesia  may   serve  as   a  rationale for
+The idea of pre-operative carbohydrate treatment   improved   respiratory and  cardiovascular out-
+instead of overnight fasting came from  animal     comes after general, urological and vascular pro-
+studies showing that coping with stress is much    cedures  as  reported  by   meta-analyses  and
+improved if animals sustain trauma in the fed      randomised controlled trials.50,51
+rather than fasted state.35 Overnight treatment
+with intravenous glucose was shown to attenu-
+                                                   Early post-operative feeding
+ate the decrease in muscle insulin sensitivity.36
+                                                   A  further additional potentially beneﬁcial way
+A similar effect was later shown for oral carbo-
+                                                   to maintain   metabolic  homoeostasis  is early
+hydrates  solutions tailored  for pre-operative
+                                                   feeding. Early recommencement of post-opera-
+use.37 The administration of such pre-operative
+                                                   tive nutrition has been  shown   to beneﬁt the
+oral carbohydrates raises insulin sensitivity by
+                                                   patient.52 However, most of the available data
+50%,38 and this carries through to the post-oper-
+                                                   are from patients undergoing surgery in a tradi-
+ative period resulting in 50% less insulin resis-
+                                                   tional care programme, and very little is known
+tance. Carbohydrate loading also shifts cellular
+                                                   about the effects of nutrition in a modern ERAS
+metabolism  to  a more   anabolic  state.39 This
+                                                   programme. One small study showed that after
+allows for better use of any   nutritional care
+                                                   major colorectal surgery, in patients given pre-
+post-operatively, with  less risk of hypergly-
+                                                   operative carbohydrates and   thoracic epidural
+caemia and improved retention of protein and
+                                                   anaesthesia, complete enteral feeding initiated
+preservation of lean body mass.40  Studies con-
+                                                   immediately after the operation normalised glu-
+ducted  in relatively small patient populations
+                                                   cose levels and was associated with abolition of
+suggested  better outcomes with   pre-operative
+                                                   the catabolic response to surgery such that there
+complex carbohydrates given   orally up  to 2 h
+                                                   was no net loss of body nitrogen    (protein).53
+before anaesthesia and surgery,41,42 However, a
+                                                   This suggests that it is possible to overcome
+meta-analysis43 and a recent Cochrane analysis44
+                                                   most of the metabolic response to injury when
+of all available data from randomised controlled
+                                                   post-operative feeding is combined with pre-op-
+trials suggest that in major abdominal surgery
+                                                   erative carbohydrates and epidural anaesthesia.
+there is clinical impact as evidenced by faster
+recovery43,44 (reduced length of stay by 1–1.5
+days43). However, for minor surgery the beneﬁt     Glycaemic control
+is mainly in patient well-being,41 and in other    The therapeutic administration of insulin is an
+types of surgeries  the  data remain   sparse.44   obvious   choice  to   overcome   perioperative
+
+Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation. 1217
+
+
+                                                                                                           13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+ M. J. SCOTT ET AL.
+
+
+insulin resistance and improve outcome. Normo-     incision can be reduced using laparoscopic tech-
+glycaemia and whole body protein stores can be     niques that will reduce both the total additive
+preserved  by  insulin therapy  suggesting  that   length of the incisions and the maximum  length
+insulin sensitivity rather than insulin respon-    of any one incision. Additionally, modern ports
+siveness is reduced during and after surgery.54    used for access work by splitting muscle ﬁbres
+Although the safety and efﬁcacy of glucose con-    rather than dividing them, which    is also less
+trol in the ICU  has been debated, trials have     traumatic.
+consistently  shown    that  in  post-operative      The intra-abdominal part of the operation is
+patients55 and  in trauma patients56  improved     usually similar whether performed    with  open
+glucose control with  insulin  in the intensive    access or laparoscopically, but differs in a num-
+care situation has proven beneﬁcial by avoiding    ber of ways which might reduce trauma. This is
+complications as long as the deleterious effects   witnessed by good evidence that overall blood
+of hypoglycaemia are avoided. In the ward situ-    loss is less60 and adhesions are reduced follow-
+ation, intensive insulin treatment is more dubi-   ing laparoscopic colorectal surgery.61 A number
+ous and hard to control and, therefore, measures   of factors may contribute but the reduction of
+should be taken to minimise the insulin resis-     the size of peritoneal injury, the reduced serosal
+tance and  thereby avoiding the need of insu-      injury and   the reduced   blood  loss will all
+lin.53                                             reduce the tendency to form  adhesions. The use
+                                                   of modern   energy  sources such  as ultrasonic
+                                                   technology may also be a factor both in reducing
+Magnitude of surgery and homoeostasis
+                                                   blood loss but also reducing the collateral dam-
+Minimising the total surgical injury is the prin-  age associated with other techniques. The tech-
+cipal aim of minimally invasive surgery (MIS),     niques   that   have   been   developed    with
+and with optimal surgical techniques the bene-     laparoscopic surgery also dictate the necessity to
+ﬁts are not just from  the reduction in wound      dissect carefully within bloodless plains where
+size. This concept can be categorised into pri-    possible which may have a beneﬁt in reducing
+mary and secondary injury due to surgery. The      collateral injury and reducing stimulation. This
+primary injury is direct trauma to the abdominal   results in a reduction in secondary injury reduc-
+wall or tissue damage from  mobilisation of tis-   ing   the   cytokine,  hormonal    and   neural
+sues or trauma to organs themselves. There is      responses to surgery. The beneﬁts of MIS are
+also indirect injury during surgery from bleed-    further enhanced   by   reducing  consequential
+ing or the physiological effects from anaesthetic  problems from   fasting and  immobilisation  as
+techniques (intermittent positive pressure venti-  there is a more rapid return of gut function and
+lation, drugs causing local vasomotor changes      improved mobilisation.
+causing local blood ﬂow  changes) and the phys-      The beneﬁts from   using MIS has to be bal-
+iological effects of patient positioning combined  anced against the fact that to perform MIS the
+with the abdominal pressure of the CO2    pneu-    carbon  dioxide (CO2) pneumoperitoneum      and
+moperitoneum. The rationale behind    minimis-     patient position may have detrimental physio-
+ing the access wound in particular is to reduce    logical effects which can be compounded if the
+the activation of neuro-humoral pathways that      duration  of surgery is long. The initiation of
+affect recovery adversely. Reducing   neuro-hu-    CO2  pneumoperitoneum    triggers a sympathetic
+moral stimulation may be achieved by reducing      response and major changes in blood ﬂow     and
+access trauma and   internal trauma associated     respiratory  mechanics.   In   ﬂuid   optimised
+with the surgery.                                  patients, there is a rise in aortic afterload with
+  Trauma   to  the  abdominal    wall  may   be    resulting decrease in stroke volume and resul-
+reduced by changing the orientation of the inci-   tant reduction  in oxygen  delivery  which  can
+sion such that it traverses fewer myotomes and     affect outcome.62 This response usually lasts for
+dermatomes. Where open surgery is performed,       20–25 min until adaptation occurs but in some
+transverse incisions may reduce post-operative     patients cardiac output remains low.55  Studies
+pain and improve outcomes but the evidence for     to look at reducing the physiological impact of
+                 57–59
+this is not clear.    The length of the access     CO2  pneumoperitoneum    by using special ports
+
+                                                                 Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+1218   ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation.
+
+
+                                                                                                              13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+                                                                      ERAS AND PATHOPHYSIOLOGY
+
+
+or deep neuromuscular block to facilitate good     a  state of  near-zero  ﬂuid   balance  is  not
+surgical exposure at lower pressures are ongo-     achieved.66,68 Generally, it has been shown that
+ing.                                               post-operative complications are increased when
+  Such  graded   interaction between   minimal     the weight gain   in the post-operative period
+access surgery and ERAS is reﬂected in an addi-    exceeds 2.5 kg (indicative of a 2.5 l cumulative
+tive effect in reduction of length of stay.63 Thus ﬂuid overload).69
+MIS with its reduction in both primary and sec-      The maintenance of ﬂuid and electrolyte bal-
+ondary injury has become a major component of      ance and  tissue perfusion is achieved  directly
+ERAS.                                              with several modalities within the ERAS pro-
+                                                   gramme and indirectly by overall modulation of
+                                                   the hormonal and inﬂammatory response. The
+Surgery and ﬂuid balance
+                                                   principle of maintaining a patient in the zone of
+Following the initiation of injury, the release of normovolaemia is to maintain a normal intravas-
+catabolic hormones and inﬂammatory mediators       cular volume and avoid gaining weight due to
+facilitate salt and water retention to preserve    excessive administration of ﬂuid. Adequate pre-
+intravascular volume, maintain  blood  pressure    operative hydration  and  avoidance   of bowel
+and vasoconstriction, and provide gluconeogenic    preparation aim to keep the patient close to nor-
+substrates for metabolism   and  cell function.    movolaemia    prior to  surgery.  Physiological
+Body temperature decreases to minimise oxygen      interventions during anaesthesia such as inter-
+utilisation, and blood  is shunted  away  from     mittent positive pressure ventilation, vasoactive
+“non-vital” organs such  as the gut, skin  and     drugs and regional anaesthetic techniques can
+muscle to maintain perfusion in vital organs like  all affect vasomotor tone and intravascular vol-
+the heart, brain and kidney. Gene and protein      ume. Due   to  the venous capacitance   vessels,
+expression of mediators of inﬂammation     and     there is a range (sweet spot) within which nor-
+insulin resistance, such as IL-6, AKT-1, FOXO-     movolaemia, cardiac output and tissue perfusion
+1, and PDK4 are increased within hours of the      can be adequately maintained. The experienced
+incision at the site of the injury (rectus abdo-   anaesthesiologist can keep  the patient in this
+minis muscle) and, to a lesser extent, distant     zone of normovolaemia throughout the operative
+from the site of the injury (vastus lateralis mus- and immediate post-operative periods. The use
+cle).64 There is also a consistent suppression of  of additional monitoring devices such as pulse
+muscle mitochondrial complex    activity and  a    pressure variation (PPV), stroke volume varia-
+decrease in ATP production rates over the same     tion (SVV), oesophageal Doppler and pulse con-
+time period.65 These changes are associated with   tour  wave    analysis  can  all  provide   the
+an  increase in intestinal permeability. Blood     anaesthesiologist with additional useful infor-
+rheology is also altered with the initiation of a  mation to help guide ﬂuid therapy, even though
+hypercoagulable state.                             routine use of advanced hemodynamic monitor-
+  Teleologically, mammals have developed very      ing and  cardiac output optimisation   has not
+efﬁcient mechanisms to conserve salt and water     shown   to consistently improve post-operative
+                                                              –
+in the face of ﬂuctuations in water supply, scar-  outcomes.70 73 This is more important when the
+city of salt and reductions in plasma volume.      physiological situation is challenging such  as
+On  the  other hand   humans   have  not, until    haemorrhage, poor cardiac function   or vasodi-
+recent times, been exposed to salt excess and      latation secondary to drugs, regional analgesia
+our mechanism   for excreting this is correspond-  or sepsis. Optimal control of intravascular vol-
+ingly inefﬁcient, depending on a slow  and sus-    ume, cardiac output and oxygen delivery com-
+tained suppression   of the  renin–angiotensin–    bined   with   perfusion   pressure   maintains
+aldosterone axis.66,67                             optimal oxygen   and  nutrient delivery  to the
+  Salt and water overload has been shown to        cells as well as reducing extracellular ﬂuid ﬂux.
+impact on  anastomotic integrity. Furthermore,     Maintenance of normothermia maintains central
+ileus and  increasing post-operative  complica-    and peripheral perfusion and effective circula-
+tions leading to prolonged  hospital stay have     tory volume. This makes it easier for the anaes-
+been reported when maintenance of patients in      thesiologist to  avoid  the  patient  becoming
+
+Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation. 1219
+
+
+                                                                                                           13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+ M. J. SCOTT ET AL.
+
+
+relatively hypovolaemic with resultant hypoper-
+                                                   Surgery and gut dysfunction
+fusion of tissues with development of acidosis
+and lactataemia. The early establishment of oral   Major abdominal surgery induces an immuno-
+intake of ﬂuids as soon as possible after surgery  inﬂammatory response, which     is accompanied
+allows the body to control homoeostasis.           by  the production  of reactive oxygen  species
+  Figure 2 shows 2 patient pathways with ﬂuid      (ROS) at the site of injury causing direct cellular
+shifts during and immediately after surgery. One   injury by damaging lipids, proteins and DNA.
+patient is in an ERAS surgical protocol and the    Similarly,  the  hypothalamic    peptide  corti-
+other in  a  traditional surgical pathway. The     cotropin-releasing hormone appears to interact
+patient undergoing surgery within a traditional    with the inﬂammatory components and inhibit
+pathway   has prolonged  starvation and  bowel     bowel function. The resulting impaired vascular
+preparation causing dehydration. The patient is    permeability   together  with   excessive  ﬂuid
+hypovolaemic prior to the start of surgery and at  administration can lead to ﬂuid overload, inter-
+the start anaesthesia, and intermittent positive   stitial oedema and therefore delayed recovery of
+pressure ventilation and  drugs have a further     gastrointestinal function and impaired  anasto-
+negative effect causing  splanchnic hypoperfu-     motic healing.68
+sion. Intravenous  ﬂuid   infusion restores the      The causation of post-operative ileus is multi-
+intravascular volume, however the    prolonged     factorial and a number of risk factors have been
+continuation of intravenous ﬂuids post-opera-      identiﬁed (Fig. 3). These include increasing age,
+tively for several days can lead to relative hyper- male gender, low pre-operative serum  albumin,
+volaemia and gut oedema with resultant ileus.      acute and chronic opioid use, previous abdominal
+The patient within the ERAS programme starts       surgery, pre-existing airways and vascular dis-
+surgery  within  the  ‘green  zone’ of  normo-     ease, long duration of surgery, emergency surgery,
+volaemia and is maintained there by the anaes-     blood loss and salt and water overload. Most of
+thesiologist monitoring stroke volume and keep     these factors increase the inﬂammatory response,
+intravascular volume optimised   which  in turn    and inﬂammation and oedema play a major role
+reduces ﬂuid shifts. Intravenous ﬂuids are main-   in reducing intestinal smooth muscle contractil-
+tained at appropriate  rates in  the immediate     ity.74 ERAS principles are aimed at reducing peri-
+post-operative  period   to  maintain   normo-     operative stress and inﬂammation and, hence, can
+volaemia, but are then stopped with the com-       reduce the duration of ileus and accelerate recov-
+mencement of oral intake thus avoiding salt and    ery of gut function post-operatively.
+water overload. It is obvious that the controversy   A  number of strategies have been suggested
+on perioperative ﬂuid balance will continue as     to prevent post-operative ileus and   some are
+more research is carried out in patients at risk   more  effective than  others. These  have  been
+where   careful administration  of  ﬂuids   and    reviewed   extensively recently  and  are sum-
+appropriate monitoring are taken into account.     marised in Table 1.74
+
+
+                                                                    Fig. 2. Perioperative ﬂuid administration
+                                                                    with and without an ERAS surgical pathway:
+                                                                    risk of perioperative ﬂuid excess and tissue
+                                                                    hypoperfusion.104 Reproduced from Minto G
+                                                                    et al. with permission.
+
+                                                                 Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+1220   ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation.
+
+
+                                                                                                              13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+                                                                      ERAS AND PATHOPHYSIOLOGY
+
+
+Fig. 3. Pathogenesis of post-operative ileus. MLC, myosin light chain; STAT, signal transducer and activator of transcription; TNF, tumour necrosis
+factor; VIP, vasoactive intestinal polypeptide. From Bragg et al. with permission.74
+
+  Alvimopan   is a peripherally acting l-opioid    vomiting which is located in an ill-deﬁned area
+receptor antagonist, which  does not cross the     of the lateral reticular formation in the brain
+blood–brain  barrier readily. A   meta-analysis    stem.76,77 This “vomiting centre”, as it is tradi-
+examining the effect of alvimopan vs. placebo      tionally called, is not so much a discrete centre
+on  POI after major abdominal surgery    found     of emetic activity as it is a “central pattern gen-
+that alvimopan accelerated recovery of gastroin-   erator” (CPG) that sets off a speciﬁc sequence of
+testinal function by 1.3–1.5 days at a dose of     neuronal activities throughout the medulla to
+                                                                       –
+12 mg/day   and  6 mg/day   respectively.75 The    result in vomiting.78 80 A particularly important
+time to readiness for discharge was also reduced   afferent is the chemoreceptor trigger zone (CTZ),
+correspondingly.75  However,    alvimopan    is    which  is  located at the  base  of the  fourth
+expensive ($1000 for 15 doses) and is not read-    ventricle in  the area  postrema, outside   the
+ily available outside the United States.           blood–brain barrier, and plays a role in detect-
+  Surgery and  anaesthesia are responsible for     ing  emetogenic   agents  in   the  blood  and
+initiating nausea and vomiting in the post-oper-   cerebrospinal ﬂuid (CSF).78 Five distinct recep-
+ative period. More speciﬁcally, abdominal dis-     tor mechanisms have been identiﬁed in the CTZ
+tension, bowel manipulation, intracellular ﬂuid    that are involved in nausea and vomiting. They
+overload, and   opioids  stimulate peripherally    are serotonergic, dopaminergic, histaminergic,
+(gut) and centrally located receptors that activate muscarinic and neurokinin-1 type. A  variety of
+the central coordinating  site for nausea  and     different pharmacological agents, acting on one
+
+Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation. 1221
+
+
+                                                                                                           13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+ M. J. SCOTT ET AL.
+
+
+                                                     Risk factors for PONV are based on character-
+  Table 1 Strategies to prevent post-operative ileus. From Bragg
+     74                                            istics relating to the patients, anaesthetic or type
+  et al. with permission.                          of surgery. Speciﬁc risk  factors for PONV   in
+  Intervention  Mechanism                Beneﬁt    adults are female gender, history of PONV    or
+                                         ++        motion sickness, use of opioids and non-smok-
+  Salt and ﬂuid ↓ gut oedema and stretch Æ         ing status. Although  the relationship between
+   overload                                        patient-related risk factors and PONV  are clear
+  Carbohydrate  ↓ insulin resistance     À         and well studied, such a relationship with type
+   loading                                         and duration of surgery is less clear. Neverthe-
+  Routine       Prophylactic drainage of stomach + less, a simpliﬁed risk scoring system for PONV
+   nasogastric                                     incorporating the four risk  factors have good
+   tubes
+                                         +         predictability and  is recommended    for risk-
+  Intravenous   Anti-inﬂammatory; opioid-sparing                                     81
+   lidocaine                                       based PONV prophylactic therapy.
+  Coffee        Stimulatory effect       +
+  Chewing gum   Stimulatory effect       ++
+                                                   Surgery and nociception
+  NSAIDs        Anti-inﬂammatory; opioid-sparing ++
+  Early enteral Anabolic; ↓ insulin resistance; ++ Surgical incision and  manipulation   of tissues
+   nutrition      stimulatory                      lead  to cell disruption releasing a variety of
+                                         ++
+  ERPs          Multimodal effect                  intracellular chemical mediators. These include
+  Laparoscopic  ↓ tissue trauma; ↓ bowel ++
+   surgery        handling; ↓ inﬂammatory          potassium, adenosine, prostanoids, bradykinin,
+                  reaction                         nerve growth factors, cytokine and chemokine
+  Alvimopan     l-opioid receptor antagonist ++    which activate and sensitise (peripheral sensi-
+  Mid-thoracic  ↓ inﬂammatory response             tisation) peripheral nociceptors Ad and c-ﬁbres
+   epidural     ↓ sympathetic stimulation          to mechanical stimuli (primary    hyperalgesia).
+                ↓                        + Æ
+   anaesthesia    opioid requirement      /        These   pro-inﬂammatory   substances   and  the
+                                         +
+  Early mobilisation ? anabolic effect             release of substance   P  and  calcitonin gene-
+  Nicotine      Colonic prokinetic       +
+  Daikenchuto   Anti-inﬂammatory on      +         related peptide from the peripheral branches of
+                  acetylcholine receptors          nociceptors also sensitise silent Ad nociceptors
+  Magnesium     Anaesthetic effect       Æ         in the adjacent non-injured tissues (secondary
+   sulphate                                        hyperalgesia). Repeated and prolonged stimula-
+  Prokinetics   Prokinetic effect                  tion of peripheral nociceptors in   the injured
+                                                   area and in the surrounding non-injured tissues
+                                                   lead  to an  increase ﬁring  of neurons at the
+                                                   level of the dorsal horn of the spinal cord, medi-
+                                                   ated by the activation of Na-methyl-D-aspartate
+or more of the ﬁve major neurotransmitter cate-    (NMDA) receptors (central sensitisation). Clini-
+gories are routinely used  for the prophylaxis     cally, these pathophysiological changes could
+and/or treatment of PONV.81                        manifest with hyperalgesia, allodynia, and even
+  Opioids, although not neurotransmitters, may     persistent postsurgical pain. Descending sympa-
+have a signiﬁcant effect on PONV, exerting both    thetic inhibitory pathways also play an impor-
+excitatory and inhibitory effects on the gastroin- tant role at the  level of the  spinal cord  by
+testinal system (e.g. inhibition of gastrointesti- modulating transmission of noxious inputs. The
+nal motility). There are at least three different  response to nociception contributes to activate
+types of opioid receptors – l, d and k. Exoge-     and  potentiate the  stress response  associated
+nous opioid  receptor agonists (e.g. morphine)     with  surgery. Activation of the hypothalamic–
+affect intestinal motility by modulating cholin-   pituitary–adrenal axis (HPA), sympathetic stim-
+ergic transmission. When administered periph-      ulation and systemic release of pro-inﬂammatory
+erally, exogenous    opioid  receptor  agonists    cytokines are major determinants of post-opera-
+decrease gastrointestinal motility and delay gas-  tive insulin resistance, that if not attenuated
+tric emptying   by  inhibiting central l-recep-    potentially  lead  to  multiorgan   dysfunction
+tors.82                                            (Fig. 4). Acute surgical pain can, therefore, be
+
+                                                                 Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+1222   ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation.
+
+
+                                                                                                              13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+                                                                      ERAS AND PATHOPHYSIOLOGY
+
+
+Fig. 4. Post-operative pain: physiological consequences and impact on outcomes and ERAS protocol. CNS, Central Nervous System; HPA axis,
+Hypothalamic–Pituitary–Adrenal axis; CV, Cardiovascular; HR, Heart Rate; SVR, Systemic Vascular Resistance; MRO2, Metabolic Rate of Oxygen;
+FRC, Functional Residual Capacity; VC, Vital Capacity; MV, Minute Ventilation; GI, Gastrointestinal; ADH, Antidiuretic Hormone; PG, Prostaglandins;
+UO, Urinary Output; UR, Urinary Retention; VTE, Venous Thromboembolism; IR, Insulin Resistance. Reproduced from Cologne K et al. with
+permission.106
+
+somatic, visceral or neuropathic depending on      surgery at least, there has been  a sea change
+the  type  of  surgery  and   on  the  surgical    away from   open  surgery and  towards laparo-
+approach.83,84 The scientiﬁc rationale for multi-  scopic techniques whenever possible. Equally,
+modal analgesia is based on the multifactorial     there have been concerns raised about a possi-
+nature and  complexity  of surgical pain  path-    ble adverse inﬂuence of NSAIDs on anastomotic
+ways. The purpose of multimodal analgesia is to    integrity.86 These two factors have led  to the
+control pain with  different classes of medica-    increased use of spinals/TAP   blocks or intra-
+tions acting on multiple sites.85 In the context of venous lidocaine and decreased use of epidural
+the ERAS programme, the adaptation of multi-       anaesthesia/NSAIDs.87,88 It has to be said that
+modal analgesic   strategies aims  not only  to    while  the  physiological  effects of  epidural
+improve post-operative pain control and reduce     blockade on surgical stress have been well vali-
+surgical stress but also to attenuate the multior- dated, the same cannot be said for lidocaine i.v.
+gan  dysfunction induced   by unrelieved  pain,    infusion and local anaesthetics techniques such
+reduce  opioid   side  effects, facilitate early   as TAP blocks.
+resumption of oral diet and early mobilisation
+and   ultimately  accelerate surgical  recovery
+                                                   Surgery and cognitive dysfunction
+(Fig. 4). Ten years ago ERAS programmes relied
+extensively on thoracic epidurals and NSAIDs       Surgical trauma provokes a neuroinﬂammatory
+as the cornerstones of analgesia. For colorectal   response resulting in either transitory and rever-
+
+Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation. 1223
+
+
+                                                                                                           13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+ M. J. SCOTT ET AL.
+
+
+sible or persistent impairment of cognition.89     infection or dehiscence and  the idea that rest
+While   some  patients  develop  post-operative    would   promote   tissue healing.97 Individuals
+delirium  (POD), characterised  by  inattention,   conﬁned to bed experience a linear decline in
+disorganised thinking and altered level of con-    exercise capacity, as a result of reduced maximal
+sciousness, others develop post-operative cogni-   stroke volume and cardiac output with VO2max
+tive dysfunction (POCD) which     is chronic by    decreasing at a rate of about 1% every 2 days.98
+nature and characterised by deﬁcit in attention,   Complications of prolonged    bed  rest include
+concentration, executive function, verbal mem-     skeletal muscle  atrophy  and  weakness, bone
+ory, visuospatial abstraction and  psychomotor     loss, decreased insulin sensitivity, thromboem-
+speed.                                             bolic disease, microvascular dysfunction, atelec-
+  The  international  study  on  post-operative    tasis and  pressure  ulcers.99,100 The negative
+cognitive dysfunction  (ISPOCD   1) study pub-     effects of bed rest can occur after a relatively
+lished  in  the lancet  in  1998  demonstrated     short period. Decreases in insulin sensitivity can
+long-term  POCD   in elderly patients undergo-     also be detected after as little as 3 days of bed
+ing non-cardiac surgery.90 However, the second     rest; even just 1 day of physical inactivity (sit-
+study  published  in 2003  (ISPOD2) found    no    ting)  can  reduce  insulin  sensitivity signiﬁ-
+signiﬁcant difference in the incidence of cogni-   cantly.101 In  older  patients,  deconditioning
+tive dysfunction 3 months after either general     occurs by day 2 of hospitalisation.102
+or regional anaesthesia.91 Accordingly, there is     Post-operative fatigue (POF) is a well-recog-
+no  evidence  to  suggest any   causative  rela-   nised condition characterised by tiredness, lack
+tionship  between    general  anaesthesia   and    of concentration which can impact on patient’s
+long-term POCD.                                    quality of life. It can occur for several weeks
+  A   possible  pathogenic   mechanism    is of    after abdominal surgery   and  the  duration  is
+inﬂammatory nature whereby pro-inﬂammatory         related to the intensity of surgery.103 It appears
+cytokines increased signiﬁcantly in the systemic   that cancer has some inﬂuence on the develop-
+circulation and  the central nervous system.92     ment   of  post-operative  fatigue. Beside  the
+Pre-existing factors can  contribute to POCD,      reported unpleasant and distressing symptoms,
+such as advanced age, metabolic syndrome, edu-     objective measures of POF have been identiﬁed,
+cation, vascular dementia and attention  deﬁcit    such  as increased exercise-induced  heart rate,
+disorders. Sleep   disruption, poor   analgesia,   elevated production of pro-inﬂammatory cytoki-
+anaesthetic medications such as benzodiazepines    nes, decline in cardiorespiratory effort, weight
+can further exacerbate POCD.                       loss, muscle weakness and     anorexia. Patients
+  Due   to the  complexity  of the   pathogenic    need more energy to perform    a given physical
+mechanism   and the multifactorial nature of POD   task. The psychological aspects of POF     have
+and POCD, attempts are made to identify vul-       been studied in depth, and it appears that while
+nerable patients and  interventions which  pro-    early symptoms of fatigue can be due to somati-
+mote resolution  of neuroinﬂammation. In    this   sation, late fatigue is secondary to cognitive-be-
+context, strategies such as minimally invasive     havioural  factors. Pre-operative  anxiety  and
+surgery, guiding  anaesthetic  depth  with  BIS    depression has been reported to be predictive of
+monitoring,93,94 adequate  pain  relief, limited   the development of fatigue.
+use of benzodiazepines95,96 and opioids, a quiet     ERAS pathways are not speciﬁc in relation to
+environment to facilitate sleep and accelerated    the type of exercise to be conducted after sur-
+discharge home have been proposed as effective     gery as there is no evidence at present to sup-
+measures which need to be conﬁrmed in large        port the use of one plan over another. There is a
+trials.                                            need to emphasise the importance of an early
+                                                   structured mobilisation plan with daily written
+                                                   targets for time out of bed or distance walked,
+Surgery and post-operative deconditioning
+                                                   beginning as early as the day of surgery. POF
+Prolonged bed rest for up to several weeks in      has  a  multimodal   aetiology  and,  therefore,
+hospital was standard surgical practice until the  requires multimodal intervention. Some impro-
+1940s, probably originating from fears of wound    vement in POF has been reported with imple-
+
+                                                                 Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+1224   ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation.
+
+
+                                                                                                                               13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+                                                                                 ERAS AND PATHOPHYSIOLOGY
+
+
+mentation    of combining therapeutic strategies,              Enhanced recovery after surgery: a consensus
+however more data are required.                                review of clinical care for patients undergoing
+                                                               colonic resection. Clin Nutr 2005; 24: 466–77.
+                                                            5. Gustafsson UO, Scott MJ, Schwenk W, Demartines
+Conclusions                                                    N, Roulin D, Francis N, McNaught CE, Macﬁe J,
+Understanding the pathophysiology of the surgi-                Liberman AS, Soop M, Hill A, Kennedy RH, Lobo
+cal stress response enables clinicians to identify             DN, Fearon K, Ljungqvist O, Enhanced Recovery
+the therapeutic interventions which are incorpo-               After Surgery Society fPC, European Society for
+rated into the ERAS pathway aiming at acceler-                 Clinical N, Metabolism, International Association
+ating the recovery process by targeting some key               for Surgical M, Nutrition. Guidelines for
+elements,    insulin    resistance,   disruption    of         perioperative care in elective colonic surgery:
+homoeostasis and nociceptive stimulation. There                Enhanced Recovery After Surgery (ERAS((R)))
+                                                               Society recommendations. World J Surg 2013; 37:
+is  some   evidence    that the   ERAS     synergistic
+                                                               259–84.
+approach is effective and physiologically makes
+                                                            6. Nygren J, Thacker J, Carli F, Fearon KC,
+sense, although     this is not always translated
+                                                               Norderval S, Lobo DN, Ljungqvist O, Soop M,
+into clinical outcome. Many aspects need more                  Ramirez J, Enhanced Recovery After Surgery
+clariﬁcation   as the literature is conﬂicting      as         Society fPC, European Society for Clinical N,
+ERAS principles continue to evolve and more                    Metabolism, International Association for Surgical
+research   is required. ERAS     is evidence-based,            M, Nutrition. Guidelines for perioperative care in
+however translation into clinical care is lagging.             elective rectal/pelvic surgery: Enhanced Recovery
+It requires continuing professional development,               After Surgery (ERAS((R))) Society
+additional    debate,   interdisciplinary    involve-          recommendations. World J Surg 2013; 37:
+ment, patient education       and  regular revalida-           285–305.
+tion.   Ultimately,   ERAS     can   lead   to  major       7. Lassen K, Coolsen MM, Slim   K, Carli F, de
+improvements in the quality of patient care, bet-              Aguilar-Nascimento JE, Schafer M, Parks RW,
+ter patient outcomes as well as economic bene-                 Fearon KC, Lobo DN, Demartines N, Braga M,
+ﬁts   for the   whole   health   care  system. This            Ljungqvist O, Dejong CH, Enhanced Recovery
+implies    that  anaesthesiologists    play   a   cru-         After Surgery Society fPC, European Society for
+cial role in development and the deployment of                 Clinical N, Metabolism, International Association
+the programme.                                                 for Surgical M, Nutrition. Guidelines for
+                                                               perioperative care for pancreaticoduodenectomy:
+                                                               Enhanced Recovery After Surgery (ERAS(R))
+References                                                     Society recommendations. World J Surg 2013; 37:
+                                                                   –
+  1. Kehlet H, Wilmore DW. Evidence-based surgical             240  58.
+     care and the evolution of fast-track surgery. Ann      8. Lassen K, Soop M, Nygren J, Cox PB, Hendry PO,
+     Surg 2008; 248: 189–98.                                   Spies C, von Meyenfeldt MF, Fearon KC, Revhaug
+  2. Breuer JP, von Dossow  V, von Heymann C,                  A, Norderval S, Ljungqvist O, Lobo DN, Dejong
+     Griesbach M, von Schickfus M, Mackh E, Hacker             CH, Enhanced Recovery After Surgery G.
+     C, Elgeti U, Konertz W, Wernecke KD, Spies CD.            Consensus review  of optimal perioperative care in
+     Preoperative oral carbohydrate administration to          colorectal surgery: Enhanced Recovery After
+     ASA III-IV patients undergoing elective cardiac           Surgery (ERAS) Group recommendations. Arch
+                                                                                  –
+     surgery. Anesth Analg 2006; 103: 1099–108.                Surg 2009; 144: 961 9.
+  3. Larsen K, Hvass KE, Hansen TB, Thomsen PB,             9. Gustafsson UO, Hausel J, Thorell A, Ljungqvist O,
+     Soballe K. Effectiveness of accelerated                   Soop M, Nygren J, Enhanced Recovery After
+     perioperative care and rehabilitation intervention        Surgery Study G. Adherence to the enhanced
+     compared to current intervention after hip and            recovery after surgery protocol and outcomes after
+     knee arthroplasty. A before-after trial of 247            colorectal cancer surgery. Arch Surg 2011; 146:
+                                                                   –
+     patients with a 3-month follow-up. BMC                    571  7.
+     Musculoskelet Disord 2008; 9: 59.                      10. Varadhan KK, Neal KR, Dejong CH, Fearon KC,
+  4. Fearon KC, Ljungqvist O, Von Meyenfeldt M,                Ljungqvist O, Lobo DN. The enhanced recovery
+     Revhaug A, Dejong CH, Lassen K, Nygren J,                 after surgery (ERAS) pathway for patients
+     Hausel J, Soop M, Andersen J, Kehlet H.                   undergoing major elective open colorectal surgery:
+
+Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation. 1225
+
+
+                                                                                                                           13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+ M. J. SCOTT ET AL.
+
+
+     a meta-analysis of randomized controlled trials.          Reddy D, Szalay D, Tittley J, Weitz J, Whitlock R,
+     Clin Nutr 2010; 29: 434–40.                               Darvish-Kazim  S, Debeer J, Kavsak P, Kearon C,
+ 11. Pearse RM, Harrison DA, James P, Watson D,                Mizera R, O’Donnell M, McQueen M, Pinthus J,
+     Hinds C, Rhodes A, Grounds RM, Bennett ED.                Ribas S, Simunovic M, Tandon V, Vanhelder T,
+     Identiﬁcation and characterisation of the high-risk       Winemaker M, Gerstein H, McDonald S, O’Bryne
+     surgical population in the United Kingdom. Crit           P, Patel A, Paul J, Punthakee Z, Raymer K,
+     Care 2006; 10: R81.                                       Salehian O, Spencer F, Walter S, Worster A, Adili
+ 12. Wilson RJ, Davies S, Yates D, Redman J, Stone M.          A, Clase C, Cook D, Crowther M, Douketis J,
+     Impaired functional capacity is associated with all-      Gangji A, Jackson P, Lim W, Lovrics P, Mazzadi S,
+     cause mortality after major elective intra-               Orovan W, Rudkowski J, Soth M, Tiboni M,
+     abdominal surgery. Br J Anaesth 2010; 105: 297–           Acedillo R, Garg A, Hildebrand A, Lam  N,
+     303.                                                      Macneil D, Mrkobrada M, Roshanov PS, Srinathan
+ 13. Rostagno C, Olivo G, Comeglio M, Boddi V,                 SK, Ramsey C, John PS, Thorlacius L, Siddiqui
+     Banchelli M, Galanti G, Gensini GF. Prognostic            FS, Grocott HP, McKay A, Lee TW, Amadeo R,
+     value of 6-minute walk corridor test in patients          Funk D, McDonald H, Zacharias J, Villar JC,
+     with mild to moderate heart failure: comparison           Cortes OL, Chaparro MS, Vasquez S, Castaneda A,
+     with other methods of functional evaluation. Eur J        Ferreira S, Coriat P, Monneret D, Goarin JP,
+     Heart Fail 2003; 5: 247–52.                               Esteve CI, Royer C, Daas G, Chan MT, Choi GY,
+ 14. Lee L, Schwartzman K, Carli F, Zavorsky GS, Li C,         Gin T, Lit LC, Xavier D, Sigamani A, Faruqui A,
+     Charlebois P, Stein B, Liberman AS, Fried GM,             Dhanpal R, Almeida S, Cherian J, Furruqh S,
+     Feldman LS. The association of the distance               Abraham   V, Afzal L, George P, Mala S,
+     walked in 6 min with pre-operative peak oxygen            Schunemann H, Muti P, Vizza E, Wang CY, Ong
+     consumption and complications 1 month after               GS, Mansor M, Tan AS, Shariffuddin II,
+     colorectal resection. Anaesthesia 2013; 68: 811–6.        Vasanthan V, Hashim   NH, Undok AW, Ki U, Lai
+ 15. Hughes S. The effects of giving patients pre-             HY, Ahmad WA, Razack AH, Malaga G,
+     operative information. Nurs Stand 2002; 16: 33–7.         Valderrama-Victoria V, Loza-Herrera JD, De Los
+ 16. Khuri SF, Henderson WG, DePalma RG, Mosca C,              Angeles Lazo M, Rotta-Rotta A, Szczeklik W,
+     Healey NA, Kumbhani DJ, Participants in the               Sokolowska B, Musial J, Gorka J, Iwaszczuk P,
+     VANSQIP. Determinants of long-term   survival             Kozka M, Chwala M, Raczek M, Mrowiecki T,
+     after major surgery and the adverse effect of             Kaczmarek B, Biccard B, Cassimjee H, Gopalan D,
+     postoperative complications. Ann Surg 2005; 242:          Kisten T, Mugabi A, Naidoo P, Naidoo R, Rodseth
+     326–41; discussion 41-3.                                  R, Skinner D, Torborg A, Paniagua P, Urrutia G,
+ 17. Botto F, Alonso-Coello P, Chan MT, Villar JC,             Maestre ML, Santalo M, Gonzalez R, Font A,
+     Xavier D, Srinathan S, Guyatt G, Cruz P, Graham           Martinez C, Pelaez X, De Antonio M, Villamor JM,
+     M, Wang CY, Berwanger O, Pearse RM, Biccard               Garcia JA, Ferre MJ, Popova E, Alonso-Coello P,
+     BM, Abraham   V, Malaga G, Hillis GS, Rodseth             Garutti I, Cruz P, Fernandez C, Palencia M, Diaz
+     RN, Cook D, Polanczyk CA, Szczeklik W, Sessler            S, Del Castillo T, Varela A, deMiguel A, Munoz
+     DI, Sheth T, Ackland GL, Leuwer M, Garg AX,               M, Pineiro P, Cusati G, Del Barrio M, Membrillo
+     Lemanach Y, Pettit S, Heels-Ansdell D, Luratibuse         MJ, Orozco D, Reyes F, Sapsford RJ, Barth J, Scott
+     G, Walsh M, Sapsford R, Schunemann HJ, Kurz A,            J, Hall A, Howell S, Lobley M, Woods J, Howard
+     Thomas S, Mrkobrada M, Thabane L, Gerstein H,             S, Fletcher J, Dewhirst N, Williams C, Rushton A,
+     Paniagua P, Nagele P, Raina P, Yusuf S,                   Welters I, Leuwer M, Pearse R, Ackland G, Khan
+     Devereaux PJ, Devereaux PJ, Sessler DI, Walsh M,          A, Niebrzegowska E, Benton S, Wragg A,
+     Guyatt G, McQueen MJ, Bhandari M, Cook D,                 Archbold A, Smith A, McAlees E, Ramballi C,
+     Bosch J, Buckley N, Yusuf S, Chow  CK, Hillis GS,         Macdonald N, Januszewska M, Stephens R, Reyes
+     Halliwell R, Li S, Lee VW, Mooney J, Polanczyk            A, Paredes LG, Sultan P, Cain D, Whittle J, Del
+     CA, Furtado MV, Berwanger O, Suzumura E,                  Arroyo AG, Sessler DI, Kurz A, Sun Z, Finnegan
+     Santucci E, Leite K, Santo JA, Jardim CA,                 PS, Egan C, Honar H, Shahinyan A,
+     Cavalcanti AB, Guimaraes HP, Jacka MJ, Graham             Panjasawatwong K, Fu AY, Wang S, Reineks E,
+     M, McAlister F, McMurtry S, Townsend D, Pannu             Nagele P, Blood J, Kalin M, Gibson D, Wildes T,
+     N, Bagshaw  S, Bessissow A, Bhandari M, Duceppe           Vascular events In noncardiac Surgery patIents
+     E, Eikelboom  J, Ganame J, Hankinson J, Hill S,           cOhort evaluatioN Writing Group oboTVeInSpceI,
+     Jolly S, Lamy A, Ling E, Magloire P, Pare G,              Appendix 1. The Vascular events In noncardiac
+
+                                                                          Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+1226    ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation.
+
+
+                                                                                                                               13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+                                                                                 ERAS AND PATHOPHYSIOLOGY
+
+
+     Surgery patIents cOhort evaluatio NSIWG,                  mellitus and the catabolic response to surgery.
+     Appendix 2. The Vascular events In noncardiac             Anesthesiology 2005; 102: 320–6.
+     Surgery patIents cOhort evaluatio NOC, Vascular        28. Donatelli F, Corbella D, Di Nicola M, Carli F,
+     events In noncardiac Surgery patIents cOhort              Lorini L, Fumagalli R, Biolo G. Preoperative
+     evaluatio NVSI. Myocardial injury after noncardiac        insulin resistance and the impact of feeding on
+     surgery: a large, international, prospective cohort       postoperative protein balance: a stable isotope
+     study establishing diagnostic criteria,                   study. J Clin Endocrinol Metab 2011; 96: E1789–
+     characteristics, predictors, and 30-day outcomes.         97.
+     Anesthesiology 2014; 120: 564–78.                      29. Guillet C, Prod’homme M, Balage M, Gachon P,
+ 18. Greco M, Capretti G, Beretta L, Gemma M,                  Giraudet C, Morin L, Grizard J, Boirie Y. Impaired
+     Pecorelli N, Braga M. Enhanced recovery program           anabolic response of muscle protein synthesis is
+     in colorectal surgery: a meta-analysis of                 associated with S6K1 dysregulation in elderly
+     randomized controlled trials. World J Surg 2014;          humans. FASEB J 2004;18:1586–7.
+     38: 1531–41.                                           30. Leurs LJ, Laheij RJ, Buth J, Collaborators E.
+ 19. Ljungqvist O, Jonathan E. Rhoads lecture 2011:            Inﬂuence of diabetes mellitus on the endovascular
+     insulin resistance and enhanced recovery after            treatment of abdominal aortic aneurysms. J
+     surgery. JPEN J Parenter Enteral Nutr 2012; 36:           Endovasc Ther 2005; 12: 288–96.
+     389–98.                                                31. Lieffers JR, Bathe OF, Fassbender K, Winget M,
+ 20. Thorell A, Nygren J, Ljungqvist O. Insulin                Baracos VE. Sarcopenia is associated with
+     resistance: a marker of surgical stress. Curr Opin        postoperative infection and delayed recovery from
+     Clin Nutr Metab Care 1999; 2: 69–78.                      colorectal cancer resection surgery. Br J Cancer
+ 21. Sato H, Carvalho G, Sato T, Lattermann R,                 2012; 107: 931–6.
+     Matsukawa T, Schricker T. The association of           32. Gustafsson UO, Thorell A, Soop M, Ljungqvist O,
+     preoperative glycemic control, intraoperative             Nygren J. Haemoglobin A1c as a predictor of
+     insulin sensitivity, and outcomes after cardiac           postoperative hyperglycaemia and complications
+     surgery. J Clin Endocrinol Metab 2010; 95: 4338–          after major colorectal surgery. Br J Surg 2009; 96:
+     44.                                                       1358–64.
+ 22. Krinsley JS. Association between hyperglycemia         33. Halkos ME, Puskas JD, Lattouf OM, Kilgo P,
+     and increased hospital mortality in a                     Kerendi F, Song HK, Guyton RA, Thourani VH.
+     heterogeneous population of critically ill patients.      Elevated preoperative hemoglobin A1c level is
+     Mayo Clin Proc 2003; 78: 1471–8.                          predictive of adverse events after coronary artery
+ 23. McAlister FA, Man J, Bistritz L, Amad H,                  bypass surgery. J Thorac Cardiovasc Surg 2008;
+     Tandon P. Diabetes and coronary artery bypass             136: 631–40.
+     surgery: an examination of perioperative glycemic      34. O’Sullivan CJ, Hynes N, Mahendran B, Andrews
+     control and outcomes. Diabetes Care 2003; 26:             EJ, Avalos G, Tawﬁk S, Lowery A, Sultan S.
+     1518–24.                                                  Haemoglobin A1c (HbA1C) in non-diabetic and
+ 24. Kiran RP, Turina M, Hammel J, Fazio V. The                diabetic vascular patients. Is HbA1C an
+     clinical signiﬁcance of an elevated postoperative         independent risk factor and predictor of adverse
+     glucose value in nondiabetic patients after               outcome? Eur J Vasc Endovasc Surg 2006; 32:
+     colorectal surgery: evidence for the need for tight       188–97.
+     glucose control? Ann Surg 2013;258:599–604;            35. Ljungqvist O. Modulating postoperative insulin
+     discussion 04–5.                                          resistance by preoperative carbohydrate loading.
+ 25. Umpierrez GE, Isaacs SD, Bazargan N, You X,               Best Pract Res Clin Anaesthesiol 2009; 23: 401–9.
+     Thaler LM, Kitabchi AE. Hyperglycemia: an              36. Ljungqvist O, Thorell A, Gutniak M, Haggmark T,
+     independent marker of in-hospital mortality in            Efendic S. Glucose infusion instead of
+     patients with undiagnosed diabetes. J Clin                preoperative fasting reduces postoperative insulin
+     Endocrinol Metab 2002; 87: 978–82.                        resistance. J Am Coll Surg 1994; 178: 329–36.
+ 26. Schricker T, Lattermann R. Strategies to attenuate     37. Nygren J, Soop M, Thorell A, Efendic S, Nair KS,
+     the catabolic response to surgery and improve             Ljungqvist O. Preoperative oral carbohydrate
+     perioperative outcomes. Can J Anaesth 2007; 54:           administration reduces postoperative insulin
+     414–9.                                                    resistance. Clin Nutr 1998; 17: 65–71.
+ 27. Schricker T, Gougeon R, Eberhart L, Wykes L,           38. Svanfeldt M, Thorell A, Hausel J, Soop M, Nygren
+     Mazza L, Carvalho G, Carli F. Type 2 diabetes             J, Ljungqvist O. Effect of “preoperative” oral
+
+Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation. 1227
+
+
+                                                                                                                           13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+ M. J. SCOTT ET AL.
+
+
+     carbohydrate treatment on insulin action–a                C-UB [Preoperative fasting. An update].
+     randomised cross-over unblinded study in healthy          Anaesthesist 2003; 52: 1039–45.
+     subjects. Clin Nutr 2005; 24: 815–21.                 48. Carli F, Halliday D. Continuous epidural
+ 39. Wang ZG, Wang Q, Wang WJ, Qin HL.                         blockade arrests the postoperative decrease in
+     Randomized clinical trial to compare the effects of       muscle protein fractional synthetic rate in
+     preoperative oral carbohydrate versus placebo on          surgical patients. Anesthesiology 1997; 86:
+     insulin resistance after colorectal surgery. Br J         1033–40.
+     Surg 2010; 97: 317–27.                                49. Schricker T, Meterissian S, Wykes L, Eberhart L,
+ 40. Yuill KA, Richardson RA, Davidson HI, Garden              Lattermann R, Carli F. Postoperative protein
+     OJ, Parks RW. The administration of an oral               sparing with epidural analgesia and hypocaloric
+     carbohydrate-containing ﬂuid prior to major               dextrose. Ann Surg 2004; 240: 916–21.
+     elective upper-gastrointestinal surgery preserves     50. Popping DM, Elia N, Marret E, Remy C, Tramer
+     skeletal muscle mass postoperatively–a                    MR. Protective effects of epidural analgesia on
+     randomised clinical trial. Clin Nutr 2005; 24: 32–7.      pulmonary complications after abdominal and
+ 41. Hausel J, Nygren J, Thorell A, Lagerkranser M,            thoracic surgery: a meta-analysis. Arch Surg 2008;
+     Ljungqvist O. Randomized clinical trial of the            143: 990–9; discussion 1000.
+     effects of oral preoperative carbohydrates on         51. Popping DM, Elia N, Van Aken HK, Marret E,
+     postoperative nausea and vomiting after                   Schug SA, Kranke P, Wenk M, Tramer MR.
+     laparoscopic cholecystectomy. Br J Surg 2005; 92:         Impact of epidural analgesia on mortality and
+     415–21.                                                   morbidity after surgery: systematic review and
+ 42. Yagci G, Can MF, Ozturk E, Dag B, Ozgurtas T,             meta-analysis of randomized controlled trials. Ann
+     Cosar A, Tufan T. Effects of preoperative                 Surg 2014; 259: 1056–67.
+     carbohydrate loading on glucose metabolism and        52. Lewis SJ, Andersen HK, Thomas S. Early enteral
+     gastric contents in patients undergoing moderate          nutrition within 24 h of intestinal surgery versus
+     surgery: a randomized, controlled trial. Nutrition        later commencement of feeding: a systematic
+     2008; 24: 212–6.                                          review and meta-analysis. J Gastrointest Surg
+ 43. Awad S, Varadhan KK, Ljungqvist O, Lobo DN. A             2009; 13: 569–75.
+     meta-analysis of randomised controlled trials on      53. Soop M, Carlson GL, Hopkinson J, Clarke S,
+     preoperative oral carbohydrate treatment in               Thorell A, Nygren J, Ljungqvist O. Randomized
+     elective surgery. Clin Nutr 2013; 32: 34–44.              clinical trial of the effects of immediate enteral
+ 44. Smith MD, McCall J, Plank L, Herbison GP, Soop            nutrition on metabolic responses to major
+     M, Nygren J. Preoperative carbohydrate treatment          colorectal surgery in an enhanced recovery
+     for enhancing recovery after elective                     protocol. Br J Surg 2004; 91: 1138–45.
+     surgery. Cochrane Database Syst Rev 2014; 8:          54. Brandi LS, Frediani M, Oleggini M, Mosca F,
+     CD009161.                                                 Cerri M, Boni C, Pecori N, Buzzigoli G, Ferrannini
+ 45. American Society of Anesthesiologists Committee.          E. Insulin resistance after surgery: normalization
+     Practice guidelines for preoperative fasting and the      by insulin treatment. Clin Sci (Lond) 1990; 79:
+     use of pharmacologic agents to reduce the risk of         443–50.
+     pulmonary aspiration: application to healthy          55. van den Berghe G, Wouters P, Weekers F,
+     patients undergoing elective procedures: an               Verwaest C, Bruyninckx F, Schetz M, Vlasselaers
+     updated report by the American Society of                 D, Ferdinande P, Lauwers P, Bouillon R. Intensive
+     Anesthesiologists Committee on Standards and              insulin therapy in critically ill patients. N Engl J
+     Practice Parameters. Anesthesiology 2011; 114:            Med 2001; 345: 1359–67.
+     495–511.                                              56. Investigators N-SS, Finfer S, Chittock DR, Su SY,
+ 46. Soreide E, Eriksson LI, Hirlekar G, Eriksson H,           Blair D, Foster D, Dhingra V, Bellomo R, Cook D,
+     Henneberg SW, Sandin R, Raeder J. Pre-operative           Dodek P, Henderson WR, Hebert PC, Heritier
+     fasting guidelines: an update. Acta Anaesthesiol          S, Heyland DK, McArthur C, McDonald E,
+     Scand 2005; 49: 1041–7.                                   Mitchell I, Myburgh JA, Norton R, Potter J,
+ 47. Spies CD, Breuer JP, Gust R, Wichmann M,                  Robinson BG, Ronco JJ. Intensive versus
+     Adolph M, Senkal M, Kampa U, Weissauer W,                 conventional glucose control in critically ill
+     Schleppers A, Soreide E, Martin E, Kaisers U,             patients. N Engl J Med 2009; 360: 1283–97.
+     Falke KJ, Haas N, Kox WJ. Klinik fur                  57. Brown SR, Goodfellow   PB. Transverse verses
+     Anasthesiologie und operative Intensivmedizin             midline incisions for abdominal surgery. Cochrane
+
+                                                                          Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+1228    ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation.
+
+
+                                                                                                                               13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+                                                                                 ERAS AND PATHOPHYSIOLOGY
+
+
+     Database Syst Rev 2005; CD005199. DOI: 10.1002/           responses: a randomized, three-way crossover
+     14651858.CD005199.pub2.                                   study in healthy volunteers. Crit Care Med 2010;
+ 58. Grantcharov TP, Rosenberg J. Vertical compared            38: 464–70.
+     with transverse incisions in abdominal surgery.        68. Chowdhury AH, Lobo DN. Fluids and
+     Eur J Surg 2001; 167: 260–7.                              gastrointestinal function. Curr Opin Clin Nutr
+ 59. Seiler CM, Deckert A, Diener MK, Knaebel HP,              Metab Care 2011; 14: 469–76.
+     Weigand MA, Victor N, Buchler MW. Midline              69. Varadhan KK, Lobo DN. A meta-analysis of
+     versus transverse incision in major abdominal             randomised controlled trials of intravenous ﬂuid
+     surgery: a randomized, double-blind equivalence           therapy in major elective open abdominal surgery:
+     trial (POVATI: ISRCTN60734227). Ann Surg 2009;            getting the balance right. Proc Nutr Soc 2010; 69:
+     249: 913–20.                                              488–98.
+ 60. Schwenk W, Haase O, Neudecker J, Muller JM.            70. Brandstrup B, Svendsen PE, Rasmussen M,
+     Short term beneﬁts for laparoscopic colorectal            Belhage B, Rodt SA, Hansen B, Moller DR,
+     resection. Cochrane Database Syst Rev 2005;               Lundbech LB, Andersen N, Berg V, Thomassen N,
+     CD003145. DOI: 10.1002/14651858.CD003145.pub2.            Andersen ST, Simonsen L. Which goal for ﬂuid
+ 61. Dowson HM, Bong JJ, Lovell DP, Worthington TR,            therapy during colorectal surgery is followed by
+     Karanjia ND, Rockall TA. Reduced adhesion                 the best outcome: near-maximal stroke volume or
+     formation following laparoscopic versus                   zero ﬂuid balance? Br J Anaesth 2012; 109: 191–9.
+     open colorectal surgery. Br J Surg 2008; 95: 909–14.   71. Pearse RM, Harrison DA, MacDonald N, Gillies
+ 62. Levy B, Dowson HM, Fawcett WJ, Scott MJP,                 MA, Blunt M, Ackland G, Grocott MP, Ahern A,
+     Stoneham  JR, Zuleika M, Rockall TA. The effect of        Griggs K, Scott R, Hinds C, Rowan K, Group OS.
+     regional anaesthesia on haemodynamic changes              Effect of a perioperative, cardiac output-guided
+     occurring during laparoscopic colorectal surgery.         hemodynamic therapy algorithm   on outcomes
+     Anaesthesia 2009;64:810.                                  following major gastrointestinal surgery: a
+ 63. Haverkamp MP, de Roos MA, Ong KH. The ERAS                randomized clinical trial and systematic review.
+     protocol reduces the length of stay after                 JAMA 2014; 311: 2181–90.
+     laparoscopic colectomies. Surg Endosc 2012; 26:        72. Srinivasa S, Taylor MH, Singh PP, Lemanu DP,
+     361–7.                                                    MacCormick AD, Hill AG. Goal-directed ﬂuid
+ 64. Varadhan KK, Atkins RP, Constantin-Teodosiu D,            therapy in major elective rectal surgery. Int J Surg
+     Blackshaw  E, Perkins AC, Greenhaff PL, Lobo DN.          2014; 12: 1467–72.
+     Gastrointestinal surgery mediated increases in gut     73. Pestana D, Espinosa E, Eden A, Najera D, Collar
+     permeability and expression of IL6 and PDK4               L, Aldecoa C, Higuera E, Escribano S, Bystritski
+     mRNAs in quadriceps muscle may underpin the               D, Pascual J, Fernandez-Garijo P, de Prada B,
+     post-operative increase in whole-body insulin             Muriel A, Pizov R. Perioperative goal-directed
+     resistance in humans. J Am Coll Surg 2011; 213:           hemodynamic optimization using noninvasive
+     S53.                                                      cardiac output monitoring in major abdominal
+ 65. Atkins R, Varadhan KK, Constantin-Teodosiu D,             surgery: a prospective, randomized, multicenter,
+     Lobo DN, Greenhaff PL. Rates of skeletal muscle           pragmatic trial: POEMAS Study (PeriOperative
+     mitochondrial ATP production are reduced during           goal-directed thErapy in Major Abdominal
+     elective abdominal surgery in humans. J Am  Coll          Surgery). Anesth Analg 2014; 119: 579–87.
+     Surg 2011; 213: S59.                                   74. Bragg D, El-Sharkawy AM, Psaltis E, Maxwell-
+ 66. Lobo DN, Bostock KA, Neal KR, Perkins AC,                 Armstrong CA, Lobo DN. Postoperative ileus:
+     Rowlands BJ, Allison SP. Effect of salt and water         recent developments in pathophysiology and
+     balance on recovery of gastrointestinal                   management. Clin Nutr 2015; 34: 367–76.
+     function after elective colonic resection: a           75. Tan EK, Cornish J, Darzi AW, Tekkis PP. Meta-
+     randomised controlled trial. Lancet 2002; 359:            analysis: Alvimopan vs. placebo in the treatment
+     1812–8.                                                   of post-operative ileus. Aliment Pharmacol Ther
+ 67. Lobo DN, Stanga Z, Aloysius MM, Wicks C,                  2007; 25: 47–57.
+     Nunes QM, Ingram   KL, Risch L, Allison SP. Effect     76. Wang SC, Borison HL. The vomiting center; a
+     of volume loading with 1 liter intravenous                critical experimental analysis. Arch Neurol
+     infusions of 0.9% saline, 4% succinylated gelatine        Psychiatry 1950; 63: 928–41.
+     (Gelofusine) and 6%  hydroxyethyl starch               77. Wang SC, Borison HL. A new   concept of
+     (Voluven) on blood volume and endocrine                   organization of the central emetic mechanism:
+
+Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation. 1229
+
+
+                                                                                                                           13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+ M. J. SCOTT ET AL.
+
+
+     recent studies on the sites of action of              89. Saczynski JS, Marcantonio ER, Quach L, Fong TG,
+     apomorphine, copper sulfate and cardiac                   Gross A, Inouye SK, Jones RN. Cognitive
+     glycosides. Gastroenterology 1952; 22: 1–12.              trajectories after postoperative delirium. N Engl J
+ 78. Borison HL. Area postrema: chemoreceptor                  Med 2012; 367: 30–9.
+     circumventricular organ of the medulla oblongata.     90. Moller JT, Cluitmans P, Rasmussen LS, Houx P,
+     Prog Neurobiol 1989; 32: 351–90.                          Rasmussen H, Canet J, Rabbitt P, Jolles J, Larsen
+ 79. Watcha MF, White PF. Postoperative nausea and             K, Hanning CD, Langeron O, Johnson T, Lauven
+     vomiting. Its etiology, treatment, and prevention.        PM, Kristensen PA, Biedler A, van Beem  H,
+     Anesthesiology 1992; 77: 162–84.                          Fraidakis O, Silverstein JH, Beneken JE,
+ 80. Gan TJ. Mechanisms underlying postoperative               Gravenstein JS. Long-term  postoperative cognitive
+     nausea and vomiting and neurotransmitter                  dysfunction in the elderly ISPOCD1 study.
+     receptor antagonist-based pharmacotherapy. CNS            ISPOCD investigators. International Study of Post-
+     Drugs 2007; 21: 813–33.                                   Operative Cognitive Dysfunction. Lancet 1998;
+ 81. Gan TJ, Diemunsch P, Habib AS, Kovac A,                   351: 857–61.
+     Kranke P, Meyer TA, Watcha M, Chung F, Angus          91. Rasmussen LS, Johnson T, Kuipers HM,
+     S, Apfel CC, Bergese SD, Candiotti KA, Chan MT,           Kristensen D, Siersma VD, Vila P, Jolles J,
+     Davis PJ, Hooper VD, Lagoo-Deenadayalan S,                Papaioannou A, Abildstrom   H, Silverstein JH,
+     Myles P, Nezat G, Philip BK, Tramer MR, Society           Bonal JA, Raeder J, Nielsen IK, Korttila K, Munoz
+     for Ambulatory A. Consensus guidelines for the            L, Dodds C, Hanning CD, Moller JT, Investigators
+     management of postoperative nausea and                    I. Does anaesthesia cause postoperative cognitive
+     vomiting. Anesth Analg 2014; 118: 85–113.                 dysfunction? A randomised study of regional
+ 82. Kojima Y, Takahashi T, Fujina M, Owyang C.                versus general anaesthesia in 438 elderly patients.
+     Inhibition of cholinergic transmission by opiates         Acta Anaesthesiol Scand 2003; 47: 260–6.
+     in ileal myenteric plexus is mediated by kappa        92. Degos V, Vacas S, Han Z, van Rooijen N, Gressens
+     receptor. Involvement of regulatory inhibitory G          P, Su H, Young WL, Maze M. Depletion of bone
+     protein and calcium N-channels. J Pharmacol Exp           marrow-derived macrophages perturbs the innate
+     Ther 1994; 268: 965–70.                                   immune response to surgery and reduces
+ 83. Buvanendran A, Kroin JS, Della Valle CJ, Kari M,          postoperative memory dysfunction. Anesthesiology
+     Moric M, Tuman KJ. Perioperative oral pregabalin          2013; 118: 527–36.
+     reduces chronic pain after total knee arthroplasty:   93. Chan MT, Cheng BC, Lee TM, Gin T. BIS-guided
+     a prospective, randomized, controlled trial. Anesth       anesthesia decreases postoperative delirium and
+     Analg 2010; 110: 199–207.                                 cognitive decline. J Neurosurg Anesthesiol 2013;
+ 84. Samad TA, Moore KA, Sapirstein A, Billet S,               25: 33–42.
+     Allchorne A, Poole S, Bonventre JV, Woolf CJ.         94. Radtke FM, Franck M, Lendner J, Kruger S,
+     Interleukin-1beta-mediated induction of Cox-2 in          Wernecke KD, Spies CD. Monitoring depth of
+     the CNS contributes to inﬂammatory pain                   anaesthesia in a randomized trial decreases the
+     hypersensitivity. Nature 2001; 410: 471–5.                rate of postoperative delirium but not
+ 85. Joshi GP. Multimodal analgesia techniques and             postoperative cognitive dysfunction. Br J Anaesth
+     postoperative rehabilitation. Anesthesiol Clin            2013; 110(Suppl. 1): i98–105.
+     North Am  2005; 23: 185–202.                          95. Lepouse C, Lautner CA, Liu L, Gomis P, Leon A.
+ 86. Klein M. Postoperative non-steroidal anti-                Emergence delirium in adults in the post-
+     inﬂammatory drugs and colorectal anastomotic              anaesthesia care unit. Br J Anaesth 2006; 96: 747–53.
+     leakage. NSAIDs and anastomotic leakage. Dan          96. Rasmussen LS, Steentoft A, Rasmussen H,
+     Med J 2012;59:B4420.                                      Kristensen PA, Moller JT. Benzodiazepines and
+  87. Carli F, Kehlet H, Baldini G, Steel A, McRae K,          postoperative cognitive dysfunction in the elderly.
+      Slinger P, Hemmerling T, Salinas F, Neal JM.             ISPOCD Group. International Study of
+      Evidence basis for regional anesthesia in                Postoperative Cognitive Dysfunction. Br J Anaesth
+      multidisciplinary fast-track surgical care               1999; 83: 585–9.
+      pathways. Reg Anesth Pain Med 2011; 36: 63–72.       97. Brieger GH. Early ambulation. A study in the
+ 88. Joshi GP, Bonnet F, Kehlet H, collaboration P.            history of surgery. Ann Surg 1983; 197: 443–9.
+     Evidence-based postoperative pain management          98. Convertino VA. Cardiovascular consequences of
+     after laparoscopic colorectal surgery. Colorectal Dis     bed rest: effect on maximal oxygen uptake. Med
+     2013;15:146–55.                                           Sci Sports Exerc 1997; 29: 191–6.
+
+                                                                          Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+1230    ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation.
+
+
+                                                                                                                               13996576, 2015, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/aas.12601 by National Taiwan University, Wiley Online Library on [28/04/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) for rules of use; OA articles are governed applicable Creative Commons License
+
+
+                                                                                 ERAS AND PATHOPHYSIOLOGY
+
+
+ 99. Brower RG. Consequences of bed rest. Crit Care        103. Zargar-Shoshtari K, Hill AG. Postoperative
+     Med 2009; 37: S422–8.                                      fatigue: a review. World J Surg 2009; 33: 738–45.
+100. Convertino VA, Bloomﬁeld SA, Greenleaf JE. An         104. Minto G, Scott MJ, Miller TE. Monitoring needs
+     overview  of the issues: physiological effects of bed      and goal-directed ﬂuid therapy within an
+     rest and restricted physical activity. Med Sci             enhanced recovery program. Anesthesiol Clin
+     Sports Exerc 1997; 29: 187–90.                             2015; 33: 35–49.
+101. Bergouignan A, Rudwill F, Simon C, Blanc S.           105. Varadhan KK, Lobo DN, Ljungqvist O. Enhanced
+     Physical inactivity as the culprit of metabolic            Recovery After Surgery: The Future of Improving
+     inﬂexibility: evidence from bed-rest studies. J            Surgical Care. Crit Care Clin 2010; 26: 527–47.
+                                                                                                         
+     Appl Physiol 1985 (2011); 111: 1201–10.               106. Cologne K, Baldini G. The SAGES/ERAS      Society
+102. Hirsch CH, Sommers L, Olsen A, Mullen L,                   Manual of Enhanced Recovery Programs for
+     Winograd CH. The natural history of functional             Gastrointestinal Surgery. Choosing Analgesia to
+     morbidity in hospitalized older patients. J Am             facilitate Recovery 2015.
+     Geriatr Soc 1990; 38: 1296–303.
+
+
+Acta Anaesthesiologica Scandinavica 59 (2015) 1212–1231
+ª 2015 The Authors. Acta Anaesthesiologica Scandinavica published by John Wiley & Sons Ltd on behalf of Acta Anaesthesiologica Scandinavica Foundation. 1231
+
+
+

@@ -1,0 +1,908 @@
+           Clinical Review & Education
+
+          JAMA Otolaryngology–Head & Neck Surgery | Review
+          Optimal Perioperative Care in Major Head and Neck Cancer
+          Surgery With Free Flap Reconstruction
+          A Consensus Review and Recommendations
+          From the Enhanced Recovery After Surgery Society
+
+          Joseph C. Dort, MD, MSc; D. Gregory Farwell, MD; Merran Findlay, AdvAPD, MS; Gerhard F. Huber, MD;
+          Paul Kerr, MD; Melissa A. Shea-Budgell, MSc; Christian Simon, MD; Jeffrey Uppington, MD;
+          David Zygun, MD, MSc; Olle Ljungqvist, MD, PhD; Jeffrey Harris, MD, MHA
+
+
+                                                                                                  Invited Commentary
+            IMPORTANCE  Head and neck cancers often require complex, labor-intensive surgeries,   page 303
+            especially when free flap reconstruction is required. Enhanced recovery is important in this Supplemental content at
+            patient population but evidence-based protocols on perioperative care for this population jamaotolaryngology.com
+            are lacking.
+
+            OBJECTIVE To provide a consensus-based protocol for optimal perioperative care of patients
+            undergoing head and neck cancer surgery with free flap reconstruction.
+
+            EVIDENCE REVIEW Following endorsement by the Enhanced Recovery After Surgery (ERAS)
+            Society to develop this protocol, a systematic review was conducted for each topic. The PubMed
+            and Cochrane databases were initially searched to identify relevant publications on head and neck
+            cancer surgery from 1965 through April 2015. Consistent key words for each topic included
+            “head and neck surgery,”“pharyngectomy,”“laryngectomy,”“laryngopharyngectomy,”“neck
+            dissection,”“parotidlymphadenectomy,”“thyroidectomy,”“oralcavityresection,”“glossectomy,”and
+            “head and neck.”The final selection of literature included meta-analyses and systematic reviews
+            as well as randomized controlled trials where available. In the absence of high-level data, case
+            seriesandnonrandomizedstudiesinheadandneckcancersurgerypatientsorrandomizedcontrolled
+            trials and systematic reviews in non–head and neck cancer surgery patients, were considered.
+            An international panel of experts in major head and neck cancer surgery and enhanced recovery
+            after surgery reviewed and assessed the literature for quality and developed recommendations for
+            each topic based on the Grading of Recommendations, Assessment, Development and Evaluation
+            (GRADE) system. All recommendations were graded following a consensus discussion among the
+            expert panel.
+
+            FINDINGS The literature search, including a hand search of reference lists, identified 215
+            relevant publications that were considered to be the best evidence for the topic areas. A total
+            of 17 topic areas were identified for inclusion in the protocol for the perioperative care of
+            patients undergoing major head and neck cancer surgery with free flap reconstruction. Best
+            practice includes several elements of perioperative care. Among these elements are the
+            provision of preoperative carbohydrate treatment, pharmacologic thromboprophylaxis,
+            perioperative antibiotics in clean-contaminated procedures, corticosteroid and antiemetic
+            medications, short acting anxiolytics, goal-directed fluid management, opioid-sparing
+            multimodal analgesia, frequent flap monitoring, early mobilization, and the avoidance of
+            preoperative fasting.
+                                                                                               Author Affiliations: Author
+                                                                                               affiliations are listed at the end of this
+            CONCLUSIONS AND RELEVANCE  The evidence base for specific perioperative care elements in article.
+            head and neck cancer surgery is variable and in many cases information from different Corresponding Author: Joseph C.
+            surgerical procedures form the basis for these recommendations. Clinical evaluation of these Dort, MD, MSc, Section of
+            recommendations is a logical next step and further research in this patient population Otolaryngology, Department of
+            is warranted.                                                                      Surgery, Cumming School of
+                                                                                               Medicine, University of Calgary,
+                                                                                               3280 Hospital Dr, NW
+            JAMA Otolaryngol Head Neck Surg. 2017;143(3):292-303. doi:10.1001/jamaoto.2016.2981 Calgary, AB T2N 4N1, Canada
+            Published online October 13, 2016.                                                 (jdort@ucalgary.ca).
+
+   292                                                                                        (Reprinted) jamaotolaryngology.com
+
+                                       Copyright 2017 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by National Taiwan University user on 04/28/2025
+
+
+            Perioperative Care in Head and Neck Cancer Surgery                                   Review Clinical Review & Education
+
+                      alignant abnormalities of the head and neck often re-
+                      quire complex, labor intensive surgery such as compos- Key Points
+                      ite oral cavity resections, skull base surgeries, or large
+            M                                                           Question What is optimal perioperative care, as defined by an
+            pharyngectomy and/or laryngectomy resections, often in the set- enhanced recovery after surgery (ERAS) approach, for patients
+            ting of salvage surgery after failed attempts at radiation and che- undergoing head and neck cancer surgery with free flap
+            motherapy. Free flap reconstruction is often required for extensive reconstruction?
+
+            defects, thereby adding to the length and complexity of these pro- Findings In this systematic review, best practice includes several
+            cedures. These extended procedures require a coordinated multi- elements of perioperative care. Among these elements are the
+            disciplinary team to deliver care before, during, and after surgery. provision of preoperative carbohydrate treatment, pharmacologic
+            Optimal perioperative patient care is of the utmost importance to thromboprophylaxis, perioperative antibiotics in clean-contaminated
+            ensure that the recovery period is efficiently and effectively man- procedures, corticosteroid and antiemetic medications, short acting
+            aged in an effort to provide the best possible outcome for the pa- anxiolytics,goal-directedfluidmanagement,opioid-sparingmultimodal
+                                                                        analgesia, frequent flap monitoring, early mobilization, and the
+            tient. Enhanced Recovery After Surgery (ERAS) was introduced as
+                                                                        avoidance of preoperative fasting.
+            a way of optimizing perioperative care for a variety of surgical pro-
+            cedures. Initially ERAS recommendations were developed for pa- Meaning Recovery following surgery for head and neck cancer
+            tients undergoing colorectal surgery1; evaluation of these recom- with free flap reconstruction can be enhanced through the use of
+                                                                        evidence-based elements of perioperative care.
+            mendationshasshownthatpatientsinwhomtheERASinterventions
+            are applied experience significant improvements in function after
+            surgery.2 In turn, when the ERAS guidelines are implemented pa- through April 2015. Consistent key words for each topic included
+            tients have demonstrated reduced morbidity and shorter length of “head and neck surgery,”“pharyngectomy,”“laryngectomy,”“laryn-
+            hospital stay.2 The ERAS protocols have revolutionized the way peri- gopharyngectomy,” “neck dissection,” “parotid lymphadenec-
+            operative care is provided and measured.                 tomy,” “thyroidectomy,” “oral cavity resection,” “glossectomy,” and
+               An ERAS protocol for head and neck cancer surgery with free “head and neck.” Additional key words were added to the search
+            flap reconstruction has not been published previously. Therefore, strategy,as appropriate, based on the particular topic. Reference lists
+            an international expert panel of head and neck clinicians (surgery, ofalleligiblearticleswerehand-searchedforadditionalrelevantstud-
+            anesthesiology, critical care, and nutrition), working collabora- ies. Conference proceedings were not included in the search.
+            tivelywiththeERASSociety(http://www.erassociety.org),developed The resulting list of abstracts was initially screened to identify
+            a consensus-based ERAS protocol for the perioperative treatment potentially relevant articles for each topic. Each section author re-
+            of patients undergoing head and neck cancer surgery with free flap viewed the resulting literature and search strategies were ex-
+            reconstruction.Thebestavailableevidenceforeachinterventionwas panded or refined, as appropriate. The final selection of literature
+            considered when developing the recommendations. Evidence levels included meta-analyses and systematic reviews as well as random-
+            and recommendation grades are provided for all interventions. The ized controlled trials wherever possible. In the absence of high-
+            purpose of this protocol is to improve patient well-being in the level data, case series and nonrandomized studies in head and neck
+            postoperative period by reducing procedure-related morbidity and cancer surgery patients or randomized controlled trials and system-
+            complications. Evidence from previous ERAS protocols suggest that atic reviews in non-head and neck cancer surgery patients, were con-
+            implementation of this protocol will also improve efficiency of care, sidered. Section authors thoroughly reviewed this literature to form
+            with improvements in overall resource use and cost of care. the basis for the recommendations. Any discrepancies in the inter-
+                                                                     pretation of the literature were discussed and resolved during
+                                                                     monthly conference calls with panel members.
+            Methods
+                                                                     Quality Assessment and Data Analyses
+            Development of Consensus Recommendations                 Criteria developed by the Centre for Evidence Based Medicine
+            In February 2015, an international panel of content experts in major (Oxford, England)3 were used to assess the overall quality of the evi-
+            head and neck cancer surgery with free flap reconstruction, repre- dence. Possible levels of evidence included “high” (ie, systematic re-
+            senting the nations of Australia, Canada, Sweden, Switzerland, and views, meta-analyses, or robust randomized controlled trials), “mod-
+            theUnitedStates,wasassembled.FollowingareviewofexistingERAS erate” (ie, smaller randomized controlled trials or prospective cohort
+            Society guidelines, the panel was consulted for appropriate items to data), or “low” (ie, retrospective data). The Grading of Recommenda-
+            include in the protocol. Final decisions were made by the lead tions,Assessment,DevelopmentandEvaluation(GRADE)system4was
+            authors (J.D. and J.H.) and approved by the ERAS Society in March used to assign a level of strength to each recommendation. Briefly,
+            2015. Items were assigned to individual authors, based on areas of ex- “strong”recommendationswerebasedonhigh-qualityevidencealone
+            pertise and interest. A researcher (M.S.B.) with expertise in oncol- or on weaker quality evidence where there is a high likelihood of ben-
+            ogy systematic reviews and cancer recommendation development efitandlowriskofharm;“weak”recommendationswerebasedonlow-
+            provided content expertise, methodological support, and coordina- quality evidence alone or on higher quality evidence where the likeli-
+            tion.ThepanelmetmonthlyfromMay2015throughNovember2015.   hood of benefit is uncertain; “conditional” recommendations were
+                                                                     based on low-quality evidence where the desirable effects probably
+            Literature Search and Study Selection                    outweigh the undesirable effects. Any conflicts in the assigned
+            The PubMed and Cochrane databases were initially searched to iden- strengthsofevidenceandgradingofrecommendationstatementswere
+            tify relevant publications on head and neck cancer surgery from 1965 resolved through discussions with all authors during panel meetings.
+
+            jamaotolaryngology.com                     (Reprinted) JAMA Otolaryngology–Head & Neck Surgery March 2017 Volume 143, Number 3 293
+
+                                       Copyright 2017 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by National Taiwan University user on 04/28/2025
+
+
+          Clinical Review & Education Review                                         Perioperative Care in Head and Neck Cancer Surgery
+
+                                                                   Preoperative Nutritional Status
+          Results                                                  Malnutrition is prevalent in patients with head and neck cancer, is in-
+                                                                   fluenced by multiple factors, and is associated with adverse clinical,
+          A total of 17 topic areas, spanning preoperative, intraoperative, and cost, and patient-centered outcomes. Mechanical obstruction aris-
+          postoperative care, were identified for inclusion in the protocol. The ing from tumor location contributes to progressive and/or pro-
+          literature search, including a hand search of reference lists, identi- longed dysphagia, predisposing patients to detrimental sequelae of
+          fied 215 relevant publications that were considered to be the best evi- malnutrition and subsequently greater susceptibility to postopera-
+          dence for the topic areas. Presented in the Table are the recommen- tive complications, such as compromised wound healing, increased
+          dations for each of the 17 ERAS items, along with the level of evidence risk of infection, increased length of stay, and risk of refeeding syn-
+          that was used to inform each recommendation and the strength drome. Existing guidelines suggest preoperative nutrition interven-
+          (grade) of each recommendation. The evidence base is described in tioninmalnourishedpatientsmayleadtoimprovedoutcomesthrough
+          thediscussionwithadditionalreferencesincludedasanonlinesupple- a reduction in malnutrition-related adverse events.10,11 Patients with
+          ment (eg, see Additional References in the Supplement).  ahighriskofdysphagiaandrefeedingsyndromemayneedanadapted
+                                                                   nutrition plan. Nutrition assessment tools validated for use in the on-
+                                                                   cology population should be considered standard practice in mod-
+          Discussion                                               ern surgical care with comprehensive evaluation of anthropometry,
+                                                                   biochemistry, dietary intake, and clinical examination of body com-
+          Preadmission Education                                   position in conjunction with medical and social histories.12
+          Preparing patients and families for surgery is believed to be a worth-
+          while endeavor. Preoperative education is thought to be an impor- Nutritional Formulae
+          tant step in the surgical journey, particularly when major surgery is Immunonutrition has been explored in the surgical setting. Potential
+          planned. Despite these widely held beliefs, there is limited evi- benefits of oral or enteral formulae enriched with nutrients purported
+          dence demonstrating the beneficial effects of preoperative educa- tohaveanimmunemodulatingeffect,typicallyarginine,glutamine,ω-3
+          tion on patient outcomes. Evidence from the pediatric literature sug- fattyacids,orribonucleicacids,havebeeninvestigated.Systematicre-
+          gests preoperative counseling, regardless of how it is provided, is a viewssuggestanassociationbetweenreducedlengthofstayandpost-
+          useful educational intervention and that the shorter the time be- operativeadministrationofimmunonutritionsupport13,14;however,the
+          tween counseling and the procedure, the greater the retention of mechanismisnotfullyunderstood.Preoperativeimmunonutritiondoes
+          information.5 A randomized study in patients undergoing paroti- not seem to have any additional benefits in comparison with standard
+          dectomy and thyroidectomy found that a preoperative educa- nutritionsupportinpatientsundergoingheadandneckcancersurgery.
+          tional intervention improved recall of operative risks.6 Investigationsofimmunonutritionadministeredintheperioperativepe-
+             Preoperative education is probably a useful intervention be- riod have produced mixed results in the head and neck cancer popu-
+          cause the psychosocial aspects of undergoing major head and neck lation,largelyarisingfromvariationsinstudydesign,nutritionalformula
+          cancer surgery are believed to have an important impact on clinical administrationprotocols,anddefinitionsofperioperativeperiodmake
+          outcomes. However, the details of the timing and nature of such edu- drawingdefinitiveconclusionschallenging.11 Despitethepossibleben-
+          cation has not been well described; there are no high quality studies efitsofimmunonutrition,particularlyinthepostoperativesetting,fur-
+          specifically focused on the impact of preoperative education on clini- ther investigation through well-designed clinical studies is warranted.
+          cal outcomes in patients undergoing major head and neck cancer sur-
+          gery.A small 2015 study7 concluded that head and neck patients who Preoperative Fasting and Preoperative Treatment
+          hadapreoperativesocialworkervisitfeltbetterpreparedfortheirsur- With Carbohydrates
+          gical procedure and its aftermath. A 2002 descriptive study8 looked Fasting from midnight prior to surgery originates from historical, in-
+          at care pathway development in patients undergoing major head and stitutional, and clinician-driven practices. Despite evidence of poorer
+          neck cancer surgery and anecdotally reported beneficial effects from outcomes and delayed recovery with prolonged fasting, outdated
+          a patient education brochure. We recommend that further research surgical fasting practices persist.15
+          be conducted in this important area.                        In enhanced recovery protocols for other patient groups, the ra-
+                                                                   tionale for preoperative carbohydrate (CHO) loading arises from the
+          Perioperative Nutritional Care                           hypothesis that ingestion of CHO-rich fluids attenuates both insulin
+          Enhanced recovery after surgery protocols routinely include ele- resistance and catabolism, promoting better glucose control and lean
+          ments of perioperative nutritional care, such as reduced fasting time, tissuepreservation.16 Highqualitystudiesevaluatingthepotentialben-
+          avoidance of dehydration, and carbohydrate loading preopera- efits of preoperative CHO treatment are limited, particularly in pa-
+          tively followed by early progression to oral feeding postopera- tients undergoing head and neck cancer surgery.Systematic reviews
+          tively, however, evidence specific to enhanced recovery practices and meta-analyses consistently confirm that although preoperative
+          in relation to nutritional care of patients with head and neck cancer CHO loading appears to be safe, published trial quality has been poor
+          is limited.9 Where deemed safe, and while taking into account the and larger, more rigorous randomized clinical trials (RCTs) are
+          considerations unique to this patient group, perioperative nutri- required.17,18 A recent systematic review19 of preoperative CHO treat-
+          tion care recommendations may be extrapolated from existing en- mentafterelectivesurgeryevaluating1976participantsacross27RCTs
+          hanced recovery protocols in other cancer surgical populations1,10 found that, although the intervention was associated with a 1.5-day
+          and draw on existing comprehensive evidence-based guidelines for reduction in length of hospital stay in major abdominal surgery,there
+          nutritional care of adult patients with head and neck cancer.11 wasnodifferenceinpostoperativecomplicationrates.Thereviewalso
+
+   294    JAMA Otolaryngology–Head & Neck Surgery March 2017 Volume 143, Number 3 (Reprinted)           jamaotolaryngology.com
+
+                                       Copyright 2017 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by National Taiwan University user on 04/28/2025
+
+
+                 Perioperative Care in Head and Neck Cancer Surgery                                                                      Review   Clinical Review & Education
+
+
+                 Table. Enhanced Recovery After Surgery Recommendations for Perioperative Care in Head and Neck Cancer Surgery With Free Flap Reconstruction
+
+                  Item                       Recommendation                                                                              Evidence        Recommendation
+                  Preadmission               All patients undergoing major head and neck cancer surgery with free flap reconstruction    Low             Strong
+                  education                  should receive structured teaching from a qualified health practitioner.
+                  Perioperative              All patients undergoing major surgery for head and neck cancer should undergo preoperative  High            Strong
+                  nutritional care           comprehensive nutritional assessment, with a special focus on dysphagia and risk for refeeding
+                                             syndrome. Preoperative nutrition intervention is recommended for those identified as
+                                             malnourished.
+                                             A standard polymeric enteral nutrition formula should be considered suitable for use in     Low             Weak
+                                             patients requiring preoperative nutrition support.
+                                             A standard polymeric enteral nutrition formula should be considered suitable for use in     Moderate        Conditional
+                                             patients requiring postoperative nutrition support. There are insufficient data to provide
+                                             a recommendation on the use of immunonutrition
+                                             Preoperative fasting should be minimized. In patients suitable for oral intake and with     High (fluids),  Strong (fluids),
+                                             appropriate screening and management for those presenting with dysphagia or risk of         low (solids),   strong (solids),
+                                             refeeding syndrome, clear fluids should be permitted for up to 2 hours and solids for up to low (CHO)       conditional (CHO)
+                                             6 hours prior to anesthesia. Preoperative CHO treatment may be offered to head and neck
+                                             cancer patients.
+                                              Oral diet is the first choice for all patients tolerating it. In patients for whom oral feeding Moderate   Strong
+                                              cannot be established postoperative tube feeding should be initiated within 24 hours.
+                                              Nutrition interventions should be developed in consultation with the multidisciplinary team
+                                              and individualized according to nutritional status and surgical procedure.
+                  Prophylaxis against        Patients undergoing head and neck cancer surgery with free flap reconstruction are at       High            Strong
+                  thromboembolism            increased risk of VTE and should undergo pharmacologic prophylaxis; however, the risk
+                                             of bleeding must be weighed against the benefits on an individualized basis.
+                  Antibiotic prophylaxis     Perioperative antibiotics are not indicated for short clean head and neck oncologic procedures. High        Strong
+                                             In clean-contaminated procedures, perioperative antibiotics should be given 1 hour prior to
+                                             surgery and continued for 24 hours.
+                  Postoperative nausea       Patients undergoing head and neck cancer surgery should receive preoperative and            High            Strong
+                  and/or vomiting            intraoperative medications to mitigate Postoperative nausea and/or vomiting. A combination
+                  prophylaxis                of corticosteroid and antiemetic should be considered.
+                  Preanesthetic              Patients should receive short acting anxiolytics, given intravenously and titrated to required High         Strong
+                  medications                effect. Long acting anxiolytics and opioids should be avoided.
+                  Standard anesthetic        The anesthetic protocol should not only prevent awareness, but also minimize adverse effects Low            Strong
+                  protocol                   and allow patients to awaken and recover rapidly; therefore, avoidance of too deep anesthesia,
+                                             especially in elderly patients, is recommended.
+                  Preventing                 Normothermia should be maintained intraoperatively. Temperature monitoring is necessary     High            Strong
+                  hypothermia                to ensure normothermia is maintained.
+                  Perioperative fluid        Fluids should be managed in a goal-directed manner, avoiding over and under hydration.      Moderate        Strong
+                  management
+                  Routine postoperative      Routine intensive care unit admission to facilitate an immediate postoperative period of deep Low           Weak
+                  intensive care             sedation and artificial respiration is not necessary. A subset of low-risk uncomplicated patients
+                  admission                  may be treated safely after recovery from anesthesia in a high dependency unit or specialist
+                                             ward, provided adequate skilled nursing and medical coverage is provided.
+                  Pain management            Opioid-sparing, multimodal analgesia, utilizing NSAIDs, COX inhibitors, and paracetamol, are High           Strong
+                                             preferred for patients undergoing head and neck cancer surgery. Patient-controlled analgesia
+                                             can be considered if multimodal analgesia approaches are insufficient. No recommendation
+                                             can be made on the role of additional nerve blocks.
+                  Postoperative flap         Free flap monitoring should be performed at least hourly for the first 24 hours postoperatively. Moderate   Strong
+                  monitoring                 Monitoring should be continued for the duration of the patient’s stay with tapering of intensity
+                                             after the first 24 hours. Method of monitoring should include, at a minimum, clinical
+                                             examination by staff experienced with free flap monitoring. Adjunct monitoring techniques
+                                             should be considered.
+                  Postoperative              Early mobilization, within the first 24 hours of surgery is recommended for patients        Moderate        Strong
+                  mobilization               undergoing major head and neck cancer surgery.
+                  Postoperative              Vacuum assisted closure is recommended for complex cervical wounds.                         High            Strong
+                  wound care                 Vacuum assisted closure may be considered for free flap donor site.                         Moderate        Strong
+                                             Polyurethane film or hydrocolloid dressings should be used for skin graft donor site treatment. High        Strong
+                  Urinary catheterization    Urinary catheters should be removed as soon as the patient is able to void, ideally less than High          Strong
+                                             24 hours after completion of surgery.
+                  Tracheostomy care          Decannulation after tracheostomy and stoma closure is recommended.                          High            Strong
+                                             Surgical closure of the tracheostomy site is recommended.                                   Moderate        Strong
+                  Postoperative pulmonary    Pulmonary physical therapy should be initiated as early as possible after head and neck     High            Strong
+                  physical therapy           reconstructions to avoid pulmonary complications.
+
+                 Abbreviations: CHO, carbohydrate; COX, cyclooxygenase; NSAID, nonsteroidal antiinflammatory drug; VTE, venous thromboembolism.
+
+                 highlighted a lack of adequate blinding resulting in biases that may            Early Postoperative Diet
+                 haveinfluencedtheobservedtreatmenteffects.Assuch,recommen-                      and Artificial Nutrition
+                 dations for routine use of preoperative CHO treatment in patients un-           There is large variation in the degree of functional deficit antici-
+                 dergoing head and neck cancer surgery require extrapolation from                pated following surgery for head and neck cancer, depending on the
+                 otherpatientgroups.Thedataonpatientswithdiabetesarestillsparse                  extent of surgical resection and reconstruction that may be re-
+                 but available information suggests that gastric emptying is similar to          quired. Hence, some patients may be able to resume oral intake with
+                 controls in well controlled diabetics.20   Well-designed trials should be       relatively little impact on nutrition, while for others, nil by mouth with
+                 considered to reduce this evidence-gap.                                         enteral nutrition support is indicated.
+
+                 jamaotolaryngology.com                                       (Reprinted)   JAMA Otolaryngology–Head & Neck Surgery       March 2017   Volume 143, Number 3       295
+
+                                                       Copyright 2017 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by National Taiwan University user on 04/28/2025
+
+
+          Clinical Review & Education Review                                         Perioperative Care in Head and Neck Cancer Surgery
+
+             The literature examining the early introduction of postopera- some animal studies demonstrate the efficacy of antithrombotic
+          tive oral diet is limited to the post primary total laryngectomy co- agents, human studies have failed to confirm these findings.
+          hort and is controversial. An RCT21 of early vs delayed oral feeding
+          in this subgroup found no significant difference in length of stay or Antibiotic Prophylaxis
+          fistula rates. A systematic review22 including 4 RCTs examined the Clean head and neck oncologic cases have a low baseline periopera-
+          safety of initiating early oral feeding in 180 patients and found no tive wound infection rate and do not benefit from prophylactic
+          increase in pharyngocutaneous fistula rates in those patients who antibiotics.33 However, clean contaminated head and neck onco-
+          received early oral feeding following total laryngectomy. However, logic cases have an unacceptably high rate (ie, up to 80%) of peri-
+          given the limited number of publications, care should be taken in its operative wound infections.34 Perioperative antibiotics, given 1 to 2
+          application and patient suitability should be evaluated on an indi- hours prior to surgery and continued for 24 hours have consistently
+          vidual basis. Consultation with the surgical team, dietitian, and demonstrated a significant reduction in wound infections in random-
+          speech pathologist regarding optimal timing of the reintroduction izedcontrolledtrials.35 Longercoursesofantibioticsof3to5dayshave
+          of oral intake is advised.                               not shown benefit over 24 hours in either wound infection rates or
+             Postoperative enteral nutrition support in the form of nasoen- pneumonia rates.36 These findings have held in most series looking
+          terictubefeedingiscommonlyrequiredforthosepatientsundergoing at larger cases requiring pedicle or free flap reconstruction.37
+          major ablative and reconstructive surgery of the upper aerodigestive Theuseoftopicaldecontaminationoftheupperaerodigestivetract
+          tract. In cases where adjuvant therapies are planned, insertion of a with mupirocin and 0.2% chlorhexidine has been shown to reduce
+          feeding gastrostomy tube may need to be considered at the point of pneumoniaratesandnosocomialinfectionsinpatientsintheintensive
+          diagnosis when prolonged nutrition support is anticipated.23 Few careunit(ICU).38 Studies39 specifictoheadandneckoncologypatients
+          studies have explored timing to initiation of postoperative tube feed- havenotdemonstratedsignificantdifferencesinwoundinfectionrates
+          ing specifically in patients with head and neck cancer; however, ex- with topical decontamination. However, a recent study40 demon-
+          isting guidance can be used to guide routine clinical practice.11 strated a trend toward fewer and less severe infections.
+             Parenteral nutrition (PN) support is indicated in the absence of
+          normal gut function and when enteral access is not possible. In rare Postoperative Nausea and Vomiting Prophylaxis
+          instanceswhenPNiscommencedinpatientswithheadandneckcan-  Especially after free flap reconstructions, vomiting can have detri-
+          cer, published guidelines on PN following surgery may be used to mental effects on outcomes by causing suture dehiscence, wound in-
+          guide practice.24                                        fection, fistula, and consecutive flap loss.41 Postoperative nausea and
+                                                                   vomiting(PONV)canalsoimpairearlymobilization.Postoperativenau-
+          Prophylaxis Against Thromboembolism                      sea and vomiting prophylaxis should be considered for all patients
+          Both cancer and surgery are individual risk factors for venous throm- undergoing head and neck cancer surgery, because they are at mod-
+          boembolism (VTE); however, patients with both factors are at high erate to high risk.42 A combination of 5-hydroxytryptamine-3
+          risk.25 The rates of deep vein thrombosis and fatal pulmonary embo- (5-HT3) receptor agonists and corticosteroids has been proven
+          lism range from 15% to 30% and 0.2% to 0.9%, respectively,in gen- efficacious.43 When rescue therapy is required, the antiemetic should
+          eral surgery patients without prophylaxis; however, advanced age be chosen from a different therapeutic class than the drugs used for
+          (>40 years) and the presence of cancer increases these rates to 40 prophylaxis.44 A newer class of antiemetics, NK1 receptor agonists,
+          to 80% and 0.2% to 5%, respectively.26 Controlled trials27,28 provide havedemonstratedequivalentcontrolofPONVcomparedwith5-HT3
+          compelling evidence for the use of perioperative VTE prophylaxis in agonists.45 Randomized clinical trial data on the incidence of PONV
+          properly selected surgical patients. Validated scoring systems to de- in association with propofol or sevoflurane strongly favor the use of
+          terminetheneedforandnatureofVTEprophylaxisconsistentlyplace these agents for maintenance of anesthesia.46
+          patients undergoing major head and neck resections with free flap
+          reconstruction at moderate to high risk for VTE.29 Readers are cau- Preanesthetic Medications
+          tioned against heeding contrary recommendations from smaller ret- Not all patients experience preoperative anxiety, but some data sug-
+          rospective studies in the otolaryngology–head and neck cancer sur- gest an incidence rate as high as 80%.47 Anxiety can be relieved by
+          gery literature that suggest that this population may be at lower risk nonpharmacological means, including a preoperative visit by an
+          than expected, as retrospective studies are well known for underes- anesthesiologist,48 preoperative music chosen by the patient,49 or a
+          timating the incidence of deep vein thrombosis.          CHO drink.50 Medications, such as benzodiazepines, can be effec-
+             There is a demonstrable reduction in VTE when pharmacologic tive in reducing anxiety and do not increase discharge time in outpa-
+          prophylaxis (ie, low-molecular-weight heparin) is used in patients un- tients,thoughsomepatientsmayhaveshort-termimpairmentofpsy-
+          dergoingheadandneckcancersurgerywithfreeflapreconstruction.30 chomotor function.51 Alternatively,comparable anxiolytic effects can
+          However, there is also a demonstrable increase in bleeding compli- be achieved with nonbenzodiazapines, such as dexmedetomidine.52
+          cations if VTE prophylaxis includes anticoagulants.31 Therefore, the
+          useofanticoagulantsinpatientsundergoingmajorheadandneckcan- Standard Anesthetic Protocol
+          cersurgerywithfreeflapreconstructionmustbeindividualizedbased The airway of all patients undergoing head and neck cancer sur-
+          on both the risk of VTE and the risk of bleeding. Combined use of an- gery should be carefully examined preoperatively with particular at-
+          tiplatelet agents and anticoagulant VTE prophylaxis may increase the tention being paid to airway assessment, since previous irradiation
+          risk of bleeding above the risk of VTE events.           can lead to lymphedema and fibrosis, causing difficulties with
+             There are no pharmacologic measures that have been proven to intubation.53 In addition, any tumor, especially an obstructing one,
+          reduce free flap anastomotic thrombosis or flap necrosis.32 Although may be challenging and require the use of special airway devices such
+
+   296    JAMA Otolaryngology–Head & Neck Surgery March 2017 Volume 143, Number 3 (Reprinted)           jamaotolaryngology.com
+
+                                       Copyright 2017 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by National Taiwan University user on 04/28/2025
+
+
+            Perioperative Care in Head and Neck Cancer Surgery                                   Review Clinical Review & Education
+
+            as a Glidescope or fiberoptic intubation.54 Fiberoptic assessment of balance, where the aim is to maintain the preoperative weight in the
+            the airway preoperatively can provide useful information.55 immediate perioperative period, or goal directed fluid therapy.78 The
+               There is no literature indicating that a specific standard anes- latter is based on determining whether a patient is fluid responsive, as
+            thetic protocol or drugs for patients undergoing head and neck can- measured by cardiac output, stroke volume, or pulse pressure
+            cer surgery should be employed. Therefore, the general recommen- variation.79,80 The aim is to push the patient’s blood toward the peak
+            dations on anesthesia practice from the ERAS Society have been of the Frank Starling curve81 and maximize cardiac output and oxygen
+            elected to serve as guidance.56                          delivery,82 which can be measured invasively with an arterial line,
+                                                                     semiinvasively using a Doppler, or noninvasively using bioreactance
+            Preventing Intraoperative Hypothermia                    technology. Zero-balance and goal directed therapy have similar
+            Hypothermia, defined here as a core temperature less than 36°C, is outcomes.83 The use of central venous monitoring in major head and
+            associated with a number of perioperative complications.57 In gen- neck cancer surgery is not useful.84
+            eral, these include morbid cardiac events, bleeding, and wound Blood transfusion in head and neck free flap patients does not
+            infection.58 Hypothermia is associated with increased morbidity, affect flap survival, but is associated with increased perioperative
+            increased length of stay, and increase in cost.59 More recently in- complications.85 Significantly increased wound infection rates and
+            creased complications in hypothermic patients have been shown in death were shown in a retrospective study86 of blood transfusion
+            those having surgery for head and neck cancer.60 Intraoperative controlled for age, preoperative hemoglobin and albumin, cancer
+            hypothermia can also pose considerable risk of free flap infection stage, and adverse pathologic features. These recent studies sup-
+            with no benefits to anastomotic patency.61 Hypothermia in the re- port consideration of a restrictive transfusion policy in free flap
+            covery room can lead to shivering, which can increase wound pain patients.87 Nevertheless, recent data have suggested that a liberal
+            and the metabolic rate (and associated heat production), owing to transfusion strategy may improve outcomes perioperatively in
+            increased oxygen consumption.62,63 Compliance with a surgical care adult cardiac surgery patients.88 The trigger for transfusion
+            improvement project for body temperature management (SCIP remains a moving target. A transfusion trigger of 7 g/dL has been
+            Inf-10) is associated with improved clinical outcomes, specifically a suggested for routine patients with adaptation for patients with
+            reduced incidence of hospital-acquired infection, ischemic cardio- asymptomatic coronary disease (8 g/dL) and patient with ongoing
+            vascular events, mortality and reduced length of stay.64 ischemia (10 g/dL).89
+               Avoiding hypothermia at any stage in the perioperative process
+            is therefore important. Warming patients preoperatively with a warm Routine Postoperative Intensive Care Admission
+            aircoverhasbeenshowntoincreasecoretemperatureandthusreduce There are no prospective randomized trials investigating the use-
+            intraoperative hypothermia.65 Intraoperatively it is important to con- fulness of routine ICU treatment following head and neck cancer sur-
+            tinuouslymeasurecentraltemperature.Thesiteofsurgerymywellpre- gery. However, a growing body of literature, including retrospec-
+            cludetheusualmonitoringsitesofthenasopharynx,esophagus,ortym- tivestudiesexaminingthepracticeofroutineICUadmissionfollowing
+            panic membrane. The urinary bladder thermistor catheter has been major head and neck cancer surgery, suggest that ICU admission
+            shown to correlate well with pulmonary artery thermistors66 and can could be avoided. An immediate postoperative period of deep se-
+            be used if necessary.Maintaining normothermia intraoperatively can dation and artificial ventilation in an ICU has been associated with
+            be achieved by forced air warming, circulating water garment, under- prolonged time to weaning from mechanical ventilation and an in-
+            body electrical mattress,67 or resistive heating blankets.68 Insulating crease in the frequency of respiratory insufficiency and pneumo-
+            blanketsalonemaynotbesufficienttopreventhypothermia.69 Warm- nia, as compared with allowing patients to breathe spontaneously
+            ing intravenous fluids keeps patients warmer with less shivering than without sedation in a recovery room; furthermore, there was no dif-
+            fluids at room temperature, though it was not shown that warming ference in the number of flaps lost or ICU readmissions.90 Other
+            wash out fluids made a significant difference.70         studies91,92 in patients undergoing head and neck cancer surgery
+                                                                     have demonstrated no difference in general morbidity between pa-
+            Perioperative Intravenous Fluid Management               tients cared for in an ICU and those cared for in a specialist ward, sug-
+            The use of vasoconstrictors for the management of hypotension in gesting that it is possible to nurse these patients outside of the ICU
+            free flap surgery is controversial. Animal studies have shown that environment, provided there is close medical support and an ap-
+            their use can lead to vasoconstriction in the flap microcirculation71; propriately trained nurse allocated to care for these patients.
+            yet, intraoperative use of vasoconstrictors has not been shown to A retrospective analysis93 revealed low use rates of critical care
+            affect flap outcomes in head and neck cancer surgery72 or other mi- services by patients undergoing head and neck cancer surgery and
+            crosurgical procedures.73 An alternative to vasoconstrictors is cer- did not identify any causes of complications leading to use of criti-
+            tain inotropes, such as dobutamine, which has been shown to im- cal care services. Risk factors for complications include bilateral neck
+            provemeanandmaximumbloodflowsthrougharterialanastomoses  dissection, an APACHE II score greater than 10, massive blood trans-
+            in head and neck cancer surgery.74                       fusion, early postoperative complications requiring further opera-
+               Intraoperative fluid management has been studied mainly in pa- tion under general anesthesia, smoking history, and perioperative
+            tientsundergoingintraabdominalsurgery.Theavailableheadandneck antibiotic choice.94 In absence of these factors, there are no data
+            literature indicates that in patients undergoing head and neck cancer to support the use of routine ICU care. Funding issues, ICU work load,
+            surgery large amounts of intraoperative fluids are associated with in- standing costs (in the ICU and elsewhere), and the availability of skills
+            creased complications.75 However, fluid under resuscitation may put and resources outside of the ICU must be considered in the deter-
+            patients at risk for postoperative flap thrombosis.76 An optimum fluid mination of optimal postoperative location of care and this needs
+            load is possible.77 The ERAS literature concentrates on near zero to be individualized to each health care facility.
+
+            jamaotolaryngology.com                     (Reprinted) JAMA Otolaryngology–Head & Neck Surgery March 2017 Volume 143, Number 3 297
+
+                                       Copyright 2017 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by National Taiwan University user on 04/28/2025
+
+
+          Clinical Review & Education Review                                         Perioperative Care in Head and Neck Cancer Surgery
+
+          Pain Management                                             It seems that the most widely accepted approaches for postop-
+          The pretreatment of patients with analgesic drugs to reduce postop- erative flap monitoring include bedside clinical examination for color,
+          erative pain, also known as preemptive analgesia, has become part capillaryrefill,surfacetemperaturemonitoring,and,insomecases,pin
+          ofamultimodalpaintherapythathasbeenappliedtonumeroustypes pricktestingperformedatfrequentintervals,usuallyhourly,foratleast
+          of surgery,95 including head and neck cancer surgery.96 The timing of 24 hours postoperatively.116 Many centers use other monitoring tech-
+          analgesia does not appear to affect postoperative pain quality.96,97 nologyinadditiontothesebasicapproaches,withsomereportingim-
+          However, premedication with nonsteroidal antiinflammatory drugs provements in flap salvage rates relative to other published series.117
+          (NSAIDs) and local wound infiltration has been shown to delay time However,therearenorandomizedcontrolledtrialsinthisareaandmost
+          to first analgesia and reduce total analgesic use.97 Clinicians should publications present retrospective or prospective case series.118
+          rely on a multimodal approach combining strong opioids, nonopioid
+          analgesics, and peripheral or neuraxial local anesthetics acting on dif- Postoperative Mobilization
+          ferent sites of the pain pathway.98 Paracetamol is effective for post- Dataonearlymobilizationinpatientsundergoingmajorheadandneck
+          operative analgesia99; for reliable blood levels perioperatively the in- resection with free flap reconstruction are limited. A single retrospec-
+          travenousroutemaybepreferable.100 Celecoxibhasalsobeenshown tive cohort study119 found that early mobilization was associated with
+          to be effective for postoperative pain relief after different surgeries101 fewer pulmonary complications in patients undergoing major head
+          andhasnodeleteriouseffectonfreeflapsurvivalorwoundhealing.102 and neck resection with free flap reconstruction. Most data on early
+          Although celecoxib, unlike COX-1 inhibitors, has been shown to have mobilization are from patients undergoing major abdominal proce-
+          essentiallynoinhibitoryeffectsonplateletaggregation,103 therehave dures, which showed that early mobilization, as part of a comprehen-
+          been case reports of associated surgical bleeding104 and so its use sive treatment protocol, reduced complications and overall length of
+          should be individualized. Although the efficacy of preoperative gab- stay.120 A secondary analysis of the randomized Laparoscopy in Com-
+          apentin seems variable,105 it has been shown to be effective for pa- bination with Fast Track Multimodal Management (LAFA) study121
+          tients having tongue reconstruction with a thigh flap.106 showed that early mobilization was a significant independent predic-
+             Most head and neck tumor resections imply large resection de- tor of good outcome. The independent contribution of early mobili-
+          fects, frequently combined with free flap reconstruction and pro- zation on postoperative clinical outcomes seems to be favorable.
+          longed operation times. This results in specific challenges regarding The timing of mobilization is clearly important, because early
+          postoperative analgesia. Several randomized studies on tumor resec- mobilization has been shown to be better than late mobilization.119,121
+          tion and flap harvesting showed a benefit with patient-controlled an- However, the impact of “dose” of mobilization has not been stud-
+          algesia (PCA) by morphine pump.107 The use of PCA does not appre- ied. Data on the number of minutes per day of patient activity have
+          ciablyincreasenauseaorvomiting.108 However,multimodalanalgesia been inconsistently reported across studies.122 There are chal-
+          using combinations of narcotic and nonnarcotic analgesics have also lenges to getting patients to mobilize early after surgery and a multi-
+          shownpromisingresults.Numeroushigh-qualitystudiesindicatethat pronged approach that includes control of postoperative pain and
+          multimodal analgesia is effective, reduces narcotic induced side ef- nausea is required,123 because failure to adequately address these
+          fects, and facilitates rapid recovery after surgery.109  factors leads to delayed mobilization.
+             Several randomized studies have addressed the effects of ad-
+          ditional nerve blocks on postoperative pain. Of special interest is the Postoperative Wound Care
+          (bilateral) superficial cervical plexus block (SCPB), which has been In evaluating best evidence for postoperative wound care, consider-
+          shown in most studies to result in reduced postoperative pain scores ation must be given to both the resection site and the donor site for
+          following thyroidectomy with or without parathyroid surgery.110 Use freeflapreconstruction.Inmostcasesprimaryclosurewithdrainplace-
+          of the SCPB also resulted in reduced need for intraoperative anal- ment is performed for cervical incisions. A systematic review124 sug-
+          gesics and reduced length of hospital stay.111 A meta-analysis112 of gested there is no compelling evidence to support any particular
+          799patientsconcludedthatacombinationofbilateralSCPBandgen- wound dressings for wounds healing by primary intention and in gen-
+          eral anesthesia reduces pain after surgery to a statistically signifi- eral these may be left open for healing. There is limited evidence that
+          cant, but clinically insignificant, magnitude.           topical antimicrobials may reduce surgical site infections.125 There is
+                                                                   considerable evidence that active drains are more effective than pas-
+          Postoperative Flap Monitoring                            sive drains and reduce drain-related complications.126
+          Postoperative free flap monitoring protocols are highly variable be- The evidence for vacuum-assisted closure for complex open cer-
+          tween both surgeons and institutions. Multiple methods of monitor- vicalwoundsdemonstratesapotentialbenefit,127 however,thereisless
+          ing have been described, from simple clinical examination for evi- evidence for the routine use of these systems for free flap or skin graft
+          dence of adequate arterial and venous flow to invasive monitoring donorsites,althoughcase-serieshavebeenpositive.128 Thereisstrong
+          techniques, such as implantable Doppler or pO2 monitors.113,114 Each evidence to support polyurethane film for use at skin graft donor sites
+          technique has been shown to be effective, but there are advantages with reductions in patient pain and discomfort relative to other dress-
+          and disadvantages for each of the approaches. To date, no univer- ingtypes.129 However,alargeRCT130 suggestedthathydrocolloiddress-
+          sally acceptable approach to monitoring has been defined. Similarly, ingshadthemostrapidwoundhealingandpolyurethanefilmresulted
+          the ideal timing for postoperative flap monitoring, in terms of both in the least patient satisfaction with scar appearance.
+          frequency and duration, is variable and best practices have been hard
+          to define from an evidentiary basis. Most evidence suggests that vas- Urinary Catheterization
+          cular complications will occur within the first 24 hours in most pa- Patientsundergoingmajorheadandneckcancersurgerywithfreeflap
+          tients, thus the need for intensive monitoring in the first 24 hours.115 reconstruction universally require postoperative urinary catheteriza-
+
+   298    JAMA Otolaryngology–Head & Neck Surgery March 2017 Volume 143, Number 3 (Reprinted)           jamaotolaryngology.com
+
+                                       Copyright 2017 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by National Taiwan University user on 04/28/2025
+
+
+            Perioperative Care in Head and Neck Cancer Surgery                                   Review Clinical Review & Education
+
+            tion. When prolonged, urinary catheterization results in urinary tract cretionsmaydelaydecannulationandclosureofthetracheostomysite
+            infection (UTI) in 5% to 43% of patients, which can result in pro- andthusincreaseoveralllengthofstay.143 Therefore,postoperativepul-
+            longedhospitalstayandotherhospital-relatedcomplications.131 AUTI monaryphysicaltherapyforpatientsaftermajorheadandneckresec-
+            inheadandneckpatientsisassociatedwithhigherpostoperativecom- tion and reconstruction is in general felt to be of great benefit.
+            plication rates and prolonged hospital length of stay.132   Althoughtherearenodatafrompatientsundergoingmajorhead
+               Although there are no studies of catheterization duration in head and neck cancer surgery, a large body of evidence has been gath-
+            and neck cancer surgery patients, evidence from other surgical dis- ered on patients after other procedures (ie, abdominal proce-
+            ciplines is illustrative. Randomized trials131,133 in postoperative gyne- dures) demonstrating a clear benefit of pulmonary physical therapy
+            cologic patients show clear reductions in UTI rates and reductions in after the intervention to avoid pulmonary complications. The type
+            hospital length of stay in patients who have shorter duration of cath- of physical therapy consists usually of incentive spirometry (IS), in-
+            eterization. These findings are supported by a large meta-analysis134 termittent positive pressure breathing (IPPB), and deep breathing
+            of postoperative gynecologic patients. Findings are similar in patients exercises (DBE).144 Each type of physical therapy was found to be
+            undergoing thoracic and abdominal surgery.135 Results from studies beneficial in avoiding pulmonary complications, but between the
+            of infection rates in patients having transurethral vs suprapubic cath- various types (IS vs IPPB vs DBE) no explicit advantage of 1 or the
+            eterization are conflicting. However, a high quality meta-analysis136 other technique could be identified.
+            suggests that suprapubic catheterization results in fewer bladder
+            infections when prolonged catheterization is required.
+                                                                     Conclusions
+            Postoperative Tracheostomy Care
+            Airwaymanagementinpatientsundergoingmajorheadandneckpro- Improvingperioperativesurgicalcareinanevidence-basedandstruc-
+            cedures with free flap reconstruction is important. This includes the tured manner is the primary goal of enhanced recovery after surgery
+            protectionoftheairwayintheearlypostoperativephasefromobstruc- protocols.TheERASguidelinesforanumberofsurgicaldisciplineshave
+            tion via oropharyngeal edema, swelling of the flap, or bleeding and in reduced surgical complications, overall length of stay, and costs of
+            the later postoperative phase during swallowing rehabilitation. care.145 Majorheadandnecksurgicalprocedureswithfreeflaprecon-
+               Surgical tracheotomy is in general a low-morbidity procedure struction are among the most complex areas of surgical endeavor and
+            with rare severe complications.137 However, it has the potential to require careful preoperative preparation, intraoperative care, and co-
+            prolong hospital stay considerably.138 Certain patients may not re- ordinated postoperative care. Although many centers around the
+            quire tracheotomy after free flap reconstruction and instead the air- world provide excellent care to head and neck cancer patients, there
+            way could be treated by overnight or, if needed, longer oro or na- isstilltremendousvariationintheapplicationofperioperativecareele-
+            sotracheal intubation.138-141 These patients include selected oral ments provided to this patient population. We have assembled an in-
+            cavity resections without bony reconstruction and certain maxil- ternational expert panel and carefully employed the ERAS Society ap-
+            lary reconstructions.138-140 The decision to perform a tracheotomy proachtoprotocoldevelopment.Wecollectedandevaluatedthebest
+            is dependent on the presence of severe comorbidities, tumor stage availableevidenceand,usingaformalconsensusbasedapproach,for-
+            and location, alcohol consumption, extent of resection, and whether mulatedclearrecommendationsforthemajorelementsofperiopera-
+            or not a bilateral neck dissection was performed.139,140 tive care in the major head and neck cancer patient population. Our
+               Decannulationaftertracheostomyandclosureofthestomaisim- approach used several of the key elements described by Rosenfeld,
+            portant for respiratory and swallowing rehabilitation of the patient. et al146 in Clinical Consensus Statement Development Manual Otolar-
+            Various protocols are proposed in the literature to help determine the yngology. In some cases, a paucity of literature specific to head and
+            timing of decannulation. However, all protocols usually advise a cap- neck cancer surgery was available and, as a result, several of the rec-
+            ping trial of varying duration prior to decannulation.142 Finally, surgi- ommendations are based on data extrapolated from other patient
+            cal closure of the tracheostomy site after decannulation may speed populations,particularlythoseundergoingcolorectalsurgery.Wehave
+            up recovery.Data suggest that surgical closure results in shorter hos- adapted the recommendations, where appropriate, to better fit the
+            pital stay, faster swallowing recovery, cost savings, and eventually needs of patients undergoing head and neck cancer surgery and have
+            fewer long-term tracheal complications.143 In most cases patients can used the considerable expertise of the working group to make those
+            be safely decannulated within 1 week following surgery.  adaptations. We believe the end result is a set of consensus recom-
+                                                                     mendations and a proposed measurement framework that will pro-
+            Postoperative Pulmonary Physical Therapy                 videabaselineforfutureclinicaleffectivenessresearchandoutcomes
+            Pulmonarycomplicationshavethepotentialtojeopardizerecoveryof evaluation in a very important patient population. The proposed con-
+            patients after major head and neck ablative and reconstructive proce- sensus recommendations may also have an impact on the quality,
+            dures. Pneumonia may delay mobilization, swallowing exercises, and safety,andcostofcareofferedtopatientsundergoingmajorheadand
+            alsohasanegativeimpactonwoundhealing.Increasedpulmonaryse- neck cancer surgery with free flap reconstruction.
+
+            ARTICLE INFORMATION                   Medicine, University of Calgary, Calgary, Alberta Hospital, Camperdown NSW, Australia (Findlay);
+            Accepted for Publication: August 9, 2016. (Dort); Cancer Strategic Clinical Network, Alberta ENT Clinic, University Hospital Zurich, Switzerland
+                                                  Health Services, Calgary, Alberta (Dort, (Huber); Department of Otolaryngology, Winnipeg,
+            Published Online: October 13, 2016.   Shea-Budgell); Department of Otolaryngology, Manitoba (Kerr); Department of Oncology,
+            doi:10.1001/jamaoto.2016.2981         Division of Head and Neck Surgery, University of Cumming School of Medicine, University of Calgary,
+            Author Affiliations: Section of Otolaryngology, California Davis, Sacramento (Farwell); Department Calgary, Alberta (Shea-Budgell); Department of
+            Department of Surgery, Cumming School of of Nutrition and Dietetics, Royal Prince Alfred Otolaryngology, Head and Neck Surgery, CHUV,
+
+            jamaotolaryngology.com                     (Reprinted) JAMA Otolaryngology–Head & Neck Surgery March 2017 Volume 143, Number 3 299
+
+                                       Copyright 2017 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by National Taiwan University user on 04/28/2025
+
+
+              Clinical Review & Education  Review                                                                       Perioperative Care in Head and Neck Cancer Surgery
+
+
+              University of Lausanne, Switzerland (Simon);         5. Adams MT, Chen B, Makowski R, Bevans S,           type 2 diabetes patients. Acta Anaesthesiol Scand.
+              University of California, Davis Health System,       Boseley M. Multimedia approach to preoperative       2008;52(7):946-951.
+              Sacramento (Uppington); Division of Critical Care    adenotonsillectomy counseling. Otolaryngol Head      21. Seven H, Calis AB, Turgut S. A randomized
+              Medicine, Faculty of Medicine and Dentistry,         Neck Surg. 2012;146(3):461-466.                      controlled trial of early oral feeding in
+              University of Alberta, Edmonton, Alberta (Zygun);    6. Chan Y, Irish JC, Wood SJ, et al. Patient         laryngectomized patients. Laryngoscope. 2003;113
+              Department of Surgery, Faculty of Medicine and       education and informed consent in head and neck      (6):1076-1079.
+              Health, School of Health and Medical Sciences,
+                                                                   surgery. Arch Otolaryngol Head Neck Surg. 2002;      22. Aires FT, Dedivitis RA, Petrarolha SM, Bernardo
+              Örebro University, Örebro, Sweden (Ljungqvist);      128(11):1269-1274.
+              Division of Otolaryngology–Head and Neck Surgery,                                                         WM, Cernea CR, Brandão LG. Early oral feeding
+              Department of Surgery, University of Alberta,        7. Yarlagadda BB, Hatton E, Huettig J, Deschler D.   after total laryngectomy: a systematic review. Head
+              Edmonton, Alberta (Harris).                          Patient and staff perceptions of social worker       Neck. 2015;37(10):1532-1535.
+                                                                   counseling before surgical therapy for head and      23. Talwar B, Findlay M. When is the optimal time
+              Author Contributions:  Dr Dort had full access to all neck cancer. Health Soc Work. 2015;40(2):120-124.
+              of the data in the study and takes responsibility for                                                     for placing a gastrostomy in patients undergoing
+              the integrity of the data and the accuracy of the    8. Clarke LK. Pathways for head and neck surgery:    treatment for head and neck cancer? Curr Opin
+              data analysis.                                       a patient-education tool. Clin J Oncol Nurs. 2002;   Support Palliat Care. 2012;6(1):41-53.
+              Concept and design: Dort, Farwell, Huber,            6(2):78-82.                                          24. Braga M, Ljungqvist O, Soeters P, Fearon K,
+              Shea-Budgell, Zygun, Ljungqvist, Harris.             9. Coyle MJ, Main B, Hughes C, et al. Enhanced       Weimann A, Bozzetti F; ESPEN. ESPEN Guidelines
+              Acquisition, analysis, or interpretation of data:    recovery after surgery (ERAS) for head and neck      on Parenteral Nutrition: surgery. Clin Nutr. 2009;28
+              Farwell, Findlay, Huber, Kerr, Shea-Budgell, Simon,  oncology patients. Clin Otolaryngol. 2016;41(2):118- (4):378-386.
+              Uppington, Ljungqvist, Harris.                       126.                                                 25. Khorana AA. Risk assessment and prophylaxis
+              Drafting of the manuscript: Dort, Farwell, Findlay,  10. Mortensen K, Nilsson M, Slim K, et al; Enhanced  for VTE in cancer patients. J Natl Compr Canc Netw.
+              Huber, Kerr, Shea-Budgell, Simon, Uppington,         Recovery After Surgery (ERAS®) Group. Consensus      2011;9(7):789-797.
+              Zygun, Harris.
+                                                                   guidelines for enhanced recovery after               26. Agnelli G. Prevention of venous
+              Critical revision of the manuscript for important    gastrectomy: Enhanced Recovery After Surgery
+              intellectual content: Dort, Farwell, Findlay, Huber,                                                      thromboembolism in surgical patients. Circulation.
+                                                                   (ERAS®) Society recommendations.  Br J Surg. 2014;   2004;110(24)(suppl 1):IV4-IV12.
+              Kerr, Shea-Budgell, Simon, Ljungqvist, Harris.       101(10):1209-1229.
+              Administrative, technical, or material support: Dort,                                                     27. Caprini JA, Arcelus JI, Hasty JH, Tamhane AC,
+              Kerr, Shea-Budgell, Simon, Ljungqvist, Harris.       11. Findlay M, Bauer J, Brown T, et al.              Fabrega F. Clinical assessment of venous
+              Study supervision: Dort, Simon, Zygun, Harris.       Evidence-based practice guidelines for the           thromboembolic risk in surgical patients. Semin
+              Other: Uppington.                                    nutritional management of adult patients with head   Thromb Hemost. 1991;17(suppl 3):304-312.
+                                                                   and neck cancer. Sydney: Cancer Council Australia.
+              Conflict of Interest Disclosures All authors have    http://wiki.cancer.org.au/australia/COSA:Head        28. Gould MK, Garcia DA, Wren SM, et al; American
+              completed and submitted the ICMJE Form for           _and_neck_cancer_nutrition_guidelines. Accessed      College of Chest Physicians. Prevention of VTE in
+              Disclosure of Potential Conflicts of Interest and    on: September 12, 2015.                              nonorthopedic surgical patients: antithrombotic
+              none were reported. Dr Ljungqvist is a founding                                                           therapy and prevention of thrombosis, 9th ed:
+              member of the ERAS Study Group and ERAS              12. Ottery FD. Patient generated-subjective global   American College of Chest Physicians
+              Society, an Executive Officer of the ERAS Society,   assessment. In: McCallum PD, Polisena CG, eds. The   evidence-based clinical practice guidelines. Chest.
+              and is the founder and a shareholder in EnCARE AB,   clinical guide to oncology nutrition. Chicago: The   2012;141(2)(suppl):e227S-e277S.
+                                                                   American Dietetic Association; 2000:11-23.
+              Sweden 397 (http://www.encare.se)  the provider of                                                        29. Buesing KL, Mullapudi B, Flowers KA. Deep
+              the ERAS Interactive Audit System. In addition, Dr   13. Casas Rodera P, de Luis DA, Gómez Candela C,     venous thrombosis and venous thromboembolism
+              Ljungqvist was supported by funds from               Culebras JM. Immunoenhanced enteral nutrition        prophylaxis. Surg Clin North Am. 2015;95(2):285-300.
+              Nyckelfonden, Örebro Sweden.                         formulas in head and neck cancer surgery:
+                                                                   a systematic review. Nutr Hosp. 2012;27(3):681-690.  30. Shuman AG, Hu HM, Pannucci CJ, Jackson CR,
+              Additional Information: ERAS is a registered                                                              Bradford CR, Bahl V. Stratifying the risk of venous
+              trademark for goods and services owned and           14. Drover JW, Dhaliwal R, Weitzel L, Wischmeyer     thromboembolism in otolaryngology.  Otolaryngol
+              provided by the Enhanced Recovery After Surgery      PE, Ochoa JB, Heyland DK. Perioperative use of       Head Neck Surg. 2012;146(5):719-724.
+              Society for Perioperative Care (www.erasscoiety.org). arginine-supplemented diets: a systematic review
+                                                                                                                        31. Bahl V, Shuman AG, Hu HM, et al.
+              Additional Contributions: The authors                of the evidence. J Am Coll Surg. 2011;212(3):385-399,
+                                                                   399.e1.                                              Chemoprophylaxis for venous thromboembolism in
+              acknowledge the Cancer Strategic Clinical Network,                                                        otolaryngology. JAMA Otolaryngol Head Neck Surg.
+              Alberta Health Services for supporting the design    15. Lambert E, Carey S. Practice guideline           2014;140(11):999-1005.
+              and conduct of the study.                            recommendations on perioperative fasting:
+                                                                   a systematic review. JPEN J Parenter Enteral Nutr.   32. Lee KT, Mun GH. The efficacy of postoperative
+              REFERENCES                                           2015;0148607114567713. doi:10.1177                   antithrombotics in free flap surgery: a systematic
+                                                                   /0148607114567713                                    review and meta-analysis. Plast Reconstr Surg.
+              1. Lassen K, Soop M, Nygren J, et al; Enhanced                                                            2015;135(4):1124-1139.
+              Recovery After Surgery (ERAS) Group. Consensus       16. Pogatschnik C, Steiger E. Review of
+              review of optimal perioperative care in colorectal   preoperative carbohydrate loading. Nutr Clin Pract.  33. Busch CJ, Knecht R, Münscher A, Matern J,
+              surgery: Enhanced Recovery After Surgery (ERAS)      2015;30(5):660-664.                                  Dalchow C, Lörincz BB. Postoperative antibiotic
+                                                                                                                        prophylaxis in clean-contaminated head and neck
+              Group recommendations.   Arch Surg. 2009;144(10):    17. Awad S, Varadhan KK, Ljungqvist O, Lobo DN.
+              961-969.                                                                                                  oncologic surgery: a retrospective cohort study. Eur
+                                                                   A meta-analysis of randomised controlled trials on   Arch Otorhinolaryngol. 2016;273(9):2805-2811.
+              2. Muller S, Zalunardo MP, Hubner M, Clavien PA,     preoperative oral carbohydrate treatment in
+              Demartines N; Zurich Fast Track Study Group.         elective surgery. Clin Nutr. 2013;32(1):34-44.       34. Skitarelić N, Morović M, Manestar D. Antibiotic
+                                                                                                                        prophylaxis in clean-contaminated head and neck
+              A fast-track program reduces complications and       18. Bilku DK, Dennison AR, Hall TC, Metcalfe MS,
+              length of hospital stay after open colonic surgery.                                                       oncological surgery. J Craniomaxillofac Surg.2007;
+                                                                   Garcea G. Role of preoperative carbohydrate          35(1):15-20.
+              Gastroenterology. 2009;136(3):842-847.               loading: a systematic review. Ann R Coll Surg Engl.
+              3. Centre for Evidence-Based Medicine. Oxford        2014;96(1):15-22.                                    35. Rodrigo JP, Alvarez JC, Gómez JR, Suárez C,
+              Centre for Evidence-based Medicine – Levels of                                                            Fernández JA, Martínez JA. Comparison of three
+                                                                   19. Smith MD, McCall J, Plank L, Herbison GP, Soop   prophylactic antibiotic regimens in
+              Evidence (March 2009). URL:  http://www.cebm         M, Nygren J. Preoperative carbohydrate treatment
+              .net/oxford-centre-evidence-based-medicine                                                                clean-contaminated head and neck surgery. Head
+                                                                   for enhancing recovery after elective surgery.       Neck. 1997;19(3):188-193.
+              -levels-evidence-march-2009/. Accessed on            Cochrane Database Syst Rev. 2014;8(8):CD009161.
+              January 2, 2015.                                                                                          36. Liu SA, Tung KC, Shiao JY, Chiu YT. Preliminary
+                                                                   20. Gustafsson UO, Nygren J, Thorell A, et al.       report of associated factors in wound infection
+              4. Guyatt GH, Oxman AD, Kunz R, et al; GRADE         Pre-operative carbohydrate loading may be used in
+              Working Group. Going from evidence to                                                                     after major head and neck neoplasm
+              recommendations.  BMJ. 2008;336(7652):1049-1051.
+
+     300      JAMA Otolaryngology–Head & Neck Surgery        March 2017   Volume 143, Number 3   (Reprinted)                                      jamaotolaryngology.com
+
+                                                       Copyright 2017 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by National Taiwan University user on 04/28/2025
+
+
+                 Perioperative Care in Head and Neck Cancer Surgery                                                                      Review   Clinical Review & Education
+
+
+                 operations—does the duration of prophylactic         premedication of outpatients under IVRA. Middle      cutaneous warming systems to prevent
+                 antibiotic matter? J Laryngol Otol. 2008;122(4):     East J Anaesthesiol. 2011;21(1):53-60.               hypothermia.  J Clin Nurs. 2009;18(5):627-636.
+                 403-408.                                             53. O’Dell K. Predictors of difficult intubation and 68. Negishi C, Hasegawa K, Mukai S, Nakagawa F,
+                 37. Carroll WR, Rosenstiel D, Fix JR, et al.         the otolaryngology perioperative consult.            Ozaki M, Sessler DI. Resistive-heating and forced-air
+                 Three-dose vs extended-course clindamycin            Anesthesiol Clin. 2015;33(2):279-290.                warming are comparably effective. Anesth Analg.
+                 prophylaxis for free-flap reconstruction of the head 54. Aziz MF, Healy D, Kheterpal S, Fu RF, Dillman D, 2003;96(6):1683-1687.
+                 and neck. Arch Otolaryngol Head Neck Surg. 2003;     Brambrink AM. Routine clinical practice              69. Sessler DI, Schroeder M. Heat loss in humans
+                 129(7):771-774.                                      effectiveness of the Glidescope in difficult airway  covered with cotton hospital blankets. Anesth Analg.
+                 38. Wenisch C, Laferl H, Szell M, et al. A holistic  management: an analysis of 2,004 Glidescope          1993;77(1):73-77.
+                 approach to MRSA eradication in critically ill       intubations, complications, and failures from two    70. Campbell G, Alderson P, Smith AF, Warttig S.
+                 patients with MRSA pneumonia.  Infection. 2006;34    institutions. Anesthesiology. 2011;114(1):34-41.     Warming of intravenous and irrigation fluids for
+                 (3):148-154.                                         55. Apfelbaum JL, Hagberg CA, Caplan RA, et al;      preventing inadvertent perioperative hypothermia.
+                 39. Simons JP, Johnson JT, Yu VL, et al. The role of American Society of Anesthesiologists Task Force     Cochrane Database Syst Rev. 2015;(4):CD009891.
+                 topical antibiotic prophylaxis in patients           on Management of the Difficult Airway. Practice      doi:10.1002/14651858.CD009891.pub2.
+                 undergoing contaminated head and neck surgery        guidelines for management of the difficult airway:   71. Cordeiro PG, Santamaria E, Hu QY, Heerdt P.
+                 with flap reconstruction. Laryngoscope. 2001;111(2): an updated report by the American Society of         Effects of vasoactive medications on the blood flow
+                 329-335.                                             Anesthesiologists Task Force on Management of        of island musculocutaneous flaps in swine. Ann
+                 40. Shuman AG, Shuman EK, Hauff SJ, et al.           the Difficult Airway. Anesthesiology. 2013;118(2):   Plast Surg. 1997;39(5):524-531.
+                                                                      251-270.
+                 Preoperative topical antimicrobial decolonization in                                                      72. Kelly DA, Reynolds M, Crantford C, Pestana IA.
+                 head and neck surgery. Laryngoscope. 2012;122(11):   56. Feldheiser A, Aziz O, Baldini G, et al. Enhanced Impact of intraoperative vasopressor use in free
+                 2454-2460.                                           Recovery After Surgery (ERAS) for gastrointestinal   tissue transfer for head, neck, and extremity
+                 41. Eryilmaz T, Sencan A, Camgoz N, Ak B, Yavuzer    surgery, part 2: consensus statement for             reconstruction. Ann Plast Surg. 2014;72(6):S135-S138.
+                 R. A challenging problem that concerns the           anaesthesia practice. Acta Anaesthesiol Scand.
+                                                                      2016;60(3):289-334.                                  73. Chen C, Nguyen MD, Bar-Meir E, et al. Effects of
+                 aesthetic surgeon: postoperative nausea and                                                               vasopressor administration on the outcomes of
+                 vomiting. Ann Plast Surg. 2008;61(5):489-491.        57. Reynolds L, Beckmann J, Kurz A. Perioperative    microsurgical breast reconstruction. Ann Plast Surg.
+                 42. Silva AC, O’Ryan F, Poor DB. Postoperative       complications of hypothermia. Best Pract Res Clin    2010;65(1):28-31.
+                                                                      Anaesthesiol. 2008;22(4):645-657.
+                 nausea and vomiting (PONV) after orthognathic                                                             74. Scholz A, Pugh S, Fardy M, Shafik M, Hall JE.
+                 surgery: a retrospective study and literature review. 58. Frank SM, Fleisher LA, Breslow MJ, et al.       The effect of dobutamine on blood flow of free
+                 J Oral Maxillofac Surg. 2006;64(9):1385-1397.        Perioperative maintenance of normothermia            tissue transfer flaps during head and neck
+                 43. Kaushal J, Gupta MC, Kaushal V, et al. Clinical  reduces the incidence of morbid cardiac events:      reconstructive surgery. Anaesthesia. 2009;64(10):
+                 evaluation of two antiemetic combinations            a randomized clinical trial. JAMA. 1997;277(14):1127- 1089-1093.
+                                                                      1134.
+                 palonosetron dexamethasone versus ondansetron                                                             75. Farwell DG, Reilly DF, Weymuller EA Jr,
+                 dexamethasone in chemotherapy of head and neck       59. Clark JR, McCluskey SA, Hall F, et al. Predictors Greenberg DL, Staiger TO, Futran NA. Predictors of
+                 cancer. Singapore Med J. 2010;51(11):871-875.        of morbidity following free flap reconstruction for  perioperative complications in head and neck
+                 44. Gan TJ, Meyer T, Apfel CC, et al; Department of  cancer of the head and neck. Head Neck. 2007;29      patients. Arch Otolaryngol Head Neck Surg. 2002;
+                 Anesthesiology, Duke University Medical Center.      (12):1090-1101.                                      128(5):505-511.
+                 Consensus guidelines for managing postoperative      60. Sumer BD, Myers LL, Leach J, Truelson JM.        76. Nelson JA, Fischer JP, Grover R, et al.
+                 nausea and vomiting. Anesth Analg. 2003;97(1):       Correlation between intraoperative hypothermia       Intraoperative perfusion management impacts
+                 62-71.                                               and perioperative morbidity in patients with head    postoperative outcomes: an analysis of 682
+                 45. Ham SY, Shim YH, Kim EH, Son MJ, Park WS,        and neck cancer. Arch Otolaryngol Head Neck Surg.    autologous breast reconstruction patients. J Plast
+                 Lee JS. Aprepitant for antiemesis after laparoscopic 2009;135(7):682-686.                                 Reconstr Aesthet Surg. 2015;68(2):175-183.
+                 gynaecological surgery: A randomised controlled      61. Hill JB, Sexton KW, Bartlett EL, et al. The clinical 77. Bellamy MC. Wet, dry or something else? Br J
+                 trial. Eur J Anaesthesiol. 2016;33(2):90-95.         role of intraoperative core temperature in free      Anaesth. 2006;97(6):755-757.
+                                                                      tissue transfer. Ann Plast Surg. 2015;75(6):620-624.
+                 46. Vari A, Gazzanelli S, Cavallaro G, et al.                                                             78. Miller TE, Raghunathan K, Gan TJ.
+                 Post-operative nausea and vomiting (PONV) after      62. De Witte J, Sessler DI. Perioperative shivering: State-of-the-art fluid management in the operating
+                 thyroid surgery: a prospective, randomized study     physiology and pharmacology.  Anesthesiology.        room.  Best Pract Res Clin Anaesthesiol. 2014;28
+                 comparing totally intravenous versus inhalational    2002;96(2):467-484.                                  (3):261-273.
+                 anesthetics. Am Surg. 2010;76(3):325-328.
+                                                                      63. Just B, Delva E, Camus Y, Lienhart A. Oxygen     79. Martina JR, Westerhof BE, van Goudoever J,
+                 47. Sheen MJ, Chang FL, Ho ST. Anesthetic            uptake during recovery following naloxone.           et al. Noninvasive continuous arterial blood
+                 premedication: new horizons of an old practice.      relationship with intraoperative heat loss.          pressure monitoring with Nexfin®. Anesthesiology.
+                 Acta Anaesthesiol Taiwan. 2014;52(3):134-142.        Anesthesiology. 1992;76(1):60-64.                    2012;116(5):1092-1103.
+                 48. Leigh JM, Walker J, Janaganathan P. Effect of    64. Scott AV, Stonemetz JL, Wasey JO, et al.         80. Chen G, Meng L, Alexander B, Tran NP, Kain
+                 preoperative anaesthetic visit on anxiety. Br Med J. Compliance with surgical care improvement project    ZN, Cannesson M. Comparison of noninvasive
+                 1977;2(6093):987-989.                                for body temperature management (SCIP Inf-10) is     cardiac output measurements using the Nexfin
+                 49. Hole J, Hirsch M, Ball E, Meads C. Music as an   associated with improved clinical outcomes.          monitoring device and the esophageal Doppler.
+                 aid for postoperative recovery in adults:            Anesthesiology. 2015;123(1):116-125.                 J Clin Anesth. 2012;24(4):275-283.
+                 a systematic review and meta-analysis. Lancet.       65. De Witte JL, Demeyer C, Vandemaele E.            81. Noble MI. The Frank–Starling curve. Clin Sci Mol
+                 2015;386(10004):1659-1671.                           Resistive-heating or forced-air warming for the      Med. 1978;54(1):1-7.
+                 50. Hausel J, Nygren J, Lagerkranser M, et al.       prevention of redistribution hypothermia. Anesth
+                                                                      Analg. 2010;110(3):829-833.                          82. Hofer CK, Cannesson M. Monitoring fluid
+                 A carbohydrate-rich drink reduces preoperative                                                            responsiveness. Acta Anaesthesiol Taiwan. 2011;49
+                 discomfort in elective surgery patients. Anesth Analg. 66. Shin J, Kim J, Song K, Kwak Y. Core            (2):59-65.
+                 2001;93(5):1344-1350.                                temperature measurement in therapeutic
+                                                                                                                           83. Brandstrup B, Svendsen PE, Rasmussen M,
+                 51. Walker KJ, Smith AF. Premedication for anxiety   hypothermia according to different phases:
+                                                                      comparison of bladder, rectal, and tympanic versus   et al. Which goal for fluid therapy during colorectal
+                 in adult day surgery. Cochrane Database Syst Rev.                                                         surgery is followed by the best outcome:
+                 2009;(4):CD002192. doi:10.1002/14651858              pulmonary artery methods.  Resuscitation. 2013;
+                                                                      84(6):810-817.                                       near-maximal stroke volume or zero fluid balance?
+                 .CD002192.                                                                                                Br J Anaesth. 2012;109(2):191-199.
+                 52. Mizrak A, Gul R, Ganidagli S, Karakurum G,       67. Galvão CM, Marck PB, Sawada NO, Clark AM.
+                                                                      A systematic review of the effectiveness of          84. Jensen NF, Todd MM, Block RI, Hegtvedt RL,
+                 Keskinkilic G, Oner U. Dexmedetomidine                                                                    McCulloch TM. The efficacy of routine central
+
+                 jamaotolaryngology.com                                       (Reprinted)   JAMA Otolaryngology–Head & Neck Surgery       March 2017   Volume 143, Number 3       301
+
+                                                       Copyright 2017 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by National Taiwan University user on 04/28/2025
+
+
+              Clinical Review & Education  Review                                                                       Perioperative Care in Head and Neck Cancer Surgery
+
+
+              venous monitoring in major head and neck surgery:    100. Jarde O, Boccard E. Parenteral vs oral route    of current techniques--part I. Non-invasive
+              a retrospective review. J Clin Anesth. 1995;7(2):    increases paracetamol efficacy. Clin Drug Investig.  techniques. Br J Oral Maxillofac Surg. 2009;47(5):
+              119-125.                                             1997;14(6):474-481.                                  351-355.
+              85. Puram SV, Yarlagadda BB, Sethi R, et al.         101. Sekiguchi H, Inoue G, Nakazawa T, et al.        114. Abdel-Galil K, Mitchell D. Postoperative
+              Transfusion in head and neck free flap patients:     Loxoprofen sodium and celecoxib for postoperative    monitoring of microsurgical free-tissue transfers for
+              practice patterns and a comparative analysis by flap pain in patients after spinal surgery: a randomized  head and neck reconstruction: a systematic review
+              type. Otolaryngol Head Neck Surg. 2015;152(3):       comparative study. J Orthop Sci. 2015;20(4):617-623. of current techniques--part II. Invasive techniques.
+              449-457.                                             102. Wax MK, Reh DD, Levack MM. Effect of            Br J Oral Maxillofac Surg. 2009;47(6):438-442.
+              86. Danan D, Smolkin ME, Varhegyi NE, Bakos SR,      celecoxib on fasciocutaneous flap survival and       115. Pattani KM, Byrne P, Boahene K, Richmon J.
+              Jameson MJ, Shonka DC Jr. Impact of blood            revascularization. Arch Facial Plast Surg. 2007;9(2): What makes a good flap go bad? A critical analysis
+              transfusions on patients with head and neck cancer   120-124.                                             of the literature of intraoperative factors related to
+              undergoing free tissue transfer. Laryngoscope.       103. Scott WW, Levy M, Rickert KL, Madden CJ,        free flap failure. Laryngoscope. 2010;120(4):717-723.
+              2015;125(1):86-91.                                   Beshay JE, Sarode R. Assessment of common            116. Cornejo A, Ivatury S, Crane CN, Myers JG,
+              87. Spahn DR, Spahn GH, Stein P. Evidence base for   nonsteroidal anti-inflammatory medications by        Wang HT. Analysis of free flap complications and
+              restrictive transfusion triggers in high-risk patients. whole blood aggregometry: a clinical evaluation for utilization of intensive care unit monitoring.
+              Transfus Med Hemother. 2015;42(2):110-114.           the perioperative setting. World Neurosurg. 2014;    J Reconstr Microsurg. 2013;29(7):473-479.
+              88. Fominskiy E, Putzu A, Monaco F, et al. Liberal   82(5):e633-e638.                                     117. Chae MP, Rozen WM, Whitaker IS, et al. Current
+              transfusion strategy improves survival in            104. Stammschulte T, Brune K, Brack A,               evidence for postoperative monitoring of
+              perioperative but not in critically ill patients:    Augenstein H, Arends G, Gundert-Remy U.              microvascular free flaps: a systematic review. Ann
+              a meta-analysis of randomised trials. Br J Anaesth.  [Unexpected hemorrhage complications in              Plast Surg. 2015;74(5):621-632.
+              2015;115(4):511-519.                                 association with celecoxib. Spontaneously reported   118. Kruse AL, Luebbers HT, Grätz KW, Obwegeser
+              89. Carson JL, Grossman BJ, Kleinman S, et al;       case series after perioperative pain treatment in    JA. Free flap monitoring protocol. J Craniofac Surg.
+              Clinical Transfusion Medicine Committee of the       gynecological operations]. Anaesthesist. 2014;63     2010;21(4):1262-1263.
+                                                                   (12):958-960.
+              AABB. Red blood cell transfusion: a clinical practice                                                     119. Yeung JK, Harrop R, McCreary O, et al. Delayed
+              guideline from the AABB. Ann Intern Med. 2012;       105. Paul JE, Nantha-Aree M, Buckley N, et al.       mobilization after microsurgical reconstruction: an
+              157(1):49-58.                                        Randomized controlled trial of gabapentin as an      independent risk factor for pneumonia.
+              90. Nkenke E, Vairaktaris E, Stelzle F, Neukam FW,   adjunct to perioperative analgesia in total hip      Laryngoscope. 2013;123(12):2996-3000.
+              St Pierre M. No reduction in complication rate by    arthroplasty patients. Can J Anaesth. 2015;62(5):
+                                                                   476-484.                                             120. Jones C, Kelliher L, Dickinson M, et al.
+              stay in the intensive care unit for patients                                                              Randomized clinical trial on enhanced recovery
+              undergoing surgery for head and neck cancer and      106. Chiu TW, Leung CCH, Lau EYK, Burd A.            versus standard care following open liver resection.
+              microvascular reconstruction. Head Neck. 2009;31     Analgesic effects of preoperative gabapentin after   Br J Surg. 2013;100(8):1015-1024.
+              (11):1461-1469.                                      tongue reconstruction with the anterolateral thigh
+                                                                   flap. Hong Kong Med J. 2012;18(1):30-34.             121. Vlug MS, Bartels SA, Wind J, Ubbink DT,
+              91. Morton RP. The need of ICU admission after                                                            Hollmann MW, Bemelman WA; Collaborative LAFA
+              major head and neck surgery. ANZ J Surg. 2002;72     107. Jellish WS, Leonetti JP, Sawicki K, Anderson D, Study Group. Which fast track elements predict
+              (1):3-4.                                             Origitano TC. Morphine/ondansetron PCA for           early recovery after colon cancer surgery?
+              92. To EW, Tsang WM, Lai EC, Chu MC.                 postoperative pain, nausea, and vomiting after skull Colorectal Dis. 2012;14(8):1001-1008.
+              Retrospective study on the need of intensive care    base surgery. Otolaryngol Head Neck Surg. 2006;
+                                                                   135(2):175-181.                                      122. Braumann C, Guenther N, Wendling P, et al;
+              unit admission after major head and neck surgery.                                                         Fast-Track Colon II Quality Assurance Group.
+              ANZ J Surg. 2002;72(1):11-14.                        108. Yoo Y-C, Bai S-J, Lee K-Y, Shin S, Choi EK, Lee Multimodal perioperative rehabilitation in elective
+              93. Downey RJ, Friedlander P, Groeger J, et al.      JW. Total intravenous anesthesia with propofol       conventional resection of colonic cancer: results
+              Critical care for the severely ill head and neck     reduces postoperative nausea and vomiting in         from the German Multicenter Quality Assurance
+              patient. Crit Care Med. 1999;27(1):95-97.            patients undergoing robot-assisted laparoscopic      Program ‘Fast-Track Colon II’. Dig Surg. 2009;26(2):
+                                                                   radical prostatectomy: a prospective randomized      123-129.
+              94. de Melo GM, Ribeiro KC, Kowalski LP,             trial. Yonsei Med J. 2012;53(6):1197-1202.
+              Deheinzelin D. Risk factors for postoperative                                                             123. Chandrakantan A, Glass PS. Multimodal
+              complications in oral cancer and their prognostic    109. Gupta P, Sharma H, Jethava DD, et al. Use of    therapies for postoperative nausea and vomiting,
+              implications. Arch Otolaryngol Head Neck Surg.       dexmedetomidine for multimodal analgesia in head     and pain. Br J Anaesth. 2011;107(suppl 1):i27-i40.
+              2001;127(7):828-833.                                 and neck cancer surgeries: a prospective
+                                                                   randomized double blind control study. IOSR Journ    124. Dumville JC, Gray TA, Walter CJ, Sharp CA,
+              95. Halawi MJ, Grant SA, Bolognesi MP. Multimodal    Dental and Med Sci. 2015;14(4):8-13.                 Page T. Dressings for the prevention of surgical site
+              analgesia for total joint arthroplasty. Orthopedics.                                                      infection. Cochrane Database Syst Rev. 2014;9(9):
+              2015;38(7):e616-e625.                                110. Egan RJ, Hopkins JC, Beamish AJ, Shah R,        CD003091.
+                                                                   Edwards AG, Morgan JD. Randomized clinical trial
+              96. Balandin VV, Gorobets ES. [Postoperative         of intraoperative superficial cervical plexus block  125. Sheth VM, Weitzul S. Postoperative topical
+              analgesia with nefopam and non-steroidal             versus incisional local anaesthesia in thyroid and   antimicrobial use. Dermatitis. 2008;19(4):181-189.
+              anti-inflammatory drugs in patients after surgery    parathyroid surgery. Br J Surg. 2013;100(13):1732-   126. Schwarz W, Willy C, Ndjee C. [Gravity or
+              for tumors of head and neck]. Anesteziol Reanimatol. 1738.                                                suction drainage in thyroid surgery? Control of
+              2014;(1):40-43.
+                                                                   111. Shih ML, Duh QY, Hsieh CB, et al. Bilateral     efficacy with ultrasound determination of residual
+              97. Møiniche S, Kehlet H, Dahl JB. A qualitative and superficial cervical plexus block combined with      hematoma].   Langenbecks Arch Chir. 1996;381(6):
+              quantitative systematic review of preemptive         general anesthesia administered in thyroid           337-342.
+              analgesia for postoperative pain relief: the role of operations. World J Surg. 2010;34(10):2338-2343.     127. Satteson ES, Crantford JC, Wood J, David LR.
+              timing of analgesia. Anesthesiology. 2002;96(3):                                                          Outcomes of vacuum-assisted therapy in the
+              725-741.                                             112. Warschkow R, Tarantino I, Jensen K, et al.
+                                                                   Bilateral superficial cervical plexus block in       treatment of head and neck wounds. J Craniofac Surg.
+              98. Grape S, Tramèr MR. Do we need preemptive        combination with general anesthesia has a low        2015;26(7):e599-e602.
+              analgesia for the treatment of postoperative pain?   efficacy in thyroid surgery: a meta-analysis of      128. Webster J, Scuffham P, Stankiewicz M,
+              Best Pract Res Clin Anaesthesiol. 2007;21(1):51-63.  randomized controlled trials. Thyroid. 2012;22(1):   Chaboyer WP. Negative pressure wound therapy for
+              99. Barden J, Edwards J, Moore A, McQuay H.          44-52.                                               skin grafts and surgical wounds healing by primary
+              Single dose oral paracetamol (acetaminophen) for     113. Abdel-Galil K, Mitchell D. Postoperative        intention. Cochrane Database Syst Rev. 2014;10
+              postoperative pain. Cochrane Database Syst Rev.      monitoring of microsurgical free tissue transfers for (10):CD009261.
+              2004;(1):CD004602.                                   head and neck reconstruction: a systematic review    129. Dornseifer U, Lonic D, Gerstung TI, et al. The
+                                                                                                                        ideal split-thickness skin graft donor-site dressing:
+
+
+     302      JAMA Otolaryngology–Head & Neck Surgery        March 2017   Volume 143, Number 3   (Reprinted)                                      jamaotolaryngology.com
+
+                                                       Copyright 2017 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by National Taiwan University user on 04/28/2025
+
+
+                 Perioperative Care in Head and Neck Cancer Surgery                                                                      Review   Clinical Review & Education
+
+
+                 a clinical comparative trial of a modified           transurethral catheterization for bladder drainage   142. Santus P, Gramegna A, Radovanovic D, et al.
+                 polyurethane dressing and aquacel. Plast Reconstr    after abdominal surgery. Br J Surg. 2006;93(9):      A systematic review on tracheostomy
+                 Surg. 2011;128(4):918-924.                           1038-1044.                                           decannulation: a proposal of a quantitative
+                 130. Beam JW. Management of superficial to           136. Zaouter C, Wuethrich P, Miccoli M, Carli F.     semiquantitative clinical score. BMC Pulm Med.
+                 partial-thickness wounds. J Athl Train. 2007;42(3):  Early removal of urinary catheter leads to greater   2014;14:201.
+                 422-424.                                             post-void residuals in patients with thoracic        143. Brookes JT, Seikaly H, Diamond C, Mechor B,
+                 131. Chai J, Pun TC. A prospective randomized trial  epidural. Acta Anaesthesiol Scand. 2012;56(8):       Harris JR. Prospective randomized trial comparing
+                 to compare immediate and 24-hour delayed             1020-1025.                                           the effect of early suturing of tracheostomy sites on
+                 catheter removal following total abdominal           137. Higgins KM, Punthakee X. Meta-analysis          postoperative patient swallowing and
+                 hysterectomy. Acta Obstet Gynecol Scand. 2011;90     comparison of open versus percutaneous               rehabilitation. J Otolaryngol. 2006;35(2):77-82.
+                 (5):478-482.                                         tracheostomy. Laryngoscope. 2007;117(3):447-454.     144. Thomas JA, McIntosh JM. Are incentive
+                 132. Chan JY, Semenov YR, Gourin CG.                 138. Moore MG, Bhrany AD, Francis DO, Yueh B,        spirometry, intermittent positive pressure
+                 Postoperative urinary tract infection and            Futran ND. Use of nasotracheal intubation in         breathing, and deep breathing exercises effective in
+                 short-term outcomes and costs in head and neck       patients receiving oral cavity free flap             the prevention of postoperative pulmonary
+                 cancer surgery. Otolaryngol Head Neck Surg. 2013;    reconstruction. Head Neck. 2010;32(8):1056-1061.     complications after upper abdominal surgery?
+                 148(4):602-610.                                                                                           a systematic overview and meta-analysis. Phys Ther.
+                                                                      139. Kruse-Lösler B, Langer E, Reich A, Joos U,      1994;74(1):3-10.
+                 133. Ahmed MR, Sayed Ahmed WA, Atwa KA,              Kleinheinz J. Score system for elective tracheotomy
+                 Metwally L. Timing of urinary catheter removal       in major head and neck tumour surgery. Acta          145. Stowers MD, Manuopangai L, Hill AG, Gray JR,
+                 after uncomplicated total abdominal hysterectomy:    Anaesthesiol Scand. 2005;49(5):654-659.              Coleman B, Munro JT. Enhanced Recovery After
+                                                                                                                           Surgery in elective hip and knee arthroplasty
+                 a prospective randomized trial. Eur J Obstet Gynecol 140. Cameron M, Corner A, Diba A, Hankins M.
+                 Reprod Biol. 2014;176:60-63.                                                                              reduces length of hospital stay. ANZ J Surg. 2016;86
+                                                                      Development of a tracheostomy scoring system to      (6):475-479. Epub ahead of print.
+                 134. Zhang P, Hu WL, Cheng B, Cheng L, Xiong XK,     guide airway management after major head and
+                 Zeng YJ. A systematic review and meta-analysis       neck surgery. Int J Oral Maxillofac Surg. 2009;38    146. Rosenfeld RM, Nnacheta LC, Corrigan MD.
+                 comparing immediate and delayed catheter             (8):846-849.                                         Clinical Consensus Statement Development
+                 removal following uncomplicated hysterectomy. Int                                                         Manual. Otolaryngol Head Neck Surg. 2015;153(2)
+                                                                      141. Coyle MJ, Tyrrell R, Godden A, et al. Replacing (suppl):S1-S14.
+                 Urogynecol J. 2015;26(5):665-674.                    tracheostomy with overnight intubation to manage
+                 135. McPhail MJ, Abu-Hilal M, Johnson CD.            the airway in head and neck oncology patients:
+                 A meta-analysis comparing suprapubic and             towards an improved recovery. Br J Oral Maxillofac
+                                                                      Surg. 2013;51(6):493-496.
+
+                                                                                  Invited Commentary
+                 Evidence-Based Perioperative Treatment
+                 After Free Tissue Reconstruction
+                 Moving From Alchemy to Data
+                 Samir S. Khariwala, MD, MS, FACS
+
+                 The use of free tissue transfer       (FTT) in the head and neck has            surgeons are frequently reluctant to try new and untested tech-
+                 made considerable strides since the first procedures were                       niques or engage in controlled randomized trial designs.
+                 performed nearly 40 years ago.1           Free tissue transfer began            Whether the technique in question is anticoagulation, antibi-
+                                                         as a risky and extremely time-          otics, vasoactive agents, or free flap monitoring, too often the
+                                                         consuming procedure, yet                rationale for decision making is: “I’ve always done it this way…”
+                 Related article page 292                through improved instru-                or “This is how Dr. X did it.” Given the serious consequences
+                                                         mentation and accumulated               of flap loss, this reaction by free flap surgeons, most of whom
+                 experience, head and neck defects are now routinely treated                     are habitually meticulous and suspicious, is certainly under-
+                 with FTT. Furthermore, the expansion of indications for FTT                     standable. Still, the era of evidence-based medicine is well upon
+                 has resulted in surgeons tackling cases of increasingly greater                 us and we must seek to base our practice on the strongest data
+                 difficulty with regularity.                                                     available.
+                      For example, it is not uncommon for patients who have                           In this issue of      JAMA Otolaryngology–Head & Neck
+                 been doubly radiated and/or had prior neck dissections to re-                   Surgery, Dort et al6    propose recommendations for periopera-
+                 ceive second, third, or even fourth free flaps,2          which may re-         tive treatment of patients receiving major head and neck can-
+                 quire vein grafting and accessing the internal mammary                          cer surgery with free flap reconstruction. This effort is based
+                 vessels.3   Free flap failure will almost invariably increase the               on the mission of, and endorsed by, the Enhanced Recovery
+                 length of hospital stay and cost of care. In addition, free flap                After Surgery (ERAS) Society. Based on a finding that ERAS rec-
+                 failure may be associated with open wounds that result in de-                   ommendations developed for patients undergoing colorectal
+                 creased quality of life for patients. Free flap surgeons often rely             surgery resulted in functional improvements after surgery, the
+                 on patient treatment techniques handed down from                   experi-      authors sought to apply a similar approach for patients receiv-
+                 enced surgeons, which may lack a sound scientific basis. Be-                    ing free flaps. To accomplish this, they performed an exten-
+                 cause of their concern about serious complications, free flap                   sive literature search and attempted to coalesce a series of of-
+
+                 jamaotolaryngology.com                                       (Reprinted)   JAMA Otolaryngology–Head & Neck Surgery       March 2017   Volume 143, Number 3       303
+
+                                                       Copyright 2017 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by National Taiwan University user on 04/28/2025
+
+
+

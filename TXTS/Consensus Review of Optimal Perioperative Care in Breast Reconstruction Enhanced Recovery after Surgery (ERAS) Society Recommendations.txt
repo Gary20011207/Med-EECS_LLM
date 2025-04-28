@@ -1,0 +1,1114 @@
+           BREAST
+
+          Consensus Review of Optimal Perioperative Care 
+          in Breast Reconstruction: Enhanced Recovery 
+     Downloaded  from http://journals.lww.com/plasreconsurg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0 after Surgery (ERAS) Society Recommendations
+   hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI=  on 04/28/2025
+          Claire Temple-Oberle, M.D., 
+                                        Background:  Enhanced  recovery  following  surgery  can  be  achieved  through 
+                                M.Sc.
+                                        the introduction of evidence-based perioperative maneuvers. This review aims 
+              Melissa A. Shea-Budgell,  to present a consensus for optimal perioperative management of patients un-
+                                M.Sc.   dergoing breast reconstructive surgery and to provide evidence-based recom-
+                      Mark Tan, M.D.    mendations for an enhanced perioperative protocol.
+                John L. Semple, M.D.,   Methods:  A  systematic  review  of  meta-analyses,  randomized  controlled  trials, 
+                                M.Sc.   and large prospective cohorts was conducted for each protocol element. Small-
+              Christiaan Schrag, M.D.   er prospective cohorts and retrospective cohorts were considered only when 
+                 Marcio Barreto, M.D.   higher level evidence was unavailable. The available literature was graded by 
+2017           Phillip Blondeel, M.D.,  an international panel of experts in breast reconstructive surgery and used to 
+                               Ph.D.    form consensus recommendations for each topic. Each recommendation was 
+               Jeremy Hamming, M.D.     graded  following  a  consensus  discussion  among  the  expert  panel.  Develop-
+                  Joseph Dayan, M.D.    ment of these recommendations was endorsed by the Enhanced Recovery after 
+          Olle Ljungqvist, M.D., Ph.D.  Surgery Society.
+                 for the ERAS Society   Results:  High-quality  randomized  controlled  trial  data  in  patients  undergoing 
+                                        breast  reconstruction  informed  some  of  the  recommendations;  however,  for 
+          Calgary, Alberta, and Toronto, Ontario, 
+                Canada; Duarte, Calif.; Recife, most  items,  data  from  lower  level  studies  in  the  population  of  interest  were 
+            Pernambuco, Brazil; Ghent, Belgium; considered along with extrapolated data from high-quality studies in non–breast 
+             New York, N.Y.; and Örebro, Sweden reconstruction populations. Recommendations were developed for a total of 18 
+                                        unique enhanced recovery after surgery items and are discussed in the article. 
+                                        Key recommendations support use of opioid-sparing perioperative medications, 
+                                        minimal preoperative fasting and early feeding, use of anesthetic techniques that 
+                                        decrease postoperative nausea and vomiting and pain, use of measures to pre-
+                                        vent intraoperative hypothermia, and support of early mobilization after surgery.
+                                        Conclusion: Based on the best available evidence for each topic, a consensus 
+                                        review of optimal perioperative care for patients undergoing breast reconstruc-
+                                        tion is presented. (Plast. Reconstr. Surg. 139: 1056e, 2017.)
+                                        CLINICAL QUESTION/LEVEL OF EVIDENCE: Therapeutic, V.
+
+                ecovery  can  be  improved  in  breast  sur-   that  have  revolutionized  perioperative  care  in 
+                gery.1  Enhanced  recovery  after  surgery     colorectal  surgery,2  thereby  reducing  morbidity 
+          Rrepresents  evidenced-based  care  elements         and length of stay, and improving survival.3–5 This 
+                                                               guideline (Table 1) was developed by an interna-
+            From the Departments of Surgery, Oncology, and Anesthe- tional expert panel of physicians under the guid-
+            siology and Pain Medicine, University of Calgary; the Tom ance  of  the  Enhanced  Recovery  after  Surgery 
+            Baker Cancer Centre; the Cancer Strategic Clinical Network, 
+            Alberta Health Services; the City of Hope National Medical 
+            Center; the Department of Surgery, University of Toronto; 
+            the Department of Plastic and Reconstructive Surgery, Uni- Disclosure: Dr. Ljungqvist is a founding member of 
+            versity Hospital of Ghent; Memorial Sloan Kettering Can- the ERAS Study Group and ERAS Society, an execu-
+            cer Center; Department of Surgery, Faculty of Medicine and tive officer of the ERAS Society, and is the founder 
+            Health, Örebro University; and private practice.     and a shareholder in EnCARE AB, Sweden 397 
+            Received for publication June 13, 2016; accepted October (http://www.encare.se), the provider of the ERAS in-
+            17, 2016.                                            teractive audit system. In addition, Dr. Ljungqvist 
+            Presented at the 4th World Congress of the Enhanced  was supported by funds from Nyckelfonden, Ore-
+             Recovery After Surgery Society, in Lisbon, Portugal, April boro, Sweden. No funding was provided to support 
+            27 through 30, 2016.                                 the development of this article and no funding was 
+            Copyright © 2017 by the American Society of Plastic Surgeons  received as a result of this article.
+            DOI: 10.1097/PRS.0000000000003242
+
+          1056e                                   www.PRSJournal.com
+        Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited. 
+
+
+        Volume 139, Number 5 • Enhanced Recovery after Reconstruction
+
+        Table 1. ERAS Society Enhanced Recovery after Surgery Recommendations for Perioperative Care in Breast 
+        Reconstruction
+                                                                                                            Recommendation 
+        Item                                         Recommendation                         Evidence Level       Grade
+
+
+ Downloaded  from http://journals.lww.com/plasreconsurg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0 1.  Preadmission  Patients should receive detailed preoperative counseling. Moderate Strong
+           information, educa-
+           tion, and counseling
+
+hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI=  on 04/28/2025 2.  Preadmission  For daily smokers, 1 mo of abstinence before surgery is Moderate  Strong
+           optimization            beneficial. For patients who are obese, weight reduction  (smoking)           Strong
+                                   to achieve a BMI ≤30 kg/m2 before surgery is beneficial. High (obesity)       Strong
+                                   For alcohol abusers, 1 mo of abstinence before surgery   Low (alcohol)
+                                   is beneficial. For appropriate groups, referral should be 
+                                   made to resources for these behavior changes.
+         3.  Perforator flap     If preoperative perforator mapping is required, CTA is     Moderate             Strong
+           planning                recommended.
+         4. Perioperative fasting Preoperative fasting should be minimized and patients     Moderate             Strong
+                                   should be allowed to drink clear fluids up to 2 hr before 
+                                   surgery.
+         5. Preoperative         Preoperative maltodextrin-based drinks should be given to  Low                  Strong
+           carbohydrate loading    patients 2 hr before surgery.
+         6.  Venous              Patients should be assessed for venous thromboembolism risk. Moderate           Strong
+           thromboembolism         Unless contraindicated, and balanced by the risk of bleeding, 
+           prophylaxis             patients at a higher risk should receive low-molecular-weight 
+                                   heparin or unfractionated heparin until ambulatory or 
+                                    discharged. Mechanical methods should be added.
+         7.  Antimicrobial       Chlorhexidine skin preparation should be performed and     Moderate             Strong
+           prophylaxis             intravenous antibiotics covering common skin organisms 
+                                   should be given within 1 hr of incision.
+         8.  Postoperative nausea Women should receive preoperative and intraoperative      Moderate             Strong
+           and vomiting            medications to mitigate postoperative nausea and  
+           prophylaxis             vomiting.
+         9.  Preoperative and    Women should receive multimodal analgesia to mitigate      Moderate             Strong
+           intraoperative          pain.
+           analgesia
+        10.  Standard anesthetic General anesthesia with TIVA is recommended.               Moderate             Strong
+           protocol
+        11.  Preventing          Preoperative and intraoperative measures, such as forced  Moderate              Strong
+           intraoperative          air, to prevent hypothermia should be instituted. Temper-
+           hypothermia             ature monitoring is required to ensure the patient’s body 
+                                   temperature is maintained above 36°C.
+        12.  Perioperative       Overresuscitation or underresuscitation of fluids should  Moderate              Strong
+           intravenous fluid       be avoided and water and electrolyte balance should be 
+           management              maintained. Goal-directed therapy is a useful method 
+                                   of achieving these goals. Balanced crystalloid solutions, 
+                                   rather than saline, is recommended. Vasopressors are 
+                                   recommended to support fluid management and do not 
+                                   negatively affect free flaps.
+        13.  Postoperative       Multimodal postoperative pain management regimens are     High                  Strong
+           analgesia               opioid-sparing and should be used.
+        14. Early feeding        Patients should be encouraged to take fluids and food     Moderate              Strong
+                                   orally as soon as possible, preferably within 24 hr after 
+                                   surgery.
+        15.  Postoperative flap  Flap monitoring within the first 72 hr should occur fre-  Moderate              Strong
+           monitoring              quently. Clinical evaluation is sufficient for monitoring, 
+                                   with implantable Doppler devices recommended in cases 
+                                   of buried flaps.
+        16.  Postoperative wound For incisional closure, conventional sutures are recom-   High (sutures)        Strong
+           management              mended. Complex wounds following skin necrosis are      Moderate 
+                                   treatable with débridement and negative-pressure wound    (NPWT)
+                                   therapy.
+        17. Early mobilization   Patients should be mobilized within the first 24 hr after Moderate              Strong
+                                   surgery.
+        18.  Postdischarge home  Early physiotherapy, supervised exercise programs, and    Moderate              Strong
+           support and             other supportive care initiatives should be instituted after 
+           physiotherapy           discharge.
+        BMI, body mass index; CTA, computed tomographic angiography; TIVA, total intravenous anesthesia; NPWT, negative-pressure wound therapy.
+
+
+                                                                                                                     1057e
+     Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited. 
+
+
+                                                      Plastic and Reconstructive Surgery • May 2017
+
+      (ERAS)  Society  (www.erassociety.org)  to  formal- complications  by  improving  perioperative  feed-
+      ize enhanced recovery after surgery protocols for ing, pain control, and respiratory physiotherapy.10
+      breast reconstruction.1,6                          Women  value  presurgical  education  about 
+                                                     breast reconstruction,11 yet many feel that they do 
+                                                     not receive adequate information,12 leading to dis-
+ Downloaded  from http://journals.lww.com/plasreconsurg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0 METhODS
+                                                     satisfaction with their reconstruction decisions.13,14 
+         An  international  team  of  breast  reconstruc- Patient involvement in co–decision-making about 
+hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI=  on 04/28/2025 tion experts teleconferenced monthly from Janu- breast  reconstruction  leads  to  higher  satisfac-
+      ary through June of 2015. Guideline items were tion,  independent  of  the  reconstruction  type.15 
+      developed  and  the  MEDLINE  and  Cochrane    Sufficient  information  improves  knowledge  and
+      databases  were  searched  from  1965  through lessens  decision  regret.16,17  Preconsultation  edu-
+      January  of  2015.  Key  words  included  “breast cational  group  interventions  are  one  method  of 
+      cancer,”  “mastectomy,”  “breast  neoplasm,”  and reducing decisional conflict.17
+      “breast carcinoma”; combined with “reconstruc-
+      tion,” “reconstructive surgery,” “implant,” “flap,” 1. Summary  and  recommendation:  Patients 
+      “expander,”  “acellular  dermal  matrix,”  “mesh,”   should  receive  detailed  preoperative 
+      and  “graft.”  The  resulting  citations  were  com- counseling.
+      bined  with  additional  topic-specific  key  words. 2. Evidence level: Moderate.
+      Reference lists of all eligible articles were hand- 3. Recommendation grade: Strong (low harm).
+      searched for additional studies.
+         All titles and abstracts were screened to iden-
+      tify  potentially  relevant  articles.  Any  discrepan- Preadmission Optimization
+                                                         Smoking predisposes women to postmastec-
+      cies in the interpretation of articles were resolved                             18–20
+      during  working  group  meetings.  Where  avail- tomy  reconstruction  complications,   includ-
+                                                     ing  mastectomy  skin  flap  necrosis,  abdominal 
+      able, randomized controlled trials and systematic                        21
+      reviews in patients undergoing breast reconstruc- flap  necrosis,  and  hernias.   Former  smokers 
+      tion were used. Lower level data were considered (i.e., those who quit 3 to 4 weeks preoperatively) 
+                                                     and  nonsmokers  have  similar  complication 
+      where  no  high-level  data  were  available.  Only 22,23
+      the  most  recent,  highest  level  evidence  is  cited. rates.
+                                                         Obesity  (i.e.,  body  mass  index  >30 kg/m2) 
+      Study quality was assessed using the criteria devel-                                    24–27
+      oped by the Centre for Evidence Based Medicine increases flap loss and donor-site morbidity.  
+      (Oxford, England).7                            National Surgical Quality Improvement Program 
+         Recommendations  were  developed  using  an data  of  2899  women  with  free  flap  reconstruc-
+                                                     tions have revealed a strong correlation between 
+      evidence-based  consensus  approach.  Using  the 
+                                                     obesity  and  surgical-site  infections,  venous 
+      results  of  the  systematic  review,  the  panel  pro-
+                                                     thromboembolism, and other complications.28,29 
+      vided  expert  interpretation  of  the  evidence  and 
+                                                     Patients  should  therefore  be  encouraged  to 
+      discussed  and  modified  each  recommendation 
+                                                     lose  weight  before  surgery.  Muscle-preserving 
+      until  no  further  modifications  were  required 
+                                                     abdominal  flaps  [i.e.,  deep  inferior  epigastric 
+      and  consensus  was  reached.  Recommendations 
+                                                     perforator (DIEP) flap] reduce abdominal wall 
+      were  graded  as  “weak”  or  “strong”  according  to 
+                                                     complications  compared  with  non–muscle-spar-
+      the  Grading  of  Recommendations,  Assessment, 
+                                                     ing  flaps  [i.e.,  free  or  pedicle  transverse  rectus 
+      Development and Evaluation system.8
+                                                     abdominis  musculocutaneous  (TRAM)  flap]  in 
+                                                     obese patients.27,30
+                EVIDENCE BASE AND                        Regarding  diabetes,  National  Surgical  Qual-
+                recommendations                      ity Improvement Program data on 29,736 women 
+                                                     with breast reconstruction have linked type 2 dia-
+      ERAS Items                                     betes mellitus to surgical complications (OR, 1.51) 
+         Preadmission Information, Education, and    and type 1 diabetes mellitus to medical (OR, 1.82) 
+      Counseling                                     and overall complications (OR, 1.85).31 Poor gly-
+         Providing  surgical  and  anesthetic  informa- cemic control is associated with worse outcomes 
+      tion  preoperatively  improves  recovery  by  reduc- in primary closure of surgical wounds in high-risk 
+      ing  fear  and  anxiety.9  Information  about  the patients.32
+      procedure  assists  patients  in  reaching  postop- Heavy  alcohol  consumption  (five  or  more 
+      erative milestones and has been shown to reduce drinks on each of 5 or more days in the past 30 days) 
+
+      1058e
+    Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited. 
+
+
+      Volume 139, Number 5 • Enhanced Recovery after Reconstruction
+
+      is  also  associated  with  poor  outcomes,  particularly 1. Summary  and  recommendation:  Preop-
+      attributable to surgical-site infections. National Sur- erative  fasting  should  be  minimized  and 
+      gical  Quality  Improvement  Program  data  on  9315 patients  should  be  allowed  to  drink  clear 
+      patients undergoing immediate reconstruction have    fluids up to 2 hours before surgery.
+      revealed heavy alcohol consumption as an indepen- 2. Evidence level: Moderate (based on extrap-
+ Downloaded  from http://journals.lww.com/plasreconsurg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0 dent risk factor for surgical-site infections.33 olated data).
+                                                        3. Recommendation grade: Strong.
+hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI=  on 04/28/2025 1. Summary  and  recommendation:  For  daily 
+           smokers,  1  month  of  abstinence  before    Preoperative Carbohydrate Loading
+           surgery  is  beneficial.  For  patients  who  are Taken 2  hours  before  surgery,  maltodextrin-
+           obese, weight reduction to achieve a body based  drinks  (400 ml)  specifically  designed  and 
+                                                 2
+           mass index less than or equal to 30 kg/m  tested  for  preoperative  use  have  positive  meta-
+           before  surgery  is  beneficial.  For  alcohol bolic effects, such as increasing insulin sensitivity 
+           abusers, 1 month of abstinence before sur- and reducing preoperative thirst and anxiety.42–44 
+           gery  is  beneficial.  For  appropriate  groups, Carbohydrate  loading  reduces  the  catabolic 
+           referral  should  be  made  to  resources  for effects of surgery, including losses of nitrogen and 
+           these behavior changes.                   protein, lean body mass, and muscle strength,45–48 
+         2. Evidence level: Moderate for smoking; high which has translated into shorter hospital stays.49 
+           for obesity; low for alcohol.             In  patients  with  well-controlled  type  2  diabetes, 
+         3. Recommendation  grade:  Strong  for  all a carbohydrate drink given up to 3 hours before 
+           (high benefit, low harm).                 surgery  alongside  their  normal  medication  does 
+                                                     not  appear  to  delay  gastric  emptying  and  will 
+         Perforator Flap Planning                    allow glucose concentrations the additional time 
+                                                     required (i.e., 180 minutes versus 120 minutes in 
+         Meta-analysis  has  shown  the  benefit  of  com-                             50
+      puted  tomographic  angiography  over  Doppler healthy subjects) to return to baseline.
+      ultrasonography  in  mapping  the  dominant  DIEP 
+                                                        1. Summary  and  recommendation:  Preopera-
+      perforators;  benefits  include  reduced  flap com-
+                                                           tive  maltodextrin-based  drinks  should  be 
+      plications,  donor-site  morbidity,  and  operative 
+                                                           given to patients 2 hours before surgery.
+      times.34  Risks  include  potential  contrast  allergy, 
+                                            35          2. Evidence level: Low (based on extrapolated 
+      nephrotoxicity, and exposure to radiation.  Mod-     data).
+      ern computed tomographic angiography scanning 
+                                            36          3. Recommendation grade: Strong (low risk of 
+      protocols have reduced radiation exposure.  Mag-     harm) in the general patient population.
+      netic resonance angiography avoids radiation, but 
+      image quality remains a challenge that is improv-
+      ing with a variety of technical refinements.37–39  Prophylaxis against Venous 
+                                                     Thromboembolism
+         1. Summary  and  recommendation:  If  preop-    National  Surgical  Quality  Improvement  Pro-
+           erative  perforator  mapping  is  required, gram  data  on  68,285  patients  have  shown  that 
+           computed  tomographic  angiography  is    venous  thromboembolism  in  reconstruction 
+           recommended.                              patients approaches twice that of lumpectomy or 
+         2. Evidence level: Moderate.                mastectomy alone (0.41 percent versus 0.13 per-
+                                                                                      28
+         3. Recommendation grade: Strong.            cent  and  0.29  percent; p  <  0.0001).   Retrospec-
+                                                     tive  reviews  have  reported  rates  as  high  as  3.4 
+                                                     percent.51,52  Nationwide  Inpatient  Sample  data 
+         Preoperative Fasting                        on 35,883 patients undergoing autologous recon-
+         A  Cochrane  review  of  22  randomized  con- struction  have  revealed  a  lower  rate  of  venous 
+      trolled trials has shown that drinking clear fluids 2 thromboembolism  (0.13  percent);  however,  the 
+      hours preoperatively is safe and does not increase rate  of  venous  thromboembolism  was  highest 
+      the  risk  of  regurgitation  or  aspiration.40  Exist- for  TRAM  flap  reconstruction  at  0.26  percent.52 
+      ing  ERAS  guidelines  recommend  a  6-hour  fast Immediate  breast  reconstruction  is  an  indepen-
+      for solid foods and a 2-hour fast for clear liquids dent risk factor for venous thromboembolism.53
+      before  general  anesthesia.41  Recommendations    Patients undergoing mastectomy and immedi-
+      have not been applied to patients at increased risk ate reconstruction meet the criteria for “higher” 
+      of delayed gastric emptying.                   risk  of  venous  thromboembolism  and  may  be 
+
+                                                                                           1059e
+    Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited. 
+
+
+                                                      Plastic and Reconstructive Surgery • May 2017
+
+      considered  “highest”  risk  if  they  are  obese  or a  meta-analysis  of  observational  studies  and  not 
+      elderly,  according  to  the  American  Society  of randomized controlled trials. Aside from this meta-
+      Plastic Surgeons Executive Committee–approved  analysis, there are no other published data to inform 
+      Caprini  Risk  Assessment  Module.54,55  For  this duration of antibiotic use, and further research is 
+      patient  population,  pharmacologic  anticoagula- needed.  Prolonged  use  of  antibiotics  beyond  24 
+ Downloaded  from http://journals.lww.com/plasreconsurg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0 tion  with  or  without  mechanical  methods  (i.e., hours has not been proved beneficial.73–75
+      intermittent  pneumatic  compression)  is  recom-  Chlorhexidine-based  antiseptics  immedi-
+hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI=  on 04/28/2025 mended.55,56  Prophylaxis  should  begin  before ately  before  surgery  decrease  surgical-site  infec-
+      surgery  and  continue  for  at  least  7  to  10  days.57 tions.76,77  In  implant  reconstruction,  bacterial 
+      Extended prophylaxis up to 4 weeks reduces the burden  can  be  reduced  through  antibiotic  irri-
+      risk  of  radiologically  confirmed  venous  throm- gation of the breast pocket, which may decrease 
+      boembolism  following  major  abdominopelvic   capsular  contracture  but  has  not  been  proven 
+      surgery.58 A prospective cohort and two large ret- to  decrease  surgical-site  infections.78  Methicil-
+      rospective  cohorts  on  low-molecular-weight  hep- lin-resistant Staphylococcus aureus  infections  are 
+      arin  did  not  report  increased  bleeding  risk58–60; increasing;  however,  a  Cochrane  review  did  not 
+      however, in breast surgery specifically, some stud- support a switch to glycopeptide antibiotics (i.e., 
+      ies have shown that low-molecular-weight heparin vancomycin).69
+      has  a  higher  bleeding  risk  than  unfractionated 
+      heparin.61,62                                     1. Summary and recommendation: Chlorhexi-
+                                                           dine skin preparation and intravenous anti-
+         1. Summary  and  recommendation:  Patients        biotics  covering  common  skin  organisms 
+           should be assessed for venous thromboem-        should be given within 1 hour of incision.
+           bolism  risk.  Unless  contraindicated,  and 2. Evidence level: Moderate (based on extrap-
+           balanced by the risk of bleeding, patients at   olated data).
+           a higher risk should receive low-molecular-  3. Recommendation grade: Strong.
+           weight  heparin  or  unfractionated  heparin 
+           until  they  are  ambulatory  or  discharged. Preoperative and Intraoperative Prophylaxis 
+           Mechanical methods should be added.       against Postoperative Nausea and Vomiting
+         2. Evidence level: Moderate.                    A  meta-analysis  demonstrated  the  superior-
+         3. Recommendation grade: Strong.            ity of 5-hydroxytryptamine-3 receptor antagonists 
+                                                     over  placebo  in  reducing  postoperative  nausea 
+                                                                                 79
+         Antimicrobial Prophylaxis                   and vomiting in breast surgery.  Steroids reduce 
+         Infection  rates  following  mastectomy  are postoperative nausea and vomiting and pain, and 
+      higher than those expected for clean surgery (i.e., a  combination  of  5-hydroxytryptamine-3  antago-
+                                                                                              80–82
+      3 to 15 percent versus 2 percent).63,64 The risk of nists and steroids is superior to either alone.  
+      infection is further increased with the addition of Neurokinin-1  receptor  antagonists  provide  even 
+      a prosthesis or a flap.65–67 National Surgical Quality further  reduction  in  postoperative  nausea  and 
+                                                     vomiting  compared  with  5-hydroxytryptamine-3, 
+      Improvement Program data on 2899 patients with                               83–88
+      flaps  and  12,163  patients  with  tissue  expanders but must be given preoperatively.
+      have revealed that patient factors such as hyper-
+      tension, body mass index, and smoking increase    1. Summary  and  recommendation:  Women 
+      infection risk after breast reconstruction.29,68     should  receive  preoperative  and  intraop-
+         Prophylactic  antibiotics  reduce  surgical-site  erative multimodal medications to mitigate 
+      infections.69  Antibiotics  against  common  skin    postoperative nausea and vomiting.
+      organisms (i.e., cephalosporins) should be admin- 2. Evidence level: Moderate.
+      istered 1 hour before incision.70,71 The majority of 3. Recommendation grade: Strong (high ben-
+      data support the perioperative use of prophylactic   efit, low harm).
+      antibiotics.64,65,70–72  Despite  the  common  practice 
+      to  use  postoperative  antibiotics  until  drains  are Preoperative and Intraoperative Analgesia
+      removed,  data  from  a  well-conducted  systematic Gabapentin89–91 reduces postoperative analgesic 
+      review have shown that more than 24 hours of anti- requirements and pain in women undergoing mas-
+      biotics appears to be associated with higher rates tectomy. Nonsteroidal antiinflammatory drugs offer 
+      of surgical-site infections in acellular dermal matrix effective  analgesia  given  preoperatively  or  intraop-
+      reconstructions.65 It should be noted that this was eratively, and decrease chronic breast pain without 
+
+      1060e
+    Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited. 
+
+
+      Volume 139, Number 5 • Enhanced Recovery after Reconstruction
+
+      increasing bleeding complications.92,93 Perioperative Preventing Intraoperative hypothermia
+      cyclooxygenase-2  inhibitors  have  a  similar  benefi- Maintaining  a  core  body  temperature  over 
+      cial effect.94 Bupivacaine infiltration in the area of 36°C reduces multiple complications.111 The Sur-
+      planned surgical incision for mastectomy decreases gical Care Improvement Project linked hypother-
+      pain intensity and opiate demand after surgery.95 mia  with  impaired  wound  healing,  prolonged 
+ Downloaded  from http://journals.lww.com/plasreconsurg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0 Adenosine,96  systemic  magnesium,97  venla- hospitalization,  and  three-fold  higher  wound 
+      faxine,98  and  clonidine99  are  effective  analgesics infection rates.112 A systematic review in  multiple 
+hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI=  on 04/28/2025 given preoperatively. Preoperative ketamine does surgery  types  showed  that  warming  decreases 
+      not moderate postoperative pain.100 The majority wound  infection.1  Attention  to  active  thermal 
+      of data were extrapolated from breast surgery, but therapy is required when using intermittent pneu-
+      for longer duration operations such as free tissue matic  compression  devices,  which  move  cooled 
+      transfer reconstructions, the preoperative advan- extremity  blood  to  the  core.113  Preoperative 
+      tage may be diminished; thus, these medications patient-warming  strategies  augment  intraopera-
+      may be best given intraoperatively.            tive  warming  strategies.114,115  Simply  prewarming 
+                                                     the operating room itself is not enough.116
+         1. Summary  and  recommendation:  Women         Forced-air  warming  has  an  excellent  safety 
+           should receive multimodal analgesia to mit- profile and efficacy in a systematic review of mul-
+           igate pain.                               tiple  randomized  controlled  trials.117  Forced  air 
+         2. Evidence level: Moderate (based on extrap- is  superior  to  resistive  underbody  warming.118,119 
+           olated data).                             Circulating  water  garments,120  thermal  mat-
+         3. Recommendation grade: Strong (high ben-  tresses,121–123  and  circulating-water  leg  wraps124 
+           efit, low harm).                          offer some increase in temperature; however, the 
+                                                     safety, low cost, and ease of use of forced-air warm-
+                                                     ing supplant other systems.
+         Standard Anesthetic Protocol
+                                                         Warmed  intravenous  fluid  reduces  hypo-
+         Retrospective data have suggested that the use 
+                                                     thermia  in  short  surgical  procedures,125  but  in 
+      of  regional  anesthesia,  compared  with  general 
+                                                     orthopedic  surgery,  warming  irrigation  fluid  is 
+      anesthesia,  lowers  the  recurrence  of  subsequent 
+                                                     insufficient  to  prevent  hypothermia.126  In  liver 
+      breast cancer,101 potentially through natural killer 
+                                                     transplantation,  humidification  of  inspired  gas 
+      T  cells.102  Similar  early  findings  in  prostate  and 
+                                                     warms  the  patient  effectively.127  Amino  acid  and 
+      colorectal cancer have led to a large prospective, 
+                                                     magnesium infusions reduce shivering.128,129
+      multicenter,  randomized,  controlled  trial  that  is 
+      currently  investigating  this  hypothesis  for  breast 
+                                                        1. Summary  and  recommendation:  Preopera-
+      cancer patients.103–105 The findings from this study, 
+                                                           tive  and  intraoperative  measures,  such  as 
+      when completed, may have a major impact on the 
+                                                           forced  air, to  prevent  hypothermia  should 
+      choice of anesthetic technique.
+                                                           be  instituted.  Temperature  monitoring  is 
+         There  are  three  common  modalities  for 
+                                                           required to ensure the patient’s body tem-
+      maintenance of anesthesia during breast surgery, 
+                                                           perature is maintained above 36°C.
+      including  general  anesthesia  with  total  intrave-
+                                                        2. Evidence level: Moderate (based on extrap-
+      nous  anesthesia,  general  anesthesia  with  a  vola-
+                                                           olated data).
+      tile anesthetic, and regional anesthesia. Regional 
+                                                        3. Recommendation grade: Strong.
+      anesthesia decreases postoperative narcotic use106–
+      108 but does not decrease pain, nausea, sedation, 
+      time  to  ambulation,  or  hospital  stay  duration.107 Perioperative Intravenous Fluid Management
+      General  anesthesia  is  the  most  frequently  used A  randomized  controlled  trial  demonstrated 
+      modality  of  anesthesia  for  breast  surgery;  gen- that a restricted IV fluid regimen decreases com-
+      eral  anesthesia  under  total  intravenous  anesthe- plications in abdominal surgery by 59 percent.130 
+      sia decreases postoperative nausea and vomiting Optimizing  fluid  balance  begins  by  taking  clear 
+      compared with a volatile anesthetic.109,110    fluids  orally  up  to  2  hours  preoperatively. Goal-
+                                                     directed  therapy  (i.e.,  intensive  monitoring  and 
+         1. Summary  and  recommendation:  General   aggressive management of perioperative hemody-
+           anesthesia with total intravenous anesthesia namics) improves length of stay and complication 
+           is recommended.                           rates131–134; however, a recent meta-analysis showed 
+         2. Evidence level: Moderate.                that the benefit of goal-directed therapy was muted 
+         3. Recommendation grade: Strong.            in patients managed in an enhanced recovery after 
+
+                                                                                           1061e
+    Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited. 
+
+
+                                                      Plastic and Reconstructive Surgery • May 2017
+
+      surgery setting.135 Measurement of venous oxygen   Regional  or  local  blocks  minimize  pain 
+      saturation has utility in major surgery, but its use and  sedation.  Continuous  bupivacaine  infu-
+      in breast surgery has not been established.136 Bal- sion  catheters  reduce  opioid  requirements  in 
+      anced  crystalloid  solutions  are  superior  to  0.9% several  studies.164–166  Randomized  controlled 
+      saline for electrolyte balance.137,138         trial  evidence  shows  that  transversus  abdomi-
+ Downloaded  from http://journals.lww.com/plasreconsurg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0 Overresuscitation contributes to cardiopulmo- nis plane blocks decrease abdominal donor-site 
+      nary  events,  wound  infection,  poor  wound  heal- pain  in  flap  patients.106,167  A  single  injection  of 
+hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI=  on 04/28/2025 ing, and increased length of hospital stay.139–141 It liposomal  bupivacaine  lasts  for  several  days, 
+      is especially harmful in microvascular reconstruc- potentially avoiding the need for catheter-based 
+      tion.142–145  Underresuscitation  increases  postop- infusions.168  Randomized  controlled  trial  data 
+      erative microvascular thrombosis.137 Vasopressors on pulse electromagnetic field therapy in TRAM 
+      to maintain blood pressure have been historically flap patients have shown decreases in pain and 
+      avoided  in  flap  patients,  but  have  been  found narcotic use.169
+      to  be  safe  in  normovolemic  patients.146–149  Dex-
+      tran-40,  traditionally  used  to  reduce  the  risk  of 1. Summary and recommendation: Multimodal 
+      microvascular thrombosis, lacks efficacy and has a   postoperative  pain  management  regimens 
+      high complication rate.150                           are opioid-sparing and should be used.
+                                                        2. Evidence level: High.
+         1. Summary  and  recommendation:  Overre-      3. Recommendation grade: Strong.
+           suscitation  or  underresuscitation  of  fluids 
+           should  be  avoided,  and  water  and  elec-  Early Feeding
+           trolyte  balance  should  be  maintained.     An early oral or enteral diet within 24 hours 
+           Goal-directed  therapy  is  a  useful  method of  surgery  is  safe  and  associated  with  improved 
+           to  achieve  these  goals.  Balanced  crystal- wound  healing,  reduced  infection,  and  reduced 
+           loid  solutions  rather  than  saline  is  recom- hospital stay.170 The benefits of early refeeding171 
+           mended.  Vasopressors  are  recommended   need  to  be  weighed  against  the  rare  risk  of  a 
+           to  support  fluid  management  and  do  not potential  urgent  return  to  the  operating  room, 
+           negatively affect free flaps.             whereby a fed patient is at risk for aspiration. The 
+         2. Evidence level: Moderate for all (based on urgent return arises in 2 to 5 percent of patients 
+           extrapolated data).                       who develop a microvascular thrombosis in their 
+         3. Recommendation grade: Strong.            free flap breast reconstruction.172–174 Modern anes-
+                                                     thetic techniques should mitigate the risk of aspi-
+                                                                                    175
+         Postoperative Analgesia                     ration in this uncommon scenario.
+         Postoperative  pain  control  needs  to  be  ade-
+      quate to facilitate early mobilization. Reducing the 1. Summary  and  recommendation:  Patients 
+      contribution  of  opioids  to  the  analgesic  regimen should  be  encouraged  to  take  fluids  and 
+      reduces  postoperative  nausea  and  vomiting  and   food  orally  as  soon  as  possible,  preferably 
+      constipation,  effectively  facilitating  early  mobiliza- within 24 hours after surgery.
+      tion. A meta-analysis of intravenous acetaminophen 2. Evidence level: Moderate (based on extrap-
+      (paracetamol) has shown that it reduces pain in only olated data).
+      37 percent of patients.151 Although acetaminophen 3. Recommendation grade: Strong.
+      alone is less effective than nonsteroidal antiinflam-
+      matory drugs,152 Cochrane data from three random-  Postoperative Flap Monitoring
+      ized  controlled  trials  have  demonstrated  that  the Microvascular thrombosis occurs in the anas-
+      combination is more effective than either alone.153 tomosis of the free flap in 2 to 5 percent of cases 
+         Nonsteroidal  antiinflammatory  drugs  reduce and usually occurs within the first 72 hours.172–174 
+      the  need  for  narcotics  with  minimal  surgical-site Most commonly (60 to 74 percent), a microvas-
+      bleeding  risk  in  multiple  randomized  controlled cular  thrombosis  will  occur  venously.173,176  Sal-
+      trials.154–156 Cyclooxygenase-2 inhibitors reduce the vage  of  a  compromised  free  flap  is  improved 
+      potential for gastrointestinal tract bleeding and sur- with earlier exploration and return of flow176,177; 
+      gical-site bleeding157–159 but can increase the risk of therefore, routine frequent monitoring, includ-
+      stroke or myocardial infarction in patients with isch- ing clinical observation (i.e., color, temperature, 
+      emic heart disease.160 Preoperative or postoperative and capillary refill) and use of devices, is highly 
+      gabapentin reduces narcotic requirements.161–163 warranted.
+
+      1062e
+    Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited. 
+
+
+      Volume 139, Number 5 • Enhanced Recovery after Reconstruction
+
+         Hand-held  Doppler  is  an  extension  of  clinical negative-pressure  wound  therapy  in  conjunction 
+      observation,  as  it  is  noninvasive  and  inexpensive with débridement healed completely.197
+      and has widespread use.178 Frequent monitoring is 
+      required in the first 72 hours and a reasonable mon- 1. Summary  and  recommendation:  For  inci-
+      itoring  protocol  may  include  hourly  monitoring  sional  closure,  conventional  sutures  are 
+ Downloaded  from http://journals.lww.com/plasreconsurg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0 for the first 24 hours, every 2 hours for the next 24 recommended. Complex wounds following 
+      hours, then every 3 to 4 hours for the next 24 hours. skin  necrosis  are  treatable  with  débride-
+hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI=  on 04/28/2025 Implantable  Doppler  monitors  have  excel- ment and negative-pressure wound therapy.
+      lent sensitivity in detecting flap compromise, but 2. Evidence level: High for sutures; moderate 
+      can detach and thus carry a higher false-positive    for negative-pressure wound therapy.
+      rate than clinical observation.179 Studies compar- 3. Recommendation grade: Strong.
+      ing clinical observation with or without implant-
+      able  Doppler  monitors,  are  equivocal  in  terms 
+                             181,182                     Early Mobilization
+      of  improved  flap  salvage.   For  buried  flaps, Early  in-hospital  mobilization  improves  mus-
+      implantable  Doppler  monitoring  offers  the  only       198
+                       178                           cle strength  and reduces pulmonary embolism, 
+      objective measure.  Other methods of monitor-  pneumonia,  and  decubitus  ulcers.  Early  mobi-
+      ing flaps include a venous coupler with an embed- lization  decreases  length  of  hospitalization  and 
+      ded  implantable  Doppler  device,  laser  Doppler improves psychological well-being.199–205 Conversely, 
+      monitoring,  infrared  spectroscopy,  tissue  oxim- prolonged bed rest has been shown to reduce work 
+                          183–185
+      etry, and microdialysis.                       capacity.206  Prolonged  inactivity  combined  with  a 
+                                                     catabolic  state  (i.e.,  postoperative  stress)  exacer-
+         1. Summary and recommendation: Flap moni-   bates strength and lean muscle loss.207
+           toring within the first 72 hours should occur 
+           frequently.  Clinical  evaluation  is  sufficient 1. Summary  and  recommendation:  Patients 
+           for  monitoring,  with  implantable  Doppler    should  be  mobilized  within  the  first  24 
+           monitoring recommended in cases of bur-         hours after surgery.
+           ied flaps.                                   2. Evidence level: Moderate (based on extrap-
+         2. Evidence level: Moderate.                      olated data).
+         3. Recommendation    grade:  Strong  (low      3. Recommendation grade: Strong (low risk).
+           harm).
+                                                         Postdischarge home Support and 
+         Postoperative Wound Management              Physiotherapy
+         Breast  and  abdominal  incisions  following    Early  physical  rehabilitation  improves  physi-
+      breast  reconstruction  are  generally  closed  with cal and emotional recovery after mastectomy and 
+      layered intradermal absorbable sutures.186 Antimi- axillary  dissection.208,209  Postoperative  physical 
+      crobial-coated versus plain sutures do not show a rehabilitation programs in breast cancer patients 
+      significant reduction in surgical-site infections in improve mobility, reduce pain, and improve qual-
+      randomized controlled trials.187,188 Other random- ity of life.210 Randomized controlled trial data on 
+      ized controlled trials evaluating the skin adhesive the effect of early supervised exercise have dem-
+      octyl-2-cyanoacrylate in breast surgery show patient onstrated that exercise leads to quicker recovery, 
+      preference for the adhesive but no objective differ- earlier  mobility,  and  enhanced  patient  comfort, 
+      ence in cosmesis or complications.189–192 A surgical but fails to improve lymphedema.208,211
+      skin closure film has been found to be faster than Qualitative  studies  show  that  visiting  nurses 
+      sutures,  but  with  no  difference  in  complication play an important role in providing physical care 
+      rates.193 An ongoing randomized controlled trial is and  delivering  education  and  psychosocial  sup-
+      evaluating the effect of dressing wear time (1 day port  following  TRAM  flap  reconstruction.212,213 
+      versus 6 days) on surgical-site infections.194 Postdischarge telephone and mobile application 
+         Complex wounds associated with mastectomy   support are “virtual” adjuncts to in-home nursing 
+      flap,  DIEP  flap,  or  abdominal  skin  necrosis are visits and outpatient visits.210,214
+      recognized  complications  of  breast  reconstruc-
+      tion.195,196 Negative-pressure wound therapy is an 1. Summary and recommendation: Early phys-
+      effective  aid  in  wound  management  after  sur-   iotherapy,  supervised  exercise  programs, 
+      gical  débridement,  with  a  systematic  review  of and other supportive care initiatives should 
+      breast wounds showing that 97 percent receiving      be instituted after discharge.
+
+                                                                                           1063e
+    Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited. 
+
+
+                                                      Plastic and Reconstructive Surgery • May 2017
+
+         2. Evidence level: Moderate (based on extrap- is also important and should be assessed through 
+           olated data).                             validated outcome measures, such as the Quality 
+         3. Recommendation    grade:  Strong  (low   of Recovery-15 scale.222
+           harm).                                        These recommendations will require revision 
+                                                     as new evidence emerges. Each recommendation 
+ Downloaded  from http://journals.lww.com/plasreconsurg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0 alone is unlikely to change the recovery process, 
+                                                     but bundled together and applied with good sense 
+hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI=  on 04/28/2025 CONCLUSIONS
+                                                     and care, these recommendations may transform 
+         The literature surrounding breast reconstruc- the recovery experience for patients and for the 
+      tion has evolved from establishing oncologic safety health care system.218
+      and optimal timing, refining surgical techniques, 
+      and  improving  cosmesis,  to  the  point  where  we               Claire Temple-Oberle, M.D., M.Sc.
+      now use patient-reported outcome measures215,216                             1331 29 Street NW
+                                                                       Calgary, Alberta T2N 4N2, Canada 
+      to  evaluate  what  matters  to  patients.  Patient-                  claire.temple-oberle@ahs.ca
+      reported  outcome  measures  show  that  despite 
+      our  optimization  of  procedures,  recovery  is  sub-
+                                      15
+      optimal across reconstruction types.                           REFERENCES
+         An  enhanced  recovery  experience  has  been  1. Arsalani-Zadeh  R,  ElFadl  D,  Yassin  N,  MacFie  J.  Evidence-
+      realized in major abdominal surgery through the   based  review  of  enhancing  postoperative  recovery  after 
+      introduction of ERAS guidelines.217,218 Most of the breast surgery. Br J Surg. 2011;98:181–196.
+      recommendations in the colorectal guideline are  2. Lassen K, Soop M, Nygren J, et al.; Enhanced Recovery After 
+      directly relevant and can be extrapolated to breast Surgery (ERAS) Group. Consensus review of optimal peri-
+                                                        operative  care  in  colorectal  surgery:  Enhanced  Recovery 
+      reconstruction. Practitioners now avoid long fast- After Surgery (ERAS) Group recommendations. Arch Surg. 
+      ing  periods,  attend  to  patient  temperature,  and 2009;144:961–969.
+      use  multimodal  pain  and  postoperative  nausea  3. Greco  M,  Capretti  G,  Beretta  L,  Gemma  M,  Pecorelli  N, 
+      and vomiting prevention strategies.219,220        Braga M. Enhanced recovery program in colorectal surgery: 
+         These  18  recommendations  represent  a  syn- A meta-analysis of randomized controlled trials. World J Surg. 
+                                                        2014;38:1531–1541.
+      thesis of the current body of literature by an inter-  4. Gustafsson UO, Hausel J, Thorell A, Ljungqvist O, Soop M, 
+      national  group  of  experts  and  can  be  applied Nygren  J;  Enhanced  Recovery  After  Surgery  Study  Group. 
+      to  most  patients,  with  the  goal  of  providing  a Adherence  to  the  enhanced  recovery  after  surgery  proto-
+      rapid  recovery  with  low  complication  rates  and col and outcomes after colorectal cancer surgery. Arch Surg. 
+      decreased care time. As with any practice guide-  2011;146:571–577.
+                                                      5. Gustafsson  UO,  Oppelstrup  H,  Thorell  A,  Nygren  J, 
+      line, clinicians should use independent judgment  Ljungqvist A. Adherence to the ERAS-protocol is associated 
+      of  an  individual  patient’s  clinical  circumstances with 5-year survival after colorectal cancer surgery: A retro-
+      to  direct  care.  This  consensus  guideline  is  not spective cohort study. World J Surg. 2016;40:1741–1747.
+      intended to be leveraged as a rationale for fund-  6. Batdorf NJ, Lemaine V, Lovely JK, et al. Enhanced recovery 
+      ing bodies to restrict payment for care based on  after surgery in microvascular breast reconstruction. J Plast 
+                                                        Reconstr Aesthet Surg. 2015;68:395–402.
+      hospital length of stay. Rather, patient safety must  7. Centre  for  Evidence-Based  Medicine.  Oxford  Centre  for 
+      be  considered  first  and  these  practices  should Evidence-based  Medicine:  Levels  of  Evidence  (March  2009). 
+      be implemented in a measured, thoughtful, and     Available  at:  http://www.cebm.net/oxford-centre-evidence-
+      studied manner.                                   based-medicine-levels-evidence-march-2009/. Accessed January 
+         To effectively change practice, guidelines must 2, 2015.
+                                                      8. Guyatt  GH,  Oxman  AD,  Kunz  R,  et  al.;  GRADE  Working 
+      be supported by strong data. Many of these recom- Group.  Going  from  evidence  to  recommendations. BMJ 
+      mendations can be strengthened with data from     2008;336:1049–1051.
+      patients undergoing breast reconstruction in the  9. Kiecolt-Glaser  JK,  Page  GG,  Marucha  PT,  MacCallum  RC, 
+      setting of an ERAS protocol. For women under-     Glaser  R.  Psychological  influences  on  surgical  recovery: 
+      going  implant-based  breast  reconstruction,  the Perspectives  from  psychoneuroimmunology. Am Psychol. 
+                                                        1998;53:1209–1218.
+      recently demonstrated benefits of an ERAS proto-  10. Halaszynski TM, Juda R, Silverman DG. Optimizing postop-
+      col include reduced length of stay and better qual- erative outcomes with efficient preoperative assessment and 
+      ity of recovery, with no differences in complication management. Crit Care Med. 2004;32(Suppl):S76–S86.
+      rates or emergency room visits.221 Minimizing care  11. Wolf L. The information needs of women who have under-
+      time and complications is the goal for this group gone breast reconstruction: Part II. Information giving and 
+                                                        content of information. Eur J Oncol Nurs. 2004;8:315–324.
+      of  women  and  can  be  measured  through  audit  12. Lam  A,  Secord  S,  Butler  K,  et  al.  A  breast  reconstruction 
+      of  infection  rates,  deep  venous  thrombosis,  and needs assessment: How does self-efficacy affect information 
+      other outcomes; however, the recovery experience  access and preferences? Can J Plast Surg. 2012;20:37–42.
+
+      1064e
+    Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited. 
+
+
+        Volume 139, Number 5 • Enhanced Recovery after Reconstruction
+
+         13. Zhong  T, Hu  J,  Bagher  S,  et  al.  Decision  regret  following  30. Mennie  JC,  Mohanna  PN,  O’Donoghue  JM,  Rainsbury  R, 
+           breast  reconstruction:  The  role  of  self-efficacy  and  satis- Cromwell  DA.  Donor-site  hernia  repair  in  abdominal  flap 
+           faction  with  information  in  the  preoperative  period. Plast breast  reconstruction:  A  population-based  cohort  study  of 
+           Reconstr Surg. 2013;132:724e–734e.                           7,929 patients. Plast Reconstr Surg. 2015;136:1–9.
+         14. Ho AL, Klassen AF, Cano S, Scott AM, Pusic AL. Optimizing  31. Qin  C,  Vaca  E,  Lovecchio  F,  Ver  Halen  JP,  Hansen  NM, 
+           patient-centered care in breast reconstruction: The impor-   Kim  JY.  Differential  impact  of  non-insulin-dependent  dia-
+ Downloaded  from http://journals.lww.com/plasreconsurg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0 tance  of  preoperative  information  and  patient-physician betes  mellitus  and  insulin-dependent  diabetes  mellitus 
+           communication. Plast Reconstr Surg. 2013;132:212e–220e.      on  breast  reconstruction  outcomes. Breast Cancer Res Treat. 
+
+hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI=  on 04/28/2025  15. Temple-Oberle C, Ayeni O, Webb C, Bettger-Hahn M, Ayeni 2014;146:429–438.
+           O,  Mychailyshyn  N.  Shared  decision-making:  Applying  a  32. Endara  M,  Masden  D,  Goldstein  J,  Gondek  S,  Steinberg  J, 
+           person-centered approach to tailored breast reconstruction   Attinger  C.  The  role  of  chronic  and  perioperative  glucose 
+           information  provides  high  satisfaction  across  a  variety  of management in high-risk surgical closures: A case for tighter 
+           breast reconstruction options. J Surg Oncol. 2014;110:796–800. glycemic control. Plast Reconstr Surg. 2013;132:996–1004.
+         16. Heller L, Parker PA, Youssef A, Miller MJ. Interactive digital  33. Nguyen TJ, Costa MA, Vidar EN, et al. Effect of immediate 
+           education  aid  in  breast  reconstruction. Plast Reconstr Surg. reconstruction  on  postmastectomy  surgical  site  infection. 
+           2008;122:717–724.                                            Ann Surg. 2012;256:326–333.
+         17. Causarano  N,  Platt  J,  Baxter  NN,  et  al.  Pre-consultation  34. Ohkuma  R,  Mohan  R,  Baltodano  PA,  et  al.  Abdominally 
+           educational  group  intervention  to  improve  shared  deci- based free flap planning in breast reconstruction with com-
+           sion-making  for  postmastectomy  breast  reconstruction:    puted  tomographic  angiography:  Systematic  review  and 
+           A  pilot  randomized  controlled  trial. Support Care Cancer meta-analysis. Plast Reconstr Surg. 2014;133:483–494.
+           2015;23:1365–1375.                                        35. Symonette CJ, Gan BS. Computed tomography-based preop-
+         18. Chang DW, Reece GP, Wang B, et al. Effect of smoking on    erative vascular imaging in autologous breast reconstruction: 
+           complications in patients undergoing free TRAM flap breast   A Canadian perspective. Can J Plast Surg. 2013;21:11–14.
+           reconstruction. Plast Reconstr Surg. 2000;105:2374–2380.  36. Phillips  TJ,  Stella  DL,  Rozen  WM,  Ashton  M,  Taylor  GI. 
+         19. Padubidri AN, Yetman R, Browne E, et al. Complications of  Abdominal  wall  CT  angiography:  A  detailed  account  of  a 
+           postmastectomy breast reconstructions in smokers, ex-smok-   newly established preoperative imaging technique. Radiology 
+           ers, and nonsmokers. Plast Reconstr Surg. 2001;107:342–349;  2008;249:32–44.
+           discussion 350.                                           37. Kagen AC, Hossain R, Dayan E, et al. Modern perforator flap 
+                                                                        imaging  with  high-resolution  blood  pool  MR  angiography. 
+         20. Sorensen LT, Karlsmark T, Gottrup F. Abstinence from smok-
+                                                                        Radiographics 2015;35:901–915.
+           ing reduces incisional wound infection: A randomized con-
+                                                                     38. Scott JR, Liu D, Said H, Neligan PC, Mathes DW. Computed 
+           trolled trial. Ann Surg. 2003;238:1–5.
+                                                                        tomographic  angiography  in  planning  abdomen-based 
+         21. Fischer JP, Wes AM, Tuggle CT, Serletti JM, Wu LC. Risk anal-
+                                                                        microsurgical breast reconstruction: A comparison with color 
+           ysis and stratification of surgical morbidity after immediate 
+                                                                        duplex ultrasound. Plast Reconstr Surg. 2010;125:446–453.
+           breast reconstruction. J Am Coll Surg. 2013;217:780–787.
+                                                                     39. Newman  TM,  Vasile  J,  Levine  JL,  et  al.  Perforator  flap 
+         22. Møller AM, Villebro N, Pedersen T, Tønnesen H. Effect of 
+                                                                        magnetic  resonance  angiography  for  reconstructive  breast 
+           preoperative smoking intervention on postoperative compli-
+                                                                        surgery:  A  review  of  25  deep  inferior  epigastric  and  glu-
+           cations: A randomised clinical trial. Lancet 2002;359:114–117.
+                                                                        teal  perforator  artery  flap  patients. J Magn Reson Imaging 
+         23. Thomsen T, Villebro N, Møller AM. Interventions for pre-
+                                                                        2010;31:1176–1184.
+           operative  smoking  cessation. Cochrane Database Syst Rev.  40. Brady M, Kinn S, Stuart P. Preoperative fasting for adults to 
+           2010;7:CD002294.                                             prevent  perioperative  complications. Cochrane Database Syst 
+         24. Fischer  JP,  Nelson  JA,  Kovach  SJ,  Serletti  JM,  Wu  LC, Rev. 2003;4:CD004423.
+           Kanchwala S. Impact of obesity on outcomes in breast recon-  41. Feldheiser A, Aziz O, Baldini G, et al. Enhanced Recovery 
+           struction: Analysis of 15,937 patients from the ACS-NSQIP    After  Surgery  (ERAS)  for  gastrointestinal  surgery,  part 
+           datasets. J Am Coll Surg. 2013;217:656–664.                  2:  Consensus  statement  for  anaesthesia  practice. Acta 
+         25. Schaverien MV, Mcculley SJ. Effect of obesity on outcomes  Anaesthesiol Scand. 2016;60:289–334.
+           of  free  autologous  breast  reconstruction:  A  meta-analysis.  42. Bilku DK, Dennison AR, Hall TC, Metcalfe MS, Garcea G. 
+           Microsurgery 2014;34:484–497.                                Role  of  preoperative  carbohydrate  loading:  A  systematic 
+         26. Fischer JP, Nelson JA, Sieber B, et al. Free tissue transfer in review. Ann R Coll Surg Engl. 2014;96:15–22.
+           the obese patient: An outcome and cost analysis in 1258 con-  43. Hausel J, Nygren J, Lagerkranser M, et al. A carbohydrate-
+           secutive  abdominally  based  reconstructions. Plast Reconstr rich drink reduces preoperative discomfort in elective sur-
+           Surg. 2013;131:681e–692e.                                    gery patients. Anesth Analg. 2001;93:1344–1350.
+         27. Lee KT, Mun GH. Effects of obesity on postoperative compli-  44. Nygren J, Soop M, Thorell A, Efendic S, Nair KS, Ljungqvist 
+           cations after breast reconstruction using free muscle-sparing O.  Preoperative  oral  carbohydrate  administration  reduces 
+           transverse  rectus  abdominis  myocutaneous,  deep  inferior postoperative insulin resistance. Clin Nutr. 1998;17:65–71.
+           epigastric  perforator,  and  superficial  inferior  epigastric  45. Crowe PJ, Dennison A, Royle GT. The effect of pre-operative 
+           artery flap: A systematic review and meta-analysis. Ann Plast glucose loading on postoperative nitrogen metabolism. Br J 
+           Surg. 2016;76:576–584.                                       Surg. 1984;71:635–637.
+         28. Nwaogu  I,  Yan  Y,  Margenthaler  JA,  Myckatyn  TM.  Venous  46. Yuill KA, Richardson RA, Davidson HI, Garden OJ, Parks RW. 
+           thromboembolism  after  breast  reconstruction  in  patients The administration of an oral carbohydrate-containing fluid 
+           undergoing  breast  surgery:  An  American  College  of      prior  to  major  elective  upper-gastrointestinal  surgery  pre-
+           Surgeons NSQIP analysis. J Am Coll Surg. 2015;220:886–893.   serves  skeletal  muscle  mass  postoperatively:  A  randomised 
+         29. Chung  CU,  Wink  JD,  Nelson  JA,  Fischer  JP,  Serletti  JM, clinical trial. Clin Nutr. 2005;24:32–37.
+           Kanchwala SK. Surgical site infections after free flap breast  47. Henriksen  MG,  Hessov  I,  Dela  F,  Hansen  HV,  Haraldsted 
+           reconstruction: An analysis of 2,899 patients from the ACS-  V, Rodt SA. Effects of preoperative oral carbohydrates and 
+           NSQIP datasets. J Reconstr Microsurg. 2015;31:434–441.       peptides on postoperative endocrine response, mobilization, 
+
+                                                                                                                     1065e
+     Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited. 
+
+
+                                                                     Plastic and Reconstructive Surgery • May 2017
+
+           nutrition  and  muscle  function  in  abdominal  surgery. Acta  66. Sajid MS, Hutson K, Akhter N, Kalra L, Rapisarda IF, Bonomi 
+           Anaesthesiol Scand. 2003;47:191–199.                         R. An updated meta-analysis on the effectiveness of preoper-
+         48. Noblett  SE,  Watson  DS,  Huong  H,  Davison  B,  Hainsworth ative prophylactic antibiotics in patients undergoing breast 
+           PJ,  Horgan  AF. Pre-operative  oral  carbohydrate  loading  in surgical procedures. Breast J. 2012;18:312–317.
+           colorectal surgery: A randomized controlled trial. Colorectal  67. Olsen  MA,  Nickel  KB,  Fox  IK,  et  al.  Incidence  of  surgical 
+           Dis. 2006;8:563–569.                                         site infection following mastectomy with and without imme-
+ Downloaded  from http://journals.lww.com/plasreconsurg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0  49. Nygren J, Thorell A, Ljungqvist O. Preoperative oral carbo- diate reconstruction using private insurer claims data. Infect 
+           hydrate nutrition: An update. Curr Opin Clin Nutr Metab Care Control Hosp Epidemiol. 2015;36:907–914.
+
+hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI=  on 04/28/2025 2001;4:255–259.  68. Winocour  S,  Martinez-Jorge  J,  Habermann  E,  Thomsen 
+         50. Gustafsson UO, Nygren J, Thorell A, et al. Pre-operative car- K,  Lemaine  V. Early  surgical  site  infection  following  tissue 
+           bohydrate loading may be used in type 2 diabetes patients.   expander  breast  reconstruction  with  or  without  acellular 
+           Acta Anaesthesiol Scand. 2008;52:946–951.                    dermal  matrix:  National  benchmarking  using  National 
+         51. Lemaine V, McCarthy C, Kaplan K, et al. Venous thrombo-    Surgical  Quality  Improvement  Program. Arch Plast Surg. 
+           embolism  following  microsurgical  breast  reconstruction:  2015;42:194–200.
+           An objective analysis in 225 consecutive patients using low-  69. Jones  DJ,  Bunn  F,  Bell-Syer  SV.  Prophylactic  antibiotics  to 
+           molecular-weight  heparin  prophylaxis. Plast Reconstr Surg. prevent  surgical  site  infection  after  breast  cancer  surgery. 
+           2011;127:1399–1406.                                          Cochrane Database Syst Rev. 2014;3:CD005360.
+         52. Masoomi  H,  Paydar  KZ,  Wirth  GA,  Aly  A,  Kobayashi  MR,  70. Huang N, Liu M, Yu P, et al. Antibiotic prophylaxis in pros-
+           Evans GR. Predictive risk factors of venous thromboembo-     thesis-based  mammoplasty:  A  systematic  review. Int J Surg. 
+           lism in autologous breast reconstruction surgery. Ann Plast  2015;15:31–37.
+           Surg. 2014;72:30–33.                                      71. Hardwicke JT, Bechar J, Skillman JM. Are systemic antibiotics 
+         53. Tran BH, Nguyen TJ, Hwang BH, et al. Risk factors associ-  indicated in aesthetic breast surgery? A systematic review of 
+           ated  with  venous  thromboembolism  in  49,028  mastectomy  the literature. Plast Reconstr Surg. 2013;131:1395–1403.
+           patients. Breast 2013;22:444–448.                         72. Cabaluna  ND,  Uy  GB,  Galicia  RM,  Cortez  SC,  Yray  MD, 
+         54. Murphy  RX  Jr,  Alderman  A,  Gutowski  K,  et  al.  Evidence- Buckley  BS.  A  randomized,  double-blinded  placebo-con-
+           based practices for thromboembolism prevention: Summary      trolled clinical trial of the routine use of preoperative anti-
+           of the ASPS Venous Thromboembolism Task Force Report.        biotic  prophylaxis  in  modified  radical  mastectomy. World J 
+           Plast Reconstr Surg. 2012;130:168e–175e.                     Surg. 2013;37:59–66.
+         55. Caprini JA. Thrombosis risk assessment as a guide to quality  73. Collins  JB,  Verheyden  CN,  Mahabir  RC.  Core  mea-
+           patient care. Dis Mon. 2005;51:70–78.                        sures:  Implications  for  plastic  surgery. Plast Reconstr Surg. 
+         56. Patiar S, Kirwan CC, McDowell G, Bundred NJ, McCollum      2013;131:1266–1271.
+           CN, Byrne GJ. Prevention of venous thromboembolism in sur-  74. Thomas R, Alvino P, Cortino GR, et al. Long-acting versus 
+           gical patients with breast cancer. Br J Surg. 2007;94:412–420. short-acting cephalosporins for preoperative prophylaxis in 
+         57. Rasmussen  MS,  Jørgensen  LN,  Wille-Jørgensen  P,  et  al. breast  surgery:  A  randomized  double-blind  trial  involving 
+           Prolonged  thromboprophylaxis  with  low  molecular  weight  1,766 patients. Chemotherapy 1999;45:217–223.
+           heparin for abdominal or pelvic surgery. Cochrane Database  75. Drury KE, Lanier ST, Khavanin N, et al. Impact of postop-
+           Syst Rev. 2009;1:CD004318.                                   erative antibiotic prophylaxis duration on surgical site infec-
+         58. Kim EK, Eom JS, Ahn SH, Son BH, Lee TJ. The efficacy of    tions  in  autologous  breast  reconstruction. Ann Plast Surg. 
+           prophylactic  low-molecular-weight  heparin  to  prevent  pul- 2016;76:174–179.
+           monary thromboembolism in immediate breast reconstruc-    76. Craft RO, Damjanovic B, Colwell AS. Evidence-based proto-
+           tion using the TRAM flap.Plast  Reconstr Surg. 2009;123:9–12. col for infection control in immediate implant-based breast 
+         59. Pannucci CJ, Wachtman CF, Dreszer G, et al. The effect of  reconstruction. Ann Plast Surg. 2012;69:446–450.
+           postoperative enoxaparin on risk for reoperative hematoma.  77. Dumville JC, McFarlane E, Edwards P, et al. Preoperative skin 
+           Plast Reconstr Surg. 2012;129:160–168.                       antiseptics  for  preventing  surgical  wound  infections  after 
+         60. Liao  EC,  Taghinia  AH,  Nguyen  LP,  Yueh  JH,  May  JW  Jr, clean surgery. Cochrane Database Syst Rev. 2015;4:CD003949.
+           Orgill DP. Incidence of hematoma complication with hepa-  78. Drinane JJ, Bergman RS, Folkers BL, Kortes MJ. Revisiting 
+           rin venous thrombosis prophylaxis after TRAM flap breast     triple antibiotic irrigation of breast implant pockets: A pla-
+           reconstruction. Plast Reconstr Surg. 2008;121:1101–1107.     cebo-controlled  single  practice  cohort  study. Plast Reconstr 
+         61. Lapid  O,  Pietersen  L,  van  der  Horst  CM.  Reoperation  for Surg Glob Open 2013;1:e55.
+           haematoma after breast reduction with preoperative admin-  79. Singhal AK, Kannan S, Gota VS. 5HT3 antagonists for pro-
+           istration of low-molecular-weight heparin: Experience in 720 phylaxis of postoperative nausea and vomiting in breast sur-
+           patients. J Plast Reconstr Aesthet Surg. 2012;65:1513–1517.  gery: A meta-analysis. J Postgrad Med. 2012;58:23–31.
+         62. Hardy RG, Williams L, Dixon JM. Use of enoxaparin results  80. Olanders KJ, Lundgren GA, Johansson AM. Betamethasone 
+           in  more  haemorrhagic  complications  after  breast  surgery in prevention of postoperative nausea and vomiting follow-
+           than unfractionated heparin. Br J Surg. 2008;95:834–836.     ing breast surgery. J Clin Anesth. 2014;26:461–465.
+         63. Cruse PJ, Foord R. The epidemiology of wound infection: A  81. Gómez-Hernández  J,  Orozco-Alatorre  AL,  Domínguez-
+           10-year prospective study of 62,939 wounds. Surg Clin North  Contreras  M,  et  al.  Preoperative  dexamethasone  reduces 
+           Am. 1980;60:27–40.                                           postoperative pain, nausea and vomiting following mastec-
+         64. Sanguinetti A, Rosato L, Cirocchi R, et al. Antibiotic prophy- tomy for breast cancer. BMC Cancer 2010;10:692.
+           laxis in breast surgery: Preliminary results of a multicenter  82. Gupta  P,  Jain  S.  Postoperative  nausea  and  vomiting  pro-
+           randomized study on 1400 cases (in Italian). Ann Ital Chir.  phylaxis:  A  comparative  study  of  ondansetron,  granisetron 
+           2009;80:275–279.                                             and  granisetron  and  dexamethasone  combination  after 
+         65. Phillips BT, Bishawi M, Dagum AB, Bui DT, Khan SU. A sys-  modified radical mastectomy. Saudi J Anaesth. 2014;8(Suppl 
+           tematic  review  of  infection  rates  and  associated  antibiotic 1):S67–S71.
+           duration  in  acellular  dermal  matrix  breast  reconstruction.  83. Diemunsch  P, Gan  TJ,  Philip  BK,  et  al.;  Aprepitant-PONV 
+           Eplasty 2014;14:e42.                                         Protocol  091  International  Study  Group.  Single-dose 
+
+        1066e
+     Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited. 
+
+
+        Volume 139, Number 5 • Enhanced Recovery after Reconstruction
+
+           aprepitant vs ondansetron for the prevention of postopera-  99. Imai Y, Mammoto T, Murakami K, et al. The effects of pre-
+           tive nausea and vomiting: A randomized, double-blind phase    anesthetic oral clonidine on total requirement of propofol 
+           III trial in patients undergoing open abdominal surgery. Br J for general anesthesia. J Clin Anesth. 1998;10:660–665.
+           Anaesth. 2007;99:202–211.                                 100. Adam  F,  Libier  M,  Oszustowicz  T,  Lefebvre  D,  Beal  J, 
+         84. Habib  AS,  Gan  TJ.  CON:  Postoperative  nausea  and  vomit- Meynadier J. Preoperative small-dose ketamine has no pre-
+           ing database research: Limitations and opportunities. Anesth  emptive analgesic effect in patients undergoing total mas-
+ Downloaded  from http://journals.lww.com/plasreconsurg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0 Analg. 2010;110:412–414. tectomy. Anesth Analg. 1999;89:444–447.
+
+         85. Jung WS, Kim YB, Park HY, Choi WJ, Yang HS. Oral admin-  101. Exadaktylos AK, Buggy DJ, Moriarty DC, Mascha E, Sessler 
+
+hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI=  on 04/28/2025 istration  of  aprepitant  to  prevent  postoperative  nausea  in DI.  Can  anesthetic  technique  for  primary  breast  cancer 
+           highly susceptible patients after gynecological laparoscopy.  surgery  affect  recurrence  or  metastasis? Anesthesiology 
+           J Anesth. 2013;27:396–401.                                    2006;105:660–664.
+         86. Sinha  AC,  Singh  PM,  Williams  NW,  Ochroch  EA,  Goudra  102. Buckley A, McQuaid S, Johnson P, Buggy DJ. Effect of anaes-
+           BG.  Aprepitant’s  prophylactic  efficacy  in  decreasing  post- thetic technique on the natural killer cell anti-tumour activ-
+           operative  nausea  and  vomiting  in  morbidly  obese  patients ity of serum from women undergoing breast cancer surgery: 
+           undergoing bariatric surgery. Obes Surg. 2014;24:225–231.     A pilot study. Br J Anaesth. 2014;113(Suppl 1):i56–i62.
+         87. Vallejo  MC,  Phelps  AL,  Ibinson  JW,  et  al.  Aprepitant  plus  103. Biki B, Mascha E, Moriarty DC, Fitzpatrick JM, Sessler DI, 
+           ondansetron  compared  with  ondansetron  alone  in  reduc-   Buggy DJ. Anesthetic technique for radical prostatectomy 
+           ing  postoperative  nausea  and  vomiting  in  ambulatory     surgery affects cancer recurrence: A retrospective analysis. 
+           patients  undergoing  plastic  surgery. Plast Reconstr Surg.  Anesthesiology 2008;109:180–187.
+           2012;129:519–526.                                         104. Gupta A, Björnsson A, Fredriksson M, Hallböök O, Eintrei 
+         88. Habib AS, Keifer JC, Borel CO, White WD, Gan TJ. A compari- C.  Reduction  in  mortality  after  epidural  anaesthesia  and 
+           son of the combination of aprepitant and dexamethasone ver-   analgesia  in  patients  undergoing  rectal  but  not  colonic 
+           sus the combination of ondansetron and dexamethasone for      cancer  surgery:  A  retrospective  analysis  of  data  from  655 
+           the prevention of postoperative nausea and vomiting in patients patients in central Sweden. Br J Anaesth. 2011;107:164–170.
+           undergoing craniotomy. Anesth Analg. 2011;112:813–818.    105. The  Cleveland  Clinic.  Regional  Anesthesia  and  Breast 
+         89. Grover  VK,  Mathew  PJ,  Yaddanapudi  S,  Sehgal  S.  A  single Cancer  Recurrence.  ClinicalTrials.gov identification  num-
+           dose  of  preoperative  gabapentin  for  pain  reduction  and ber NCT00418457. Available at: https://clinicaltrials.gov/
+           requirement  of  morphine  after  total  mastectomy  and  axil- ct2/show/NCT00418457. Accessed April 3, 2015.
+           lary  dissection:  Randomized  placebo-controlled  double-  106. Glissmeyer  C,  Johnson  W,  Sherman  B,  Glissmeyer  M, 
+           blind trial. J Postgrad Med. 2009;55:257–260.                 Garreau J, Johnson N. Effect of paravertebral nerve blocks 
+         90. Dirks  J,  Fredensborg  BB,  Christensen  D,  Fomsgaard  JS, on narcotic use after mastectomy with reconstruction. Am J 
+           Flyger H, Dahl JB. A randomized study of the effects of sin-  Surg. 2015;209:881–883.
+           gle-dose  gabapentin  versus  placebo  on  postoperative  pain  107. Zhong  T,  Ojha  M,  Bagher  S,  et  al.  Transversus  abdomi-
+           and morphine consumption after mastectomy. Anesthesiology     nis  plane  block  reduces  morphine  consumption  in 
+           2002;97:560–564.                                              the  early  postoperative  period  following  microsurgical 
+         91. Kim SY, Song JW, Park B, Park S, An YJ, Shim YH. Pregabalin abdominal  tissue  breast  reconstruction:  A  double-blind, 
+           reduces  post-operative  pain  after  mastectomy:  A  double- placebo-controlled,  randomized  trial. Plast Reconstr Surg. 
+           blind, randomized, placebo-controlled study. Acta Anaesthesiol 2014;134:870–878.
+           Scand. 2011;55:290–296.                                   108. Karmakar MK, Samy W, Li JW, et al. Thoracic paravertebral 
+         92. Priya V, Divatia JV, Sareen R, Upadhye S. Efficacy of intrave- block  and  its  effects  on  chronic  pain  and  health-related 
+           nous  ketoprofen  for  pre-emptive  analgesia. J Postgrad Med. quality of life after modified radical mastectomy. Reg Anesth 
+           2002;48:109–112.                                              Pain Med. 2014;39:289–298.
+         93. Sun M, Liao Q, Wen L, Yan X, Zhang F, Ouyang W. Effect  109. Hong JY, Kang YS, Kil HK. Anaesthesia for day case excisional 
+           of perioperative intravenous flurbiprofen axetil on chronic   breast  biopsy:  Propofol-remifentanil  compared  with  sevo-
+           postmastectomy pain. Zhong Nan Da Xue Xue Bao Yi Xue Ban      flurane-nitrous oxide.Eur  J Anaesthesiol. 2008;25:460–467.
+           2013;38:653–660.                                          110. Chen  HP,  Hsu  YH,  Hua  KC,  Lin  CC,  Lo  YF,  Yu  HP. 
+         94. Riest G, Peters J, Weiss M, et al. Does perioperative adminis- Comparison of sevoflurane versus propofol under auditory 
+           tration of rofecoxib improve analgesia after spine, breast and evoked potential monitoring in female patients undergoing 
+           orthopaedic surgery? Eur J Anaesthesiol. 2006;23:219–226.     breast surgery. Biomed J. 2013;36:125–131.
+         95. Zielinski  J,  Jaworski  R,  Smietanska  I,  Irga  N,  Wujtewicz  M,  111. National Institute for Health and Care Excellence. Clinical 
+           Jaskiewicz J. A randomized, double-blind, placebo-controlled  practice  guideline:  The  management  of  inadvertent  peri-
+           trial  of  preemptive  analgesia  with  bupivacaine  in  patients operative  hypothermia  in  adults.  National  Collaborating 
+           undergoing mastectomy for carcinoma of the breast. Med Sci    Centre for Nursing and Supportive care commissioned by 
+           Monit. 2011;17:CR589–CR597.                                   National Institute for Health and Care Excellence (NICE): 
+         96. Segerdahl M, Ekblom A, Sandelin K, Wickman M, Sollevi A.    April  2008.  Available  at:  http://guidance.nice.org.uk/
+           Peroperative adenosine infusion reduces the requirements      CG65. Accessed April 3, 2015.
+           for  isoflurane  and  postoperative  analgesics. Anesth Analg.  112. Kurz A, Sessler DI, Lenhardt R. Perioperative normother-
+           1995;80:1145–1149.                                            mia  to  reduce  the  incidence  of  surgical-wound  infection 
+         97. De Oliveira GS, Bialek J, Fitzgerald P, Kim JY, McCarthy RJ. and shorten hospitalization. Study of Wound Infection and 
+           Systemic  magnesium  to  improve  quality  of  post-surgical  Temperature Group. N Engl J Med. 1996;334:1209–1215.
+           recovery  in  outpatient  segmental  mastectomy:  A  random-  113. Huh J, Cho YB, Yang MK, Yoo YK, Kim DK. What influence 
+           ized,  double-blind,  placebo-controlled  trial. Magnes Res.  does  intermittent  pneumatic  compression  of  the  lower 
+           2013;26:156–164.                                              limbs  intraoperatively  have  on  core  hypothermia? Surg 
+         98. Amr YM, Yousef AA. Evaluation of efficacy of the periopera- Endosc. 2013;27:2087–2093.
+           tive administration of Venlafaxine or gabapentin on acute and  114. Roberson  MC,  Dieckmann  LS,  Rodriguez  RE,  Austin 
+           chronic postmastectomy pain. Clin J Pain 2010;26:381–385.     PN.  A  review  of  the  evidence  for  active  preoperative 
+
+                                                                                                                     1067e
+     Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited. 
+
+
+                                                                     Plastic and Reconstructive Surgery • May 2017
+
+            warming of adults undergoing general anesthesia. AANA J.     randomized  assessor-blinded  multicenter  trial. Ann Surg. 
+            2013;81:351–356.                                             2003;238:641–648.
+         115. Brandes IF, Müller C, Perl T, Russo SG, Bauer M, Bräuer A.  131. Varadhan  KK,  Lobo  DN.  A  meta-analysis  of  randomised 
+            Efficacy of a novel warming blanket: Prospective random-     controlled trials of intravenous fluid therapy in major elec-
+            ized trial (in German). Anaesthesist 2013;62:137–142.        tive  open  abdominal  surgery:  Getting  the  balance  right. 
+         116. Deren  ME,  Machan  JT,  DiGiovanni  CW,  Ehrlich  MG,     Proc Nutr Soc. 2010;69:488–498.
+ Downloaded  from http://journals.lww.com/plasreconsurg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0 Gillerman RG. Prewarming operating rooms for prevention  132. Taniguchi  H,  Sasaki  T, Fujita  H,  et  al.  Preoperative  fluid 
+            of  intraoperative  hypothermia  during  total  knee  and  hip and electrolyte management with oral rehydration therapy. 
+
+hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI=  on 04/28/2025 arthroplasties. J Arthroplasty 2011;26:1380–1386. J Anesth. 2009;23:222–229.
+         117. Munday  J,  Hines  S,  Wallace  K,  Chang  AM,  Gibbons  K,  133. Abbas SM, Hill AG. Systematic review of the literature for the 
+            Yates  P. A  systematic  review  of  the  effectiveness  of  warm- use of oesophageal Doppler monitor for fluid replacement 
+            ing interventions for women undergoing cesarean section.     in major abdominal surgery. Anaesthesia 2008;63:44–51.
+            Worldviews Evid Based Nurs. 2014;11:383–393.             134. Funk D, Bohn J, Mutch W, Hayakawa T, Buchel EW. Goal-
+         118. Röder  G,  Sessler  DI,  Roth  G,  Schopper  C,  Mascha  EJ, directed  fluid  therapy  for  microvascular  free  flap recon-
+            Plattner  O.  Intra-operative  rewarming  with  Hot  Dog     struction  following  mastectomy:  A  pilot  study. Plast Surg 
+             resistive  heating  and  forced-air  heating:  A  trial  of  lower- (Oakv.) 2015;23:231–234.
+            body warming. Anaesthesia 2011;66:667–674.               135. Rollins KE, Lobo DN. Intraoperative goal-directed fluid ther-
+         119. Engelen S, Himpe D, Borms S, et al. An evaluation of under- apy in elective major abdominal surgery: A meta-analysis of 
+            body forced-air and resistive heating during hypothermic,    randomized controlled trials. Ann Surg. 2016;263:465–476.
+            on-pump cardiac surgery. Anaesthesia 2011;66:104–110.    136. Pearse  R,  Dawson  D,  Fawcett  J,  Rhodes  A,  Grounds  RM, 
+         120. Poveda Vde B, Martinez EZ, Galvão CM. Active cutaneous     Bennett  ED.  Changes  in  central  venous  saturation  after 
+            warming systems to prevent intraoperative hypothermia: A     major  surgery,  and  association  with  outcome. Crit Care 
+            systematic review. Rev Lat Am Enfermagem. 2012;20:183–191.   2005;9:R694–R699.
+         121. Moysés  AM,  dos  Santos  Trettene  A,  Navarro  LH,  Ayres  137. Nelson JA, Fischer JP, Grover R, et al. Intraoperative per-
+            JA.  Hypothermia  prevention  during  surgery:  Comparison   fusion  management  impacts  postoperative  outcomes:  An 
+            between  thermal  mattress  and  thermal  blanket  (in       analysis of 682 autologous breast reconstruction patients. J 
+            Portuguese). Rev Esc Enferm USP 2014;48:228–235.             Plast Reconstr Aesthet Surg. 2015;68:175–183.
+         122. Egan C, Bernstein E, Reddy D, et al. A randomized com-  138. Soni  N.  British  Consensus  Guidelines  on  Intravenous 
+            parison  of  intraoperative  PerfecTemp  and  forced-air     Fluid  Therapy  for  Adult  Surgical  Patients  (GIFTASUP): 
+            warming  during  open  abdominal  surgery. Anesth Analg.     Cassandra’s view. Anaesthesia 2009;64:235–238.
+            2011;113:1076–1081.                                      139. Giglio MT, Marucci M, Testini M, Brienza N. Goal-directed 
+         123. Pu Y, Cen G, Sun J, et al. Warming with an underbody warm- haemodynamic therapy and gastrointestinal complications 
+            ing system reduces intraoperative hypothermia in patients    in major surgery: A meta-analysis of randomized controlled 
+            undergoing  laparoscopic  gastrointestinal  surgery:  A  ran- trials. Br J Anaesth. 2009;103:637–646.
+            domized controlled study. Int J Nurs Stud. 2014;51:181–189.  140. Lobo DN, Bostock KA, Neal KR, Perkins AC, Rowlands BJ, 
+         124. Hasegawa K, Negishi C, Nakagawa F, Ozaki M. Core tem-      Allison SP. Effect of salt and water balance on recovery of 
+            peratures  during  major  abdominal  surgery  in  patients   gastrointestinal function after elective colonic resection: A 
+            warmed  with  new  circulating-water  garment,  forced-air   randomised controlled trial. Lancet 2002;359:1812–1818.
+            warming, or carbon-fiber resistive-heating system. J Anesth.  141. Nisanevich V, Felsenstein I, Almogy G, Weissman C, Einav 
+            2012;26:168–173.                                             S,  Matot  I.  Effect  of  intraoperative  fluid  management 
+         125. Andrzejowski JC, Turnbull D, Nandakumar A, Gowthaman       on  outcome  after  intraabdominal  surgery. Anesthesiology 
+            S,  Eapen  G.  A  randomised  single  blinded  study  of  the 2005;103:25–32.
+            administration of pre-warmed fluid vs active fluid warming  142. Zhong  T, Neinstein  R,  Massey  C,  et  al.  Intravenous  fluid 
+            on  the  incidence  of  peri-operative  hypothermia  in  short infusion  rate  in  microsurgical  breast  reconstruction: 
+            surgical procedures. Anaesthesia 2010;65:942–945.            Important lessons learned from 354 free flaps.Plast  Reconstr 
+         126. Oh JH, Kim JY, Chung SW, et al. Warmed irrigation fluid    Surg. 2011;128:1153–1160.
+            does  not  decrease  perioperative  hypothermia  during  143. Booi DI. Perioperative fluid overload increases anastomosis 
+            arthroscopic shoulder surgery. Arthroscopy 2014;30:159–164.  thrombosis  in  the  free  TRAM  flap  used  for  breast  recon-
+         127. Han  SB,  Gwak  MS,  Choi  SJ,  et  al.  Effect  of  active  airway struction. Eur J Plast Surg. 2011;34:81–86.
+            warming on body core temperature during adult liver trans-  144. Franklin J, Yoo J, Matthews TW, et al. Morbidity associated 
+            plantation. Transplant Proc. 2013;45:251–254.                with  perioperative  fluid  management  in  free  flap  recon-
+         128. Inoue  S,  Shinjo  T,  Kawaguchi  M,  Nakajima  Y,  Furuya  H. struction of the head and neck. Western Section Triological 
+            Amino  acid  infusions  started  after  development  of  intra- Society Meeting. Laryngoscope 2002;112:765–766.
+            operative  core  hypothermia  do  not  affect  rewarming  but  145. Clark JR, McCluskey SA, Hall F, et al. Predictors of morbid-
+            reduce  the  incidence  of  postoperative  shivering  during ity following free flap reconstruction for cancer of the head 
+            major  abdominal  surgery:  A  randomized  trial. J Anesth.  and neck. Head Neck 2007;29:1090–1101.
+            2011;25:850–854.                                         146. Chen C, Nguyen MD, Bar-Meir E, et al. Effects of vasopres-
+         129. Gozdemir  M,  Usta  B,  Demircioglu  RI,  Muslu  B,  Sert  H, sor administration on the outcomes of microsurgical breast 
+            Karatas OF. Magnesium sulfate infusion prevents shivering    reconstruction. Ann Plast Surg. 2010;65:28–31.
+            during transurethral prostatectomy with spinal anesthesia:  147. Kelly DA, Reynolds M, Crantford C, Pestana IA. Impact of 
+            A  randomized,  double-blinded,  controlled  study. J Clin   intraoperative  vasopressor  use  in  free  tissue  transfer  for 
+            Anesth. 2010;22:184–189.                                     head, neck, and extremity reconstruction. Ann Plast Surg. 
+         130. Brandstrup  B,  Tønnesen  H,  Beier-Holgersen  R,  et  al.; 2014;72:S135–S138.
+            Danish Study Group on Perioperative Fluid Therapy. Effects  148. Harris L, Goldstein D, Hofer S, Gilbert R. Impact of vaso-
+            of intravenous fluid restriction on postoperative complica-  pressors on outcomes in head and neck free tissue transfer. 
+            tions: Comparison of two perioperative fluid regimens. A     Microsurgery 2012;32:15–19.
+
+        1068e
+     Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited. 
+
+
+        Volume 139, Number 5 • Enhanced Recovery after Reconstruction
+
+         149. Suominen S, Svartling N, Silvasti M, Niemi T, Kuokkanen  166. Boehmler JH IV, Venturi ML, Nahabedian MY. Decreased 
+            H,  Asko-Seljavaara  S.  The  effect  of  intravenous  dopa- narcotic use with an implantable local anesthetic catheter 
+            mine  and  dobutamine  on  blood  circulation  during  a     after deep inferior epigastric perforator flap breast recon-
+            microvascular  TRAM  flap  operation. Ann Plast Surg.        struction. Ann Plast Surg. 2009;62:618–620.
+            2004;53:425–431.                                         167. Zhong T, Ojha M, Bagher S, et al. Abstract 16: The analgesic 
+         150. Disa  JJ,  Polvora  VP,  Pusic  AL,  Singh  B,  Cordeiro  PG. efficacy of the transversus abdominis plane (TAP) block on 
+ Downloaded  from http://journals.lww.com/plasreconsurg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0 Dextran-related complications in head and neck microsur- the abdominal donor site following autologous tissue breast 
+            gery: Do the benefits outweigh the risks? A prospective ran- reconstruction:  A  double-blind,  placebo-controlled  ran-
+
+hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI=  on 04/28/2025 domized analysis. Plast Reconstr Surg. 2003;112:1534–1539. domized trial. Plast Reconstr Surg. 2014;133(Suppl):25–26.
+         151. McNicol  ED,  Tzortzopoulou  A,  Cepeda  MS,  et  al.  Single-  168. Dasta J, Ramamoorthy S, Patou G, Sinatra R. Bupivacaine 
+            dose intravenous paracetamol or propacetamol for preven-     liposome injectable suspension compared with bupivacaine 
+            tion or treatment of postoperative pain: A systematic review HCl for the reduction of opioid burden in the postsurgical 
+            and meta-analysis. Br J Anaesth. 2011;106:764–775.           setting. Curr Med Res Opin. 2012;28:1609–1615.
+         152. Hein  A,  Norlander  C,  Blom  L,  Jakobsson  J.  Is  pain  pro-  169. Rohde CH, Taylor EM, Alonso A, Ascherman JA, Hardy KL, 
+            phylaxis in minor gynaecological surgery of clinical value?  Pilla AA. Pulsed electromagnetic fields reduce postopera-
+            A  double-blind  placebo  controlled  study  of  paracetamol tive interleukin-1β, pain, and inflammation: A double-blind, 
+            1 g  versus  lornoxicam  8 mg  given  orally. Ambul Surg.    placebo-controlled study in TRAM flap breast reconstruc-
+            2001;9:91–94.                                                tion patients. Plast Reconstr Surg. 2015;135:808e–817e.
+         153. Derry CJ, Derry S, Moore RA. Single dose oral ibuprofen  170. Lambert E, Carey S. Practice guideline recommendations 
+            plus paracetamol (acetaminophen) for acute postoperative     on perioperative fasting: A systematic review. JPEN J Parenter 
+            pain. Cochrane Database Syst Rev. 2013;6:CD010210.           Enteral Nutr. 2016;40:1158–1165.
+         154. Hall  PE,  Derry  S,  Moore  RA,  et  al.  Single  dose  oral  lor-  171. Lewis  SJ,  Egger  M,  Sylvester  PA,  Thomas  S.  Early  enteral 
+            noxicam  for  acute  postoperative  pain  in  adults. Cochrane feeding versus “nil by mouth” after gastrointestinal surgery: 
+            Database Syst Rev. 2009;4:CD007441.                          Systematic review and meta-analysis of controlled trials. BMJ 
+         155. Barden J, Derry S, McQuay HJ, et al. Single dose oral keto- 2001;323:773–776.
+            profen and dexketoprofen for acute postoperative pain in  172. Bui  DT,  Cordeiro  PG,  Hu  QY,  Disa  JJ,  Pusic  A,  Mehrara 
+            adults. Cochrane Database Syst Rev. 2009;4:CD007355.         BJ.  Free  flap  reexploration:  Indications,  treatment, 
+         156. Legeby M, Sandelin K, Wickman M, Olofsson C. Analgesic     and  outcomes  in  1193  free  flaps. Plast Reconstr Surg. 
+            efficacy of diclofenac in combination with morphine and      2007;119:2092–2100.
+            paracetamol after mastectomy and immediate breast recon-  173. Chang  EI,  Carlsen  BT, Festekjian  JH,  Da  Lio  AL,  Crisera 
+            struction. Acta Anaesthesiol Scand. 2005;49:1360–1366.       CA.  Salvage  rates  of  compromised  free  flap  breast  recon-
+         157. Sharma S, Chang DW, Koutz C, et al. Incidence of hema-     struction  after  recurrent  thrombosis. Ann Plast Surg. 
+            toma  associated  with  ketorolac  after  TRAM  flap  breast 2013;71:68–71.
+            reconstruction. Plast Reconstr Surg. 2001;107:352–355.   174. Masoomi H, Clark EG, Paydar KZ, et al. Predictive risk fac-
+         158. Gobble RM, Hoang HL, Kachniarz B, Orgill DP. Ketorolac     tors  of  free  flap  thrombosis  in  breast  reconstruction- sur
+            does  not  increase  perioperative  bleeding:  A  meta-anal- gery. Microsurgery 2014;34:589–594.
+            ysis  of  randomized  controlled  trials. Plast Reconstr Surg.  175. Stollings  JL,  Diedrich  DA,  Oyen  LJ,  Brown  DR.  Rapid-
+            2014;133:741–755.                                            sequence intubation: A review of the process and consid-
+         159. Jarupongprapa S, Ussavasodhi P, Katchamart W. Comparison   erations  when  choosing  medications. Ann Pharmacother. 
+            of gastrointestinal adverse effects between cyclooxygenase-2 2014;48:62–76.
+            inhibitors  and  non-selective,  non-steroidal  anti-inflamma-  176. Nahabedian MY, Momen B, Manson PN. Factors associated 
+            tory drugs plus proton pump inhibitors: A systematic review  with anastomotic failure after microvascular reconstruction 
+            and meta-analysis. J Gastroenterol. 2013;48:830–838.         of the breast. Plast Reconstr Surg. 2004;114:74–82.
+         160. Padol IT, Hunt RH. Association of myocardial infarctions  177. Mirzabeigi MN, Wang T, Kovach SJ, Taylor JA, Serletti JM, 
+            with  COX-2  inhibition  may  be  related  to  immunomodu-   Wu LC. Free flap take-back following postoperative micro-
+            lation  towards  a  Th1  response  resulting  in  atheromatous vascular compromise: Predicting salvage versus failure. Plast 
+            plaque  instability:  An  evidence-based  interpretation.    Reconstr Surg. 2012;130:579–589.
+            Rheumatology (Oxford) 2010;49:837–843.                   178. Disa JJ, Cordeiro PG, Hidalgo DA. Efficacy of conventional 
+         161. Seib RK, Paul JE. Preoperative gabapentin for postoperative monitoring  techniques  in  free  tissue  transfer:  An  11-year 
+            analgesia: A meta-analysis. Can J Anaesth. 2006;53:461–469.  experience  in  750  consecutive  cases. Plast Reconstr Surg. 
+         162. Engelman  E,  Cateloy  F.  Efficacy  and  safety  of  periopera- 1999;104:97–101.
+            tive  pregabalin  for  post-operative  pain:  A  meta-analysis  179. Schmulder A, Gur E, Zaretski A. Eight-year experience of the 
+            of  randomized-controlled  trials. Acta Anaesthesiol Scand.  Cook-Swartz Doppler in free-flap operations: Microsurgical 
+            2011;55:927–943.                                             and reexploration results with regard to a wide spectrum of 
+         163. Zhang  J,  Ho  KY,  Wang  Y.  Efficacy  of  pregabalin  in surgeries. Microsurgery 2011;31:1–6.
+            acute  postoperative  pain:  A  meta-analysis. Br J Anaesth.  180. Rozen WM, Chubb D, Whitaker IS, Acosta R. The efficacy 
+            2011;106:454–462.                                            of postoperative monitoring: A single surgeon comparison 
+         164. Heller L, Kowalski AM, Wei C, Butler CE. Prospective, ran- of clinical monitoring and the implantable Doppler probe 
+            domized, double-blind trial of local anesthetic infusion and in 547 consecutive free flaps.Microsurgery  2010;30:105–110.
+            intravenous  narcotic  patient-controlled  anesthesia  pump  181. Whitaker  IS,  Rozen  WM,  Chubb  D,  et  al.  Postoperative 
+            for pain management after free TRAM flap breast recon-       monitoring  of  free  flaps  in  autologous  breast  reconstruc-
+            struction. Plast Reconstr Surg. 2008;122:1010–1018.          tion: A multicenter comparison of 398 flaps using clinical 
+         165. Morrison JE Jr, Jacobs VR. Reduction or elimination of post- monitoring,  microdialysis,  and  the  implantable  Doppler 
+            operative  pain  medication  after  mastectomy  through  use probe. J Reconstr Microsurg. 2010;26:409–416.
+            of a temporarily placed local anesthetic pump vs. control  182. Smit  JM,  Werker  PM,  Liss  AG,  et  al.  Introduction  of  the 
+            group. Zentralbl Gynakol. 2003;125:17–22.                    implantable Doppler system did not lead to an increased 
+
+                                                                                                                     1069e
+     Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited. 
+
+
+                                                                     Plastic and Reconstructive Surgery • May 2017
+
+            salvage rate of compromised flaps: A multivariate analysis.  200. Blom RL, van Heijl M, Bemelman WA, et al. Initial experi-
+            Plast Reconstr Surg. 2010;125:1710–1717.                     ences of an enhanced recovery protocol in esophageal sur-
+         183. Um GT, Chang J, Louie O, et al. Implantable Cook-Swartz    gery. World J Surg. 2013;37:2372–2378.
+            Doppler  probe  versus  Synovis  Flow  Coupler  for  the  post-  201. Jones C, Kelliher L, Dickinson M, et al. Randomized clinical 
+            operative  monitoring  of  free  flap  breast  reconstruction. J trial on enhanced recovery versus standard care following 
+            Plast Reconstr Aesthet Surg. 2014;67:960–966.                open liver resection. Br J Surg. 2013;100:1015–1024.
+ Downloaded  from http://journals.lww.com/plasreconsurg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0  184. Pelletier A, Tseng C, Agarwal S, Park J, Song D. Cost analysis  202. van Dam RM, Hendry PO, Coolsen MM, et al.; Enhanced 
+            of near-infrared spectroscopy tissue oximetry for monitor-   Recovery  After  Surgery  (ERAS)  Group.  Initial  expe-
+
+hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI=  on 04/28/2025 ing autologous free tissue breast reconstruction. J Reconstr rience  with  a  multimodal  enhanced  recovery  pro-
+            Microsurg. 2011;27:487–494.                                  gramme  in  patients  undergoing  liver  resection. Br J Surg. 
+         185. Lin SJ, Nguyen MD, Chen C, et al. Tissue oximetry moni-    2008;95:969–975.
+            toring in microsurgical breast reconstruction decreases flap  203. Ramírez  JM,  Blasco  JA,  Roig  JV,  et  al.;  Spanish  working 
+            loss  and  improves  rate  of  flap  salvage. Plast Reconstr Surg. group on fast track surgery. Enhanced recovery in colorec-
+            2011;127:1080–1085.                                          tal surgery: A multicentre study. BMC Surg. 2011;11:9.
+         186. Duteille  F, Rouif  M,  Alfandari  B,  et  al.  Reduction  of  skin  204. Vlug MS, Bartels SA, Wind J, Ubbink DT, Hollmann MW, 
+            closure time without loss of healing quality: A multicenter  Bemelman  WA;  Collaborative  LAFA  Study  Group.  Which 
+            prospective  study  in  100  patients  comparing  the  use  of fast track elements predict early recovery after colon cancer 
+            Insorb  absorbable  staples  with  absorbable  thread  for  der- surgery? Colorectal Dis. 2012;14:1001–1008.
+            mal suture. Surg Innov. 2013;20:70–73.                   205. Bartolo M, Zucchella C, Pace A, et al. Early rehabilitation 
+         187. Williams  N,  Sweetland  H,  Goyal  S,  Ivins  N,  Leaper  DJ. after  surgery  improves  functional  outcome  in  inpatients 
+            Randomized  trial  of  antimicrobial-coated  sutures  to  pre- with brain tumours. J Neurooncol. 2012;107:537–544.
+            vent surgical site infection after breast cancer surgery. Surg  206. Convertino  VA.  Cardiovascular  consequences  of  bed  rest: 
+            Infect (Larchmt.) 2011;12:469–474.                           Effect  on  maximal  oxygen  uptake. Med Sci Sports Exerc. 
+         188. Zhang ZT, Zhang HW, Fang XD, et al. Cosmetic outcome       1997;29:191–196.
+            and surgical site infection rates of antibacterial absorbable  207. Paddon-Jones  D,  Sheffield-Moore  M,  Cree  MG,  et al.
+            (Polyglactin 910) suture compared to Chinese silk suture     Atrophy  and  impaired  muscle  protein  synthesis  during 
+            in breast cancer surgery: A randomized pilot research. Chin  prolonged  inactivity  and  stress. J Clin Endocrinol Metab. 
+                        2011;124:719–724.
+            Med J (Engl.)                                                2006;91:4836–4841.
+         189. Nipshagen MD, Hage JJ, Beekman WH. Use of 2-octyl-cya-
+                                                                     208. Testa A, Iannace C, Di Libero L. Strengths of early physical 
+            noacrylate skin adhesive (Dermabond) for wound closure 
+                                                                         rehabilitation programs in surgical breast cancer patients: 
+            following reduction mammaplasty: A prospective, random-
+                                                                         Results of a randomized controlled study. Eur J Phys Rehabil 
+            ized intervention study. Plast Reconstr Surg. 2008;122:10–18.
+                                                                         Med. 2014;50:275–284.
+         190. Gennari R, Rotmensz N, Ballardini B, et al. A prospective, 
+                                                                     209. Scaffidi M, Vulpiani MC, Vetrano M, et al. Early rehabilita-
+            randomized,  controlled  clinical  trial  of  tissue  adhesive 
+                                                                         tion reduces the onset of complications in the upper limb 
+            (2-octylcyanoacrylate)  versus  standard  wound  closure  in 
+                                                                         following  breast  cancer  surgery. Eur J Phys Rehabil Med. 
+            breast surgery. Surgery 2004;136:593–599.
+                                                                         2012;48:601–611.
+         191. Blondeel  PN,  Richter  D,  Stoff  A,  Exner  K,  Jernbeck  J, 
+                                                                     210. Davidge  KM,  Brown  M,  Morgan  P,  Semple  JL.  Processes 
+            Ramakrishnan  V. Evaluation  of  a  new  skin  closure  device 
+                                                                         of care in autogenous breast reconstruction with pedicled 
+            in surgical incisions associated with breast procedures. Ann 
+            Plast Surg. 2014;73:631–637.                                 TRAM  flaps:  Expediting  postoperative  discharge  in an
+         192. Richter D, Stoff A, Ramakrishnan V, Exner K, Jernbeck J,   ambulatory setting. Plast Reconstr Surg. 2013;132:339e–344e.
+            Blondeel  PN.  A  comparison  of  a  new  skin  closure  device  211. Cho  HS,  Davis  GC,  Paek  JE,  et  al.  A  randomised  trial  of 
+            and intradermal sutures in the closure of full-thickness sur- nursing interventions supporting recovery of the postmas-
+            gical incisions. Plast Reconstr Surg. 2012;130:843–850.      tectomy patient. J Clin Nurs. 2013;22:919–929.
+         193. Kerrigan CL, Homa K. Evaluation of a new wound closure  212. Hill O, White K. Exploring women’s experiences of TRAM 
+            device for linear surgical incisions: 3M Steri-Strip S Surgical flap breast reconstruction after mastectomy for breast can-
+            Skin Closure versus subcuticular closure. Plast Reconstr Surg. cer. Oncol Nurs Forum 2008;35:81–88.
+            2010;125:186–194.                                        213. Holtzmann J, Timm H. The experiences of and the nursing 
+         194. Veiga DF, Veiga-Filho J, Damasceno CA, et al. Dressing wear care for breast cancer patients undergoing immediate breast 
+            time after breast reconstruction: Study protocol for a ran-  reconstruction. Eur J Cancer Care (Engl.) 2005;14:310–318.
+            domized controlled trial. Trials 2013;14:58.             214. Armstrong  KA,  Semple  JL,  Coyte  PC.  Replacing  ambula-
+         195. Nahabedian  MY.  Achieving  ideal  donor  site  aesthet-   tory surgical follow-up visits with mobile app home moni-
+            ics  with  autologous  breast  reconstruction. Gland Surg.   toring: Modeling cost-effective scenarios. J Med Internet Res. 
+            2015;4:145–153.                                              2014;16:e213.
+         196. Kim JY, Davila AA, Persing S, et al. A meta-analysis of human  215. Temple-Oberle CF, Cook EF, Bettger-Hahn M, Mychailyshyn 
+            acellular  dermis  and  submuscular  tissue  expander  breast N,  Naeem  H,  Macdermid  J.  Development  of  a  breast 
+            reconstruction. Plast Reconstr Surg. 2012;129:28–41.         reconstruction  satisfaction  questionnaire  (BRECON-31): 
+         197. Kostaras EK, Tansarli GS, Falagas ME. Use of negative-pres- Principal components analysis and clinimetric properties. 
+            sure wound therapy in breast tissues: Evaluation of the lit- J Surg Oncol. 2012;106:799–806.
+            erature. Surg Infect (Larchmt.) 2014;15:679–685.         216. Pusic AL, Klassen AF, Scott AM, Klok JA, Cordeiro PG, Cano 
+         198. Henriksen  MG,  Jensen  MB,  Hansen  HV,  Jespersen  TW,   SJ. Development of a new patient-reported outcome mea-
+            Hessov  I.  Enforced  mobilization,  early  oral  feeding,  and sure for breast surgery: The BREAST-Q. Plast Reconstr Surg. 
+            balanced analgesia improve convalescence after colorectal    2009;124:345–353.
+            surgery. Nutrition 2002;18:147–152.                      217. Varadhan KK, Neal KR, Dejong CH, Fearon KC, Ljungqvist 
+         199. Brower  RG.  Consequences  of  bed  rest. Crit Care Med.   O, Lobo DN. The enhanced recovery after surgery (ERAS) 
+            2009;37(Suppl):S422–S428.                                    pathway  for  patients  undergoing  major  elective  open 
+
+        1070e
+     Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited. 
+
+
+        Volume 139, Number 5 • Enhanced Recovery after Reconstruction
+
+            colorectal  surgery:  A  meta-analysis  of  randomized  con-  220. Nygren  J,  Thacker  J,  Carli  F,  et  al.;  Enhanced  Recovery 
+            trolled trials. Clin Nutr. 2010;29:434–440.                  After Surgery Society. Guidelines for perioperative care in 
+         218. Ren  L,  Zhu  D,  Wei  Y,  et  al.  Enhanced  Recovery  After elective  rectal/pelvic  surgery:  Enhanced  Recovery  After 
+            Surgery (ERAS) program attenuates stress and accelerates     Surgery  (ERAS)  Society  recommendations. Clin Nutr. 
+            recovery  in  patients  after  radical  resection  for  colorectal 2012;31:801–816.
+            cancer: A prospective randomized controlled trial. World J  221. Dumestre D, Webb C, Temple-Oberle C. Improved recovery 
+ Downloaded  from http://journals.lww.com/plasreconsurg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0 Surg. 2012;36:407–414. experience achieved for women undergoing implant-based 
+
+         219. Gustafsson  UO,  Scott  MJ,  Schwenk  W,  et  al.;  Enhanced breast  reconstruction  using  an  Enhanced  Recovery  After 
+
+hCywCX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI=  on 04/28/2025 Recovery  After  Surgery  Society.  Guidelines  for  periopera- Surgery (ERAS) model. Plast Reconstr Surg. 2017;139:550–559.
+            tive  care  in  elective  colonic  surgery:  Enhanced  Recovery  222. Stark PA, Myles PS, Burke JA. Development and psychomet-
+            After Surgery (ERAS) Society recommendations. Clin Nutr.     ric evaluation of a postoperative quality of recovery score: 
+            2012;31:783–800.                                             The QoR-15. Anesthesiology 2013;118:1332–1340.
+
+
+                                                                                                                     1071e
+     Copyright © 2017 American Society of Plastic Surgeons. Unauthorized reproduction of this article is prohibited. 
+
+
+
