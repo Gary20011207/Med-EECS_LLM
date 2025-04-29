@@ -26,5 +26,35 @@
             </div>
         {% endfor %}
     </div>
+    <div class="todo-list">
+        <h3>To-Do List</h3>
+        <ul>
+            {% for item in todo_list %}
+                <li style="margin-bottom: 10px;">
+                    {{ item.task }}
+                    {% if not item.completed %}
+                        <form method="POST" action="/admin/complete_todo/{{ user.id }}/{{ item.id }}" style="display:inline;">
+                            <button type="submit">Complete</button>
+                        </form>
+                    {% else %}
+                        <span> (Completed)</span>
+                    {% endif %}
+                    {% if item.completed %}
+                        <form method="POST" action="/admin/uncomplete_todo/{{ user.id }}/{{ item.id }}" style="display:inline;">
+                            <button type="submit">Uncomplete</button>
+                        </form>
+                    {% endif %}
+                    <form method="POST" action="/admin/delete_todo/{{ user.id }}/{{ item.id }}" style="display:inline;">
+                        <button type="submit">Delete</button>
+                    </form>
+                </li>
+            {% endfor %}
+        </ul>
+        <h4>Add a New Task</h4>
+        <form method="POST" action="/admin/add_todo/{{ user.id }}">
+            <input type="text" name="task" placeholder="New task..." required style="width: 80%;">
+            <button type="submit">Add</button>
+        </form>
+    </div>
 </body>
 </html>
