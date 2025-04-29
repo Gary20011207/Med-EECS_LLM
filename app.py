@@ -32,15 +32,33 @@ def admin_dashboard():
         conn.close()
         return abort(403)  # Forbidden
 
-    chats = conn.execute('''
-        SELECT users.username, chat_history.sender, chat_history.message, chat_history.timestamp
-        FROM chat_history
-        JOIN users ON users.id = chat_history.user_id
-        ORDER BY chat_history.timestamp ASC
-    ''').fetchall()
-
+    users = conn.execute("SELECT id, username FROM users WHERE is_admin != 1").fetchall()
     conn.close()
-    return render_template("admin.html", chats=chats)
+    return render_template("admin.html", users=users)
+
+@app.route("/admin/user/<int:user_id>")
+def view_user_details(user_id):
+    if "user_id" not in session:
+        return redirect(url_for("login"))
+
+    conn = get_db_connection()
+    admin_user = conn.execute("SELECT * FROM users WHERE id = ?", (session["user_id"],)).fetchone()
+
+    if not admin_user or admin_user["is_admin"] != 1:
+        conn.close()
+        return abort(403)  # Forbidden
+
+    user = conn.execute("SELECT username, dob, surgery_type, current_expert FROM users WHERE id = ?", (user_id,)).fetchone()
+    chat_history = conn.execute(
+        "SELECT sender, message, timestamp FROM chat_history WHERE user_id = ? ORDER BY timestamp ASC",
+        (user_id,)
+    ).fetchall()
+    conn.close()
+
+    if not user:
+        return abort(404)  # User not found
+
+    return render_template("user_details.html", user=user, chat_history=chat_history)
 
 # User registration
 @app.route("/register", methods=["GET", "POST"])
@@ -61,6 +79,28 @@ def register():
             return "Username already exists!"
     return render_template("register.html")
 
+# User profile
+@app.route("/profile", methods=["GET", "POST"])
+def profile():
+    if "user_id" not in session:
+        return redirect(url_for("login"))
+
+    conn = get_db_connection()
+    user = conn.execute("SELECT * FROM users WHERE id = ?", (session["user_id"],)).fetchone()
+
+    if request.method == "POST":
+        dob = request.form["dob"]
+        surgery_type = request.form["surgery_type"]
+
+        conn.execute("UPDATE users SET dob = ?, surgery_type = ? WHERE id = ?",
+                     (dob, surgery_type, session["user_id"]))
+        conn.commit()
+        conn.close()
+        return redirect(url_for("chat"))
+
+    conn.close()
+    return render_template("profile.html", user=user)
+
 # User login
 @app.route("/login", methods=["GET", "POST"])
 def login():
@@ -75,7 +115,11 @@ def login():
         if user and check_password_hash(user["password"], password):
             session["user_id"] = user["id"]
             session["username"] = user["username"]
-            return redirect(url_for("chat"))
+            session["is_admin"] = user["is_admin"]
+            if user["is_admin"] == 1:
+                return redirect(url_for("admin_dashboard"))
+            else:
+                return redirect(url_for("chat"))
         else:
             return "Invalid username or password!"
     return render_template("login.html")
@@ -148,6 +192,43 @@ def chatbot_response(user_input):
          return "Goodbye! Have a nice day!"
      else:
          return "I'm just a simple bot, but I'm learning!"
+     
+# Functions for user data from database
+def get_all_users():
+    conn = get_db_connection()
+    users = conn.execute("SELECT * FROM users").fetchall()
+    conn.close()
+    return users
+def get_user_by_username(username):
+    conn = get_db_connection()
+    user = conn.execute("SELECT * FROM users WHERE username = ?", (username,)).fetchone()
+    conn.close()
+    return user
+def get_user_by_id(user_id):
+    conn = get_db_connection()
+    user = conn.execute("SELECT * FROM users WHERE id = ?", (user_id,)).fetchone()
+    conn.close()
+    return user
+def get_chat_history(user_id):
+    conn = get_db_connection()
+    chat_history = conn.execute("SELECT * FROM chat_history WHERE user_id = ?", (user_id,)).fetchall()
+    conn.close()
+    return chat_history
+def get_dob(user_id):
+    conn = get_db_connection()
+    dob = conn.execute("SELECT dob FROM users WHERE id = ?", (user_id,)).fetchone()
+    conn.close()
+    return dob
+def get_surgery_type(user_id):
+    conn = get_db_connection()
+    surgery_type = conn.execute("SELECT surgery_type FROM users WHERE id = ?", (user_id,)).fetchone()
+    conn.close()
+    return surgery_type
+def get_current_expert(user_id): # Default (0), 營養師(1)、護理(2)、復健科(3)、麻醉科(4)、手術醫師(5)
+    conn = get_db_connection()
+    current_expert = conn.execute("SELECT current_expert FROM users WHERE id = ?", (user_id,)).fetchone()
+    conn.close()
+    return current_expert
 
 if __name__ == "__main__":
     # Initialize the database if it doesn't exist
