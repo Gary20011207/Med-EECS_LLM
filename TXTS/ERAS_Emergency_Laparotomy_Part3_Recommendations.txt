@@ -1,0 +1,61 @@
+1. Organization of surgical services for delivery of emergency general surgery:
+Every country has a different health system structure, payment system, and geography which can either facilitate or pose barriers to optimal delivery of care. Implementing best practice will require great change across most health systems. Strong consideration should be given to establishment of surgical and perioperative care teams with expertise dedicated to the care of emergency general surgery patients to optimize outcomes.
+Level of Evidence: Low. Recommendation Grade: Strong.
+
+
+2. Experience of Surgeon and Anesthesiologist:
+Perioperative care for patients undergoing emergency general surgery and specifically EL should be allocated to surgeons, anesthesiologists and intensivists with expertise that matches the needs of the patient. Strong consideration should be given as to how such resources are made available 24 h a day.
+Level of Evidence: High. Recommendation Grade: Strong.
+
+
+3. Postoperative Levels of Care:
+In an ideal health system, all patients would be admitted to ICU to have a high level of monitoring. A pragmatic approach may be required for a risk score threshold triggering admission based on local availability of ICU beds. Patients who cannot be admitted to a critical care bed require proactive and ongoing observation, and local protocols should be developed for this situation.
+Level of Evidence: Moderate. Recommendation Grade: Strong.
+
+
+4. Ongoing monitoring and management of ongoing physiological derangement, early detection of complications and avoidance of failure to rescue:
+Local protocols should be developed to implement regular monitoring, including use of a physiological track and trigger system to alert to deterioration and complication development, to promote early intervention and prevent failure to rescue.
+Level of Evidence: High. Recommendation Grade: Strong.
+
+
+5. Comprehensive Proactive Care of the Older Surgical Patient:
+Patients over 65 years of age should be assessed, and co-managed, as early as possible postoperatively by a physician with expertise in the care of the older surgical patient (geriatrician) and evidence-based elder-friendly practices used.
+Level of Evidence: Moderate. Recommendation Grade: Strong.
+
+
+6. Implications of ERAS for emergency laparotomy for nursing practice:
+Nurses as well as other allied health professionals are key members of an ERAS team and should be involved in all stages of the design and implementation of the ERAS pathway.
+Level of Evidence: Low. Recommendation Grade: Strong.
+Consideration should be given to the role of an emergency laparotomy program coordinator to facilitate data collection, promote ERAS pathway adherence and to provide a sense of continuity for patients as they progress through levels of care.
+Level of Evidence: Low. Recommendation Grade: Weak.
+
+
+7. Measures to improve end-of-life care and reduce non-beneficial surgery:
+Future emergency laparotomy studies and databases should include, when possible, a study of patients who were eligible for surgery but did not undergo surgery (the “NoLap” population) and died. Research should also explore international and cultural differences in refusal for surgery.
+Level of Evidence: Low. Recommendation Grade: Strong.
+Multidisciplinary discussions should take place before surgery where feasible for high-risk patients and after surgery on all eligible patients as well as the “NoLap” population.
+Level of Evidence: Moderate. Recommendation Grade: Strong.
+Discussions between specialties and disciplines with patients and carers regarding benefits and risks related to surgery, and the alternatives to surgery should be clearly documented. The patients’ “Goals of Care” should be included in this documentation.
+Level of Evidence: Low. Recommendation Grade: Strong.
+Staff should have training in palliative care conversations and end-of-life management.
+Level of Evidence: Low. Recommendation Grade: Weak.
+
+
+8. Audit:
+Audit is a central component of ERAS. Having a pathway with defined measurable components facilitates improvement and allows comparison of processes and outcomes between different practitioners and centers.
+Level of Evidence: Moderate. Recommendation Grade: Strong.
+
+
+9. Multidisciplinary Review of Outcomes:
+Outcomes from emergency laparotomy should be reviewed on a regular basis. Review should be multidisciplinary and multispecialty with performance compared against evidence-based standards. A structured approach with standard nomenclature and thematic analysis is essential and should be documented.
+Level of Evidence: Moderate. Recommendation Grade: Strong.
+
+
+10. Development and implementation of an ERAS protocol for emergency laparotomy at Health System Level:
+Development and implementation of an ERAS protocol for emergency laparotomy should involve patients and carers, multidisciplinary stakeholders, and senior executives. Adequate time and funding should be allocated for implementation and planning for long-term sustainability.
+Level of Evidence: Low. Recommendation Grade: Strong.
+
+
+11. Initial implementation of high impact components:
+Lessons from large scale studies suggest an implementation focus on a small number of high impact components from an ERAS pathway initially, may be more successful.
+Level of Evidence: Low. Recommendation Grade: Weak.
