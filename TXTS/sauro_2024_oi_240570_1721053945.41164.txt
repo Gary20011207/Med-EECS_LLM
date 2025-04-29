@@ -1,0 +1,851 @@
+OriginalInvestigation | Surgery
+EnhancedRecoveryAfterSurgeryGuidelinesandHospitalLengthofStay,
+Readmission,Complications,andMortality
+AMeta-AnalysisofRandomizedClinicalTrials
+KharaM.Sauro,PhD;ChristineSmith,MSc;SeremiIbadin,MD;AbigailThomas,MSc;HeatherGanshorn,MLIS;LindaBakunda,BBA;BishnuBajgain,MSc;
+StevenP.Bisch,MD,MPH;GreggNelson,MD,PhD
+Abstract KeyPoints
+Question Doestheadoptionof
+IMPORTANCE Acomprehensivereviewoftheevidenceexploringtheoutcomesofenhanced
+enhancedrecoveryaftersurgery(ERAS)
+recoveryaftersurgery(ERAS)guidelineshasnotbeencompleted.
+guidelinesdecreasehospitallengthof
+stay,hospitalreadmission,
+OBJECTIVE ToevaluateifERASguidelinesareassociatedwithimprovedhospitallengthofstay,
+complications,andmortality?
+hospitalreadmission,complications,andmortalitycomparedwithusualsurgicalcare,andto
+understanddifferencesinestimatesbasedonstudyandpatientfactors. Findings Inthismeta-analysisof74
+randomizedclinicaltrialswith9076
+DATASOURCES MEDLINE,Embase,CumulativeIndextoNursingandAlliedHealthLiterature,and participants,theERASguidelineswere
+CochraneCentralweresearchedfrominceptionuntilJune2021. associatedwithdecreasedhospital
+lengthofstayandcomplications.Type
+STUDYSELECTION Titles,abstracts,andfull-textarticleswerescreenedby2independent ofsurgeryandnumberofERAS
+reviewers.EligiblestudieswererandomizedclinicaltrialsthatexaminedERAS-guidedsurgery elementswereassociatedwith
+comparedwithacontrolgroupandreportedonatleast1oftheoutcomes. estimatesoflengthofstay.
+Meaning Thesefindingssuggestthat
+DATAEXTRACTIONANDSYNTHESIS Datawereabstractedinduplicateusingastandardizeddata
+theERASguidelineswereassociated
+abstractionform.ThestudyfollowedthePreferredReportingItemsforSystematicReviewsand
+withdecreasinghospitallengthofstay
+Meta-Analyses.RiskofbiaswasassessedinduplicateusingtheCochraneRiskofBiastool.Random-
+andcomplications;futureresearch
+effectsmeta-analysiswasusedtopoolestimatesforeachoutcome,andmeta-regressionidentified
+shouldfocusonimproving
+sourcesofheterogeneitywithineachoutcome.
+implementationandcompliancewith
+ERASguidelinestoimprovepatient
+MAINOUTCOMEANDMEASURES Theprimaryoutcomeswerehospitallengthofstay,hospital
+outcomes.
+readmissionwithin30daysofindexdischarge,30-daypostoperativecomplications,and30-day
+postoperativemortality.
++
+InvitedCommentary
+RESULTS Ofthe12047referencesidentified,1493fulltextswerescreenedforeligibility,495were +
+Supplementalcontent
+includedinthesystematicreview,and74RCTswith9076participantswereincludedinthemeta-
+Authoraffiliationsandarticleinformationare
+analysis.Includedstudiespresenteddatafrom21countriesand9ERAS-guidedsurgicalprocedures
+listedattheendofthisarticle.
+with15(20.3%)havingalowriskofbias.Themean(SD)ReportingonERASCompliance,Outcomes,
+andElementsResearchchecklistscorewas13.5(2.3).Hospitallengthofstaydecreasedby1.88days
+(95%CI,0.95-2.81days;I2=86.5%;P<.001)andtheriskofcomplicationsdecreased(riskratio,
+0.71;95%CI,0.59-0.87;I2=78.6%;P<.001)intheERASgroup.Riskofreadmissionandmortality
+werenotsignificant.
+CONCLUSIONSANDRELEVANCE Inthismeta-analysis,ERASguidelineswereassociatedwith
+decreasedhospitallengthofstayandcomplications.Futurestudiesshouldaimtoimprove
+(continued)
+OpenAccess.ThisisanopenaccessarticledistributedunderthetermsoftheCC-BYLicense.
+JAMANetworkOpen.2024;7(6):e2417310.doi:10.1001/jamanetworkopen.2024.17310 (Reprinted) June18,2024 1/16
+Downloaded from jamanetwork.com by guest on 04/29/2025JAMANetworkOpen | Surgery ERASandHospitalLengthofStay,Readmission,Complications,andMortality
+Abstract(continued)
+implementationofERASandincreasethereachoftheguidelines.
+JAMANetworkOpen.2024;7(6):e2417310.
+CorrectedonJuly18,2024.doi:10.1001/jamanetworkopen.2024.17310
+Introduction
+Globally,morethan313millionpeopleundergolifesavingorlife-prolongingsurgeryyearlyandthat
+numberisincreasing.1,2Whilesurgeryisessentialtomaintainhealthandqualityoflife,itconsumes
+significanthealthcareresourcesandisnotwithoutcomplications.Themeanlengthofhospitalstay
+forsurgeryis5daysequatingtomorethan7.5millionpatientdayseachyearatacostofatleast
+$1200perday.1Thelengthofhospitalstayincreasesforpatientsundergoingsurgerywhoexperience
+complicationspostoperatively.3-10Morethanathirdofpatientsundergoingsurgeryexperience
+complications,11-13placingthesepatientsathigherriskofcomplicationsthanpatientsnotundergoing
+surgery.3-5,14,15Patientswhoexperiencecomplicationsarealsomorelikelytorequireadditional
+interventions,bereadmittedtohospital,anddie,whichareallassociatedwithincreasedcosts.10,16-18
+Anestimated50%ofcomplicationsarepreventable,whichprovidesanopportunitytouse
+evidence-basedstrategiestoimproveoutcomesforpatientsandhealthcaresystems.3,4,8-11,13,14
+Moreover,improvingsurgicaloutcomesandreducinghealthcareresourcescanincreasethecapacity
+forpatientstoaccesssurgicalcare.8,9
+Astheneedforsurgerycontinuestoexceedhealthcarecapacity,strategiesareneededto
+ensurecareiseffective,efficient,andsafe.Oneoptionisimplementingtheenhancedrecoveryafter
+surgery(ERAS)guidelines.TherearecurrentlyERASguidelinesfor23typesofsurgery19and
+implementationprogramsactiveinmorethan20othertypesofsurgery.20ERASguidelinesprovide
+recommendationsforperioperativecareandhavebeenfoundtoreducecomplications,21lengthof
+hospitalstay,22andcost.23,24Severalsurgery-specificsystematicreviewshavefoundpositiveor
+mixedeffectsonoutcomesafteradoptingERASguidelines.25-31However,acomprehensivereview
+ofERASefficacyacrosssurgicalareasandwithinheterogenouspopulationshasnotbeenconducted.
+Toourknowledge,therearenosystematicreviewsexaminingtheseoutcomesacrossthebreadthof
+ERAS-guidedsurgicalproceduresorcomparingoutcomesbysurgerytype,whichcouldprovidea
+betterunderstandingofERASefficacy.Theobjectiveofthisstudyistosynthesizetheevidenceon
+theefficacyofERASanddetermineiftheadoptionofERASguidelinesimproveshospitallengthof
+stay,hospitalreadmission,mortality,andpostoperativecomplicationscomparedwithusual
+surgicalcare?
+Methods
+Thissystematicreviewandmeta-analysisisreportedusingthePreferredReportingItemsfor
+SystematicReviewsandMeta-analyses(PRISMA)reportingguideline.32Theprotocolwasregistered
+withthePROSPEROregistryofsystematicreviews(CRD42021255973).
+SearchStrategy
+Thesearchstrategycombinedcontrolledvocabularyandkeywordsforthepopulation(patients
+undergoingsurgery),theintervention(ERAS,fasttrack,enhancedrecovery)andoutcomes(lengthof
+hospitalstay,hospitalreadmission,complications,mortality)andwasruninMEDLINE,Embase,the
+CumulativeIndextoNursingandAlliedHealthLiterature,andCochraneCentralRegisterof
+ControlledTrialsonJune18,2021(eAppendix1inSupplement1).Thesearchstrategywasnotlimited
+bypublicationdateorlanguage.
+JAMANetworkOpen.2024;7(6):e2417310.doi:10.1001/jamanetworkopen.2024.17310 (Reprinted) June18,2024 2/16
+Downloaded from jamanetwork.com by guest on 04/29/2025JAMANetworkOpen | Surgery ERASandHospitalLengthofStay,Readmission,Complications,andMortality
+EligibilityCriteria
+Studieswereincludediftheyreportedatleast1oftheoutcomesamongadultpatientsundergoing
+surgerybeforeandafterERASguidelineswereimplemented.StudiesthatimplementedERAS
+guidelines,includingERAS-basedguidelines(eg,ERAS,fast-track,enhancedrecoveryprotocol),
+wereincludediftheprotocolscontainedelementsthatwereERAS-based.Anystudydesignthat
+comparedtheintervention(ERASguidelines)andthecomparatorgroup(usualcare)wereincluded
+intheoverallsystematicreview,butonlyrandomizedclinicaltrialswereincludedinthemeta-
+analysis.
+Studieswithonlypediatricpatientsorthosethatdidnotstratifyestimatesbyadultsand
+childrenwereexcluded.Studiesthatdidnotprovideestimatesorsufficientdatatocalculate
+estimateswereexcluded.Conferenceproceedingsorabstracts,reviews,guidelines,and
+commentarieswereexcluded.Studieswithlessthan50patientstotalwereexcludedduetothehigh
+riskofbiasinthesestudies.Studiespublishedinanylanguagewereincluded;however,itwas
+excludedifwecouldnottranslatethearticle.Forstudieswithmultiplemanuscripts,themanuscript
+withthemostcomprehensivedatasetwasincludedandtheotherswereexcluded(duplicatedata).
+StudySelection
+Covidencewasusedtomanagestudyselection.33Ateachstageofscreeningasampleoftitlesand
+abstracts(n=5),andfulltexts(n=10)werescreenedbyallreviewerstoensureconsistency
+betweenreviewersandadditionalstudieswerereviewedtogetheruntilaκof0.8wasachieved.
+Titles,abstracts,andfulltextswerescreenedforeligibilityby2independentreviewers.Duringthe
+titleandabstractscreening,referencesincludedbyatleast1reviewerwereincludedforfull-text
+screeningtodecreasetheriskofincorrectlyexcludingstudies.Disagreementbetweenreviewerswas
+resolvedthroughdiscussionorconsultingathirdreviewer.
+DataCollectionProcess
+Astandardizeddatabase(MicrosoftExcel)wasusedtoabstractdatafromincludedstudies.Thedata
+abstractiondatabasewaspilottestedon2studies.Priortofulldataabstractionallreviewerswere
+trainedbycompletingdataabstractionforthesame5studies;trainingcontinueduntilaκof0.8was
+achieved.Datawereabstractedbyasinglereviewerand65%ofthedataweredouble-checkedby
+anindependentreviewer.Thedatadictionaryforthestandardizeddataabstractionformisavailable
+ineAppendix2inSupplement1.
+Variables
+Theprimaryoutcomevariableswerehospitallengthofstay,readmissionwithin30daysofindex
+hospitaldischarge,postoperativecomplicationswithin30daysofsurgery,andmortalitywithin30
+daysofsurgery.Whiletheprimaryoutcomevariableswerelimitedto30daysfromsurgeryorindex
+hospitalization,dataforothertimeperiodswereabstractedassecondaryoutcomes.
+Additionaldataitemsabstractedfromthestudiesincludedbibliographicinformation,study
+characteristics,patientdata,typeofprotocolevaluated(ERAS,enhancedrecovery,fast-track,other),
+numberofERASelementsincludedintheprotocol(count)evenifcompliancewasnotreportedfor
+eachelement,anddataoncompliance.Afulllistofdataitemsabstractedisincludedinthedata
+dictionary(eAppendix2inSupplement1).
+RiskofBiasinIndividualStudies
+TheriskofbiasofindividualstudieswasevaluatedusingtheCochraneRiskofBiasTool(version2),34
+by2independentreviewerswithgraduatetraininginepidemiology.Anydisagreementsbetween
+reviewerswereresolvedthroughdiscussion.TheReportingonERASCompliance,Outcomes,and
+ElementsResearch(RECOvER)checklistassessedcompletenessofreporting.35
+JAMANetworkOpen.2024;7(6):e2417310.doi:10.1001/jamanetworkopen.2024.17310 (Reprinted) June18,2024 3/16
+Downloaded from jamanetwork.com by guest on 04/29/2025JAMANetworkOpen | Surgery ERASandHospitalLengthofStay,Readmission,Complications,andMortality
+DataAnalysis
+Studycharacteristicsweredescribedusingdescriptivestatisticsasappropriate.Arandomeffects
+meta-analysiswasusedtopoolestimatesforeachoutcomevariable(metanpackage).36,37TheI2
+quantifiedthemagnitudeofbetween-studyheterogeneity,andtheCochraneQstatisticdetermined
+thesignificanceofheterogeneity.Riskratios(RR)werecalculatedfordatareportedasproportions
+(ie,mortality,complications,andreadmission),andmeandifferenceswerecalculatedfordata
+reportedasmeans(ie,hospitallengthofstay).Estimatesreportedasmedian(IQR)wereconverted
+tomean(SD)usingtheWanmethod38andwerepooled.
+Meta-regressionexploredpotentialsourcesofheterogeneityforeachoutcome.Thepotential
+sourcesofheterogeneityincludedpatientageandsex,year(s)ofdatacollection,typeofsurgery,
+numberofERASelementsincludedintheprotocol,typeofprotocol(eg,ERAS,enhancedrecovery
+protocol,fast-track,orother),andRECOvERscores.Publicationbiaswasassessedthroughvisual
+inspectionofafunnelplotandstatisticallyusingEggerlinearregressionmethod.Allanalyseswere
+performedinStata20.0(StataCorp).36,37DatawereanalyzedfromSeptember2023toFebruary
+2024.Statisticaltestswere2-sided,andsignificancewassetatP<.05.
+Results
+Thesearchstrategyyielded12047uniquereferences,ofwhich1493werereviewedinfull-text,495
+wereincludedintheoverallsystematicreview(eFigureinSupplement1)and74RCTs39-112were
+includedinthemeta-analysis.ThecharacteristicsofeachindividualstudyareincludedineTable1in
+Supplement1.Theincludedstudiesrepresent9076patientswith4577patientsinthecontrol
+(non-ERAS)groupand4375patientsintheERASgroup.Inthe54studiesthatincludedage,the
+mean(SD)agewas50.0(12.6)yearsforpatientsinthecontrolgroupand49.2(12.6)yearsamong
+patientsintheERASgroup.39,41-47,49-54,56,57,59,62-68,70,73,76,79,81-84,86,88,89,91,93-106,108-111
+StudyCharacteristics
+Themedian(range)yearofpublicationwas2019(2009-2021).Moststudieswereconductedinhigh
+incomeandhigh-middleincomecountries(57[80.3%]);22(29.7%)werepublishedinChina,40,46,
+55,56,67-72,75,82,85-87,103,107-109,112,1138(10.8%)inIndia,44,45,60,76,84,91,97,1005(6.8%)in
+theUS.47,49,66,99,104
+Mostofthe74studiesexaminedtheoutcomesofERASinpatientsundergoinggastrointestinal
+surgery(32[43.2%])39,40,45,47,50,51,53,54,56,58-60,73,74,77,79,80,83,87,92-98,100,102,103,105,112,114and
+gynecologicalsurgicalprocedures(11[14.9%]),41,43,49,52,65,89,90,110,111,115withonly1(1.4%)incardiac
+surgery,68and2(2.7%)inurology.44,106Mostofthe74studiesevaluatedtheoutcomesofERAS
+guidelines(37[50.0%]),39-46,48,52-54,57,68-71,73,75,78,82,87-91,98-101,104-108,110,111whereas23(31.1%)
+evaluatedenhancedrecoveryprotocols,47,49,55,56,58,61-66,76,77,79-81,83-85,95-97,10213(17.6%)
+evaluatedfast-trackprotocols,50,51,59,60,72,74,86,92-94,103,109,112,116and1(1.4%)evaluatedother
+typesofprotocolsorpathwaysbasedonERASprinciples.67Themean(SD)numberofERAS
+elementsincludedintheinterventions(ERAS,enhancedprotocols,fast-track,other)was11.1(3.0)
+elementsofapossible16.Commonlyearlymobilization(71[96.0%]),postoperativeanalgesia
+management(64[86.5%]),postoperativedietandbowelmanagement(63[85.1%]),anddrainand
+tubemanagement(63[85.1%])wereincluded(Figure1).ProtocolsclassifiedasERASincludedmore
+elementsthanthoseclassifiedasfast-trackbutwerenodifferentthanenhancedrecoveryprotocols
+(F =9.58;P=.002).Themean(SD)numberofelementsamongstudiesofERASwas11.8(2.8),
+1,493
+comparedwith8.9(2.3)infast-trackprotocols,10.6(3.7)inenhancedrecoveryprotocols,and11.4
+(3.2)elementswithothertypesofprotocols.CompliancewithERASprotocolswasreportedin17
+(20.3%)studies49,52,53,56,59,67,69,70,77,80,88-90,99,101,106,107butwasinconsistentlyreportedand
+couldnotbepooled;themean(SD)compliancereportedwas74.7%(10.2%)fromthe9studiesfrom
+whichwecouldsynthesizethedata.49,52,67,80,89,90,99,101,106
+JAMANetworkOpen.2024;7(6):e2417310.doi:10.1001/jamanetworkopen.2024.17310 (Reprinted) June18,2024 4/16
+Downloaded from jamanetwork.com by guest on 04/29/2025JAMANetworkOpen | Surgery ERASandHospitalLengthofStay,Readmission,Complications,andMortality
+Meta-AnalysisbyOutcome
+LengthofStay
+Ofthe74includedstudies,44studies(62.2%)reportedanoverallmedianormeanestimateof
+hospitallengthofstay.39,40,42,44,45,47-50,52,53,55,58,60,61,65,66,71,73,74,78,79,82,84,85,88-91,95,97,98,101,
+Figure1.StudyCharacteristics
+A ERAS elements from included studies
+Preadmission education
+Preadmission screening
+Fasting and carbohydrate loading
+Preemptive analgesic
+Antiemetic prophylaxis
+Intraoperative fluid management
+Anesthetic administration
+Patient warming
+Management of postoperative fluids
+Postoperative analgesia
+Plan for opioid minimization
+Drain and line management
+Early mobilization
+Postoperative diet and bowel management
+Criteria for discharge
+Tracking postdischarge
+0 10 20 30 40 50 60 70 80 90 100
+Percentage
+B RECOvER items from included studies
+Title
+Background
+Guideline
+Outcome
+Ethics approval
+Study design
+Setting
+Timing
+Participants
+Protocol
+Auditing
+Outcome assessment
+PRO
+Flow of participants
+Compliance
+Associations (A)Amongthestudiesthatreportedtheenhanced
+recoveryaftersurgery(ERAS)elements,mostincluded
+Context
+earlymobilization,postoperativeanalgesia
+Limitations considerations,andpostoperativedietandbowel
+management.(B)ReportingonERASCompliance,
+Funding
+Outcomes,andElementsResearch(RECOvER)
+0 10 20 30 40 50 60 70 80 90 100 checklistitemsofincludedstudies.PROindicates
+Percentage patientreportedoutcomes.
+JAMANetworkOpen.2024;7(6):e2417310.doi:10.1001/jamanetworkopen.2024.17310 (Reprinted) June18,2024 5/16
+Downloaded from jamanetwork.com by guest on 04/29/2025JAMANetworkOpen | Surgery ERASandHospitalLengthofStay,Readmission,Complications,andMortality
+103,105,107-109,111,113Thepooledmeanlengthofhospitalstaywas1.88days(95%CI,0.95-2.81days;
+I2=86.5%;P<.001)shorterintheERASgroupscomparedwithcontrolgroups.ERASalsodecreased
+thepostoperativehospitallengthofstay(22studies;meandifference,2.83days;95%CI,2.10-3.55
+days;I2 =0%;P<.001)comparedwithcontrolgroups.Publicationbiaswasnotsignificant.40,41,53,
+54,56,63,64,68,71,72,75,79,82,85,87,94,104,105,107,112,113,117
+HospitalReadmission
+Nineteenof74studies(41.3%)reported30-dayhospitalreadmissions.ThepooledRRof30-day
+hospitalreadmissionwas1.04(95%CI,0.81-1.35;I2=0%;P=.74)39,43,44,52-54,65-67,69,79,80,89,94,
+97,101,102,105,112;withaprotectiveeffectwhenthetimeperiodwasnotspecified(11studies,RR,0.61;
+95%CI,0.41-0.93;I2=0%;P=.02).41,42,47,56,63,75,82,88,98,106,111Publicationbiaswasnotsignificant.
+Complications
+Fourteenof74studies(18.9%)reportedanoverall(unstratified)estimateofcomplicationswitha
+pooledestimateof0.71(95%CI,0.59-0.87;I2=78.6%;P<.001),44,46,53,67-69,79,80,82,86,87,93,95,96
+favoringERAScomparedwithcontrolgroups.Oftheninestudiesthatreported30-day
+complications,thepooledRRwas0.73(95%CI,0.56-0.94;I2=86.3%;
+P<.02),53,67,79,80,82,87,93,95,96favoringERASovercontrolgroups.Therewasevidenceofpublication
+biasusingtheEggertestforsmallstudyeffects(t=2.24;95%CI,0.14-2.15;P=.003);however,
+estimatesweresymmetricallydistributeduponvisualinspectionofthefunnelplot.
+Mortality
+Therewere19of74studiesthatreported30-daypostoperativemortality,withapooledriskof0.95
+(95%CI,0.48-1.88)withnoheterogeneitybetweenestimates(I2=0%;P=.89).40,44,50,53,54,57,69,
+70,77,78,87,89,92,93,95-98,107Becausemanystudiesreportedestimatesof0mortality,acontinuity
+correctionwasappliedtocalculateRRs.118Publicationbiaswasnotsignificant.
+SourcesofHeterogeneityDeterminedbyMeta-Regression
+Therewerenodifferencesinthepooledestimatesofhospitallengthofstaybasedoncountry
+income,RECOvERchecklistscore,yearofpublication,numberofERASelementsincludedinthe
+protocol,orriskofbias.Thetypeofsurgeryaccountedforheterogeneityintheestimateofhospital
+lengthofstay(coefficient,0.32;95%CI,0.17-0.48;P<.001).Thepooledestimateofmean
+differenceinlengthofhospitalstaysforpatientsundergoingpancreatic,orthopedic,and
+gastrointestinalsurgerywaslargerthanothersurgicalprocedures(Figure2).Noneofthevariables
+exploredaccountedforvarianceinthepooledestimateof30-dayhospitalreadmission,
+complications,ormortality.ThesefindingscanbefoundinFigure3andFigure4.
+RiskofBiasandRECOvER
+Amongthe74includedstudies,40(54.1%)hadsomeriskofbias,19(25.7%)hadhighriskofbias,and
+15(20.3%)hadlowriskofbias.Missingnessofoutcomedatawereconsideredasourceoflowriskof
+biasamong64studies(86.5%)whiledeviationsfromtheper-protocolinterventionwasconsidereda
+sourceofhighriskofbiasin17studies(23.0%)(eTable2inSupplement1).
+Themean(SD)numberofRECOvERchecklistitemsthatwereincludedinthestudieswas13.5
+(2.3).Commonlyreporteditemsincludedprovidingcontextandimportancewithinthebackground
+(74[100.0%]),explainingthesignificanceofthestudy(73[98.7%]),andreportingtheprotocolused
+(72[97.3%])(Figure1).Theleastcommonlyreporteditemswereauditingofoutcomes(10[13.5%]),
+examiningassociationsbetweenoutcomesandothervariables(13[17.6%]),andreporting
+compliancewiththeERASguidelines(20[27.0%](Figure1).
+JAMANetworkOpen.2024;7(6):e2417310.doi:10.1001/jamanetworkopen.2024.17310 (Reprinted) June18,2024 6/16
+Downloaded from jamanetwork.com by guest on 04/29/2025JAMANetworkOpen | Surgery ERASandHospitalLengthofStay,Readmission,Complications,andMortality
+Discussion
+ThisstudyfoundthatusingtheERASguidelineswereassociatedwithadecreaseinthelengthof
+hospitalstayandcomplications.Hospitallengthofstayvariedbysurgerytype.Thereweremany
+studiesincluded,butsomeevidencegapsremain.Forexample,therewasapaucityofevidencefor
+Figure2.Meta-AnalysisofHospitalLengthofStay
+Factor Mean difference (95% CI) Favors control Favors ERAS
+Overall 1.88 (0.95 to 2.81)
+Surgery
+GI 2.88 (0.74 to 5.02)
+Gynecological 0.55 (–0.25 to 1.34)
+Orthopedic 3.37 (–1.21 to 7.95)
+Bariatric –0.48 (–1.48 to 0.52)
+Urology –8.33 (–14.24 to –2.40)
+Pancreatic 5.48 (0.12 to 10.83)
+Liver 2.54 (0.22 to 5.05)
+Other 3.34 (2.73 to 3.95)
+Protocol type
+ERAS 1.59 (0.54 to 2.64)
+ERP 2.92 (0.02 to 5.83)
+Fast-track 4.37 (0.87 to 7.88)
+Other 4.67 (–2.13 to –11.46)
+ERAS elements Patientsinenhancedrecoveryaftersurgery(ERAS)
+Low 0.44 (–3.72 to 4.60) groupsstayed1.9dayslessinhospitalcomparedwith
+Moderate 2.54 (1.26 to 3.81) controlgroups.Patientundergoingpancreatic,
+High 2.04 (0.82 to 3.25) orthopedic,andgastrointestinal(GI)surgical
+RECOvER procedureshadgreaterreductionsinhospitalsstays
+Low 2.92 (–3.72 to 9.56) thanpatientsundergoinggynecologicalandbreast
+High 1.87 (0.91 to 2.83) surgery.ERP,enhancedrecoveryprotocol;RECOvER,
+–5 0 5 10 15 ReportingonERASCompliance,Outcomes,and
+Mean difference ElementsResearch.
+Figure3.Meta-AnalysisofHospitalReadmission
+Factor RR (95% CI) Favors ERAS Favors control
+Overall 1.04 (0.81-1.35)
+Surgery
+GI 1.22 (0.89-1.65)
+Gynecological 0.59 (0.28-1.27)
+Orthopedic NA
+Bariatric 0.95 (0.40-2.28)
+Urology 0.50 (0.05-5.19)
+Pancreatic 0.55 (0.14-2.16)
+Liver 0.84 (0.24-2.98)
+Cardiac NA
+Other 3.00 (0.34-26.33)
+Protocol type
+ERAS 1.04 (0.76-1.42)
+ERP 1.04 (0.52-2.07)
+Fast-track 1.15 (0.61-2.16)
+Other 0.79 (0.19-3.30)
+ERAS elements
+Low 1.04 (0.59-1.81) Patientsintheenhancedrecoveryaftersurgery(ERAS)
+Moderate 0.91 (0.43-1.94) groupshadalowerriskofbeingreadmittedaftertheir
+High 1.07 (0.79-1.46) indexhospitalizationthanpatientsinthecontrol
+RECOvER group.Noneofthevariablesexploredwereassociated
+Low NA withtheriskofreadmission.ERPindicatesenhanced
+High 1.04 (0.81-1.35) recoveryprotocol;GI,gastrointestinal;NA,not
+–1 0 1 2 3 4 applicable;RECOvER,ReportingonERASCompliance,
+RR Outcomes,andElementsResearch;RR,riskratio.
+JAMANetworkOpen.2024;7(6):e2417310.doi:10.1001/jamanetworkopen.2024.17310 (Reprinted) June18,2024 7/16
+Downloaded from jamanetwork.com by guest on 04/29/2025JAMANetworkOpen | Surgery ERASandHospitalLengthofStay,Readmission,Complications,andMortality
+somesurgicalprocedures(noneforheadandneckandbreast,andfewstudiesforcardiac),fewer
+studiesreportedmortality,andcompliancewasreportedinconsistentlyandpoorly.
+WhiletheERASguidelineswereestablishedwiththepublicationoftheERASSocietyguideline
+forperioperativecareofpatientsundergoingcolonicsurgery,119enhancedrecoveryasaconceptwas
+basedonpreviouslydescribedfast-trackprotocols.120-122Accordingly,itisnotsurprisingthatmany
+includedstudieswerelabeledasfast-trackandthatalargeproportionwerefocusedon
+gastrointestinalsurgery.However,thisstudydidnotidentifyanydifferencesinestimatesofhospital
+lengthofstay,readmission,complications,ormortalityrelatedtotheprotocolname.Whilethename
+giventotheprotocolexamineddidnotaccountforheterogeneitybetweenestimates,thenumber
+ofERASelementsincludedintheprotocolsdidforlengthofhospitalstay.Thissuggeststhatthe
+numberofelementsincludedintheprotocolislikelymoreimportantthanthebrandingofthe
+protocol,whichissupportedbypreviousstudies.123,124Encouragingly,moststudiesreportedtheir
+protocolelements(90%),whichisimportantforevaluatingERASoutcomes,35butveryfewstudies
+reportedcompliancewitheachelement.Unfortunately,moststudiesincludedlessthan70%(11)of
+thetraditionalERASelements.WhilethenumberofERASelementsincludedintheprotocolis
+important,itwasnotpossibletoassesswhatelementsaremostimportantfortheoutcomesofERAS.
+FuturestudiesshouldfocusonevaluatingtherelativeoutcomesofeachERASelementtounderstand
+thecoreelementsrequiredtoachievethebenefitsofERAS.ThiswillsimplifyERASandpromote
+adoptioninlower-resourcesettings.125,126
+Likewithotherguidelines,ERASoutcomesdependsonadoptionofERASguidelines.127-129
+Indeed,greatercompliancewithERAShasbeenshowntoimproveoutcomes.129-131Sinceonlyabout
+20%ofincludedstudiesreportedcompliancewithERAS,andreportingoftheseestimatesweretoo
+heterogeneoustoincludeintheanalysis,itislikelythatmeancompliancewaslowerthan75%and
+thatourfindingsunderestimatetheoutcomesofERAS.IfcomplianceisimportantforERAS
+outcomes,howcancompliancebeimproved?StrategiesforimplementingERAShavebeenoutlined,
+withafocusonteambuildingandauditofcompliance-and-feedback.126,132Thesestrategiesare
+alignedwithprinciplesofimplementationscience,andevidence-informedstrategiesforeffective
+guidelineimplementation.127,128Additionalstrategiesthatshouldbeconsideredwhenimplementing
+ERASincludeidentifyingbarriersandfacilitatorstoimplementation,includingend-usersin
+developingstrategies,education,andprompts-and-reminders.127,133,134Takentogether,futurework
+Figure4.Meta-AnalysisofComplications
+Complication RR (95% CI) Favors ERAS Favors control
+Overall 0.71 (0.58-0.87)
+Surgery
+GI 0.77 (0.57-1.04)
+Gynecological 1.00 (0.30-3.29)
+Orthopedic 0.80 (0.24-2.64)
+Bariatric 1.19 (0.52-2.69)
+Urology 0.86 (0.49-1.50)
+Liver 0.66 (0.46-0.93)
+Cardiac 0.52 (0.32-0.84)
+Other 0.44 (0.27-0.71)
+Protocol type
+ERAS 0.81 (0.68-0.96)
+ERP 0.81 (0.50-1.32)
+Fast-track 0.52 (0.32-0.84)
+Other NA
+Patientsintheenhancedrecoveryaftersurgery(ERAS)
+ERAS elements
+groupshadalowerriskofhavingcomplicationsafter
+Low 0.58 (0.33-1.00)
+theirsurgerythanpatientsinthecontrolgroup.None
+Moderate 0.67 (0.24-1.88)
+ofthevariablesexploredwereassociatedwiththerisk
+High 0.76 (0.62-0.94)
+ofcomplications.ERPindicatesenhancedrecovery
+–1 0 1 2 3 4 5
+protocol;GI,gastrointestinal;NA,notapplicable;RR,
+RR
+riskratio.
+JAMANetworkOpen.2024;7(6):e2417310.doi:10.1001/jamanetworkopen.2024.17310 (Reprinted) June18,2024 8/16
+Downloaded from jamanetwork.com by guest on 04/29/2025JAMANetworkOpen | Surgery ERASandHospitalLengthofStay,Readmission,Complications,andMortality
+shouldfocusonstrategiestoimproveimplementationofandcompliancewithERASguidelines;the
+importanceofwhichhasbeennoted.126Additionally,inagreementwiththeRECOvERchecklist,we
+advocateforimprovedreportingofoverallcomplianceandcompliancewitheachERASelementin
+studiesexploringtheoutcomesofERASguidelines.
+Limitations
+Thisstudyhaslimitations.Whilethesearchstrategywasdevelopedbyalibrarianwithexpertisein
+systematicreviews,somestudiesmaynothavebeenidentified.UsingtheEggerstatisticandavisual
+assessmentoffunnelplots,wedidnotfindevidenceofbiastowardstudieswithlargeeffectsizes.
+Whilethecomprehensivenessofthesystematicreviewisastrength,itcanalsobelimitingbecause
+includedstudieswereheterogeneousbasedonthetypeofERASprotocol,surgerytype,and
+outcomes.Additionally,analysisislimitedbythedataprovidedwithintheincludedstudies.Assuch,
+variablesthatmaybeassociatedwithouroutcomevariables,includingsocioeconomicstatus,
+insurancestatus,andsurgicalcomplexity,werenotaccountedforintheanalysis.Similarly,patients
+undergoingERAS-guidedsurgicalproceduresmaybeahighlyselectedgroup,whichwecouldnot
+controlfor.Finally,thesefindingsmaynotbegeneralizedtoalltypesofsurgerybecausemoststudies
+exploredtheefficacyofERASincolorectalsurgeryandobstetricorgynecologicsurgery.Indeedour
+findingssuggestedthatthetypeofsurgerywasassociatedwithlengthofhospitalstay,butthe
+reasonforthevariationwasunclear.
+Conclusions
+Thismeta-analysisfoundthatERASwasassociatedwithadecreasedlengthofhospitalstay(without
+asignificantincreaseinhospitalreadmissions)andcomplications.Giventheimprovementsacross
+specialties,futureresearchshouldaimtoapplyERAStonewsurgicalspecialtiesandinmoreclinical
+settingsglobally.
+ARTICLEINFORMATION
+AcceptedforPublication:April17,2024.
+Published:June18,2024.doi:10.1001/jamanetworkopen.2024.17310
+Correction:ThisarticlewascorrectedonJuly18,2024,tofixerrorsinFigures1,2,and3.
+OpenAccess:ThisisanopenaccessarticledistributedunderthetermsoftheCC-BYLicense.©2024SauroKM
+etal.JAMANetworkOpen.
+CorrespondingAuthor:KharaM.Sauro,PhD,DepartmentofSurgery,CummingSchoolofMedicine,Universityof
+Calgary,3280HospitalDrNW,Room3D41,Calgary,ABCanada(kmsauro@ucalgary.ca).
+AuthorAffiliations:DepartmentofCommunityHealthSciencesandO’BrienInstituteofPublicHealth,Cumming
+SchoolofMedicine,UniversityofCalgary,Calgary,Alberta,Canada(Sauro,Smith,Ibadin,Thomas,Bakunda,
+Bajgain);DepartmentofSurgery,CummingSchoolofMedicine,UniversityofCalgary,Calgary,Alberta,Canada
+(Sauro);DepartmentofOncologyandCharbonneauCancerInstitute,CummingSchoolofMedicine,Universityof
+Calgary,Calgary,Alberta,Canada(Sauro);LibrariesandCulturalResources,UniversityofCalgary,Calgary,Alberta,
+Canada(Ganshorn);DepartmentofObstetricsandGynecology,CummingSchoolofMedicine,Universityof
+Calgary,Calgary,Alberta,Canada(Bisch,Nelson);AriadneLabs,BrighamandWomen’sHospital,HarvardT.H.Chan
+SchoolofPublicHealth,Boston,Massachusetts(Nelson).
+AuthorContributions:DrSaurohadfullaccesstoallofthedatainthestudyandtakesresponsibilityforthe
+integrityofthedataandtheaccuracyofthedataanalysis.
+Conceptanddesign:Sauro,Smith,Bisch,Nelson.
+Acquisition,analysis,orinterpretationofdata:Allauthors.
+Draftingofthemanuscript:Sauro,Ganshorn.
+Criticalreviewofthemanuscriptforimportantintellectualcontent:Allauthors.
+Statisticalanalysis:Sauro,Thomas,Bajgain.
+JAMANetworkOpen.2024;7(6):e2417310.doi:10.1001/jamanetworkopen.2024.17310 (Reprinted) June18,2024 9/16
+Downloaded from jamanetwork.com by guest on 04/29/2025JAMANetworkOpen | Surgery ERASandHospitalLengthofStay,Readmission,Complications,andMortality
+Obtainedfunding:Sauro.
+Administrative,technical,ormaterialsupport:Sauro,Smith,Ibadin,Bakunda,Bisch.
+Supervision:Sauro,Bisch,Nelson.
+ConflictofInterestDisclosures:DrBischreportedreceivingpersonalfeesfromPfizerCanada,AstraZeneca,and
+JohnsonandJohnsonandreceivinggrantsfromPfizerCanadaandPharmacosmosoutsidethesubmittedwork.
+DrNelsonreportedreceivingpersonalfeesfromPfizer,GSK,AstraZeneca,andSmithandNephewandbeingthe
+treasureroftheERASSocietyandco-chairofEnhancedRecoveryCanadaoutsidethesubmittedwork.Noother
+disclosureswerereported.
+DataSharingStatement:SeeSupplement2.
+REFERENCES
+1. Inpatienthospitalization,surgery,andnewbornstatistics,2019-2020.CanadianInstituteforHealth
+Information.AccessedMay30,2024.https://www.cihi.ca/en/hospital-stays-in-canada-series
+2. WeiserTG,HaynesAB,MolinaG,etal.Estimateoftheglobalvolumeofsurgeryin2012:anassessment
+supportingimprovedhealthoutcomes.Lancet.2015;385(suppl2):S11.doi:10.1016/S0140-6736(15)60806-6
+3. BakerGRN,NortonPG,FlintoftV,etal.TheCanadianAdverseEventsStudy:theincidenceofadverseevents
+amonghospitalpatientsinCanada.CMAJ.2004;170(11):1678-1686.doi:10.1503/cmaj.1040498
+4. BrennanTAL,LeapeLL,LairdNM,etal.Incidenceofadverseeventandnegligenceinhospitalizedpatients.
+ResultsoftheHarvardMedicalPracticeStudyI.NEnglJMed.1991;324(6):370-376.doi:10.1056/
+NEJM199102073240604
+5. ForsterAJA,AsmisTR,ClarkHD,etal;OttawaHospitalPatientSafetyStudy.OttawaHospitalPatientSafety
+Study:incidenceandtimingofadverseeventsinpatientsadmittedtoaCanadianteachinghospital.CMAJ.2004;
+170(8):1235-1240.doi:10.1503/cmaj.1030683
+6. SauroKM,MachanM,Whalen-BrowneL,OwenV,WuG,StelfoxHT.Evolvingtrendsinhospitalsafety:
+asystematicreviewandmeta-analysis.JPatientSaf.2021.17(8):e1285-1295.doi:10.1097/PTS.
+0000000000000889
+7. SauroKM,QuanH,SikdarKC,FarisP,JetteN.Hospitalsafetyamongneurologicpatients:apopulation-based
+cohortstudyofadverseevents.Neurology.2017;89(3):284-290.doi:10.1212/WNL.0000000000004111
+8. SauroKM,SooA,deGroodC,etal.AdverseeventsaftertransitionfromICUtohospitalward:amulticenter
+cohortstudy.CritCareMed.2020;48(7):946-953.doi:10.1097/CCM.0000000000004327
+9. SauroKM,SooA,QuanH,StelfoxHT.Adverseeventsamonghospitalizedcriticallyillpatients:aretrospective
+cohortstudy.MedCare.2020;58(1):38-44.doi:10.1097/MLR.0000000000001238
+10. ZegersM,deBruijneMC,deKeizerB,etal.Theincidence,root-causes,andoutcomesofadverseeventsin
+surgicalunits:implicationforpotentialpreventionstrategies.PatientSafSurg.2011;5(1):13.doi:10.1186/1754-
+9493-5-13
+11. HealeyMA,ShackfordSR,OslerTM,RogersFB,BurnsE.Complicationsinsurgicalpatients.ArchSurg.2002;
+137(5):611-617.doi:10.1001/archsurg.137.5.611
+12. TevisSE,KennedyGD.Postoperativecomplicationsandimplicationsonpatient-centeredoutcomes.JSurg
+Res.2013;181(1):106-113.doi:10.1016/j.jss.2013.01.032
+13. WoodfieldJC,JamilW,SagarPM.Incidenceandsignificanceofpostoperativecomplicationsoccurring
+betweendischargeand30days:aprospectivecohortstudy.JSurgRes.2016;206(1):77-82.doi:10.1016/j.jss.2016.
+06.073
+14. BainesRJ,LangelaanM,deBruijneMC,etal.Changesinadverseeventratesinhospitalsovertime:
+alongitudinalretrospectivepatientrecordreviewstudy.BMJQualSaf.2013;22(4):290-298.doi:10.1136/bmjqs-
+2012-001126
+15. DavisP,Lay-YeeR,BriantR,AliW,ScottA,SchugS.AdverseeventsinNewZealandpublichospitalsII:
+preventabilityandclinicalcontext.NZMedJ.2003;116(1183):U624.
+16. VonlanthenR,SlankamenacK,BreitensteinS,etal.Theimpactofcomplicationsoncostsofmajorsurgical
+procedures:acostanalysisof1200patients.AnnSurg.2011;254(6):907-913.doi:10.1097/SLA.0b013e31821d4a43
+17. SeeseL,SultanI,GleasonTG,etal.Theimpactofmajorpostoperativecomplicationsonlong-termsurvival
+aftercardiacsurgery.AnnThoracSurg.2020;110(1):128-135.doi:10.1016/j.athoracsur.2019.09.100
+18. PatelAS,BergmanA,MooreBW,HaglundU.Theeconomicburdenofcomplicationsoccurringinmajorsurgical
+procedures:asystematicreview.ApplHealthEconHealthPolicy.2013;11(6):577-592.doi:10.1007/s40258-013-
+0060-y
+JAMANetworkOpen.2024;7(6):e2417310.doi:10.1001/jamanetworkopen.2024.17310 (Reprinted) June18,2024 10/16
+Downloaded from jamanetwork.com by guest on 04/29/2025JAMANetworkOpen | Surgery ERASandHospitalLengthofStay,Readmission,Complications,andMortality
+19. Guidelines.ERASSociety.AccessedMay13,2024.https://erassociety.org/guidelines/list-of-guidelines/
+20. LjungqvistO,ScottM,FearonKC.Enhancedrecoveryaftersurgery:areview.JAMASurg.2017;152(3):
+292-298.doi:10.1001/jamasurg.2016.4952
+21. VaradhanKK,NealKR,DejongCH,FearonKC,LjungqvistO,LoboDN.Theenhancedrecoveryaftersurgery
+(ERAS)pathwayforpatientsundergoingmajorelectiveopencolorectalsurgery:ameta-analysisofrandomized
+controlledtrials.ClinNutr.2010;29(4):434-440.doi:10.1016/j.clnu.2010.01.004
+22. SenagoreAJ,WhalleyD,DelaneyCP,MekhailN,DuepreeHJ,FazioVW.Epiduralanesthesia-analgesiashortens
+lengthofstayafterlaparoscopicsegmentalcolectomyforbenignpathology.Surgery.2001;129(6):672-676.doi:
+10.1067/msy.2001.114648
+23. NelsonG,KiyangLN,CrumleyET,etal.Implementationofenhancedrecoveryaftersurgery(ERAS)acrossa
+provincialhealthcaresystem:theERASAlbertacolorectalsurgeryexperience.WorldJSurg.2016;40(5):
+1092-1103.doi:10.1007/s00268-016-3472-7
+24. ThanhN,NelsonA,WangX,etal.Returnoninvestmentoftheenhancedrecoveryaftersurgery(ERAS)
+multiguideline,multisiteimplementationinAlberta,Canada.CanJSurg.2020;63(6):E542-E550.doi:10.1503/cjs.
+006720
+25. AzharRA,BochnerB,CattoJ,etal.Enhancedrecoveryafterurologicalsurgery:acontemporarysystematic
+reviewofoutcomes,keyelements,andresearchneeds.EurUrol.2016;70(1):176-187.doi:10.1016/j.eururo.2016.
+02.051
+26. BischSP,JagoCA,KalogeraE,etal.Outcomesofenhancedrecoveryaftersurgery(ERAS)ingynecologic
+oncology-Asystematicreviewandmeta-analysis.GynecolOncol.2021;161(1):46-55.doi:10.1016/j.ygyno.2020.
+12.035
+27. GrecoM,CaprettiG,BerettaL,GemmaM,PecorelliN,BragaM.Enhancedrecoveryprogramincolorectal
+surgery:ameta-analysisofrandomizedcontrolledtrials.WorldJSurg.2014;38(6):1531-1541.doi:10.1007/s00268-
+013-2416-8
+28. HuangZD,GuHY,ZhuJ,etal.Theapplicationofenhancedrecoveryaftersurgeryforuppergastrointestinal
+surgery:meta-analysis.BMCSurg.2020;20(1):3.doi:10.1186/s12893-019-0669-3
+29. PuccettiF,WijnhovenBPL,KuppusamyM,HubkaM,LowDE.Impactofstandardizedclinicalpathwayson
+esophagectomy:asystematicreviewandmeta-analysis.DisEsophagus.2022;35(2):doab027.doi:10.1093/dote/
+doab027
+30. LeeY,YuJ,DoumourasAG,LiJ,HongD.Enhancedrecoveryaftersurgery(ERAS)versusstandardrecoveryfor
+electivegastriccancersurgery:ameta-analysisofrandomizedcontrolledtrials.SurgOncol.2020;32:75-87.doi:10.
+1016/j.suronc.2019.11.004
+31. AhmedOS,RogersAC,BolgerJC,MastrosimoneA,RobbWB.Meta-analysisofenhancedrecoveryprotocols
+inbariatricsurgery.JGastrointestSurg.2018;22(6):964-972.doi:10.1007/s11605-018-3709-x
+32. PageMJ,McKenzieJE,BossuytPM,etal.ThePRISMA2020statement:anupdatedguidelineforreporting
+systematicreviews.BMJ.2021;372(71):n71.doi:10.1136/bmj.n71
+33. Covidencesystematicreviewsoftware.Covidence.AccessedMay13,2024.https://www.covidence.org/
+34. HigginsJPT,AltmanDG,GøtzschePC,etal;CochraneBiasMethodsGroup;CochraneStatisticalMethods
+Group.TheCochraneCollaboration’stoolforassessingriskofbiasinrandomisedtrials.BMJ.2011;343:d5928.doi:
+10.1136/bmj.d5928
+35. EliasKM,StoneAB,McGinigleK,etal;ERASSocietyandERASUSA.ThereportingonERASCompliance,
+Outcomes,andElementsResearch(RECOvER)checklist:ajointstatementbytheERASandERASUSASocieties.
+WorldJSurg.2019;43(1):1-8.doi:10.1007/s00268-018-4753-0
+36. KontopantelisE,ReevesD.metaan:Random-effectsmeta-analysis.StataJ.2010;10(3):395-407.doi:10.1177/
+1536867X1001000307
+37. NyagaVN,ArbynM,AertsM.Metaprop:aStatacommandtoperformmeta-analysisofbinomialdata.Arch
+PublicHealth.2014;72(1):39.doi:10.1186/2049-3258-72-39
+38. WanX,WangW,LiuJ,TongT.Estimatingthesamplemeanandstandarddeviationfromthesamplesize,
+median,rangeand/orinterquartilerange.BMCMedResMethodol.2014;14(1):135.doi:10.1186/1471-2288-14-135
+39. AbdElRahmanEM,KharoubMS,ShoraA,EmaraNA,BalbaaMA.Earlyoutcomeofenhancedrecovery
+programsversusconventionalperioperativecareinelectiveopenleftsidecoloniccarcinomasurgery:analysisof
+80cases.IndianJSurgOncol.2020;11(3):372-377.doi:10.1007/s13193-020-01074-x
+JAMANetworkOpen.2024;7(6):e2417310.doi:10.1001/jamanetworkopen.2024.17310 (Reprinted) June18,2024 11/16
+Downloaded from jamanetwork.com by guest on 04/29/2025JAMANetworkOpen | Surgery ERASandHospitalLengthofStay,Readmission,Complications,andMortality
+40. AbdikarimI,CaoXY,LiSZ,ZhaoYQ,TaupykY,WangQ.Enhancedrecoveryaftersurgerywithlaparoscopic
+radicalgastrectomyforstomachcarcinomas.WorldJGastroenterol.2015;21(47):13339-13344.doi:10.3748/wjg.
+v21.i47.13339
+41. AkcaA,yilmAzG.Enhancedrecoveryaftersurgery(ERAS)improvesSF-12scoresinpatientsundergoing
+gynecologicsurgery:positivebutterflyeffect.ActaMedMediter.2019;35(4):2277-2282.
+42. AkhtarMS,KhanN,QayyumA,KhanSZ;JournalofAyubMedicalCollege.Costdifferenceofenhanced
+recoveryaftersurgerypathwayvs.conventionalcareinelectivelaparoscopiccholecystectomy.JAyubMedColl
+Abbottabad.2020;32(4):470-475.
+43. BalukuM,BajunirweF,NgonziJ,KiwanukaJ,TtendoS.Arandomizedcontrolledtrialofenhancedrecovery
+aftersurgeryversusstandardofcarerecoveryforemergencycesareandeliveriesatMbararaHospital,Uganda.
+AnesthAnalg.2020;130(3):769-776.doi:10.1213/ANE.0000000000004495
+44. BansalD,NayakB,SinghP,NayyarR,RamachandranR,KumarR,etal.Randomizedcontrolledtrialto
+compareoutcomeswithandwithouttheenhancedrecoveryaftersurgeryprotocolinpatientsundergoingradical
+cystectomy.IndianJUrol.2020;36(2):95-100.doi:10.4103/iju.IJU_11_20
+45. ChndanMN,KhakholiaM,BhuyanK.Enhancedrecoveryaftersurgery(ERAS)versusstandardcareinpatients
+undergoingemergencysurgeryforperforatedpepticulcer.IndianJSurg.2020;82(6):1044-1049.doi:10.1007/
+s12262-020-02195-x
+46. CuiH,SunZ,RuanJ,YuY,FanC.Effectofenhancedrecoveryaftersurgery(ERAS)pathwayonthe
+postoperativeoutcomesofelbowarthrolysis:arandomizedcontrolledtrial.IntJSurg.2019;68(101228232):
+78-84.
+47. DamadiAA,LaxEA,SmithsonL,PearlmanRD.ComparisonoftherapeuticbenefitofbupivacaineHCL
+transversusabdominisplane(TAP)blockaspartofanenhancedrecoverypathwayversustraditionaloraland
+intravenouspaincontrolafterminimallyinvasivecolorectalsurgery:aprospective,randomized,double-blindtrial.
+AmSurg.2019;85(12):1363-1368.doi:10.1177/000313481908501230
+48. DambaevGT,SheferNA,EnaII,KondaurovAG,StrezhVA.[ERASprotocolforperioperativemanagementof
+patientswithnon-smallcelllungcancer].Khirurgiia(Mosk).2020;(12):52-58.doi:10.17116/hirurgia202012152
+49. DicksonEL,StockwellE,GellerMA,etal.Enhancedrecoveryprogramandlengthofstayafterlaparotomyon
+agynecologiconcologyservice:arandomizedcontrolledtrial.ObstetGynecol.2017;129(2):355-362.doi:10.1097/
+AOG.0000000000001838
+50. FeiY,ZongG-q,ChenJ,LiuR-m.Fast-trackprotocolsindevascularizationforcirrhoticportalhypertension.Rev
+AssocMedBras1992.2015;61(3):250-257.doi:10.1590/1806-9282.61.03.250
+51. FengF,LiXH,ShiH,etal.Fast-tracksurgerycombinedwithlaparoscopycouldimprovepostoperativerecovery
+oflow-riskrectalcancerpatients:arandomizedcontrolledclinicaltrial.JDigDis.2014;15(6):306-313.doi:10.1111/
+1751-2980.12142
+52. FerrariF,ForteS,SbalzerN,ZizioliV,MauriM,MaggiC,etal.Validationofanenhancedrecoveryaftersurgery
+protocolingynecologicsurgery:anItalianrandomizedstudy.AmJObstetGyn.2020;223(4):543.e1-543.e14.doi:10.
+1016/j.ajog.2020.07.003
+53. ForsmoHM,PfefferF,RasdalA,OstgaardG,MohnAC,KornerH,etal.Compliancewithenhancedrecovery
+aftersurgerycriteriaandpreoperativeandpostoperativecounsellingreduceslengthofhospitalstayincolorectal
+surgery:resultsofarandomizedcontrolledtrial.ColorectalDis.2016;18(6):603-611.doi:10.1111/codi.13253
+54. ForsmoHM,PfefferF,RasdalA,SintonenH,KornerH,ErichsenC.Pre-andpostoperativestomaeducation
+andguidancewithinanenhancedrecoveryaftersurgery(ERAS)programmereduceslengthofhospitalstayin
+colorectalsurgery.IntJSurg.2016;36(PtA):121-126.doi:10.1016/j.ijsu.2016.10.031
+55. HanH,GuoS,JiangH,WuX.FeasibilityandefficacyofenhancedrecoveryaftersurgeryprotocolinChinese
+elderlypatientswithintracranialaneurysm.ClinIntervAging.2019;14(101273480):203-207.doi:10.2147/CIA.
+S187967
+56. HeF,LinX,XieF,HuangY,YuanR.Theeffectofenhancedrecoveryprogramforpatientsundergoingpartial
+laparoscopichepatectomyoflivercancer.ClinTranslOncol.2015;17(9):694-701.doi:10.1007/s12094-015-1296-9
+57. HwangDW,KimHJ,LeeJH,etal.Effectofenhancedrecoveryaftersurgeryprogramon
+pancreaticoduodenectomy:arandomizedcontrolledtrial.JHepatobiliaryPancreatSci.2019;26(8):360-369.doi:
+10.1002/jhbp.641
+58. IbrahimH,KotbS,AbdAllahA,etal.Enhancedrecoveryprotocolversusstandardprotocolforpatients
+undergoingradicalcystectomy:resultsofaprospectiverandomizedstudy.AfrJUrol.2020;26(1):2.doi:10.1186/
+s12301-019-0012-3
+JAMANetworkOpen.2024;7(6):e2417310.doi:10.1001/jamanetworkopen.2024.17310 (Reprinted) June18,2024 12/16
+Downloaded from jamanetwork.com by guest on 04/29/2025JAMANetworkOpen | Surgery ERASandHospitalLengthofStay,Readmission,Complications,andMortality
+59. IonescuD,IancuC,IonD,etal.Implementingfast-trackprotocolforcolorectalsurgery:aprospective
+randomizedclinicaltrial.WorldJSurg.2009;33(11):2433-2438.doi:10.1007/s00268-009-0197-x
+60. IyerSP,KareemZ.Fast-trackprotocolversusconventionalprotocolonpatientoutcome:arandomizedclinical
+trial.NigerJSurg.2019;25(1):36-41.doi:10.4103/njs.NJS_34_17
+61. JonesCN,MorrisonBL,KelliherLJ,etal.Hospitalcostsandlong-termsurvivalofpatientsenrolledinan
+enhancedrecoveryprogramforopenliverresection:prospectiverandomizedcontrolledtrial.JMIRPerioperMed.
+2021;4(1):e16829.doi:10.2196/16829
+62. KangSH,LeeY,MinSH,etal.Multimodalenhancedrecoveryaftersurgery(ERAS)programistheoptimal
+perioperativecareinpatientsundergoingtotallylaparoscopicdistalgastrectomyforgastriccancer:aprospective,
+randomized,clinicaltrial.AnnSurgOncol.2018;25(11):3231-3238.doi:10.1245/s10434-018-6625-0
+63. KapritsouM,KorkolisDP,GiannakopoulouM,KaklamanosI,KonstantinouM,KatsoulasT,etal.Fast-track
+recoveryprogramaftermajorliverresection:arandomizedprospectivestudy.GastroenterolNurs.2018;41(2):
+104-110.doi:10.1097/SGA.0000000000000049
+64. KapritsouM,PapathanassoglouED,KonstantinouEA,KorkolisDP,MpouzikaM,KaklamanosI,etal.Effectsof
+theenhancedrecoveryprogramontherecoveryandstressresponseinpatientswithcancerundergoing
+pancreatoduodenectomy.GastroenterolNurs.2020;43(2):146-155.doi:10.1097/SGA.0000000000000417
+65. KilpiöO,HärkkiPSM,MentulaMJ,VäänänenA,PakarinenPI.Recoveryafterenhancedversusconventional
+carelaparoscopichysterectomyperformedintheafternoon:arandomizedcontrolledtrial.IntJGynaecolObstet.
+2020;151(3):392-398.doi:10.1002/ijgo.13382
+66. LavuH,McCallNS,WinterJM,etal.Enhancingpatientoutcomeswhilecontainingcostsaftercomplex
+abdominaloperation:arandomizedcontrolledtrialofthewhippleacceleratedrecoverypathway.JAmCollSurg.
+2019;228(4):415-424.doi:10.1016/j.jamcollsurg.2018.12.032
+67. LemanuDP,SinghPP,BerridgeK,etal.Randomizedclinicaltrialofenhancedrecoveryversusstandardcare
+afterlaparoscopicsleevegastrectomy.BrJSurg.2013;100(4):482-489.doi:10.1002/bjs.9026
+68. LiM,ZhangJ,GanTJ,QinG,WangL,ZhuM,etal.Enhancedrecoveryaftersurgerypathwayforpatients
+undergoingcardiacsurgery:arandomizedclinicaltrial.EurJCardiothoracSurg.2018;54(3):491-497.doi:10.1093/
+ejcts/ezy100
+69. LiangX,YingH,WangH,etal.Enhancedrecoverycareversustraditionalcareafterlaparoscopicliver
+resections:arandomizedcontrolledtrial.SurgEndosc.2018;32(6):2746-2757.doi:10.1007/s00464-017-5973-3
+70. LiuB,LiuS,WangY,etal.Neurosurgicalenhancedrecoveryaftersurgery(ERAS)programmeforelective
+craniotomies:arepatientssatisfiedwiththeirexperiences:aquantitativeandqualitativeanalysis.BMJOpen.
+2019;9(11):e028706.doi:10.1136/bmjopen-2018-028706
+71. LiuB,LiuS,WangY,etal.Enhancedrecoveryafterintraspinaltumorsurgery:asingle-institutionalrandomized
+controlledstudy.WorldNeurosurg.2020;136(101528275):e542-e552.doi:10.1016/j.wneu.2020.01.067
+72. LiuG,JianF,WangX,ChenL.Fast-tracksurgeryprotocolinelderlypatientsundergoinglaparoscopicradical
+gastrectomyforgastriccancer:arandomizedcontrolledtrial.OncoTargetsTher.2016;9(101514322):3345-3351.
+73. MariG,CostanziA,CrippaJ,FalboR,MirandaA,RossiM,etal.Surgicalstressreductioninelderlypatients
+undergoingelectivecolorectallaparoscopicsurgerywithinanERASprotocol.Chirurgia(Bucur).2016;111(6):
+476-480.doi:10.21614/chirurgia.111.6.476
+74. MariGM,CostanziA,MaggioniD,etal.Fast-trackversusstandardcareinlaparoscopichighanteriorresection:
+aprospectiverandomized-controlledtrial.SurgLaparoscEndoscPercutanTech.2014;24(2):118-121.doi:10.1097/
+SLE.0b013e3182a50e3a
+75. MingjieX,LuyaoZ,ZeT,YinQuanZ,QuanW.Laparoscopicradicalgastrectomyforresectableadvancedgastric
+cancerwithinenhancedrecoveryprograms:aprospectiverandomizedcontrolledtrial.JLaparoendoscAdvSurg
+TechA.2017;27(9):959-964.doi:10.1089/lap.2016.0057
+76. MohsinaS,ShanmugamD,SureshkumarS,KundraP,MahalakshmyT,KateV.AdaptedERASpathwayvs.
+standardcareinpatientswithperforatedduodenalulcer-arandomizedcontrolledtrial.JGastrointestSurg.2018;
+22(1):107-116.doi:10.1007/s11605-017-3474-2
+77. MullerS,ZalunardoMP,HubnerM,ClavienPA,DemartinesN;ZurichFastTrackStudyGroup.Afast-track
+programreducescomplicationsandlengthofhospitalstayafteropencolonicsurgery.Gastroenterology.2009;
+136(3):842-847.doi:10.1053/j.gastro.2008.10.030
+78. NakanishiW,MiyagiS,TokodaiK,etal.Effectofenhancedrecoveryaftersurgeryprotocolonrecoveryafter
+openhepatectomy:arandomizedclinicaltrial.AnnSurgTreatRes.2020;99(6):320-328.doi:10.4174/astr.2020.
+99.6.320
+JAMANetworkOpen.2024;7(6):e2417310.doi:10.1001/jamanetworkopen.2024.17310 (Reprinted) June18,2024 13/16
+Downloaded from jamanetwork.com by guest on 04/29/2025JAMANetworkOpen | Surgery ERASandHospitalLengthofStay,Readmission,Complications,andMortality
+79. Nunez-VenzorA,Trejo-AvilaM,Cardenas-LailsonE,Valenzuela-SalazarC,Herrera-EsquivelJ,Moreno-Portillo
+M.Effectofenhancedrecoveryaftersurgeryonlaparoscopicappendectomyoutcomesinpatientswith
+complicatedappendicitis:arandomizedcontrolledtrial.SNComprClinMed.2021;3(2):646-653.doi:10.1007/s42399-
+021-00788-5
+80. OstermannS,MorelP,ChaléJJ,etal.Randomizedcontrolledtrialofenhancedrecoveryprogramdedicated
+toelderlypatientsaftercolorectalsurgery.DisColonRectum.2019;62(9):1105-1116.doi:10.1097/DCR.
+0000000000001442
+81. PanX,MaY,FangM,JiangJ,ShenJ,ZhanR.Improvementinthequalityofearlypostoperativecourseafter
+endoscopictranssphenoidalpituitarysurgery:descriptionofsurgicaltechniqueandoutcome.FrontNeurol.2020;
+11(101546899):527323.doi:10.3389/fneur.2020.527323
+82. PengJ,DongR,JiaoJ,etal.Enhancedrecoveryaftersurgeryimpactonthesystemicinflammatoryresponse
+ofpatientsfollowinggynecologicaloncologysurgery:aprospectiverandomizedstudy.CancerManagRes.2021;13
+(101512700):4383-4392.doi:10.2147/CMAR.S294718
+83. PirzadaMT,NaseerF,HaiderR,etal.Enhancedrecoveryaftersurgery(ERAS)protocolinstomareversals.
+JPakMedAssoc.2017;67(11):1674-1678.
+84. PrabhakaranS,MisraS,MagilaM,etal.Randomizedcontrolledtrialcomparingtheoutcomesofenhanced
+recoveryaftersurgeryandstandardrecoverypathwaysinlaparoscopicsleevegastrectomy.ObesSurg.2020;30
+(9):3273-3279.doi:10.1007/s11695-020-04585-2
+85. QuL,LiuB,ZhangH,etal.Managementofpostoperativepainafterelectivecraniotomy:aprospective
+randomizedcontrolledtrialofaneurosurgicalenhancedrecoveryaftersurgery(ERAS)program.IntJMedSci.
+2020;17(11):1541-1549.doi:10.7150/ijms.46403
+86. RaoJH,ZhangF,LuH,etal.Effectsofmultimodalfast-tracksurgeryonlivertransplantationoutcomes.
+HepatobiliaryPancreatDisInt.2017;16(4):364-369.doi:10.1016/S1499-3872(17)60020-1
+87. RenL,ZhuD,WeiY,etal.Enhancedrecoveryaftersurgery(ERAS)programattenuatesstressandaccelerates
+recoveryinpatientsafterradicalresectionforcolorectalcancer:aprospectiverandomizedcontrolledtrial.WorldJ
+Surg.2012;36(2):407-414.doi:10.1007/s00268-011-1348-4
+88. Ruiz-TovarJ,GarciaA,FerrigniC,GonzalezJ,CastellonC,DuranM.Impactofimplementationofanenhanced
+recoveryaftersurgery(ERAS)programinlaparoscopicRoux-en-Ygastricbypass:aprospectiverandomizedclinical
+trial.SurgObesRelatDis.2019;15(2):228-235.doi:10.1016/j.soard.2018.11.002
+89. Sanchez-IglesiasJL,Carbonell-SociasM,Perez-BenaventeMA,MonrealCluaS,Manrique-MunozS,Garcia
+GorrizM,etal.PROFAST:arandomisedtrialimplementingenhancedrecoveryaftersurgeryforhighcomplexity
+advancedovariancancersurgery.EurJCancer.2020;136:149-158.doi:10.1016/j.ejca.2020.06.011
+90. Sanchez-IglesiasJL,Gomez-HidalgoNR,Perez-BenaventeA,Carbonell-SociasM,Manrique-MunozS,Serrano
+MP,etal.Importanceofenhancedrecoveryaftersurgery(ERAS)protocolcomplianceforlengthofstayinovarian
+cancersurgery.AnnSurgOnc.2021;28(13):8979-8986.doi:10.1245/s10434-021-10228-2
+91. SaurabhK,SureshkumarS,MohsinaS,MahalakshmyT,KundraP,KateV.AdaptedERASpathwayversus
+standardcareinpatientsundergoingemergencysmallbowelsurgery:arandomizedcontrolledtrial.JGastrointest
+Surg.2020;24(9):2077-2087.doi:10.1007/s11605-020-04684-6
+92. SazhinAV,NechayTV,TitkovaSM,etal.Fast-trackrehabilitationforacutecholecystitis:intermediate
+outcomesofprospectiverandomizedtrial.Khirurgiia(Mosk).2018;(12):13-20.doi:10.17116/hirurgia201812113
+93. SazhinAV,NechayTV,TitkovaSM,etal.Comparisonofstandardandfasttrackrehabilitationinpatientswith
+acuteappendicitis:intermediateresultsofmulticenterprospectiverandomizedtrial.Khirurgiia(Mosk).2018;
+(9):15-23.doi:10.17116/hirurgia2018090115
+94. SciosciaM,CeccaroniM,GentileI,etal.Randomizedtrialonfasttrackcareincolorectalsurgeryfordeep
+infiltratingendometriosis.JMinimInvasiveGynecol.2017;24(5):815-821.doi:10.1016/j.jmig.2017.04.004
+95. SerclovaZ,DytrychP,MarvanJ,NovaK,HankeovaZ,RyskaO,etal.Fast-trackinopenintestinalsurgery:
+prospectiverandomizedstudy.ClinNutr.2009;28(6):618-624.
+96. SerclovaZ,DytrychP,MarvanJ,NovaK,HankeovaZ,RyskaO,etal.Toleranceofacceleratedpostoperative
+rehabilitationfollowingintestinalresections.RozhlChir.2009;88(4):178-184.
+97. SharmaJ,KumarN,HudaF,PayalYS.Enhancedrecoveryaftersurgeryprotocolinemergencylaparotomy:
+arandomizedcontrolstudy.SurgJ(NY).2021;7(2):e92-e99.doi:10.1055/s-0041-1725156
+98. ShetiwyM,FadyT,ShahattoF,SetitA.Standardizingtheprotocolsforenhancedrecoveryfromcolorectal
+cancersurgery:areweastepclosertoidealrecovery?AnnColoproctol.2017;33(3):86-92.doi:10.3393/ac.2017.
+33.3.86
+JAMANetworkOpen.2024;7(6):e2417310.doi:10.1001/jamanetworkopen.2024.17310 (Reprinted) June18,2024 14/16
+Downloaded from jamanetwork.com by guest on 04/29/2025JAMANetworkOpen | Surgery ERASandHospitalLengthofStay,Readmission,Complications,andMortality
+99. SoffinEM,BeckmanJD,TsengA,etal.Enhancedrecoveryafterlumbarspinefusion:arandomizedcontrolled
+trialtoassessthequalityofpatientrecovery.Anesthesiology.2020;133(2):350-363.doi:10.1097/ALN.
+0000000000003346
+100. SwaminathanN,KundraP,RaviR,KateV.ERASprotocolwithrespiratoryprehabilitationversusconventional
+perioperativeprotocolinelectivegastrectomy-arandomizedcontrolledtrial.IntJSurg.2020;81:149-157.doi:10.
+1016/j.ijsu.2020.07.027
+101. TakagiK,YoshidaR,YagiT,UmedaY,NobuokaD,KuiseT,etal.Effectofanenhancedrecoveryaftersurgery
+protocolinpatientsundergoingpancreaticoduodenectomy:arandomizedcontrolledtrial.ClinNutr.2019;38(1):
+174-181.doi:10.1016/j.clnu.2018.01.002
+102. TanakaR,LeeS-W,KawaiM,TashiroK,KawashimaS,KagotaS,etal.Protocolforenhancedrecoveryafter
+surgeryimprovesshort-termoutcomesforpatientswithgastriccancer:arandomizedclinicaltrial.GastricCancer.
+2017;20(5):861-871.doi:10.1007/s10120-016-0686-1
+103. TaupykY,CaoX,ZhaoY,WangC,WangQ.Fast-tracklaparoscopicsurgery:abetteroptionfortreating
+colorectalcancerthanconventionallaparoscopicsurgery.OncolLett.2015;10(1):443-448.doi:10.3892/ol.
+2015.3166
+104. TeigenNC,SahasrabudheN,DoulaverisG,XieX,NegassaA,BernsteinJ,etal.Enhancedrecoveryafter
+surgeryatcesareandeliverytoreducepostoperativelengthofstay:arandomizedcontrolledtrial.AmJObstet
+Gynecol.2020;222(4):372.e1-372.e10.doi:10.1016/j.ajog.2019.10.009
+105. Trejo-ÁvilaME,Romero-LoeraS,Cárdenas-LailsonE,etal.Enhancedrecoveryaftersurgeryprotocolallows
+ambulatorylaparoscopicappendectomyinuncomplicatedacuteappendicitis:aprospective,randomizedtrial.
+SurgEndosc.2019;33(2):429-436.doi:10.1007/s00464-018-6315-9
+106. VladO,CatalinB,MihaiH,etal.Enhancedrecoveryaftersurgery(ERAS)protocolsinpatientsundergoing
+radicalcystectomywithilealurinarydiversions:Arandomizedcontrolledtrial.Medicine(Baltimore).2020;99(27):
+e20902.doi:10.1097/MD.0000000000020902
+107. WangY,LiuB,ZhaoT,etal.Safetyandefficacyofanovelneurosurgicalenhancedrecoveryaftersurgery
+protocolforelectivecraniotomy:aprospectiverandomizedcontrolledtrial.JNeurosurg.2018;130(5):1-12.
+108. WuXF,KongWF,WangWH,etal.Enhancedrecoveryaftersurgeryprotocolsinfunctionalendoscopicsinus
+surgeryforpatientswithchronicrhinosinusitiswithnasalpolyps:arandomizedclinicaltrial.ChinMedJ(Engl).
+2019;132(3):253-258.doi:10.1097/CM9.0000000000000060
+109. YangG,ChenW,ChenW,TangX,HuangY,ZhangL.Feasibilityandsafetyof2-daydischargeafterfast-track
+totalhiparthroplasty:aChineseexperience.JArthroplasty.2016;31(8):1686-1692.e1.doi:10.1016/j.arth.2016.
+02.011
+110. YilmazG,AkçaA,AydinN.Enhancedrecoveryaftersurgery(ERAS)versusconventionalpostoperativecare
+inpatientsundergoingabdominalhysterectomies.GinekolPol.2018;89(7):351-356.doi:10.5603/GP.a2018.0060
+111. YilmazG,AkcaA,KiyakH,SalihogluZ.Comparisonofenhancedrecoveryprotocolwithconventionalcarein
+patientsundergoingminorgynecologicsurgery.WideochirInneTechMaloinwazyjne.2020;15(1):220-226.doi:10.
+5114/wiitm.2019.85464
+112. ZhaoG,CaoS,CuiJ.Fast-tracksurgeryimprovespostoperativeclinicalrecoveryandreducespostoperative
+insulinresistanceafteresophagectomyforesophagealcancer.SupportCareCancer.2014;22(2):351-358.doi:10.
+1007/s00520-013-1979-0
+113. PanJ,HeiZ,LiL,etal.Theadvantageofimplementationofenhancedrecoveryaftersurgery(ERAS)inacute
+painmanagementduringelectivecesareandelivery:aprospectiverandomizedcontrolledtrial.TherClinRisk
+Manag.2020;16(101253281):369-378.doi:10.2147/TCRM.S244039
+114. LiuXX,PanHF,JiangZW,etal.Fast-trackandminimallyinvasivesurgeryforgastriccancer.ChinMedJ(Engl).
+2016;129(19):2294-2300.doi:10.4103/0366-6999.190659
+115. PangQ,DuanL,JiangY,LiuH.Oncologicandlong-termoutcomesofenhancedrecoveryaftersurgeryin
+cancersurgeries:asystematicreview.WorldJSurgOncol.2021;19(1):191.doi:10.1186/s12957-021-02306-2
+116. DamschroderLJ,AronDC,KeithRE,KirshSR,AlexanderJA,LoweryJC.Fosteringimplementationofhealth
+servicesresearchfindingsintopractice:aconsolidatedframeworkforadvancingimplementationscience.
+ImplementSci.2009;4:50.doi:10.1186/1748-5908-4-50
+117. KangY,LiuJ,ChenH,etal.Enhancedrecoveryaftersurgery(ERAS)inelectiveintertrochantericfracture
+patientsresultinreducedlengthofhospitalstay(LOS)withoutcompromisingfunctionaloutcome.JOrthopSurg
+Res.2019;14(1):209.doi:10.1186/s13018-019-1238-2
+118. WeiJJ,LinEX,ShiJD,etal.Meta-analysiswithzero-eventstudies:acomparativestudywithapplicationto
+COVID-19data.MilMedRes.2021;8(1):41.doi:10.1186/s40779-021-00331-6
+JAMANetworkOpen.2024;7(6):e2417310.doi:10.1001/jamanetworkopen.2024.17310 (Reprinted) June18,2024 15/16
+Downloaded from jamanetwork.com by guest on 04/29/2025JAMANetworkOpen | Surgery ERASandHospitalLengthofStay,Readmission,Complications,andMortality
+119. FearonKC,LjungqvistO,VonMeyenfeldtM,etal.Enhancedrecoveryaftersurgery:aconsensusreviewof
+clinicalcareforpatientsundergoingcolonicresection.ClinNutr.2005;24(3):466-477.doi:10.1016/j.clnu.2005.
+02.002
+120. EngelmanRM,RousouJA,FlackJEIII,etal.Fast-trackrecoveryofthecoronarybypasspatient.AnnThorac
+Surg.1994;58(6):1742-1746.doi:10.1016/0003-4975(94)91674-8
+121. BardramL,Funch-JensenP,JensenP,CrawfordME,KehletH.Recoveryafterlaparoscopiccolonicsurgery
+withepiduralanalgesia,andearlyoralnutritionandmobilisation.Lancet.1995;345(8952):763-764.doi:10.1016/
+S0140-6736(95)90643-6
+122. MøinicheS,BülowS,HesselfeldtP,HestbaekA,KehletH.Convalescenceandhospitalstayaftercolonic
+surgerywithbalancedanalgesia,earlyoralfeeding,andenforcedmobilisation.EurJSurg.1995;161(4):283-288.
+123. ERASComplianceGroup.Theimpactofenhancedrecoveryprotocolcomplianceonelectivecolorectalcancer
+resection:resultsfromaninternationalregistry.AnnSurg.2015;261(6):1153-1159.doi:10.1097/SLA.
+0000000000001029
+124. WijkL,UdumyanR,PacheB,AltmanAD,WilliamsLL,EliasKM,etal.Internationalvalidationofenhanced
+recoveryaftersurgerysocietyguidelinesonenhancedrecoveryforgynecologicsurgery.AmJObstetGynecol.
+2019;221(3):237.e1-237.e11.doi:10.1097/SGA.0000000000000417
+125. OoditR,BiccardB,BrindleM,LjungqvistO,NelsonG.ERASSocietyrecommendationsforimproving
+perioperativecareinlow-andmiddle-incomecountriesthroughimplementationofexistingtoolsandprograms:
+anurgentneedforthesurgicalsafetychecklistandenhancedrecoveryaftersurgery.WorldJSurg.2022;46
+(5):1247.doi:10.1007/s00268-022-06450-y
+126. LjungqvistO,deBoerHD,BalfourA,etal.Opportunitiesandchallengesforthenextphaseofenhanced
+recoveryaftersurgery:areview.JAMASurg.2021;156(8):775-784.doi:10.1001/jamasurg.2021.0586
+127. GrimshawJM,ThomasRE,MacLennanG,etal.Effectivenessandefficiencyofguidelinedisseminationand
+implementationstrategies.HealthTechnolAssess.2004;8(6):iii-iv,1-72.doi:10.3310/hta8060
+128. PetersS,SukumarK,BlanchardS,etal.Trendsinguidelineimplementation:anupdatedscopingreview.
+ImplementSci.2022;17(1):50.doi:10.1186/s13012-022-01223-6
+129. GustafssonUO,OppelstrupH,ThorellA,NygrenJ,LjungqvistO.AdherencetotheERASprotocolis
+associatedwith5-yearsurvivalaftercolorectalcancersurgery:aretrospectivecohortstudy.WorldJSurg.2016;
+40(7):1741-1747.doi:10.1007/s00268-016-3460-y
+130. TwomeyR,MatthewsTW,NakoneshnyS,etal.Impactofearlymobilizationonrecoveryaftermajorheadand
+necksurgerywithfreeflapreconstruction.Cancers(Basel).2021;13(12):2852.doi:10.3390/cancers13122852
+131. TwomeyR,MatthewsTW,NakoneshnySC,etal.Frompathwaystopractice:impactofimplementing
+mobilizationrecommendationsinheadandneckcancersurgerywithfreeflapreconstruction.Cancers(Basel).
+2021;13(12):2890.doi:10.3390/cancers13122890
+132. FrancisNK,WalkerT,CarterF,etal.Consensusontrainingandimplementationofenhancedrecoveryafter
+surgery:aDelphistudy.WorldJSurg.2018;42(7):1919-1928.doi:10.1007/s00268-017-4436-2
+133. CabanaMD,RandCS,PoweNR,etal.Whydon’tphysiciansfollowclinicalpracticeguidelines:aframeworkfor
+improvement.JAMA.1999;282(15):1458-1465.doi:10.1001/jama.282.15.1458
+134. FarquharCM,KofaEW,SlutskyJR.Clinicians’attitudestoclinicalpracticeguidelines:asystematicreview.
+MedJAust.2002;177(9):502-506.doi:10.5694/j.1326-5377.2002.tb04920.x
+SUPPLEMENT1.
+eAppendix1.SearchStrategy
+eAppendix2.DataDictionary
+eTable1.CharacteristicsofIncludedStudies
+eTable2.RiskofBias
+eFigure.PRISMAFlowDiagram
+SUPPLEMENT2.
+DataSharingStatement
+JAMANetworkOpen.2024;7(6):e2417310.doi:10.1001/jamanetworkopen.2024.17310 (Reprinted) June18,2024 16/16
+Downloaded from jamanetwork.com by guest on 04/29/2025
