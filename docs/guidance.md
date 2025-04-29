@@ -10,7 +10,6 @@ cd Med-EECS_LLM
 conda create -n langchain-rag python=3.10 -y
 conda activate langchain-rag
 pip install -r requirements.txt
-pip install -r ./apps/RAG_requirements.txt
 ```
 
 ## Web Entry
