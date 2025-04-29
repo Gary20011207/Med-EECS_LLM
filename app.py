@@ -1,6 +1,8 @@
 from flask import Flask, render_template, request, jsonify, session, redirect, url_for
 import sqlite3
+import os
 from werkzeug.security import generate_password_hash, check_password_hash
+from apps.RAG_NAIVE2 import generate_reply
 
 app = Flask(__name__)
 app.secret_key = 'your-secret-key'
@@ -55,13 +57,14 @@ def logout():
     session.clear()
     return redirect(url_for("login"))
 
-# Chat route (must be logged in)
+# Chat page (must be logged in)
 @app.route("/")
 def chat():
     if "user_id" not in session:
         return redirect(url_for("login"))
     return render_template("chat.html", username=session["username"])
 
+# Get chat history
 @app.route("/get_history")
 def get_history():
     if "user_id" not in session:
@@ -75,13 +78,28 @@ def get_history():
     conn.close()
     return jsonify([{"sender": row["sender"], "message": row["message"]} for row in messages])
 
+# Get available PDFs
+@app.route("/get_pdfs")
+def get_pdfs():
+    pdfs = [f for f in os.listdir("./PDFS") if f.endswith(".pdf")]
+    pdfs = ["All PDFs"] + sorted(pdfs)
+    return jsonify(pdfs)
+
+# Send a message
 @app.route("/send_message", methods=["POST"])
 def send_message():
     if "user_id" not in session:
         return jsonify({"reply": "Unauthorized"}), 401
 
-    user_input = request.json.get("message")
-    bot_reply = chatbot_response(user_input)
+    data = request.json
+    user_input = data.get("message")
+    
+    # 因為沒有選PDF了，直接預設問全部
+    selected_pdf = "All PDFs"
+
+    history = []
+    new_history, _ = generate_reply(user_input, selected_pdf, history)
+    bot_reply = new_history[-1][1]
 
     conn = get_db_connection()
     conn.execute("INSERT INTO chat_history (user_id, sender, message) VALUES (?, ?, ?)", (session["user_id"], "user", user_input))
@@ -91,13 +109,5 @@ def send_message():
 
     return jsonify({"reply": bot_reply})
 
-def chatbot_response(user_input):
-    if "hello" in user_input.lower():
-        return "Hi there! How can I help you?"
-    elif "bye" in user_input.lower():
-        return "Goodbye! Have a nice day!"
-    else:
-        return "I'm just a simple bot, but I'm learning!"
-
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=5001, debug=True)
