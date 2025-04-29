@@ -1,0 +1,56 @@
+This document is derived from the consensus guidelines jointly issued by the Enhanced Recovery After Surgery (ERAS) Society and the Society for Vascular Surgery. It focuses on perioperative care for patients undergoing lower extremity vascular bypass surgery, providing a list of structured recommendations aimed at improving recovery, reducing complications, and standardizing best practices.
+
+
+1. Item: Patient Education and Counseling
+   Phase: Preoperative
+   Summary: Patients should receive dedicated verbal and written preoperative education and counseling.
+   Recommendation Strength: Low
+   Evidence Level: Low
+
+2. Item: Nutritional Deficiency
+   Phase: Preoperative
+   Summary: Screen for malnutrition and treat nutritional deficiency preferably with oral regimens.
+   Recommendation Strength: Moderate
+   Evidence Level: Moderate
+
+3. Item: Anemia Screening
+   Phase: Preoperative
+   Summary: Evaluate the cause of and treat chronic preoperative anemia.
+   Recommendation Strength: Low
+   Evidence Level: Low
+
+4. Item: Frailty Screening
+   Phase: Preoperative
+   Summary: Screen for frailty as a routine part of preoperative patient assessment.
+   Recommendation Strength: Moderate
+   Evidence Level: Moderate
+
+5. Item: Delirium Risk
+   Phase: Preoperative
+   Summary: Screen for delirium risk and implement preoperative practices to minimize onset of delirium as a routine part of practice.
+   Recommendation Strength: Low
+   Evidence Level: Low
+
+6. Item: Psychosocial Concerns
+   Phase: Preoperative
+   Summary: Routinely screen for depression.
+   Recommendation Strength: Low
+   Evidence Level: Low
+
+7. Item: Tobacco and Alcohol Cessation
+   Phase: Preoperative
+   Summary: Prescribe smoking cessation therapy before surgery. Recommend alcohol cessation 4 weeks prior to surgery.
+   Recommendation Strength: High / Low
+   Evidence Level: High / Low
+
+8. Item: Medical Risk Evaluation
+   Phase: Preoperative
+   Summary: Evaluate and optimize comorbidities prior to elective surgery and consider medical risks before urgent surgery.
+   Recommendation Strength: High
+   Evidence Level: High
+
+9. Item: Glycemic Control
+   Phase: Preoperative
+   Summary: All patients should have a baseline HbA1c level prior to revascularization. Treat hyperglycemia in coordination with specialists.
+   Recommendation Strength: High
+   Evidence Level: High
