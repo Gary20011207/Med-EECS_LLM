@@ -48,9 +48,13 @@ def view_user_details(user_id):
         conn.close()
         return abort(403)  # Forbidden
 
-    user = conn.execute("SELECT username, dob, surgery_type, current_expert FROM users WHERE id = ?", (user_id,)).fetchone()
+    user = conn.execute("SELECT id, username, dob, surgery_type, current_expert FROM users WHERE id = ?", (user_id,)).fetchone()
     chat_history = conn.execute(
         "SELECT sender, message, timestamp FROM chat_history WHERE user_id = ? ORDER BY timestamp ASC",
+        (user_id,)
+    ).fetchall()
+    todo_list = conn.execute(
+        "SELECT id, task, completed FROM todo_list WHERE user_id = ?",
         (user_id,)
     ).fetchall()
     conn.close()
@@ -58,7 +62,56 @@ def view_user_details(user_id):
     if not user:
         return abort(404)  # User not found
 
-    return render_template("user_details.html", user=user, chat_history=chat_history)
+    return render_template("user_details.html", user=user, chat_history=chat_history, todo_list=todo_list)
+
+@app.route("/admin/add_todo/<int:user_id>", methods=["POST"])
+def admin_add_todo(user_id):
+    if "user_id" not in session or session.get("is_admin") != 1:
+        return abort(403)  # Forbidden
+
+    task = request.form.get("task")
+    if not task:
+        return "Task cannot be empty!", 400
+
+    add_todo_item(user_id, task)
+    return redirect(url_for("view_user_details", user_id=user_id))
+
+@app.route("/admin/complete_todo/<int:user_id>/<int:item_id>", methods=["POST"])
+def admin_complete_todo(user_id, item_id):
+    if "user_id" not in session or session.get("is_admin") != 1:
+        return abort(403)
+    # Forbidden
+    update_todo_item(item_id, 1)
+    return redirect(url_for("view_user_details", user_id=user_id))
+
+@app.route("/admin/uncomplete_todo/<int:user_id>/<int:item_id>", methods=["POST"])
+def admin_uncomplete_todo(user_id, item_id):
+    if "user_id" not in session or session.get("is_admin") != 1:
+        return abort(403)
+    # Forbidden
+    update_todo_item(item_id, 0)
+    return redirect(url_for("view_user_details", user_id=user_id))
+
+@app.route("/admin/delete_todo/<int:user_id>/<int:item_id>", methods=["POST"])
+def admin_delete_todo(user_id, item_id):
+    if "user_id" not in session or session.get("is_admin") != 1:
+        return abort(403)
+    # Forbidden
+    delete_todo_item(item_id)
+    return redirect(url_for("view_user_details", user_id=user_id))
+
+@app.route("/admin/delete_user/<int:user_id>", methods=["POST"])
+def admin_delete_user(user_id):
+    if "user_id" not in session or session.get("is_admin") != 1:
+        return abort(403)
+    # Forbidden
+    conn = get_db_connection()
+    conn.execute("DELETE FROM users WHERE id = ?", (user_id,))
+    conn.execute("DELETE FROM chat_history WHERE user_id = ?", (user_id,))
+    conn.execute("DELETE FROM todo_list WHERE user_id = ?", (user_id,))
+    conn.commit()
+    conn.close()
+    return redirect(url_for("admin_dashboard"))
 
 # User registration
 @app.route("/register", methods=["GET", "POST"])
@@ -229,11 +282,66 @@ def get_current_expert(user_id): # Default (0), 營養師(1)、護理(2)、復�
     current_expert = conn.execute("SELECT current_expert FROM users WHERE id = ?", (user_id,)).fetchone()
     conn.close()
     return current_expert
+def get_todo_list(user_id):
+    conn = get_db_connection()
+    todo_list = conn.execute("SELECT * FROM todo_list WHERE user_id = ?", (user_id,)).fetchall()
+    conn.close()
+    return todo_list
+def add_todo_item(user_id, task):
+    conn = get_db_connection()
+    conn.execute("INSERT INTO todo_list (user_id, task) VALUES (?, ?)", (user_id, task))
+    conn.commit()
+    conn.close()
+def update_todo_item(item_id, completed):
+    conn = get_db_connection()
+    conn.execute("UPDATE todo_list SET completed = ? WHERE id = ?", (completed, item_id))
+    conn.commit()
+    conn.close()
+def delete_todo_item(item_id):
+    conn = get_db_connection()
+    conn.execute("DELETE FROM todo_list WHERE id = ?", (item_id,))
+    conn.commit()
+    conn.close()
+
+@app.route("/get_todo_list")
+def get_todo_list_route():
+    if "user_id" not in session:
+        return jsonify([])
+
+    todo_list = get_todo_list(session["user_id"])
+    return jsonify([{"id": item["id"], "task": item["task"], "completed": bool(item["completed"])} for item in todo_list])
+
+@app.route("/add_todo", methods=["POST"])
+def add_todo_route():
+    if "user_id" not in session:
+        return jsonify({"error": "Unauthorized"}), 401
+
+    data = request.json
+    task = data.get("task")
+    if not task:
+        return jsonify({"error": "Task cannot be empty"}), 400
+
+    add_todo_item(session["user_id"], task)
+    return jsonify({"success": True})
+
+@app.route("/update_todo/<int:item_id>", methods=["POST"])
+def update_todo_route(item_id):
+    if "user_id" not in session:
+        return jsonify({"error": "Unauthorized"}), 401
+
+    data = request.json
+    completed = data.get("completed")
+    if completed is None:
+        return jsonify({"error": "Invalid request"}), 400
+
+    update_todo_item(item_id, int(completed))
+    return jsonify({"success": True})
 
 if __name__ == "__main__":
     # Initialize the database if it doesn't exist
     if not os.path.exists(DB_PATH):
         conn = get_db_connection()
+        # Create a new SQLite database
         conn.execute('''
             CREATE TABLE IF NOT EXISTS users (
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -245,6 +353,7 @@ if __name__ == "__main__":
                 current_expert INTEGER DEFAULT 0 NOT NULL
             )
         ''')
+        # Create a table for chat history
         conn.execute('''
             CREATE TABLE IF NOT EXISTS chat_history (
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -255,6 +364,17 @@ if __name__ == "__main__":
                 FOREIGN KEY (user_id) REFERENCES users(id)
             )
         ''')
+        # Create a table for todo list
+        conn.execute('''
+            CREATE TABLE IF NOT EXISTS todo_list (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                user_id INTEGER NOT NULL,
+                task TEXT NOT NULL,
+                completed INTEGER DEFAULT 0,
+                FOREIGN KEY (user_id) REFERENCES users(id)
+            )
+        ''')
+        # Create an admin user
         conn.execute('''
             INSERT INTO users (username, password, is_admin) VALUES (?, ?, ?)
         ''', ("admin", generate_password_hash("nimda"), 1))
