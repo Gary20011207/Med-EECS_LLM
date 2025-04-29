@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin Chat Viewer</title>
+    <style>
+        body { font-family: Arial; max-width: 800px; margin: auto; padding: 20px; }
+        .user { color: blue; }
+        .bot { color: green; }
+        .entry { margin-bottom: 8px; }
+    </style>
+</head>
+<body>
+    <h2>Admin Panel – All Chats</h2>
+    <a href="/">Back to Chat</a> | <a href="/logout">Logout</a>
+    <hr>
+    {% for row in chats %}
+        <div class="entry">
+            <strong>{{ row.username }} ({{ row.sender }}):</strong>
+            {{ row.message }} <small>({{ row.timestamp }})</small>
+        </div>
+    {% endfor %}
+</body>
+</html>

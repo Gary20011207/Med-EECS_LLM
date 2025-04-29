@@ -15,14 +15,15 @@ pip install -r ./apps/RAG_requirements.txt
 
 ## Web Entry
 
-### Initialize Database
-```
-python3 init_db.py
-```
-### Run Web
+### Run Web Server
 ```
 python3 app.py
 ```
+The database `chat.db` will be initialized the first time this is run.
+
+### Default admin account
+- Username: admin
+- Password: nimda
 
 ## Naive RAG Pipeline
 

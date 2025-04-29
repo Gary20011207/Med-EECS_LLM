@@ -1,8 +1,14 @@
-from flask import Flask, render_template, request, jsonify, session, redirect, url_for
+from flask import Flask, render_template, request, jsonify, session, redirect, url_for, abort
 import sqlite3
 import os
+import sys
 from werkzeug.security import generate_password_hash, check_password_hash
-from apps.RAG_NAIVE2 import generate_reply
+
+# Check for WEB parameter
+WEB_DEV = "WEB" in sys.argv
+
+if not WEB_DEV:
+    from apps.RAG_NAIVE2 import generate_reply
 
 app = Flask(__name__)
 app.secret_key = 'your-secret-key'
@@ -12,6 +18,29 @@ def get_db_connection():
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     return conn
+
+# Admin dashboard
+@app.route("/admin")
+def admin_dashboard():
+    if "user_id" not in session:
+        return redirect(url_for("login"))
+
+    conn = get_db_connection()
+    user = conn.execute("SELECT * FROM users WHERE id = ?", (session["user_id"],)).fetchone()
+
+    if not user or user["is_admin"] != 1:
+        conn.close()
+        return abort(403)  # Forbidden
+
+    chats = conn.execute('''
+        SELECT users.username, chat_history.sender, chat_history.message, chat_history.timestamp
+        FROM chat_history
+        JOIN users ON users.id = chat_history.user_id
+        ORDER BY chat_history.timestamp ASC
+    ''').fetchall()
+
+    conn.close()
+    return render_template("admin.html", chats=chats)
 
 # User registration
 @app.route("/register", methods=["GET", "POST"])
@@ -98,8 +127,11 @@ def send_message():
     selected_pdf = "All PDFs"
 
     history = []
-    new_history, _ = generate_reply(user_input, selected_pdf, history)
-    bot_reply = new_history[-1][1]
+    if WEB_DEV:
+        bot_reply = chatbot_response(user_input)
+    else:
+        new_history, _ = generate_reply(user_input, selected_pdf, history)
+        bot_reply = new_history[-1][1]
 
     conn = get_db_connection()
     conn.execute("INSERT INTO chat_history (user_id, sender, message) VALUES (?, ?, ?)", (session["user_id"], "user", user_input))
@@ -109,5 +141,44 @@ def send_message():
 
     return jsonify({"reply": bot_reply})
 
+def chatbot_response(user_input):
+     if "hello" in user_input.lower():
+         return "Hi there! How can I help you?"
+     elif "bye" in user_input.lower():
+         return "Goodbye! Have a nice day!"
+     else:
+         return "I'm just a simple bot, but I'm learning!"
+
 if __name__ == "__main__":
+    # Initialize the database if it doesn't exist
+    if not os.path.exists(DB_PATH):
+        conn = get_db_connection()
+        conn.execute('''
+            CREATE TABLE IF NOT EXISTS users (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                username TEXT UNIQUE NOT NULL,
+                password TEXT NOT NULL,
+                is_admin INTEGER DEFAULT 0,
+                dob DATE,
+                surgery_type TEXT,
+                current_expert INTEGER DEFAULT 0 NOT NULL
+            )
+        ''')
+        conn.execute('''
+            CREATE TABLE IF NOT EXISTS chat_history (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                user_id INTEGER NOT NULL,
+                sender TEXT NOT NULL,
+                message TEXT NOT NULL,
+                timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
+                FOREIGN KEY (user_id) REFERENCES users(id)
+            )
+        ''')
+        conn.execute('''
+            INSERT INTO users (username, password, is_admin) VALUES (?, ?, ?)
+        ''', ("admin", generate_password_hash("nimda"), 1))
+        conn.commit()
+        conn.close()
+        print("Database initialized.")
+    # Run the Flask app
     app.run(host="0.0.0.0", port=5001, debug=True)
