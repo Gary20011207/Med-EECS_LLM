@@ -1,0 +1,482 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/342239904
+Using a Mobile Application for Real-Time Collection of Patient-Reported
+Outcomes in Hepatopancreatobiliary Surgery within an ERAS® Pathway
+Article in The American surgeon · August 2019
+DOI: 10.1177/000313481908500847
+CITATIONS READS
+26 214
+13 authors, including:
+Allyson Cochran John Martinie
+Atrium Health Wake Forest University
+97 PUBLICATIONS 525 CITATIONS 322 PUBLICATIONS 5,265 CITATIONS
+SEE PROFILE SEE PROFILE
+Dionisios Vrochides
+University of North Carolina at Charlotte
+372 PUBLICATIONS 2,874 CITATIONS
+SEE PROFILE
+All content following this page was uploaded by Allyson Cochran on 24 June 2020.
+The user has requested enhancement of the downloaded file.Using a Mobile Application for Real-Time
+Collection of Patient-Reported Outcomes in
+Hepatopancreatobiliary Surgery within
+(cid:1)
+an ERAS Pathway
+RYANPICKENS,M.D.,*ALLYSONCOCHRAN,M.S.P.H.,†KENDRATEZBER,M.S.N.,R.N.,C.N.L.,*RENNABERRY,‡
+EMILYBHATTACHARYA,§DENICEKOO,M.S.,§LACEYKING,R.N.,*DAVIDA.IANNITTI,M.D.,*
+JOHNB.MARTINIE,M.D.,*ERINH.BAKER,M.D.,*LEEM.OCUIN,M.D.,*JARRETTHUNT,M.S.,‡
+DIONISIOSVROCHIDES,M.D.,PH.D.
+From the *Division of HPB Surgery, Department of Surgery, Atrium Health, Charlotte, North Carolina;
+†Department of Surgery, Atrium Health, Carolinas Center for Surgical Outcomes Science, Charlotte, North
+Carolina; ‡Information and Analytics Services, Atrium Health, Charlotte, North Carolina; and
+(cid:1)
+§SeamlessMD , Toronto, Canada
+Patient-reported outcomes (PROs) are essential for patient-centered health care. This pilot study
+implemented a mobile application customized to an hepatopancreatobiliary Enhanced Recovery
+After Surgery (ERAS(cid:1)) program—a novel environment—for real-time collection of PROs, in-
+cludingERAS(cid:1)pathwaycompliance.Patientsundergoinghepatectomy,distalpancreatectomy,or
+pancreaticoduodenectomy through the ERAS(cid:1) program were prospectively enrolled over
+10 months. The application provided education and questionnaires before surgery through
+30 days postdischarge. Thresholds were set for initial adoption of the application (75%), PRO
+responserate(50%),andpatientsatisfaction (75%).Dailypostdischargehealthchecksintegrated
+customized responses to guide out-of-hospital care. Of 165 enrolled patients, 122 met inclusion
+criteria.Applicationadoptionwas93percent(114/122)andin-hospitalengagementremainedhigh
+at 88 per cent (107/122). Patients completed 62 per cent of PRO on quality of life, postoperative
+pain, nausea, opioid consumption, and compliance to ERAS(cid:1) pathway items, including ambu-
+lation and breathing exercises. During postcharge tracking, 12 patients reported that the appli-
+cation prevented a phone call to the hospital and three patients reported prevention of an
+emergencyroomvisit.PROcollectionthrough thismobiledevice createdanintegratedplatform
+for comprehensive perioperative care, patient-initiated outcome tracking with automatic report-
+ing, and real-time feedback for process change. Improving proactive outpatient management of
+complex patients through mobile technology could help restructure health-care delivery and
+improve resource utilization for all patients.
+E NHANCED RECOVERY AFTER Surgery (ERAS(cid:1)) is surgical specialties, including hepatopancreatobiliary
+a comprehensive multidisciplinary approach to (HPB), has demonstrated similar improvements in
+the entire perioperative period for reducing physio- postsurgical length of stay and morbidity without
+logic stress and improving patient recovery through compromising readmission rate, morbidity, or mortal-
+standardized evidence-based multimodal practices.1 ity3,4andERAS(cid:1)consensusguidelinesnowexistfor
+ERAS(cid:1)programswerethefirstestablishedcolorectal major pancreas5 and liver operations.6
+surgeryandhaveconsistentlydemonstratedsignificant Simply implementing an institutional enhanced re-
+improvementsinloweringpostoperativemorbidityand covery protocol, however, does not itself guarantee
+reducing hospital length of stay.2 Expansion to other improvement in outcomes. A clear correlation has
+been demonstrated between increased compliance to
+ERAS(cid:1) pathway measures and improved clinical
+Address correspondence and reprint requests to Dionisios outcomes.7 Notably, the greatest improvement related
+Vrochides,M.D.,Ph.D,DivisionofHPBSurgery,Departmentof
+to compliance has been shown with protocol steps
+Surgery,AtriumHealth,CarolinasMedicalCenter,1025Morehead
+dependent on active patient engagement.8 A founda-
+MedicalDrive,Suite600,Charlotte,NC28204.E-mail:Dionisios.
+vrochides@atriumhealth.org. tional component to successful ERAS(cid:1) programs,
+909910 THE AMERICAN SURGEON August 2019 Vol. 85
+therefore, is institutional tracking of compliance to hepatectomy.Thestudydesignandmethodologywere
+pathway items through continuous auditing and rig- approved as a quality improvement initiative by the
+orous adjustment of implementation strategies to institutional review board.
+generate improved outcomes.1,9
+Unfortunately, multiple barriers typically exist at
+Mobile Application
+an institutional level, which create unique chal-
+lenges to effective implementation and auditing of An established mobile application developed by
+an ERAS(cid:1) program. Sufficient data collection for SeamlessMD(cid:1) (Seamless Mobile Health Inc., Mon-
+meaningful analysis requires allocation of limited treal, Canada) was customized to the ERAS(cid:1) pro-
+resourcesandcanimpedetheclinicalresponsibilities grams for the division of HPB at Carolinas Medical
+of the already burdened care providers. Patient edu- Center. The application is a web-based platform ac-
+cation and active participation are also crucial for cessible by any smartphone and tablet device and is
+much of the perioperative plan; however, dynamic available at no charge to the patients. The application
+feedbackfromthepatientperspectiveisoftenlimited. providesapatient-andsurgeon-specificportaltotheir
+Finally, traditional measures for outcome tracking individual perioperative surgical plan guided by the
+(e.g., questionnaires, chart review, and phone in- established ERAS(cid:1) pathway. Preoperatively, patients
+terviews) require extensive time for collection and are provided with scheduled task reminders for both
+analysis with most conclusions out-of-date before general preoperative preparation (e.g., reminders to
+they can be reported. keep exercising and eating healthy before surgery)
+Patient-reported outcomes (PROs) have been well and presurgery anxiety and quality-of-life benchmark
+validated for measuring patient experience during surveys, as well as specific ERAS(cid:1) pathway steps,
+perioperative care and are becoming foundational in including no food past midnight and drinking the
+the growing movement toward patient-centered recommended carbohydrate drink two hours before
+care.10,11 However, not until recently have they been surgery. Patients are also prompted to access a cus-
+recognized as a novel strategy for tracking clinical tomizeddigitaleducationallibraryreviewingdetailsof
+outcomes as well using the patient’s perspective and their medical condition, scheduled operation, and an-
+initiative.12 In addition, with the exponential rise in ticipated ERAS(cid:1) expectations. All educational mate-
+mobilepatient-centeredelectronicplatformsforhealth rials were developed in collaboration with the HPB
+care,theopportunitytoleveragetechnologytoengage providers to reflect the material provided in the stan-
+and educate patients throughout their entire peri- dardizedpreoperativeERAS(cid:1)educationalclassesand
+operative journey while simultaneously reporting and was verified as low literacy English at 6th-grade level
+tracking patient participation in clinical outcome according to the Flesch-Kinkaid readability test.
+measures (such as ERAS(cid:1) pathway items) offers an Beginning on the day of surgery, the application
+unprecedented opportunity. Recently, Pecorelli and then provides prompts to complete daily surveys to
+colleagues first described the use of a mobile appli- track symptoms, opiate use, anxiety and quality-of-
+cation for PRO collection specifically within an life scores, and ERAS(cid:1) pathway compliance. These
+ERAS(cid:1)program forcolorectalsurgery; however,this surveys are prompted daily in hospital and after dis-
+concept has yet to be explored for the often decondi- chargeuntil30dayspostoperatively.Attheendofthe
+tioned and comorbid HPB population undergoing 30-daystudy period, patients are askedto complete a
+major abdominal surgery. Therefore, we aim to dem- survey to assess their impression and likelihood to
+onstrate the novel implementation of an established recommend the application. After discharge, patients
+mobile health application for PRO collection in an are also prompted to complete daily health checks
+ERAS(cid:1) program for HPB surgery. to monitor symptoms at home. Responses to preset
+questions trigger recommendations customized spe-
+Methods cifically by the HPB surgeons for education and re-
+assurance, guidance for continued self-care at home,
+Study Design
+directions to call the HPB office nurse, or instruction
+This investigation is a prospective, single-group, to seek immediate medical attention at the nearest
+pilot study at a large tertiary HPB center. Patients ED.
+aged 18 years or older, who were scheduled for elec- All patient-reported data were stored in the app-
+tive surgery within an established ERAS(cid:1) program lication’s secure database and transmitted via
+in our institutional HPB service, were eligible for secure encryption to secure HIPAA-compliant Seam-
+participation. Three ERAS(cid:1) programs for HPB oper- lessMD(cid:1) servers. Deidentified data were used to
+ations were ongoing at the time of the study for generate regular reports, which were provided to the
+pancreaticoduodenectomy, distal pancreatectomy, and HPB service to track progress during the pilot study.Patient Enrollment andEducation Statistical Analysis
+All patients scheduled for eligible operations under Statistical analysis was performed using Stata
+ERAS(cid:1) protocols were introduced to the pilot study (Version 13, StataCorp, College Station, TX). De-
+at their standard preoperative ERAS(cid:1) education ap- scriptivedatawere reportedasmean[95%confidence
+pointment. Patients who were elected to enroll pro- interval] or median IQR. Categorical variables were
+vided informed consent for participation. All patients, comparedusingchi-squaredanalysis.APvalue<0.05
+regardlessofenrollmentinthepilot,weretreatedwith was considered statistically significant.
+thestandardofcarewithsmall-groupmultidisciplinary
+counseling at the preoperative class and hard-copy
+materialsgiventoallpatientsintheERAS(cid:1)program. Results
+For patients who elected to enroll, a detailed de- Patient Participation
+scription of the study was provided by the ERAS(cid:1)
+PatientswereenrolledinthepilotstudyfromMarch
+nurse leader and a hands-on tutorial on how to down-
+27 through December 31, 2018. Figure 1 shows the
+load and navigate the application. All patients were
+flowchart for patient selection and exclusion. During
+instructed to use their personal mobile device for the
+the pilot, 213 patients were eligible with 165 (77%)
+application before and after surgery. The application elected to enroll at their preoperative ERAS(cid:1) educa-
+was also designed as a tool for use by all members of
+tion class. All patients whose operations were aborted
+the patient’s support system; therefore, patients were before or at the time of surgery (n 4 27) or had not
+encouraged to involve their family and/or friends to
+completedthe30-daypostoperativeperiodbeforedata
+enterintheirresponsesintotheapplicationatanytime
+during their recovery. Patients were seen daily by the
+ERAS(cid:1)nurseleaderandprovidedencouragementand
+any assistance with using the application throughout
+their hospital recovery. On discharge, the patients
+continued to receive daily surveys at home or reha-
+bilitationfacilitybytheapplicationuntilpostoperative
+day(POD)30,aswellasaccesstoeducationalmaterial
+on recovery issues.
+Outcomes
+Theprimaryintentwastoevaluatetheapplication’s
+ability to capture and track PROs in real time and
+patient’sresponsivenesstotheapplication.Therefore,
+primary outcome measures and minimum success
+metricswereestablishedforpatientadoption(logging
+in and completing at least one PRO after enrollment)
+at $ 75 per cent, overall PRO response rate at $ 50
+per cent, and patient satisfaction as defined by pa-
+tient’s recommendation of the application to others
+at$75percent.Thesecondaryintentwastoevaluate
+the application’s ability to capture and track spe-
+cific responses for traditional PROs, including post-
+operative pain, nausea, and opiate use, as well as
+nontraditional PROs for compliance to ERAS(cid:1)
+pathway items in the preoperative and postopera-
+tive phases. Quality-of-life assessments were in-
+tegrated into the scheduled survey prompts using the
+abbreviated Quality of Recovery (QoR-15)13 and
+PROsMeasurementInformationSystem(PROMIS)14
+surveys both of which have been well validated
+in surgical populations.15,16 Patient responses to
+postdischarge health checks and actions prompted by
+the application and/or HPB clinical staff were also
+tracked.
+ylno
+roloc
+bew
+No. 8 MOBILE APPLICATION FOR PROS IN HPB SURGERY ? Pickens et al. 911
+FIG. 1. Flowchart for patient selection and exclusion.* Un-
+dergoing scheduled pancreaticoduodenectomy, hepatectomy, or
+distalpancreatectomyunderERAS(cid:1)program.analysis were excluded. At the conclusion of the pilot complianceremainedabovegoal(>50%)in aggregate
+period, 122 patients had completed the entire 30-day and individually for all but one of the benchmark
+postoperative study period and were included in the surveys.The30-dayend-of-studyPROMISsurveywas
+study. completed by 41 per cent of participants (just below
+theindividual50%target);however,surprisinglymore
+than 30 per cent were still engaging with the applica-
+Adoption and Engagement
+tion at 90 days after surgery to complete the same
+Patient adoption and engagement with the applica- PROMIS survey despite this being outside of the 30-
+tion is shown in Figure 2. Patient adoption was high day study period.
+with 93 per cent (114/122) of enrolled patients using Table 2 reports responses regarding patient satis-
+theapplicationatleastoncebeforesurgery.Immediate faction with the application. The response rates were
+postoperativeengagementremainedhighat88percent somewhat low; however, of the collected responses,
+(107/122). Engagement at after discharge showed the thesatisfactionratewasveryhighwith86percent(43/
+highest decline in participation yet still remained 50) recommending the application. Responders also
+above 50 per cent (63/122). Health check-ins per- indicated that the application helped 97 per cent (29/
+formed after discharge demonstrated high retention 30) “feel more prepared for surgery” and allowed 78
+through the remainder of the postdischarge period. per cent (69/88) to “feel more confident” and “worry
+less” during their recovery in the hospital or after
+Patient Reported Outcomes discharge. The application also successfully tracked
+traditional patient-reported data for opiate use, pain,
+During the study period, patients submitted 540 of
+and nausea daily up to 30 days after surgery (Fig. 3).
+944 prompted PROs for an overall PRO response
+By the completion of the pilot, we also successfully
+rate of 57 per cent. Table 1 shows a breakdown of
+implemented a pathway for immediately uploading
+PRO response categories for specific preoperative, in-
+individual patient-reported pain and nausea scores to
+hospital, and postdischarge questionnaires. Survey
+the electronic medical record (EMR) which could be
+used to make real-time interventions.
+PROs for ERAS Compliance
+Table 3 shows the patient-reported data for compli-
+ance to the institutional ERAS(cid:1) protocol for HPB
+surgery. Patients successfully reported compliance to
+postoperative questions for ambulation, breathing ex-
+ercises, and time spent in bed. Participation in com-
+pliancesurveyswaslowestonPOD1forbothliverand
+pancreassurgeriesbutremainedstablethroughPOD7.
+Postdischarge Health Tracking
+Table 4 displays the patient responses to post-
+discharge health checks and subsequent recommen-
+dations provided by the application and/or the HPB
+nursing staff. During the pilot, patients submitted 521
+health checks to track their recovery and symptom
+ylno
+roloc
+bew
+912 THE AMERICAN SURGEON August 2019 Vol. 85
+FIG.2. EngagementwithSeamlessMD(cid:1)applicationthrough-
+outtheperioperativeperiod.
+TABLE1. PROsSurveyParticipation
+Survey Responses(Liver) Responses(Pancreas) Responses(Total) Goal
+Tailoryourprogram(presurgery) 62%(29/47) 74%(66/89) 70%(95/136) $50%
+In-hospitalhealthcheck 57%(26/46) 57%(48/84) 57%(74/130) $50%
+QoR-15a(14dayspresurgery) 57%(27/47) 60%(52/86) 59%(79/133) $50%
+QoR-15a(3dayspostsurgery) 57%(26/46) 54%(44/81) 55%(70/127) $50%
+PROMISb(30dayspostsurgery) 45%(20/44) 39%(28/72) 41%(48/116) $50%
+PROMISb*(90dayspostsurgery) 31%(11/36) 31%(16/52) 31%(27/88) –
+* The PROMIS survey at 90 days was sent to patients but not included in the analysis of 30-day results for overall survey
+participation.
+aQoR-15,QualityofRecovery15questionsurvey,bPROMIS,PatientReportedOutcomeMeasurementInformationSystem.TABLE2. PatientExperienceSurveyResponseRates
+PercentofPatientswho… TotalResponse
+wouldrecommendtheapplication 86%(43/50)
+felttheapplicationhelpedthemfeelmorepreparedforsurgery 97%(29/302)
+felttheapplicationmadethemmoreconfidentabouttakingcareofthemselvesaftersurgery 78%(69/88)
+felttheapplicationhelpedthemworrylessaftersurgery 78%(69/88)
+progress after discharge. Of these total responders, 12 provide reassurance for 167 responses and guide 226
+patients reported that the applicationprevented one or responses to further self-care educational resources
+more phone calls to the office and three patients re- immediately accessible on the hand-held application.
+ported the application prevented a visit to the ED be- In addition, the application instructed patients to call
+cause of reassurance from the application’s responses the HPB office nurse for 121 responses and directed
+torecoveryquestions.Conversely,postdischargehealth seven patients to seek immediate medical care at the
+checks were triaged by the customized application to nearest ED.
+ylno
+roloc
+bew
+No. 8 MOBILE APPLICATION FOR PROS IN HPB SURGERY ? Pickens et al. 913
+FIG.3. PROsforopiateconsumption,pain,andnauseathrough30dayspostoperatively.914 THE AMERICAN SURGEON August 2019 Vol. 85
+TABLE3. Patient-ReportedCompliancetoERAS(cid:1)PathwayItemsBeginningtheDayafterSurgery
+ERAS(cid:1)ItemQuestion* POD1 POD2 POD3 POD4 POD5 POD6 POD7
+(Compliancedefinition) (n422) (n436) (n425) (n425) (n425) (n427) (n423)
+Didyoudoallyourbreathingexercises
+yesterday?(Compliance4“Yes,Idid
+themall”)
+Pancreassurgery 2/11 14/26 7/20 10/21 10/21 7/22 10/17
+Liversurgery 4/11 4/10 2/5 1/4 3/4 2/5 2/6
+Howmanywalksdidyoutakeyesterday
+(Compliance4“4ormorewalks”)
+Pancreassurgery 0/11 0/26 13/20 12/21 4/21 11/22 8/17
+Liversurgery 0/11 0/10 0/5 0/4 1/4 3/5 3/6
+Howmuchtimedidyouspendoutof
+bedyesterday?(Compliance44or
+morehours)
+Pancreassurgery 0/11 17/26 11/20 14/21 12/21 11/22 10/17
+Liversurgery 0/11 5/10 2/5 1/4 1/4 2/5 3/6
+* Questions were prompted in open-ended format with multiple-choice options; however, compliance was set as a binary
+outcomedefineduniquelyaslistedbeloweachquestion.
+TABLE4. PostdischargeHealthCheckTriageResponsesandAlerts
+Patient-ReportedReductioninHealth-CareVisits ResponseFrequency,n415
+“Applicationpreventedoneormorephonecallstotheoffice” 12
+“ApplicationpreventedoneormorevisitstotheED 3
+Healthcheckalerttype AlertFrequencyn4521
+“On-track”(Noissues) 167
+“Trytheseself-caretips”(customizededucationprovided) 226
+“Callyournurse” 121
+“GototheED” 7
+AlertssenttoHPBnurse(September–December2018only) GuidanceProvidedn427
+ReassuranceorSelf-care 10
+Clinicappointmentscheduled 8
+DirectedpatienttoEDimmediately 9
+Duringthefinalfourmonthsofthepilot(September– postdischarge recovery outcomes as well as compli-
+December 2018), all patient health checks, which ance to ERAS(cid:1) pathway items without additional
+prompted patients to seek medical advice or immediate resource utilization. Patient enrollment, adoption
+care,werealsosentdirectlytoanHPBnursepractitioner before, surgery, and engagement in the immediate
+for further investigation through a phone call to the pa- postoperative settings were excellent, and ongoing
+tient (n 4 27) (Table 4). Ten patients were provided retention after discharge through the 30-day study pe-
+direct guidance for further self-care, eight patients were riod remained high. Patients reported high satisfaction
+scheduled for a clinic appointment, and nine patients with the application, and most agreed that this mobile
+were instructed to go to the ED for urgent evaluation. platformwasbeneficialduringhospitalrecoveryandat
+home before and after surgery. Finally, postdischarge
+health checks facilitated not only a novel method for
+Discussion
+ongoing mobile PRO collection but also created an in-
+Thisisthefirstprospectivepilotstudyevaluatingthe tegrated triage system to improve real-time monitoring
+implementation of a mobile application in an HPB and guidance during recovery at home.
+surgeryERAS(cid:1)programasacomprehensiveplatform Emphasis on adopting enhanced recovery programs
+for real-time capture of PROs throughout the en- have been frequently focused on producing the well-
+tire perioperative course. The customized application demonstrated reduction in lengths of stay, cost, and
+provided patients with aservice-specific perioperative morbiditywhichareoftentheprimarybenchmarksfor
+guide to facilitate patient education, track symptom new adopters of ERAS(cid:1) programs. A comprehensive
+experience and management, and remind patients of perspective of recovery, however, requires addressing
+daily recovery steps. Simultaneously, the application the complexdynamic of convalescence for restoration
+enabled patient-driven reporting of in-hospital and of a patient’s physical, emotional, social, and evenNo. 8 MOBILE APPLICATION FOR PROS IN HPB SURGERY ? Pickens et al. 915
+economic well-being. Enhanced recovery guidelines PRO specifically in an enhanced recovery program
+haveconsistentlystressedtheimportanceofmeasuring was performed in colorectal surgery.12 In addition to
+and tracking all such outcomes of recovery, which traditionalPROsforsymptoms(e.g.,pain,nausea,and
+remainsakeydistinctionbetweenERAS(cid:1)andpurely bowel function scores), this study also evaluated the
+fast-track protocols.5,6,17–19 PROs are becoming well use of a mobile PRO platform to specifically track
+recognized as an essential tool in the era of patient- compliance to ERAS(cid:1) pathway items by patient self-
+centered care for understanding the full impact of dis- audit.Notably,inthisstudy,however,patientswerenot
+ease and recovery;10 however, unfortunately, their use provided access to the application until the day of
+remains limited, particularly in enhanced recovery surgeryandresponseswereonlycollecteduntiltheday
+programs.AsystematicreviewbyNevilleetal.20on38 of discharge, limiting scope of PRO collection, and
+studies on enhanced recovery programs reported that tracking of the entire recovery period. Patients were
+patient-reportedsymptoms,long-termfunctionalstatus, also only able to access the application on devices
+andimpactonqualityoflifewereconsistentlyreported provided by the study. Consequently, the mobile ap-
+less than short-term physical recovery and most com- plication served primarily as an alternate mode for
+monly through provider observations. They concluded capturing PRO collection and ERAS compliance dur-
+that PRO should be used to assist in tracking recovery ing hospitalization only.
+throughallperioperative phases tomore accurately the Before our pilot study, no published investigation
+patient’sassessmentoftheirmultidimensionalrecovery. has evaluated the implementation of a mobile patient-
+ThevalueofPROcollectionmaybeevengreaterin reporting application within the HPB population to
+HPB surgery, particularly when performed in con- track both patient experience as well as ERAS(cid:1)
+junction with ERAS(cid:1) protocols. The significant pathway compliance. We intentionally allowed pa-
+morbidity and mortality associated with both the dis- tients to participate through any preferred personal
+ease process and major abdominal HPB operations device, which enabled a fully mobile experience.
+suggest that a more comprehensive understanding Consequently, this facilitated the use of a single plat-
+of different patient’s preoperative preparedness and form for integrated PRO collection throughout the
+postoperative recovery through PROs could influence entire perioperative period with access to preopera-
+theirperioperativecaredelivery.Inaprospectivestudy tive educational materials and checklists, in-hospital
+by Day et al.,21 validated PROs performed at pre- tracking, and continued postdischarge surveys.
+operative and postoperative ERAS(cid:1) clinic visits for The very high adoption noted in our study is con-
+patients undergoing liver resection for malignancy sistent with the results seen in other mobile platform
+demonstrated the ability of PROs to track functional studies.12 Patients in our study were not excluded for
+recovery. They also specifically demonstrated that age or experience level with using mobile technology,
+enhanced recovery protocols were independently as- yet 77 per cent of patients enrolled, suggesting that
+sociatedwithimprovedrecoveryasmeasuredbythese most patients are amenable to incorporating patient-
+PROs and that improved patient-reported recovery for centered technology into their surgical care experi-
+ERAS(cid:1) patients was associated with higher rates of ence.Despitethehighmorbidityassociatedwithmajor
+return to oncologic therapy, an underappreciated but HPBoperations,aremarkable88percentcontinuedto
+critical metric after oncologic resection. engage with the application during their hospitaliza-
+This study also highlights the power of harnessing tion. The most notable decline in patient engagement
+emerging mobile health technology to facilitate both occurred after discharge as would be expected, al-
+patient-specific and population data tracking without though participation still remained above the 50 per
+increasing the burden on care providers. Traditional cent target with high retention through the conclusion
+collection of PROs typically implies direct patient of the study period. This represents the first study to
+questioning during hospitalization, clinic visits, or our knowledge to successfully track postdischarge
+telephone surveys, which can result in a significant PRO captured daily through a patient-directed mobile
+challenge for sustainability because of need for dedi- application outside of the clinical environment.
+catedtime,resources,andpersonnel.Inaddition,inthe The postdischarge impact of this application holds
+present era of real-time data-driven process change, possibly the greatest potential for revolutionizing the
+information obtained through traditional PRO is often delivery of perioperative care. Previous electronic-
+obsolete because of the inherent delay in collection, based patient applications have demonstrated promis-
+analysis, and reporting. Efforts to streamline this pro- ingresultsforpostdischargemonitoring;4,24–27however,
+cess have driven the development of mobile appli- none have attempted to combine patient-driven track-
+cation platforms for PRO input directly by the ing through the entire perioperative experience using
+patients.22,23 The first prospective usability study on the same mobile platform. The SeamlessMD(cid:1) appli-
+implementation of a mobile application to capture cation infrastructure was developed for continuous916 THE AMERICAN SURGEON August 2019 Vol. 85
+data download,analysis,andassimilationofPROinto integration of PRO into existing predictive modeling
+the EMR. Within the last several months of the pilot, may help to more accurately identify patients at the
+we successfully incorporated a digital pathway to the highest risk for poor recovery and be used to allocate
+EMR patient dashboard for real-time displays of pain prehabilitation resources appropriately.
+and nausea scores collected by the application. Simi-
+larly, an automatic alert system for all postdischarge
+Acknowledgments
+health checks that prompt patients to contact their
+medical providers is being integrated into the same GerriChadwick,AuD—MedicalWriter,CarolinasCenter
+EMR interface to improve communication with pa- forSurgicalOutcomesScience,CarolinasMedicalCenter.
+tients regarding these concerns.
+In the digital era, use of an application on a hand-
+REFERENCES
+held device to collect PROs is not only feasible but
+1. LjungqvistO,ScottM,FearonKC.Enhancedrecoveryafter
+shouldberecognizedasnearlyessentialforimproving
+surgery:areview.JAMASurg2017;152:292–8.
+the surgical care of patients. A comprehensive mobile 2. Greco M, Capretti G, Beretta L, et al. Enhanced recovery
+healthplatformsuchastheonedescribedinthisstudy program in colorectal surgery: a meta-analysis of randomized
+can dramatically transform patient care by allowing controlledtrials.WorldJSurg2014;38:1531–41.
+continuousaccesstotwo-waycommunicationbetween 3. Coolsen MME, van Dam RM, van der Wilt AA, et al. Sys-
+patients and the surgical team, facilitating earlier in- tematicreviewandmeta-analysisofenhancedrecoveryafterpancre-
+tervention on warning signs provided by patients in aticsurgerywithparticularemphasisonpancreaticoduodenectomies.
+realtimeandimprovingpatientengagementwiththeir WorldJSurg2013;37:1909–18.
+4. VisioniA,ShahR,GabrielE,etal.Enhancedrecoveryafter
+own care every day. Furthermore, the ramifications of
+surgeryfornoncolorectalsurgery?Asystematicreviewandmeta-
+improving proactive outpatient management of com-
+analysisofmajorabdominalsurgery.AnnSurg2018;267:57–65.
+plex patients through mobile technology could help
+5. Lassen K,Coolsen MM, Slim K, et al. Guidelines for peri-
+restructure health care and improve resource utiliza-
+operative care for pancreaticoduodenectomy: enhanced recovery
+tion for all patients. aftersurgery(ERAS(cid:1))societyrecommendations.ClinNutr2012;
+31:817–30.
+6. Melloul E, Hu¨bner M, Scott M, et al. Guidelines for peri-
+Limitations
+operative care for liver surgery: enhanced recovery after sur-
+The specific results of this study have limited gery(ERAS)societyrecommendations.WorldJSurg2016;40:
+generalizability because of its small sample size, 2425–40.
+patient selection, and resources required for initial 7. MessengerDE,CurtisNJ,JonesA,etal.Factorspredicting
+mobileplatformlaunching.However,adoptionofthis outcome from enhanced recovery programmes in laparoscopic
+platform to other service lines and hospital systems colorectal surgery: a systematic review. Surg Endosc 2017;31:
+shouldnotbeaimedatproducingidenticalresults,but 2050–71.
+8. Pecorelli N,Hershorn O,Baldini G,et al. Impact of adher-
+rather this pilot study establishes the framework on
+ence to care pathway interventions on recovery following bowel
+which similar systems can be developed customized
+resectionwithinanestablishedenhancedrecoveryprogram.Surg
+toeachpopulation’sneeds.ThePROscapturedbythe
+Endosc2017;31:1760–71.
+application require further validation compared with
+9. Ljungqvist O. ERAS—enhanced recovery after surgery. J
+traditional reporting means. Compliance to ERAS(cid:1)
+ParenterEnteralNutr2014;38:559–66.
+pathway items should also be similarly compared
+10. Basch E. Patient-reported outcomes—harnessing patients’
+with standard reporting of compliance to establish voicestoimproveclinicalcare.NEnglJMed2017;376:105–8.
+validity. 11. BaumhauerJF.Patient-reportedoutcomes—aretheyliving
+uptotheirpotential?NEnglJMed2017;377:6–9.
+12. Pecorelli N, Fiore JF, Kaneva P, et al. An app for patient
+FutureDirection
+educationandself-auditwithinanenhancedrecoveryprogramfor
+Mobile applications can transform and integrate bowelsurgery:apilotstudyassessingvalidityandusability.Surg
+PRO collection across all aspects of a patient’s en- Endosc2018;32:2263–73.
+13. Stark PA, Myles PS, Burke JA. Development and psycho-
+hanced recovery pathway. The growing emphasis on
+prehabilitation for ERAS(cid:1) to improve a patient’s metricevaluationofapostoperativequalityofrecoveryscore:the
+QoR-15.Anesthesiology2013;118:1332–40.
+physiologic status before surgical intervention creates
+14. Cella D, Yount S, Rothrock N, et al. The patient-reported
+an excellent opportunity for expansion of real-time
+outcomesmeasurementinformationsystem(PROMIS).MedCare
+PRO collection. Dynamic feedback can be used to
+2007;45:S3–11.
+track patient nutrition, physical conditioning, and
+15. JonesRS,StukenborgGJ.Patient-reported outcomesmea-
+emotional well-being and allow the multidisciplinary surement information system (PROMIS) use in surgical care: a
+team to adjust the care plan accordingly. In addition, scopingstudy.JAmCollSurg2017;224:245–54.e1.No. 8 MOBILE APPLICATION FOR PROS IN HPB SURGERY ? Pickens et al. 917
+16. KleifJ,WaageJ,ChristensenKB,etal.Systematicreview 22. Cook DJ, Manning DM, Holland DE, et al. Patient en-
+of the QoR-15 score, a patient- reported outcome measure mea- gagement and reported outcomes in surgical recovery: effec-
+suring quality of recovery after surgery and anaesthesia. Br J tiveness of an e-health platform. J Am Coll Surg 2013;217:
+Anaesth2018;120:28–36. 648–55.
+17. GustafssonUO,ScottMJ,SchwenkW,etal.Guidelinesfor 23. Marcano Belisario JS, Jamsek J, Huckvale K, et al. Com-
+perioperative careinelective colonicsurgery:enhancedrecovery parison of self-administered survey questionnaire responses
+aftersurgery(ERAS(cid:1))societyrecommendations.ClinNutr2012; collected using mobile apps versus other methods. Cochrane
+31:783–800. Database Syst Rev 2015;MR000042. doi:10.1002/14651858.
+18. Nygren J, Thacker J, Carli F, et al. Guidelines for peri- MR000042.pub2.
+operativecareinelectiverectal/pelvicsurgery:enhancedrecovery 24. Semple JL, Armstrong KA. Mobile applications for post-
+after surgery (ERAS(cid:1)) society recommendations. World J Surg operativemonitoringafterdischarge.CanMedAssocJ2017;189:
+2013;37:285–305. E22–4.
+19. Cerantola Y, Valerio M, Persson B, et al. Guidelines for 25. Debono B, Bousquet P, Sabatier P, et al. Postoperative
+perioperative care after radical cystectomy for bladder cancer: monitoring with a mobile application after ambulatory lumbar
+enhanced recovery after surgery (ERAS((cid:1))) society recommen- discectomy:aneffectivetoolforspinesurgeons.EurSpineJ2016;
+dations.ClinNutr2013;32:879–87. 25:3536–42.
+20. NevilleA,LeeL,AntonescuI,etal.Systematicreviewof 26. ArmstrongKA,CoytePC,BrownM,etal.Effectofhome
+outcomes used to evaluate enhanced recovery after surgery. Br J monitoringviamobileapponthenumberofin-personvisitsfol-
+Surg2014;101:159–71. lowingambulatorysurgery.JAMASurg2017;152:622.
+21. Day RW, Cleeland CS, Wang XS, et al. Patient-reported 27. GunterRL,Fernandes-TaylorS,RahmanS,etal.Feasibility
+outcomes accurately measure the value of an enhanced recovery ofanimage-basedmobilehealthprotocolforpostoperativewound
+programinliversurgery.JAmCollSurg2015;221:1023–30.e2. monitoring.JAmCollSurg2018;226:277–86.
+View publication stats
