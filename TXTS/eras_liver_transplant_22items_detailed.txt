@@ -1,0 +1,132 @@
+
+1. Item: Preoperative patient education and counseling
+   Phase: Preoperative
+   Summary: Provide structured verbal and written preoperative education and counseling to enhance understanding and compliance.
+   Recommendation Strength: Strong
+   Evidence Level: Low
+
+2. Item: Nutritional screening and intervention
+   Phase: Preoperative
+   Summary: Screen for nutritional deficits and implement targeted nutritional intervention preoperatively.
+   Recommendation Strength: Strong
+   Evidence Level: Moderate
+
+3. Item: Smoking cessation
+   Phase: Preoperative
+   Summary: Encourage smoking cessation before surgery to improve postoperative outcomes.
+   Recommendation Strength: Strong
+   Evidence Level: Moderate
+
+4. Item: Alcohol cessation
+   Phase: Preoperative
+   Summary: Recommend cessation of alcohol intake before surgery to reduce complications.
+   Recommendation Strength: Strong
+   Evidence Level: Moderate
+
+5. Item: Prehabilitation
+   Phase: Preoperative
+   Summary: Implement physical and psychological optimization strategies preoperatively.
+   Recommendation Strength: Weak
+   Evidence Level: Low
+
+6. Item: Preoperative fasting and carbohydrate loading
+   Phase: Preoperative
+   Summary: Allow clear liquids up to 2 hours preoperatively and consider preoperative carbohydrate loading.
+   Recommendation Strength: Strong
+   Evidence Level: Moderate
+
+7. Item: Antimicrobial prophylaxis
+   Phase: Preoperative
+   Summary: Administer appropriate antimicrobial prophylaxis within 60 minutes prior to incision.
+   Recommendation Strength: Strong
+   Evidence Level: High
+
+8. Item: Thromboprophylaxis
+   Phase: Preoperative
+   Summary: Assess and manage thromboembolism risk using pharmacological and/or mechanical prophylaxis.
+   Recommendation Strength: Strong
+   Evidence Level: High
+
+9. Item: Anesthetic protocol standardization
+   Phase: Intraoperative
+   Summary: Employ standardized anesthetic protocols to reduce variability and improve outcomes.
+   Recommendation Strength: Strong
+   Evidence Level: Moderate
+
+10. Item: Intraoperative fluid management
+    Phase: Intraoperative
+    Summary: Implement goal-directed fluid therapy to optimize hemodynamic status.
+    Recommendation Strength: Strong
+    Evidence Level: Moderate
+
+11. Item: Normothermia maintenance
+    Phase: Intraoperative
+    Summary: Maintain patient core temperature above 36°C during surgery.
+    Recommendation Strength: Strong
+    Evidence Level: Moderate
+
+12. Item: Minimization of intraoperative blood loss and transfusion
+    Phase: Intraoperative
+    Summary: Apply techniques to minimize intraoperative blood loss and avoid unnecessary transfusions.
+    Recommendation Strength: Strong
+    Evidence Level: High
+
+13. Item: Avoidance of drains
+    Phase: Intraoperative
+    Summary: Avoid routine use of abdominal drains unless clinically indicated.
+    Recommendation Strength: Weak
+    Evidence Level: Low
+
+14. Item: Early removal of nasogastric tubes
+    Phase: Postoperative
+    Summary: Remove nasogastric tubes early to promote recovery and reduce pulmonary complications.
+    Recommendation Strength: Strong
+    Evidence Level: Moderate
+
+15. Item: Early mobilization postoperatively
+    Phase: Postoperative
+    Summary: Encourage patients to mobilize within 24 hours of surgery if feasible.
+    Recommendation Strength: Strong
+    Evidence Level: Moderate
+
+16. Item: Early initiation of enteral nutrition
+    Phase: Postoperative
+    Summary: Resume oral intake as early as possible postoperatively if tolerated.
+    Recommendation Strength: Strong
+    Evidence Level: Moderate
+
+17. Item: Glycemic control
+    Phase: Postoperative
+    Summary: Maintain tight but safe glycemic control postoperatively to reduce complications.
+    Recommendation Strength: Strong
+    Evidence Level: Moderate
+
+18. Item: Standardized analgesia using multimodal strategies
+    Phase: Postoperative
+    Summary: Apply multimodal analgesia strategies to minimize opioid consumption.
+    Recommendation Strength: Strong
+    Evidence Level: Moderate
+
+19. Item: Postoperative nausea and vomiting (PONV) prevention
+    Phase: Postoperative
+    Summary: Implement PONV prophylaxis using evidence-based protocols.
+    Recommendation Strength: Strong
+    Evidence Level: Moderate
+
+20. Item: Urinary catheter removal
+    Phase: Postoperative
+    Summary: Remove urinary catheters early to minimize risk of infection.
+    Recommendation Strength: Strong
+    Evidence Level: Moderate
+
+21. Item: Postoperative audit and compliance monitoring
+    Phase: Postoperative
+    Summary: Implement structured audit processes to monitor compliance and outcomes.
+    Recommendation Strength: Strong
+    Evidence Level: Moderate
+
+22. Item: Multidisciplinary team coordination
+    Phase: Perioperative
+    Summary: Ensure regular communication and coordination between multidisciplinary teams for optimal care.
+    Recommendation Strength: Strong
+    Evidence Level: Moderate
