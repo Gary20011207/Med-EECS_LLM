@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>User Profile</title>
+	<style>
+		body { font-family: Arial; max-width: 800px; margin: auto; padding: 20px; }
+	</style>
+</head>
+<body>
+	<h2>User Profile</h2>
+	<a href="/">Back to Chat</a> | <a href="/logout">Logout</a>
+	<h3>Profile Information</h3>
+	<p><strong>Username:</strong> {{ user.username }}</p>
+	<h3>Configure Profile</h3>
+	<form method="post">
+		Date of Birth: <input type="date" name="dob" value="{{ user.dob }}"><br>
+		Surgery Type: <input type="text" name="surgery_type" value="{{ user.surgery_type }}"><br>
+		<button type="submit">Update Profile</button>
+	</form>
+</body>
