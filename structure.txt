@@ -1,0 +1,47 @@
+./
+├── app_log.txt
+├── app.py
+├── apps/
+│   ├── __pycache__/
+│   │   └── RAG_NAIVE2.cpython-310.pyc
+│   ├── RAG_MEM.py
+│   ├── RAG_NAIVE2.py
+│   ├── RAG_NAIVE.py
+│   ├── RAG_QA_API.py
+│   └── RAG_requirements.txt
+├── chat.db
+├── docs/
+│   ├── 2025-05-06-meeting.md
+│   ├── eras-algorithm.md
+│   ├── guidance.md
+│   └── meetings.md
+├── LICENSE
+├── PDFS/
+│   ├── A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf
+│   ├── ...
+│   └── Using_a_Mobile_Application_for_Real-Time_Collectio.pdf
+├── rag_log.txt
+├── README.md
+├── requirements.txt
+├── structure.txt
+├── templates/
+│   ├── admin.html
+│   ├── chat.html
+│   ├── login.html
+│   ├── profile.html
+│   ├── register.html
+│   └── user_details.html
+├── TXTS/
+│   ├── British Journal of Surgery - 2014 - Mortensen - Consensus guidelines for enhanced recovery after gastrectomy.txt
+│   ├── ...
+│   └── Using_a_Mobile_Application_for_Real-Time_Collectio.txt
+└── VectorDB/
+    ├── 9e2bb630-383d-4cdc-b146-4cea30a9f691/
+    │   ├── data_level0.bin
+    │   ├── header.bin
+    │   ├── index_metadata.pickle
+    │   ├── length.bin
+    │   └── link_lists.bin
+    └── chroma.sqlite3
+
+9 directories, 103 files
