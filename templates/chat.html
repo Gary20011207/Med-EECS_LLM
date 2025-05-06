@@ -7,10 +7,30 @@
         #chatbox { border: 1px solid #ccc; padding: 10px; height: 300px; overflow-y: scroll; margin-bottom: 10px; }
         .user { color: blue; }
         .bot { color: green; }
+        .doctor-avatar {
+            width: 40px; height: 40px;
+            border-radius: 50%;
+            margin: 5px 5px 10px 0;
+            border: 2px solid transparent;
+            cursor: pointer;
+        }
+        .doctor-avatar.selected {
+            border-color: #007BFF;
+        }
     </style>
 </head>
 <body>
     <h2>Welcome, {{ username }}! <a href="/logout">Logout</a> | <a href="/profile">User Profile</a></h2>
+
+    <h3>Choose a Doctor:</h3>
+    <div id="doctor-avatar-row"></div>
+
+    <h4>Add a New Doctor:</h4>
+    <input type="text" id="doctor-name" placeholder="Doctor name">
+    <input type="text" id="doctor-avatar" placeholder="Avatar URL (optional)">
+    <button onclick="addDoctor()">Add Doctor</button>
+    <p id="doctor-msg" style="color: green;"></p>
+
     <div id="chatbox"></div>
     <input type="text" id="message" placeholder="Type your message..." style="width: 80%;">
     <button onclick="sendMessage()">Send</button>
@@ -19,11 +39,89 @@
     <ul id="todo-list"></ul>
 
     <script>
-        // Load previous chat history on page load
+        let currentDoctor = "";
+
         window.onload = async function () {
-            const response = await fetch("/get_history");
-            const history = await response.json();
+            await loadDoctorList();
+            loadTodoList();
+        };
+
+        async function loadDoctorList() {
+            const res = await fetch("/get_doctor_list");
+            const doctors = await res.json();
+            const container = document.getElementById("doctor-avatar-row");
+            container.innerHTML = "";
+
+            if (doctors.length === 0) {
+                container.innerHTML = "<p>No doctors found</p>";
+                return;
+            }
+
+            doctors.forEach((doc, idx) => {
+                const avatar = document.createElement("img");
+                avatar.src = doc.avatar || `https://ui-avatars.com/api/?name=${encodeURIComponent(doc.doctor_name)}&background=random&size=64`;
+                avatar.alt = doc.doctor_name;
+                avatar.title = doc.doctor_name;
+                avatar.className = "doctor-avatar";
+                avatar.setAttribute("data-doctor", doc.doctor_name);
+                avatar.onclick = () => {
+                    currentDoctor = doc.doctor_name;
+                    highlightSelectedDoctor(currentDoctor);
+                    loadDoctorChat();
+                };
+                container.appendChild(avatar);
+            });
+
+            currentDoctor = doctors[0].doctor_name;
+            highlightSelectedDoctor(currentDoctor);
+            loadDoctorChat();
+        }
+
+        function highlightSelectedDoctor(selectedName) {
+            document.querySelectorAll(".doctor-avatar").forEach(avatar => {
+                if (avatar.getAttribute("data-doctor") === selectedName) {
+                    avatar.classList.add("selected");
+                } else {
+                    avatar.classList.remove("selected");
+                }
+            });
+        }
+
+        async function addDoctor() {
+            const name = document.getElementById("doctor-name").value.trim();
+            const avatar = document.getElementById("doctor-avatar").value.trim();
+            const msg = document.getElementById("doctor-msg");
+
+            if (!name) {
+                msg.textContent = "Doctor name cannot be empty.";
+                msg.style.color = "red";
+                return;
+            }
+
+            const res = await fetch("/add_doctor", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ name, avatar })
+            });
+
+            const data = await res.json();
+            if (data.success) {
+                msg.textContent = "Doctor added successfully!";
+                msg.style.color = "green";
+                document.getElementById("doctor-name").value = "";
+                document.getElementById("doctor-avatar").value = "";
+                await loadDoctorList();
+            } else {
+                msg.textContent = data.error || "Error adding doctor.";
+                msg.style.color = "red";
+            }
+        }
+
+        async function loadDoctorChat() {
+            const res = await fetch(`/get_history/${currentDoctor}`);
+            const history = await res.json();
             const chatbox = document.getElementById("chatbox");
+            chatbox.innerHTML = "";
 
             history.forEach(entry => {
                 const senderClass = entry.sender === "user" ? "user" : "bot";
@@ -32,32 +130,26 @@
             });
 
             chatbox.scrollTop = chatbox.scrollHeight;
-
-            loadTodoList();
-        };
+        }
 
         async function sendMessage() {
-            const message = document.getElementById("message").value;
-            if (!message.trim()) return;
+            const message = document.getElementById("message").value.trim();
+            if (!message) return;
 
-            // Send message to server
-            const response = await fetch("/send_message", {
+            const res = await fetch("/send_message", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ message })
+                body: JSON.stringify({ message, doctor: currentDoctor })
             });
 
-            const data = await response.json();
+            const data = await res.json();
             const chatbox = document.getElementById("chatbox");
-
-            // Append new messages
             chatbox.innerHTML += `<div class="user"><strong>You:</strong> ${message}</div>`;
             chatbox.innerHTML += `<div class="bot"><strong>Bot:</strong> ${data.reply}</div>`;
             document.getElementById("message").value = "";
             chatbox.scrollTop = chatbox.scrollHeight;
         }
 
-        // Load todo list on page load
         async function loadTodoList() {
             const response = await fetch("/get_todo_list");
             const todoList = await response.json();
