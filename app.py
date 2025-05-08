@@ -8,7 +8,7 @@ from werkzeug.security import generate_password_hash, check_password_hash
 WEB_DEV = "WEB" in sys.argv
 
 if not WEB_DEV:
-    from apps.RAG_NAIVE2 import generate_reply
+    from apps.RAG_MEM import generate_reply
 
 app = Flask(__name__)
 app.secret_key = 'your-secret-key'
@@ -204,6 +204,18 @@ def get_history():
     conn.close()
     return jsonify([{"sender": row["sender"], "message": row["message"]} for row in messages])
 
+@app.route("/get_history/<doctor_name>")
+def get_doctor_chat_history(doctor_name):
+    if "user_id" not in session:
+        return jsonify([])
+    conn = get_db_connection()
+    rows = conn.execute(
+        "SELECT sender, message FROM chat_history WHERE user_id = ? AND doctor_name = ? ORDER BY id",
+        (session["user_id"], doctor_name)
+    ).fetchall()
+    conn.close()
+    return jsonify([{"sender": row["sender"], "message": row["message"]} for row in rows])
+
 # Get available PDFs
 @app.route("/get_pdfs")
 def get_pdfs():
@@ -219,20 +231,28 @@ def send_message():
 
     data = request.json
     user_input = data.get("message")
-    
-    # 因為沒有選PDF了，直接預設問全部
-    selected_pdf = "All PDFs"
+    doctor_name = data.get("doctor") or "default"  # 預設值
 
-    history = []
+    conn = get_db_connection()
+    rows = conn.execute(
+        "SELECT sender, message FROM chat_history WHERE user_id = ? AND doctor_name = ? ORDER BY id DESC LIMIT 10",
+        (session["user_id"], doctor_name)
+    ).fetchall()
+    conn.close()
+
+    rows.reverse()  # 從舊到新
+    history = [{"role": row["sender"], "content": row["message"]} for row in rows]
     if WEB_DEV:
         bot_reply = chatbot_response(user_input)
     else:
-        new_history, _ = generate_reply(user_input, selected_pdf, history)
+        new_history, _ = generate_reply(user_input, "All PDFs", True, history)
         bot_reply = new_history[-1][1]
 
     conn = get_db_connection()
-    conn.execute("INSERT INTO chat_history (user_id, sender, message) VALUES (?, ?, ?)", (session["user_id"], "user", user_input))
-    conn.execute("INSERT INTO chat_history (user_id, sender, message) VALUES (?, ?, ?)", (session["user_id"], "bot", bot_reply))
+    conn.execute("INSERT INTO chat_history (user_id, sender, message, doctor_name) VALUES (?, ?, ?, ?)", 
+                 (session["user_id"], "user", user_input, doctor_name))
+    conn.execute("INSERT INTO chat_history (user_id, sender, message, doctor_name) VALUES (?, ?, ?, ?)", 
+                 (session["user_id"], "bot", bot_reply, doctor_name))
     conn.commit()
     conn.close()
 
@@ -337,6 +357,42 @@ def update_todo_route(item_id):
     update_todo_item(item_id, int(completed))
     return jsonify({"success": True})
 
+@app.route("/add_doctor", methods=["POST"])
+def add_doctor():
+    if "user_id" not in session:
+        return jsonify({"error": "Unauthorized"}), 401
+    data = request.json
+    name = data.get("name")
+    avatar = data.get("avatar", "")
+    if not name:
+        return jsonify({"error": "Doctor name required"}), 400
+    conn = get_db_connection()
+    conn.execute("INSERT INTO doctor_rooms (user_id, doctor_name, avatar) VALUES (?, ?, ?)",
+                 (session["user_id"], name, avatar))
+    conn.commit()
+    conn.close()
+    return jsonify({"success": True})
+
+@app.route("/get_doctor_list")
+def get_doctor_list():
+    if "user_id" not in session:
+        return jsonify([])
+    conn = get_db_connection()
+    doctors = conn.execute("SELECT doctor_name, avatar FROM doctor_rooms WHERE user_id = ?", (session["user_id"],)).fetchall()
+    conn.close()
+    return jsonify([dict(d) for d in doctors])
+
+def ensure_chat_history_column():
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    cursor.execute("PRAGMA table_info(chat_history)")
+    columns = [row["name"] for row in cursor.fetchall()]
+    if "doctor_name" not in columns:
+        print("Adding missing column: doctor_name")
+        cursor.execute("ALTER TABLE chat_history ADD COLUMN doctor_name TEXT")
+        conn.commit()
+    conn.close()
+
 if __name__ == "__main__":
     # Initialize the database if it doesn't exist
     if not os.path.exists(DB_PATH):
@@ -361,6 +417,7 @@ if __name__ == "__main__":
                 sender TEXT NOT NULL,
                 message TEXT NOT NULL,
                 timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
+                doctor_name TEXT,
                 FOREIGN KEY (user_id) REFERENCES users(id)
             )
         ''')
@@ -374,6 +431,7 @@ if __name__ == "__main__":
                 FOREIGN KEY (user_id) REFERENCES users(id)
             )
         ''')
+
         # Create an admin user
         conn.execute('''
             INSERT INTO users (username, password, is_admin) VALUES (?, ?, ?)
@@ -381,5 +439,7 @@ if __name__ == "__main__":
         conn.commit()
         conn.close()
         print("Database initialized.")
+    else:
+        ensure_chat_history_column()
     # Run the Flask app
     app.run(host="0.0.0.0", port=5001, debug=True)
