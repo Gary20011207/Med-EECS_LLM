@@ -1,0 +1,19 @@
+services:
+  eras_llm:
+    build:
+      context: ../                     # 專案根目錄（包含 app.py 等）
+      dockerfile: docker/Dockerfile    # 指向 Dockerfile 實際路徑
+    container_name: eras_llm_cuda128
+    ports:
+      - "5002:5001" # 將容器的 5001 端口映射到主機的 5002 端口
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+    volumes:
+      - ../app.py:/app/app.py
+      - ../apps:/app/apps
+      - ../templates:/app/templates
+      - ../requirements.txt:/app/requirements.txt
+    restart: always
