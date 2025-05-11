@@ -1,67 +1,115 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
-    <meta charset="UTF-A">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ERAS 個管師 - 聊天測試</title>
+    <title>ERAS 個管師 - 聊天與資料庫管理</title>
     <style>
-        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; display: flex; flex-direction: column; height: 100vh; }
-        .container { display: flex; flex: 1; overflow: hidden; }
-        .sidebar { width: 250px; background-color: #e9e9e9; padding: 15px; border-right: 1px solid #ccc; display: flex; flex-direction: column; }
-        .chat-main { flex: 1; display: flex; flex-direction: column; background-color: #fff; }
-        #chat-output { flex: 1; padding: 20px; overflow-y: auto; border-bottom: 1px solid #ccc; }
-        .message { margin-bottom: 15px; padding: 10px; border-radius: 8px; line-height: 1.6; }
-        .user-message { background-color: #d1e7dd; align-self: flex-end; margin-left: auto; max-width: 70%; text-align: right;}
-        .assistant-message { background-color: #f8f9fa; border: 1px solid #eee; align-self: flex-start; max-width: 70%;}
-        .assistant-message pre { white-space: pre-wrap; word-wrap: break-word; font-family: inherit; margin: 0;}
-        .sources { font-size: 0.8em; color: #555; margin-top: 5px; border-top: 1px dashed #ccc; padding-top: 5px; }
-        .input-area { display: flex; padding: 15px; border-top: 1px solid #ccc; background-color: #f9f9f9;}
-        #message-input { flex: 1; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-right: 10px; }
-        #send-button, #send-stream-button, #clear-history-button { padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background-color: #f0f2f5; display: flex; flex-direction: column; height: 100vh; color: #333; }
+        .top-bar { background-color: #007bff; color: white; padding: 10px 20px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .top-bar h1 { margin: 0; font-size: 1.5em; }
+        #status-area { padding: 8px 20px; background-color: #495057; color: #f8f9fa; font-size: 0.85em; text-align: center; border-bottom: 1px solid #343a40; }
+        .container { display: flex; flex: 1; overflow: hidden; background-color: #fff; margin: 10px; border-radius: 8px; box-shadow: 0 0 15px rgba(0,0,0,0.1); }
+        
+        .sidebar { width: 280px; background-color: #f8f9fa; padding: 20px; border-right: 1px solid #dee2e6; display: flex; flex-direction: column; overflow-y: auto; }
+        .sidebar h3 { margin-top: 0; color: #007bff; border-bottom: 2px solid #007bff; padding-bottom: 8px; font-size: 1.2em;}
+        .sidebar-section { margin-bottom: 25px; }
+        .sidebar label { font-weight: 600; margin-bottom: 6px; display: block; font-size: 0.95em; }
+        .sidebar select, .sidebar input[type="text"], .sidebar button { width: 100%; padding: 10px; border-radius: 5px; border: 1px solid #ced4da; box-sizing: border-box; margin-bottom: 10px; font-size: 0.9em;}
+        .sidebar input[type="checkbox"] { margin-right: 5px; vertical-align: middle; }
+        .sidebar button { background-color: #007bff; color: white; border: none; cursor: pointer; transition: background-color 0.2s; }
+        .sidebar button:hover { background-color: #0056b3; }
+        #clear-history-button { background-color: #dc3545; }
+        #clear-history-button:hover { background-color: #c82333; }
+        #rebuild-db-button { background-color: #ffc107; color: #212529; }
+        #rebuild-db-button:hover { background-color: #e0a800; }
+
+        .chat-main { flex: 1; display: flex; flex-direction: column; }
+        #chat-output { flex: 1; padding: 20px; overflow-y: auto; background-color: #e9ecef; }
+        .message-container { display: flex; flex-direction: column; }
+        .message { margin-bottom: 15px; padding: 12px 18px; border-radius: 18px; line-height: 1.6; max-width: 75%; word-wrap: break-word; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+        .user-message { background-color: #007bff; color: white; align-self: flex-end; border-bottom-right-radius: 5px; }
+        .assistant-message { background-color: #ffffff; border: 1px solid #dee2e6; align-self: flex-start; border-bottom-left-radius: 5px;}
+        .assistant-message pre { white-space: pre-wrap; font-family: inherit; margin: 0; font-size: 0.95em; }
+        .sources { font-size: 0.8em; color: #555; margin-top: 8px; border-top: 1px dashed #ccc; padding-top: 8px; }
+        
+        .input-area { display: flex; padding: 15px; border-top: 1px solid #dee2e6; background-color: #f8f9fa;}
+        #message-input { flex: 1; padding: 12px; border: 1px solid #ced4da; border-radius: 20px; margin-right: 10px; font-size: 1em;}
+        #send-button, #send-stream-button { padding: 12px 20px; border: none; border-radius: 20px; cursor: pointer; font-weight: 600; transition: background-color 0.2s;}
         #send-button { background-color: #007bff; color: white; }
-        #send-stream-button { background-color: #28a745; color: white; margin-left: 5px; }
-        #clear-history-button { background-color: #dc3545; color: white; margin-top:10px; width: 100%;}
-        .sidebar h3 { margin-top: 0; }
-        .sidebar label, .sidebar select, .sidebar input[type="checkbox"] { margin-bottom: 8px; display: block; }
-        .sidebar select { width: 100%; padding: 8px; border-radius: 4px; border: 1px solid #ccc; }
-        #status-area { padding: 10px; background-color: #333; color: white; font-size: 0.9em; text-align: center; }
-        .error-message { color: red; font-weight: bold; }
-        .typing-indicator { font-style: italic; color: #777; padding: 5px 0; }
+        #send-stream-button { background-color: #28a745; color: white; margin-left: 8px; }
+        #send-button:hover { background-color: #0056b3; }
+        #send-stream-button:hover { background-color: #1e7e34; }
+
+        #system-status-details p { margin: 5px 0; font-size: 0.9em; color: #495057; }
+        .error-message { color: #dc3545; font-weight: bold; padding: 10px; background-color: #f8d7da; border: 1px solid #f5c6cb; border-radius: 5px; margin-bottom:10px;}
+        .typing-indicator { font-style: italic; color: #6c757d; padding: 10px 20px; }
+        .loader { border: 3px solid #f3f3f3; border-top: 3px solid #007bff; border-radius: 50%; width: 20px; height: 20px; animation: spin 1s linear infinite; margin: 5px auto;}
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+        #pdf-rebuild-list-container { max-height: 200px; overflow-y: auto; border: 1px solid #ced4da; padding: 10px; margin-bottom: 10px; background-color: #fff; border-radius: 5px; }
+        #pdf-rebuild-list-container label { display: block; margin-bottom: 5px; font-weight: normal; }
+        #pdf-rebuild-list-container input[type="checkbox"] { margin-right: 8px; }
     </style>
 </head>
 <body>
+    <div class="top-bar"><h1>ERAS 智慧個案管理師</h1></div>
     <div id="status-area">正在載入狀態...</div>
+
     <div class="container">
         <div class="sidebar">
-            <h3>設定</h3>
-            <div>
-                <label for="session-id">對話ID (Session ID):</label>
-                <input type="text" id="session-id" style="width: calc(100% - 18px); padding: 8px;" readonly>
+            <div class="sidebar-section">
+                <h3>聊天設定</h3>
+                <div>
+                    <label for="session-id">對話ID (Session ID):</label>
+                    <input type="text" id="session-id" readonly>
+                </div>
+                <div>
+                    <label for="pdf-select-chat">聊天時參考PDF (RAG範圍):</label>
+                    <select id="pdf-select-chat"></select>
+                </div>
+                <div>
+                    <input type="checkbox" id="enable-memory" checked>
+                    <label for="enable-memory" style="display:inline;">啟用對話記憶</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="use-rag" checked> <label for="use-rag" style="display:inline;">使用 RAG 檢索</label>
+                </div>
+                <button id="clear-history-button">清除目前對話歷史</button>
             </div>
-            <div>
-                <label for="pdf-select">選擇參考PDF:</label>
-                <select id="pdf-select"></select>
+
+            <div class="sidebar-section">
+                <h3>資料庫管理</h3>
+                <label for="pdf-rebuild-list-container">選擇要用於重建資料庫的PDF:</label>
+                <div id="pdf-rebuild-list-container">
+                    <p>正在載入PDF列表...</p>
+                </div>
+                <div>
+                    <input type="checkbox" id="force-reset-db" checked>
+                    <label for="force-reset-db" style="display:inline;">強制重置資料庫 (先清空)</label>
+                </div>
+                <button id="rebuild-db-button">使用選定PDF重建資料庫</button>
+                <div id="db-rebuild-status" style="font-size:0.85em; margin-top:10px;"></div>
             </div>
-            <div>
-                <input type="checkbox" id="enable-memory" checked>
-                <label for="enable-memory">啟用對話記憶</label>
-            </div>
-            <button id="clear-history-button">清除目前對話歷史</button>
-            <div id="system-status-details" style="margin-top: 20px; font-size:0.8em; word-wrap:break-word;">
-                <h4>系統狀態:</h4>
+            
+            <div class="sidebar-section" id="system-status-details">
+                <h3>系統狀態</h3>
                 <p id="model-device">模型設備: -</p>
                 <p id="gpu-memory">GPU記憶體: -</p>
                 <p id="active-sessions">活躍對話: -</p>
+                <p id="db-connection">資料庫連接: -</p>
+                <p id="db-doc-count">資料庫文件數: -</p>
             </div>
         </div>
+
         <div class="chat-main">
             <div id="chat-output">
-                <div class="assistant-message">您好！我是您的 ERAS 智慧個案管理師，請問有什麼可以協助您的嗎？</div>
+                <div class="message assistant-message"><pre>您好！我是您的 ERAS 智慧個案管理師，請問有什麼可以協助您的嗎？</pre></div>
             </div>
             <div class="input-area">
                 <input type="text" id="message-input" placeholder="請輸入您的問題...">
-                <button id="send-button">傳送</button>
-                <button id="send-stream-button">串流傳送</button>
+                <button id="send-button" title="傳送完整回覆">傳送</button>
+                <button id="send-stream-button" title="以串流方式傳送">串流</button>
             </div>
         </div>
     </div>
@@ -71,129 +119,167 @@
         const sendButton = document.getElementById('send-button');
         const sendStreamButton = document.getElementById('send-stream-button');
         const chatOutput = document.getElementById('chat-output');
-        const pdfSelect = document.getElementById('pdf-select');
+        const pdfSelectChat = document.getElementById('pdf-select-chat');
         const enableMemoryCheckbox = document.getElementById('enable-memory');
+        const useRagCheckbox = document.getElementById('use-rag'); // 新增：RAG使用複選框
         const clearHistoryButton = document.getElementById('clear-history-button');
         const sessionIdInput = document.getElementById('session-id');
         const statusArea = document.getElementById('status-area');
         
-        // System Status Elements
+        const pdfRebuildListContainer = document.getElementById('pdf-rebuild-list-container');
+        const forceResetDbCheckbox = document.getElementById('force-reset-db');
+        const rebuildDbButton = document.getElementById('rebuild-db-button');
+        const dbRebuildStatus = document.getElementById('db-rebuild-status');
+
         const modelDeviceElem = document.getElementById('model-device');
         const gpuMemoryElem = document.getElementById('gpu-memory');
         const activeSessionsElem = document.getElementById('active-sessions');
+        const dbConnectionElem = document.getElementById('db-connection');
+        const dbDocCountElem = document.getElementById('db-doc-count');
 
         let currentSessionId = '';
-        let eventSource = null; // For SSE
+        let currentAssistantMessageDiv = null; 
+        let currentAssistantPre = null; 
+        let currentSourcesDiv = null; 
 
-        function generateUUID() {
+        function generateUUID() { /* ... (與前一版相同) ... */ 
             return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
                 var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
                 return v.toString(16);
             });
         }
-
-        function initializeSession() {
+        function initializeSession() { /* ... (與前一版相同) ... */ 
             currentSessionId = localStorage.getItem('chatSessionId');
             if (!currentSessionId) {
                 currentSessionId = generateUUID();
                 localStorage.setItem('chatSessionId', currentSessionId);
             }
             sessionIdInput.value = currentSessionId;
-            loadChatHistory(); // 載入本地存儲的歷史
+            renderChatHistory();
         }
-        
-        function saveChatHistoryToLocalStorage(history) {
+        function saveChatHistoryToLocalStorage(history) { /* ... (與前一版相同) ... */ 
             if (!currentSessionId) return;
             try {
                 localStorage.setItem(`chatHistory_${currentSessionId}`, JSON.stringify(history));
             } catch (e) {
                 console.error("保存歷史記錄到LocalStorage失敗:", e);
-                // Handle QuotaExceededError or other errors
             }
         }
-
-        function loadChatHistoryFromLocalStorage() {
+        function loadChatHistoryFromLocalStorage() { /* ... (與前一版相同) ... */ 
             if (!currentSessionId) return [];
             const storedHistory = localStorage.getItem(`chatHistory_${currentSessionId}`);
             return storedHistory ? JSON.parse(storedHistory) : [];
         }
-        
-        function displayMessage(role, text, sources = []) {
-            const messageDiv = document.createElement('div');
-            messageDiv.classList.add('message', role === 'user' ? 'user-message' : 'assistant-message');
-            
-            if (role === 'assistant') {
-                const pre = document.createElement('pre');
-                pre.textContent = text; // Use textContent to preserve newlines and spacing
-                messageDiv.appendChild(pre);
-                if (sources && sources.length > 0) {
-                    const sourcesDiv = document.createElement('div');
-                    sourcesDiv.classList.add('sources');
-                    sourcesDiv.textContent = '資料來源: ' + sources.join(', ');
-                    messageDiv.appendChild(sourcesDiv);
-                }
-            } else {
-                messageDiv.textContent = text;
-            }
-            chatOutput.appendChild(messageDiv);
-            chatOutput.scrollTop = chatOutput.scrollHeight;
-        }
-
-        function loadChatHistory() {
+        function renderChatHistory() { /* ... (與前一版相同，確保初始訊息正確) ... */
             const history = loadChatHistoryFromLocalStorage();
-            chatOutput.innerHTML = '<div class="assistant-message">您好！我是您的 ERAS 智慧個案管理師，請問有什麼可以協助您的嗎？</div>'; // Reset with initial message
+            const initialWelcomeMessageHTML = '<div class="message assistant-message"><pre>您好！我是您的 ERAS 智慧個案管理師，請問有什麼可以協助您的嗎？</pre></div>';
+            chatOutput.innerHTML = initialWelcomeMessageHTML; 
+
             history.forEach(msg => {
-                // The initial greeting is already there, skip if history is empty or starts with it.
-                // This logic might need refinement based on how history is precisely stored.
-                // For now, let's assume stored history doesn't include the initial greeting.
                 if (msg.role && msg.content) {
                      displayMessage(msg.role, msg.content, msg.sources || []);
                 }
             });
         }
 
+        function displayMessage(role, text, sources = []) { /* ... (與前一版相同) ... */ 
+            const messageContainer = document.createElement('div');
+            messageContainer.classList.add('message-container');
+            const messageDiv = document.createElement('div');
+            messageDiv.classList.add('message', role === 'user' ? 'user-message' : 'assistant-message');
+            const pre = document.createElement('pre');
+            pre.textContent = text;
+            messageDiv.appendChild(pre);
+            if (role === 'assistant' && sources && sources.length > 0) {
+                const sourcesDiv = document.createElement('div');
+                sourcesDiv.classList.add('sources');
+                sourcesDiv.textContent = '資料來源: ' + sources.join(', ');
+                messageDiv.appendChild(sourcesDiv);
+            }
+            messageContainer.appendChild(messageDiv)
+            chatOutput.appendChild(messageContainer);
+            chatOutput.scrollTop = chatOutput.scrollHeight;
+            return messageDiv;
+        }
+
         async function fetchPdfList() {
             try {
                 const response = await fetch('/api/pdfs');
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-                const pdfs = await response.json();
-                pdfSelect.innerHTML = ''; // Clear existing options
-                pdfs.forEach(pdf => {
-                    const option = document.createElement('option');
-                    option.value = pdf;
-                    option.textContent = pdf;
-                    pdfSelect.appendChild(option);
-                });
+                const data = await response.json(); // 後端現在返回 {"chat_options": [], "rebuild_options": []}
+                
+                // 更新聊天用的PDF選擇器
+                pdfSelectChat.innerHTML = ''; 
+                if (data.chat_options && data.chat_options.length > 0) {
+                    data.chat_options.forEach(pdf => {
+                        const option = document.createElement('option');
+                        option.value = pdf;
+                        option.textContent = pdf;
+                        pdfSelectChat.appendChild(option);
+                    });
+                } else {
+                     pdfSelectChat.innerHTML = '<option value="No PDFs">無可用PDF</option>';
+                }
+
+
+                // 更新資料庫重建用的PDF列表
+                pdfRebuildListContainer.innerHTML = ''; 
+                if (data.rebuild_options && data.rebuild_options.length > 0) {
+                    data.rebuild_options.forEach(pdf => {
+                        const checkboxId = `pdf-checkbox-${pdf.replace(/[^a-zA-Z0-9]/g, "")}`;
+                        const label = document.createElement('label');
+                        label.htmlFor = checkboxId;
+                        const checkbox = document.createElement('input');
+                        checkbox.type = 'checkbox';
+                        checkbox.id = checkboxId;
+                        checkbox.value = pdf;
+                        checkbox.name = 'pdf_rebuild_selection';
+                        label.appendChild(checkbox);
+                        label.appendChild(document.createTextNode(` ${pdf}`));
+                        pdfRebuildListContainer.appendChild(label);
+                    });
+                } else {
+                    pdfRebuildListContainer.innerHTML = '<p>PDFS 資料夾中沒有找到 PDF 檔案。</p>';
+                }
+
             } catch (error) {
                 console.error('無法獲取PDF列表:', error);
-                pdfSelect.innerHTML = '<option value="No PDFs">無法載入PDF列表</option>';
+                pdfSelectChat.innerHTML = '<option value="No PDFs">無法載入PDF列表</option>';
+                pdfRebuildListContainer.innerHTML = '<p>無法載入PDF列表。</p>';
             }
         }
 
-        async function fetchStatus() {
+        async function fetchStatus() { /* ... (與前一版相同) ... */ 
             try {
                 const response = await fetch('/api/status');
                 if (!response.ok) {
                     statusArea.textContent = `狀態錯誤: ${response.status}`;
+                    // ... (其他狀態元素設為失敗)
                     return;
                 }
                 const status = await response.json();
                 if (status.status === 'ok') {
-                    statusArea.textContent = `模型: ${status.model_name} | 設備: ${status.model_device.type}`;
+                    let statusText = `模型: ${status.model_name} | 設備: ${status.model_device.type}`;
                     if (status.model_device.type === 'cuda' && status.model_device.index !== null) {
-                        statusArea.textContent += `:${status.model_device.index}`;
+                        statusText += `:${status.model_device.index}`;
                     }
                     if (status.gpu_memory) {
-                        statusArea.textContent += ` | GPU記憶體: ${status.gpu_memory.allocated}GB / ${status.gpu_memory.reserved}GB`;
+                        statusText += ` | GPU: ${status.gpu_memory.allocated}GB / ${status.gpu_memory.reserved}GB`;
                     }
+                    if (status.vector_db) {
+                        statusText += ` | DB: ${status.vector_db.connected ? '已連接' : '未連接'} (${status.vector_db.doc_count} docs)`;
+                    }
+                    statusArea.textContent = statusText;
                     
-                    modelDeviceElem.textContent = `模型設備: ${status.model_device.type}`;
+                    modelDeviceElem.textContent = `模型設備: ${status.model_device.type || '-'}`;
                     if (status.model_device.type === 'cuda' && status.model_device.index !== null) {
                          modelDeviceElem.textContent += `:${status.model_device.index}`;
                     }
                     gpuMemoryElem.textContent = status.gpu_memory ? 
                         `GPU記憶體: ${status.gpu_memory.allocated}GB / ${status.gpu_memory.reserved}GB` : 'GPU記憶體: -';
-                    activeSessionsElem.textContent = `活躍對話: ${status.active_chat_sessions}`;
+                    activeSessionsElem.textContent = `活躍對話: ${status.active_chat_sessions || '-'}`;
+                    dbConnectionElem.textContent = `資料庫連接: ${status.vector_db && status.vector_db.connected ? '已連接' : '已連接'}`; // 修正: 顯示'已連接'
+                    dbDocCountElem.textContent = `資料庫文件數: ${status.vector_db ? status.vector_db.doc_count : '-'}`;
 
                 } else {
                     statusArea.textContent = `狀態: ${status.status} | 錯誤: ${status.message || '未知錯誤'}`;
@@ -204,21 +290,21 @@
             }
         }
         
-        function showTypingIndicator(show = true) {
-            let indicator = document.getElementById('typing-indicator');
+        function showTypingIndicator(show = true) { /* ... (與前一版相同) ... */ 
+            removeTypingIndicator(); 
             if (show) {
-                if (!indicator) {
-                    indicator = document.createElement('div');
-                    indicator.id = 'typing-indicator';
-                    indicator.classList.add('typing-indicator');
-                    indicator.textContent = '個管師正在輸入中...';
-                    chatOutput.appendChild(indicator);
-                    chatOutput.scrollTop = chatOutput.scrollHeight;
-                }
-            } else {
-                if (indicator) {
-                    indicator.remove();
-                }
+                const indicator = document.createElement('div');
+                indicator.id = 'typing-indicator';
+                indicator.classList.add('message', 'assistant-message', 'typing-indicator');
+                indicator.innerHTML = '<pre>個管師正在輸入中<span class="loader" style="display:inline-block; vertical-align:middle; margin-left:5px;"></span></pre>';
+                chatOutput.appendChild(indicator);
+                chatOutput.scrollTop = chatOutput.scrollHeight;
+            }
+        }
+        function removeTypingIndicator() { /* ... (與前一版相同) ... */ 
+            const indicator = document.getElementById('typing-indicator');
+            if (indicator) {
+                indicator.remove();
             }
         }
 
@@ -235,33 +321,17 @@
             const payload = {
                 message: message,
                 session_id: currentSessionId,
-                selected_pdf: pdfSelect.value,
+                // selected_pdf: pdfSelectChat.value, // RAG_QA_stream 不再使用此參數
+                use_rag: useRagCheckbox.checked, // <--- 新增：傳遞 use_rag 狀態
                 enable_memory: enableMemoryCheckbox.checked
             };
 
+            currentAssistantMessageDiv = null;
+            currentAssistantPre = null;
+            currentSourcesDiv = null;
+
             try {
                 if (stream) {
-                    if (eventSource) {
-                        eventSource.close(); // Close previous EventSource if any
-                    }
-                    // For streaming, the POST request initiates the stream generation on the server.
-                    // The server then holds the connection open and sends SSE.
-                    // We use EventSource to connect to an endpoint that will provide the SSE.
-                    // The Flask prototype for /api/chat/stream handles POST to start and then streams.
-                    // So, we POST first to tell server to start, then EventSource connects.
-                    // This is a bit complex. A simpler SSE is GET with query params,
-                    // or POST that directly returns text/event-stream.
-                    // The provided Flask app's `/api/chat/stream` (POST) *returns* the stream.
-
-                    eventSource = new EventSource(`/api/chat/stream?query=${encodeURIComponent(message)}&session_id=${currentSessionId}&selected_pdf=${encodeURIComponent(pdfSelect.value)}&enable_memory=${enableMemoryCheckbox.checked}`);
-                    // The above line is for GET. For POST initiated stream:
-                    // The flask app needs to be designed so that POST to /api/chat/stream
-                    // *returns* the Response(stream_with_context(...), mimetype='text/event-stream')
-                    // The JS `Workspace` can then read this stream.
-                    // However, EventSource API is simpler for receiving.
-                    // Let's assume the Flask POST /api/chat/stream returns the stream directly.
-                    
-                    // For a POST that returns an SSE stream:
                     const response = await fetch('/api/chat/stream', {
                         method: 'POST',
                         headers: {'Content-Type': 'application/json'},
@@ -273,101 +343,96 @@
                         throw new Error(`伺服器錯誤: ${errorData.error || response.status}`);
                     }
                     
-                    // Handle SSE stream from the response body
                     const reader = response.body.getReader();
                     const decoder = new TextDecoder();
-                    let assistantMessageDiv = null;
-                    let sourcesDiv = null;
-                    let assistantPre = null;
-                    let currentFullReply = "";
-                    let sources = [];
-
-                    function appendToAssistantMessage(textChunk) {
-                        if (!assistantMessageDiv) {
-                            assistantMessageDiv = document.createElement('div');
-                            assistantMessageDiv.classList.add('message', 'assistant-message');
-                            assistantPre = document.createElement('pre');
-                            assistantMessageDiv.appendChild(assistantPre);
-                            chatOutput.appendChild(assistantMessageDiv);
-                        }
-                        assistantPre.textContent += textChunk; // Append to pre for formatting
-                        chatOutput.scrollTop = chatOutput.scrollHeight;
-                    }
-                    
-                    function updateSources(srcs) {
-                        if (srcs && srcs.length > 0) {
-                            if (!assistantMessageDiv) appendToAssistantMessage(""); // Ensure div exists
-                            if (!sourcesDiv) {
-                                sourcesDiv = document.createElement('div');
-                                sourcesDiv.classList.add('sources');
-                                assistantMessageDiv.appendChild(sourcesDiv);
-                            }
-                            sourcesDiv.textContent = '資料來源: ' + srcs.join(', ');
-                        }
-                    }
+                    let accumulatedReplyForHistory = ""; 
+                    let currentSourcesForStream = []; // 用於串流中更新來源顯示
 
                     while (true) {
                         const { value, done } = await reader.read();
                         if (done) break;
                         
                         const rawEvents = decoder.decode(value, { stream: true });
-                        // SSE events are separated by \n\n. There might be multiple in one chunk.
                         const eventStrings = rawEvents.split('\n\n').filter(s => s.trim() !== '');
 
                         for (const eventString of eventStrings) {
                             if (eventString.startsWith('data:')) {
-                                const jsonData = eventString.substring(5); // Remove "data:" prefix
+                                const jsonData = eventString.substring(5);
                                 try {
                                     const chunk = JSON.parse(jsonData);
+
                                     if (chunk.error) {
                                         console.error("串流錯誤:", chunk.error);
-                                        appendToAssistantMessage(`\n[錯誤: ${chunk.error}]`);
-                                        currentFullReply += `\n[錯誤: ${chunk.error}]`;
-                                        showTypingIndicator(false);
-                                        return; // Stop processing this stream
-                                    }
-
-                                    // Based on my revised RAG_QA_stream.py yield:
-                                    // chunk = {"reply": cumulative_reply, "sources": [], "updated_history": [], "status": "completed/error"}
-                                    // or if it's an intermediate chunk: {"reply": cumulative_reply, "sources": [], "updated_history": []}
-                                    
-                                    // If the chunk directly contains the full cumulative reply:
-                                    if (chunk.reply) {
-                                        if (!assistantMessageDiv) { // First content chunk
-                                            assistantMessageDiv = document.createElement('div');
-                                            assistantMessageDiv.classList.add('message', 'assistant-message');
-                                            assistantPre = document.createElement('pre');
-                                            assistantMessageDiv.appendChild(assistantPre);
-                                            chatOutput.appendChild(assistantMessageDiv);
-                                            // Update sources only once or if they change
-                                            if (chunk.sources && chunk.sources.length > 0 && JSON.stringify(sources) !== JSON.stringify(chunk.sources)) {
-                                                sources = chunk.sources;
-                                                updateSources(sources);
-                                            }
-                                        }
-                                        assistantPre.textContent = chunk.reply.replace(new RegExp(`^資料來源：${sources.join(', ')}\\n\\n`), ''); // Show only AI text
-                                        currentFullReply = chunk.reply; // Keep track of the full reply for history
-                                    }
-
-                                    if (chunk.status === 'completed' || chunk.status === 'error') {
+                                        if(currentAssistantPre) currentAssistantPre.textContent += `\n[錯誤: ${chunk.error}]`;
+                                        else displayMessage('assistant', `[錯誤: ${chunk.error}]`);
+                                        accumulatedReplyForHistory += `\n[錯誤: ${chunk.error}]`;
+                                        removeTypingIndicator();
                                         currentHistory.push({ role: 'user', content: message });
-                                        // For history, save the reply *without* the "資料來源:" prefix.
-                                        let historyReply = chunk.reply;
-                                        if (sources.length > 0) {
-                                            historyReply = chunk.reply.replace(new RegExp(`^資料來源：${sources.join(', ')}\\n\\n`), '');
-                                        }
-                                        currentHistory.push({ role: 'assistant', content: historyReply, sources: sources });
+                                        currentHistory.push({ role: 'assistant', content: accumulatedReplyForHistory, sources: (chunk.sources || []) });
                                         saveChatHistoryToLocalStorage(currentHistory);
-                                        showTypingIndicator(false);
-                                        return; // Stream finished
+                                        return; 
+                                    }
+                                    
+                                    if (!currentAssistantMessageDiv) { 
+                                        removeTypingIndicator(); 
+                                        // 初始時，如果 use_rag 為 true 且 chunk.sources 有內容，則顯示來源
+                                        currentSourcesForStream = (useRagCheckbox.checked && chunk.sources) ? chunk.sources : [];
+                                        const tempDiv = displayMessage('assistant', '', currentSourcesForStream); 
+                                        currentAssistantMessageDiv = tempDiv;
+                                        currentAssistantPre = tempDiv.querySelector('pre');
+                                        currentSourcesDiv = tempDiv.querySelector('.sources'); 
+                                    }
+                                    
+                                    // chunk.reply 是包含來源前綴的累計回覆 (如果 use_rag=true 且有來源)
+                                    let displayReplyText = chunk.reply;
+                                    accumulatedReplyForHistory = chunk.reply; // 假設 chunk.reply 是純AI回覆或已處理好前綴
+
+                                    if (useRagCheckbox.checked && chunk.sources && chunk.sources.length > 0) {
+                                         // 如果啟用了RAG且有來源，我們需要從 chunk.reply 中分離出純AI回覆
+                                        const sourcePrefixString = `資料來源：${chunk.sources.join(', ')}\n\n`;
+                                        if (chunk.reply.startsWith(sourcePrefixString)) {
+                                            displayReplyText = chunk.reply.substring(sourcePrefixString.length);
+                                            accumulatedReplyForHistory = displayReplyText; // 歷史記錄存純AI回覆
+                                        }
+                                        // 更新來源顯示 (如果來源有變化)
+                                        if (currentSourcesDiv && JSON.stringify(currentSourcesForStream) !== JSON.stringify(chunk.sources)) {
+                                            currentSourcesDiv.textContent = '資料來源: ' + chunk.sources.join(', ');
+                                            currentSourcesForStream = chunk.sources;
+                                        } else if (!currentSourcesDiv && chunk.sources.length > 0 && currentAssistantMessageDiv) {
+                                            currentSourcesDiv = document.createElement('div');
+                                            currentSourcesDiv.classList.add('sources');
+                                            currentSourcesDiv.textContent = '資料來源: ' + chunk.sources.join(', ');
+                                            currentAssistantMessageDiv.appendChild(currentSourcesDiv);
+                                            currentSourcesForStream = chunk.sources;
+                                        }
+                                    } else if (currentSourcesDiv) { // 如果之前有來源但現在 use_rag=false 或無來源，移除來源顯示
+                                        currentSourcesDiv.remove();
+                                        currentSourcesDiv = null;
+                                        currentSourcesForStream = [];
+                                    }
+
+
+                                    if (currentAssistantPre) {
+                                        currentAssistantPre.textContent = displayReplyText;
+                                    }
+                                    chatOutput.scrollTop = chatOutput.scrollHeight;
+
+                                    if (chunk.status === 'completed') {
+                                        currentHistory.push({ role: 'user', content: message });
+                                        currentHistory.push({ role: 'assistant', content: accumulatedReplyForHistory, sources: (useRagCheckbox.checked ? currentSourcesForStream : []) });
+                                        saveChatHistoryToLocalStorage(currentHistory);
+                                        removeTypingIndicator();
+                                        return; 
                                     }
                                 } catch (e) {
-                                    console.error("解析串流數據錯誤:", e, "數據:", jsonData);
+                                    console.error("解析串流數據錯誤:", e, "原始數據:", jsonData);
                                 }
                             }
                         }
                     }
-                    showTypingIndicator(false); // Fallback if loop finishes unexpectedly
+                    currentHistory.push({ role: 'user', content: message });
+                    currentHistory.push({ role: 'assistant', content: accumulatedReplyForHistory, sources: (useRagCheckbox.checked ? currentSourcesForStream : []) });
+                    saveChatHistoryToLocalStorage(currentHistory);
 
                 } else { // Non-streaming
                     const response = await fetch('/api/chat', {
@@ -381,6 +446,7 @@
                         throw new Error(`伺服器錯誤: ${errorData.error || response.status}`);
                     }
                     const result = await response.json();
+                    removeTypingIndicator();
                     displayMessage('assistant', result.reply, result.sources);
                     
                     currentHistory.push({role: 'user', content: message});
@@ -389,20 +455,16 @@
                 }
             } catch (error) {
                 console.error(stream ? '串流請求失敗:' : '請求失敗:', error);
+                removeTypingIndicator();
                 displayMessage('assistant', `抱歉，發生錯誤: ${error.message}`);
             } finally {
-                showTypingIndicator(false);
+                removeTypingIndicator();
             }
         }
 
-        clearHistoryButton.addEventListener('click', async () => {
-            if (!currentSessionId) {
-                alert("沒有 Session ID，無法清除歷史。");
-                return;
-            }
-            if (!confirm(`確定要清除對話 ID "${currentSessionId}" 的所有本地和伺服器端歷史記錄嗎？`)) {
-                return;
-            }
+        clearHistoryButton.addEventListener('click', async () => { /* ... (與前一版相同) ... */ 
+            if (!currentSessionId) { alert("沒有 Session ID，無法清除歷史。"); return; }
+            if (!confirm(`確定要清除對話 ID "${currentSessionId}" 的所有本地和伺服器端歷史記錄嗎？`)) return;
             try {
                 const response = await fetch('/api/chat/history/clear', {
                     method: 'POST',
@@ -411,8 +473,8 @@
                 });
                 const result = await response.json();
                 if (result.success) {
-                    localStorage.removeItem(`chatHistory_${currentSessionId}`); // Clear local
-                    loadChatHistory(); // Reload (should be empty)
+                    localStorage.removeItem(`chatHistory_${currentSessionId}`);
+                    renderChatHistory(); 
                     alert("歷史記錄已清除。");
                 } else {
                     alert(`清除歷史失敗: ${result.message || result.error}`);
@@ -423,20 +485,59 @@
             }
         });
 
+        rebuildDbButton.addEventListener('click', async () => { /* ... (與前一版相同) ... */ 
+            const selectedPdfCheckboxes = document.querySelectorAll('#pdf-rebuild-list-container input[type="checkbox"]:checked');
+            const pdfFilenames = Array.from(selectedPdfCheckboxes).map(cb => cb.value);
+            if (pdfFilenames.length === 0) {
+                alert("請至少選擇一個PDF檔案來重建資料庫。");
+                return;
+            }
+            if (!confirm(`確定要使用選定的 ${pdfFilenames.length} 個PDF檔案重建向量資料庫嗎？`)) { // 簡化確認訊息
+                return;
+            }
+            dbRebuildStatus.innerHTML = '正在重建資料庫... <div class="loader"></div>';
+            rebuildDbButton.disabled = true;
+            try {
+                const response = await fetch('/api/db/rebuild', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({
+                        pdf_filenames: pdfFilenames,
+                        force_reset: forceResetDbCheckbox.checked
+                    })
+                });
+                const result = await response.json();
+                if (result.success) {
+                    dbRebuildStatus.textContent = `成功: ${result.message}`;
+                    alert(`成功: ${result.message}`);
+                    fetchStatus(); 
+                } else {
+                    dbRebuildStatus.textContent = `失敗: ${result.message}`;
+                    alert(`失敗: ${result.message}`);
+                }
+            } catch (error) {
+                console.error("重建資料庫請求失敗:", error);
+                dbRebuildStatus.textContent = `錯誤: ${error.message}`;
+                alert(`重建資料庫請求失敗: ${error.message}`);
+            } finally {
+                rebuildDbButton.disabled = false;
+            }
+        });
+
         sendButton.addEventListener('click', () => sendMessage(false));
         sendStreamButton.addEventListener('click', () => sendMessage(true));
         messageInput.addEventListener('keypress', (e) => {
             if (e.key === 'Enter' && !e.shiftKey) {
                 e.preventDefault();
-                sendMessage(false); // Default to non-streaming on Enter
+                sendMessage(false); 
             }
         });
 
         // Initial setup
-        initializeSession();
+        initializeSession(); 
         fetchPdfList();
-        fetchStatus(); // Fetch initial status
-        setInterval(fetchStatus, 30000); // Periodically update status (e.g., every 30s)
+        fetchStatus(); 
+        setInterval(fetchStatus, 30000); 
 
     </script>
 </body>
