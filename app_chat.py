@@ -9,22 +9,22 @@ import sys
 import logging
 from datetime import datetime
 import uuid
-import torch
+import torch # 需要導入 torch
 
 # --- 日誌配置 ---
 logging.basicConfig(
-    level=logging.INFO, # INFO 級別在測試和開發時較為實用
+    level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - [%(funcName)s:%(lineno)d] - %(message)s',
     handlers=[
         logging.StreamHandler(sys.stdout),
         logging.FileHandler('app_chat.log', mode='a', encoding='utf-8')
     ]
 )
-logger = logging.getLogger('app_chat_simplified')
+logger = logging.getLogger('app_chat_passive_status')
 
 # --- 將 apps 目錄添加到 Python 路徑 ---
 current_dir = os.path.dirname(os.path.abspath(__file__))
-if current_dir not in sys.path: # 避免重複添加
+if current_dir not in sys.path:
     sys.path.insert(0, current_dir)
 
 # --- 導入後端模組 ---
@@ -32,49 +32,57 @@ try:
     import apps.LLM_init as llm_init_module
     from apps.LLM_init import (
         initialize_llm_model, initialize_vector_database,
-        get_llm_model_and_tokenizer, get_vector_db_instance,
+        get_llm_model_and_tokenizer, # 現在這個函數有新參數
+        get_vector_db_instance,
         shutdown_llm_resources
     )
     import apps.RAG_QA_stream as rag_qa_module
     logger.info("成功導入後端 apps 模組。")
 except ImportError as e:
-    logger.critical(f"導入 apps 模듈失敗: {e}", exc_info=True)
+    logger.critical(f"導入 apps 模組失敗: {e}", exc_info=True)
     sys.exit("關鍵後端模組導入失敗，應用程式無法啟動。")
 
 app = Flask(__name__)
 
-# --- 全域應用狀態 (簡化版，適用於測試) ---
-chat_sessions_history = {} # 存儲對話歷史: { "session_id": [messages] }
+# --- 全域應用狀態 ---
+chat_sessions_history = {}
 
 # --- Flask 路由 ---
 
 @app.route('/')
 def index():
-    # logger.info(f"服務主頁面 chat_test.html") # 可選日誌
     return render_template('chat_test.html')
 
 @app.route('/api/status', methods=['GET'])
 def get_app_status():
-    # logger.info("請求 API 狀態") # 可選日誌
+    # logger.info("請求 API 狀態 (被動模式)") # 可選日誌
     try:
-        model, _, _ = get_llm_model_and_tokenizer() # 確保模型已載入
+        # 使用新參數調用，以避免影響閒置計時器或改變模型設備狀態
+        model, _, _ = get_llm_model_and_tokenizer(
+            update_last_used_time=False, 
+            ensure_on_gpu=False # 僅檢查當前狀態，不強制移動到GPU
+        )
         device_info = {}
         gpu_memory_info = None
 
-        if model: # 僅在模型成功載入後嘗試獲取設備信息
+        if model:
             device = next(iter(model.parameters())).device
             device_info['type'] = device.type
             if device.type == 'cuda':
-                device_info['index'] = device.index if hasattr(device, 'index') and device.index is not None else torch.cuda.current_device()
+                # 確保 device.index 存在且有效
+                current_cuda_device_idx = device.index if hasattr(device, 'index') and device.index is not None else torch.cuda.current_device()
+                device_info['index'] = current_cuda_device_idx
                 try:
-                    gpu_id = device_info['index']
-                    allocated = round(torch.cuda.memory_allocated(gpu_id) / (1024 ** 3), 2)
-                    reserved = round(torch.cuda.memory_reserved(gpu_id) / (1024 ** 3), 2)
+                    # 使用確定的 current_cuda_device_idx
+                    allocated = round(torch.cuda.memory_allocated(current_cuda_device_idx) / (1024 ** 3), 2)
+                    reserved = round(torch.cuda.memory_reserved(current_cuda_device_idx) / (1024 ** 3), 2)
                     gpu_memory_info = {'allocated': allocated, 'reserved': reserved, 'unit': 'GB'}
                 except Exception as e_gpu:
-                    logger.warning(f"獲取 GPU 記憶體資訊出錯: {e_gpu}")
+                    logger.warning(f"獲取 GPU ID {current_cuda_device_idx} 記憶體資訊時出錯: {e_gpu}")
         else:
             device_info = {'type': '模型未載入或未知設備'}
+            logger.info("API 狀態：模型實例為 None。")
+
 
         return jsonify({
             'status': 'ok', 'timestamp': datetime.now().isoformat(),
@@ -100,6 +108,8 @@ def handle_chat_request():
     current_history = chat_sessions_history.get(session_id, [])
     
     try:
+        # 正常聊天請求，需要更新時間並確保模型在GPU (如果可用)
+        # get_llm_model_and_tokenizer 預設 update_last_used_time=True, ensure_on_gpu=True
         _, response_data = rag_qa_module.generate_reply(
             query=query, selected_pdf=selected_pdf,
             enable_memory=enable_memory, history=current_history
@@ -127,25 +137,27 @@ def handle_stream_chat_request():
     current_history = chat_sessions_history.get(session_id, [])
 
     def event_stream_generator():
-        final_session_history = list(current_history) # 操作副本
+        final_session_history = list(current_history)
         try:
+            # 串流聊天請求，也需要更新時間並確保模型在GPU
+            # rag_qa_module.stream_response 內部會調用 get_llm_model_and_tokenizer (預設行為)
             for chunk in rag_qa_module.stream_response(
                 query=query, selected_pdf=selected_pdf,
                 enable_memory=enable_memory, history=current_history
             ):
-                yield f"data: {json.dumps(chunk)}\n\n" # SSE 格式
-                if "updated_history" in chunk: # 持續更新，以便最終保存
+                yield f"data: {json.dumps(chunk)}\n\n"
+                if "updated_history" in chunk:
                     final_session_history = chunk["updated_history"]
-                if chunk.get("status") in ["completed", "error"]: # 串流結束標記
+                if chunk.get("status") in ["completed", "error"]:
                     break
-        except GeneratorExit: # 客戶端斷開連接
+        except GeneratorExit:
             logger.info(f"客戶端斷開串流 [Sess:{session_id}]。")
         except Exception as e_stream:
             logger.error(f"串流生成過程出錯 [Sess:{session_id}]: {e_stream}", exc_info=True)
             error_payload = {'reply': f"串流錯誤: {str(e_stream)}", 'sources':[], 'status': 'error'}
             yield f"data: {json.dumps(error_payload)}\n\n"
         finally:
-            chat_sessions_history[session_id] = final_session_history # 保存最終的歷史記錄
+            chat_sessions_history[session_id] = final_session_history
             logger.info(f"串流結束，已更新 Session [{session_id}] 歷史。")
             
     return Response(stream_with_context(event_stream_generator()), content_type='text/event-stream')
@@ -153,9 +165,8 @@ def handle_stream_chat_request():
 @app.route('/api/pdfs', methods=['GET'])
 def get_available_pdfs():
     pdf_dir = llm_init_module.PDF_FILES_PATH
-    # logger.info(f"請求 PDF 列表，路徑: {pdf_dir}") # 可選日誌
     try:
-        if not os.path.isdir(pdf_dir): # 簡化檢查
+        if not os.path.isdir(pdf_dir):
             logger.warning(f"PDF 文件夾 {pdf_dir} 不存在或不是目錄。")
             return jsonify(["No PDFs"])
         
@@ -177,7 +188,6 @@ def clear_session_history():
         logger.info(f"已清除 Session [{session_id}] 歷史。")
         return jsonify({'success': True, 'message': f'Session {session_id} 歷史已清除。'})
     else:
-        # logger.warning(f"嘗試清除不存在的 Session [{session_id}] 歷史。") # 可選日誌
         return jsonify({'success': False, 'message': '指定的 Session ID 無歷史記錄。'}), 404
 
 # --- 應用程式初始化與清理 ---
@@ -200,44 +210,29 @@ atexit.register(perform_cleanup)
 
 def handle_system_signal(signal_received, frame):
     logger.warning(f"收到系統信號 {signal_received}。準備關閉...")
-    sys.exit(0) # 將觸發 atexit 註冊的 cleanup
+    sys.exit(0)
 
 signal.signal(signal.SIGINT, handle_system_signal)
 signal.signal(signal.SIGTERM, handle_system_signal)
 
 if __name__ == '__main__':
     logger.info("Flask 應用準備啟動...")
-    
-    # --- Debug 模式說明 ---
-    # `debug=True` 會啟用 Flask 的調試模式，主要特性：
-    # 1. 自動重載 (Auto-Reloader): 當程式碼變更時，伺服器會自動重啟，方便開發。
-    #    這也是為何下方會有 `os.environ.get("WERKZEUG_RUN_MAIN")` 的檢查，
-    #    以避免在 reloader 的子進程中重複執行昂貴的初始化操作。
-    # 2. 交互式調試器 (Interactive Debugger): 若應用發生未捕獲的錯誤，
-    #    瀏覽器會顯示一個帶有堆疊追蹤和控制台的調試介面。
-    # 注意：切勿在生產環境中啟用 debug=True，因其存在安全風險。
-    #
-    # `is_debug_mode` 變數用於統一控制 Flask app.run 的 debug 和 use_reloader 參數。
-    # 您可以通過環境變數 FLASK_DEBUG=1 來啟用它，或者直接修改下面的賦值。
-    # 對於測試應用，建議啟用 debug 模式。
     is_debug_mode = os.environ.get('FLASK_DEBUG', '0') == '1' or True # 開發測試時預設開啟
     
-    # 僅在主進程 (或非 debug 模式下) 執行初始化
     if not is_debug_mode or os.environ.get("WERKZEUG_RUN_MAIN") == "true":
         perform_initialization()
         if os.environ.get("WERKZEUG_RUN_MAIN") == "true":
             logger.info("Flask reloader 主進程：資源已初始化。")
-    elif is_debug_mode: # Werkzeug reloader 的子進程
+    elif is_debug_mode:
         logger.info("Flask reloader 子進程：等待主進程初始化資源...")
-        # 在子進程中，我們通常不重複初始化，但可能需要短暫等待主進程完成。
-        # 然而，LLM_init 中的 get 函數有自己的 lazy-loading，所以這裡不阻塞。
 
-    try: # 啟動後日誌，確認模型狀態
-        model, _, _ = get_llm_model_and_tokenizer() # 會觸發GPU載入(如果之前在CPU)
+    try:
+        # 啟動後，第一次獲取模型狀態時，使用被動模式，避免不必要的GPU加載
+        model, _, _ = get_llm_model_and_tokenizer(update_last_used_time=False, ensure_on_gpu=False)
         if model:
-             logger.info(f"LLM ({llm_init_module.LLM_MODEL_NAME}) 已就緒於設備: {next(model.parameters()).device}")
+             logger.info(f"LLM ({llm_init_module.LLM_MODEL_NAME}) 初始狀態於設備: {next(model.parameters()).device}")
         else:
-             logger.warning("LLM 未能成功獲取。")
+             logger.warning("LLM 未能成功獲取初始狀態。")
     except Exception as e:
         logger.error(f"啟動時檢查模型狀態失敗: {e}", exc_info=True)
 
