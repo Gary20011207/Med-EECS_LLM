@@ -182,7 +182,7 @@ def login():
             if user["is_admin"] == 1:
                 return redirect(url_for("admin_dashboard"))
             else:
-                return redirect(url_for("chat"))
+                return redirect(url_for("welcome"))
         else:
             return "病歷號或是密碼錯誤!"
     return render_template("login.html")
@@ -194,11 +194,25 @@ def logout():
     return redirect(url_for("login"))
 
 # Chat page (must be logged in)
-@app.route("/")
+@app.route("/chat")
 def chat():
     if "user_id" not in session:
         return redirect(url_for("login"))
-    return render_template("chat.html", name=session["name"])
+    return render_template("chat.html")
+
+@app.route("/")
+def welcome():
+    if "user_id" not in session:
+        return redirect(url_for("login"))
+
+    conn = get_db_connection()
+    user = conn.execute("SELECT * FROM users WHERE id = ?", (session["user_id"],)).fetchone()
+    conn.close()
+
+    if not user:
+        return redirect(url_for("login"))
+
+    return render_template("welcome.html", user=user)
 
 # Get chat history
 @app.route("/get_history")
@@ -392,16 +406,16 @@ def get_doctor_list():
     conn.close()
     return jsonify([dict(d) for d in doctors])
 
-def ensure_chat_history_column():
-    conn = get_db_connection()
-    cursor = conn.cursor()
-    cursor.execute("PRAGMA table_info(chat_history)")
-    columns = [row["name"] for row in cursor.fetchall()]
-    if "doctor_name" not in columns:
-        print("Adding missing column: doctor_name")
-        cursor.execute("ALTER TABLE chat_history ADD COLUMN doctor_name TEXT")
-        conn.commit()
-    conn.close()
+# def ensure_chat_history_column():
+#     conn = get_db_connection()
+#     cursor = conn.cursor()
+#     cursor.execute("PRAGMA table_info(chat_history)")
+#     columns = [row["name"] for row in cursor.fetchall()]
+#     if "doctor_name" not in columns:
+#         print("Adding missing column: doctor_name")
+#         cursor.execute("ALTER TABLE chat_history ADD COLUMN doctor_name TEXT")
+#         conn.commit()
+#     conn.close()
 
 if __name__ == "__main__":
     # Initialize the database if it doesn't exist
@@ -436,7 +450,8 @@ if __name__ == "__main__":
                 ward_nurse_education DATE DEFAULT NULL,
                 ward_anxiety_survey_postop DATE DEFAULT NULL,
                 ward_instruction_satisfaction_survey_postop DATE DEFAULT NULL,
-                current_expert INTEGER DEFAULT 0 NOT NULL
+                current_expert INTEGER DEFAULT 0 NOT NULL,
+                has_completed_profile INTEGER DEFAULT 0 NOT NULL
             )
         ''')
         # Create a table for chat history
@@ -469,7 +484,7 @@ if __name__ == "__main__":
         conn.commit()
         conn.close()
         print("Database initialized.")
-    else:
-        ensure_chat_history_column()
+    # else:
+    #     ensure_chat_history_column()
     # Run the Flask app
     app.run(host="0.0.0.0", port=5001, debug=True)
