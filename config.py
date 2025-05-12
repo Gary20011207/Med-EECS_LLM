@@ -1,7 +1,7 @@
 # config.py - 統一配置管理
 
 # 模型配置
-LLM_MODEL_NAME = "Qwen/Qwen2.5-14B-Instruct-1M"
+LLM_MODEL_NAME = "Qwen/Qwen2.5-14B-Instruct-1M" # "Qwen/Qwen3-30B-A3B" "nvidia/Llama-3.1-Nemotron-Nano-8B-v1" "microsoft/Phi-4-mini-reasoning"
 EMBEDDINGS_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 QUANTIZATION_LEVEL = "4bit"  # 可選：4bit, 8bit, none
 
