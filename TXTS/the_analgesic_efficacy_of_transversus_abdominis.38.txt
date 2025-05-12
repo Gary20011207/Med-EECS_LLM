@@ -1,0 +1,201 @@
+The Analgesic Efﬁcacy of Transversus Abdominis Plane
+Block After Abdominal Surgery: A ProspectiveRandomized Controlled Trial
+John G. McDonnell, MB,
+FCARCSI*†
+Brian O’Donnell, MB, FCARCSI†
+Gerard Curley, MB*
+Anne Heffernan, MB, FCARCSI†
+Camillus Power, MD, FCARCSI†
+John G. Laffey, MD, MA,
+FCARCSI*‡BACKGROUND: The transversus abdominis plane (TAP) block is a novel approach for
+blocking the abdominal wall neural afferents via the bilateral lumbar triangles ofPetit. We evaluated its analgesic efficacy in patients during the first 24 postopera-tive hours after abdominal surgery, in a randomized, controlled, double-blindclinical trial.METHODS: Thirty-two adults undergoing large bowel resection via a midline ab-
+dominal incision were randomized to receive standard care, including patient-controlled morphine analgesia and regular nonsteroidal antiinflammatory drugsand acetaminophen ( n/H1100516), or to undergo TAP block ( n/H1100516) in addition to
+standard care ( n/H1100516). After induction of anesthesia, 20 mL of 0.375% levobupi-
+vacaine was deposited into the transversus abdominis neuro-fascial plane via thebilateral lumbar triangles of Petit. Each patient was assessed by a blindedinvestigator in the postanesthesia care unit and at 2, 4, 6, and 24 h postoperatively.RESULTS: The TAP block reduced visual analog scale pain scores (TAP versus
+control, mean /H11006sd) on emergence (1 /H110061.4 vs 6.6 /H110062.8, P/H110210.05), and at all
+postoperative time points, including at 24 h (1.7 /H110061.7 vs 3.1 /H110061.5, P/H110210.05).
+Morphine requirements in the first 24 postoperative hours were also reduced(21.9/H110068.9 mg vs 80.4 /H1100619.2 mg, P/H110210.05). There were no complications
+attributable to the TAP block. All TAP patients reported high levels of satisfactionwith their postoperative analgesic regimen.CONCLUSIONS: The TAP block provided highly effective postoperative analgesia in
+the first 24 postoperative hours after major abdominal surgery.
+(Anesth Analg 2007;104:193–7)
+Asubstantial component of the pain experienced by
+patients after abdominal surgery is derived from theabdominal wall incision (1). The abdominal wall con-sists of three muscle layers, the external oblique, theinternal oblique, and the transversus abdominis, andtheir associated fascial sheaths. The central abdominalwall also includes the rectus abdominis muscles andits associated fascial sheath. This muscular wall isinnervated by nerve afferents that course through thetransversus abdominis neuro-fascial plane (2).A promising approach to the provision of postop-
+erative analgesia after abdominal incision is to blockthe sensory nerve supply to the anterior abdominalwall (3,4). However, the clinical utility of currentapproaches to the blockade of these nerve afferents,such as abdominal field blocks, is limited, and thedegree of block achieved can be unpredictable. Amajor reason for the relative lack of efficacy of theseblocks is the lack of clearly defined anatomic land-marks, leading to uncertainty regarding the exactneedle positioning, and the lack of a clear indicationthat the local anesthetic is being deposited in thecorrect anatomical plane.
+We have sought an alternative, reliable approach to
+the blockade of the neural afferents to the anterior
+abdominal wall. These neural afferents course throughthe neurofascial plane between the internal obliqueand the transversus abdominis muscles (2). On thebasis of anatomic studies, our group identified thelumbar triangle of Petit as a potential access pointto this neurofascial plane (Fig. 1). This triangle isbounded posteriorly by the latissimus dorsi muscleand anteriorly by the external oblique, with the iliaccrest forming the base of the triangle, and is a fixedand easily palpable landmark (5) (Fig. 1). By introduc-ing local anesthetics into the transversus abdominis
+From the *Department of Anaesthesia and Intensive Care Medi-
+cine, University College Hospital, Galway; †Department of Anaes-thesia and Intensive Care Medicine, Adelaide and Meath Hospitals,Tallaght, Dublin; and ‡Department of Anaesthesia, Clinical SciencesInstitute, National University of Ireland, Galway, Ireland.
+Accepted for publication August 25, 2006.Supported by departmental resources.This study was presented, in part, at the Delaney Medal Re-
+search Competition, College of Anaesthetists RCSI, Dublin, Irelandon March 2, 2006.
+Reprints will not be available from the authors.Address correspondence to John G. Laffey, MD, FCARCSI, Depart-
+ment of Anaesthesia, Clinical Sciences Institute, National University ofIreland, Galway, Ireland.Address e-mail to john.laffey@nuigalway.ie.
+Copyright © 2006 International Anesthesia Research Society
+DOI: 10.1213/01.ane.0000250223.49963.0f
+Vol. 104, No. 1, January 2007 193
+plane via the triangle of Petit, it is possible to block the
+sensory nerves of the anterior abdominal wall beforethey pierce the musculature to innervate the abdomen.We call this novel block the “transversus abdominisplane” (TAP) block.
+Preliminary cadaveric studies, followed by volun-
+teer studies, have demonstrated the potential for theTAP block to produce a dermatomal sensory block ofthe lower six thoracic and upper lumbar abdominalafferents (6). In addition, we have demonstrated theanalgesic potential of the TAP block in a series ofpatients undergoing radical prostatectomy (7). In thisstudy, we evaluated the analgesic efficacy of TAPblockade for the first 24 postoperative hours, in pa-tients undergoing large bowel resection via a midlineabdominal wall incision.
+METHODS
+After obtaining approval by the Hospital Ethics
+Committee, and written informed patient consent, westudied 32 ASA physical status I–III patients sched-uled for large bowel resection via a midline abdominalincision, in a prospective, randomized, double-blind,controlled clinical trial. Patients were excluded if therewas a history of relevant drug allergy, or if they werereceiving medical therapies considered to result intolerance to opiates. After study entry, patients werealso excluded if the surgery did not proceed to bowelresection.
+Patients were randomized, by sealed envelopes, to
+undergo TAP block ( n/H1100516) or to receive standard
+care ( n/H1100516). The patients, their anesthesiologists, and
+the staff providing postoperative care were blinded togroup assignment. All patients received a standard-
+ized general anesthetic. Standard monitoring, includ-ing electrocardiogram, arterial blood pressure, arterial
+oxygen saturation, and end-tidal carbon dioxidemonitoring were used throughout, and patients wereplaced in the supine position. Anesthesia was inducedwith IV fentanyl (1–1.5
+/H9262g/kg to a maximum of 100
+/H9262g) and propofol (2–3 mg/kg). All patients also re-
+ceived morphine 0.15 mg/kg, rectal diclofenac 1
+mg/kg to a maximum of 100 mg and rectal acetamino-p h e n1gi m m ediately before surgical incision. Prophy-
+lactic antiemetics were not administered.
+All patients randomized to undergo TAP block had
+the block performed after induction of anesthesia, by oneof two investigators (JMcD, BO’D). The iliac crest waspalpated from anterior to posterior until the latissimusdorsi muscle could be felt (Fig. 2A). The triangle of Petit
+was then located just anterior to the latissimus dorsimuscle. Using a blunt regional anesthesia needle (22G,Plexufix /H23041, B. Braun, Melsungen AG, Germany), the
+skin was pierced just cephalad to the iliac crest overthe triangle of Petit (Fig. 2B). The needle was thenadvanced at right angles to the skin, in a coronalplane, until resistance was encountered. This resis-tance indicated that the needle tip was at the externaloblique muscle. Gentle advancement of the needleresulted in a “pop” sensation as the needle entered theplane between the external and internal oblique fasciallayers. Further gentle advancement of the needleresulted in a second pop, which indicated entry intothe transversus abdominis fascial plane. After careful
+aspiration to exclude vascular puncture, 20 mL of 0.375%levobupivacaine solution (to a maximum dose of 1
+Figure 1. Line drawing of the anat-
+omy of the abdominal wall, includ-ing the lumbar triangle of Petit(TOP). The triangle is boundedposteriorly by the latissimus dorsimuscle, anteriorly by the externaloblique, with the iliac crest formingthe base of the triangle.
+194
+Transversus Abdominis Plane Block ANESTHESIA &ANALGESIA
+mg/kg each side) was then injected through the needle
+(Fig. 2C). The TAP block was then performed on theopposite side, using an identical technique.
+After completion of the surgical procedure, and
+emergence from anesthesia, patients were transferredto the postanesthesia care unit (PACU). A standardpostoperative analgesic regimen, consisting of oralacetaminophe n 1 g ever y 6 h and rectal diclofenac 100
+mg every 18 h, combined with patient-controlledmorphine analgesia (bolus 1 mg, 6-min lockout, maxi-mum dose 40 mg every 4 h), was used in both groups.The presence and severity of pain, nausea, and seda-
+tion were assessed systematically by an investigatorblinded to group allocation. These assessments wereperformed in the PACU and at 2, 4, 6, and 24 hpostoperatively. All patients were asked to give scoresfor their pain at rest and on movement, and for thedegree of nausea at each time point. Pain severity wasmeasured using both a visual analog scale (0 /H11005no
+pain, 10 /H11005worst imaginable) and a categorical pain
+scoring system (none /H110050; mild /H110051; moderate /H110052;
+severe /H110053). Nausea was measured using a categorical
+scoring system (none /H110050; mild /H110051; moderate /H110052;
+severe /H110053). Sedation scores were assigned by the
+blinded assessor, using a sedation scale (awake andalert/H110050; quietly awake /H110051; asleep but easily roused /H11005
+2; deep sleep /H110053). Rescue antiemetics were offered to
+any patient who complained of nausea or vomiting.
+We estimated our sample size on the basis of the
+24-h morphine requirement of patients undergoinglarge bowel surgery. For the purposes of sample sizecalculation, we considered that a clinically importantreduction in 24-h morphine consumption would be a25% absolute reduction. This was a conservative as-sumption based on our pilot data. On the basis ofinitial pilot studies, we projected a 24-h morphinerequirement of 60 mg, with a standard deviation of /H1100610
+mg, in the control group. We calculated that 14 pa-tients per group would be required for an experimen-tal design incorporating two equal sized groups, usingan
+/H9251/H110050.05 and /H9252/H110050.2. To minimize any effect of data
+loss, we elected to recruit 16 patients per group intothe study.
+Statistical analyses were performed using a stan-
+dard statistical program (SPSS, Sigma Stat©, Version2.0 Jandel Scientific, Chicago, IL). Demographic datawere analyzed using Student’s t-test or Fisher’s exact
+test as appropriate. Repeated measurements (painscores, nausea scores) were analyzed by repeated mea-sures ANOVA or ANOVA on ranks, with further pairedcomparisons at each time interval performed using thet-test or Mann–Whitney U-test as appropriate. Categori-
+cal data were analyzed using
+/H92732analysis or Fisher’s
+exact test where applicable. Normally distributed data
+are presented as means /H11006seof the mean ( sem),
+non-normally distributed data are presented as medi-ans/H11006quartiles (interquartile range), and categorical
+data are presented as raw data and as frequencies. The
+/H9251level for all analyses was set as P/H110210.05.
+RESULTS
+Thirty-four patients were entered into the study. Two
+patients were excluded after enrollment due to thedeferral of their surgical procedures. Of the remainingpatients, 16 were randomized to undergo TAP blockade,and 16 were randomized to standard therapy.
+All patients underwent abdominal surgical proce-
+dures requiring a midline abdominal incision (Table1). Both groups were comparable in age, gender, and
+Figure 2. Panel A: Surface anatomy of the TOP. Panel B: Site
+of needle insertion into of the TOP. Panel C: Injection of localanesthetic through the needle inserted into the transversesabdominis neurofascial plane via the TOP. TOP /H11005lumbar
+triangle of Petit; LD /H11005latissimus dorsi muscle; EO /H11005
+external oblique muscle.
+Vol. 104, No. 1, January 2007 © 2007 International Anesthesia Research Society 195
+operative procedures performed (Table 1). In all pa-
+tients randomized to receive TAP block, the triangle ofPetit was located easily on palpation, the transversusabdominis neuro-fascial plane was localized after oneto two attempts, and the block performed withoutcomplication.
+Patients undergoing TAP block had a longer time to
+first request for morphine, and reduced overall mor-phine requirements (Table 2). TAP block reduced cumu-lative postoperative morphine consumption (controlversus TAP) a t 4 h (29.2 /H110062.5 mg vs 5.8 /H110061.3 mg), 6 h
+(40.4/H110063.1 mg vs 7.8 /H110061.6 mg) and at 24 h (Table 2).
+Postoperative pain scores were reduced at all time pointsassessed after TAP block, both at rest (Fig. 3) and onmovement (Fig. 4). Categorical pain scores were alsoreduced in patients who received the TAP block, in thePACU and at 2, 4, and 6 h postoperatively (Table 2).
+In patients who received the TAP block, postopera-
+tive sedation scores were reduced at 4 and 6 hpostoperatively, but not at the other time pointsassessed (Table 3). The incidence of postoperativenausea and vomiting (PONV) was substantially re-duced in patients in the TAP block group (Table 3).However, the decrease in PONV scores in the TAP
+block group was modest (Table 3).
+DISCUSSION
+The benefits of adequate postoperative analgesia
+are clear, and include a reduction in the postoperativestress response (8), reduction in postoperative morbid-ity (9), and in certain types of surgery, improvedsurgical outcome (10). Effective pain control also fa-cilitates rehabilitation and accelerates recovery fromsurgery (9,11). Other benefits of effective regionalanalgesic techniques include reduced pain intensity,decrease incidence of side effects from analgesics, andimproved patient comfort (11).
+Direct blockade of the neural afferent supply of the
+abdominal wall, such as abdominal field blocks, ilio-inguinal, and hypogastric nerve blocks, have longbeen recognized as capable of providing significantpostoperative analgesia in patients undergoing ab-dominal surgical procedures such as cesarean delivery(3) and inguinal herniorrhaphy (4). However, the lackof clearly defined anatomic landmarks has meant that
+Figure 3. Mean postoperative verbal analog scale (VAS) pain
+scores at rest in each group over the first 24 postoperativehours. *Indicates significantly ( P/H110210.05, t-test after ANOVA)
+higher VAS score when compared with the transversusabdominis plane (TAP) block group.
+Figure 4. Mean postoperative verbal analog scale (VAS) pain
+scores on movement in each group over the first 24 postop-erative hours. *Indicates significantly ( P/H110210.05, t-test after
+ANOVA) higher VAS score when compared with the trans-versus abdominis plane (TAP) block group.Table 1. Baseline Patient Characteristics
+Control
+(n/H1100516)TAP block
+(n/H1100516)
+Age (yr) 54.6 /H110064.2 58.9 /H110064.0
+Sex ratio (M:F) 8:8 7:9Weight (kg) 67.4 /H110063.5 64.7 /H110062.3
+Height (m) 1.63 /H110060.04 1.66 /H110060.04
+Duration of surgery (min) 163.6 /H110068.5 170.4 /H1100617.8
+Intraoperative morphine
+(mg/kg)0.15/H110060.0 0.15 /H110060.0
+Surgical procedure
+Large bowel resection 14 10Small bowel resection 1 2Other procedure 1 4
+Categorical variables as presented as number and proportion, and continuous variables are
+presented as mean /H11006SEM.
+TAP/H11005tranversus abdominis plane block.
+There were no signiﬁcant differences between groups.
+Table 2. Postoperative Pain Scores and Analgesic Requirement
+Control
+(n/H1100516)TAP block
+(n/H1100516)
+Time to first request for
+morphine (min)24.1/H110066.9 157.2 /H1100627.9‡
+Mean 24 h morphine
+requirement (mg)80.44/H110064.8 21.94 /H110062.2†
+Categorical pain severity
+PACU 2.5 (2, 3) 0 (0, 1)‡2 Hours 2 (2, 2) 0 (0, 1)‡4 h 2 (1.5, 2) 0 (0, 1)‡6 h 2 (1, 2) 1 (0, 1)‡24 h 1 (1, 2) 1 (0, 1)
+Ordinal data are presented as medians and interquartile ranges (given in parentheses), and
+continuous variables are presented as mean /H11006SEM.
+TAP/H11005transverses abdominis plane; PACU /H11005postoperative anesthesia care unit.
+†P/H113490.01; and ‡ P/H113490.001 when controlled with control.
+196 Transversus Abdominis Plane Block ANESTHESIA &ANALGESIA
+the full potential of abdominal wall blockade in pa-
+tients undergoing major abdominal procedures re-mains to be realized. An alternative, simple, reliableand effective regional analgesic technique is required.
+The skin, muscles, and parietal peritoneum of the
+anterior abdominal wall are innervated by the lower sixthoracic nerves and the first lumbar nerve (2,5) (Fig. 1).The anterior primary rami of these nerves leave theirrespective intervertebral foramina and course over thevertebral transverse process. They then pierce the mus-culature of the lateral abdominal wall to course througha neuro-fascial plane between the internal oblique andtransversus abdominis muscles. The sensory nerves
+branch first in the mid-axillary line sending out alateral cutaneous branch, and continue within theplane to perforate anteriorly supplying the skin as faras the midline (2,5). The transversus abdominis planethus provides a space into which local anesthetic canbe deposited to achieve myocutaneous sensory block-ade. Deposition of the local anesthetic dorsal to themid-axillary line also blocks the lateral cutaneousafferents, thus facilitating blockade of the entire ante-rior abdominal wall (5). The lumbar triangle of Petitoffers an easily identifiable, fixed and palpable land-mark, and is located dorsal to the mid-axillary line (5).The transversus abdominis neuro-fascial plane caneasily be accessed via this triangle, and local anestheticdeposited into this plane, using the loss of resistancetechnique as we have described.
+In this randomized, double-blind clinical trial, the
+TAP block produced effective and prolonged postop-erative analgesia, when compared with standardtherapy, in patients undergoing surgery via a midlineabdominal wall incision. The TAP block reducedpostoperative pain scores, both at rest and on move-ment, and reduced postoperative opioid require-ments. Overall, during the first 24 postoperativehours, the TAP block reduced mean IV morphine
+requirements by more than 70%. This reduction inopioid requirement resulted in fewer opioid-mediatedside effects. The incidence of PONV was reduced bymore than half (69% vs 31%) in the TAP block group.Sedation scores were also modestly reduced in thepatients who underwent TAP blockade.
+Two potential limitations should be considered.
+First, the study limited assessment of postoperativeanalgesia to the first 24 postoperative hours. However,the TAP block has been demonstrated to produceclinically useful levels of analgesia for at least 48 hpostoperatively (7). Second, there are difficulties inadequately blinding studies such as these, given thatthe TAP block produces loss of sensation of theabdominal wall. However, neither the patient nor theanesthesiologist conducting postoperative assessmentswere aware of the group allocation. The patient’sabdomen was not examined during these assessments,and the TAP block sites were covered by dressings inall patients.
+We conclude that the TAP block seems to hold
+considerable promise for patients undergoing surgicalprocedures involving abdominal wall incisions.
+ACKNOWLEDGMENTS
+The authors thank Dr. Raﬁ for his contribution to the
+development of this block technique. We also acknowledgeMs. Theresa Sakno, who composed Figure 1, the line drawingof the anterior abdominal wall.
+REFERENCES
+1. Wall PD, Melzack R. Pain measurements in persons in pain. In:
+Wall PD, Melzack R, eds. Textbook of pain. 4th ed. Edinburgh,UK: Churchill Livingstone, 1999:409–426.
+2. Netter FH. Back and spinal cord. In: Netter FH, ed. Atlas of
+human anatomy summit. New Jersey, USA: The Ciba-GeigyCorporation, 1989:145–55.
+3. Kuppuvelumani P, Jaradi H, Delilkan A. Abdominal nerve
+blockade for postoperative analgesia after caesarean section.Asia Oceania J Obstet Gynaecol 1993;19:165–9.
+4. Dierking GW, Dahl JB, Kanstrup J, et al. Effect of pre- vs
+postoperative inguinal field block on postoperative pain afterherniorrhaphy. Br J Anaesth 1992;68:344–8.
+5. Netter FH. Abdomen posterolateral abdominal wall. In: Netter
+FH, ed. Atlas of human anatomy summit. New Jersey, USA: TheCiba-Geigy Corporation, 1989:230–40.
+6. McDonnell JG, O’ Donnell BD, Tuite D, et al. The regional
+abdominal field infiltration (R.A.F.I.) technique: computerisedtomographic and anatomical identification of a novel approachto the transversus abdominis neuro-vascular fascial plane. An-esthesiology 2004;101:A899.
+7. O’Donnell BD, McDonnell JG, McShane AJ. The transversus
+abdominis plane (TAP) block in open retropubic prostatectomy.Reg Anesth Pain Med 2006;31:91.
+8. Kehlet H. Surgical stress: the role of pain and analgesia. Br J
+Anaesth 1989;63:189–95.
+9. Capdevila X, Barthelet Y, Biboulet P, et al. Effects of perioper-
+ative analgesic technique on the surgical outcome and durationof rehabilitation after major knee surgery. Anesthesiology1999;91:8–15.
+10. Kehlet H, Holte K. Effect of postoperative analgesia on surgical
+outcome. Br J Anaesth 2001;87:62–72.
+11. Bonnet F, Marret E. Influence of anaesthetic and analgesic
+techniques on outcome after surgery. Br J Anaesth 2005;95:52–8.Table 3. Postoperative Sedation and Nausea Scores
+GroupControl
+(n/H1100516)TAP block
+(n/H1100516)
+Sedation scores
+PACU 1 (1, 1.5) 1 (1, 1.5)2 h 1 (1, 1.5) 0.5 (0, 1)4 h 1 (1, 2) 0 (0, 0.5)†6 h 1 (1, 1.5) 0 (0, 0)†24 h 0 (0, 0) 0 (0, 0)
+Incidence of PONV (%) 31 69*Nausea scores
+PACU 0 (0, 1) 0 (0, 0.5)2 h 1 (0, 1) 0 (0, 0)*4 h 0 (0, 0) 0 (0, 0)6 h 0 (0, 0) 0 (0, 0)24 h 0 (0, 0) 0 (0, 0)
+Ordinal data are presented as medians and interquartile ranges (given in parentheses).
+TAP/H11005transverses abdominis plane; PACU /H11005postoperative anesthesia care unit; PONV /H11005
+postoperative nausea and vomiting.
+*P/H110210.05; † P/H113490.01; and ‡ P/H113490.001 when compared with control.
+Vol. 104, No. 1, January 2007 © 2007 International Anesthesia Research Society 197

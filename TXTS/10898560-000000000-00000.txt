@@ -1,0 +1,992 @@
+Impact of Intravenous Lidocaine Infusion
+on Postoperative Analgesia and Recoveryfrom Surgery
+A Systematic Review of Randomized Controlled Trials
+Grace C. McCarthy, Sohair A. Megalla and Ashraf S. Habib
+Department of Anesthesiology, Duke University Medical Center, Durham, North Carolina, USA
+Contents
+Abstract. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1149
+1. Literature Search and Data Extraction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1150
+2. Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1151
+2.1 Abdominal Surgery. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1151
+2.1.1 Open Abdominal Surgery. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11512.1.2 Laparoscopic Surgery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11552.1.3 Results of a Meta-Analysis of Studies in Abdominal Surgery. . . . . . . . . . . . . . . . . . . . . . . . . 1157
+2.2 Orthopaedic Surgery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11582.3 Cardiac Surgery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11582.4 Tonsillectomy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1158
+2.5 Ambulatory Surgery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1158
+2.6 Adverse Effects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11582.7 Plasma Lidocaine Concentrations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11592.8 Plasma Levels of Cytokines and Integrins . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1159
+3. Discussion. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11594. Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1162
+Abstract Postoperative pain continues to be inadequately managed. While opioids
+remain the mainstay for postoperative analgesia, their use can be associated
+with adverse effects, including ileus, which can prolong hospital stay. A
+number of studies have investigated the use of perioperative intravenous
+lidocaine infusion for improving postoperative analgesia and enhancingrecovery of bowel function.
+This systematic review was performed to determine the overall efficacy of
+intravenous lidocaine infusion on postoperative analgesia and recovery fromsurgery in patients undergoing various surgical procedures. We searched thedatabases of MEDLINE, CINAHL and the Cochrane Library from 1966 to
+December 2009. We searched for randomized controlled comparisons of
+lidocaine infusion with placebo in the surgical setting and reporting on post-operative analgesia and other aspects of patient recovery from surgery. The
+quality of all included studies was assessed using the Modified Oxford Scale.REVIEW ARTICLEDrugs 2010; 70 (9): 1149-1163
+0012-6667/10/0009-1149/$55.55/0
+ª2010 Adis Data Information BV. All rights reserved.
+Information on postoperative pain intensity and analgesic requirements was
+extracted from the trials and compared qualitatively. Other relevant data
+such as return of bowel function, length of hospital stay, intraoperative an-
+aesthetic requirement and adverse effects were also compared.
+Sixteen trials were included. A total of 395 patients received intravenous
+lidocaine with 369 controls. In open and laparoscopic abdominal surgery, aswell as in ambulatory surgery patients, intravenous perioperative infusion oflidocaine resulted in significant reductions in postoperative pain intensity andopioid consumption. Pain scores were reduced at rest and with cough or
+movement for up to 48 hours postoperatively. Opioid consumption was re-
+duced by up to 85% in lidocaine-treated patients when compared with con-
+trols. Infusion of lidocaine also resulted in earlier return of bowel function,
+allowing for earlier rehabilitation and shorter duration of hospital stay. First
+flatus occurred up to 23 hours earlier, while first bowel movement occurredup to 28 hours earlier in the lidocaine-treated patients. Duration of hospital
+stay was reduced by an average of 1.1 days in the lidocaine-treated patients.
+Administration of intravenous lidocaine infusion did not result in toxicity orclinically significant adverse events. Lidocaine had no impact on postopera-
+tive analgesia in patients undergoing tonsillectomy, total hip arthroplasty or
+coronary artery bypass surgery.
+In conclusion, intravenous lidocaine infusion in the perioperative period is
+safe and has clear advantages in patients undergoing abdominal surgery.
+Patients receiving lidocaine infusion had lower pain scores, reduced post-
+operative analgesic requirements and decreased intraoperative anaestheticrequirements, as well as faster return of bowel function and decreased length
+of hospital stay. Further studies are needed to assess whether lidocaine has a
+beneficial effect in patients undergoing other types of surgery and to determinethe optimum dose, timing and duration of infusion of lidocaine in this setting.
+Opioids remain the mainstay for postoperative
+analgesia. However, the use of opioids can be
+associated with an increased incidence of post-operative complications, such as respiratorydepression, sedation, postoperative nausea andvomiting (PONV), ileus and urinary retention.
+[1]
+Recent data also suggest that extensive use ofopioids may be associated with hyperalgesia andallodynia.
+[2]Therefore, there is a continuous
+search for adjuvant therapies to reduce the dosesof opioids and their related adverse effects,thereby improving patient recovery.
+Lidocaine is an amide local anaesthetic that
+has analgesic, antihyperalgesic
+[3]and anti-inflam-
+matory[4]properties. It has been previously shown
+to be an effective analgesic in a number of set-tings, including cancer pain,
+[5]chronic pain[6]and
+pain due to adiposis dolorosa.[7,8]These propertiesof lidocaine are mediated by a variety of mech-
+anisms, including sodium channel blockade,[4]
+inhibition of G protein-coupled receptors[4,9]and
+NMDA receptors.[10,11]A number of studies have
+been published to assess the analgesic effect of
+perioperative intravenous infusion of lidocaine.We therefore performed this systemic review toassess the efficacy of perioperative intravenousinfusion of lidocaine on postoperative outcomes,including pain scores, opioid consumption, opioid-related adverse effects and duration of hospitalstay.
+1. Literature Search and Data Extraction
+We searched the databases of MEDLINE,
+CINAHL and the Cochrane Library from 1966
+to December 2009 for studies assessing the1150 McCarthy et al.
+ª2010 Adis Data Information BV. All rights reserved. Drugs 2010; 70 (9)
+impact of perioperative intravenous infusion of
+lidocaine on pain outcomes and patient recovery.The following terms were used for the search:‘lidocaine’, ‘intravenous’, ‘pain’, ‘postoperative’and ‘surgery’. Bibliographies of retrieved articleswere also screened for additional studies. The
+quality of all included studies were assessed using
+the Modified Oxford Scale.
+[12]
+We designed a data collection form and ex-
+tracted data from the included studies on (i) typeof surgery; (ii) number of patients and groupsincluded; (iii) lidocaine regimens (timing andduration); (iv) intraoperative anaesthetic require-ments; (v) pain scores; (vi) analgesic consump-tion; (vii) return of bowel function; (viii) adverseeffects; and (ix) duration of hospital stay.
+2. Results
+Of 199 articles retrieved by electronic search-
+ing, 183 were excluded for the following reasons:
+5 were letters or literature reviews, 37 were studies
+on intravenous regional anaesthesia, 17 were stud-ies involving neuraxial lidocaine, 37 were studieson topical, local or peripheral nerve blocks, 5were studies using lidocaine as a rescue analgesic,4 were animal studies and 78 were not relevant toour study criteria (figure 1). The 16 selectedrandomized controlled trials (RCTs) included atotal of 764 patients: 395 received lidocaine with369 controls.
+Of the 16 included studies, 12 were in
+abdominal surgery, of which 8 were open
+[13-20]
+and 4 were laparoscopic,[21-24]1 was in ortho-
+paedic surgery,[25]1 was in cardiac surgery,[26]
+1 was in tonsillectomies[27]and 1 included a
+variety of ambulatory surgeries.[28]The minimum
+Modified Oxford Scale score of an included trialwas 2 and the maximum was 7.
+2.1 Abdominal Surgery
+2.1.1 Open Abdominal Surgery
+In patients undergoing open abdominal
+surgeries, lidocaine infusion was given as aninitial intravenous bolus dose of 100 mg
+[13,14]or
+1.5–2m g/kg prior to induction or incision,[15-18,20]
+followed by an infusion of lidocaine at a rate of1.5–3m g/kg/hour
+[16-18,20]or 2–3m g/minute.[13-15]Infusions were stopped at the end of surgery[17,20]
+or continued for up to 24 hours postopera-tively.
+[13-16,18,19]Harvey et al.[19]used a lidocaine
+infusion at 1 mg /minute without a bolus dose,
+which was started immediately postoperativelyfor 24 hours (table I).
+Pain scores were reported in seven of the eight
+studies, of which five showed a significant re-duction in pain scores.
+[13,15-17,20]There was also a
+trend towards lower pain scores in the two studiesthat did not report a statistically significant re-duction in pain scores.
+[18,19]In the first of these,
+a study by Herroeder et al.[18]on colorectal
+patients, there were no significant differences inpain scores, at rest or during cough, between thetwo groups, although there was a tendency to-wards lower visual analogue scale (VAS) scores in
+the lidocaine group than in the placebo group
+from 0 to 156 hours postoperatively. Similarly,the trial by Harvey et al.
+[19]reported no signif-
+icant difference in VAS scores; however, a trendtoward lower VAS scores was noted at 24 hoursafter surgery in the lidocaine group (table I).
+Five of eight trials that involved open intra-
+abdominal surgery reported a significant reductionin total analgesic consumption in the post-operative period up to 48 –72 hours.
+[13-17]These
+reductions ranged from 33 %to 35 %when the
+lidocaine infusion was maintained for 0 –1 hour
+postoperatively,[16,17]and up to 83 %compared183 excluded:
+ Letters or reviews (n = 5) IV regional anaesthesia (n = 37)
+ Neuraxial analgesia (n = 17)
+ Topical/local/peripheral  anaesthesia (n = 37)
+ Rescue analgesia (n = 5)
+ Animal studies (n = 4) Irrelevant (n = 78)199 articles
+retrieved in a
+systematic search
+(MEDLINE,
+Cochrane Library,
+CINAHL)
+RCTs included in
+systematic review
+(n = 16)
+[764 patients]
+Control
+(369 patients)Systemic lidocaine
+(395 patients)
+Fig. 1. Flow chart of systematic literature search. IV=intravenous;
+RCTs =randomized controlled trials.Intravenous Lidocaine and Recovery from Surgery 1151
+ª2010 Adis Data Information BV. All rights reserved. Drugs 2010; 70 (9)
+Table I. Included studies with quality score, patient (pt) groups, lidocaine (L) regimens, pain scores and analgesic requirements
+Study
+(year)QualityscoreR/CA/DB/FNo.of ptsDose and duration ofL infusionDurationof study(h)Type of surgery Postop analgesic requirement Pain scores
+McKayet al.
+[28]
+(2009)2/0/1/05 6
+L (29)C (27)1.5 mg /kg+
+2m g/kg/h after
+induction until 1 hafter arrival in PACU24 Various outpt surgeries 50% reduction in morphine requirement
+in PACU in the L group (p <0.02). No
+difference in opioid consumption afterdischarge from PACUVAS scores were significantly lower atrest in PACU in the L group (p =0.043).
+No difference in VAS scores at 24 h
+Yardeniet al.
+[20]
+(2009)1/0/1/06 5
+L (32)C (33)2m g/kg+
+1.5 mg /kg/h2 0m i n
+before surgery untilend of surgery72 Transabdominal
+hysterectomyNo difference in pt-controlled epiduralanalgesia total volume or bolusesreceived between groups at anytimepointVAS scores were significantly lower atrest and with coughing, respectively, at4h( p =0.029 and p =0.0001) and 8 h
+(p=0.011 and p =0.048) after surgery in
+the L group. No difference in VASscores from 12 to 72 h
+Harveyet al.
+[19]
+(2009)2/1/2/12 2
+L (11)C (11)1m g/min postop for
+24 h24 Elective small bowel
+and colorectal surgeryNo difference in morphine consumptionat 6, 18 or 24 hNo difference at 6 h (p =0.24) or 18 h
+(p=0.26) with trend toward significance
+in the L group at 24 h (p =0.08)
+Lauwicket al.
+[23]
+(2009)2/1/2/04 0
+L (20)
+C (20)1.5 mg /kg+
+2m g/kg/ha t
+induction until end of
+surgery and1m g/kg/min postop
+for 24 h72 Laparoscopic
+prostatectomyNo difference in morphine consumptionon postop d 1 (p >0.05). On postop d 2,
+70%of pts in the L group vs 30 %of pts
+in the C group did not use PCAmorphine (p =0.011). Total morphine
+consumption at 48 h trends towardssignificance (p =0.05) with a 49 %
+reduction in the L groupNo difference in VAS scores at anytimepoints
+Lauwicket al.
+[24]
+(2008)2/1/2/24 9
+L (25)C (24)1.5 mg /kg+
+2m g/kg/h before
+induction until end ofsurgery24 Laparoscopic
+cholecystectomy36%reduction in fentanyl consumption
+in PACU with L (p =0.018). No
+difference at 24 hNo difference in PACU and at 24 h
+Martin
+et al.
+[25]
+(2008)2/1/2/15 8
+L (28)
+C (30)1.5 mg /kg+
+1.5 mg /kg/h after
+induction until 1 hpostop48 Total hip arthroplasty No difference in morphine consumption
+in PACU, at 24 h and at 48 hNo difference at rest and on movement
+at 24 h, 48 h and 3 mo
+Herroeder
+et al.
+[18]
+(2007)2/1/2/26 0
+L (31)
+C (29)1.5 mg /kg+
+2m g/min after
+intubation until 4 h
+postop156 Colorectal surgery No difference in overall piritramide
+consumption from 0 to 156 hNo difference at rest and with coughingfrom 0 to 156 h, but a trend toward lower
+VAS scores in the L group
+Continued next page1152 McCarthy et al.
+ª2010 Adis Data Information BV. All rights reserved. Drugs 2010; 70 (9)
+Table I. Contd
+Study
+(year)QualityscoreR/CA/DB/FNo.of ptsDose and duration ofL infusionDurationof study(h)Type of surgery Postop analgesic requirement Pain scores
+Kabaet al.
+[22]
+(2007)2/1/2/14 0
+L (20)C (20)1.5 mg /kg+
+2m g/kg/h just before
+induction until end ofsurgery +
+1.33 mg /kg/h postop
+for 24 h48 Laparoscopic
+colectomyTotal dose of intraop sufentanil was lessin the L group (p =0.008). 64 %
+reduction in piritramide consumptionfrom 0 to 24 h (p =0.005)No difference at rest. Reduced VASpain scores on movement (p =0.02) and
+coughing (p =0.01) for 48 h
+Kuoet al.
+[17]
+(2006)2/0/2/16 0
+E (20)
+L (20)
+C (20)E: 2 mg /kg+
+3m g/kg/h
+IV L: 2 mg /kg+
+3m g/kg/h3 0m i n
+before surgery untilend of surgery72 Colon cancer surgery 33% reduction in total PCEA
+consumption at 0– 72 h in the IV L group
+when compared with the C group(p<0.01)VAS scores at rest, 2 h and 4 h, andduring coughing at 12 h were
+significantly lower in the IV L and E
+groups compared with the C group(p<0.001)
+Wuet al.
+[21]
+(2005)2/1/2/0 100
+DM+L
+(25)
+L (25)
+DM (25)C (25)IV L: 3 mg /kg/h+IM
+DM 40 mg (DM +L)
+IV L+IM CPM 20 mg
+(L) 30 min beforesurgery until end ofsurgery48 Laparoscopic
+cholecystectomyPethidine consumption was significantlyless over 48 h for the DM +L, DM and L
+groups compared with the C group
+(p<0.001). 42 %reduction in total
+pethidine consumption 0– 48 h in the IV
+L group compared with the C group
+(p<0.001)VAS scores were significantly lower atrest at 1 and 2 h and during cough at 1,2, 4 and 12 h for the L group compared
+with the C group (p <0.05). The
+combined therapy group, DM+L had
+lower VAS scores at rest compared witheither single-treatment group (DM or L)for 4 h (p <0.05), and for 24 h with
+coughing (p <0.05)
+Koppert
+et al.
+[16]
+(2004)2/1/2/14 0
+L (20)
+C (20)1.5 mg /kg+
+1.5 mg /kg/h3 0m i n
+before skin incisionuntil 1 h postop72 Major abdominal
+surgery (prostatectomy,cystectomy,nephrectomy,colectomy and lymphnode dissections)35%reduction in overall morphine
+consumption 0– 72 h (p <0.05)No difference in VAS scores at rest.
+VAS scores were significantly lower on
+movement at 48 and 72 h (p <0.01)
+Groudineet al.
+[15]
+(1998)1/0/2/14 0
+L (20)
+C (20)1.5 mg /kg+
+3m g/min if >70 kg
+OR 2 mg /min if
+<70 kg after
+intubation until 1 h
+postop72 Radical retropubic
+prostatectomy50%reduction in morphine requirement
+in PACU in the L group (p <0.05). No
+difference in opioid consumption afterdischarge from PACU66%reduction in total pain score index
+in the L group (4.7 –4) compared with
+the C group (13.3 –7.7) [p <0.0001]
+Insleret al.
+[26]
+(1995)1/1/1/18 9
+L (44)C (45)1.5 mg /kg+
+30mg/kg/min after
+induction until 48 h
+postop96 Coronary artery bypass
+graftingNo difference in overall fentanyl
+consumption from 0 to 96 hNo difference in VAS scores betweengroups at 4– 96 h. No data on VAS
+reported before 4 h
+Continued next pageIntravenous Lidocaine and Recovery from Surgery 1153
+ª2010 Adis Data Information BV. All rights reserved. Drugs 2010; 70 (9)
+with the placebo group when the lidocaine infu-
+sion was maintained for 24 hours postopera-tively.
+[13,14]In radical prostatectomy patients,
+lidocaine infusion was maintained for 1 hourpostoperatively and resulted in a 50 %reduction
+in morphine requirements in the postanaesthesia
+care unit (PACU) but not on the ward.
+[15]One
+study involving colorectal surgery in which the
+lidocaine infusion was maintained for 4 hoursafter surgery reported no difference in overallpiritramide consumption at any time interval.
+[18]
+In a more recent study in abdominal hyster-ectomy patients, the lidocaine infusion wasmaintained intraoperatively only and no differ-ence in patient-controlled epidural analgesiause postoperatively was found.
+[20]Lidocaine in-
+fusion begun postoperatively and administered
+for 24 hours after small bowel and colorectal
+surgery also resulted in no difference in post-operative morphine consumption (table I).
+[19]
+Six of the eight studies reported data on return
+of bowel function after open abdominal sur-gery.
+[14-19]Five studies showed that lidocaine
+significantly accelerated return of bowel func-tion.
+[14,15,17-19]First passage of flatus occurred
+8–24 hours earlier[15,17,18]and the first bowel
+movement occurred 12 –28 hours earlier[15,18,19]in
+lidocaine-treated patients compared with placebo
+recipients. In the study by Rimback et al.,[14]
+evidence of significantly earlier return of propul-
+sive motility in the colon was shown in thelidocaine-treated group. Radiopaque markers inthe lidocaine group were propelled significantlyearlier from the cecum /ascending colon to the
+transverse colon and appeared significantly ear-lier in the descending colon and rectosigmoidcolon than in the saline-treated patients. Al-though the mean time to postoperative defecationoccurred 17 hours earlier in the lidocaine-treated
+group, this was not found to be statistically sig-
+nificant, as was time to first passage of flatus. Inanother study, time until tolerating solid foodsalso occurred significantly earlier in lidocaine-treated patients.
+[18]In this same study, Herroeder
+and colleagues[18]reported gastrointestinal ato-
+nia, defined as postoperative ileus for >5 days, in
+eight patients in the control group compared withtwo patients in the lidocaine group. In the studyTable I. Contd
+Study
+(year)QualityscoreR/CA/DB/FNo.of ptsDose and duration ofL infusionDurationof study(h)Type of surgery Postop analgesic requirement Pain scores
+StriebelandKlettke
+[27]
+(1992)1/0/2/04 0
+L (20)C (20)1.5 mg /kg 30 min
+before surgery +
+2m g/kg/h for 6 h and
+0.5 mg /kg/h for 18 h24 Tonsillectomy No difference in postop pethidine
+consumptionNo difference in VAS scores betweengroups
+Rimbacket al.
+[14]
+(1990)1/0/1/03 0
+L (15)C (15)100 mg +3m g/min
+just before inductionuntil 24 h postop72 Cholecystectomy 36% reduction in pethidine consumption
+on postop d 1, and 83 %reduction on
+postop d 2 in the L group compared withthe C group (p <0.05)NR
+Cassuto
+et al.
+[13]
+(1985)1/0/1/02 0
+L (10)
+C (10)100 mg +2m g/min
+30 min beforeincision until 24 hpostop48 Cholecystectomy Significant reduction in pethidine
+requirement at 24 and 48 h in the Lgroup (p <0.02 and p <0.01,
+respectively) compared with the Cgroup (75 %reduction at 24 h, 85 %
+reduction at 48 h)Significantly lower cumulative pain
+scores in the L group for 24 h (p <0.001)
+C=control group; CA=concealment of allocation; DB=double-blinding; DM=dextromethorphan; E=epidural lidocaine; F=flow of pts; IM CPM =intramuscular chlorphenamine
+maleate; intraop =intraoperative; IV=intravenous; NR=not reported; PACU =postanaesthesia care unit; PCA =patient-controlled analgesia; PCEA =patient-controlled epidural
+analgesia; postop =postoperative; R=randomization; VAS=visual analogue scale.1154 McCarthy et al.
+ª2010 Adis Data Information BV. All rights reserved. Drugs 2010; 70 (9)
+by Koppert et al.,[16]bowel movement occurred
+6 hours earlier with lidocaine, but the difference
+was not statistically significant compared withthe control group (table II).
+Five studies reported on length of hospital
+stay.
+[15-19]In three studies, patients in the lido-
+caine group were discharged home significantlyearlier than their control counterparts. Time tohospital discharge was an average of 1.1 daysshorter in the lidocaine-treated groups amongstthe three studies.
+[15,18,19]Although duration of
+hospital stay was 1.4 days shorter in the lido-caine-treated group in the study by Koppertet al.,
+[16]this was not found to be statistically
+significant when compared with the controlgroup (table II).
+One study reported data on volatile agent use
+and supplemental intraoperative opioid use. End-tidal desflurane concentrations were reduced by18%in the intravenous lidocaine group when
+compared with controls. Fentanyl supplementa-tion was needed in 85 %of patients in the control
+group as compared with only 5 %in the in-
+travenous lidocaine group. Total intraoperativefentanyl use was reduced by 39 %in the in-
+travenous lidocaine group when compared withplacebo.
+[17]
+2.1.2 Laparoscopic Surgery
+Lidocaine regimens in patients undergoing
+laparoscopic surgeries ranged from an infusion of3m g/kg/hour starting before surgery without a
+bolus,
+[21]to an intravenous bolus of 1.5 mg /kg
+followed by an infusion of 2 mg /kg/hour[22-24]
+until the end of surgery[21,23,24]or for 24 hours
+postoperatively (table I).[22]
+Two of four trials involving laparoscopic sur-
+gery reported a significant reduction in painscores.
+[21,22]In the study by Kaba et al.[22]in
+patients undergoing laparoscopic colectomy, alidocaine infusion maintained for 24 hours post-operatively was more effective in reducing painduring mobilization and when coughing thanat rest for 0 –24 hours. Abdominal discomfort
+was also significantly reduced by lidocaine com-pared with the placebo group.
+[22]In laparoscopic
+prostatectomy patients who received a lidocaineinfusion intraoperatively and for 24 hours post-operatively, there was no difference in VAS painscores from 0 to 72 hours.
+[23]Of the two trials in
+laparoscopic cholecystectomy patients, one re-ported better pain control with lidocaine duringcough up to 24 hours after surgery, and at rest forup to 12 hours.
+[21]However, the other study
+showed no significant difference in pain intensitybetween the groups from 0 to 24 hours post-operatively,
+[24]although lidocaine infusion was
+discontinued at the end of surgery in both studies(table I).
+Three of four studies in patients undergoing
+laparoscopic surgery reported a significant reduc-tion in postoperative analgesic requirements.
+[21,22,24]
+In laparoscopic colectomy patients, lidocaine in-fusion was maintained for 24 hours after surgeryand resulted in >50%reduction in piritramide
+consumption from 0 to 24 hours.
+[22]In the two
+studies in patients undergoing laparoscopic chole-cystectomy, the lidocaine infusion was termi-nated at the end of surgery. In the first study,fentanyl requirements in the lidocaine group werereduced by 36 %compared with the placebo
+group from 0 to 3 hours postoperatively but therewas no difference at 24 hours.
+[24]The other study
+by Wu et al.[21]reported a 42 %reduction in
+pethidine (meperidine) requirements from 0 to48 hours postoperatively. In the most recent stu-
+dy by Lauwick et al.
+[23]in patients undergoing
+laparoscopic prostatectomy, lidocaine infusion
+started after surgery and maintained for 24 hoursresulted in no difference in morphine consump-tion on postoperative day 1, with a trend towardless morphine consumption in the lidocainegroup on postoperative day 2 (table I).
+Three of four studies reported data on return
+of bowel function after laparoscopic abdominalsurgery.
+[21-23]In patients undergoing laparosco-
+pic colectomy, return of first flatus was 12 hours
+earlier and return of defecation was 24 hours
+earlier in patients treated with lidocaine. Lidocaine-treated patients were able to tolerate a normaldiet the day after surgery, whereas three patientsin the control group required prolongation ofpostoperative fasting.
+[22]In the study by Wu et al.[21]
+in patients undergoing laparoscopic cholecys-tectomy, there was no difference in time to firstpassage of flatus between the lidocaine-onlyIntravenous Lidocaine and Recovery from Surgery 1155
+ª2010 Adis Data Information BV. All rights reserved. Drugs 2010; 70 (9)
+Table II. Return of bowel function, duration of postanaesthesia care unit (PACU) and hospital stays, and adverse effects
+Study (year) Effect on bowel function PACU stay Duration of hospital stay Adverse effects
+McKay et al.[28]
+(2009)NR No difference in
+length of PACU
+stay betweengroupsNR None
+Yardeni et al.
+[20]
+(2009)NR NR NR None
+Harvey et al.[19]
+(2009)No difference in time to return of flatus aftersurgery. Return of bowel movement in the lidocainegroup occurred at a mean of 28 h earlier than in theplacebo group (p =0.0286)NR Time to hospital discharge was a mean of
+1.17 d shorter in the lidocaine group(3.76 –0.24) than in the placebo group
+(4.93 –0.42) [p =0.0277]None
+Lauwick et al.
+[23]
+(2009)No difference in time to return of flatus, timeto first bowel movement or time to first full diet
+between groupsNR No difference in length of stay between
+groupsNo difference in PONV between groups
+Lauwick et al.
+[24]
+(2008)NR No difference in
+length of PACUstay betweengroupsNR No difference in PONV between groups
+Martin et al.
+[25]
+(2008)NR NR No difference in length of stay between
+groupsNone
+Herroederet al.
+[18](2007)Return of bowel sounds and first flatuswas 8 h earlier in the lidocaine group (p <0.05).
+Time to first bowel movement was 16 h earlier in thelidocaine group (p <0.05). Time until tolerating
+solid food was 24 h earlier for the lidocaine group(p<0.05)No difference inlength of PACUstay betweengroupsMedian time to hospital discharge was 1 dearlier in the lidocaine group than in thecontrol group: 7 d vs 8 d (p =0.004)None
+Kaba et al.
+[22]
+(2007)Return of first flatus was ~12 h earlier and
+return of defecation was ~24 h earlier in the lidocaine
+group (p =0.001)NR Time to hospital discharge was ~1d
+earlier in the lidocaine group (p =0.001)No difference in PONV between groups
+Kuo et al.[17]
+(2006)Times of first flatus were 50.2 (4.9), 60.2 (5.8) and71.7 (4.7) h in the epidural lidocaine, IV lidocaine,and control groups, respectively (p <0.01)NR No difference in length of stay between
+groups3 pts had occasional bradycardia in theIV lidocaine group, with other vital signsstable. No adverse events related to IVlidocaine infusion
+Wu et al.
+[21]
+(2005)No difference in time to first passage of flatusbetween the lidocaine and control groups.
+Passage of first flatus was 9 h earlier in the DM+ L
+group when compared with control (p <0.001) or
+either single-treatment group (p <0.05)NR NR No difference in PONV between groups.
+One pt in the DM +L and lidocaine groups
+had an occasional arrhythmia with stablevital signs
+Continued next page1156 McCarthy et al.
+ª2010 Adis Data Information BV. All rights reserved. Drugs 2010; 70 (9)
+group and the control group; however, passage of
+first flatus was 9 hours earlier in the lidocaineplus dextromethorphan group than in the controlor either single-treatment groups. Most recently,Lauwick et al.
+[23]found no difference in return of
+bowel function in patients undergoing laparosco-
+pic prostatectomy when treated with lidocaine
+(table II).
+Two studies reported data on the length of
+hospital stay.[22,23]One study showed no differ-
+ence in hospital stay between groups,[23]while the
+study by Kaba et al.[22]reported that hospital stay
+was 1 day shorter in the lidocaine-treated group.
+All four studies reported data on volatile agent
+use intraoperatively,[21-24]while only one re-
+ported data on supplemental intraoperativeopioid use.
+[22]Intraoperative infusion of lido-
+caine during laparoscopic cholecystectomy andlaparoscopic prostatectomy resulted in volatileagent sparing in three studies.
+[22-24]Kaba et al.[22]
+found a 35 %reduction in end-tidal sevoflurane
+concentration. Intraoperative sufentanil con-sumption was also reduced when compared withplacebo: 16.3 –3.6mg (saline) versus 13.0 –3.7mg
+(lidocaine). In the first study by Lauwick et al.,
+[24]
+the end-tidal concentration of desflurane was re-duced by 7% when compared with placebo. In the
+second study by the same author, end-tidal des-
+flurane concentrations were reduced by 11 %
+when compared with placebo.
+[23]Another study
+during laparoscopic cholecystectomy reported a
+25%reduction in end-tidal desflurane concen-
+tration in the lidocaine-only and lidocaine plusdextromethorphan groups when compared withcontrols.
+[21]
+2.1.3 Results of a Meta-Analysis of Studies in
+Abdominal Surgery
+A meta-analysis of six RCTs that included
+250 patients undergoing open or laparoscopic
+abdominal surgery reported that pain scores at24 hours were significantly lower in patientsreceiving lidocaine than in controls (weightedmean difference [WMD] -5.93 [95 %CI-9.63,
+-2.23]).
+[29]
+A meta-analysis of seven RCTs that included
+300 patients undergoing open or laparoscopicabdominal surgery showed that the duration ofTable II. Contd
+Study (year) Effect on bowel function PACU stay Duration of hospital stay Adverse effects
+Koppert et al.[16]
+(2004)No difference in time to first bowel movement
+between groupsNR No difference in length of stay between
+groupsNone
+Groudine et al.[15]
+(1998)First flatus occurred 23 h earlier (p <0.01), and first
+bowel movement 12 h earlier (p <0.02) in the
+lidocaine group compared with the control groupNR Time to hospital discharge was 1.1 d
+shorter in the lidocaine group (p <0.05)None
+Insler et al.[26]
+(1995)NR NR No difference in length of stay between
+groupsNone
+Rimback et al.[14]
+(1990)No difference in the time to first passage offlatus or faeces between groups. Propulsive motilityin the colon occurred 15 –20 h earlier in the lidocaine
+group (p <0.05), as measured by radiopaque
+markers and serial abdominal radiographsNR NR None, except for sedation in 2 pts in thelidocaine group
+Cassuto et al.
+[13]
+(1985)NR NR NR None
+DM+L=dextromethorphan +lidocaine; IV=intravenous; NR=not reported; PONV =postoperative nausea and vomiting; pt(s) =patient(s).Intravenous Lidocaine and Recovery from Surgery 1157
+ª2010 Adis Data Information BV. All rights reserved. Drugs 2010; 70 (9)
+postoperative ileus was significantly shorter with
+a continuous intravenous lidocaine infusionthan with placebo (WMD -8.36 [95 %CI-13.24,
+-3.47] hours). A subgroup analysis was con-ducted to explore the effects of intravenouslidocaine on postoperative gut dysfunction in
+different surgical populations. Lidocaine de-
+creased the duration of ileus significantly in thecholecystectomy subgroup (WMD -1.23 [95 %CI
+-2.12, -0.34] hours), which included both open
+and laparoscopic surgeries. Similarly, lidocainewas associated with a decrease in duration of ileusafter colonic resection (WMD -12.00 [95 %CI
+-14.86, -9.13] hours), which also included both
+open and laparoscopic surgeries. Lidocaine alsodecreased postoperative ileus in patients in whomlaparoscopy was performed (WMD -1.06 [95 %
+CI-2.00, -0.13] hours).
+[29]
+A meta-analysis of five RCTs including 220
+patients undergoing open or laparoscopicabdominal surgery showed a shorter length ofhospital stay in patients receiving lidocaine thanin controls (WMD -0.84 [95 %CI-1.38, -0.31]
+days).
+[29]
+2.2 Orthopaedic Surgery
+In one study in patients undergoing total hip
+arthroplasty, lidocaine was given as an initial in-travenous bolus dose of 1.5 mg /kg after induction
+of anaesthesia followed by an infusion at1.5 mg /kg/hour up to 1 hour postoperatively
+(table I). There was no significant reduction inpain scores with lidocaine at rest or duringmovement at 24 hours, 48 hours and 3 months,nor did lidocaine infusion result in any reductionin postoperative analgesic requirements or dura-tion of hospital stay (table I).
+[25]
+2.3 Cardiac Surgery
+For coronary artery bypass surgery, lidocaine
+was given as an initial intravenous bolus dose of1.5 mg /kg after induction of anaesthesia followed
+by an infusion of 30 mg/kg/minute for up to 48
+hours postoperatively (table I). Lidocaine infu-sion did not result in any significant reduction in
+VAS pain scores, postoperative fentanyl require-ment, time to discharge from ICU or length of
+hospital stay.
+[26]
+2.4 Tonsillectomy
+In one study in patients undergoing tonsil-
+lectomy, lidocaine was given as an initialbolus dose of 1.5 mg /kg 30 minutes before
+the beginning of surgery followed by an infu-sion at 2 mg /kg/hour for 6 hours and then
+0.5 mg /kg/hour for an additional 18 hours. Lido-
+caine infusion did not result in any significantreduction in VAS scores or postoperative an-algesic requirements (table I).
+[27]
+2.5 Ambulatory Surgery
+The study by McKay et al.[28]involved a vari-
+ety of ambulatory procedures, including lap-aroscopic general, open general, endocrine,breast, laparoscopic gynaecology, minor gynae-cology, urology, plastics, minor orthopaedic, andminor ear, nose and throat surgeries. Lidocainewas given as an initial intravenous bolus dose of1.5 mg /kg after induction of anaesthesia followed
+by an infusion of 2 mg /kg/hour until 1 hour after
+arrival in the PACU.
+[28]VAS pain scores were
+significantly lower at rest in the PACU in the li-docaine group, but no difference was found inVAS scores at 24 hours.
+[28]In patients receiving
+lidocaine a 50 %reduction in morphine require-
+ment was demonstrated in the PACU, but nodifference in opioid consumption was found afterdischarge from the PACU.
+[28]In addition, there
+was no difference in PACU stay between patientswho received lidocaine and those who receivedplacebo (table I).
+[28]
+2.6 Adverse Effects
+PONV was evaluated in eight studies involv-
+ing both open and laparoscopic abdominalsurgery.
+[13,14,16,17,21-24]No statistically signifi-
+cant difference in the incidence of PONV wasfound between groups in seven of the eight stu-dies.
+[13,14,16,21-24]A meta-analysis of five RCTs
+involving abdominal surgery including 170 patientsreported an incidence of PONV of 32 %in the1158 McCarthy et al.
+ª2010 Adis Data Information BV. All rights reserved. Drugs 2010; 70 (9)
+lidocaine group and 52 %in the control group
+(odds ratio 0.39 [95 %CI 0.20, 0.76]).[29]
+Two trials evaluated sedation during the
+postoperative period after open abdominal sur-
+gery, but found no statistically significant differ-ence between groups.
+[14,16]In patients following
+coronary artery bypass grafting, although theoverall sedation score did not differ significantlybetween the two groups, the lidocaine group didhave a significantly higher score during the first4 hours postoperatively. This effect did not con-tinue into the later postoperative period eventhough the infusion was continued for up to48 hours.
+[26]
+In one study, one patient in the lidocaine
+group developed an occasional arrhythmia withstable vital signs during laparoscopic cholecys-
+tectomy.
+[21]Occasional intraoperative brady-
+cardia with stable haemodynamics occurred in
+three of 20 patients in the intravenous lidocainegroup in the study by Kuo et al.,
+[17]with no si-
+milar occurrences in the control or epidurallidocaine groups.
+2.7 Plasma Lidocaine Concentrations
+Seven studies reported data on plasma lido-
+caine concentrations.[13,16,18,22,25-27]Plasma lido-
+caine concentrations were measured after bolusinjection and at different time intervals dur-ing and after infusion. Toxic concentrations(>5mg/mL) were not reached in any study fol-
+lowing lidocaine infusion, with the exception ofone asymptomatic patient presenting with a peakvalue of 5.8 mg/mL measured 5 minutes after
+lidocaine bolus in one study.
+[18]Mean plasma
+lidocaine concentrations ranged from 0.58 to
+5mg/mL.[3,16,18,22,25-27]The highest plasma lido-
+caine concentration at 24 hours was 4.6 mg/mL
+after infusion of 1.33 mg/kg/hour for 24 hours.[22]
+Plasma concentrations ranged between 2 and
+5mg/mL when infused for 48 hours at a rate
+of 30 mg/kg/minute.[26]In the study by Cassuto
+et al.,[13]where lidocaine was given as a 100 mg
+bolus followed by infusion of 2 mg /minute for
+24 hours postoperatively, whole blood lidocaineconcentrations averaged 1.52 mg/mL 8 hours after
+the start of infusion and 1.75 mg/mL at 20 hours.2.8 Plasma Levels of Cytokines and Integrins
+Three studies measured the plasma levels of
+cytokines.[17,18,20]Systemic lidocaine significantly
+attenuated plasma levels of complement andproinflammatory cytokines such as interleukin
+(IL)-6, IL-8 and IL-1 receptor antagonist (IL-
+1RA) at the end of surgery up to 72 hours post-operatively.
+[17,18]In one study, the levels of IL-6,
+IL-8 and IL-1RA returned to near baseline in allpatients by 24 hours.
+[17]In another study, there
+were still significant differences in IL-6 and IL-8levels between groups on postoperative day 3, butno significant difference in IL-1RA.
+[18]A more
+recent study found significant differences in IL-6at 72 hours but no significant difference in IL-1RA after 24 hours.
+[20]Lidocaine also blunted
+increases in integrin (CD11b) and selectin
+(CD62L and CD62P) expression at the surface of
+leukocytes and platelet-leukocyte aggregatesmeasured at the end of surgery and 2 hours and3 days postoperatively.
+[18]
+3. Discussion
+This review shows that a perioperative in-
+travenous infusion of lidocaine had a useful an-
+algesic effect in patients undergoing abdominalsurgery. Its administration facilitated early re-covery and resulted in faster return of bowelfunction and a shorter duration of hospital stay.However, these benefits were not seen in patientsundergoing orthopaedic surgery, cardiac surgeryor tonsillectomy.
+Lidocaine is an amide local anaesthetic that
+has many pharmacological properties. Its anti-arrhythmic properties were first described in
+the 1950s. Since then, it has become a widely
+used agent for the treatment of cardiac ar-rhythmias.
+[30]Since the 1960s, intravenous lido-
+caine has been used to provide symptomatic relieffrom cancer pain,
+[31]diabetic neuropathies[32,33]
+and chronic pain,[34,35]without producing toxic
+side effects or significant cardiovascular changes.Two mechanisms have been investigated toexplain the analgesic efficacy of lidocaine: a se-lective depression of pain transmission in thespinal cord
+[34,35]and a reduction in tonic neuralIntravenous Lidocaine and Recovery from Surgery 1159
+ª2010 Adis Data Information BV. All rights reserved. Drugs 2010; 70 (9)
+discharge of active peripheral nerve fibres.[36,37]
+The peripheral nerve fibres mediating pain are
+A-dand C-fibres, and these appear uniquely
+sensitive to the effects of lidocaine without threatof toxicity or disturbance in haemodynamics.
+[35]
+Intravenous lidocaine infusion had no bene-
+ficial effect on postoperative pain in total hip ar-throplasty,
+[25]coronary artery bypass surgery[26]
+or tonsillectomy.[27]The investigators in the
+orthopaedic study relate the lack of effect to thelow dose of lidocaine infused (1.5 mg /kg/hour)
+and, consequently, the low mean plasma con-centration achieved of 2.1 mg/mL. This is in con-
+trast to other studies where lidocaine was shownto be effective, which used similar doses and ob-tained mean plasma concentrations ranging from1.75 to 2.7 mg/mL.
+[13,16,22]Tanelian and Mac-
+Iver[35]have established that the clinically effec-
+tive pain-relieving serum lidocaine concentrationthat is sufficient to reduce tonic injury dischargein both A- dand C-fibres is 2 –10mg/mL. Although
+mean plasma lidocaine concentrations in the studyby Martin et al.
+[25]were between adequate bounds,
+the analgesic properties of lidocaine seemed todepend on the dose infused. Animal studies haveshown that small doses of lidocaine suppress ec-topic impulse generation in chronically injuredperipheral nerves, whereas moderate doses sup-
+press central sensitization and central neuronal
+hyperexcitability. Large doses have general an-algesic effect but induce systemic toxicity.
+[38]The
+study by Koppert et al.,[16]which utilized a similar
+dose and duration of lidocaine infusion as thestudy by Martin et al.,
+[25]reported a significant
+reduction in analgesic requirement and pain scoreswith movement for up to 72 hours postoperatively.
+In seven of the 12 abdominal studies, as well as
+in the study on a range of ambulatory surgerypatients, intravenous lidocaine had a favourable
+effect on postoperative pain.
+[13,15-17,20-22,28]This
+is consistent with the ability of lidocaine to alle-
+viate visceral pain in animal models. It was shownthat intravenous lidocaine had inhibitory effectson visceromotor and cardiovascular reflexes, aswell as on the evoked and spontaneous activity ofneurons excited by colorectal distension, sug-gesting that sodium channel antagonists mayhave a role in the treatment of visceral pain.
+[39]Lidocaine regimens varied amongst the studies
+included in this review. The goal of intravenouslidocaine infusion is to achieve therapeutic stea-dy-state concentrations while avoiding systemictoxicity. The half-life of lidocaine has been re-ported to be about 100 minutes following bolus
+injection or infusions lasting less than 12 hours,
+showing more linear pharmacokinetics.
+[40]The
+short half-life of infusions lasting less than 12hours may explain the greater reduction in VASpain scores in the earlier postoperative period inthe studies by McKay et al.,
+[28]Yardeni et al.,[20]
+Kuo et al.[17]and Wu et al.,[21]in which lidocaine
+infusion was discontinued at the end of surgery or1 hour postoperatively.
+Following prolonged intravenous infusions,
+lidocaine exhibits time-dependent, or nonlinear,
+pharmacokinetics. In patients receiving pro-
+longed lidocaine infusions after myocardial in-farction, lidocaine concentrations continued torise for about 48 hours and the half-life was pro-longed up to 4 hours.
+[41]Although the results of
+some of the studies included in this review pointtowards a greater analgesic effect of increasingthe duration of lidocaine infusion rather than thedose of lidocaine, the study by Koppert et al.
+[16]
+that utilized a lower dose of lidocaine infusion forup to just 1 hour postoperatively showed pro-
+longed positive results lasting up to 72 hours.
+With the exception of the study by Wu et al.,
+[21]
+the studies that reported lower pain scores and
+decreased postoperative analgesic requirementused bolus dosing prior to infusion of intra-venous lidocaine.
+[13,15-17,20,22,24,28,38]Since this
+technique increases plasma concentrations to atherapeutic range more quickly, the majorityof studies in this review chose to use a bolus doseof 100 mg or 1.5 –2m g/kg. No ideal regimen for
+lidocaine therapy has been determined, though
+Aps et al.
+[42]have suggested that a suitable
+regimen would be a single injection (over 2 min-
+utes) of 50 –100 mg followed by an infusion of
+4m g/minute for 30 minutes, 2 mg /minute for
+2 hours and then 1 mg /minute. This regimen avoids
+the dip in concentrations to below the therapeuticrange that occurs 1 –3 hours after a single loading
+dose
+[42]but is more labour intensive. However,
+this regimen was developed in patients who had1160 McCarthy et al.
+ª2010 Adis Data Information BV. All rights reserved. Drugs 2010; 70 (9)
+had a recent myocardial infarction and might not
+be applicable in the perioperative period.
+Weight-based dosing of lidocaine takes into
+account its high hepatic extraction ratio. Plasmaclearance of lidocaine is about 10 mL /kg/minute
+in patients with relatively normal hepatic blood
+flow and function. To achieve steady-state con-
+centrations of 3 mg/mL, an infusion rate of
+30mg/kg/minute
+[43]or 1.8 mg /kg/hour would be
+required. The weight-based lidocaine regimensused in the studies reviewed, which ranged from1.33 to 3 mg /kg/hour, should have achieved ade-
+quate plasma concentrations in the range of2–5mg/mL. However, adequate plasma concen-
+trations did not always correlate with analgesicbenefit. The relationship between the dose of li-docaine used, duration of infusion and post-
+operative analgesic effect is therefore not clear
+and warrants further investigation.
+The lack of a statistically significant analgesic
+effect in some of the included studies might havebeen due to the small sample size used.
+[19,23]The
+use of co-analgesics may also explain the non-significant differences in VAS pain score andanalgesic requirement in several of the studies inthis review.
+[18,23]The study by Herroeder et al.,[18]
+for instance, administered dipyrone (metamizole)or paracetamol (acetaminophen) every 6 hours
+postoperatively as a co-analgesic, while the
+patients in the study by Lauwick et al.
+[23]all re-
+ceived paracetamol every 6 hours and naproxenevery 12 hours for the first 72 hours.
+Intravenous lidocaine significantly accelerated
+the return of bowel function. Gastrointestinaldysfunction after abdominal surgery is multi-factorial. The most commonly accepted patho-physiological features of postoperative ileus issurgically induced abdominal pain, which acti-vates a spinal reflex arc, and sympathetic hyper-
+activity, which inhibits intestinal motility and
+propulsive activity. Paravertebral reflexes relayedthrough the prevertebral ganglia might also playa role in postoperative ileus.
+[44]Other important
+causes include the inflammatory response toabdominal surgery, administration of anaes-thetics and opioids, and gastrointestinal hormonedisruption.
+[45]The stimulatory actions of lido-
+caine on postoperative colonic motility could bedue to blockade of the afferent and /or efferent
+link of the sympathetic inhibitory spinal andprevertebral reflexes.
+[46,47]The urinary output of
+catecholamines has been shown to be reducedduring the second postoperative day with lido-caine infusion, suggesting a more rapid decline in
+the postoperative sympathoadrenal response
+with lidocaine.
+[48]Intravenous lidocaine may
+shorten the duration of ileus by reducing opioidconsumption, as reported in seven of the 12abdominal surgery trials.
+[13-15,17,21,22,24]
+Lidocaine also has significant anti-inflamma-
+tory properties[4]and was shown to decrease
+cytokine release both in vitro and in vivo by in-
+hibiting neutrophil activation.[49-51]The three
+studies included in this review that measuredplasma cytokine levels showed that intravenous
+lidocaine attenuated the production of in-
+flammatory cytokines such as IL-6, IL-8 andIL-1RA. The lowest cytokine response wasassociated with the best bowel function.
+[17,18]The
+inflammatory cytokine IL-6, the level of which isproportionate to the extent of tissue injury,
+[52]
+can induce peripheral and central nervous systemsensitization leading to hyperalgesia.
+[53]The chemo-
+kine IL-8 potentially recruits neutrophils andmonocytes into the inflammatory site, acceleratinginflammation.
+[54]IL-8 is identified as the first en-
+dogenous mediator for evoking hyperalgesia invol-ving the sympathetic nervous system.
+[55]The study
+by Kuo et al.[17]included in this review showed that
+epidural and intravenous lidocaine suppressed theperioperative increase in IL-8 and provided effective
+pain relief. IL-1RA is released with IL-1 b, signalling
+the acute phase response, which correlates well withthe grade of inflammation.
+[56]
+Intravenous lidocaine did not have an impact
+on length of hospital stay in orthopaedic or cor-onary artery bypass surgery.
+[25,26]However, in the
+abdominal surgeries, intravenous lidocaine de-creased the length of hospital stay in three studiesby an average of 1.1 days.
+[15,18,22]This was mainly
+due to earlier return of bowel function. This hasan important impact on hospital costs. In 2002,the annual cost of postoperative ileus was esti-mated at $US1.46 billion.
+[57]In one study,[58]re-
+ducing hospital stay from 8 to 5 days resulted in a32%decrease in hospital costs per patient.Intravenous Lidocaine and Recovery from Surgery 1161
+ª2010 Adis Data Information BV. All rights reserved. Drugs 2010; 70 (9)
+4. Conclusions
+Continuous infusion of perioperative lidocaine
+has a clear advantage in patients undergoing
+abdominal surgery as it provides significant painrelief, reduces postoperative opioid consumption,decreases opioid-induced nausea and vomiting,
+and promotes faster return of bowel function,
+allowing for a shorter hospital stay. However,these benefits were not demonstrated in patientsundergoing total hip arthroplasty, cardiac sur-gery or tonsillectomy. Further studies are needed
+to assess the efficacy of intravenous lidocaine inother surgical populations. The optimum dose,timing and duration of infusion of lidocaine alsoneed to be established.
+Acknowledgements
+This work was solely supported by the Department of
+Anesthesiology, Duke University Medical Center, Durham,
+NC, USA. The authors have no conflicts of interest that aredirectly relevant to the content of this review.
+References
+1. White PF. The role of non-opioid analgesic techniques in the
+management of pain after ambulatory surgery. Anesth
+Analg 2002 Mar; 94 (3): 577-85
+2. Joly V, Richebe P, Guignard B, et al. Remifentanil-induced
+postoperative hyperalgesia and its prevention with small-
+dose ketamine. Anesthesiology 2005 Jul; 103 (1): 147-55
+3. Koppert W, Ostermeier N, Sittl R, et al. Low-dose lidocaine
+reduces secondary hyperalgesia by a central mode of ac-
+tion. Pain 2000 Mar; 85 (1-2): 217-24
+4. Hollmann MW, Durieux ME. Local anesthetics and the in-
+flammatory response: a new therapeutic indication? An-
+esthesiology 2000 Sep; 93 (3): 858-75
+5. Gilbert CR, Hanson IR, Brown AB, et al. Intravenous use of
+xylocaine. Curr Res Anesth Analg 1951 Nov-Dec; 30 (6):
+301-13
+6. Boas RA, Covino BG, Shahnarian A. Analgesic responses to
+i.v. lignocaine. Br J Anaesth 1982 May; 54 (5): 501-5
+7. Atkinson RL. Intravenous lidocaine for the treatment of intra-
+ctable pain of adiposis dolorosa. Int J Obes 1982; 6 (4): 351-7
+8. Iwane T, Maruyama M, Matsuki M, et al. Management of in-
+tractable pain in adiposis dolorosa with intravenous adminis-
+tration of lidocaine. Anesth Analg 1976 Mar-Apr; 55 (2): 257-9
+9. Hollmann MW, Strumper D, Herroeder S, et al. Receptors,
+G proteins, and their interactions. Anesthesiology 2005Nov; 103 (5): 1066-78
+10. Nagy I, Woolf CJ. Lignocaine selectively reduces C fibre-
+evoked neuronal activity in rat spinal cord in vitro bydecreasing N-methyl-D-aspartate and neurokinin receptor-
+mediated post-synaptic depolarizations; implications for
+the development of novel centrally acting analgesics. Pain
+1996 Jan; 64 (1): 59-70
+11. Sugimoto M, Uchida I, Mashimo T. Local anaesthetics have
+different mechanisms and sites of action at the recombinantN-methyl-D-aspartate (NMDA) receptors. Br J Pharmacol
+2003 Mar; 138 (5): 876-82
+12. Ho KY, Gan TJ, Habib AS. Gabapentin and postoperative
+pain: a systematic review of randomized controlled trials.
+Pain 2006; 126 (1): 91-101
+13. Cassuto J, Wallin G, Hogstrom S, et al. Inhibition of post-
+operative pain by continuous low-dose intravenous infu-sion of lidocaine. Anesth Analg 1985 Oct; 64 (10): 971-4
+14. Rimback G, Cassuto J, Tollesson PO. Treatment of post-
+operative paralytic ileus by intravenous lidocaine infusion.
+Anesth Analg 1990 Apr; 70 (4): 414-9
+15. Groudine SB, Fisher HA, Kaufman Jr RP, et al. Intravenous
+lidocaine speeds the return of bowel function, decreases
+postoperative pain, and shortens hospital stay in patientsundergoing radical retropubic prostatectomy. Anesth An-
+alg 1998 Feb; 86 (2): 235-9
+16. Koppert W, Weigand M, Neumann F, et al. Perioperative
+intravenous lidocaine has preventive effects on postopera-
+tive pain and morphine consumption after major abdomi-nal surgery. Anesth Analg 2004 Apr; 98 (4): 1050-5
+17. Kuo CP, Jao SW, Chen KM, et al. Comparison of the effects
+of thoracic epidural analgesia and i.v. infusion with lido-
+caine on cytokine response, postoperative pain and bowel
+function in patients undergoing colonic surgery. Br J An-aesth 2006 Nov; 97 (5): 640-6
+18. Herroeder S, Pecher S, Schonherr ME, et al. Systemic lido-
+caine shortens length of hospital stay after colorectal sur-
+gery: a double-blinded, randomized, placebo-controlled
+trial. Ann Surg 2007 Aug; 246 (2): 192-200
+19. Harvey KP, Adair JD, Isho M, et al. Can intravenous lido-
+caine decrease postsurgical ileus and shorten hospital stayin elective bowel surgery? A pilot study and literature re-
+view. Am J Surg 2009 Aug; 198 (2): 231-6
+20. Yardeni IZ, Beilin B, Mayburd E, et al. The effect of perio-
+perative intravenous lidocaine on postoperative pain and
+immune function. Anesth Analg 2009 Nov 1; 109 (5): 1464-9
+21. Wu CT, Borel CO, Lee MS, et al. The interaction effect of
+perioperative cotreatment with dextromethorphan and in-travenous lidocaine on pain relief and recovery of bowel
+function after laparoscopic cholecystectomy. Anesth Analg
+2005 Feb; 100 (2): 448-53
+22. Kaba A, Laurent SR, Detroz BJ, et al. Intravenous lidocaine
+infusion facilitates acute rehabilitation after laparoscopiccolectomy. Anesthesiology 2007 Jan; 106 (1): 11-8
+23. Lauwick S, Kim DJ, Mistraletti G, et al. Functional walking
+capacity as an outcome measure of laparoscopic prosta-
+tectomy: the effect of lidocaine infusion. Br J Anaesth 2009
+Aug; 103 (2): 213-9
+24. Lauwick S, Kim do J, Michelagnoli G, et al. Intraoperative
+infusion of lidocaine reduces postoperative fentanyl re-quirements in patients undergoing laparoscopic cholecys-
+tectomy. Can J Anaesth 2008 Nov; 55 (11): 754-60
+25. Martin F, Cherif K, Gentili ME, et al. Lack of impact of
+intravenous lidocaine on analgesia, functional recovery,1162 McCarthy et al.
+ª2010 Adis Data Information BV. All rights reserved. Drugs 2010; 70 (9)
+and nociceptive pain threshold after total hip arthroplasty.
+Anesthesiology 2008 Jul; 109 (1): 118-23
+26. Insler SR, O’Connor M, Samonte AF, et al. Lidocaine and the
+inhibition of postoperative pain in coronary artery bypass
+patients. J Cardiothorac Vasc Anesth 1995 Oct; 9 (5): 541-6
+27. Striebel H, Klettke U. Is intravenous lidocaine infusion
+suitable for postoperative pain management? Schmerz
+1992 Dec; 6 (4): 245-50
+28. McKay A, Gottschalk A, Ploppa A, et al. Systemic lidocaine
+decreased the perioperative opioid analgesic requirementsbut failed to reduce discharge time after ambulatory sur-gery. Anesth Analg 2009 Dec 1; 109 (6): 1805-8
+29. Marret E, Rolin M, Beaussier M, et al. Meta-analysis of
+intravenous lidocaine and postoperative recovery afterabdominal surgery. Br J Surg 2008 Nov; 95 (11): 1331-8
+30. Ramsay MA, Savege TM, Simpson BR, et al. Controlled
+sedation with alphaxalone-alphadolone. BMJ 1974 Jun 22;
+2 (5920): 656-9
+31. Edwards AD. The role of systemic lidocaine in neuropathic
+pain management. J Intraven Nurs 1999 Sep-Oct; 22 (5):
+273-9
+32. Bach FW, Jensen TS, Kastrup J, et al. The effect of intra-
+venous lidocaine on nociceptive processing in diabetic
+neuropathy. Pain 1990 Jan; 40 (1): 29-34
+33. Kastrup J, Petersen P, Dejgard A, et al. Intravenous lido-
+caine infusion: a new treatment of chronic painful diabetic
+neuropathy? Pain 1987 Jan; 28 (1): 69-75
+34. Juhlin L. Long-standing pain relief of adiposis dolorosa
+(Dercum’s disease) after intravenous infusion of lidocaine.
+J Am Acad Dermatol 1986 Aug; 15 (2 Pt 2): 383-5
+35. Tanelian DL, MacIver MB. Analgesic concentrations of
+lidocaine suppress tonic A-delta and C fiber discharges
+produced by acute injury. Anesthesiology 1991 May;
+74 (5): 934-6
+36. Chabal C, Russell LC, Burchiel KJ. The effect of in-
+travenous lidocaine, tocainide, and mexiletine on sponta-
+neously active fibers originating in rat sciatic neuromas.
+Pain 1989 Sep; 38 (3): 333-8
+37. Woolf CJ, Wiesenfeld-Hallin Z. The systemic administra-
+tion of local anaesthetics produces a selective depression of
+C-afferent fibre evoked activity in the spinal cord. Pain
+1985 Dec; 23 (4): 361-74
+38. Abram SE, Yaksh TL. Systemic lidocaine blocks nerve
+injury-induced hyperalgesia and nociceptor-driven spinal
+sensitization in the rat. Anesthesiology 1994 Feb; 80 (2):
+383-91; discussion 25A
+39. Ness TJ. Intravenous lidocaine inhibits visceral nociceptive
+reflexes and spinal neurons in the rat. Anesthesiology 2000
+Jun; 92 (6): 1685-91
+40. Rowland M, Thomson PD, Guichard A, et al. Disposition
+kinetics of lidocaine in normal subjects. Ann N Y Acad Sci
+1971; 179: 383-98
+41. LeLorier J, Grenon D, Latour Y, et al. Pharmacokinetics of
+lidocaine after prolonged intravenous infusions in un-
+complicated myocardial infarction. Ann Intern Med 1977;
+87 (6): 43-542. Aps C, Bell JA, Jenkins BS, et al. Logical approach to lido-
+caine therapy. BMJ 1976; 1: 13-5
+43. Woosley RL, Shand DG. Pharmacokinetics of antiar-
+rhythmic drugs. Am J Cardiol 1978; 41: 986-95
+44. Liu S, Carpenter RL, Neal JM. Epidural anesthesia and
+analgesia: their role in postoperative outcome. Anesthe-siology 1995 Jun; 82 (6): 1474-506
+45. Holte K, Kehlet H. Postoperative ileus: a preventable event.
+Br J Surg 2000 Nov; 87 (11): 1480-93
+46. Furness JB, Costa M. Adynamic ileus, its pathogenesis and
+treatment. Med Biol 1974 Apr; 52 (2): 82-9
+47. Nadrowski L. Paralytic ileus: recent advances in pathophy-
+siology and treatment. Curr Surg 1983 Jul-Aug; 40 (4): 260-73
+48. Wallin G, Cassuto J, Hogstrom S, et al. Effects of lidocaine
+infusion on the sympathetic response to abdominal sur-
+gery. Anesth Analg 1987 Oct 1; 66 (10): 1008-13
+49. Sinclair R, Eriksson AS, Gretzer C, et al. Inhibitory effects
+of amide local anaesthetics on stimulus-induced human
+leukocyte metabolic activation, LTB4 release and IL-1 se-cretion in vitro. Acta Anaesthesiol Scand 1993 Feb; 37 (2):
+159-65
+50. Takao Y, Mikawa K, Nishina K, et al. Lidocaine attenuates
+hyperoxic lung injury in rabbits. Acta Anaesthesiol Scand1996 Mar; 40 (3): 318-25
+51. Taniguchi T, Shibata K, Yamamoto K, et al. Effects of li-
+docaine administration on hemodynamics and cytokineresponses to endotoxemia in rabbits. Crit Care Med 2000
+Mar; 28 (3): 755-9
+52. Lin E, Calvano SE, Lowry SF. Inflammatory cytokines and
+cell response in surgery. Surgery 2000 Feb; 127 (2): 117-26
+53. Watkins LR, Maier SF, Goehler LE. Immune activation: the
+role of pro-inflammatory cytokines in inflammation, illness
+responses and pathological pain states. Pain 1995 Dec;
+63 (3): 289-302
+54. Gale LM, McColl SR. Chemokines: extracellular messen-
+gers for all occasions? Bioessays 1999 Jan; 21 (1): 17-28
+55. Cunha FQ, Lorenzetti BB, Poole S, et al. Interleukin-8 as a
+mediator of sympathetic pain. Br J Pharmacol 1991 Nov;
+104 (3): 765-7
+56. Fischer E, Van Zee KJ, Marano MA, et al. Interleukin-1 re-
+ceptor antagonist circulates in experimental inflammation
+and in human disease. Blood 1992 May 1; 79 (9): 2196-200
+57. Goldstein JL, Matuszewski KA, Delaney CP, et al. Inpatient
+economic burden of postoperative ileus associated with
+abdominal surgery in the United States. P &T 2007 Feb;
+32 (2): 82-90
+58. Licht MR, Klein EA. Early hospital discharge after radical
+retro pubic
+prostatectomy: impact on cost and complica-
+tion rate. Urology 1994 Nov; 44 (5): 700-4
+Correspondence: Associate Professor Ashraf S. Habib ,
+Department of Anesthesiology, Duke University Medical
+Center, Box 3094, Durham, NC 27710, USA.E-mail: habib001@mc.dukeIntravenous Lidocaine and Recovery from Surgery 1163
+ª2010 Adis Data Information BV. All rights reserved. Drugs 2010; 70 (9)
