@@ -181,7 +181,7 @@ class ModelManager:
         """
         with self._model_management_lock:
             if self.model is None:
-                return {
+                return {    
                     "model_name": self.model_name,
                     "initialized": False,
                     "current_device": None,

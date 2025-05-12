@@ -429,7 +429,7 @@ def perform_initialization():
             emb_model=config.EMBEDDINGS_MODEL_NAME,
             chunk_size=config.CHUNK_SIZE,
             chunk_overlap=config.CHUNK_OVERLAP,
-            force_reset=False  # 首次建立不強制重置
+            force_reset=True  # 首次建立不強制重置
         )
         
         if initial_db:
