@@ -1,0 +1,741 @@
+/H18549SPECIAL ARTICLE
+Anesthesiology 2002; 96:1004–17 © 2002 American Society of Anesthesiologists, Inc. Lippincott Williams & Wilkins, Inc.
+Practice Guidelines for Sedation and Analgesia by
+Non-Anesthesiologists
+An Updated Report by the American Society of Anesthesiologists Task Force on
+Sedation and Analgesia by Non-Anesthesiologists
+ANESTHESIOLOGISTS possess speciﬁc expertise in the
+pharmacology, physiology, and clinical management of pa-tients receiving sedation and analgesia. For this reason, theyare frequently called on to participate in the developmentof institutional policies and procedures for sedation andanalgesia for diagnostic and therapeutic procedures. Toassist in this process, the American Society of Anesthesiol-
+ogists (ASA) has developed these “Guidelines for Sedationand Analgesia by Non-Anesthesiologists.”
+Practice guidelines are systematically developed rec-
+ommendations that assist the practitioner and patient inmaking decisions about health care. These recommen-dations may be adopted, modiﬁed, or rejected accordingto clinical needs and constraints. Practice guidelines arenot intended as standards or absolute requirements. Theuse of practice guidelines cannot guarantee any speciﬁcoutcome. Practice guidelines are subject to revision aswarranted by the evolution of medical knowledge, tech-nology, and practice. The guidelines provide basic rec-ommendations that are supported by analysis of thecurrent literature and by a synthesis of expert opinion,open forum commentary, and clinical feasibility data.
+This revision includes data published since the “Guide-
+lines for Sedation and Analgesia by Non-Anesthesiolo-gists” were adopted by the ASA in 1995; it also includesdata and recommendations for a wider range of sedation
+levels than was previously addressed.
+Deﬁnitions
+“Sedation and analgesia” comprise a continuum of
+states ranging from minimal sedation (anxiolysis)through general anesthesia. Deﬁnitions of levels of seda-tion–analgesia, as developed and adopted by the ASA,are given in table 1. These Guidelines speciﬁcally applyto levels of sedation corresponding to moderate sedation(frequently called conscious sedation) and deep seda-tion, as deﬁned in table 1.
+Focus
+These Guidelines are designed to be applicable to
+procedures performed in a variety of settings ( e.g., hos-
+pitals, freestanding clinics, physician, dental, and otherofﬁces) by practitioners who are not specialists in anes-thesiology. Because minimal sedation (anxiolysis) entailsminimal risk, the Guidelines speciﬁcally exclude it. Ex-amples of minimal sedation include peripheral nerveblocks, local or topical anesthesia, and either (1) lessthan 50% nitrous oxide (N
+2O) in oxygen with no other
+sedative or analgesic medications by any route, or (2) asingle, oral sedative or analgesic medication adminis-tered in doses appropriate for the unsupervised treat-ment of insomnia, anxiety, or pain. The Guidelines alsoexclude patients who are not undergoing a diagnostic ortherapeutic procedure ( e.g., postoperative analgesia, se-
+dation for treatment of insomnia). Finally, the Guidelinesdo not apply to patients receiving general or majorconduction anesthesia ( e.g., spinal or epidural/caudal
+block), whose care should be provided, medically di-rected, or supervised by an anesthesiologist, the operat-ing practitioner, or another licensed physician with spe-ciﬁc training in sedation, anesthesia, and rescuetechniques appropriate to the type of sedation or anes-thesia being provided.
+Purpose
+The purpose of these Guidelines is to allow clinicians
+to provide their patients with the beneﬁts of seda-tion/analgesia while minimizing the associated risks. Se-Additional material related to this article can be found on the
+ANESTHESIOLOGY Web site. Go to the following address, click on
+Enhancements Index, and then scroll down to ﬁnd the appro-priate article and link. http://www.anesthesiology.org/world
+Developed by the American Society of Anesthesiologists Task Force on Seda-
+tion and Analgesia by Non-Anesthesiologists: Jeffrey B. Gross, M.D. (Chair),Farmington, CT; Peter L. Bailey, M.D., Rochester, NY; Richard T. Connis, Ph.D.,Woodinville, WA; Charles J. Cote ´, M.D., Chicago, IL; Fred G. Davis, M.D.,
+Burlington, MA; Burton S. Epstein, M.D., Washington, DC; Lesley Gilbertson,M.D., Boston, MA; David G. Nickinovich, Ph.D., Bellevue, WA; John M. Zerwas,M.D., Houston, TX; Gregory Zuccaro, Jr., M.D., Cleveland, OH.
+Submitted for publication November 30, 2001. Accepted for publication
+November 30, 2001. Supported by the American Society of Anesthesiologistsunder the direction of James F. Arens, M.D., Chairman, Committee on PracticeParameters. Approved by the House of Delegates, October 17, 2001. A list of thereferences used to develop these Guidelines is available by writing to theAmerican Society of Anesthesiologists. These Guidelines have been endorsed byThe American College of Radiology, The American Association of Oral andMaxillofacial Surgeons, and The American Society for GastrointestinalEndoscopy.
+The accompanying Web site enhacement is a bibliography.Address reprint requests to American Society of Anesthesiologists: 520 N.
+Northwest Highway, Park Ridge, Illinois 60068-2573.
+Anesthesiology, V 96, No 4, Apr 2002 1004
+dation/analgesia provides two general types of bene ﬁt:
+(1) sedation/analgesia allows patients to tolerate un-pleasant procedures by relieving anxiety, discomfort, orpain; and (2) in children and uncooperative adults, se-dation –analgesia may expedite the conduct of proce-
+dures that are not particularly uncomfortable but thatrequire that the patient not move. At times, these sedationpractices may result in cardiac or respiratory depression,which must be rapidly recognized and appropriatelymanaged to avoid the risk of hypoxic brain damage, car-diac arrest, or death. Conversely, inadequate sedation –
+analgesia may result in undue patient discomfort or patientinjury because of lack of cooperation or adverse physio-logic or psychological response to stress.
+Application
+These Guidelines are intended to be general in their
+application and broad in scope. The appropriate choiceof agents and techniques for sedation/analgesia is depen-dent on the experience and preference of the individualpractitioner, requirements or constraints imposed by thepatient or procedure, and the likelihood of producing adeeper level of sedation than anticipated. Because it isnot always possible to predict how a speci ﬁc patient will
+respond to sedative and analgesic medications, practitio-ners intending to produce a given level of sedationshould be able to rescue patients whose level of sedationbecomes deeper than initially intended. For moderatesedation, this implies the ability to manage a compro-mised airway or hypoventilation in a patient who re-
+sponds purposefully after repeated or painful stimula-
+tion, whereas for deep sedation, this implies the abilityto manage respiratory or cardiovascular instability in apatient who does not respond purposefully to painful or
+repeated stimulation. Levels of sedation referred to inthe recommendations relate to the level of sedationintended by the practitioner. Examples are provided toillustrate airway assessment, preoperative fasting, emer-gency equipment, and recovery procedures; however,clinicians and their institutions have ultimate responsi-bility for selecting patients, procedures, medications,and equipment.
+Task Force Members and Consultants
+The ASA appointed a Task Force of 10 members to (1)
+review the published evidence; (2) obtain the opinion ofa panel of consultants, including non-anesthesiologistphysicians and dentists who routinely administer seda-tion–analgesia, as well as of anesthesiologists with a
+special interest in sedation –analgesia (see Appendix I);
+and (3) build consensus within the community of prac-titioners likely to be affected by the Guidelines. The TaskForce included anesthesiologists in both private and ac-ademic practices from various geographic areas of theUnited States, a gastroenterologist, and methodologistsfrom the ASA Committee on Practice Parameters.
+This Practice Guideline is an update and revision of the
+ASA “Guidelines for Sedation and Analgesia by Non-Table 1. Continuum of Depth of Sedation: De ﬁnition of General Anesthesia and Levels of Sedation/Analgesia
+Minimal Sedation
+(Anxiolysis)Moderate
+Sedation/Analgesia
+(Conscious Sedation) Deep Sedation/Analgesia General Anesthesia
+Responsiveness Normal response to
+verbal stimulationPurposeful* response to
+verbal or tactilestimulationPurposeful* response after
+repeated or painfulstimulationUnarousable, even
+with painful stimulus
+Airway Unaffected No intervention required Intervention may be required Intervention often
+required
+Spontaneous ventilation Unaffected Adequate May be inadequate Frequently inadequateCardiovascular function Unaffected Usually maintained Usually maintained May be impaired
+Minimal Sedation (Anxiolysis) /H11005a drug-induced state during which patients respond normally to verbal commands. Although cognitive function and coordination
+may be impaired, ventilatory and cardiovascular functions are unaffected.
+Moderate Sedation/Analgesia (Conscious Sedation) /H11005a drug-induced depression of consciousness during which patients respond purposefully* to verbal
+commands, either alone or accompanied by light tactile stimulation. No interventions are required to maintain a patent airway, and spontaneous vent ilation is
+adequate. Cardiovascular function is usually maintained.
+Deep Sedation/Analgesia /H11005a drug-induced depression of consciousness during which patients cannot be easily aroused but respond purposefully* following
+repeated or painful stimulation. The ability to independently maintain ventilatory function may be impaired. Patients may require assistance in ma intaining a patent
+airway, and spontaneous ventilation may be inadequate. Cardiovascular function is usually maintained.
+General Anesthesia /H11005a drug-induced loss of consciousness during which patients are not arousable, even by painful stimulation. The ability to independently
+maintain ventilatory function is often impaired. Patients often require assistance in maintaining a patent airway, and positive pressure ventilat ion may be required
+because of depressed spontaneous ventilation or drug-induced depression of neuromuscular function. Cardiovascular function may be impaired.
+Because sedation is a continuum, it is not always possible to predict how an individual patient will respond. Hence, practitioners intending to produ ce a given
+level of sedation should be able to rescue patients whose level of sedation becomes deeper than initially intended. Individuals administering Moderate
+Sedation/Analgesia (Conscious Sedation) should be able to rescue patients who enter a state of Deep Sedation/Analgesia , while those administering Deep
+Sedation/Analgesia should be able to rescue patients who enter a state of general anesthesia.
+* Reﬂex withdrawal from a painful stimulus is not considered a purposeful response.Developed by the American Society of Anesthesiologists; approved by the ASA House of Delegates October 13, 1999.1005 PRACTICE GUIDELINES
+Anesthesiology, V 96, No 4, Apr 2002
+Anesthesiologists. ”1The Task Force revised and updated
+the Guidelines by means of a ﬁve-step process. First,
+original published research studies relevant to the revi-sion and update were reviewed and analyzed; only arti-cles relevant to the administration of sedation by non-anesthesiologists were evaluated. Second, the panel ofexpert consultants was asked to (1) participate in asurvey related to the effectiveness and safety of variousmethods and interventions that might be used duringsedation –analgesia, and (2) review and comment on the
+initial draft report of the Task Force. Third, the TaskForce held open forums at two major national meetingsto solicit input on its draft recommendations. Nationalorganizations representing most of the specialties whosemembers typically administer sedation –analgesia were
+invited to send representatives. Fourth, the consultantswere surveyed to assess their opinions on the feasibilityandﬁnancial implications of implementing the revised
+and updated Guidelines. Finally, all of the available in-formation was used by the Task Force to ﬁnalize the
+Guidelines.
+Availability and Strength of Evidence
+Evidence-based Guidelines are developed by a rigorous
+analytic process. To assist the reader, the Guidelinesmake use of several descriptive terms that are easier tounderstand than the technical terms and data that areused in the actual analyses. These descriptive terms aredeﬁned below.
+The following terms describe the strength of scienti ﬁc
+data obtained from the scienti ﬁc literature:
+Supportive: There is suf ﬁcient quantitative information
+from adequately designed studies to describe a statis-tically signi ﬁcant relationship ( P/H110210.01) between a
+clinical intervention and a clinical outcome, usingmetaanalysis.
+Suggestive: There is enough information from case re-
+ports and descriptive studies to provide a directionalassessment of the relationship between a clinical in-tervention and a clinical outcome. This type of quali-tative information does not permit a statistical assess-ment of signi ﬁcance.
+Equivocal: Qualitative data have not provided a clear
+direction for clinical outcomes related to a clinicalintervention, and (1) there is insuf ﬁcient quantitative
+information or (2) aggregated comparative studieshave found no quantitatively signi ﬁcant differences
+among groups or conditions.
+The following terms describe the lack of available
+scienti ﬁc evidence in the literature:
+Inconclusive: Published studies are available, but they
+cannot be used to assess the relation between a clin-ical intervention and a clinical outcome because thestudies either do not meet prede ﬁned criteria for con-
+tent as de ﬁned in the “Focus ”of these Guidelines, or
+do not provide a clear causal interpretation of ﬁndings
+because of research design or analytic concerns.
+Insuf ﬁcient: There are too few published studies to in-
+vestigate a relationship between a clinical interventionand clinical outcome.
+Silent: No studies that address a relationship of interest
+were found in the available published literature.
+The following terms describe survey responses from
+the consultants for any speci ﬁed issue. Responses were
+solicited on a ﬁve-point scale, ranging from 1 (strongly
+disagree) to 5 (strongly agree), with a score of 3 beingneutral.
+Strongly Agree: median score of 5
+Agree: median score of 4Equivocal: median score of 3Disagree: median score of 2Strongly Disagree: median score of 1
+Guidelines
+Patient EvaluationThere is insuf ﬁcient published evidence to evaluate
+the relationship between sedation –analgesia outcomes
+and the performance of a preprocedure patient evalua-tion. There is suggestive evidence that some preexistingmedical conditions may be related to adverse outcomesin patients receiving either moderate or deep sedation/analgesia. The consultants strongly agree that appropri-ate preprocedure evaluation (history, physical examina-tion) increases the likelihood of satisfactory sedation anddecreases the likelihood of adverse outcomes for bothmoderate and deep sedation.
+Recommendations. Clinicians administering seda-
+tion/analgesia should be familiar with sedation-orientedaspects of the patient ’s medical history and how these
+might alter the patient ’s response to sedation/analgesia.
+These include: (1) abnormalities of the major organ sys-tems; (2) previous adverse experience with sedation/analgesia as well as regional and general anesthesia; (3)
+drug allergies, current medications, and potential druginteractions; (4) time and nature of last oral intake; and(5) history of tobacco, alcohol, or substance use orabuse. Patients presenting for sedation/analgesia shouldundergo a focused physical examination, including vitalsigns, auscultation of the heart and lungs, and evaluationof the airway. (Example I). Preprocedure laboratory test-ing should be guided by the patient ’s underlying medical
+condition and the likelihood that the results will affectthe management of sedation/analgesia. These evalua-tions should be con ﬁrmed immediately before sedation
+is initiated.1006 PRACTICE GUIDELINES
+Anesthesiology, V 96, No 4, Apr 2002
+Preprocedure Preparation
+The literature is insuf ﬁcient regarding the bene ﬁts of
+providing the patient (or legal guardian, in the case of achild or impaired adult) with preprocedure informationabout sedation and analgesia. For moderate sedation theconsultants agree, and for deep sedation the consultantsstrongly agree that appropriate preprocedure counselingof patients regarding risks, bene ﬁts, and alternatives to
+sedation and analgesia increases patient satisfaction.
+Sedatives and analgesics tend to impair airway re ﬂexes
+in proportion to the degree of sedation –analgesia
+achieved. This dependence on level of sedation is re-ﬂected in the consultants opinion: They agree that pre-
+procedure fasting decreases risks during moderate seda-tion, while strongly agreeing that it decreases risksduring deep sedation. In emergency situations, whenpreprocedure fasting is not practical, the consultantsagree that the target level of sedation should be modi ﬁed
+(i.e., less sedation should be administered) for moderate
+sedation, while strongly agreeing that it should be mod-iﬁed for deep sedation. The literature does not provide
+sufﬁcient evidence to test the hypothesis that preproce-
+dure fasting results in a decreased incidence of adverseoutcomes in patients undergoing either moderate ordeep sedation.
+Recommendations. Patients (or their legal guardians
+in the case of minors or legally incompetent adults)should be informed of and agree to the administration ofsedation/analgesia, including its bene ﬁts, risks, and lim-
+itations associated with this therapy, as well as possiblealternatives. Patients undergoing sedation/analgesia forelective procedures should not drink ﬂuids or eat solid
+foods for a suf ﬁcient period of time to allow for gastric
+emptying before their procedure, as recommended bythe ASA “Guidelines for Preoperative Fasting ”
+2(Example
+II). In urgent, emergent, or other situations in which
+gastric emptying is impaired, the potential for pulmo-nary aspiration of gastric contents must be considered indetermining (1) the target level of sedation, (2) whetherthe procedure should be delayed, or (3) whether thetrachea should be protected by intubation.
+Monitoring
+Level of Consciousness. The response of patients to
+commands during procedures performed with sedation/analgesia serves as a guide to their level of conscious-ness. Spoken responses also provide an indication thatthe patients are breathing. Patients whose only responseis reﬂex withdrawal from painful stimuli are deeply se-
+dated, approaching a state of general anesthesia, andshould be treated accordingly. The literature is silentregarding whether monitoring patients ’level of con-
+sciousness improves patient outcomes or decreasesrisks. The consultants strongly agree that monitoringlevel of consciousness reduces risks for both moderateand deep sedation. The members of the Task Forcebelieve that many of the complications associated withsedation and analgesia can be avoided if adverse drugresponses are detected and treated in a timely manner(i.e., before the development of cardiovascular decom-
+pensation or cerebral hypoxia). Patients given sedativesor analgesics in unmonitored settings in anticipation of asubsequent procedure may be at increased risk of thesecomplications.Example I. Airway Assessment Procedures for Sedation and
+Analgesia
+Positive pressure ventilation, with or without tracheal intubation,
+may be necessary if respiratory compromise develops duringsedation –analgesia. This may be more dif ﬁcult in patients with
+atypical airway anatomy. In addition, some airway abnormalitiesmay increase the likelihood of airway obstruction duringspontaneous ventilation. Some factors that may be associatedwith dif ﬁculty in airway management are:
+History
+Previous problems with anesthesia or sedationStridor, snoring, or sleep apneaAdvanced rheumatoid arthritisChromosomal abnormality ( e.g., trisomy 21)
+Physical Examination
+Habitus
+Signi ﬁcant obesity (especially involving the neck and facial
+structures)
+Head and Neck
+Short neck, limited neck extension, decreased hyoid –mental
+distance ( /H110213 cm in an adult), neck mass, cervical spine
+disease or trauma, tracheal deviation, dysmorphic facialfeatures ( e.g., Pierre-Robin syndrome)
+Mouth
+Small opening ( /H110213 cm in an adult); edentulous; protruding
+incisors; loose or capped teeth; dental appliances; high,arched palate; macroglossia; tonsillar hypertrophy;nonvisible uvula
+Jaw
+Micrognathia, retrognathia, trismus, signi ﬁcant malocclusion
+Example II. Summary of American Society of
+Anesthesiologists Preprocedure Fasting Guidelines
+2*
+Ingested Material Minimum Fasting Period †
+Clear liquids ‡ 2h
+Breast milk 4 hInfant formula 6 hNonhuman milk § 6h
+Light meal /H14067 6h
+* These recommendations apply to healthy patients who are undergoing
+elective procedures. They are not intended for women in labor. Following theGuidelines does not guarantee a complete gastric emptying has occurred.
+†The fasting periods apply to all ages.
+‡Examples of clear liquids include water, fruit juices without pulp, carbonated
+beverages, clear tea, and black coffee.
+§Since nonhuman milk is similar to solids in gastric emptying time, the
+amount ingested must be considered when determining an appropriate fast-ing period.
+/H14067A light meal typically consists of toast and clear liquids. Meals that include
+fried or fatty foods or meat may prolong gastric emptying time. Both theamount and type of foods ingested must be considered when determining anappropriate fasting period.1007 PRACTICE GUIDELINES
+Anesthesiology, V 96, No 4, Apr 2002
+Pulmonary Ventilation. Itisthe opinion of the Task
+Force that the primary causes of morbidity associatedwith sedation/analgesia are drug-induced respiratory de-pression and airway obstruction. For both moderate anddeep sedation, the literature is insuf ﬁcient to evaluate
+the bene ﬁt of monitoring ventilatory function by obser-
+vation or auscultation. However, the consultantsstrongly agree that monitoring of ventilatory function byobservation or auscultation reduces the risk of adverseoutcomes associated with sedation/analgesia. The con-sultants were equivocal regarding the ability of capnog-raphy to decrease risks during moderate sedation, whileagreeing that it may decrease risks during deep sedation.In circumstances in which patients are physically sepa-rated from the caregiver, the Task Force believes thatautomated apnea monitoring (by detection of exhaledcarbon dioxide or other means) may decrease risks dur-ing both moderate and deep sedation, while cautioningpractitioners that impedance plethysmography may failto detect airway obstruction. The Task Force emphasizesthat because ventilation and oxygenation are separatethough related physiologic processes, monitoring oxy-genation by pulse oximetry is not a substitute for mon-itoring ventilatory function.
+Oxygenation. Published data suggest that oximetry
+effectively detects oxygen desaturation and hypoxemiain patients who are administered sedatives/analgesics.The consultants strongly agree that early detection ofhypoxemia through the use of oximetry during seda-tion–analgesia decreases the likelihood of adverse out-
+comes such as cardiac arrest and death. The Task Forceagrees that hypoxemia during sedation and analgesia ismore likely to be detected by oximetry than by clinicalassessment alone.
+Hemodynamics. Although there are insuf ﬁcient pub-
+lished data to reach a conclusion, it is the opinion of theTask Force that sedative and analgesic agents may bluntthe appropriate autonomic compensation for hypovole-mia and procedure-related stresses. On the other hand, ifsedation and analgesia are inadequate, patients may de-velop potentially harmful autonomic stress responses(e.g., hypertension, tachycardia). Early detection of
+changes in patients ’heart rate and blood pressure may
+enable practitioners to detect problems and intervene ina timely fashion, reducing the risk of these complica-tions. The consultants strongly agree that regular moni-toring of vital signs reduces the likelihood of adverseoutcomes during both moderate and deep sedation. Forboth moderate and deep sedation, a majority of theconsultants indicated that vital signs should be moni-tored at 5-min intervals once a stable level of sedation isestablished. The consultants strongly agree that contin-uous electrocardiography reduces risks during deep se-dation, while they were equivocal regarding its effectduring moderate sedation. However, the Task Force be-lieves that electrocardiographic monitoring of selectedpatients ( e.g., with signi ﬁcant cardiovascular disease or
+dysrhythmias) may decrease risks during moderatesedation.
+Recommendations. Monitoring of patient response
+to verbal commands should be routine during moderatesedation, except in patients who are unable to respondappropriately ( e.g., young children, mentally impaired or
+uncooperative patients), or during procedures wheremovement could be detrimental. During deep sedation,patient responsiveness to a more profound stimulusshould be sought, unless contraindicated, to ensure thatthe patient has not drifted into a state of general anes-thesia. During procedures where a verbal response is notpossible ( e.g., oral surgery, upper endoscopy), the ability
+to give a “thumbs up ”or other indication of conscious-
+ness in response to verbal or tactile (light tap) stimula-tion suggests that the patient will be able to control hisairway and take deep breaths if necessary, correspond-ing to a state of moderate sedation. Note that a responselimited to re ﬂex withdrawal from a painful stimulus is
+not considered a purposeful response and thus repre-sents a state of general anesthesia.
+All patients undergoing sedation/analgesia should be
+monitored by pulse oximetry with appropriate alarms. Ifavailable, the variable pitch “beep, ”which gives a con-
+tinuous audible indication of the oxygen saturation read-ing, may be helpful. In addition, ventilatory functionshould be continually monitored by observation or aus-cultation. Monitoring of exhaled carbon dioxide shouldbe considered for all patients receiving deep sedationand for patients whose ventilation cannot be directlyobserved during moderate sedation. When possible,blood pressure should be determined before sedation/analgesia is initiated. Once sedation –analgesia is estab-
+lished, blood pressure should be measured at 5-minintervals during the procedure, unless such monitoringinterferes with the procedure ( e.g., pediatric magnetic
+resonance imaging, where stimulation from the bloodpressure cuff could arouse an appropriately sedated pa-tient). Electrocardiographic monitoring should be usedin all patients undergoing deep sedation. It should alsobe used during moderate sedation in patients with sig-niﬁcant cardiovascular disease or those who are under-
+going procedures where dysrhythmias are anticipated.
+Recording of Monitored Parameters
+The literature is silent regarding the bene ﬁts of con-
+temporaneous recording of patients ’level of conscious-
+ness, respiratory function, or hemodynamics. Consultantopinion agrees with the use of contemporaneous record-ing for moderate sedation and strongly agrees with itsuse for patients undergoing deep sedation. It is theconsensus of the Task Force that, unless technicallyprecluded ( e.g., uncooperative or combative patient),
+vital signs and respiratory variables should be recordedbefore initiating sedation/analgesia, after administration1008 PRACTICE GUIDELINES
+Anesthesiology, V 96, No 4, Apr 2002
+of sedative –analgesic medications, at regular intervals
+during the procedure, on initiation of recovery, andimmediately before discharge. It is the opinion of theTask Force that contemporaneous recording (either au-tomatic or manual) of patient data may disclose trendsthat could prove critical in determining the developmentor cause of adverse events. In addition, manual recordingensures that an individual caring for the patient is awareof changes in patient status in a timely fashion.
+Recommendations. For both moderate and deep se-
+dation, patients ’level of consciousness, ventilatory and
+oxygenation status, and hemodynamic variables shouldbe assessed and recorded at a frequency that depends onthe type and amount of medication administered, thelength of the procedure, and the general condition ofthe patient. At a minimum, this should be: (1) before thebeginning of the procedure; (2) after administration ofsedative –analgesic agents; (3) at regular intervals during
+the procedure, (4) during initial recovery; and (5) justbefore discharge. If recording is performed automati-cally, device alarms should be set to alert the care teamto critical changes in patient status.
+Availability of an Individual Responsible for
+Patient MonitoringAlthough the literature is silent on this issue, the Task
+Force recognizes that it may not be possible for theindividual performing a procedure to be fully cognizantof the patient ’s condition during sedation/analgesia. For
+moderate sedation, the consultants agree that the avail-ability of an individual other than the person performingthe procedure to monitor the patient ’s status improves
+patient comfort and satisfaction and that risks are re-duced. For deep sedation, the consultants strongly agreewith these contentions. During moderate sedation, theconsultants strongly agree that the individual monitoringthe patient may assist the practitioner with interruptibleancillary tasks of short duration; during deep sedation,the consultants agree that this individual should have noother responsibilities.
+Recommendation. A designated individual, other
+than the practitioner performing the procedure, shouldbe present to monitor the patient throughout proce-dures performed with sedation/analgesia. During deepsedation, this individual should have no other responsi-bilities. However, during moderate sedation, this individ-ual may assist with minor, interruptible tasks once thepatient ’s level of sedation –analgesia and vital signs have
+stabilized, provided that adequate monitoring for thepatient ’s level of sedation is maintained.
+Training of Personnel
+Although the literature is silent regarding the effective-
+ness of training on patient outcomes, the consultantsstrongly agree that education and training in the phar-macology of agents commonly used during sedation –analgesia improves the likelihood of satisfactory sedation
+and reduces the risk of adverse outcomes from eithermoderate or deep sedation. Speci ﬁc concerns may in-
+clude: (1) potentiation of sedative-induced respiratorydepression by concomitantly administered opioids; (2)inadequate time intervals between doses of sedative oranalgesic agents, resulting in a cumulative overdose; and(3) inadequate familiarity with the role of pharmacologicantagonists for sedative and analgesic agents.
+Because the primary complications of sedation/analge-
+sia are related to respiratory or cardiovascular depres-sion, it is the consensus of the Task Force that theindividual responsible for monitoring the patient shouldbe trained in the recognition of complications associatedwith sedation/analgesia. Because sedation/analgesia con-stitutes a continuum, practitioners administering moder-ate sedation should be able to rescue patients who entera state of deep sedation, whereas those intending toadminister deep sedation should be able to rescue pa-tients who enter a state of general anesthesia. Therefore,the consultants strongly agree that at least one quali ﬁed
+individual trained in basic life support skills (cardiopul-monary resuscitation, bag-valve-mask ventilation) shouldbe present in the procedure room during both moderateand deep sedation. In addition, the consultants stronglyagree with the immediate availability (1 –5 min away) of
+an individual with advanced life support skills ( e.g., tra-
+cheal intubation, de ﬁbrillation, use of resuscitation med-
+ications) for moderate sedation and in the procedureroom itself for deep sedation.
+Recommendations. Individuals responsible for pa-
+tients receiving sedation –analgesia should understand
+the pharmacology of the agents that are administered, aswell as the role of pharmacologic antagonists for opioidsand benzodiazepines. Individuals monitoring patients re-ceiving sedation/analgesia should be able to recognizethe associated complications. At least one individualcapable of establishing a patent airway and positive pres-sure ventilation, as well as a means for summoningadditional assistance, should be present whenever seda-tion–analgesia is administered. It is recommended that
+an individual with advanced life support skills be imme-diately available (within 5 min) for moderate sedationand within the procedure room for deep sedation.
+Availability of Emergency Equipment
+Although the literature is silent, the consultants
+strongly agree that the ready availability of appropriatelysized emergency equipment reduces risks associatedwith both moderate and deep sedation. The literature isalso silent regarding the need for cardiac de ﬁbrillators
+during sedation/analgesia. During moderate sedation,the consultants agree that a de ﬁbrillator should be im-
+mediately available for patients with both mild ( e.g.,
+hypertension) and severe ( e.g., ischemia, congestive fail-
+ure) cardiovascular disease. During deep sedation, the1009 PRACTICE GUIDELINES
+Anesthesiology, V 96, No 4, Apr 2002
+consultants agree that a de ﬁbrillator should be immedi-
+ately available for all patients.
+Recommendations. Pharmacologic antagonists as
+well as appropriately sized equipment for establishing apatent airway and providing positive pressure ventila-tion with supplemental oxygen should be present when-ever sedation –analgesia is administered. Suction, ad-
+vanced airway equipment, and resuscitation medicationsshould be immediately available and in good working
+order (Example III). A functional de ﬁbrillator should be
+immediately available whenever deep sedation is admin-istered and when moderate sedation is administered topatients with mild or severe cardiovascular disease.
+Use of Supplemental Oxygen
+The literature supports the use of supplemental oxy-
+gen during moderate sedation and suggests that supple-mental oxygen be used during deep sedation to reducethe frequency of hypoxemia. The consultants agree thatsupplemental oxygen decreases patient risk during mod-erate sedation, while strongly agreeing with this view fordeep sedation.
+Recommendations. Equipment to administer supple-
+mental oxygen should be present when sedation/analge-sia is administered. Supplemental oxygen should be con-sidered for moderate sedation and should beadministered during deep sedation unless speci ﬁcally
+contraindicated for a particular patient or procedure. Ifhypoxemia is anticipated or develops during sedation/analgesia, supplemental oxygen should be administered.
+Combinations of Sedative–Analgesic Agents
+The literature suggests that combining a sedative with
+an opioid provides effective moderate sedation; it isequivocal regarding whether the combination of a sed-ative and an opioid may be more effective than a sedativeor an opioid alone in providing adequate moderate se-dation. For deep sedation, the literature is insuf ﬁcient to
+compare the ef ﬁcacy of sedative –opioid combinations
+with that of a sedative alone. The consultants agree thatcombinations of sedatives and opioids provide satisfac-tory moderate and deep sedation. However, the pub-lished data also suggest that combinations of sedativesand opioids may increase the likelihood of adverse out-comes, including ventilatory depression and hypoxemia;the consultants were equivocal on this issue for bothmoderate and deep sedation. It is the consensus of theTask Force that ﬁxed combinations of sedative and an-
+algesic agents may not allow the individual componentsof sedation/analgesia to be appropriately titrated to meetthe individual requirements of the patient and procedurewhile reducing the associated risks.
+Recommendations. Combinations of sedative and
+analgesic agents may be administered as appropriate forthe procedure being performed and the condition of thepatient. Ideally, each component should be administeredindividually to achieve the desired effect ( e.g., additional
+analgesic medication to relieve pain; additional sedativemedication to decrease awareness or anxiety). The pro-pensity for combinations of sedative and analgesicagents to cause respiratory depression and airway ob-struction emphasizes the need to appropriately reducethe dose of each component as well as the need tocontinually monitor respiratory function.Example III. Emergency Equipment for Sedation and
+Analgesia
+Appropriate emergency equipment should be available whenever
+sedative or analgesic drugs capable of causing cardiorespiratorydepression are administered. The lists below should be used as aguide, which should be modi ﬁed depending on the individual
+practice circumstances. Items in brackets are recommended wheninfants or children are sedated.
+Intravenous equipment
+GlovesTourniquetsAlcohol wipesSterile gauze padsIntravenous catheters [24-22-gauge]Intravenous tubing [pediatric “microdrip ”(60 drops/ml)]
+Intravenous ﬂuid
+Assorted needles for drug aspiration, intramuscular injection
+[intraosseous bone marrow needle]
+Appropriately sized syringes [1-ml syringes]Tape
+Basic airway management equipment
+Source of compressed oxygen (tank with regulator or pipeline
+supply with ﬂowmeter)
+Source of suctionSuction catheters [pediatric suction catheters]Yankauer-type suctionFace masks [infant/child]Self-in ﬂating breathing bag-valve set [pediatric]
+Oral and nasal airways [infant/child-sized]Lubricant
+Advanced airway management equipment (for practitioners with
+intubation skills)
+Laryngeal mask airways [pediatric]Laryngoscope handles (tested)Laryngoscope blades [pediatric]Endotracheal tubes
+Cuffed 6.0, 7.0, 8.0 mm ID[Uncuffed 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0 mm ID]
+Stylet (appropriately sized for endotracheal tubes)
+Pharmacologic Antagonists
+NaloxoneFlumazenil
+Emergency medications
+EpinephrineEphedrineVasopressinAtropineNitroglycerin (tablets or spray)AmiodaroneLidocaineGlucose, 50% [10 or 25%]DiphenhydramineHydrocortisone, methylprednisolone, or dexamethasoneDiazepam or midazolam1010 PRACTICE GUIDELINES
+Anesthesiology, V 96, No 4, Apr 2002
+Titration of Intravenous Sedative –Analgesic
+MedicationsThe literature is insuf ﬁcient to determine whether ad-
+ministration of small, incremental doses of intravenoussedative/analgesic drugs until the desired level of seda-tion or analgesia is achieved is preferable to a single dosebased on patient size, weight, or age. The consultantsstrongly agree that incremental drug administration im-proves patient comfort and decreases risks for bothmoderate and deep sedation.
+Recommendations. Intravenous sedative/analgesic
+drugs should be given in small, incremental doses that aretitrated to the desired end points of analgesia and sedation.Sufﬁcient time must elapse between doses to allow the
+effect of each dose to be assessed before subsequent drugadministration. When drugs are administered by nonintra-venous routes ( e.g., oral, rectal, intramuscular, transmuco-
+sal), allowance should be made for the time required fordrug absorption before supplementation is considered. Be-cause absorption may be unpredictable, administration ofrepeat doses of oral medications to supplement sedation/analgesia is not recommended.
+Anesthetic Induction Agents Used for
+Sedation/Analgesia (Propofol, Methohexital,Ketamine)The literature suggests that, when administered by
+non-anesthesiologists, propofol and ketamine can pro-vide satisfactory moderate sedation, and suggests thatmethohexital can provide satisfactory deep sedation.The literature is insuf ﬁcient to evaluate the ef ﬁcacy of
+propofol or ketamine administered by non-anesthesiolo-gists for deep sedation. There is insuf ﬁcient literature to
+determine whether moderate or deep sedation withpropofol is associated with a different incidence of ad-verse outcomes than similar levels of sedation with mi-dazolam. The consultants are equivocal regardingwhether use of these medications affects the likelihoodof producing satisfactory moderate sedation, whileagreeing that using them increases the likelihood ofsatisfactory deep sedation. However, the consultantsagree that avoiding these medications decreases the like-lihood of adverse outcomes during moderate sedationand are equivocal regarding their effect on adverse out-comes during deep sedation.
+The Task Force cautions practitioners that methohexi-
+tal and propofol can produce rapid, profound decreasesin level of consciousness and cardiorespiratory function,potentially culminating in a state of general anesthesia.The Task Force notes that ketamine also produces dose-related decreases in level of consciousness, culminatingin general anesthesia. Although it may be associated withless cardiorespiratory depression than other sedatives,airway obstruction, laryngospasm, and pulmonary aspi-ration may still occur with ketamine. Furthermore, be-cause of its dissociative properties, some of the usualsigns of depth of sedation may not apply ( e.g., the pa-
+tient’s eyes may be open while in a state of deep seda-
+tion or general anesthesia). The Task Force also notesthat there are no speci ﬁc pharmacologic antagonists for
+any of these medications.
+Recommendations. Even if moderate sedation is in-
+tended, patients receiving propofol or methohexital byany route should receive care consistent with that re-quired for deep sedation. Accordingly, practitioners ad-ministering these drugs should be quali ﬁed to rescue
+patients from any level of sedation, including generalanesthesia. Patients receiving ketamine should be caredfor in a manner consistent with the level of sedation that
+is achieved.
+Intravenous Access
+Published literature is equivocal regarding the relative
+efﬁcacy of sedative –analgesic agents administered intra-
+venously as compared with those administered by non-intravenous routes to achieve moderate sedation; theliterature is insuf ﬁcient on this issue for deep sedation.
+The literature is equivocal regarding the comparativesafety of these routes of administration for moderatesedation and is insuf ﬁcient for deep sedation. The con-
+sultants strongly agree that intravenous administration ofsedative and analgesic medications increases the likeli-hood of satisfactory sedation for both moderate anddeep sedation. They also agree that it decreases thelikelihood of adverse outcomes. For both moderate anddeep sedation, when sedative –analgesic medications are
+administered intravenously, the consultants stronglyagree with maintaining intravenous access until patientsare no longer at risk for cardiovascular or respiratorydepression, because it increases the likelihood of satis-factory sedation and decreases the likelihood of adverseoutcomes. In situations where sedation is initiated bynonintravenous routes ( e.g., oral, rectal, intramuscular),
+the need for intravenous access is not suf ﬁciently ad-
+dressed in the literature. However, initiation of intrave-nous access after the initial sedation takes effect allowsadditional sedative –analgesic and resuscitation drugs to
+be administered if necessary.
+Recommendations. In patients receiving intravenous
+medications for sedation/analgesia, vascular accessshould be maintained throughout the procedure anduntil the patient is no longer at risk for cardiorespiratorydepression. In patients who have received sedation –
+analgesia by nonintravenous routes, or whose intrave-nous line has become dislodged or blocked, practitio-ners should determine the advisability of establishing orreestablishing intravenous access on a case-by-case basis.In all instances, an individual with the skills to establishintravenous access should be immediately available.1011 PRACTICE GUIDELINES
+Anesthesiology, V 96, No 4, Apr 2002
+Reversal Agents
+Speci ﬁc antagonist agents are available for the opioids
+(e.g., naloxone) and benzodiazepines ( e.g.,ﬂumazenil).
+The literature supports the ability of naloxone to reverseopioid-induced sedation and respiratory depression.Practitioners are cautioned that acute reversal of opioid-induced analgesia may result in pain, hypertension,tachycardia, or pulmonary edema. The literature sup-ports the ability of ﬂumazenil to antagonize benzodiaz-
+epine-induced sedation and ventilatory depression in pa-tients who have received benzodiazepines alone or incombination with an opioid. The consultants stronglyagree that the immediate availability of reversal agentsduring both moderate and deep sedation is associatedwith decreased risk of adverse outcomes. It is the con-sensus of the Task Force that respiratory depressionshould be initially treated with supplemental oxygenand, if necessary, positive pressure ventilation by mask.The consultants disagree that the use of sedation regi-mens that are likely to require routine reversal withﬂumazenil or naloxone improves the quality of sedation
+or reduces the risk of adverse outcomes.
+Recommendations. Speci ﬁc antagonists should be
+available whenever opioid analgesics or benzodiazepinesare administered for sedation/analgesia. Naloxone orﬂumazenil may be administered to improve spontaneous
+ventilatory efforts in patients who have received opioidsor benzodiazepines, respectively. This may be especiallyhelpful in cases where airway control and positive pres-sure ventilation are dif ﬁcult. Before or concomitantly
+with pharmacologic reversal, patients who become hy-poxemic or apneic during sedation/analgesia should: (1)be encouraged or stimulated to breathe deeply; (2) re-ceive supplemental oxygen; and (3) receive positivepressure ventilation if spontaneous ventilation is inade-quate. After pharmacologic reversal, patients should beobserved long enough to ensure that sedation and car-diorespiratory depression does not recur once the effectof the antagonist dissipates. The use of sedation regi-mens that include routine reversal of sedative or analge-sic agents is discouraged.
+Recovery Care
+Patients may continue to be at signi ﬁcant risk for de-
+veloping complications after their procedure is com-pleted. Decreased procedural stimulation, delayed drugabsorption following nonintravenous administration,and slow drug elimination may contribute to residualsedation and cardiorespiratory depression during therecovery period. Examples include intramuscular meper-idine –promethazine –chlorpromazine mixtures and oral
+or rectal chloral hydrate. When sedation –analgesia is
+administered to outpatients, it is likely that there will beno medical supervision once the patient leaves the med-ical facility. Although there is not suf ﬁcient literature to
+examine the effects of postprocedure monitoring onpatient outcomes, the consultants strongly agree that
+continued observation, monitoring, and predetermineddischarge criteria decrease the likelihood of adverse out-comes for both moderate and deep sedation. It is theconsensus of the Task Force that discharge criteriashould be designed to minimize the risk for cardiorespi-ratory depression after patients are released from obser-vation by trained personnel.
+Recommendations. Following sedation/analgesia,
+patients should be observed in an appropriately staffed
+Example IV. Recovery and Discharge Criteria after Sedation
+and Analgesia
+Each patient-care facility in which sedation –analgesia is
+administered should develop recovery and discharge criteriathat are suitable for its speci ﬁc patients and procedures. Some
+of the basic principles that might be incorporated in thesecriteria are enumerated below.
+General principles
+1. Medical supervision of recovery and discharge after
+moderate or deep sedation is the responsibility of theoperating practitioner or a licensed physician.
+2. The recovery area should be equipped with, or have direct
+access to, appropriate monitoring and resuscitationequipment.
+3. Patients receiving moderate or deep sedation should be
+monitored until appropriate discharge criteria are satis ﬁed.
+The duration and frequency of monitoring should beindividualized depending on the level of sedation achieved,the overall condition of the patient, and the nature of theintervention for which sedation/analgesia was administered.Oxygenation should be monitored until patients are nolonger at risk for respiratory depression.
+4. Level of consciousness, vital signs, and oxygenation (when
+indicated) should be recorded at regular intervals.
+5. A nurse or other individual trained to monitor patients and
+recognize complications should be in attendance untildischarge criteria are ful ﬁlled.
+6. An individual capable of managing complications ( e.g.,
+establishing a patent airway and providing positive pressureventilation) should be immediately available until dischargecriteria are ful ﬁlled.
+Guidelines for discharge
+1. Patients should be alert and oriented; infants and patients
+whose mental status was initially abnormal should havereturned to their baseline status. Practitioners and parentsmust be aware that pediatric patients are at risk for airwayobstruction should the head fall forward while the child issecured in a car seat.
+2. Vital signs should be stable and within acceptable limits.3. Use of scoring systems may assist in documentation of
+ﬁtness for discharge.
+4. Suf ﬁcient time (up to 2 h) should have elapsed after the last
+administration of reversal agents (naloxone, ﬂumazenil) to
+ensure that patients do not become resedated after reversaleffects have worn off.
+5. Outpatients should be discharged in the presence of a
+responsible adult who will accompany them home and be ableto report any postprocedure complications.
+6. Outpatients and their escorts should be provided with
+written instructions regarding postprocedure diet,medications, activities, and a phone number to be called incase of emergency.1012 PRACTICE GUIDELINES
+Anesthesiology, V 96, No 4, Apr 2002
+and equipped area until they are near their baseline level
+of consciousness and are no longer at increased risk forcardiorespiratory depression. Oxygenation should bemonitored periodically until patients are no longer at riskfor hypoxemia. Ventilation and circulation should bemonitored at regular intervals until patients are suitablefor discharge. Discharge criteria should be designed tominimize the risk of central nervous system or cardiore-spiratory depression after discharge from observation bytrained personnel (Example IV).
+Special Situations
+The literature suggests and the Task Force members
+concur that certain types of patients are at increased riskfor developing complications related to sedation/analge-sia unless special precautions are taken. In patients withsigniﬁcant underlying medical conditions ( e.g., extremes
+of age; severe cardiac, pulmonary, hepatic, or renal dis-ease; pregnancy; drug or alcohol abuse) the consultantsagree that preprocedure consultation with an appropri-ate medical specialist ( e.g., cardiologist, pulmonologist)
+decreases the risks associated with moderate sedationand strongly agree that it decreases the risks associatedwith deep sedation. In patients with signi ﬁcant sedation-
+related risk factors ( e.g., uncooperative patients, morbid
+obesity, potentially dif ﬁcult airway, sleep apnea), the
+consultants are equivocal regarding whether preproce-dure consultation with an anesthesiologist increases thelikelihood of satisfactory moderate sedation, while agree-ing that it decreases adverse outcomes. The consultantsstrongly agree that preprocedure consultation increasesthe likelihood of satisfactory outcomes while decreasingrisks associated with deep sedation. The Task Forcenotes that in emergency situations, the bene ﬁts of await-
+ing preprocedure consultations must be weighed againstthe risk of delaying the procedure.
+For moderate sedation, the consultants are equivocal
+regarding whether the immediate availability of an indi-vidual with postgraduate training in anesthesiology in-creases the likelihood of a satisfactory outcome or de-creases the associated risks. For deep sedation, theconsultants agree that the immediate availability of suchan individual improves the likelihood of satisfactory se-dation and that it will decrease the likelihood of adverseoutcomes.
+Recommendations. Whenever possible, appropriate
+medical specialists should be consulted before adminis-tration of sedation to patients with signi ﬁcant underlying
+conditions. The choice of specialists depends on thenature of the underlying condition and the urgency ofthe situation. For severely compromised or medicallyunstable patients ( e.g., anticipated dif ﬁcult airway, se-vere obstructive pulmonary disease, coronary artery dis-
+ease, or congestive heart failure), or if it is likely thatsedation to the point of unresponsiveness will be neces-sary to obtain adequate conditions, practitioners whoare not trained in the administration of general anesthe-sia should consult an anesthesiologist.
+References
+1. Practice Guidelines for sedation and analgesia by non-anesthesiologists: A
+report by the American Society of Anesthesiologists Task Force on Sedation andAnalgesia by Non-Anesthesiologists. A
+NESTHESIOLOGY 1996; 84:459 –71
+2. Practice Guidelines for preoperative fasting and the use of pharmacologic
+agents to reduce the risk of pulmonary aspiration: application to healthy patientsundergoing elective procedures: A report by the American Society of Anesthesi-ologist Task Force on Preoperative Fasting. A
+NESTHESIOLOGY 1999; 90:896 –905
+Appendix I: Methods and Analyses †
+The scienti ﬁc assessment of these Guidelines was based on the
+following statements or evidence linkages. These linkages representdirectional statements about relationships between sedation/analgesiainterventions by non-anesthesiologists and clinical outcomes.
+1. A preprocedure patient evaluation, (i.e., history, physical exam-
+ination, laboratory evaluation, consultation)
+a. Improves clinical ef ﬁcacy ( i.e., satisfactory sedation and
+analgesia)
+b. Reduces adverse outcomes
+2. Preprocedure preparation of the patient ( e.g., counseling, fasting)
+a. Improves clinical ef ﬁcacy ( i.e., satisfactory sedation and
+analgesia)
+b. Reduces adverse outcomes
+3. Patient monitoring ( i.e., level of consciousness, pulmonary ven-
+tilation [observation, auscultation], oxygenation [pulse oxime-try], automated apnea monitoring [capnography], hemodynam-ics [electrocardiogram, blood pressure, heart rate])
+a. Improves clinical ef ﬁcacy ( i.e., satisfactory sedation and
+analgesia)
+b. Reduces adverse outcomes
+4. Contemporaneous recording of monitored parameters ( e.g., level
+of consciousness, respiratory function, hemodynamics) at regu-lar intervals in patients receiving sedation or analgesia
+a. Improves clinical ef ﬁcacy ( i.e., satisfactory sedation and
+analgesia)
+b. Reduces adverse outcomes
+5. Availability of an individual who is dedicated solely to patient
+monitoring and safety
+a. Improves clinical ef ﬁcacy ( i.e., satisfactory sedation and
+analgesia)
+b. Reduces adverse outcomes
+6a. Education and training of sedation and analgesia providers in the
+pharmacology of sedation –analgesia agents
+a. Improves clinical ef ﬁcacy ( i.e., satisfactory sedation and
+analgesia)
+b. Reduces adverse outcomes
+6b. The presence of an individual(s) capable of establishing a patent
+airway, positive pressure ventilation, and resuscitation ( i.e., ad-
+vanced life-support skills) during a procedure
+a. Improves clinical ef ﬁcacy ( i.e., satisfactory sedation and
+analgesia)
+b. Reduces adverse outcomes
+7. Availability of appropriately sized emergency and airway equip-
+ment ( e.g., laryngeal mask airway, de ﬁbrillators)
+a. Improves clinical ef ﬁcacy ( i.e., satisfactory sedation and
+analgesia)
+†Readers with special interest in the statistical analysis used in establishing
+these Guidelines can receive further information by writing to the AmericanSociety of Anesthesiologists: 520 N. Northwest Highway, Park Ridge, Illinois60068-2573.1013 PRACTICE GUIDELINES
+Anesthesiology, V 96, No 4, Apr 2002
+b. Reduces adverse outcomes
+8. The use of supplemental oxygen during procedures performed
+with sedation or analgesia
+a. Improves clinical ef ﬁcacy ( i.e., satisfactory sedation and
+analgesia)
+b. Reduces adverse outcomes
+9. Use of sedative agents combined with analgesic agents ( e.g.,
+sedative –analgesic cocktails, ﬁxed combinations of sedatives and
+analgesics, titrated combinations of sedatives and analgesics)
+a. Improves clinical ef ﬁcacy ( i.e., satisfactory sedation and
+analgesia)
+b. Reduces adverse outcomes
+10. Titration of intravenous sedative –analgesic medications to
+achieve the desired effect
+a. Improves clinical ef ﬁcacy ( i.e., satisfactory sedation and
+analgesia)
+b. Reduces adverse outcomes
+11. Intravenous sedation –analgesic medications speci ﬁcally designed
+to be used for general anesthesia ( i.e., methohexital, propofol,
+and ketamine)
+a. Improves clinical ef ﬁcacy ( i.e., satisfactory sedation and
+analgesia)
+b. Reduces adverse outcomes
+12a. Administration of sedative –analgesic agents by the intravenous
+route
+a. Improves clinical ef ﬁcacy ( i.e., satisfactory sedation and
+analgesia)
+b. Reduces adverse outcomes
+12b. Maintaining or establishing intravenous access during sedation or
+analgesia until the patient is no longer at risk for cardiorespira-tory depression
+a. Improves clinical ef ﬁcacy ( i.e., satisfactory sedation and
+analgesia)
+b. Reduces adverse outcomes
+13. Availability of reversal agents (naloxone and ﬂumazenil only) for
+the sedative or analgesic agents being administered
+a. Improves clinical ef ﬁcacy ( i.e., satisfactory sedation and
+analgesia)
+b. Reduces adverse outcomes
+14. Postprocedural recovery observation, monitoring, and predeter-
+mined discharge criteria reduce adverse outcomes.
+15. Special regimens ( e.g., preprocedure consultation, specialized
+monitoring, special sedatives –techniques) for patients with spe-
+cial problems ( e.g., uncooperative patients; extremes of age;
+severe cardiac, pulmonary, hepatic, renal, or central nervoussystem disease; morbid obesity; sleep apnea; pregnancy; drug oralcohol abuse; emergency –unprepared patients; metabolic and
+airway dif ﬁculties)
+a. Improves clinical ef ﬁcacy ( i.e., satisfactory sedation and
+analgesia)
+b. Reduces adverse outcomes
+Scienti ﬁc evidence was derived from aggregated research literature
+and from surveys, open presentations, and other consensus-orientedactivities. For purposes of literature aggregation, potentially relevantclinical studies were identi ﬁedviaelectronic and manual searches of
+the literature. The electronic search covered a 36-yr period from 1966through 2001. The manual search covered a 44-yr period from 1958through 2001. More than 3,000 citations were initially identi ﬁed, yield-
+ing a total of 1,876 nonoverlapping articles that addressed topicsrelated to the 15 evidence linkages. After review of the articles, 1,519studies did not provide direct evidence and were subsequently elimi-nated. A total of 357 articles contained direct linkage-related evidence.
+A directional result for each study was initially determined by a
+literature count, classifying each outcome as either supporting a link-age, refuting a linkage, or neutral. The results were then summarized toobtain a directional assessment of support for each linkage. Literaturepertaining to three evidence linkages contained enough studies withwell-de ﬁned experimental designs and statistical information to con-
+duct formal metaanalyses. These three linkages were: linkage 8 [sup-plemental oxygen], linkage 9 [benzodiazepines combined with opioidsvs.benzodiazepines alone], and linkage 13 [naloxone for antagonism
+of opioids, ﬂumazenil for antagonism of benzodiazepines, and ﬂuma-
+zenil for antagonism of benzodiazepine-opioid combinations].
+Combined probability tests were applied to continuous data, and an
+odds-ratio procedure was applied to dichotomous study results. Twocombined probability tests were employed as follows: (1) the Fishercombined test, producing chi-square values based on logarithmic trans-formations of the reported Pvalues from the independent studies; and
+(2) the Stouffer combined test, providing weighted representation ofthe studies by weighting each of the standard normal deviates by thesize of the sample. An odds-ratio procedure based on the Mantel –
+Haenszel method for combining study results using 2 /H110032 tables was
+used with outcome frequency information. An acceptable signi ﬁcance
+level was set at P/H110210.01 (one-tailed), and effect size estimates were
+calculated. Tests for heterogeneity of the independent studies wereconducted to assure consistency among the study results. Der Simo-nian-Laird random-effects odds ratios were calculated when signi ﬁcant
+heterogeniety was found. To assess potential publishing bias, a “fail-
+safe N ”value was calculated for each combined probability test. No
+search for unpublished studies was conducted, and no reliability testsfor locating research results were performed.
+Metaanalytic results are reported in table 2. The following outcomes
+were found to be signi ﬁcant for combined probability tests: (1) oxygen
+saturation , linkage 8 (supplemental oxygen); (2) sedation recovery ,
+linkage 13 (naloxone for antagonism of opioids and ﬂumazenil for
+antagonism of benzodiazepine –opioid combinations); (3) psychomo-
+tor recovery , linkage 13 ( ﬂumazenil for antagonism of benzodiaz-
+epines); and (4) respiratory –ventilatory recovery , linkage 13 (nalox-
+one for antagonism of opioids, ﬂumazenil for antagonism of
+benzodiazepines, and ﬂumazenil for antagonism of benzodiazepine –
+opioid combinations). To be considered acceptable ﬁndings of signif-
+icance, both the Fisher and weighted Stouffer combined test resultsmust agree. Weighted effect size values for these linkages ranged fromr/H110050.19 to 0.80, representing moderate to high effect size estimates.
+Mantel –Haenszel odds ratios were signi ﬁcant for the following out-
+comes: (1) hypoxemia , linkage 8 (supplemental oxygen) and linkage 9
+(benzodiazepine –opioid combinations vs.benzodiazepines alone); (2)
+sedation recovery , linkage 13 ( ﬂumazenil for antagonism of benzodi-
+azepines); and (3) recall of procedure , linkage 9 (benzodiazepine –
+opioid combinations). To be considered acceptable ﬁndings of signif-
+icance, Mantel –Haenszel odds ratios must agree with combined test
+results when both types of data are assessed.
+Interobserver agreement among Task Force members and two meth-
+odologists was established by interrater reliability testing. Agreementlevels using a Kappa (
+/H9260) statistic for two-rater agreement pairs were as
+follows: (1) type of study design, /H9260/H110050.25–0.64; (2) type of analysis,
+/H9260/H110050.36–0.83; (3) evidence linkage assignment, /H9260/H110050.78–0.89; and
+(4) literature inclusion for database, /H9260/H110050.71–1.00. Three-rater chance-
+corrected agreement values were: (1) study design, Sav /H110050.45, Var
+(Sav)/H110050.012; (2) type of analysis, Sav /H110050.51, Var (Sav) /H110050.015; (3)
+linkage assignment, Sav /H110050.81 Var (Sav) /H110050.006; (4) literature data-
+base inclusion, Sav /H110050.84 Var (Sav) /H110050.046. These values represent
+moderate to high levels of agreement.
+The ﬁndings of the literature analyses were supplemented by the
+opinions of Task Force members as well as by surveys of the opinionsof a panel of consultants drawn from the following specialties wheresedation and analgesia are commonly administered: Anesthesiology, 8;Cardiology, 2; Dental Anesthesiology, 3; Dermatology, 2; EmergencyMedicine, 5; Gastroenterology, 9; Intensive Care, 1; Oral and Maxillo-facial Surgery, 5; Pediatrics, 1; Pediatric Dentistry, 3; Pharmacology, 1;Pulmonary Medicine, 3; Radiology, 3; Surgery, 3; and Urology, 2. Therate of return for this Consultant survey was 78% (n /H1100551/65). Median
+agreement scores from the Consultants regarding each linkage arereported in table 3.1014 PRACTICE GUIDELINES
+Anesthesiology, V 96, No 4, Apr 2002
+For moderate sedation, Consultants were supportive of all of the
+linkages with the following exceptions: linkage 3 (electrocardiogrammonitoring and capnography), linkage 9 (sedatives combined withanalgesics for reducing adverse outcomes), linkage 11 (avoiding gen-eral anesthesia sedatives for improving satisfactory sedation), linkage13b (routine administration of naloxone), linkage 13c (routine admin-istration of ﬂumazenil), and linkage 15b (anesthesiologist consultation
+for patients with medical conditions to provide satisfactory moderatesedation). In addition, Consultants were equivocal regarding whetherpostgraduate training in anesthesiology improves moderate sedation orreduces adverse outcomes.
+For deep sedation, Consultants were supportive of all of the linkages
+with the following exceptions: linkage 9 (sedatives combined withanalgesics for reducing adverse outcomes), linkage 11 (avoiding gen-eral anesthesia sedatives), linkage 13b (routine administration of nal-oxone), and linkage 13c (routine administration of ﬂumazenil).
+The Consultants were asked to indicate which, if any, of the evi-
+dence linkages would change their clinical practices if the updatedGuidelines were instituted. The rate of return was 57% (n /H1100537/65).
+The percent of responding Consultants expecting no change associ-ated with each linkage were as follows: preprocedure patient evalua-tion, 94%; preprocedure patient preparation, 91%; patient monitoring,
+80%; contemporaneous recording of monitored parameters, 91%; avail-ability of individual dedicated solely to patient monitoring and safety,91%; education and training of sedation –analgesia providers in phar-
+macology, 89%; presence of an individual(s) capable of establishing apatent airway, 91%; availability of appropriately sized emergency andairway equipment, 94%; use of supplemental oxygen during proce-dures, 100%; use of sedative agents combined with analgesic agents,91%; titration of sedatives –analgesics, 97%; intravenous sedation –anal-
+gesia with agents designed for general anesthesia, 77%; administrationof sedative –analgesic agents by the intravenous route, 94%; maintain-
+ing or establishing intravenous access, 97%; availability –use of ﬂuma-
+zenil, 94%; availability –use of naloxone, 94%; observation and moni-
+toring during recovery, 89%; special care for patients with underlyingmedical problems, 91%; and special care for uncooperative patients,94%. Seventy-four percent of the respondents indicated that the Guide-lines would have no effect on the amount of time spent on a typicalcase. Nine respondents (26%) indicated that there would be an in-crease in the amount of time they would spend on a typical case withthe implementation of these Guidelines. The amount of increased timeanticipated by these respondents ranged from 1 to 60 min.Table 2. Meta-analysis Summary
+LinkagesNo.
+StudiesFisher
+Chi-
+square PWeighted
+Stouffer Zc PEffect
+SizeMantel-
+Haenszel Chi-
+square POdds
+RatioHeterogeneity
+Signi ﬁcance Effect Size
+Supplemental oxygen
+Oxygen saturation* 5 71.40 /H110210.001 5.44 /H110210.001 0.40 —— — /H110220.90 (NS) /H110220.50 (NS)
+Hypoxemia* 7 —— — — — 44.15 /H110210.001 0.20 — /H110220.50 (NS)
+Sedatives/Opioids combined:
+Benzodiazepines /H11001opioids
+Sedation ef ﬁcacy 7 —— — — — 3.79 /H110220.05 (NS) 1.87 §— /H110210.01
+Recall of procedure 6 —— — — — 18.47 /H110210.001 2.18 §— /H110210.01
+Hypoxemia 5 —— — — — 11.78 /H110210.001 2.37 — /H110220.05 (NS)
+Naloxone for opioids
+Sedation recovery at 5 min*, †,‡ 5 38.36 /H110210.001 3.13 /H110210.001 0.23 —— — /H110220.30 (NS) /H110220.02 (NS)
+Respiration/ventilation*, †,‡ 5 38.72 /H110210.001 3.97 /H110210.001 0.33 —— — /H110220.10 (NS) /H110210.001
+Flumazenil for benzodiazepines
+Sedation recovery at 5 min 6 —— — — — 104.76 /H110210.001 8.15 — /H110220.10 (NS)
+Psychomotor recovery
+at 15 min 5 41.80 /H110210.001 1.69 0.046 (NS) 0.20 —— — /H110220.70 (NS) /H110220.50 (NS)
+at 30 min 5 43.02 /H110210.001 3.36 /H110210.001 0.19 —— — /H110220.90 (NS) /H110220.50 (NS)
+Respiration/ventilation †,‡ 6 53.25 /H110210.001 5.03 /H110210.001 0.80 —— — /H110210.01 /H110210.001
+Flumazenil for benzodiazepine-opioid
+combinations
+Sedation recovery at 5 min 5 72.12 /H110210.001 6.76 /H110210.001 0.37 —— — /H110210.001 /H110210.001
+Respiration/ventilation †,‡ 6 55.06 /H110210.001 5.11 /H110210.001 0.25 —— — /H110220.10 (NS) /H110210.001
+Nausea/vomiting 5 —— — — — 0.28 /H110220.80 (NS) 1.22 — /H110220.70 (NS)
+* Nonrandomized comparative studies are included; †Studies in which anesthesiologist administered benzodiazepines, opioids, or reversal agents are included;
+‡Studies in which subjects consist of intensive care unit patients, postoperative patients, or volunteers with no procedures are included.
+§Der Simonian-Laird random-effects odds ratio.1015 PRACTICE GUIDELINES
+Anesthesiology, V 96, No 4, Apr 2002
+Table 3. Consultant Survey Summary
+Intervention or Linkage OutcomeModerate Sedation Deep Sedation
+NMedian* or
+Percent NMedian* or
+Percent
+1. Preprocedure patient evaluation Satisfactory sedation 51 5 51 5
+Adverse outcomes 51 5 51 5
+2. Preprocedure fasting Satisfactory sedation 51 4 51 5
+Adverse outcomes 51 4 51 5
+3. Monitoring
+a. Level of consciousness Satisfactory sedation 51 5 49 5
+Adverse outcomes 51 5 50 5
+b. Breathing (observation/auscultation) Satisfactory sedation 51 5 49 5
+Adverse outcomes 51 5 50 5
+c. Pulse oximetry Satisfactory sedation 51 5 50 5
+Adverse outcomes 51 5 50 5
+d. Blood pressure/heart rate Satisfactory sedation 50 4 49 5
+Adverse outcomes 50 5 49 5
+e. Electrocardiogram Satisfactory sedation 51 3 50 4
+Adverse outcomes 51 3 49 5
+f. Capnography Satisfactory sedation 50 3 48 4
+Adverse outcomes 50 3 49 4
+4. Contemporaneous recording Satisfactory sedation 51 4 50 5
+Adverse outcomes 51 4 50 5
+5. Individual for patient monitoring Satisfactory sedation 49 4 48 5
+Adverse outcomes 49 4 48 5
+6a. Education and training Satisfactory sedation 50 5 49 5
+Adverse outcomes 50 5 49 5
+6b. Individual with basic life support skills present in room 50 5 49 56c. Availability of advanced life support skills
+In the procedure room 2 4.2% 39 79.6%Immediate vicinity (1 –5 min) 27 56.2% 8 16.3%
+Same building (5 –10 min) 14 29.2% 2 4.1%
+Outside provider 5 10.4% 0 0.0%
+7. Emergency intravenous and airway equipment Adverse outcomes 51 5 49 58. Supplemental oxygen Adverse outcomes 50 4 49 59. Sedatives combined with analgesics Satisfactory sedation 50 4 49 4
+Adverse outcomes 50 3 49 3
+10. Titration Satisfactory sedation 51 5 50 5
+Adverse outcomes 51 5 50 5
+11. Avoiding general anesthetic sedatives Satisfactory sedation 50 3 49 2
+Adverse outcomes 50 4 49 3
+12a. Intravenous sedatives Satisfactory sedation 51 5 50 5
+Adverse outcomes 51 4 50 4
+12b. Intravenous access Satisfactory sedation 50 4 49 5
+Adverse outcomes 50 5 49 5
+13a. Immediate availability of naloxone or ﬂumazenil Adverse outcomes 51 5 51 5
+13b. Routine administration of naloxone Satisfactory sedation 37 2 37 2
+Adverse outcomes 37 2 37 2
+13c. Routine administration of ﬂumazenil Satisfactory sedation 37 1 37 2
+Adverse outcomes 37 2 37 2
+14. Observation, monitoring, and discharge criteria Adverse outcomes 50 5 49 5
+15a. Medical specialist consultation, patients with underlying
+medical conditionsSatisfactory sedation 50 4 49 5
+Adverse outcomes 50 4 49 5
+15b. Anesthesiologist consultation, patients with underlying
+medical conditionsSatisfactory sedation 51 3 50 4
+Adverse outcomes 51 4 50 5
+15c. Anesthesiologist consultation, patients with signi ﬁcant
+sedation risk factorsSatisfactory sedation 51 4 50 5
+Adverse outcomes 51 4 50 5
+16. Postgraduate training in anesthesiology Satisfactory sedation 51 3 50 4
+Adverse outcomes 51 3 50 4
+17. In emergency situations, sedate patients less deeply 51 4 51 5
+* Strongly agree: Median score of 5; Agree: Median score of 4; Equivocal: Median score of 3; Disagree: Median score of 2; Strongly disagree: Median scor eo f1 .1016 PRACTICE GUIDELINES
+Anesthesiology, V 96, No 4, Apr 2002
+Appendix II: Summary of Guidelines ‡
+Except as noted, recommendations apply to both moderate and
+deep sedation.
+1. Preprocedure evaluation
+Relevant history (major organ systems, sedation –anesthesia his-
+tory, medications, allergies, last oral intake)Focused physical examination (to include heart, lungs, airway)Laboratory testing guided by underlying conditions and possibleeffect on patient managementFindings con ﬁrmed immediately before sedation
+2. Patient counseling
+Risks, bene ﬁts, limitations, and alternatives
+3. Preprocedure fasting
+Elective procedures —sufﬁcient time for gastric emptying
+Urgent or emergent situations —potential for pulmonary aspira-
+tion considered in determining target level of sedation, delay ofprocedure, protection of trachea by intubationSee ASA Guidelines for Preoperative Fasting
+2
+4. Monitoring
+(Data to be recorded at appropriate intervals before, during, andafter procedure) Pulse oximetry
+Response to verbal commands when practicalPulmonary ventilation (observation,auscultation)Exhaled carbon dioxide monitoring consideredwhen patients separated from caregiverBlood pressure and heart rate at 5-min intervalsunless contraindicatedElectrocardiograph for patients with signi ﬁcant
+cardiovascular disease
+For deep sedation:
+Response to verbal commands or more profound stimuli unlesscontraindicatedExhaled CO
+2monitoring considered for all patients
+Electrocardiograph for all patients
+5. Personnel
+Designated individual, other than the practitioner performingthe procedure, present to monitor the patient throughout theprocedure
+This individual may assist with minor interruptible tasks oncepatient is stable
+For deep sedation:
+The monitoring individual may not assist with other tasks
+6. Training
+Pharmacology of sedative and analgesic agentsPharmacology of available antagonistsBasic life support skills —present
+Advanced life support skills —within 5 min
+For deep sedation:
+Advanced life support skills in the procedure room
+7. Emergency Equipment
+Suction, appropriately sized airway equipment, means of posi-tive-pressure ventilationIntravenous equipment, pharmacologic antagonists, and basicresuscitative medicationsDeﬁbrillator immediately available for patients with cardiovas-
+cular disease
+For deep sedation:
+Deﬁbrillator immediately available for all patients
+8. Supplemental Oxygen
+Oxygen delivery equipment availableOxygen administered if hypoxemia occurs
+For deep sedation:
+Oxygen administered to all patients unless contraindicated
+9. Choice of Agents
+Sedatives to decrease anxiety, promote somnolenceAnalgesics to relieve pain
+10. Dose Titration
+Medications given incrementally with suf ﬁcient time between
+doses to assess effectsAppropriate dose reduction if both sedatives and analgesicsusedRepeat doses of oral medications not recommended
+11. Use of anesthetic induction agents (methohexital, propofol)
+Regardless of route of administration and intended level ofsedation, patients should receive care consistent with deepsedation, including ability to rescue from unintended generalanesthesia
+12. Intravenous Access
+Sedatives administered intravenously —maintain intravenous
+accessSedatives administered by other routes —case-by-case decision
+Individual with intravenous skills immediately available
+13. Reversal Agents
+Naloxone and ﬂumazenil available whenever opioids or benzo-
+diazepines administered
+14. Recovery
+Observation until patients no longer at risk for cardiorespiratorydepressionAppropriate discharge criteria to minimize risk of respiratory orcardiovascular depression after discharge
+15. Special Situations
+Severe underlying medical problems —consult with appropriate
+specialist if possibleRisk of severe cardiovascular or respiratory compromise or needfor complete unresponsiveness to obtain adequate operatingconditions —consult anesthesiologist
+‡This is a summary of the Guidelines. The body of the document should be
+consulted for complete details.1017 PRACTICE GUIDELINES
+Anesthesiology, V 96, No 4, Apr 2002

@@ -1,0 +1,2417 @@
+Review Article
+Peri-operative ketamine for acute post-operative pain: a
+quantitative and qualitative systematic review (Cochrane
+review)
+R. F. B ELL1,J .B .D AHL2,R .A .M OORE3and E. K ALSO4
+1Pain Clinic, Department of Anaesthesia and Intensive Care, Haukeland University Hospital and Department of Surgical Sciences, University of
+Bergen, Norway,2Department of Anaesthesia and Intensive Care, Glostrup University Hospital, Glostrup, Denmark,3Pain Research, Nuffield
+Department of Anaesthetics, University of Oxford, Oxford Radcliffe Hospitals, The Churchill, Oxford, UK and4Pain Clinic, Department of
+Anaesthesia and Intensive Care Medicine, Helsinki University Central Hospital, Helsinki, Finland
+Background: Post-operative pain management is usually lim-
+ited by adverse effects such as nausea and vomiting. Adjuvant
+treatment with an inexpensive opioid-sparing drug such as
+ketamine may be of value in giving better analgesia with fewer
+adverse effects. The objective of this systematic review was to
+evaluate the effectiveness and tolerability of ketamine adminis-
+tered peri-operatively in the treatment of acute post-operative
+pain in adults.
+Methods: Studies were identified from MEDLINE (1966—2004),
+EMBASE (1980—2004), the Cochrane Library (2004) and by hand
+searching reference lists from review articles and trials. The
+manufacturer of ketamine (Pfizer AS, Lysaker, Norway) pro-
+vided search results from their in-house database, PARDLARS.
+Randomized and controlled trials (RCTs) of adult patients
+undergoing surgery, being treated with peri-operative ketamine,
+placebo or an active control were considered for inclusion.
+Results: Eighteen trials were excluded. Thirty-seven trials were
+included. Twenty-seven out of 37 trials found that peri-operativeketamine reduced rescue analgesic requirements or pain inten-
+sity, or both. Quantitative analysis showed that treatment with
+ketamine reduced 24-h patient-controlled analgesia (PCA) mor-
+phine consumption and post-operative nausea and vomiting
+(PONV). Adverse effects were mild or absent.
+Conclusion: In the first 24 h after surgery, ketamine reduces
+morphine requirements. Ketamine also reduces PONV.
+Adverse effects are mild or absent. These data should be inter-
+preted with caution as the retrieved studies were heterogenous
+and the result of the meta-analysis can not be translated into any
+specific administration regimen with ketamine.
+Accepted for publication 30 April 2005
+Key words: ketamine; post-operative pain; meta-analysis.
+#Acta Anaesthesiologica Scandinavica 49 (2005)
+ADVERSE effects such as nausea and vomiting
+often limit post-operative pain management.
+Adjuvant treatment with opioid-sparing drugs
+such as ketamine may be of value in giving better
+analgesia with fewer adverse effects (1).
+Ketamine is a phencyclidine derivative developed
+in the 1960s as a general anaesthetic. Ketamine
+hydrochloride is given intravenously or intramus-
+cularly for surgical anaesthesia. Ketamine is also
+used as an adjuvant to opioids in the treatment of
+refractory pain in cancer patients (2), in the treat-
+ment of neuropathic pain (3), and in the treatment of
+acute post-operative pain (1), although not licensed
+for these conditions. For post-operative pain, keta-
+mine may be administered before incision, after
+incision, or in the post-operative period, and is
+usually given as an adjuvant to systemic opioid,for example PCA (patient-controlled analgesia).
+Routes of administration include intravenous,
+subcutaneous, epidural, transdermal and intra-
+articular. Ketamine was previously only available
+as a racemic mixture of two enantiomers, S( þ) and
+R(—) ketamine. The S( þ) isomer has been shown to
+be approximately twice as potent as the racemic
+mixture (4). S( þ) ketamine has recently been
+approved for clinical use in countries such as
+Finland and Germany. Clinical use of ketamine is
+limited due to psychotomimetic adverse effects such
+as hallucinations and bad dreams. Other common
+adverse effects are dizziness, blurred vision, and
+nausea and vomiting.
+Opioids are traditionally used as a part of general
+anaesthesia and for the treatment of acute post-
+operative pain. Recent research indicates thatActa Anaesthesiol Scand 2005; 49: 1405 —1428 Copyright #Acta Anaesthesiol Scand 2005
+Printed in UK. All rights reservedACTA ANAESTHESIOLOGICA SCANDINAVICA
+doi: 10.1111/j.1399-6576.2005.00814.x
+1405
+opioids produce not only analgesia, but also hyper-
+algesia (5). Consequently, peri-operative (pre-, per-,
+and post-operative) opioids may increase post-
+operative pain and opioid requirements (6).
+Central sensitization includes an altered processing
+of innocuous, tactile impulses from myelinated
+afferents so that activation of these fibres produces
+painful sensations (7). The neurophysiological and
+biochemical mechanisms of these alterations include
+a decrease in inhibitory input or an increase in
+synaptic efficacy or membrane excitability,
+mediated by wind-up and neurokinin and
+N-methyl- D-aspartic acid (NMDA) receptor mechan-
+isms (7). Wind-up is a phenomenon whereby
+responses of dorsal horn neurons increase during
+repetitive, constant intensity, C-fibre stimuli, i.e.
+increased duration and magnitude of the cell
+responses. In animal studies, blockade of NMDA
+receptors has been shown to prevent the develop-
+ment of increased pain sensitivity and opioid toler-
+ance (5, 8). Ketamine is a non-competitive NMDA
+receptor antagonist. NMDA receptor blocking could
+be a fruitful therapy for improving post-operative
+opioid effectiveness. Ketamine could, in addition to
+having an opioid-sparing effect, conceivably reduce
+the development of chronic post-operative pain
+through NMDA receptor blockade and reduction
+of wind-up and central sensitization.
+Published literature indicates that ketamine is used
+in the peri-operative setting in countries such as
+Greece, Brazil, India, Germany, UK, Israel, France,
+China, Denmark, Norway, a nd Japan for anaesthesia
+or as an adjuvant analgesic. However, current use of
+ketamine in this setting involves different practice
+regarding dose, route of administration and time of
+administration. A literature review based on an elec-
+tronic search of the MEDLINE database from 1966 to
+1998 (1) concludes that the role of ketamine remains
+controversial, but that low-dose ketamine (defined as
+a bolus dose of less than 2 mg/kg when given intra-
+muscularly or less than 1 mg/kg when administered
+via the intravenous or epidural route) as an adjuvant
+to opioids or local anaesthetics may have an impor-
+tant role to play in the treatment of acute post-
+operative pain. This review will consider the
+evidence for the efficacy and tolerability of ketamine
+in the treatment of acute post-operative pain in adults.
+Methods
+Search
+To identify studies for inclusion in this review,
+detailed search strategies were developed for eachelectronic database searched. These searches were
+based on the search strategy developed for the
+Cochrane Central Register of Controlled Trials
+(CENTRAL) and revised appropriately for each
+database. The subject search used a combination of
+controlled vocabulary and free text terms and was
+performed in the Cochrane Pain, Palliative &
+Supportive Care Register (current issue), the
+Cochrane Central Register of Controlled Trials
+(CENTRAL), The Cochrane Library (June 2004),
+MEDLINE (1966 to June 2004), EMBASE (1980 to
+June 2004) and PARDLARS (Pfizer Corporation’s
+in-house database) February 2003.
+Reference lists of reports and reviews were also
+searched. Abstracts and unpublished reports were
+not considered. There was no language restriction.
+Inclusion criteria
+Randomized, placebo-controlled trials described as
+double-blinded were included. Trials using active
+controls in addition to placebo arms were also
+included. Studies where ketamine was compared
+with placebo or active control, and each group had
+a minimum of 10 patients who had completed the
+study, were included. All identified published trials
+were considered eligible. Only complete studies, not
+abstracts, were included. Duplicate publications are
+reported but excluded from the analysis.
+The population addressed by the review is
+patients aged 18 years or above, undergoing a sur-
+gical procedure.
+The intervention considered by this review is
+treatment with ketamine, given systemically or
+spinally, in any dose during the peri-operative
+period.
+Data extraction and analysis
+A data extraction form was designed and the fol-
+lowing data items were collected: (i) publication
+details, (ii) patient population, number of patients,
+age, surgical procedure, (iii) description of interven-
+tion, (iv) design, study duration and follow-up,
+(v) outcome measures, (vi) analgesic outcome
+results and (vii) withdrawals and adverse effects.
+Study quality (randomization/allocation con-
+cealment; details of blinding measures (9, 10); with-
+drawals and dropouts; overall quality score) were
+evaluated using the three-item (1—5) Oxford Quality
+scale (11). Validity was evaluated using the five-item
+(1—16) Oxford Pain Validity Scale (OPVS) (12).
+Scoring was performed independently by two
+reviewers (R.F.B., E.K.). In the case of discrepancy,
+a third reviewer (J.B.D.) was consulted.R. F. Bell et al.
+1406
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Both dichotomous and continuous data were
+extracted. Heterogeneity tests were not used as
+they have previously been shown to be unhelpful
+(13, 14) although clinical homogeneity was exam-
+ined visually (15). Meta-analysis was performed
+where appropriate. The data did not permit calcula-
+tion of odds ratios, numbers needed to treat (NNTs)
+and numbers needed to harm (NNHs) with 95%
+confidence intervals. Continuous data were ana-
+lysed as weighted mean differences (WMD).
+Subgroup analysis was not possible due to the
+heterogeneity of the trials.
+QUOROM guidelines for reporting meta-analyses
+were followed (16).
+Results
+The searches identified a total of 165 possible titles.
+Seventy-three were excluded. Eighteen were not clin-
+ical trials. Thirty-eight were abstracts. Thirteen trials
+did not concern post-operative pain. One was a retro-
+spective study. One paper (1 7) was irretrievable. Two
+were duplicates (18, 19). In addition, eight trials were
+not randomized and 15 did not have an appropriate
+control. Fourteen trials were not described as double-
+blind. A total of 55 randomized, controlled, double-
+blind clinical trials of peri-operative administration of
+ketamine for post-operative pain control were identi-
+fied. Eighteen trials were excluded: five due to the
+administration form of ke tamine (two transdermal,
+two intra-articular, one wound instillation). Four trials
+were excluded because group s contained less than the
+minimum of 10 patients who had completed the
+study. Nine trials (20—28) were excluded due to meth-
+odological flaws. The reasons for exclusion were as
+follows: Clausen (20) (drugs randomized, not
+patients/inappropriate pain scale); Heinke (21) (pri-
+mary outcome PCA piritram ide consumption/fixed
+maximum dose of piritramide); Joachimsson (22)
+(inappropriate pain scale, patients on ventilator);
+Reeves (23) (different PCA settings); Sadove (24) (inap-
+propriate pain scale); Taura (25) (unclear blinding,
+different doses of morphine); Weinbroum (26) (flawed
+randomization); Wong (27) (a ll patients pre-treated
+with ketamine); U ¨nlu¨genc (28) (different PCA
+settings).
+Thirty-seven trials (29—65) with 53 treatment arms
+met the inclusion criteria. One study in Turkish (62)
+was assessed with the help of a native speaker.
+Description of studies
+These 37 trials with 53 treatment arms could be
+divided into:(a) 13 treatment arms with a pre-incisional intrave-
+nous or intramuscular bolus of ketamine com-
+pared with placebo;
+(b) seven treatment arms with an intravenous-bolus of
+ketamine at wound closure compared with
+placebo;
+(c) 13 treatment arms with a peri-operative continu-
+ous infusion/repeated boluses of intravenous keta-
+mine compared with placebo;
+(d) seven treatment arms with administration of a pre-
+incisional bolus of epidural ketamine;
+(e) three treatment arms with administration of a post-
+incisional bolus of epidural ketamine;
+(f) two treatment arms with administration of a con-
+tinuous peri-operative epidural infusion of keta-
+mine compared with placebo;
+(g) two treatment arms with intra-operative intravenous
+ketamine vs. placebo combined with post-operative
+PCA ketamine/morphine vs. PCA morphine;
+(h) four treatment arms with post-operative intrave-
+nous PCA ketamine/morphine, compared with
+intravenous PCA morphine; and
+(i) two treatment arms with patient-controlled
+epidural analgesia (PCEA) ketamine þmorphine
+(and other drugs), compared with PCEA morphine
+(and other drugs).
+Twenty-six trials had a placebo control while 11
+used morphine as a control. A total of 2137 patients,
+of which 1210 received ketamine, were studied. Pain
+was rated using a visual analogue scale (VAS) in 34
+trials, and using a verbal rating scale (VRS) in three.
+The most common route of administration of keta-
+mine was intravenous, as a bolus and/or infusion.
+In six trials, ketamine was administered as an epi-
+dural bolus. PCA ketamine was used in four studies
+and PCEA ketamine in two. Thirty-two trials used
+racemic ketamine, four trials used S( þ) ketamine
+and one trial used the R(—) isomer.
+Quality and validity scores were generally high
+with a mean quality score of 3.9 and a mean validity
+score of 10.3. Three trials were considered non-sen-
+sitive (41, 50, 53, see Tables 1,3,8). Sensitivity was
+judged according to criteria in the OPVS.
+(a) Studies with administration of a pre-incisional
+intravenous or intramuscular bolus of ketamine compared
+with placebo [13 treatment arms, n (ketamine treated)
+¼266]
+Twelve trials with 13 treatment arms compared a
+pre-incisional bolus dose of ketamine with placebo
+(Table 1). R(—) ketamine was used in one treatment
+arm (50), S( þ) ketamine in one treatment arm (32)
+and racemic ketamine in 11 treatment arms.Peri-operative ketamine for acute post-operative pain
+1407
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Table 1
+Studies (treatment arms) with administration of a pre-incisional intravenous (i.v.) or intramuscular (i.m.) bolus of ketamine compared with place bo
+Reference Quality
+score/OPVSSurgical
+proceduren,
+ketamine/
+placeboPre-incisional
+bolus of
+ketamineTreatment of
+residual pain;
+Assessment of need
+for rescue analgesicsAssessment of
+painOutcome: need
+for rescue
+analgesicsOutcome:
+pain scoreComment
+55 3/11 Open cholecystectomy 11/11 0.15 mg/kg i.v. PCA-morphine 0 —24 h
+post-op.;Cumulated morphine
+0—24 h post-op.VAS at 0, 1, 2, 3, 4,
+5, 6, 12, and 24 h
+post-op.Morphine consumption
+reduced from 48.7 to
+29.5 mg, P<0.001VAS reduced at 0, 1,
+2, 3, 4 h post-op.
+(P<0.02), but
+not at 5, 6, 12,
+and 24 h post-op.
+51 5/12 Anterior cruciate
+ligament repair15/15 0.15 mg/kg i.v. PCA-morphine 0 —24 h post-op.;
+Cumulated morphine
+0—24 h post-op.VAS at 0, 1, 2, 3, 7,
+11, 15 and 24 h
+post.op.; VRS at
+24 h post-op.Morphine consumption
+reduced from 49.7 to
+28.2 mg, P<0.01NS See also
+Table 2
+49 4/12 Elective laparoscopic or
+proctologic surgery40/40 0.15 mg/kg i.v. PCA-piritramide
+0—24 h post-op.; Cumulated
+piritramide 0 —24 h post-op.VAS and VRS at
+1, 2, 3, 4, 5, 6, 12,
+24 h post-op.NS NS
+50 5/11 Laparoscopic
+cholecystectomy20/20 1 mg/kg i.v. R (-)
+ketaminePCA-meperidine 0 —4h
+post-op. and paracetamol
+500 mg þcodeine 30 mg
+4-24 h post-op.;
+Cumulated meperidine
+0-4 h post-op.
+and no of doses of
+paracetamol/codeine
+4—24 h post-op.VAS at 30 min,
+and at 1, 2, 3 and
+4 h post.op.; VRS at
+24 h and 7 d post-op.NS NS See also Table 2
+Insensitive study.
+All patients received
+pre-treatment with
+i.v. ketorolac and
+pre-incisional skin
+infiltration with
+bupivacaine. All
+patients received
+paracetamol 1000 mg
+at arrival in the
+recovery room
+48 2/8 Vaginoplasty 10/10 0.2 mg/kg i.v. i.m. diclofenac 75 mg
+on patient request;
+No of doses of diclofenac
+0—24 h post-op.Overall VAS 0 —24 h
+post-op.Diclofenac consumption
+reduced from 3.7 to 2.1
+doses, P<0.05NS (‘Ketamine group vs.
+Control group’,
+see original paper)
+48 2/8 Vaginoplasty 10/10 (see 48) (see 48) (see 48) Diclofenac consumption
+reduced from 3.1 to 1.5
+doses, P<0.05NS (‘Ketamine neostigmine
+group vs. Neostigmine
+control group’’, see
+original paper) Both
+study groups received
+neostigmine intrathecally
+50mg
+35 4/13 Abdominal
+hysterectomy33/29 0.4 mg/kg i.v. i.v.-ketobemidone in
+incremental doses of
+1 mg when VAS >30; mg
+ketobemidone at 0 —6,
+6—24 h post-op.VAS and VRS 0 —6,
+and 6 —24 h post-op.NS NS See also Table 2 All
+patients received supp.
+paracetamol 1000 mg
+three times daily
+52 5/14 Arthroscopic knee
+surgery morphine25/25 0.15 mg/kg i.v. i.v.-morphine in incremental
+doses of 3 mg until VAS /C2030
+or VRS <2; No of patients
+receiving morphineVAS at 15, 30, 45 min,
+and at 1, 2, 4 and 6 h
+post-op.No of patients
+requiring morphine
+reduced from 9
+to 3, P<0.05VAS reduced from
+0-6 h post-op.,
+P<0.01Oral naproxen sodium
+550 mg given to
+all patients post-operativelyR. F. Bell et al.
+1408
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+54 3/9 Laparoscopic
+cholecystectomy18/18 1 mg/kg i.v. Supp. diclofenac 50-100 mg
+if VAS >30, parenteral
+dextropropoxyphene if pain
+persisted, meperidine 50 mg
+i.m. if pain relief with
+dextropropoxyphene
+not adequate;
+Doses of analgesics
+0-48 h post-op.*VAS at 0, 3, 6, 12,
+and 24 h post-op.NS VAS reduced at
+6 and 12 h post-op.
+(P<0.01), but not at
+0, 3, 24 h post-op.*Data from 0-24 h could
+not be extracted
+32 4/9 Major abdominal 15/15 0.5 mg/kg
+i.v. S(þ)
+ketamineIf VAS >3,
+diclofenac supp.
+If pain persisted
+30 min after diclofenac,
+i.v. dextropropoxyphene
+titrated until VAS <2;
+Cumulative consumption
+of diclofenac and
+dextropropoxypheneVAS on awakening,
+3, 6, 24 hCumulative consumption
+of rescue analgesics
+reduced P<0.05NS
+47 5/16 Laparoscopic
+gynaecological45/45 0.15 mg/kg i.v. i.v. morphine 1.5 mg
+every 5 min until
+comfortable or
+VAS/C2020 mm.
+On ward, i.m.
+morphine 0.15 mg/kg
+every 4 h or 1-2 tbs.
+paracetamol/
+dextropropoxyphene
+every 6 h, as required;
+Analgesic consumptionVAS at 15, 30, 45 and
+60 min, then at
+2, 4, 6, 24 hMean total morphine
+consumption reduced
+from 3.4 mg to 1.5 mg
+P¼0.003VAS reduced at
+15, 30, 45, 60 min,
+2, 4, 6 h P<0.001Patients were
+interviewed for
+up to 7 days
+after surgery
+62 3/10 Thoracotomy 10/10 1 mg/kg i.m. PCEA (bupivacaine
+1.25% þmorphine
+0.075 mg/ml) loading
+dose 5 ml, bolus 5 ml,
+lockout 30 min Post-op.
+PCEA opioid and local
+anaesthetic consumptionVAS at 2, 4, 6, 12,
+24, 48 hNS VAS reduced 0- 12 h
+64 4/9 Selective gastrectomy 14/14 0.5 mg/kg i.v. PCEA morphine
+0—48 h post-op. Morphine
+consumption 0 —48 h post-op.*VAS at 2, 4, 8, 12,
+24, 36, 48 h48-h morphine consumption
+reduced P<0.01VAS reduced at
+4, 8, 12 ( P<0.01)
+and 24 h ( P<0.05)*Data from 0 —24 h
+post-op. could
+not be extracted —
+pain and morphine
+consumption
+was followed for
+48 h post-op.
+*Only data from the first 24 post-operative hours are included.Peri-operative ketamine for acute post-operative pain
+1409
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+The retrieved trials were heterogeneous. The doses
+of ketamine varied almost sevenfold, from 0.15 to
+1.0 mg/kg intravenously. Different analgesics and
+treatment regimens were employed for rescue medi-
+cation, and the surgical procedures included various
+gynaecological, abdominal, and orthopaedic opera-
+tions. Due to this disparity, a meta-analysis of the
+combined results was not considered rational.
+In one of these trials having two treatment arms,
+one pre- and one post-incisional, all patients had been
+pre-treated with intramuscular ketorolac together
+with pre-incisional skin infiltration with bupivacaine
+(50). This trial was scored as non-sensitive.
+Post-operative analgesic requirements were reduced
+by a pre-incisional ketamine bolus in eight out of 13
+treatment arms. VAS pain scores were reduced for up
+to 24 h post-operatively in seven of the 13 arms.
+(b) Studies with administration of an intravenous-bolus of
+ketamine at wound closure compared with placebo [seven
+treatment arms, n (ketamine treated) ¼212]
+Five trials with seven treatment arms compared a
+post-incisional bolus dose of ketamine with placebo
+(Table 2). R(—) ketamine was used in one (50) and
+racemic ketamine in six treatment arms.
+Again the trials were heterogenous and involved
+such different surgical procedures as elective out-
+patient surgery and abdominal hysterectomy.
+Ketamine doses ranged from 0.05 to 1 mg/kg. Two
+studies (50, 51) used PCA opioid for post-operative
+pain and three studies used an incremental intrave-
+nous-opioid bolus on request.
+In three out of seven treatment arms, post-opera-
+tive morphine requirements were reduced by post-
+incisional ketamine. VAS pain scores were reduced
+in four out of seven treatment arms.
+(c) Studies with administration of a peri-operative
+continuous infusion/repeated boluses of intravenous-
+ketamine compared with placebo [13 treatment arms, n
+(ketamine treated) ¼290]
+Eleven trials with 13 treatment arms compared a
+peri-operative continuous intravenous infusion/
+repeated intravenous bolus of ketamine with pla-
+cebo (Table 3). A ketamine infusion was used in 12
+treatment arms and a repeated intra-operative bolus
+of ketamine at 20-min intervals in one (32). S( þ)
+ketamine was used in two treatment arms (32, 42)
+and racemic ketamine in 11.
+The surgical procedures varied and included pre-
+dominantly major abdominal and renal surgery.
+There was clinical heterogeneity, with widevariation in the total ketamine dose administered
+due to different doses and duration of infusions.
+Different analgesics and treatment regimens were
+employed for rescue medication.
+In one treatment arm, all patients received epi-
+dural bupivacaine 2.5 mg/ml, 4 ml/h for 0—24 h
+post-operatively (41). This was a trial with a nega-
+tive outcome and was considered potentially non-
+sensitive. However, as the patients experienced pain
+above 30 on the VAS during movement in the early
+post-operative period, and to avoid bias, the trial
+was included in the quantitative analysis.
+Ketamine treatment reduced post-operative
+analgesic requirements in nine out of 13 treatment
+arms. VAS pain scores were reduced in seven out of
+13 treatment arms.
+(d) Studies with administration of a pre-incisional bolus of
+epidural ketamine [eight treatment arms, n (ketamine
+treated) ¼119]
+Seven trials with seven treatment arms investigated
+a pre-incisional epidural bolus of ketamine
+(Table 4). Two trials with two treatment arms inves-
+tigated a pre-incisional epidural bolus of ketamine
+and morphine compared with morphine alone.
+Racemic ketamine was used in six treatment arms,
+while S( þ) ketamine was used in one (40). These
+trials concerned major surgical procedures such as
+total abdominal hysterectomy, colectomy, gastrect-
+omy and total knee arthroplasty. The ketamine
+doses varied from 0.25 to 1 mg/kg.
+Consumption of rescue analgesics was reduced in
+only two out of seven treatment arms.
+Pain scores were reduced in three out of seven
+treatment arms. One trial did not provide pain
+score data (59).
+(e) Studies with administration of a post-incisional bolus of
+epidural ketamine [three treatment arms, n (ketamine
+treated) ¼61]
+Three trials with three treatment arms investigated a
+post-incisional epidural bolus of ketamine (Table 5)
+Two trials investigated epidural ketamine þ
+morphine, compared with epidural morphine
+alone (56, 60). One trial compared epidural keta-
+mine with placebo (29). All trials used racemic keta-
+mine. Two trials used a ketamine dose of 30 mg
+while the third trial used a dose of 1 mg/kg.
+Analgesic consumption was reduced in two out of
+three treatment arms. Two treatment arms found no
+difference in pain scores. The third trial (60) did not
+provide pain score data.R. F. Bell et al.
+1410
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Table 2
+Studies (treatment arms) with administration of an i.v. bolus of ketamine at wound closure compared with placebo. Only data from the first 24 postoper ative hours included
+Reference Quality
+score/OPVSSurgical
+proceduren,
+ketamine/
+placeboi.v. bolus of
+ketamine at
+wound
+closureTreatment of residual
+pain; Assessment of
+need for rescue
+analgesicsAssessment
+of painOutcome:
+need for
+rescue
+analgesicsOutcome: pain
+scoreComment
+51 5/12 Anterior cruciate
+ligament repair15/15 0.15 mg/kg PCA-morphine 0 —24 h
+post-op.; Cumulated
+morphine 0 —24 h
+post-op.VAS at 0, 1,
+2, 3, 7, 11, 15
+and 24 h post-op.;
+VRS at 24 h
+post-op.Morphine
+consumption
+reduced from
+49.7 to 24.2 mg,
+P<0.01NS See also
+Table 1
+50 5/11 Laparoscopic
+cholecystectomy20/20 1 mg/kg R (-)
+ketaminePCA-meperidine
+0—4 h post-op.
+and paracetamol
+500 mg þ
+codeine 30 mg
+4—24 h post-op.;
+Cumulated
+meperidine
+0—4 h post-op.
+and No of doses
+of paracetamol/
+codeine 4 —24 h
+post-op.VAS at 30 min,
+and at 1, 2, 3 and 4 h
+post-op.; VRS at
+24 h post-op.NS VAS reduced
+at 30 min
+post-op.
+(P<0.05),
+but not at
+1, 2, 3 and 4 h
+post-op.;
+VRS NS at
+24 h post-op.See also
+Table 1
+Insensitive
+study. All
+patients
+received pre-
+treatment with
+i.v. ketorolac
+and pre-
+incisional
+skin infiltration
+with bupivacaine.
+All patients
+received
+paracetamol
+1000 mg at
+arrival in the
+recovery room
+35 4/13 Abdominal
+hysterectomy27/29 0.4 mg/kg i.v. ketobem-
+idone in
+incremental
+doses of
+1 mg when
+VAS>30;
+mg ketobemidone
+at 0—6,
+6—24 h post-op.VAS and VRS
+0-6 and 6-24 h
+post-op.NS VAS and VRS
+reduced from
+0—6 h post-op.
+(P<0.05),
+but not from
+6—24 h post-op.See also
+Table 1 All
+patients
+received
+supp.
+paracetamol
+1000 mg three
+times daily
+61 5/15 ‘Elective
+outpatient
+surgery’35/35 0.05 mg/kg i.v. morphine in
+incremental
+doses of
+2m go n
+patient request;
+Cumulated
+morphineVAS at 0, 15,
+30, 45 min
+post-op.NS NS Duration of
+treatment
+not clear,
+but approx.
+60 minPeri-operative ketamine for acute post-operative pain
+1411
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+(f) Studies with administration of a continuous peri-
+operative epidural infusion of ketamine compared with
+placebo [two treatment arms, n (ketamine treated) ¼40]
+One trial with two treatment arms (36) investigated an
+epidural bolus of ketamine followed by an epidural
+infusion of ketamine until the end of surgery, com-
+pared with a control group (no ketamine) (Table 6).
+This trial used racemic ketamine at a dose of
+0.25 mg/kg bolus þ0.125 mg/kg/h in one treatment
+arm and 0.5 mg/kg and 0.25 mg/kg/h in the other.
+There was no significant difference in post-
+operative analgesic consumption or pain scores.
+(g) Studies with intra-operative intravenous ketamine vs.
+placebo combined with post-operative PCA ketamine/
+morphine vs. PCA morphine [two treatment arms, n
+(ketamine treated) ¼37]
+Two trials with two treatment arms investigated
+intra-operative intravenous ketamine combined
+with post-operative PCA ketamine þmorphine,
+compared with per-operative placebo and post-
+operative PCA morphine (Table 7). S( þ) ketamine
+was used in one trial (57) and racemic ketamine in
+the other (38).
+Cumulative morphine consumption and pain
+scores at rest were reduced in one treatment arm (57).
+(h) Studies with post-operative intravenous PCA ketamine/
+morphine, compared with intravenous PCA morphine [four
+treatment arms, n (ketamine treated) ¼110]
+Four trials with four treatment arms investigated
+post-operative intravenous PCA ketamine þ
+morphine, compared with intravenous PCA mor-
+phine (Table 8). Racemic ketamine was used in
+all trials. Doses ranged from 0.75 to 2 mg/ml. One
+trial was judged to be potentially non-sensitive as
+60—70% of the patients were pain free for the first
+4 h after surgery (53).
+Morphine consumption was reduced in two out of
+four treatment arms. Pain scores were reduced in
+three out of four treatment arms.
+(i) Studies with PCEA ketamine þmorphine (and other
+drugs), compared with PCEA morphine (and other drugs)
+[two treatment arms, n (ketamine treated) ¼75]
+Two trials with two treatment arms investigated
+PCEA ketamine þmorphine, compared with
+PCEA morphine (Table 9). These studies were per-
+formed in patients undergoing major thoracic or
+abdominal surgery. Racemic ketamine was used in
+both treatment arms.Table 2 Continued
+Reference Quality
+score/OPVSSurgical
+proceduren,
+ketamine/
+placeboi.v. bolus of
+ketamine at
+wound
+closureTreatment of residual
+pain; Assessment of
+need for rescue
+analgesicsAssessment
+of painOutcome:
+need for
+rescue
+analgesicsOutcome: pain
+scoreComment
+61 35/35 0.075 mg/kg Morphine
+consumption
+reduced P<0.05VAS reduced
+from 0 —45 min
+post-op.
+(P<0.0001)
+61 35/35 0.1 mg/kg Morphine
+consumption
+reduced
+P<0.05VAS reduced
+from 0 —45 min
+post-op. ( P<0.0001)
+47 5/16 Gynaecological
+laparoscopic45/45 0.15 mg/kg i.v. morphine 1.5 mg
+every 5 min until
+comfortable or
+VAS/C2020 mm. On ward,
+i.m. morphine 0.15 mg/kg
+every 4 h or 1-2 tbs.
+paracetamol/
+dextropropoxyphene
+every 6 h, as required;
+Analgesic consumptionVAS at 15, 30,
+45 and 60 min,
+then at 2, 4,
+6, 24 hNS NS Patients were
+interviewed for
+up to 7 days
+after surgeryR. F. Bell et al.
+1412
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Table 3
+Studies (treatment arms) with administration of a peri-operative continuous infusion/ repeated boluses of i.v. ketamine compared with placebo
+Reference Quality
+score/OPVSSurgical
+proceduren,
+ketamine/
+placeboi.v. ketamine
+bolus/infusionTreatment of residual
+pain; Assessment of need
+for rescue analgesicsAssessment
+of painOutcome:
+need for
+rescue
+analgesicsOutcome:
+pain scoreComment
+37 3/9 Open colorectal
+surgery25/25 0.15 mg/kg before
+surgical incision/
+2mg/ kg/min until
+skin closureNurse-
+administration
+of i.v. morphine
+in incremental
+doses of 3 mg
+until VAS <10
+or VRS <2,
+followed by
+PCA-morphine
+until 24 h post-op.;
+Cumulated nurse-
+administered
+morphine and
+cumulated PCA-
+morphine until
+24 h post-op.VAS and
+VRS 0 —24 h
+post-op.Nurse-
+administered
+morphine: NS
+PCA-morphine
+reduced from
+69 to 46 mgNS
+31 3/8 Gastrectomy 29/31 1 mg/kg before
+surgical incision/
+0.5 mg/kg/h until
+skin closureEpidural PCA-
+morphine 0 —24 h
+post-op.; Cumulated
+morphine 0 —6,
+0—12, and 0 —24 h
+post-op.VAS at 6, 12,
+and 24 h
+post-op.Epidural PCA-
+morphine
+reduced at
+all periods.
+Reduced from
+7.2 to 6 mg
+from 0 —24 h
+post-op.
+(P<0.05)*VAS reduced
+at 6, 12, and
+24 h post-op.
+(P<0.05)(‘KETiv vs.
+CTL’, see
+original paper).
+*¼median
+values read
+from figures
+31 3/8 Gastrectomy 31/31 Epidural PCA-
+morphine
+reduced at
+all periods.
+Reduced from
+5 to 0 mg from
+0—24 h post-op.
+(P<0.05)*VAS reduced
+at 6, 12 and
+24 h post-op.
+(P<0.05)(‘COMB vs.
+MORep’,
+see original
+paper) Both
+study groups
+received
+epidural
+morphine
+(bolus 0.06
+mg/kg —cont.
+infusion
+0.02 mg/kg/h)
+*¼median
+values read
+from figuresPeri-operative ketamine for acute post-operative pain
+1413
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Table 3 Continued
+Reference Quality
+score/OPVSSurgical
+proceduren,
+ketamine/
+placeboi.v. bolus of
+ketamine at
+wound
+closureTreatment of residual
+pain; Assessment of
+need for rescue
+analgesicsAssessment
+of painOutcome:
+need for
+rescue
+analgesicsOutcome: pain
+scoreComment
+42 4/13 Arthroscopic
+anterior cruciate
+ligament repair15/15 0.5 mg/kg before
+surgical incision/
+2mg/ kg/min until
+2 h post-op.
+S(þ) ketamineNurse-
+administration
+of i.v. morphine
+in incremental
+doses of 2 mg
+if VAS >30,
+followed by
+PCA-morphine
+from 1 —24 h
+post-op.;
+Cumulative
+PCA-morphine
+0—24 h post-op.VAS at
+1, 2, and 24 h
+post-op.NS NS All patients
+received
+lornoxicam
+8 mg at 15 min
+before wound
+closure;
+Patients were
+followed for
+120 h post-op.
+58 5/12 Donor nephrectomy 10/10 0.5 mg/kg before
+surgical incision/
+2mg/ kg/min
+until 24 h post-op.PCA-morphine
+from 0 —24 h
+post-op.;
+Cumulative
+PCA-morphine
+0—24 h post-op.VAS at
+1, 2, 3, and
+4 h post-op.PCA-morphine
+reduced from
+0—6 h post-op.
+(P<0.05),
+but not from
+0—24 h post-op.VAS reduced
+at 1 h post-op.
+(P<0.05),
+but not at
+2, 3, and 4 h
+post-op.All patients
+received
+intercostal
+nerve blockades
+with bupivacaine
+5 mg/ml, 20 ml
+before wound
+closure; Ketamine
+infusion continued
+for 72 h post-op.;
+Patients were
+followed for 7
+days post-op.
+41 4/11 Nephrectomy/
+Hynes Anderson24/28 10 mg before
+surgical incision/
+10 mg/h for 24 h
+post-op.PCA-morphine
+from 0 —24 h
+post-op.;
+Cumulative
+PCA-morphine
+0—24 h post-op.VAS at
+4, 6, 8, 22
+and 24 h
+post-op.NS NS Insensitive
+study. All patients
+received
+epidural
+bupivacaine
+2.5 mg/ml, 4 ml/h,
+from 0 —24 h
+post-op.; Ketamine
+infusion continued,
+and patients
+were followed
+for 48 h post-op.
+30 2/6 Laparotomy
+(gastrointestinal,
+urological,
+gynaecological)15/15 After surgery:
+No bolus/initial
+infusion rate
+10mg/kg/min,
+reduced to
+2.5mg/kg /min
+after 45 min,
+continued for
+24 h post-op.PCA-morphine
+from 0 —24 h
+post-op.;
+Cumulative
+PCA-morphine
+0—24 h post-op.VAS at
+0, 1, 2, 4, 6,
+12, and 24 h
+post-op.PCA-morphine
+reduced from
+30.7 to 19.4 mg
+from 0 —24 h
+post-op.
+(P¼0.03)VAS reduced
+at 1 h post-op.
+(P¼0.01),
+but not at
+0, 2, 4, 6, 12
+and 24 h
+post-op.Ketamine infusion
+continued, and
+patients were
+followed for
+48 h post-op.R. F. Bell et al.
+1414
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+32 4/9 Major abdominal 15/15 Pre-incisional
+0.5 mg//kg bolus
+S(þ) ketamine þ
+intra-operative
+0.2 mg/kg at
+20-min intervals
+until the end of
+surgery S ( þ)
+ketamineIf VAS >3,
+diclofenac suppl.
+If pain persisted
+30 min after
+diclofenac,
+i.v. dextropropoxy-
+phene titrated until
+VAS<2
+Cumulative
+consumption of
+diclofenac and
+dextropropoxypheneVAS on
+awakening,
+3, 6, 24 hCumulative
+consumption
+of rescue
+analgesics at
+24 h reduced
+P<0.05VAS reduced
+at 0, 3, 6 h
+P/C200.05
+36 5/14 Rectal adenocarcinoma
+surgery20/20 /C630 min before
+skin incision:
+0.25 mg/kg
+bolusþ
+infusion
+0.125 mg/kg/h
+until the end
+of surgeryAfter recovery
+of awareness:
+PCA-morphine
+from 0 —24 h
+post-op.
+Cumulative
+number of met
+and unmet
+PCA morphine
+demandsVAS at 15 min,
+2, 6, 12, 24 h
+post-op. Area of
+hyperalgesia.
+Post-operative
+residual pain at
+2 weeks,
+1 month,
+6 months,
+1 yearNS NS PCA morphine:
+max. allowed
+dose: 30 mg/h.
+PCA and
+observations for
+48 h post-op.
+Long-term
+follow-up re-wound
+mechanical
+hyperalgesia
+and residual pain.
+All patients
+received a
+continuous
+peroperative
+epidural
+infusion of
+bupivacaine/
+sufentanil/clonidine
+36 20/20 /C630 min before
+skin incision:
+0.5 mg/kg
+bolusþinfusion
+0.25 mg/kg/h until
+the end of surgeryNS NS Area of
+hyperalgesia
+reduced P<0.05
+Reduced residual
+pain for up to
+6 months P<0.05
+38 4/12 Major abdominal 41/52 After surgery: initial
+bolus 0.5 mg/kg,
+infusion 2 mg/kg/
+min for 24 h and 1
+mg/kg/min from
+24—48 hPCA morphine
+from 0 —24 h;
+Cumulative dose
+of morphine 0 —24 h
+(4-hourly intervals)VAS at
+0, 4, 8, 12,
+16, 20,
+24 hMorphine
+consumption
+significantly
+reduced at
+all time intervals
+P<0.05NS VAS and morphine
+consumption
+assessed for
+48 h post-op.Peri-operative ketamine for acute post-operative pain
+1415
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Table 3 Continued
+Reference Quality
+score/OPVSSurgical
+proceduren,
+ketamine/
+placeboi.v. bolus of
+ketamine at
+wound
+closureTreatment of residual
+pain; Assessment of
+need for rescue
+analgesicsAssessment
+of painOutcome:
+need for
+rescue
+analgesicsOutcome: pain
+scoreComment
+44 3/11 Elective open
+cholecystectomy25/25 Pre-incisional
+1 mg/kg bolus þ
+1 mg/kg/h
+peroperative
+infusion,
+maintained
+until 2 mg/kg
+given2 mg morphine
+EDþbupivacaine
+post-op. Thereafter
+PCEA bupivacaine þ
+morphine. PCEA
+volume consumed
+at 5, 24 and 48 hVAS at
+5, 24 and
+48 hMean PCEA
+consumption
+reduced at 5
+and 5 —24 hVAS scores
+reduced at
+all time points:
+Mean VAS rest
+at 5 h reduced
+from 3.5 to
+1.1P<0.01
+VAS movement
+5 h reduced
+from 5.9 to 3.7
+P<0.01 VAS
+rest 24 h reduced
+from 1.5 to 0.6
+P<0.01 VAS
+movement at
+24 h reduced
+from 4.4 to 3.0
+P<0.01VAS and PCEA
+consumption
+assessed for
+48 h post-op.
+45 5/13 Elective renal surgery 20/20 0.5 mg/kg
+bolus þ
+0.5 mg/kg/h
+until skin closurePCEA morphine
+and bupivacaine,
+basal infusion
+started before
+incision, stopped
+at 6 h if VAS <3.
+No. of analgesic
+demandsVAS rest
+at 0.5, 1, 2,
+4, 6, 12, 24
+and 48 h
+VAS coughing
+at 12, 24, 48 hMean PCEA
+analgesic
+consumption
+reduced from
+81.6 to 60.3 ml
+Day 1 P¼0.001VAS rest
+reduced 0 —6h
+P<0.01 VAS
+coughing reduced
+at all time points
+P<0.01VAS and PCEA
+for 48 h post-op.
+Only data from the first 24 post-operative hours included.R. F. Bell et al.
+1416
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Table 4
+Studies (treatment arms) with administration of a pre-incisional bolus of epidural ketamine
+Reference Quality
+score/OPVSSurgical
+proceduren,
+ketamine/
+placeboEpidural
+ketamine,
+bolusTreatment of
+residual pain;
+Assessment of need for
+rescue analgesicsAssessment of
+painOutcome: need
+for rescue
+analgesicsOutcome:
+pain scoreComment
+46 3/7 Abdominal
+surgery10/10 50 mg before
+surgical incisionNurse-
+administration of
+epidural morphine
+in incremental
+doses of 2 mg
+if VAS >30;
+Cumulative
+epidural morphine
+0—48 h post-op.*VAS at
+1, 2, 6, 12,
+and 24 h
+post-op.NS NS *No data for cumulative
+epidural morphine
+0—24 h post-op.
+40 5/11 Total knee
+arthroplasty18/19 0.25 mg/kg
+before surgical
+incision [S( þ)
+ketamine]PCEA ropivacaine,
+and diclofenac,
+paracetamol,
+piritramide
+if pain persisted;
+Cumulative PCEA
+ropivacaine
+0—24 h post-op.,
+and cumulative
+diclofenac,
+paracetamol,
+piritramide
+0—48 h post-op.VAS at
+2, 4, 6, 8,
+and 24 h
+post-op.NS* Pain at rest
+and during
+movement
+reduced at 24 h
+post-op.
+(P<0.05),
+but not at 2,
+4, 6, 8 h
+post-op.*NS at 0 —24 h post-op.,
+but cumulative
+consumption of
+ropivacaine significantly
+reduced from 0 —48 h in
+patients receiving
+ketamine ( P<0.01)
+29 5/13 Total abdominal
+hysterectomy21/20 30 mg before
+surgical incisionPCEA bupivacaine/
+fentanyl; Cumulative
+PCEA bupivacaine/
+fentanyl 0 —24 h
+post-op.VAS at
+1, 2, 4, 8, 12
+and 24 h
+post-op.PCEA with
+bupivacaine/
+fentanyl reduced
+from 4-24 h
+post-op. in
+patients
+receiving
+ketamine
+(P<0.05)NS
+56 4/11 Gynaecological
+surgery20/20 30 mg before
+surgical incisionPethidine 1 mg/kg
+i.m. if severe pain
+or oral paracetamol
+1000 mg every
+6 h is needed.
+Analgesic
+consumption.VAS every
+3 h for 48 h
+post-op.NS NS
+59 3/10 Major upper
+abdominal26/24 1 mg/kg before
+surgical incisionED morphine
+50mg/kg when
+VAS on deep
+inspiration >4.
+Number of doses.VAS on deep
+inspiration at
+0, 2, 4, 8, 12,
+18, 24, 30,
+36, 42, 48 hNS Not reported Intra-operative
+morphine requirements
+reduced ( P¼0.018)Peri-operative ketamine for acute post-operative pain
+1417
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Analgesic consumption was reduced in both treat-
+ment arms. Pain scores were reduced in both treat-
+ment arms.
+In summary, the need for rescue medication was
+reduced in 29 out of 53 treatment arms, whereas
+VAS or VRS pain intensity scores were reduced in
+27 out of 51 treatment arms, pain score data not
+being given in the two remaining arms. No study
+reported an increased need for rescue medication,
+or higher VAS scores in the ketamine group.
+When individual trials, rather than treatment
+arms, were examined, 27 out of 37 trials found that
+peri-operative ketamine reduced rescue analgesic
+requirements or pain intensity, or both.
+Ketamine dose
+The question of optimal ketamine dose is not
+resolved by these heterogenous trials. Out of inter-
+est, we wanted to see whether there was a dose-
+dependent effect. Using an ‘average’ weight of
+70 kg, we roughly calculated the mean 24-h dose
+of ketamine for each of the trials included in the
+24-h PCA morphine meta-analysis. The trials could
+be divided into four groups: one group with an
+estimated dose of approximately 10 mg, one group
+with estimated dose of approximately 30 mg, a third
+group with estimated dose of approximately 65 mg
+and a fourth group with estimated dose of 250—270 mg.
+Interestingly, there seemed to be no increased
+morphine-sparing effect on increasing the ketamine
+dose above an estimated dose of 30 mg/24 h.
+Adverse effects
+Two trials (31, 62) did not report on adverse effects.
+In general, the occurrence of adverse effects was
+similar in ketamine- and placebo-treated groups.
+Psychotomimetic adverse effects
+Twenty-one of 37 trials specifically stated that there
+were no psychotomimetic adverse effects such as
+hallucinations, bad dreams or dysphoria.
+Psychotomimetic adverse effects were reported in
+four trials (33, 41, 43, 60). Ilkjær et al. (41) reported
+that two patients in the ketamine group, and one in
+the placebo group, experienced psychomimetic
+side-effects. Burstal et al. (33) reported withdrawal
+of four patients in the ketamine group due to dys-
+phoria. Subramaniam et al. (60) reported one patient
+developing hallucinations after pre-operative
+administration of ketamine, but no psychotomimeticTable 4 Continued
+Reference Quality
+score/OPVSSurgical
+proceduren,
+ketamine/
+placeboi.v. bolus of
+ketamine at
+wound
+closureTreatment of residual
+pain; Assessment of
+need for rescue
+analgesicsAssessment
+of painOutcome:
+need for
+rescue
+analgesicsOutcome: pain
+scoreComment
+62 3/10 Thoracotomy 10/10 0.5 mg/kg PCEA (bupivacaine
+1.25% þmorphine
+0.075 mg/ml)
+loading dose
+5 ml, bolus 5 ml,
+lockout 30 min
+Post-op. PCEA
+opioid and local
+anaesthetic
+consumptionVAS at
+2, 4, 6, 12,
+24, 48 hNS VAS
+reduced
+0-24 h
+64 4/9 Selective
+gastrectomy14/14 0.5 mg/kg PCEA morphine
+0—48 hpost-op.
+Morphine
+consumption
+0—48 h post-op*VAS at
+2, 4, 8, 12,
+24, 36, 48 hMorphine
+consumption
+reduced
+P<0.01VAS scores
+at rest
+reduced at
+4, 8, 12, 24 h
+P<0.01*Data from 0 —24 h post-
+op. could not be
+extracted —pain and
+morphine consumption
+was followed for 48 h
+post-op.
+Only data from the first 24 post-operative hours are included.R. F. Bell et al.
+1418
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+adverse effects in the post-operative period. Javery
+(43) reported one patient in the ketamine group
+experiencing dysphoria, compared with three in
+the control group.
+Nausea and vomiting
+One trial reported significantly less nausea in the
+ketamine-treated group compared with placebo
+(30). One trial reported significantly less nausea in
+the ketamine þmorphine-treated group, compared
+with the morphine group (43). One trial reported
+significantly less nausea, vomiting and use of antie-
+metics in the ketamine group on the first post-opera-
+tive day (58).
+Sedation
+Four trials (37, 41, 50, 59) reported increased seda-
+tion in the ketamine-treated groups: Ilkjær et al. (41)
+reported significantly higher sedation scores for 0
+—24 h after surgery. Guignard et al. (6) reported
+higher sedation scores for the first 15 min after extu-
+bation. Mathisen et al. (50) found that the placebo-
+treated group opened their eyes significantly faster
+and were extubated earlier than the R(—) ketamine-
+treated groups. Subramaniam et al. (59) reported
+high sedation scores in six patients in the ketamine
+group, compared with none in the control group, for
+the first 2 h after surgery, but no difference
+thereafter.
+Diplopia
+Diplopia as an adverse effect of ketamine was
+reported in three trials (30, 42, 45). Adriaenssens
+(30) reported that two out of 15 ketamine-treated
+patients experienced diplopia, while Jaksch (42)
+reported diplopia in one out of 15 patients in the
+ketamine group. Kararmaz (45) reported diplopia in
+three ketamine-treated patients, compared with
+none in the control group.
+Quantitative data synthesis
+The data did not permit the calculation of odds
+ratios, numbers-needed-to-treat (NNTs) or num-
+bers-needed-to-harm (NNHs).
+Meta-analysis of studies employing post-operative PCA-
+morphine
+Twelve trials (30, 36—38, 41—43, 51, 53, 55, 57, 58)
+provided data on 24-h cumulative intravenous
+PCA morphine consumption. The authors of nine
+trials were contacted in order to get the dataTable 5
+Studies (treatment arms) with administration of a post-incisional bolus of epidural ketamine
+Reference Quality
+score/OPVSSurgical
+proceduren,
+ketamine/
+placeboPost-incisional
+bolus of
+ketamine/
+morphineTreatment of
+residual pain;
+Assessment of need for
+rescue analgesicsAssessment of
+painOutcome: need
+for rescue
+analgesicsOutcome:
+pain scoreComment
+29 5/13 Total abdominal
+hysterectomy21/20 30 mg 20 min
+after surgical
+incisionPCEA bupivacaine/
+fentanyl; Cumulative
+PCEA bupivacaine/
+fentanyl 0 —24 h post-op.VAS at 1, 2,
+4, 8, 12 and
+24 h post-op.PCEA with
+bupivacaine/
+fentanyl reduced
+from 4-24 h post-op.
+in patients receiving
+ketamine P<0.05NS
+56 4/11 Gynaecological
+surgery20/20 30 mg after
+surgical incisionPethidine 1 mg/kg i.m.
+if severe pain or oral
+paracetamol 1000 mg
+every 6 h as needed;
+Analgesic consumptionVAS every
+3 h for 48 h
+post-op.NS NS
+60 4/10 Major upper
+abdominal surgery20/20 1 mg/kg post-op. ED morphine 50 mg/kg
+when VAS >4;
+Total no. of dosesVAS during
+deep inspiration
+at 2, 4, 8, 12,
+18, 24, 30,
+36, 42, 48 hTotal no. of morphine
+doses reduced
+P<0.005
+(only data for 48 h)Not reported
+Only data from the first 24 post-operative hours included.Peri-operative ketamine for acute post-operative pain
+1419
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+expressed as means /C6SD. Six authors kindly pro-
+vided the necessary data. Though the author of one
+trial (55) could not be contacted, data could be
+extracted from a figure. In two trials (36, 53) it was
+not possible to obtain the requested data.
+In a total of 10 trials with 11 treatment arms and a
+total of 432 patients, treatment with ketamine sig-
+nificantly reduced PCA morphine consumption in
+the first 24 h after surgery [WMD /C015.98 mg with
+95% CI ( /C019.70,/C012.26)] (Fig. 1).
+Meta-analysis of adverse effects with ketamine
+Twenty-six out of 37 trials provided dichotomous
+data on nausea and vomiting, or nausea and/or
+vomiting. The total number of patients in the com-
+parison was 1261. When all data were combined,
+treatment with ketamine significantly reduced
+post-operative nausea and vomiting ( P¼0.001).
+When the data for nausea and for vomiting alone
+were analysed, treatment with ketamine reduced
+nausea ( P¼0.03) and vomiting ( P¼0.002). When
+the data from trials included in the 24-h PCA mor-
+phine consumption analysis were examined sepa-
+rately, ketamine reduced nausea and vomiting
+(P¼0.03) (Fig. 2).
+Discussion
+The objective of this systematic review was to assess
+the effectiveness and adverse effects of peri-
+operative ketamine in the treatment of acute post-
+operative pain.
+Twenty-seven out of 37 trials found that peri-
+operative ketamine reduced rescue analgesic
+requirements or pain intensity, or both. Ten trials
+found no significant difference between ketamine
+and placebo, three of which were considered non-
+sensitive.
+During the preparation of this review, two sys-
+tematic reviews investigating ketamine for post-
+operative pain were published (66, 67). These
+reviews include trials in children and trials
+excluded in our own review due to route of admin-
+istration and/or methodological issues. The authors
+of the first review (66) included 37 trials. The pri-
+mary outcome was VAS scores in the first 24 h after
+surgery. Due to the heterogeneity of the data, we
+have chosen to restrict quantitative analysis to 24-h
+PCA morphine consumption and data on PONV.
+The second review (67) has similar findings to our
+own, with ketamine giving a clear decrease in 24-h
+cumulative morphine consumption with a weightedTable 6
+Studies (treatment arms) with administration of a continuous peri-operative epidural infusion of ketamine compared with placebo
+Reference Quality
+score/OPVSSurgical
+proceduren,
+ketamine/
+placeboContinuous
+pre-operative
+epidural
+infusion of
+ketamineTreatment of
+residual pain;
+Assessment of need for
+rescue analgesicsAssessment of
+painOutcome: need
+for rescue
+analgesicsOutcome:
+pain scoreComment
+36 5/14 Rectal
+adenocarcinoma
+surgery20/20 0.25 mg/kg bolus þ
+0.125 mg/kg /h until
+the end of surgeryAfter recovery of
+awareness: PCA-
+morphine from
+0—24 h post-op;
+Cumulative number
+of met and unmet
+PCA morphine
+demandsVAS at 15 min,
+2, 6, 12, 24 h
+post-op. Area of
+hyper-algesia.
+Post-operative
+residual pain at
+2 weeks, 1 month,
+6 months, 1 yearNS NS See also Table 3
+36 20/20 0.5 mg/kg bolus þ
+0.25 mg/kg/h until
+the end of surgeryNS NS See also Table 3
+Only data from the first 24 post-operative hours included.R. F. Bell et al.
+1420
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Table 7
+Studies (treatment arms) with intra-operative i.v. ketamine vs. placebo combined with post-operative PCA ketamine/morphine vs. PCA morphine
+Reference Quality
+score/OPVSSurgical
+proceduren,
+ketamine/
+placeboIntra-operative
+i.v. ketamine
+post-operative
+PCA i.v.
+ketamineTreatment of
+residual pain;
+Assessment of need for
+rescue analgesicsAssessment of
+painOutcome: need
+for rescue
+analgesicsOutcome:
+pain scoreComment
+39 4/10 Total abdominal
+hysterectomy24/25 i.v. bolus 0.3
+mg/kg after
+induction/
+PCA 1 mg/ bolusRescue analgesia
+in PACU:
+i.v. morphine
+1-2 mg as needed;
+PCA morphine/
+ketamine or PCA
+morphine; PCA
+morphine
+consumption
+0—24 h post-op.VRS at 24 h
+post-op.NS NS
+57 5/11 Radical retropubic
+prostatectomy13/12 i.v. bolus 0.1 mg/kg,
+followed by cont.
+infusion of 0.002
+mg/kg /min until
+skin closure/
+PCA 0.5 mg
+bolus
+S(þ) ketaminePCA morphine/
+ketamine or PCA
+morphine; PCA
+morphine consumption
+0—48 h post-op.VAS rest at
+1, 2, 3, 4, 8,
+12,18, 24, 30,
+36, 42, 48 h
+post-op.; VAS
+mobilisation at
+24, 48 h post-op.Cumulative PCA-
+morphine
+consumption —
+48 h post-op.
+reduced
+P¼0.049Cumulative
+VAS rest from
+0—48 h post-op.
+reduced, P<0.01
+VAS mobilisation
+NSData from
+0—24 h
+post-op.
+could not be
+extracted —
+pain and
+morphine
+consumption
+was fol-
+lowed for
+48 h
+post-op.
+Only data from the first 24 postoperative hours included.Peri-operative ketamine for acute post-operative pain
+1421
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Table 8
+Studies (treatment arms) with post-op. i.v. PCA ketamine/morphine, compared with i.v. PCA morphine
+Reference Quality
+score/OPVSSurgical
+proceduren,
+ketamine/
+placeboPost-op.
+i.v. PCA
+ketamineTreatment of
+residual pain;
+Assessment of need for
+rescue analgesicsAssessment of
+painOutcome: need
+for rescue
+analgesicsOutcome:
+pain scoreComment
+33 5/14 Total abdominal
+hysterectomy37/33 2 mg/bolus Bolus dose of
+morphine given
+in recovery before
+PCA. PCA morphine/
+ketamine or PCA
+morphine; PCA
+morphine consumption
+0—48 h post-op.
+or at cessation of PCAVAS at rest
+and on coughing
+Area of allodynia
+(Von Frey)NS VAS scores
+on coughing
+reduced on Day 1.
+Otherwise NSArea of allodynia
+reduced P¼0.04
+10 patients in
+ketamine group vs
+1 in control group
+withdrawn due to
+adverse effects.
+All patients included
+in efficacy analysis
+43 2/9 Lumbar micro-
+discectomy22/20 1 mg/bolus PCA morphine/ketamine
+or PCA morphine;
+PCA morphine
+consumption 0 —24 h
+post-op.VAS at
+24 h post-op.Mean morphine
+consumption
+reduced from
+51.1 to 25.82
+mg
+(P<0.001)Mean VAS
+reduced from
+4.5 to 2.3
+(P<0.001)Reduced nausea,
+pruritus and urinary
+retention in the
+ketamine group
+53 4/12 Total abdominal
+hysterectomy21/21 0.75 mg/bolus PCA morphine/
+ketamine or
+PCA morphine;
+PCA morphine
+consumption
+0—24 h post-op.VRS 4, 8,
+12, 16 and
+24 h after
+surgeryNS NS Insensitive study
+PCA background
+infusion with
+ketamine 0.75 mg/h/
+morphine 1 mg/h or
+morphine 1 mg/h
+Single intra-
+operative dose of
+ketamine 7.5 mg
+65 3/12 Major abdominal
+surgery30/28 0.0125 mg/kg/
+bolusPCA morphine/
+ketamine or PCA
+morphine; PCA
+morphine consumption
+0—24 h post-op.VRS at 15, 30,
+60, 120 min,
+and 6, 12,
+24 h after
+surgery24 h median
+morphine
+consumption
+reduced from
+49 to 46.5 mg
+P<0.001Pain scores
+lower at 15,30
+and 60 min
+P<0.001Post-op. loading
+dose of morphine
+0.05 mg/kg when
+VRS/C212
+Only data from the first 24 post-operative hours included.R. F. Bell et al.
+1422
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+mean difference of /C015.7 mg. This review, including
+studies performed in children and adults, is
+restricted to randomized comparisons of ketamine
+with inactive controls.
+Ten trials with 11 treatment arms and 417 patients in
+the comparison provided extractable data on 24-h
+PCA morphine consumption. When these data were
+combined, ketamine was shown to be effective in
+reducing post-operative morphine requirements. This
+should be interpreted with caution, as the number of
+patients is small, and doses and time of administration
+differ widely between trials. Performing separate
+meta-analysis on data from the separate treatment
+arms was considered but decided against, as the data
+were heterogenous and the number of patients in each
+analysis would be very small. The meta-analysis gave
+aW M Do f /C015.98 mg. The clinical relevance of this
+dose reduction in the first 24 h after surgery may be
+debated. When individual trial data were examined,
+including trials that were not included in the quanti-
+tative analysis, ketamine was generally reported to
+give a 30—50% reduction of rescue analgesics. A reduc-
+tion of this order may well be clinically significant,
+especially in selected patient groups. Peri-operative
+ketamine may be useful for patients who traditionally
+require larger doses of opioids, such as cancer patients
+on long-term opioid therapy or the drug-dependent
+patient population. Patients who are especially sensi-
+tive to the adverse effects of opioids, such as the
+elderly, may also be a target group for this treatment.
+Randomized, placebo contro lled trials in these patient
+groups would be clinically relevant.
+Elia et al. (67) found that ketamine treatment did
+not reduce morphine-related adverse effects. They
+also found that the highest risk of hallucinations
+was in awake or sedated patients receiving keta-
+mine without benzodiazepine, and that in patients
+undergoing general anaesthesia, the risk of halluci-
+nations was low and independent of benzodiaze-
+pine premedication. In our own review where
+surgery was performed under general anesthesia
+in 35 out of the 37 included trials, ketamine-related
+adverse effects were mild or absent. Elia et al. ana-
+lysing data from 391 patients treated with ketamine
+and 284 patients receiving inactive control, found no
+decrease in PONV. In contrast, our analysis of data
+from 705 patients treated with ketamine and 578
+patients receiving active or inactive control, showed
+a significant reduction of nausea and vomiting in
+ketamine-treated patients.
+Issues of optimal dose and form of administration
+are not resolved by the current data. The most com-
+mon route of administration for ketamine wasTable 9
+Studies (treatment arms) with PCEA ketamine þmorphine (and other drugs), compared with PCEA morphine (and other drugs)
+Reference Quality
+score/OPVSSurgical
+proceduren,
+ketamine/
+placeboPCEA
+ketamineTreatment of
+residual pain;
+Assessment of need for
+rescue analgesicsAssessment of
+painOutcome: need
+for rescue
+analgesicsOutcome:
+pain scoreComment
+34 4/12 Major
+intrathoracic
+or upper
+abdominal45/46 Basal infusion:
+1 mg/ h, titrated
+Bolus: 1 mgIf VAS <3, basal
+infusion and bolus
+increased by 0.5 mg
+each; Cumulative
+total analgesic
+consumptionVAS daily for
+3 daysMean 24 h
+cumulative
+analgesic
+volume
+reduced from
+96.6 to
+74 ml
+P<0.05Mean VAS at rest
+reduced from 3 to
+2P<0.05 Mean
+VAS on coughing
+reduced from 6.2 to
+5.0P<0.05Multimodal PCEAregime:
+bupivacaine þ
+epinephrine þmorphine
+63 2/8 Lower
+abdominal30/30 Loading dose:
+5 mg Basal
+infusion:
+0.5 mg/h Bolus:
+0.5 mgPCEA morphine/
+ketamine or PCEA
+morphine
+Total consumption
+of morphineVAS at 30 min,
+3,6,12,18,24 h
+consumption
+reduced
+from 8.6 to
+6.2 mg
+P<0.0524 h mean
+morphine
+consumption
+reduced from
+8.6 mg
+to 6.2 mg
+P<0.05VAS at rest reduced
+0—3 h post-op.
+P<0.05
+Only data from the first 24 postoperative hours included.Peri-operative ketamine for acute post-operative pain
+1423
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+intravenous bolus and/or infusion, while 10 studies
+investigated epidural ketamine. Spinal ketamine is
+not a recommended route of administration due to
+unclear toxicity issues (1). Whether the isomers S( þ)
+or R(—) ketamine have advantages over the racemate
+is not clear from the current data.
+Three studies (41, 50, 53) were considered to be non-
+sensitive. The issue of study sensitivity in trial design
+is important. In general, sensitivity measures cannot
+be used for studies with PCA analgesic consumption
+as an endpoint (68). However, there are a number of
+factors which may decrease study sensitivity and
+which should be considered when designing clinical
+trials on post-operative pain. In one trial, all patients
+received a constant infusion of bupivacaine post-
+operatively (41), while in another, all patients received
+pre-treatment with ketorolac and pre-incisional skin
+infiltration with bupivacaine (50). These factors may
+have been responsible for low levels of pain. These
+studies could produce false/negative results as they
+would be unable to detect a difference between keta-
+mine and placebo had there been one.
+Only one study (36) included long-term follow-up
+regarding mechanical hyperalgesia and residual pain.
+An important question, which has not been addressed
+in the current literature, is whether ketamine prevents
+the development of hyperalgesia during surgery and/
+or the development of chronic post-surgical pain.
+NMDA receptor antagonists, including ketamine, have
+been shown to prevent the development of hyperalgesia
+(69, 70). Chronic post-surgical pain is more common
+than previously thought (71—74). Certain types of sur-
+gical intervention, for example thoracotomy and mas-
+tectomy, have a relatively high prevalence of chronic
+post-surgical pain. Studies with long-term follow-up in
+these patient groups would therefore be of interest.
+Ketamine is a readily available, inexpensive drug.
+It is generally thought that it has limited usefulness
+in pain management due to adverse effects. This is
+not supported by the current evidence in relation to
+acute post-operative pain in adults where adverse
+effects were mild or absent. In fact, ketamine
+reduces post-operative nausea and vomiting.
+Because both ketamine and morphine are reported
+to cause nausea and vomiting, it is interesting that a
+combination of morphine and ketamine appears to
+reduce PONV. When low-dose ketamine is given to
+healthy volunteers, the incidence of nausea and
+vomiting appears to be greater than that reported
+in the clinical setting (1). The observed reduction in
+PONV in the studies included in this review may be
+due to a morphine-sparing effect or to other as yet
+undetermined factors. Not all trials providedReview: Peri-operative ketamine for acute post-operative pain
+Comparison: 01 Peri-operative ketamine vs control                                                                     
+Outcome: 01 Morphine (PCA) consumption over 24 h                                                               
+Study Ketamine
+Mean (SD)Control
+Mean (SD) WMD (fixed)  Weight WMD (fixed)
+95% CI or sub-category nn  95% CI  %
+Roytblat 1993           11     29.50  (7.50)          11     48.70  (13.00)     17.60    -19.20  [-28.07, -10.33]    
+Javery 1996             22     25.82  (16.40)         20     51.10  (20.80)     10.64    -25.28  [-36.68, -13.88]    
+Stubhaug 1997           10     64.50  (22.60)         10     68.00  (30.00)      2.55     -3.50  [-26.78, 19.78]     
+Ilkjær 1998             30     28.00  (21.00)         30     36.00  (23.00)     11.14     -8.00  [-19.14, 3.14]      
+Adriaenssens 1999       15     19.40  (10.70)         15     30.70  (15.90)     14.72    -11.30  [-21.00, -1.60]     
+Menigaux  2000  post     15     24.20  (17.80)         15     49.70  (24.10)      6.02    -25.50  [-40.66, -10.34]    
+Menigaux 2000 pre       15     28.20  (18.40)         15     49.70  (24.10)      5.88    -21.50  [-36.84, -6.16]     
+Guignard 2002           25     42.70  (16.30)         25     64.90  (27.00)       9.06    -22.20  [-34.56, -9.84]     
+Jaksch 2002             15     44.10  (45.23)         15     40.23  (17.16)      2.31      3.87  [-20.61, 28.35]     
+Guillou 2003            41     37.00  (24.00)         52     48.00  (22.00)     15.43    -11.00  [-20.47, -1.53]     
+Snijdelaar 2004         13     32.15  (18.59)         12     50.42  (24.70)      4.65    -18.27  [-35.52, -1.02]     
+Total (95% CI)                         220 100.00    -15.98 [-19.70, -12.26]
+Test for heterogeneity: χ² = 13.67, df = 10 ( P = 0.19), I² = 26.8%
+Test for overall effect: Z = 8.42 ( P < 0.00001)
+–10 –5  0  5  10
+Favors treatment Favors control212
+Fig. 1. Meta-analysis: 24 h morphine consumption. PCA, patient-controlled analgesia; WMD, weighted mean difference; CI, confidence interval.R. F. Bell et al.
+1424
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Review: Peri-operative ketamine for acute post-operative pain
+Comparison: 02 Adverse effects                                                                                            
+Outcome: 01 Nausea and vomiting                                                                                        
+Study  Ketamine  Control  RR (fixed)  Weight  RR (fixed)
+or sub-category  n/N  n/N  95% CI  %  95% CI
+01 Number of patients with nausea
+ Roytblat 1993              2/11               2/11          1.90      1.00 [0.17, 5.89]        
+ Abdel-Ghaffar 1998        17/41              11/20         14.03      0.75 [0.44, 1.29]        
+ Adriaenssens 1999          1/15               6/15          5.69      0.17 [0.02, 1.22]        
+ Tan 1999                   8/30              11/30         10.43      0.73 [0.34, 1.55]        
+ Kirdemir 2000              0/10               1/10          1.42      0.33 [0.02, 7.32]        
+ Himmelseher 2001           2/18               5/19          4.61      0.42 [0.09, 1.91]        
+ Subramaniam (a) 2001       11/26              11/24         10.85      0.92 [0.49, 1.72]        
+ Jaksch 2002                7/15               4/15          3.79      1.75 [0.64, 4.75]        
+ Santawat 2002             34/40              31/40         29.40      1.10 [0.89, 1.36]        
+ Guillou 2003               2/41               4/52          3.35      0.63 [0.12, 3.29]        
+ Kararmaz 2003              1/20               6/20          5.69      0.17 [0.02, 1.26]        
+ Ünlügenc 2003              5/30               9/28          8.83      0.52 [0.20, 1.36]        
+Subtotal (95% CI) 297                284 100.00      0.80 [0.65, 0.98]
+Total events: 90 (Ketamine), 101 (Control)
+Test for heterogeneity: χ² = 17.81, df = 11 ( P = 0.09), I² = 38.2%
+Test for overall effect: Z = 2.13 ( P = 0.03)
+02 Number of patients vomiting
+ Roytblat 1993              1/11               2/11          5.64      0.50 [0.05, 4.75]        
+ Stubhaug 1997              0/10               5/10         15.51      0.09 [0.01, 1.45]        
+ Abdel-Ghaffar 1998         1/41               0/20          1.88      1.50 [0.06, 35.27]       
+ Chia 1998                  1/45               2/46          5.58      0.51 [0.05, 5.44]        
+ Adriaenssens 1999          1/15               2/15          5.64      0.50 [0.05, 4.94]        
+ Hercock 1999               5/24              11/25         30.39      0.47 [0.19, 1.16]        
+ Tan 1999                   4/30               8/30         22.56      0.50 [0.17, 1.48]        
+ Kirdemir 2000              0/10               0/10                Not estimable         
+ Himmelseher 2001           1/18               3/19          8.23      0.35 [0.04, 3.08]        
+ Snijdelaar 2004            0/13               1/11          4.56      0.29 [0.01, 6.38]        
+Subtotal (95% CI) 217                197 100.00      0.43 [0.25, 0.74]
+Total events: 14 (Ketamine), 34 (Control)
+Test for heterogeneity: χ² = 2.09, df = 8 ( P = 0.98), I² = 0%
+Test for overall effect: Z = 3.03 ( P = 0.002)
+03 Nausea and vomiting: All data
+ Roytblat 1993              3/11               4/11          2.05      0.75 [0.22, 2.60]        
+ Lauretti 1996              0/10               0/10                Not estimable         
+ Stubhaug 1997              0/10               5/10          2.81      0.09 [0.01, 1.45]        
+ Abdel-Ghaffar 1998        18/41              11/20          7.56      0.80 [0.47, 1.35]        
+ Chia 1998                  1/45               2/46          1.01      0.51 [0.05, 5.44]        
+ Adriaenssens 1999          2/15               8/15          4.09      0.25 [0.06, 0.99]        
+ Hercock 1999               5/24              11/25          5.51      0.47 [0.19, 1.16]        
+ Suzuki 1999               27/105              9/35          6.90      1.00 [0.52, 1.92]        
+ Tan 1999                  12/30              19/30          9.72      0.63 [0.38, 1.06]        
+ Kirdemir 2000              0/10               1/10          0.77      0.33 [0.02, 7.32]        
+ Menigaux 2000              3/30               3/15          2.05      0.50 [0.11, 2.19]        
+ Himmelseher 2001           3/18               8/19          3.98      0.40 [0.12, 1.26]        
+ Menigaux 2001              1/25               0/25          0.26      3.00 [0.13, 70.30]       
+ Papaziogas 2001            5/18               4/18          2.05      1.25 [0.40, 3.91]        
+ Subramaniam (a) 2001       11/26              11/24          5.85      0.92 [0.49, 1.72]        
+ Subramaniam (b) 2001        3/20               3/20          1.53      1.00 [0.23, 4.37]        
+ Guignard 2002              4/25               5/25          2.56      0.80 [0.24, 2.64]        
+ Jaksch 2002                7/15               4/15          2.05      1.75 [0.64, 4.75]        
+ Santawat 2002             34/40              31/40         15.85      1.10 [0.89, 1.36]        
+ Guillou 2003               2/41               4/52          1.80      0.63 [0.12, 3.29]        
+ Kararmaz 2003              1/20               6/20          3.07      0.17 [0.02, 1.26]        
+ Xie 2003                   5/28               5/14          3.41      0.50 [0.17, 1.44]        
+ Ünlügenc 2003              5/30               9/28          4.76      0.52 [0.20, 1.36]        
+ Argiriadou 2004            7/30               5/15          3.41      0.70 [0.27, 1.84]        
+ Kakinohana 2004           14/25              12/25          6.14      1.17 [0.68, 1.99]        
+ Snijdelaar 2004            0/13               1/11          0.83      0.29 [0.01, 6.38]        
+Subtotal (95% CI) 705                578 100.00      0.77 [0.65, 0.90]
+Total events: 173 (Ketamine), 181 (Control)
+Test for heterogeneity: χ² = 30.82, df = 24 ( P = 0.16), I² = 22.1%
+Test for overall effect: Z = 3.20 ( P = 0.001)
+04 24 hr PCA morphine trials PONV
+ Roytblat 1993              3/11               4/11         10.63      0.75 [0.22, 2.60]        
+ Stubhaug 1997              0/10               5/10         14.61      0.09 [0.01, 1.45]        
+ Adriaenssens 1999          2/15               8/15         21.25      0.25 [0.06, 0.99]        
+ Menigaux  2000  post        1/15               3/15          7.97      0.33 [0.04, 2.85]        
+ Menigaux 2000 pre          2/15               3/15          7.97      0.67 [0.13, 3.44]        
+ Guignard 2002              4/25               5/25         13.28      0.80 [0.24, 2.64]        
+ Jaksch 2002                7/15               4/15         10.63      1.75 [0.64, 4.75]        
+ Guillou 2003               2/41               4/52          9.37      0.63 [0.12, 3.29]        
+ Snijdelaar 2004            0/13               1/11          4.29      0.29 [0.01, 6.38]        
+Subtotal (95% CI) 160                169 100.00      0.59 [0.37, 0.94]
+Total events: 21 (Ketamine), 37 (Control)
+Test for heterogeneity: χ² = 8.71, df = 8 ( P = 0.37), I² = 8.1%
+Test for overall effect: Z = 2.20 ( P = 0.03)
+ 0.1  0.2  0.5  1  2  5  10
+ Favors treatment  Favors control
+Fig. 2. Meta-analysis: adverse effects (nausea and/or vomiting). PONV, postoperative nausea and vomiting; WMD, weighted mean
+difference; RR, relative risk; CI, confidence interval.Peri-operative ketamine for acute post-operative pain
+1425
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+extractable data regarding nausea and vomiting. It
+is recommended that future trials report adverse
+effects as dichotomous data.
+The large number of papers retrieved shows that
+there is considerable interest in the use of ketamine
+for acute post-operative pain. A number of studies are
+only published as abstracts. It will be interesting to see
+whether they are ultimately published, and how the
+new data will contribute to current findings.
+Conclusions
+Ketamine is effective in reducing morphine require-
+ments in the first 24 h after surgery. Adverse effects
+are mild or absent. Ketamine reduces post-operative
+nausea and vomiting. These data should be inter-
+preted with caution as the retrieved studies were
+heterogenous and the result of the meta-analysis
+can not be translated into any specific administra-
+tion regimen with ketamine.
+Future trials should focus on optimal dose and have
+long-term follow-up with regard to the development
+of hyperalgesia and chronic post-surgical pain. Trials
+of peri-operative ketamine in selected patient groups
+where opioid sparing is desirable would be of inter-
+est. Better reporting of adverse effects, for example as
+dichotomous data, is required.
+Acknowledgements
+The review will be published in an expanded form in the
+Cochrane Library. Searches were performed by Frances
+Fairman at the Cochrane Pain, Palliative and Supportive Care
+Collaborative review group (PaPas), Oxford UK. Phil Wiffen at
+PaPas gave valuable input. The review was supported by grants
+from the Research Council of Norway and the Center of
+Excellence in Palliative Care, Health Region Western Norway.
+References
+1. Schmid RL, Sandler AN, Katz J. Use and efficacy of low-dose
+ketamine in the management of acute postoperative pain: a
+review of current techniques and outcomes. Pain 1999; 82:
+111—25.
+2. Bell RF, Eccleston C, Kalso E. Ketamine as an adjuvant to
+opioids for cancer pain (Cochrane review). The Cochrane
+Library , Issue 1. Chichester: Wiley 2003.
+3. Fisher K, Coderre TJ, Hagen NA. Targeting the N-Methyl-D-
+Aspartate receptor for chronic pain management: preclinical
+animal studies, recent clinical experience and future
+research directions. J Pain Symptom Manage 2000; 20: 358—73.
+4. Arendt-Nielsen L, Nielsen J, Petersen-Felix S, Schnider TW,
+Zbinden AM. Effect of racemic mixture and the (S þ) isomer
+of ketamine on temporal and spatial summation of pain. Br J
+Anaesth 1996; 77: 625—31.
+5. Mao J. Opioid-induced abnormal pain sensitivity: implica-
+tions in clinical opioid therapy. Pain 2002; 100: 213—7.6. Guignard B, Bossard AE, Coste C, Sessler DI, Lebrault C,
+Alfonsi P et al. Acute opioid tolerance. Anesthesiology 2000;
+93: 409—17.
+7. Woolf CJ & Salter MW. Neuronal plasticity: increasing the
+gain in pain. Science 2000; 288: 1765—9.
+8. Price DD, Mayer DJ, Mao J, Caruso F. NMDA-receptor
+antagonists and opioid receptor interactions as related to
+analgesia and tolerance. J Pain Symptom Manage 2000; 19
+(Suppl. 1): 7—15.
+9. Colditz GA, Miller JN, Mosteller F. How study design affects
+outcomes in comparisons of therapy. I. medical. Stat Med
+1989; 8: 441—54.
+10. Schulz KF, Chalmers I, Hayes RJ, Altman DG. Empirical
+evidence of bias: dimensions of methodological quality asso-
+ciated with estimates of treatment effects in controlled trials.
+JAMA 1995; 273: 408—12.
+11. Jadad AR, Moore RA, Carroll D, Jenkinson C, Reynolds DJ,
+Gavaghan DJ et al. Assessing the quality of reports of ran-
+domized clinical trials: is blinding necessary? Control Clin
+Trials 1996; 17: 1—12.
+12. Smith LA, Oldman AD, Mcquay HJ, Moore RA. Teasing
+apart quality and validity in systematic reviews: an example
+from acupuncture trials in chronic neck and back pain. Pain
+2000; 86: 119—32.
+13. Morris JA, Gardner MJ. Calculating confidence intervals for
+relative risk, odds ratios and standardised ratios and rates.
+In:Statistics with Confidence —Confidence Intervals and
+Statistical Guidelines , Gardner MJ, Altman DG, eds. London:
+BMJ Books, 1995: 50—63.
+14. Gavaghan DJ, Moore RA, Mcquay HJ. An evaluation of
+homogeneity tests in meta-analyses in pain using simula-
+tions of individual patient data. Pain 2000; 85: 415—24.
+15. Higgins J, Thompson S, Deeks J, Altman D. Statistical het-
+erogeneity in systematic reviews of clinical trials: a critical
+appraisal of guidelines and practice. J Health Serv Res Policy
+2002; 7: 51—61.
+16. Moher D, Cook DJ, Eastwood S, Olkin I, Rennie D, Stroup DF
+et al. Improving the quality of reports of meta-analyses of
+randomised controlled trials: the QUOROM statement.
+Lancet 1999; 354: 1896—900.
+17. Gilabert Morell A, Sanchez Perez C. Effect of low-dose intra-
+venous ketamine in postoperative analgesia for hysterect-
+omy and adnexectomy (Spanish). Rev Esp Anestesiol Reanim
+2002; 49: 247—53.
+18. Dick W, Knoche E, Grundlach G, Klein I. Clinical experi-
+mental studies of postoperative analgesia (German).
+Anaesthesist 1983; 32: 272—8.
+19. Knoche E, Dick W, Bowdler I, Gundlach G. Clinical experi-
+mental studies of postoperative infusion analgesia. Clin Ther
+1983; 5: 585—94.
+20. Clausen L, Sinclair DM, Van Hasselt CH. Intravenous
+ketamine for postoperative analgesia. S Afr Med J 1975; 49:
+1437—40.
+21. Heinke VW, Grimm D. Preemptive effects through co-
+analgesia with ketamine in gynaecological laparotomies?
+Anaesthesiol Reanim 1999; 3: 60—4.
+22. Joachimsson P-O, Hedstrand U, Eklund A. Low-dose keta-
+mine infusion for analgesia during postoperative ventilator
+treatment. Acta Anaesthesiol Scand 1986; 30: 697—702.
+23. Reeves M, Lindholm DE, Myles PS, Fletcher H, Hunt JO.
+Adding ketamine to morphine for patient-controlled analge-
+sia after major abdominal surgery: a double-blinded, rando-
+mized controlled trial. Anesth Analg 2001; 93: 116—20.
+24. Sadove M, Shulman M, Hatano S, Fevold N. Analgesic
+effects of ketamine administered in subdissociative doses.
+Anesth Analg 1971; 3: 452—7.R. F. Bell et al.
+1426
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+25. Taura P, Fuster J, Blasi A, Martinez-Ocon J, Anglada T,
+Beltran J et al. Postoperative pain relief after hepatic resection
+in cirrhotic patients: the efficacy of a single small dose of
+ketamine plus morphine epidurally. Anesth Analg 2003; 96:
+475—80.
+26. Weinbroum AA. A single small dose of postoperative keta-
+mine provides rapid and sustained improvement in mor-
+phine analgesia in the presence of morphine-resistant pain.
+Anesth Analg 2003; 96: 789—95.
+27. Wong C-S, Liaw W-J, Tung C-S, Su Y-F, Ho S-T. Ketamine
+potentiates analgesic effect of morphine in postoperative
+epidural pain control. Reg Anesth 1996; 21: 534—41.
+28. U¨nlu¨genc H, Gu ¨ndu¨zM ,O ¨zalevli M, Akman H. A compara-
+tive study on the analgesic effect of tramadol, tramadol plus
+magnesium, and tramadol plus ketamine for postoperative
+pain management after major abdominal surgery. Acta
+Anaesthesiol Scand 2002; 46: 1025—30.
+29. Abdel-Ghaffar ME, Abdulatif M, Al-Ghamdi A, Mowafi H,
+Anwar A. Epidural ketamine reduces post-operative epi-
+dural PCA consumption of fentanyl/bupivacaine. Can J
+Anaesth 1998; 45: 103—9.
+30. Adriaenssens G, Vermeyen KM, Hoffmann VLH, Mertens E,
+Adriaensen HF. Postoperative analgesia with i.v. patient-
+controlled morphine: effect of adding ketamine. Br J
+Anaesth 1999; 83: 393—6.
+31. Aida S, Yamakura T, Baba H, Taga K, Fukuda S, Shimoji K.
+Preemptive analgesia by intravenous low-dose ketamine
+and epidural morphine in gastrectomy. Anesthesiology 2000;
+92: 1624—30.
+32. Argiriadou H, Himmelseher S, Papagiannopoulou P,
+Georgiou M, Kanakoudis F, Giala M et al. Improvement of
+pain treatment after major abdominal surgery by intrave-
+nous S þ-ketamine. Anesth Analg 2004; 98: 1413—8.
+33. Burstal R, Danjoux G, Hayes C, Lantry G. PCA ketamine and
+morphine after abdominal hysterectomy. Anaesth Intensive
+Care 2001; 29: 246—51.
+34. Chia Y-Y, Liu K, Liu Y-C, Chang H-C, Wong C-S. Adding
+ketamine in a multimodal patient-controlled epidural regi-
+men reduces postoperative pain and analgesic consumption.
+Anesth Analg 1998; 86: 1245—9.
+35. Dahl V, Ernoe PE, Steen T, Raeder JC, White PF. Does
+ketamine have preemptive effects in women undergoing
+abdominal hysterectomy procedures? Anesth Analg 2000;
+90: 1419—22.
+36. De Kock M, Lavand’homme P, Waterloos H. ‘Balanced
+analgesia’ in the perioperative period: is there a place for
+ketamine? Pain 2001; 92: 373—80.
+37. Guignard B, Coste C, Costes H, Sessler D, Lebrault C, Morris W
+et al. Supplementing desflurane-remifentanil anesthesia
+with small-dose ketamine reduces perioperative opioid
+analgesic requirements. Anesth Analg 2002; 95: 103—8.
+38. Guillou N, Tanguy M, Seguin P, Branger B, Campion J-P,
+Malledant Y. The effects of small-dose ketamine on mor-
+phine consumption in surgical intensive care unit patients
+after major abdominal surgery. Anesth Analg 2003; 97: 843—7.
+39. Hercock T, Gillham MJ, Sleigh J, Jones SF. The addition of
+ketamine to patient controlled morphine analgesia does not
+improve quality of analgesia after total abdominal hyster-
+ectomy. Acute Pain 1999; 2: 68—72.
+40. Himmelseher S, Ziegler-Pithamitsis D, Argiriadou H, Martin J,
+Jelen-Esselborn S, Kochs E. Small-dose S( þ)-ketamine
+reduces postoperative pain when applied with ropivacaine
+in epidural anesthesia for total knee arthroplasty. Anesth
+Analg 2001; 92: 1290—5.
+41. Ilkjær S, Nikolajsen L, Hansen TM, Wernberg M, Brennum J,
+Dahl JB. Effect of i.v. ketamine in combination with epiduralbupivacaine or epidural morphine on postoperative pain
+and wound tenderness after renal surgery. Br J Anaesth
+1998; 81: 707—12.
+42. Jaksch W, Lang S, Reichhalter R, Raab G, Dann K, Fitzal S.
+Perioperative small-dose S( þ)-ketamine has no incremental
+beneficial effects on postoperative pain when standard-
+practice opioid infusions are used. Anesth Analg 2002; 94: 981—6.
+43. Javery KB, Ussery TW, Steger HG, Colclough GW.
+Comparison of morphine and morphine with ketamine for
+postoperative analgesia. Can J Anaesth 1996; 43: 212—5.
+44. Kakinohana M, Higa Y, Sasara T, Saikawa S, Miyata Y,
+Tomiyama H et al. Addition of ketamine to propofol-
+fentanyl anaesthesia can reduce post-operative pain and
+epidural analgesic consumption in upper abdominal sur-
+gery. Acute Pain 2004; 5: 75—7.
+45. Kararmaz A, Kaya S, Karaman H, Turhanoglu S, Ozyilmaz
+MA. Intraoperative intravenous ketamine in combination
+with epidural analgesia: Postoperative analgesia after renal
+surgery. Anesth Analg 2003; 97: 1092—6.
+46. Kirdemir P , O ¨zkocak I, Demir T, Go ¨gu¨s N. Comparison of
+postoperative analgesic effects of preemptively used epidural
+ketamine and neostigmine. JC l i nA n e s t h 2000; 12: 543—8.
+47. Kwok RF, Lim J, Chan MT, Gin T, Chiu WK. Preoperative
+ketamine improves postoperative analgesia after gynecolo-
+gic laparoscopic surgery. Anesth Analg 2004; 98: 1044—9.
+48. Lauretti GR, Azevedo VMS. Intravenous ketamine or fenta-
+nyl prolongs postoperative analgesia after intrathecal neos-
+tigmine. Anesth Analg 1996; 83: 766—70.
+49. Lehmann KA, Klaschik M. Lack of pre-emptive analgesic
+effect of low-dose ketamine in postoperative patients. A
+prospective, randomised double-blind study (German).
+Schmerz 2001; 15: 248—53.
+50. Mathisen L, Aasbø V, Raeder J. Lack of pre-emptive analge-
+sic effect of (R)-ketamine in laparoscopic cholecystectomy.
+Acta Anaesth Scand 1999; 43: 220—4.
+51. Menigaux C, Fletcher D, Dupont X, Guignard B, Guirimand
+F, Chauvin M. The benefits of intraoperative small-dose
+ketamine on postoperative pain after anterior cruciate liga-
+ment repair. Anesth Analg 2000; 90: 129—35.
+52. Menigaux C, Guignard B, Fletcher D, Sessler DI, Dupont X,
+Chauvin M. Intraoperative small-dose ketamine enhances
+analgesia after outpatient knee arthroscopy. Anesth Analg
+2001; 93: 606—12.
+53. Murdoch CJ, Crooks BA, Miller CD. Effect of the addition of
+ketamine to morphine in patient-controlled analgesia.
+Anaesthesia 2002; 57: 484—500.
+54. Papaziogas B, Argiriadou H, Papagiannopoulou P , Pavlidis T,
+Georgiuo M, Sfyra E et al. Preincisional intravenous low-dose
+ketamine and local infiltration with ropivacaine reduces post-
+operative pain after laparoscopic cholecystectomy. Surg
+Endosc 2001; 15: 1030—3.
+55. Roytblat L, Korotkoruchko A, Katz J, Glazer M, Greemberg L,
+Fisher A. Postoperative pain: the effect of low-dose ketamine in
+addition to general anesthesia. Anesth Analg 1993; 77: 1161—5.
+56. Santawat U, Pongraweewan O, Lertakayamanee J,
+Rushatamukayanunt P, Phalakornkule N, Svasdi-Xuto O.
+Can ketamine potentiate the analgesic effect of epidural
+morphine, preincisional or postincisional administration?
+J Med Assoc Thai 2002; 85: S1024—S30.
+57. Snijdelaar DG, Cornelisse HB, Schmid RL, Katz J. A rando-
+mised, controlled study of peri-operative low dose s( þ)-
+ketamine in combination with postoperative patient-con-
+trolled s( þ)-ketamine and morphine after radical prostatec-
+tomy. Anaesthesia 2004; 59: 222—8.
+58. Stubhaug A, Breivik H, Eide PK, Kreunen M, Foss A.
+Mapping of punctuate hyperalgesia around a surgicalPeri-operative ketamine for acute post-operative pain
+1427
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+incision demonstrates that ketamine is a powerful suppres-
+sor of central sensitization to pain following surgery. Acta
+Anaesth Scand 1997; 41: 1124—32.
+59. Subramaniam B, Subramaniam K, Pawar DK, Sennaraj B.
+Preoperative epidural ketamine in combination with mor-
+phine does not have a clinically relevant intra-and post-
+operative opioid-sparing effect. Anesth Analg 2001; 93: 1321—6.
+60. Subramaniam K, Subramaniam B, Pawar DK, Kumar L.
+Evaluation of the safety and efficacy of epidural ketamine
+combined with morphine for postoperative analgesia after
+major upper abdominal surgery. JC l i nA n e s t h 2001; 13: 339—44.
+61. Suzuki M, Tsueda K, Lansing P, Tolan MM, Fuhrman TM,
+Ignacio CI et al. Small-dose ketamine enhances morphine-
+induced analgesia after outpatient surgery. Anesth Analg
+1999; 89: 98—103.
+62. Talu GK, O ¨zyalcin S, Dereli N, Sentu ¨rk M, Yu ¨cel A. The
+effect of ketamine administered preoperatively through dif-
+ferent routes on thoracotomy pain: a randomized, double
+blind, placebo controlled study (Turkish). Agri 2002; 14: 54—9.
+63. Tan P-H, Kuo M-C, Kao P-F, Chia Y-Y, Liu K. Patient-
+controlled epidural analgesia with morphine or morphine
+plus ketamine for post-operative pain relief. Eur J Anaesth
+1999; 16: 820—5.
+64. Xie H, Wang X, Liu G, Wang G. Analgesic effects and phar-
+macokinetics of a low dose of ketamine preoperatively
+administered epidurally or intravenously. Clin J Pain 2003;
+19: 317—22.
+65. U¨nlu¨genc H, O ¨zalevli M, Gu ¨ler T, Isik G. Postoperative pain
+management with intravenous patient-controlled morphine:
+Comparison of the effect of adding magnesium or ketamine.
+Eur J Anaesth 2003; 20: 416—21.
+66. Subramaniam K, Subramaniam B, Steinbrook RA. Ketamine
+as adjuvant analgesic to opioids: a quantitative and qualita-
+tive systematic review. Anesth Analg 2004; 99: 482—95.67. Elia N, Tramer MR. Ketamine and postoperative pain- a
+quantitative systematic review of randomised trials. Pain
+2005; 113: 61—70.
+68. Kalso E, Smith L, McQuay HJ, Andrew Moore R. No pain,
+no gain: clinical excellence and scientific rigour- lessons
+learned from IA morphine. Pain 2002; 98: 269—75.
+69. Eide PK, Jørum E, Stubhaug A, Bremnes J, Breivik H. Relief
+of postherpetic neuralgia with the N-methyl-D-aspartic acid
+receptor antagonist ketamine: a double-blind, cross-over
+comparison with morphine and placebo. Pain 1994; 58:
+347—54.
+70. Angst MS, Koppert W, Pahl I, Clark DJ, Schmelz M. Short-term
+infusion of the mu-opioid agonist remifentanil in humans
+causes hyperalgesia during withdrawal. Pain 2003; 106: 49—57.
+71. Kalso E, Perttunen K, Kaasinen S. Pain after thoracic sur-
+gery. Acta Anaesthesiol Scand 1992; 36: 96—100.
+72. Perttunen K, Tasmuth T, Kalso E. Chronic pain after thoracic
+surgery: a follow-up study. Acta Anaesthesiol Scand 1999; 43:
+563—7.
+73. Nikolajsen L, Sorensen HC, Jensen TS, Kehlet H. Chronic
+pain following Caesarean section. Acta Anaesthesiol Scand
+2004; 48: 111—6.
+74. Perkins FM, Kehlet H. Chronic pain as an outcome of sur-
+gery. A review of predictive factors. Anesthesiology 2000; 93:
+1123—33.
+Address:
+Rae F. Bell
+Pain Clinic, Department of Anaesthesia and Intensive Care
+Haukeland University Hospital and Department of Surgical
+Sciences University of Bergen
+Bergen
+Norway
+e-mail: rae.bell@helse-bergen.noR. F. Bell et al.
+1428
+ 13996576, 2005, 10, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1399-6576.2005.00814.x by National Taiwan University, Wiley Online Library on [11/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
