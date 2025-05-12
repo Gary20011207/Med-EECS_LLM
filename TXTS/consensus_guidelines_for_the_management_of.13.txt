@@ -1,0 +1,2692 @@
+January 2014 • Volume 118 • Number 1  www.anesthesia-analgesia.org  85Postoperative nausea and vomiting (PONV) are com-
+mon and distressing to patients. The general incidence of vomiting is about 30%, the incidence of nausea is 
+about 50%, and in a subset of high-risk patients, the PONV 
+rate can be as high as 80%.
+9–11 Unresolved PONV may result 
+in prolonged postanesthesia care unit (PACU) stay and 
+unanticipated hospital admission that result in a significant 
+increase in overall health care costs.12–14 The goal of PONV 
+prophylaxis is therefore to decrease the incidence of PONV 
+and thus patient-related distress and reduce health care 
+costs.12–15
+Several guidelines on the management of PONV have 
+been published.1–7 However, they are either in non-English 
+language,4,5,7 targeted for a specific surgical population,6 or 
+have not been updated in recent years.1–3 A recent update 
+by the American Society of Anesthesiologists task force on 
+postoperative care published practice guidelines for postop-
+erative care.8 Because the scope of the guidelines was broad, 
+covering patient assessment, monitoring, and overall man-
+agement of patients after anesthesia, and recommendations 
+on the risk assessment and management of PONV were not adequately addressed. The present guidelines are the most recent data on PONV and an update on the 2 previous sets of guidelines published in 2003 and 2007.
+1,2 A systematic litera-
+ture search yielded several hundred publications on PONV 
+since the 2007 guidelines, and a number of new antiemetics 
+were introduced along with new data on PONV manage-ment strategies. This update includes new information on PONV risk factors including a risk scoring system for post-
+discharge nausea and vomiting (PDNV); recommendations 
+Copyright © 2013 International Anesthesia Research Society
+DOI: 10.1213/ANE.0000000000000002The present guidelines are the most recent data on postoperative nausea and vomiting (PONV) 
+and an update on the 2 previous sets of guidelines published in 2003 and 2007. These guide-lines were compiled by a multidisciplinary international panel of individuals with interest and expertise in PONV under the auspices of the Society for Ambulatory Anesthesia. The panel mem-bers critically and systematically evaluated the current medical literature on PONV to provide an 
+evidence-based reference tool for the management of adults and children who are undergoing 
+surgery and are at increased risk for PONV . These guidelines identify patients at risk for PONV in adults and children; recommend approaches for reducing baseline risks for PONV; identify the most effective antiemetic single therapy and combination therapy regimens for PONV pro-phylaxis, including nonpharmacologic approaches; recommend strategies for treatment of PONV when it occurs; provide an algorithm for the management of individuals at increased risk for PONV as well as steps to ensure PONV prevention and treatment are implemented in the clinical setting. (Anesth Analg 2014;118:85–113)Consensus Guidelines for the Management of 
+Postoperative Nausea and Vomiting
+Tong J. Gan, MD, MHS, FRCA,* Pierre Diemunsch, MD, PhD,† Ashraf S. Habib, MB, FRCA,*  
+Anthony Kovac, MD,‡ Peter Kranke, MD, PhD, MBA,§ Tricia A. Meyer, PharmD, MS, FASHP ,║  Mehernoor Watcha, MD,¶ Frances Chung, MBBS,# Shane Angus, AA-C, MS,** Christian C. Apfel, MD, PhD,  
+†† Sergio D. Bergese, MD,‡‡ Keith A. Candiotti, MD,§§ Matthew TV Chan, MB, BS, FANZCA,║║  Peter J. Davis, MD,¶¶ Vallire D. Hooper, PhD, RN, CPAN, FAAN,##  Sandhya Lagoo-Deenadayalan, MD, PhD,*** Paul Myles, MD,†††  
+Greg Nezat, CRNA, CDR, USN, PhD,§§§ Beverly K. Philip, MD,║║║ and Martin R. Tramèr, MD, DPhil¶¶¶
+From the *Department of Anesthesiology, Duke University Medical Center, 
+Durham, North Carolina; †Service d’Anesthésiologie–Réanimation Chirurgicale, 
+CHU de Hautepierre, and EA 3072, Faculté de Médecine, Strasbourg, France; 
+‡Department of Anesthesiology, University of Kansas Medical Center, Kansas City, Kansas; §Department of Anesthesiology, University of Wuerzburg, Wuerzburg, Germany; ║ Department of Pharmacy/Anesthesiology, BaylorScott 
+& White Health, Temple, Texas ¶Department of Anesthesiology & Pediatrics, Texas Children’s Hospital, Baylor College of Medicine, Houston, Texas; #Department of Anesthesia, Toronto Western Hospital, University Health 
+Network, University of Toronto, Toronto, Ontario, Canada; **Department of 
+Anesthesiology and Perioperative Medicine, Case Western Reserve University School of Medicine, Washington, District of Columbia; ††Department of Anesthesia and Perioperative Care, UCSF Medical Center at Mt. Zion, San 
+Francisco, California; ‡‡Department of Anesthesiology, Wexner Medical Center, 
+Ohio State University, Columbus, Ohio; §§Department of Anesthesiology, Perioperative Medicine, and Pain Management, University of Miami, Miami, 
+Florida; ║║Department of Anaesthesia and Intensive Care, The Chinese 
+University of Hong Kong, Shatin, New Territories, Hong Kong; ¶¶Department 
+of Anesthesia, Children’s Hospital of Pittsburgh of UPMC, Pittsburgh, Pennsylvania; ## System Nursing Education and Research, Mission Health 
+System, Asheville, North Carolina; ***Department of Surgery, Duke University 
+Medical Center, Durham, North Carolina; †††Department of Anaesthesia and Perioperative Medicine, Alfred Hospital; Academic Board of Anaesthesia 
+and Perioperative Medicine, Monash University, Melbourne, Australia; 
+§§§Naval Medical Center Portsmouth, Porstmouth, Virginia; ║ ║║Department 
+of Anesthesiology, Perioperative and Pain Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, Massachusetts; and ¶¶¶Division of 
+Anaesthesiology, Geneva University Hospitals, Geneva, Switzerland.
+Accepted for publication September 13, 2013.Supplemental digital content is available for this article. Direct URL citations 
+appear in the printed text and are provided in the HTML and PDF versions of 
+this article on the journal’s Web site (www.anesthesia-analgesia.org).
+Funding: Not funded.Conflicts of Interest: See Disclosures at the end of the article.Reprints will not be available from the authors.Address correspondence to Tong J. Gan, MD, Department of Anesthesiology, 
+Duke University Medical Center, PO Box 3094, Durham, NC 27710. Address 
+e-mail to tjgan@duke.edu.SPECIAL ARTICLEESection Editor: Peter S. A. GlassSociety for Ambulatory Anesthesiology
+CME
+86   www.anesthesia-analgesia.org  ANESTh ESIA & ANAL gESIAE SPECIAL ARTICLE
+on new antiemetics, for example, neurokinin-1 receptor 
+antagonists; changes in recommendations from previous guidelines based on new published information on efficacy 
+and risk of antiemetics, including new data on QT prolon-
+gation; recommendation on a new antiemetic combination strategy and a multimodal prevention approach in adults and children to prevent PONV; implementation of PONV prevention and treatment strategies in the clinical setting 
+and a future research agenda for PONV management. The 
+new information is outlined at the beginning of each guide-line. The goal of the current guidelines is to provide current and comprehensive information to practicing physicians, 
+nurse anesthetists, anesthesiologist assistants, pharmacists, 
+perianesthesia, perioperative and ward nurses as well as other health care providers about strategies to prevent and treat PONV in adults and children undergoing surgery.
+ESTABLISHMENT OF EXPERT GUIDELINES
+The present guidelines were developed under the auspices of the Society for Ambulatory Anesthesia. While the previ-ous 2 sets of guidelines were funded through educational 
+grants, this update received no outside funding. Neither 
+the society nor the experts received any funding from industry for this work. Panel members gathered during a Society for Ambulatory Anesthesia midyear meeting, a 
+day before the commencement of the American Society of 
+Anesthesiologists annual meeting. The primary author con-vened a multidisciplinary international panel of individu-als, some of whom had previously developed the first and second guidelines,
+1,2 and sought additional experts from 
+other health care disciplines. The panel selections were based on significant expertise in this area of research and 
+representation in professional societies with an interest in the management of PONV . Panel members were asked to 
+review the medical literature on PONV (starting from 2007). 
+Working in groups, the participants researched a specific topic and presented evidence-based data to the group, who discussed the evidence and reached consensus on its inclu-sion in the guidelines. When full agreement could not be obtained, the majority view was presented, and the lack of full agreement was stated.
+METHODS
+We followed the guideline development process similar to that published in 2007.
+2 A systematic review of the litera-
+ture concerning PONV management in adult and pediatric patients undergoing surgery was conducted according to the protocol recommended by the Cochrane Collaboration.
+16 
+We searched the Cochrane Controlled Trials Register, the Cochrane Library, MEDLINE, and EMBASE from January 2007 to October 2011. A reference librarian and a coauthor (FC) familiar with literature search protocol of the Cochrane Collaboration (Marina Englesakis, Toronto, Ontario, 
+Canada) designed and conducted the electronic search strat-
+egy with input from members of the consensus panel. The search was divided into 6 areas: algorithms, prophylaxis, treatment effectiveness, nonpharmacological or alternative therapy, risk assessment, and risk reduction. The Medline search on algorithm of PONV protocols yielded 171 titles, prophylaxis 433 titles, treatment effectiveness 567 titles, and 
+nonpharmacological or alternative therapy 320 titles. The 
+search on risk assessment of PONV yielded 564 titles and 
+risk reduction 549 titles. The search strategy and the key-
+words used are presented in Appendix 1 (see Supplemental Digital Content 1, http://links.lww.com/AA/A688). We hand-searched the reference lists from the already retrieved WHAT OTHER GUIDELINES ARE AVAILABLE ON THIS TOPIC?
+Several guidelines on the management of postoperative nausea and vomiting (PONV) have been published.1–7 Among them, 2 were the 
+previous versions of the present guidelines by the same group, published in 2003 and 2007.1,2 One set of guidelines was published by the 
+American Society of Perianesthesia Nurses in 20063 and another published in the Canadian Journal of Obstetrics and Gynaecology in 2008.6 
+Subsequently, 3 PONV guidelines were published in the French, Spanish, and German language.4,5,7 A recent update on practice guidelines for 
+postoperative care was published by the American Society of Anesthesiologists task force on postoperative care.8
+WHY WAS THIS GUIDELINE DEVELOPED?
+The goal of the current guidelines is to provide current and comprehensive information to practicing physicians, nurse anesthetists, 
+anesthesiologist assistants, pharmacists, perianesthesia, perioperative and ward nurses as well as other health care providers about 
+strategies to prevent and treat PONV in adults and children undergoing surgery.
+HOW DOES THIS GUIDELINE DIFFER FROM EXISTING GUIDELINES?
+A systematic literature search yielded several hundred publications on PONV since the 2007 Society for Ambulatory Anesthesia PONV 
+guidelines, and a number of new antiemetics were introduced along with additional new data on PONV risk assessment and management 
+strategies. The present guidelines are the most recent data on PONV and an update on 2 previous sets of guidelines published in 2003 and 
+2007 by the same group.1,2 The 2 guidelines published in 2006 and 2008 focused primarily on perianesthesia nurses and gynecologists and 
+did not have up-to-date information on the management of PONV .3,6 The other 3 guidelines were published in non-English language.4,5,7 The 
+scope of the postoperative care guidelines published by the American Society of Anesthesiologists were broad, covering patient assessment, 
+monitoring, and overall management of patients after anesthesia, and recommendations on the risk assessment and management of PONV 
+were not adequately addressed.8
+WHY DOES THIS GUIDELINE DIFFER FROM EXISTING GUIDELINES?
+The present guidelines include new information on PONV risk factors; a risk scoring system for postdischarge nausea and vomiting; recommendations on new antiemetics, for example, neurokinin-1 receptor antagonists; changes in recommendations from previous guidelines 
+based on new published information on efficacy and risk of antiemetics, including new data on QT prolongation; recommendation on a new 
+antiemetic combination strategy and a multimodal prevention approach in adults and children to prevent PONV and implementation of PONV 
+prevention and treatment strategies in the clinical setting.
+Consensus Guidelines for the Management of PONV
+January 2014 • Volume 118 • Number 1  www.anesthesia-analgesia.org  87articles to identify further trials. The search was limited 
+to human trials but not limited by language. The librar -
+ian deleted duplicate records. Clinical studies reported by 
+Fujii et al were excluded due to research misconduct.17 The 
+search results were screened by the authors in a stepwise 
+manner to identify the eligible studies. In the first step, we 
+screened the titles, and irrelevant papers were excluded. In 
+the next step, we read the abstract or full text of the papers for inclusion. The number of and reason for excluded stud-ies in this step were recorded. We selected all reviews, trials, 
+or randomized controlled trials (RCTs) on PONV manage-
+ment (Appendix 1, see Supplemental Digital Content 1, http://links.lww.com/AA/A688).
+Goals of Guidelines
+The panel defined the following goals for the guidelines: (1) Understand who is at risk for PONV in adults and postop-erative vomiting (POV) in children; (2) Establish factors that 
+reduce the baseline risks for PONV; (3) Determine the most 
+effective antiemetic single drug and combination therapy regimens for PONV/POV prophylaxis, including pharma-cologic and nonpharmacologic approaches; (4) Ascertain the 
+optimal approach to treatment of PONV and PDNV with or 
+without PONV prophylaxis; (5) Determine the optimal dos-ing and timing of antiemetic prophylaxis; (6) Evaluate the cost-effectiveness of various PONV management strategies; (7) Create an algorithm to identify individuals at increased 
+risk for PONV and suggest effective treatment strategies; 
+and (8) Propose a research agenda for future studies.
+Scientific Evidence Grading
+A number of grading systems have been proposed to char -
+acterize the strength of evidence of the RCTs and observa-tional studies supporting a treatment. The panel decided to 
+use a scientific evidence grading system previously used by 
+the American Society of Anesthesiologists in their practice guidelines for acute pain management in the perioperative setting (Appendix 2).
+18 Study findings from published sci-
+entific literature were aggregated and are reported in sum-mary form by evidence category, as described below. All 
+literature (e.g., RCTs, observational studies, case reports) 
+relevant to each topic was considered when evaluating the findings.
+Guideline 1. Identify Patients’ Risk for PONV
+New information: Additional studies identify the younger age group (<50 years) as a significant risk factor for PONV (odds ratio, OR; 95% confidence interval [CI]): 1.79 (1.39–
+2.30) compared with those who are 50 years or older.
+19 Type 
+of surgery as a risk factor is still debated. New evidence sug-
+gests that cholecystectomy: 1.90 (1.36–2.68), gynecological 
+surgery: 1.24 (1.02–1.52), and laparoscopic: 1.37 (1.07–1.77) 
+approach are associated with a higher incidence of PONV when compared with general surgery as a reference group.
+20 
+The contribution of intraoperative opioids to PONV is weak, and there is no difference among the different opioids. A 
+recent meta-analysis reaffirmed previously known PONV 
+risk factors but with somewhat different order of impor -
+tance. Female gender was the strongest patient-specific pre-dictor (OR 2.57, 95% CI, 2.32–2.84), followed by a history of 
+PONV (2.09, 1.90–2.29), nonsmoking status (1.82, 1.68–1.98), history of motion sickness (1.77, 1.55–2.04), and age (0.88 per decade, 0.84–0.92). The use of volatile anesthetics was 
+the strongest anesthesia-related predictor (1.82, 1.56–2.13), followed by the duration of anesthesia (1.46 h
+−1, 1.30–1.63), 
+postoperative opioid use (1.47, 1.31–1.65), and nitrous oxide (1.45, 1.06–1.98).
+19,20
+PDNV is a major concern for the anesthesia care provider 
+with the growth in ambulatory surgeries. A new validated simplified risk score for adults for PDNV includes the risk 
+factors of female sex, age <50 years, history of PONV , opioid 
+use in PACU, and nausea in PACU.
+19
+A simplified risk score for PONV in adults is shown in 
+Table 1 and Figure 1. A simplified risk score for PDNV in adults is shown in Figure 2. A simplified risk score for POV 
+in children is shown in Figure 3.
+Patient Risk Assessment for PONV
+A number of risk factors have been associated with an 
+increased incidence of PONV . However, some of these factors may be only simple associations. For objective 
+risk assessment, it is recommended to focus on those that 
+independently predict PONV after accounting for other confounding factors. We identified those independent risk 
+Table 1.  Risk Factors for PONV in Adults
+Evidence Risk factors
+Positive overall Female sex (B1)
+History of PONV or motion sickness (B1)
+Nonsmoking (B1)Younger age (B1)
+General versus regional anesthesia (A1)
+Use of volatile anesthetics and nitrous oxide (A1)Postoperative opioids (A1)
+Duration of anesthesia (B1)
+Type of surgery (cholecystectomy, laparoscopic, 
+gynecological) (B1)
+Conflicting ASA physical status (B1)Menstrual cycle (B1)Level of anesthetist’s experience (B1)
+Muscle relaxant antagonists (A2)
+Disproven or of 
+limited clinical relevanceBMI (B1)
+Anxiety (B1)
+Nasogastric tube (A1)
+Supplemental oxygen (A1)Perioperative fasting (A2)
+Migraine (B1)
+PONV = postoperative nausea and vomiting; BMI = body mass index; MS = 
+motion sickness.
+Figure 1. Risk score for PONV in adults. Simplified risk score from 
+Apfel et al.9 to predict the patient’s risk for PONV . When 0, 1, 2, 3, 
+and 4 of the risk factors are present, the corresponding risk for PONV is about 10%, 20%, 40%, 60%, and 80%, respectively. PONV = postoperative nausea and vomiting.
+88   www.anesthesia-analgesia.org  ANESTh ESIA & ANAL gESIAE SPECIAL ARTICLE
+factors that remain significant in multivariable analyses of 
+large cohort studies (Table 1).
+The most likely causes of PONV are volatile anesthetics, 
+nitrous oxide, and postoperative opioids.21,22 The effect of 
+volatile anesthetics on PONV is dose-dependent and par -
+ticularly prominent in the first 2 to 6 hours after surgery.21 
+Irrespective of the specific drug given,23,24 postoperative 
+opioids also increase the risk for PONV in a dose-dependent 
+manner,25 and this effect appears to last for as long as opi-
+oids are used for pain control in the postoperative period.19 
+This most likely explains why the incidence of PONV is lower with opioid-free regional anesthesia
+26 and reduced 
+opioid consumption through the use of non-opioid analge-sics,
+27 perioperative alpha-2 agonists,28 and beta-blockers.29
+Despite the triggers mentioned above, many patients 
+do not experience PONV , most likely because the develop-ment of PONV also depends on the individual patient’s 
+susceptibility.
+30 Patient-specific risk factors for PONV in 
+adults include female sex, a history of PONV and/or motion sickness, nonsmoking status, and young age.9–11,19,21,31,32 Type 
+of surgery is strongly believed to be a risk factor for PONV , 
+yet it is difficult to prove that it is an independent risk fac-
+tor. Certain types of surgery may be associated with a fre-
+quent incidence of PONV (e.g., abdominal surgeries), not because of a specific emetogenic pathway, but could be as 
+a result of a long exposure to general anesthesia and higher 
+doses of opioids. More recent studies suggest laparoscopic, 
+gynecological surgery, and cholecystectomy are risk fac-
+tors that independently increase the risk for PONV .
+11,21,31,33–35 
+However, the reference groups used differed widely among studies, which may have led to a bias toward positive results.
+Evidence for other commonly believed risk factors 
+is either: (1) Not clinically relevant for the prediction 
+of PONV (e.g., anxiety),
+36 (2) Uncertain (e.g., menstrual 
+cycle,37 neostigmine,38,39 and perioperative fasting),40 or (3) 
+Disproven (e.g., nasogastric tube, obesity, and supplemen-
+tal oxygen).41–43
+Risk Score
+Like all drugs, antiemetics carry some risk for adverse effects, which range in severity from mild headache to pos-
+sibly more meaningful QTc prolongations that may rarely 
+be associated with cardiac arrest.
+44 Therefore, a patient’s 
+baseline risk for PONV should be objectively assessed using a validated risk score that is based on independent predic-tors, so the number and choice of prophylactic antiemetics 
+can be titrated against the patient’s risk.
+Even though there is strong evidence for a couple of truly 
+independent risk factors for PONV , none of those risk fac-
+tors taken alone as a single predictor is clinically sufficient 
+for a risk assessment or to make clinical decisions about the 
+need for prophylactic antiemetics.
+21 Therefore, a patient’s 
+baseline risk for PONV should be objectively assessed using a validated risk score that is based on these indepen-dent predictors. Indeed, use of PONV risk scores has been 
+demonstrated to significantly reduce the institutional rate of PONV .
+45–47 The 2 most commonly used risk scores for 
+inpatients undergoing balanced inhaled anesthesia are the Koivuranta score and the Apfel score.
+9,10 The Apfel simpli-
+fied risk score is based on 4 predictors: female sex, history of PONV and/or motion sickness, nonsmoking status, and use 
+of postoperative opioids (Fig. 1).
+9 The incidence of PONV 
+with the presence of 0, 1, 2, 3, and 4 risk factors is about 10%, 
+20%, 40%, 60%, and 80%, respectively.9 The panel consid-
+ers patients with 0–1, 2 or 3, and more risk factor as “low,” “medium,” and “high” risk categories, respectively.
+Given that several antiemetics are now generic and 
+inexpensive, some experts suggest it may be appropri-
+ate to give 1 or 2 antiemetics to all patients. However, this 
+strategy puts the low-risk patients at unnecessary risk for 
+rare but well-described side effects. Although risk scores are an objective approach to assessing the patient’s risk for 
+PONV or PDNV , they are not completely predictive, with 
+sensitivity and specificity of between 65% and 70%. In addi-
+tion, other clinically relevant aspects should also be taken 
+into consideration by the anesthesia care provider, such as whether vomiting would pose a significant medical risk, for 
+example, in patients with wired jaws, increased intracranial 
+pressure, and after gastric or esophageal surgery.
+Figure 3. Simplified risk score for POV in Children. Simplified risk 
+score from Eberhart et al.48 to predict the risk for POV in children. 
+When 0, 1, 2, 3, or 4 of the depicted independent predictors are present, the corresponding risk for PONV is approximately 10%, 10%, 30%, 50%, or 70%, respectively. POV = postoperative vomiting; PONV = postoperative nausea and vomiting.
+Figure 2. Simplified risk score for PDNV in adults. Simplified risk score from Apfel et al.
+19 to predict the risk for PDNV in adults. When 
+0, 1, 2, 3, 4, and 5 risk factors are present, the corresponding risk for PDNV is approximately 10%, 20%, 30%, 50%, 60%, and 80%, respec-tively. PDNV = postdischarge nausea and vomiting; PONV = postop-erative nausea and vomiting; PACU = postanesthesia care unit.
+Consensus Guidelines for the Management of PONV
+January 2014 • Volume 118 • Number 1  www.anesthesia-analgesia.org  89Because ambulatory procedures are typically shorter and 
+less invasive than inpatient procedures, they are associated 
+with a lower risk of PONV in the PACU.19 However, PDNV 
+presents a significant risk to discharged patients who, by definition, no longer have access to fast-onset IV antiemetics 
+or monitored care. A recent study on 2170 U.S. outpatients 
+reported that the incidence of PDNV is 37% in the first 48 hours after discharge and identified 5 independent predic-tors of PDNV including female sex, age<50 years, history of 
+PONV , opioid use in the PACU, and nausea in the PACU.
+19 
+Validation of a simplified PDNV risk score based on these 
+risk factors showed that the incidence of PDNV with 0, 1, 2, 
+3, 4, or 5 of these risk factors was about 10%, 20%, 30%, 50%, 
+60%, and 80%, respectively (Fig. 2).19
+Assessment for POV in Children
+In the 2007 Guidelines,2 we referred to a single center study 
+by Eberhart et al.48 who identified 4 independent predictors 
+of POV in children: duration of surgery >30 minutes; age >3 years; history of POV in patient, parent, or sibling; and 
+strabismus surgery. Based on the presence of 0, 1, 2, 3, and 
+4 factors, the risk of POV was 9%, 10%, 30%, 55%, and 70%, respectively (Fig. 3). Kranke et al.
+49 performed an external 
+validation of this score in a different institution in children not undergoing strabismus surgery. They noted the actual 
+incidence of POV when prophylaxis was not used was 3.4%, 
+11.6%, 28.2%, and 42.3%, respectively in the presence of 0, 1, 2, or 3 factors. These findings support the earlier recom-mendation of using a simplified score to estimate the child’s 
+risk of POV .
+Guideline 2. Reduce Baseline Risk Factors for 
+PONV
+New Information: Minimization of neostigmine dosage has 
+been removed from the list of strategies to reduce baseline risk as new evidence did not find this to be helpful, and the 
+evidence is contradictory. In children, subhypnotic doses of 
+propofol infusion in combination with an antiemetic signifi-cantly reduce incidence of PONV .
+50,51
+Approaches for decreasing baseline risk factors are pre-
+sented in Table 2.
+DISCUSSION
+Reducing baseline risk factors can significantly decrease the incidence of PONV . Strategies recommended to reduce baseline risk include: (1) The avoidance of general anesthe-
+sia by the use of regional anesthesia; (2) Preferential use 
+of propofol infusions; (3) Avoidance of nitrous oxide; (4) Avoidance of volatile anesthetics; (5) Minimization of peri-operative opioids; and (6) Adequate hydration (Table 2).
+2Use of regional anesthesia was associated with a lower 
+incidence of PONV than general anesthesia in both children and adults.
+11,52 Sinclair et al.11 found the risk for PONV was 
+9 times less among patients receiving regional anesthe-sia than those receiving general anesthesia. When general 
+anesthesia was required, use of propofol for induction and 
+maintenance of anesthesia decreased the incidence of early PONV (occurring within the first 6 hours; number-needed-to-treat [NNT] = 5).
+53
+The IMPACT study evaluated 6 strategies to reduce 
+PONV in 5199 high-risk patients.47 They found that a com-
+bination of propofol and air/oxygen (total IV anesthe-sia [TIVA]) had additive effects, reducing PONV risk by 
+approximately 25%.
+47 These findings are supported by 2 
+meta-analyses demonstrating that avoiding nitrous oxide 
+reduced PONV risk54,55 and a randomized, placebo-con-
+trolled trial showing that volatile anesthetics were the pri-mary cause of early PONV (0–2 hours after surgery), but 
+that they did not have an impact on delayed PONV (2–24 
+hours after surgery).
+21 However, nitrous oxide had little 
+impact when the baseline risk for PONV is low.55
+Baseline risk for PONV can also be reduced by minimiz-
+ing postoperative opioids.9,21,25,54,56–58 To achieve satisfac-
+tory analgesia without opioids, alternate modalities of pain management may be used. RCTs and meta-analyses show 
+that perioperative nonsteroidal anti-inflammatory drugs 
+(NSAIDs) and cyclooxygenase-2 inhibitors
+27,59,60 and less 
+so intraoperative ketamine61 may have a morphine-sparing 
+effect in the postoperative period. The decrease in opioid consumption using opioid analgesic adjuncts has been 
+demonstrated to decrease the incidence of opioid-related 
+nausea and vomiting.
+62
+Reducing the dose or avoiding neostigmine had been 
+shown to reduce the baseline risk for PONV . Meta-analyses demonstrate that high-dose neostigmine (>2.5 mg) was 
+associated with increased PONV and that reducing the dose 
+can decrease PONV risk.
+39,63 However, more recent data dis-
+puted the clinical importance of neostigmine’s effects on PONV .
+38 Hence, minimization of neostigmine dosage has 
+been removed from the list of strategies to reduce the base-line risk.
+Systematic reviews of RCTs show that supplemental oxy-
+gen had no effect on nausea or overall vomiting, although it may reduce the risk of early vomiting.
+64 As a result, supple-
+mental oxygen is not recommended for the prevention of PONV in these guidelines.
+A number of recently published studies demonstrate that 
+reducing baseline risk factors is also effective for decreasing the incidence of POV in children. In the pediatric patient population, regional anesthesia is usually performed while 
+the child is receiving general anesthesia to reduce stress 
+associated with inserting needles. A major benefit of a combined general and regional anesthetic technique is the reduction in perioperative opioid requirements and conse-quently, reduced postoperative emesis. Children random-
+ized to a wrist block during hand surgery had less emesis 
+than those receiving perioperative opioids.
+65 Similarly, chil-
+dren receiving a peribulbar block or topical lidocaine dur -
+ing strabismus repair had less emesis than a control group.66 
+In another study, there were fewer incidents of POV when children receive a bupivacaine-induced subtenon block Table 2.  Strategies to Reduce Baseline Risk
+Avoidance of general anesthesia by the use of regional anesthesia11,52 (A1)
+Use of propofol for induction and maintenance of anesthesia47 (A1)
+Avoidance of nitrous oxide43,54,55 (A1)
+Avoidance of volatile anesthetics47,2121,47 (A2)
+Minimization of intraoperative (A2) and postoperative 
+opioids9,21,25,54,56–58 (A1)
+Adequate hydration261,325(A1)
+GA =  general anesthesia.
+90   www.anesthesia-analgesia.org  ANESTh ESIA & ANAL gESIAE SPECIAL ARTICLE
+during strabismus surgery compared with a sham block 
+with saline.67 However, in a study of children undergo-
+ing cataract surgery, the reduction in emesis rates in those receiving a subtenon block with a lidocaine–bupivacaine 
+mixture did not reach statistical significance, although 
+this group had significantly less pain and drowsiness and required less rescue analgesia compared with those receiv-ing a sham block.
+68
+The benefit of propofol infusions during tonsillectomies 
+in pediatric patients has been studied.50,51 Children receiv-
+ing intraoperative propofol in subhypnotic doses (bolus of 1 mg/kg followed by an infusion at 20 mcg/kg/min) 
+combined with dexamethasone had less emesis than those 
+receiving dexamethasone alone.
+50 Similarly, treatment with 
+a combination of subhypnotic propofol and tropisetron provided better prophylaxis against POV than tropisetron 
+alone in this patient population.
+51
+NSAIDs are used in the perioperative period with the 
+aim of reducing opioid requirements, but there are con-
+cerns about increased postoperative bleeding with their 
+use. In a systematic review, Cardwell et al.69 concluded that 
+NSAIDs do not increase bleeding after tonsillectomy/ade-
+noidectomy procedures. In 12 trials evaluating the effect of 
+NSAIDS on POV in 928 children, less emesis was noted in 
+the treated groups (OR 0.49, 95% CI, 0.29–0.83).
+Adequate hydration is another simple strategy to reduce 
+emesis. Goodarzi et al.70 showed that high dose IV fluids at 
+30 mL/kg were associated with less emesis than the stan-dard 10 mL/kg therapy during strabismus repair. However, 
+routine gastric decompression and limiting oral intake after 
+surgery were ineffective in reducing emesis in the postop-erative period in children.
+71–73
+Guideline 3. Administer PONV Prophylaxis Using 
+1 to 2 Interventions in Adults at Moderate Risk for PONV
+New Information: Clinically approved drugs that are new 
+or with further studies since the last guidelines are: (1) 5HT3 
+receptor antagonists: ramosetron and palonosetron; (2) NK-1 receptor antagonist: aprepitant, casopitant, and rolapitant; (3) corticosteroid: methylprednisolone; (4) butyrophenone: haloperidol; and (5) antihistamine: meclizine. Concerns have been raised regarding the effects of the first generation 5HT
+3 receptor antagonists on the QTc interval. Dolasetron 
+is no longer marketed in the United States because of its risk of QTc prolongation and torsade de pointes. However, 
+the use of droperidol in combination with a 5HT
+3 receptor 
+antagonist, such as ondansetron, did not increase the risk 
+of QT prolongation. Recent studies raised concerns about 
+the effect of dexamethasone on postoperative infection and 
+blood glucose levels 6 to 12 hours postoperatively.
+Strategies not evaluated in the 2007 guidelines and found 
+to be not effective for PONV prophylaxis include music 
+therapy, isopropyl alcohol inhalation, intraoperative gastric 
+decompression, the proton pump inhibitor esomeprazole, ginger root, nicotine patch to nonsmokers, cannabinoids (nabilone and tetra-hydrocannabinol), and intraoperative supplemental oxygen. Morindal citrofolin linn (noni fruit) 
+showed effectiveness in reducing early postoperative nau-
+sea. A small dose (2 mg) of midazolam when given toward the end of surgery is effective in reducing PONV . Since the publication of the last guideline, a new meta-analysis 
+on P6 stimulation has been published. The timing of acu-
+point P6 electrical stimulation did not impact PONV with similar reductions in PONV achieved when the stimulation was initiated either before or after anesthesia induction. Neuromuscular stimulation over the median nerve reduced 
+PONV in the early postoperative period, particularly when 
+tetanic stimulation was used. While adequate IV fluid hydration was effective to reduce PONV , the type of fluid (crystalloid versus colloid) did not have an effect on PONV 
+when similar volumes were used in surgeries with minimal 
+fluid shifts.
+Prophylactic doses and timing for administration of anti-
+emetics in adults are shown in Table  3. A treatment algo-rithm is presented in Figure 4.
+DISCUSSION
+The recommended pharmacologic antiemetics for PONV prophylaxis in adults include the 5-hydroxytryptamine 
+Table 3.  Antiemetic Doses and Timing for Prevention of PONV in Adults
+Drugs Dose Evidence Timing Evidence
+Aprepitant 40 mg per os A2113,115At induction A2113
+Casopitant 150 mg per os A3117,118At induction
+Dexamethasone 4–5 mg IV A1121At induction A1326
+Dimenhydrinate 1 mg/kg IV A1152–154
+Dolasetron 12.5 mg IV A284,85End of surgery; timing may not affect efficacy A285
+Droperidola0.625–1.25 mg IV A1138,139End of surgery A1140
+Ephedrine 0.5 mg/kg IM A2223,224
+Granisetron 0.35–3 mg IV A191–93End of surgery A1108–110
+Haloperidol 0.5–<2 mg IM/IV A1146
+Methylprednisolone 40 mg IV A2137
+Ondansetron 4 mg IV , 8 mg ODT A174,75End of surgery A1107
+Palonosetron 0.075 mg IV A2105,106At induction A2105,106
+Perphenazine 5 mg IV A1162
+Promethazine 6.25 - 12.5 mg IV A2222,295
+Ramosetron 0.3 mg IV A2102End of surgery A2102
+Rolapitant 70–200 mg per os A3119At induction
+Scopolamine Transdermal patch A1157,158Prior evening or 2 h before surgery A1157
+Tropisetron 2 mg IV A197End of surgery Expert opinion
+These recommendations are evidence-based, and not all the drugs have an FDA indication for PONV . Drugs are listed alphabetically.
+aSee FDA Black box warning.
+Consensus Guidelines for the Management of PONV
+January 2014 • Volume 118 • Number 1  www.anesthesia-analgesia.org  91(5-HT3) receptor antagonists (ondansetron, dolasetron, 
+granisetron, tropisetron, ramosetron, and palonosetron), 
+neurokinin-1 (NK-1) receptor antagonists (aprepitant, casopitant, and rolapitant), corticosteroids (dexametha-sone and methylprednisolone), butyrophenones (droperi-dol and haloperidol), antihistamines (dimenhydrinate and meclizine), and anticholinergics (transdermal scopolamine 
+[TDS]). While PONV prevention is recommended in a sub-
+set of patients, current evidence does not support giving prophylactic antiemetics to all patients who undergo surgi-cal procedures. However, with more inexpensive generics becoming available, properly conducted cost-effectiveness (C/E) studies need to be done to support the more uni-versal use of prophylactic antiemetics. Ondansetron 4 mg, droperidol 1.25 mg, and dexamethasone 4 mg were equally effective, and each independently reduced PONV risk by 
+approximately 25%.
+47 The recommended doses and timing 
+of these drugs are listed in Table 3. Recommendations given Adult Risk Factor sC hildren Risk Factor s
+Patient Related   Envir onmenta lS urgery > 30 mi n
+Histor y of PONV/motio n sicknes sPostop opioid sA ge > 3 year s
+Fema le gender Emetogenic surg eryS trabismus surger y
+Non-smoke r( type and duration )H istory of  POV/relative with PONV
+Cost -
+effectiv enes sConsider
+Low
+Wait and Se eHigh
+>2Interventions /
+Multimodal Approach
+Dexa-
+methasone
+5-HT3 
+antag onist
+Non
+Pharmacological:
+Acupuncture
+Scopolam ine
+PerphenazineDimen-
+hydrinatePropofol subh ypnotic 
+dose infusi on or 
+Propofol in PACU    
+(rescue only )NK-1 receptor  
+antago nistsDroperidol †
+HaloperidolRegi onal 
+Anesthe siaPropofol  
+Anesthe sia
+Portfolio of
+proph ylaxis
+and treatmen t
+strategies
+Treatment Options
+•If prophylaxis fails or was not receiv ed: use 
+antiemetic fr om di fferent class than prophylactic  
+drug
+•Readminister only  if >6 hours af ter PA CU; 
+•Do not readminister dexamethasone or  
+scopolamine†Use droperidol in  
+children only  if other 
+therapy has failed and 
+patient is being 
+admit ted to hospital ;
+Haloperidol for adults  
+onlyPatient preference s
+Fear of  PONV
+Frequency of  
+PONV causing  
+headaches/migraineReducing baseline risk s
+Avoidance/mini mization of :
+Nitrous oxid e
+Volatile ane sthetics
+Post-o popioids
+Medium
+Pick 1 or 2 Interv entionsPatient risk
+Figure 4. Algorithm for management of postoperative nausea and vomiting. PONV = postoperative nausea and vomiting.
+92   www.anesthesia-analgesia.org  ANESTh ESIA & ANAL gESIAE SPECIAL ARTICLE
+are evidence based, and not all the drugs have a Food and 
+Drug Administration (FDA) indication for PONV .
+5-HT3 Receptor Antagonists
+Ondansetron
+Most of the available research on the 5-HT3 receptor antago-
+nists involves ondansetron, which has greater antivomiting 
+than antinausea effects. Ondansetron is the “gold standard” 
+compared with other antiemetics. It has a recommended 
+dose of 4 mg, a NNT of approximately 6 for prevention of vomiting (0–24 hours), and a NNT of approximately 7 
+for prevention of nausea.
+74 The effect of the ondansetron 
+8 mg oral disintegrating table is equivalent to the 4 mg 
+IV dose.75,76 Ondansetron is as effective as other 5-HT3s74 
+including ramosetron 0.3 mg.77 It is also as effective as dexa-
+methasone47 and haloperidol 1 mg IV ,78–80 with no difference 
+in effect on the QTc interval.81 However, it is less effective 
+than aprepitant81 for reducing emesis and palonosetron for 
+the incidence of PONV .82
+Dolasetron
+Prospective RCTs show a prophylactic dose of 12.5 mg 
+dolasetron effectively prevents PONV .83–85 That prophylac-
+tic dose is as effective as ondansetron 4 mg.86,87 Other data 
+show dolasetron is more effective than droperidol in pre-venting PONV after surgery for prognathism.
+88 A study 
+by Janicki et al.89 found granisetron is more effective in 
+preventing PONV than dolasetron. These differences may be due to duplication of the CYP2D6 allele causing ultrar -
+apid metabolism of dolasetron. In December 2010, the FDA 
+announced that IV dolasetron should no longer be used for chemotherapy-induced nausea and vomiting in adults 
+and children because of concerns of QT prolongation and torsade de pointes.
+90 At present, dolasetron is no longer 
+marketed in the United States but may be available in other countries.
+Granisetron
+Granisetron, 0.35 to 3 mg IV (5–20 mcg/kg), is as effec-
+tive as other first generation 5HT
+3 receptor antagonists.91–93 
+Granisetron, 3 mg IV , is also as effective as dexamethasone 
+8 mg, and the combination is better than either drug alone.94 
+Similarly, granisetron 1 mg plus cyclizine 40 mg is more effective than granisetron 1 mg or cyclizine 50 mg alone.
+95 
+However, compared with palonosetron 0.075 mg, granis-etron 2.5 mg is as effective at 3 hours and 3 to 24 hours but less effective at 24 to 48 hours.
+96
+Tropisetron
+Tropisetron 2 mg IV is effective for PONV prophylaxis.97 It 
+is as effective as ondansetron, granisetron,98 and droperidol 
+and more effective than metoclopramide.99 The combina-
+tion of tropisetron plus dexamethasone is more effective 
+than either drug alone.100 Tropisetron is not approved in the 
+United States.
+Ramosetron
+Ramosetron is not approved in the United States but avail-
+able in other parts of the world. It is more effective with 
+IV versus PO dosing (1–24 hours postoperatively).101 
+Ramosetron 0.3 mg IV is the most effective dose to prevent vomiting and decrease nausea for patients receiving fen-
+tanyl patient-controlled analgesia (PCA).102
+Palonosetron
+Palonosetron is a second generation 5HT3 receptor antago-
+nist with a half-life of 40 hours.103,104 The most effective dose 
+is 0.075 mg IV approved for 24 hours.105,106 Palonosetron 
+0.075 mg is more effective than granisetron 1 mg96 and 
+ondansetron 4 mg82 in preventing PONV .
+Timing of Administration
+Ondansetron, dolasetron, granisetron, and tropisetron are 
+most effective in the prophylaxis of PONV when given 
+at the end of surgery,85,107–110 although some data on dola-
+setron suggest timing may have little effect on efficacy.111 
+Palonosetron is typically given at the start of surgery.105,106
+Adverse Events
+The 5-HT3 receptor antagonists have a favorable side effect 
+profile, and while generally considered equally safe, all 
+except palonosetron affect the QTc interval. In June 2012, the U.S. FDA recommended the dose of ondansetron for chemo-therapy-induced nausea and vomiting should not exceed 16 
+mg in a single dose because of risks of QT prolongation. In 
+December 2012, the FDA notified that the 32 mg single IV 
+dose will no longer be marketed.
+112 However, there was no 
+change in the recommended dose of ondansetron 4 mg to 
+prevent PONV .90 The number-needed-to-harm (NNH) with 
+a single dose of ondansetron is 36 for headache, 31 for ele-vated liver enzymes, and 23 for constipation.
+54
+Nk-1 Receptor Antagonists
+Aprepitant
+Aprepitant is an NK-1 receptor antagonist with a 40-hour 
+half-life. In 2 large RCTs, aprepitant (40 and 80 mg per os) was similar to ondansetron in achieving complete response (no vomiting and no use of rescue antiemetic) for 24 hours after surgery. However, aprepitant was significantly more 
+effective than ondansetron for preventing vomiting at 24 
+and 48 hours after surgery and in reducing nausea severity 
+in the first 48 hours after surgery.
+81,113 It also has a greater 
+antiemetic effect compared with ondansetron. When used in 
+combination, aprepitant 40 mg per os, plus dexamethasone, is more effective than ondansetron plus dexamethasone in preventing POV in patients undergoing craniotomy.
+114 A 
+dose-ranging study for gynecologic laparotomy patients found a 80 mg per os dose of aprepitant is the most appro-priate dose and is more effective than a 40 mg dose.
+115 The 
+clinical experience with the use of aprepitant is still limited, and its role in routine prophylaxis is not established.
+116
+Casopitant
+A Phase 3 study of casopitant shows the combination of 
+casopitant, 50 to 150 mg per os, plus ondansetron 4 mg, is more effective than ondansetron alone.
+117,118 Casopitant has 
+not been approved for use.
+Rolapitant
+Rolapitant has a 180-hour half-life and better PONV pro-
+phylaxis than placebo. A clinical trial by Gan et al.119 showed 
+no difference between groups receiving oral rolapitant and 
+Consensus Guidelines for the Management of PONV
+January 2014 • Volume 118 • Number 1  www.anesthesia-analgesia.org  93ondansetron 4 mg IV at 24 hours, but more patients expe-
+rienced no emesis with the rolapitant 70 and 200 mg doses 
+at 72 and 120 hours, respectively. Rolapitant has not been approved for use.
+Corticosteroids
+Dexamethasone
+The corticosteroid dexamethasone effectively prevents nau-
+sea and vomiting in postoperative patients.120,121 A prophy-
+lactic dose of 4 to 5 mg IV for patients at increased risk for 
+PONV is recommended after anesthesia induction rather 
+than at the end of surgery.121 For PONV prophylaxis, the 
+efficacy of dexamethasone 4 mg IV is similar to ondansetron 
+4 mg IV and droperidol 1.25 mg IV .47 More recent studies 
+increasingly use the higher dose of dexamethasone 8 mg IV rather than the minimum effective dose of 4 to 5 mg.
+122–126
+Preoperative dexamethasone 8 mg enhances the postdis-
+charge quality of recovery in addition to reducing nausea, 
+pain, and fatigue.127 Dexamethasone also has dose-depen-
+dent effects on quality of recovery. At 24 hours, patients receiving dexamethasone 0.1 vs 0.05 mg/kg required less 
+opioid and reported less nausea, sore throat, muscle pain, 
+and difficulty falling asleep.
+128 A meta-analysis evaluating 
+the dose-dependent analgesic effects of perioperative dexa-
+methasone found that doses >0.1 mg/kg are an effective adjunct in multimodal strategies to reduce postoperative 
+pain and opioid consumption.
+129,130 With these additional 
+benefits of pain relief and better quality of recovery, a pro-
+phylactic dose of dexamethasone 0.1 mg/kg or 8 mg in adults may be considered though further confirmation is 
+needed for this larger dose.
+Data on safety of perioperative dexamethasone are 
+inconclusive. In most studies, a single dose of periopera-
+tive dexamethasone does not appear to increase the risk 
+of wound infection.
+120,129 However, a recent study reported 
+that intraoperative dexamethasone 4 to 8 mg may confer an 
+increased risk of postoperative infection.131 Weighing the 
+risk-benefit ratio, a recent editorial suggests a single dose of 
+dexamethasone 4 to 8 mg is safe when used for PONV pro-
+phylaxis.132 In addition, recent studies showed significant 
+increases in blood glucose that occur 6 to 12 hours postop-
+eratively in normal subjects,133,134 those with impaired glu-
+cose tolerance,134 and type 2 diabetic135 and obese134 surgical 
+patients who receive dexamethasone 8 mg. In view of this 
+evidence, use of dexamethasone in labile diabetic patients is relatively contraindicated.
+Methylprednisolone
+Methylprednisolone 40 mg IV is effective for the prevention 
+of late PONV .
+136,137 There is no evidence to suggest that the 
+adverse effect of methylprednisolone is any different from 
+dexamethasone.
+Butyrophenones
+Droperidol
+Prophylactic doses of droperidol 0.625 to 1.25 mg IV are 
+effective for the prevention of PONV .138–140 The efficacy of 
+droperidol is similar to ondansetron for PONV prophylaxis, 
+with an NNT of approximately 5 for prevention of nausea 
+and vomiting (0–24 hours).140 Droperidol is most effective 
+when administered at the end of surgery.140 For PONV prevention, droperidol is superior to metoclopramide doses 
+of <20 mg.141 A recent meta-analysis suggests that with pro-
+phylactic low-dose droperidol (<1 mg or 15 µg/kg IV) in 
+adults, there is still significant antiemetic efficacy with a low 
+risk of adverse effects.142
+Many physicians stopped using droperidol in 2001 due 
+to the FDA “black box” restrictions on its use. However, the 
+droperidol doses used for the management of PONV are 
+extremely low, and it is believed that at these dosing lev-
+els, droperidol is unlikely to be associated with significant 
+cardiovascular events. Several studies have documented 
+the equal QTc effects of droperidol versus ondansetron.44,143 
+In an in vitro electrophysiological drug interaction study, ondansetron did not further increase the QT prolongation 
+caused by droperidol when used in clinically relevant con-
+centrations.
+144 In a clinical study, droperidol plus ondanse-
+tron combination was more effective than either drug alone, and QT prolongation with the combination versus placebo 
+was equivalent to either drug alone.
+145 Due to the 2001 black 
+box warning, droperidol is not the first choice for PONV 
+prophylaxis in many countries. However, a recent survey 
+suggested that in 19 of 24 European countries, representing 
+an estimated 73,000 anesthesiologists, droperidol is regu-larly used as an antiemetic.
+142
+Haloperidol
+Haloperidol has antiemetic properties when used in low 
+doses and has been investigated as an alternative to dro-
+peridol.146,147 At doses much lower than those used to treat 
+psychiatric disorders, 0.5 to 2 mg IM or IV , haloperidol effectively reduced PONV risk with a NNT of between 4 
+and 6.
+146 At these doses, sedation does not occur, and car -
+diac arrhythmias are not reported. Haloperidol carries a risk 
+of QTc prolongation in its label and is not recommended as first-line therapy. Haloperidol 1 mg IM or IV may be 
+regarded as an alternative to droperidol. Of potential inter -
+est, haloperidol may be given IM or orally. Its efficacy can be increased when combined with other antiemetics such 
+as dexamethasone or ondansetron. As with droperidol, the 
+combination of haloperidol with the 5-HT
+3 receptor antago-
+nists does not increase the risk of QT prolongation.148 Only 
+one of 806 patients (0.1%) exposed to haloperidol 4 mg had 
+extrapyramidal symptoms.146
+When haloperidol 1 mg was compared with ondanse-
+tron 4 mg and placebo, there was no difference in QTc effect 
+among the 3 groups. There was no difference in PONV inci-dence between haloperidol and ondansetron given before 
+the end of surgery, but both were not significantly better 
+than placebo at 24 hours.
+78 There was no difference in early 
+antiemetic efficacy between haloperidol 1 mg and ondan-
+setron 4 mg and no difference in the risk of QT prolonga-
+tion.80 Comparing haloperidol 2 mg IV vs ondansetron 4 
+mg IV given before the end of surgery, there was no differ -
+ence in effect on early versus late PONV or QTc prolonga-tion.
+79 However, Meyer-Massetti et al.149 recently reviewed 
+the literature and all FDA Med Watch reports of haloper -
+idol-associated adverse events and recommended doses of haloperidol <2 mg to reduce the risk of side effects and 
+QT prolongation. Low-dose haloperidol 1 mg vs droperi-
+dol 0.625 mg given after induction showed no difference in 
+early or late PONV and no extrapyramidal symptoms with 
+94   www.anesthesia-analgesia.org  ANESTh ESIA & ANAL gESIAE SPECIAL ARTICLE
+either drug.150 The timing of haloperidol 2 mg IV at induc-
+tion versus end of surgery administration did not make a 
+difference.151 It should be noted that the use of haloperidol 
+as an antiemetic or the IV route of administration is not an 
+FDA-approved indication.
+Antihistamines
+Dimenhydrinate
+Dimenhydrinate is an antihistamine with antiemetic 
+effects. The recommended dose is 1 mg/kg IV .152–154 Data 
+from placebo-controlled trials suggest that its antiemetic efficacy may be similar to the 5-HT
+3 receptor antagonists, 
+dexamethasone, and droperidol.154 However, not enough 
+data are available to establish the optimal timing and dose response for dimenhydrinate administration or its side effect profile. Direct comparisons with other antiemetic 
+drugs are lacking.
+Meclizine
+Meclizine has a longer duration of PONV effect than ondan-
+setron.
+155 Meclizine 50 mg per os plus ondansetron 4 mg IV is 
+more effective than either ondansetron or meclizine alone.155
+Anticholinergic
+Transdermal Scopolamine
+A systematic review of TDS showed that it is useful as an 
+adjunct to other antiemetic therapies.156 The patch effec-
+tively prevented nausea and vomiting postoperatively up to 24 hours with a NNT of 6. It can be applied the evening 
+before surgery or 2 to 4 hours before the start of anesthesia due to its 2- to 4-hour onset of effect.
+156,157 Adverse events 
+associated with TDS are generally mild, the most common 
+being visual disturbances (NNH = 5.6), dry mouth (NNH = 
+13), and dizziness (NNH = 50).158 Dry mouth occurs mostly 
+on the first day of use. A higher prevalence of visual distur -
+bances can be observed at 24 to 48 hours.156 TDS is useful 
+for control of nausea in the setting of PCA.159,160 New data 
+show equal effectiveness with single drug therapy using 
+TDS, ondansetron, or droperidol.161
+Phenothiazines
+Perphenazine
+Perphenazine is a phenothiazine derivative that has been 
+used for the prevention of PONV at doses between 2.5 mg to 5 mg IV or IM.
+162 A recent systematic review from 6 RCTs 
+demonstrated a relative risk reduction (RRR) of 0.5 (95% CI, 0.37–0.67) for PONV with a recommended dose of 5 mg IV , with no increase in sedation and drowsiness when com-
+pared with placebo.
+162
+Metoclopramide
+Metoclopramide is a weak antiemetic and at a dose of 10 
+mg is not effective in reducing the incidence of nausea and vomiting.
+163 In a study with >3000 patients, meto-
+clopramide had an antiemetic effect when given in doses larger than 20 mg. Metoclopramide’s dose-response curve was evaluated in the presence of dexamethasone 8 mg 
+IV administered 30 to 60 minutes before the end of sur -
+gery. Metoclopramide in 25 and 50 mg doses had an effect 
+similar to ondansetron 4 mg for early PONV but a smaller 
+effect than ondansetron for late PONV . The NNT for metoclopramide 10, 25, and 50 mg for PONV at 24 hours 
+is 30, 16, and 11, respectively. Dyskinesia or extrapyrami-dal symptoms were 0.3%, 0.6%, and 0.6%, respectively, and 
+can increase with increasing metoclopramide doses. The NNH for extrapyramidal symptoms with the 25 or 50 mg 
+doses is 140.
+35
+Other Antiemetics
+Propofol
+Propofol is a sedative-hypnotic widely used for induction 
+and maintenance of general anesthesia and monitored anesthesia care sedation with local or regional anesthesia.
+164 
+Numerous studies have demonstrated propofol has anti-
+emetic properties. The median plasma propofol concentra-
+tion associated with an antiemetic response was 343 ng/
+mL, which is much lower than the concentration ranges associated with general anesthesia (3–6 mcg/mL) or seda-
+tion (1–3 mcg/mL), allowing propofol to have antiemetic 
+properties in the subhypnotic dose range.
+165
+Propofol used as part of TIVA is recommended to reduce 
+baseline risk for PONV . The use of propofol for induction and maintenance of anesthesia decreases the incidence of 
+early PONV (occurring within the first 6 hours), with the 
+NNT = 5.
+53,166 The combination of propofol and air/oxygen 
+(TIVA) reduces the PONV risk by approximately 25%.47 A 
+systematic review of 58 studies demonstrated that use of 
+propofol versus inhaled anesthesia also reduced the inci-
+dence of PDNV .167
+The benefit of a small dose propofol infusion (bolus of 1 
+mg/kg followed by an infusion at 20 mcg/kg/min), either by itself or in combination with other antiemetics, has been shown to reduce PONV .
+50,51
+Propofol, in small doses (20 mg as needed), can be used 
+for rescue therapy for patients in the direct care environ-ment, for example, PACU, and has been found as effective 
+as ondansetron.
+168,169 However, the antiemetic effect with 
+low doses of propofol is likely brief.
+Alpha2-Agonists
+In a meta-analysis, perioperative systemic alpha2-adreno-
+ceptor agonists (clonidine and dexmedetomidine) showed a significant albeit weak and short-lived antinausea effect.
+170 
+This effect may be explained by direct antiemetic properties 
+of alpha2-agonists or its opioid-sparing effect, although the biological basis remains obscure.
+Mirtazapine
+Mirtazapine is a noradrenergic and specific serotonergic 
+antidepressant.
+Prophylactic mirtazapine delays the onset of PONV .
+171 
+Mirtazapine 30 mg per os plus dexamethasone 8 mg reduces the incidence of late PONV by >50% compared with dexa-
+methasone 8 mg alone. Less rescue medication is needed 
+with the combination of antiemetics.
+Gabapentin
+Gabapentin doses of 600 mg per os given 2 hours before 
+surgery effectively decreases PONV .
+172–174 Given 1 hours 
+before surgery, gabapentin 800 mg per os is as effective as 
+dexamethasone 8 mg IV , and the combination is better than 
+either drug alone.175
+Consensus Guidelines for the Management of PONV
+January 2014 • Volume 118 • Number 1  www.anesthesia-analgesia.org  95Midazolam
+Midazolam decreases nausea and vomiting compared 
+with placebo.176,177 Midazolam 2 mg when administered 30 
+minutes before the end of surgery was as effective against 
+PONV as ondansetron 4 mg.178 While there was no signifi-
+cant difference using midazolam 0.075 mg/kg or dexameth-asone 10 mg, their combination provided a more favorable 
+effect than either drug alone.
+179,180 Midazolam 1 mg/h was 
+as effective as a subhypnotic dose of propofol 1 mg/kg/h when given at the end of surgery.
+177 For PONV prophylaxis, 
+midazolam was more effective than metoclopramide 10 mg.
+181,182 Midazolam 2 mg given 30 minutes before end of 
+surgery decreased PONV more effectively than midazolam 35 mcg/kg premedication.
+183
+Combination Antiemetic Therapy
+Combination therapy for PONV prophylaxis is preferable to using a single drug alone.
+47,122,145,155,184–189 Apfel et al.47 dem-
+onstrated that the effects of antiemetics acting on different receptors are additive. Adults at moderate risk for PONV 
+should receive combination therapy with drugs from differ -
+ent classes as the efficacy is optimized when a combination of drugs with different mechanisms of action are adminis-tered. The 5-HT
+3 antagonists have better antiemetic than 
+antinausea efficacy but are associated with headache. These 
+drugs can be used in combination with droperidol, which 
+has greater antinausea efficacy and is associated with lower 
+risk of headache.190 The 5-HT3 antagonists can also be effec-
+tively combined with dexamethasone.120
+Optimal antiemetic dosing with combination therapy 
+needs to be established. Combination therapy regimens using ondansetron with either droperidol or dexametha-
+sone are most widely studied. It has been suggested that 
+when used as combination therapy, dexamethasone doses 
+should not exceed 10 mg IV , droperidol doses should not exceed 1 mg IV , and ondansetron doses in adults should not 
+exceed 4 mg and can be much lower.
+191
+Multiple studies confirm the effectiveness of combination 
+therapy with dexamethasone.179,180,185,186,192–195 In particular, 
+many have evaluated the combination of dexamethasone plus granisetron or ondansetron
+186,196–198 with one demon-
+strating that low-dose granisetron, 0.1 mg, combined with dexamethasone 8 mg is as effective as ondansetron 4 mg 
+plus dexamethasone 8 mg.
+192 Another study evaluating low-
+dose ondansetron showed similar rates of PONV between 
+dexamethasone 8 mg and ondansetron 0.1 mg/kg and 
+dexamethasone 8 mg and granisetron 40 mcg/kg.199
+The combination of haloperidol 2 mg plus dexa-
+methasone 5 mg was more effective than haloperidol or dexamethasone alone,
+200 and combination therapy with 
+haloperidol 1.5 mg plus dexamethasone 8 mg effectively prevented PONV .
+126 Moreover, less nausea and vomiting 
+occurred in the dexamethasone combination groups than 
+with ondansetron,184 granisetron,201 or haloperidol200 alone. 
+When dexamethasone 4 mg was used in combination with droperidol 0.625 mg, there was no increase in the incidence 
+of side effects.
+191 When propofol 0.5 mg/kg was combined 
+with dexamethasone 8 mg, the regimen had twice the effec-tiveness as propofol alone.
+122 Similarly, combining TDS with 
+other drugs such as ondansetron187 or dexamethasone202 
+was better than using a single drug alone.Combination therapy with ondansetron has also been 
+widely studied. When ondansetron was combined with 
+casopitant117,118 or TDS,187 the combination therapy was 
+more effective than single drug therapy. A study evaluating ondansetron plus haloperidol at 8 hours postoperatively showed that the combination was better than either drug 
+alone.
+203 The difference is primarily one of antinausea rather 
+than antivomiting efficacy. The combination was also not associated with any increase in adverse events such as dys-
+tonia, akathisia, or QT prolongation.
+Patient-Controlled Analgesia
+Approximately one-third of patients who are treated with opioids for postoperative pain will have nausea and vom-
+iting.
+204 Droperidol effectively reduced the risk of nausea 
+and vomiting, with a NNT of approximately 3, when given concomitantly with morphine in a PCA device.
+204,205 Other 
+studies evaluating the effects of various other antiemetics on PCA-related PONV showed a benefit. Ramosetron was 
+more effective than ondansetron in preventing vomiting and reducing nausea in relation to fentanyl-based PCA.
+102 The 
+combination of metoclopramide 50 mg plus dimenhydr -
+amine 60 mg added to PCA decreased the severity of PCA-
+related PONV .206 TDS plus dexamethasone 8 mg was more 
+effective than ramosetron 0.3 mg plus dexamethasone 8mg in patients receiving epidural PCA.
+202 Ondansetron, 8 mg, 
+proved more effective than metoclopramide for controlling 
+opioid-induced emesis and nausea in this population.207
+Lack or Limited Evidence of Effect
+The following strategies are not effective for PONV prophy-laxis: music therapy,
+208,209 isopropyl alcohol inhalation,210 
+intraoperative gastric decompression,41 the proton pump 
+inhibitor esomeprazole,211,212 and administration of nicotine 
+patch 7 mg to nonsmokers.215 The latter modality may actu-
+ally increase the incidence and severity of PONV .215,216
+There is insufficient evidence regarding the efficacy of 
+hypnosis for PONV prophylaxis.217 Cannabinoids (nabi-
+lone, tetra-hydrocannabinol), although promising in the 
+control of chemotherapy-induced sickness, are not effective 
+for PONV .218,219
+Two meta-analyses have addressed the impact of intraop-
+erative supplemental oxygen on the incidence of PONV .64,220 
+There is no convincing evidence that high inspired oxygen 
+fraction reduces PONV .
+In 2 RCTs, the phenothiazines, promethazine, 12.5 to 25 
+mg IV , administered at the induction of surgery, and pro-chlorperazine, 5–10 mg IV , given at the end of surgery were 
+shown to have some antiemetic efficacy.
+221,222 Similarly, it is 
+suggested that the phenylethylamine, ephedrine, 0.5 mg/
+kg IM, has an antiemetic effect when administered at the 
+end of surgery.223,224 However, due to a paucity of data, evi-
+dence is not as strong as for the other, well-documented 
+antiemetic drugs; therefore, further research is warranted 
+before these drugs or techniques can be recommended as first-line therapy. It should be noted that there is an FDA black box warning on promethazine hydrochloride injec-tion. Promethazine should neither be administered into an 
+artery nor administered under the skin because of the risk 
+of severe tissue injury, including gangrene. There is also a 
+risk that the drug can leach out from the vein during IV 
+96   www.anesthesia-analgesia.org  ANESTh ESIA & ANAL gESIAE SPECIAL ARTICLE
+administration and cause serious damage to the surround-
+ing tissue. If IV administration is desired, the drug should 
+be diluted and a properly functioning IV line and a slow 
+rate of administration should be ensured. The preferred 
+route of administration is deep IM injection.225
+Nonpharmacologic Prophylaxis
+A meta-analysis of 40 articles including 4858 subjects226 con-
+cluded that P6 stimulation with 10 different acupuncture 
+modalities reduces nausea, vomiting, and the need for res-cue antiemetics compared with sham stimulation (Evidence A1). The efficacy of P6 stimulation is similar to that of 
+prophylactic antiemetics such as ondansetron, droperidol, 
+metoclopramide, cyclizine, and prochlorperazine. In sub-group analysis, there was no difference in effectiveness in 
+adults compared with children or invasive versus nonin-
+vasive modalities for P6 stimulation. The timing of trans-
+cutaneous acupoint electrical stimulation does not impact PONV , with similar reductions being achieved with stimu-lation initiated before or after induction of anesthesia.
+227,228 
+Neuromuscular stimulation over the median nerve also reduces the incidence of PONV in the early postoperative period, particularly when tetanic stimulation is used.
+229,230
+Other Methods and Alternative Therapies
+Adequate IV fluid hydration is an effective strategy for reducing the baseline risk for PONV (Evidence A2).
+231,232 
+However, there was no difference in efficacy between crys-talloids and colloids when similar volumes were used in surgeries associated with minimal fluid shifts.
+233,234
+Low-dose naloxone, 0.25 mcg/kg/h, reduced nausea 
+and vomiting and decreased the need for rescue medica-tion compared with placebo in adult patients
+235 and signifi-
+cantly reduced opioid-related side effects including nausea in children and adolescents.
+236 Lower infusion rates of 0.05, 
+0.1, and 0.2 mcg/kg/h were also effective in reducing the incidence of nausea and sedation induced by tramadol infusion with the highest rate of 0.2 mcg/kg/h showing efficacy in reducing the incidence of vomiting.
+237 Another 
+opioid antagonist, nalmefene (no longer available in the United States), reduced opioid-induced nausea, vomit-ing, and need for rescue medication in patients receiving PCA.
+238
+While earlier meta-analyses did not find ginger to be an 
+effective modality for PONV prophylaxis (Evidence A1),48,239 
+a more recent meta-analysis concluded that fixed dose of at least 1g per os administered 1 hour before induction of anesthesia is more effective than placebo (Evidence A1).
+240 
+A recent study suggested that Morinda Citrifolia Linn (Noni fruit) in a dose of 600 mg might be effective in reducing nau-sea in the early postoperative period (Evidence A3).
+241
+Cost-Effectiveness
+The C/E of therapy is one of the primary considerations in determining whether to use PONV prophylaxis. However, studies assessing C/E of PONV interventions have sev-eral drawbacks; they use variable methodologies and are often too small to be reliable, and many are not specifically designed for that purpose. This panel recommends that future C/E studies be conducted according to established guidelines.
+242–244 Such guidelines address components of the 
+numerator and denominator of a C/E ratio. The numerator 
+should measure resource use, and the denominator should 
+provide a value of health consequences.
+Willingness to pay is a recommended measure in cost 
+benefit analyses. Gan et al.245 found that patients are willing 
+to pay approximately $100 to prevent experiencing PONV , 
+and Diez246 found parents are willing to spend approxi-
+mately $80 to prevent POV in their children. Reducing 
+baseline risk can be a cost-effective strategy. For example, 
+it is more cost-effective to use a propofol/isoflurane regi-
+men, which is associated with the lowest cost per episode 
+of PONV avoided, than either propofol/sevoflurane or sevoflurane/sevoflurane.
+247 However, generic sevoflurane 
+is now available that will reduce the costs.
+C/E assessments for PONV prophylaxis are more dif-
+ficult and depend on the specific model and assumptions 
+chosen. It is estimated that each episode of emesis delays 
+discharge from the PACU by approximately 20 minutes.248 
+However, in a retrospective study of patients who under -
+went ambulatory surgery, Dexter and Tinker249 demon-
+strated that if PONV could have been eliminated in patients who suffered this complication, the length of PACU stay 
+for all patients would only have been reduced by <5%. Hill 
+et al.
+14 found that prophylaxis in high-risk patients is more 
+cost-effective than placebo due to increased costs associated with nausea and vomiting. The additional costs associated with PONV in placebo patients are up to 100 times higher 
+compared with prophylaxis with a generic antiemetic, and 
+the cost of treating vomiting is 3 times higher than the cost of treating nausea. Similarly, a study evaluating dolasetron, 
+droperidol, or no prophylaxis in high-risk patients showed 
+that prophylaxis with either of the 2 antiemetics is more 
+cost-effective than no prophylaxis and subsequent rescue 
+therapy.
+250 However, in a study that did not assess C/E but 
+evaluated factors affecting cost, there was no difference in the time to discharge, rate of unanticipated admission, or time 
+to return to normal activity between the prophylaxis and 
+treatment groups in an ambulatory setting apart from the 
+highest risk group (female patients with a history of motion 
+sickness or PONV who were undergoing highly emetogenic 
+procedures) who reported high patient satisfaction when 
+prophylaxis was given.
+251 It has been suggested that PONV 
+prophylaxis is cost-effective with the older, less expensive 
+drugs when patients have a 10% or greater risk of emesis.252 
+These studies were conducted before the availability of 
+generic ondansetron. In another model, treatment of PONV 
+with ondansetron proved more cost-effective than preven-tion in both a low- (30%) and a high-risk(60%) setting.
+253 
+This was due to the high success rate of treating established 
+PONV , even with low doses of ondansetron (1 mg). When 
+using a willingness to pay rate of $100 per case avoided, PONV prophylaxis proved cost-effective in groups with 
+a 40% risk of PONV . Lower drug acquisition costs would generally support PONV prophylaxis in patient groups at a lower risk for PONV . The decision about whether or not 
+to use PONV prophylaxis, or to treat patients with estab-lished symptoms, not only depends on the efficacy of the 
+drug but also on the baseline risk for PONV , adverse effects of the antiemetics, and drug acquisition costs, which will 
+Consensus Guidelines for the Management of PONV
+January 2014 • Volume 118 • Number 1  www.anesthesia-analgesia.org  97vary from 1 setting to another. For instance, anesthesiolo-
+gists may be more likely to administer prophylaxis with an inexpensive generic antiemetic even if the baseline risk is 
+low and, consequently, many patients must be treated pro-
+phylactically for one to benefit.
+Guideline 4. Administer Prophylactic Therapy 
+With Combination ( ≥2) Interventions/Multimodal 
+Therapy in Patients at High Risk for PONV
+New Information: New antiemetic combination therapies 
+have been reported. These include midazolam and dexa-methasone,
+177,180 dexamethasone 8 mg IV at induction plus 
+ondansetron 4 mg IV at the end of surgery plus ondansetron 8 mg PO postoperatively
+254 and haloperidol 2.5 mg plus 
+dexamethasone 5 mg IV after induction.200 Among the NK1 
+RAs, aprepitant (40 mg) in combination with dexametha-sone 10 mg proved superior to ondansetron 4 mg and dexa-
+methasone 10 mg in preventing vomiting in neurosurgical 
+patients up to 48 hours after surgery.
+114 The combination 
+of casopitan and ondansetron proved more effective than ondansetron alone.
+117,118 (Additional details of the study are 
+described in the PDNV section.
+Recommended combination therapy is shown in Table 4. 
+A treatment algorithm is presented in Figure 4.
+DISCUSSION
+Patients who are at high risk for PONV should receive prophylaxis with combination therapy or a multimodal approach that includes 2 or more interventions (Table  4). 
+When considering anesthesia, use regional anesthesia or 
+TIVA with propofol if patients are at high risk for PONV . If general anesthesia is used, reduce baseline risk factors when possible. Nonpharmacologic therapies as adjuncts to pharmacologic therapy should be considered. Antiemetics recommended for prophylaxis in adults and children are shown in Table 3 and Table 5.
+When used in combination, drugs from different classes 
+should be selected to optimize their effects. For PONV pro-phylaxis, the efficacy of dexamethasone 4 mg IV , ondan-setron 4 mg IV , and droperidol 1.25 mg IV appears to be 
+similar.
+47 Systematic reviews addressing specific thera-
+peutic combinations showed the combination of a 5-HT3 
+receptor antagonist with either dexamethasone or droperi-
+dol was more effective than monotherapy with any of the 
+drugs255,188,189,256 Similarly, droperidol combined with dexa-
+methasone was more effective than either drug alone.47 
+When the different combinations are compared, no differ -
+ences are found between 5-HT3 receptor antagonist plus 
+droperidol, 5-HT3 receptor antagonist plus dexamethasone, 
+and droperidol plus dexamethasone.47,257 Combinations 
+involving metoclopramide are not found to reduce PONV 
+to a greater extent than monotherapy.258–260
+A multimodal approach to minimize PONV combined 
+nonpharmacologic and pharmacologic prophylaxis as well as interventions that reduced baseline risk.
+261,262 Habib et 
+al.263 evaluated a multimodal approach to reduce PONV 
+that consisted of preoperative anxiolysis (midazolam), pro-phylactic antiemetics (droperidol at induction and ondan-
+setron at end of surgery), TIVA with propofol, and local 
+anesthetic infiltration and ketorolac. No nitrous oxide was used. Patients who received multimodal therapy had a 80% complete response rate compared with a 43% to 63% 
+response rate among patients receiving either inhaled drug 
+or TIVA alone.
+Guideline 5. Administer Prophylactic Antiemetic 
+Therapy to Children at Increased Risk for POV; As in Adults, Use of Combination Therapy Is Most Effective
+New Information: Numerous appropriately powered 
+studies add additional support for the use of combination antiemetics for children at high risk for POV , with a large 
+volume of data to suggest that prophylaxis with a combina-
+tion of a 5-HT
+3 antagonist and a steroid should be adminis-
+tered for most pediatric patients at high risk for POV unless there is a contraindication. New data on pharmacokinetics 
+of ondansetron in children <2 years of age are now available. 
+Dolasetron is not promoted in the United States because of the risks of cardiac arrhythmias. Concerns have been raised about the use of steroids in children at risk for tumor lysis 
+syndrome and the use of 5-HT
+3 antagonists in children with 
+prolonged QT syndrome.
+The prophylactic antiemetic doses recommended for 
+children at risk for POV are shown in Table 5.
+Recommended combination therapy is shown in Table 4.
+DISCUSSION
+In children, the POV rate can be twice as high as in adults, 
+which suggests a greater need for POV prophylaxis in this population.
+264 Children who are at moderate or high risk 
+for POV should receive combination therapy with at least 2 prophylactic drugs from different classes (Table 5).Table 4.  Pharmacologic Combination Therapy for 
+Adults and Children
+Adults
+  Droperidol + dexamethasone47 (A1)
+  5-HT3 receptor antagonist + dexamethasone47,120,189,192,32747,120,189,192 
+327(A1)
+  5-HT3 receptor antagonist + droperidol47,140,188,257 (A1)
+  5-HT3 receptor antagonist + dexamethasone + droperidol (A2)
+  Ondansetron + casopitant118 117117,118 or TDS187 (A1)
+Combinations in children  Ondansetron, 0.05 mg/kg, + dexamethasone, 0.015 mg/kg
+328,329 (A1)
+  Ondansetron, 0.1 mg/kg, + droperidol, 0.015 mg/kg330 (A1)
+  Tropisetron, 0.1 mg/kg, + dexamethasone, 0.5 mg/kg331(A1)
+See Table 5 for dose ranges for children.
+Table 5.  Antiemetic Doses for Prophylaxis of POV 
+in Children
+Drug Dose Evidence
+Dexamethasone 150 mcg/kg up to 5 mg A1332
+Dimenhydrinate 0.5 mg/kg up to 25 mg A1154
+Dolasetron 350 mcg/kg up to 12.5 mg A2333
+Droperidola10–15 mcg/kg up to 1.25 mg A1140
+Granisetron 40 mcg/kg up to 0.6 mg A2334
+Ondansetronb50–100 mcg/kg up to 4 mg A1335
+Tropisetron 0.1 mg/kg up to 2 mg A197
+These recommendations are evidence based, and not all the drugs have an 
+FDA indication for PONV . Drugs are listed alphabetically.
+aSee FDA black box warning. Recommended doses 10 to 15 mcg/kg.
+bApproved for POV in pediatric patients aged 1 month and older.
+98   www.anesthesia-analgesia.org  ANESTh ESIA & ANAL gESIAE SPECIAL ARTICLE
+There are now many studies that confirmed the efficacy 
+of 5 HT3 antagonists as prophylactic antiemetics in the pedi-
+atric patient population, including studies of oral disinte-
+grating tablets of ondansetron.265,266 However, in contrast 
+to the data in adult studies, the efficacy of ondansetron in preventing emesis after craniotomy was not established in children, probably because the sample size was too small, even after pooling data from 2 pediatric studies.
+267,268
+The evidence supporting the prophylactic use of ondan-
+setron in reducing POV has been extended to children aged 1 to 24 months.
+269 Newer data on the pharmacokinetics of 
+ondansetron in children aged 1 to 48 months showed clear -
+ance was decreased by 76%, 53%, and 31%, respectively for 1-, 3-, and 6-month-old subjects.
+270 Simulations show that a 
+dose of 0.1 mg/kg in the infant younger than 6 months pro-duces levels similar to that of 0.15 mg/kg in older children. This is attributed to the immaturity of the cytochrome P450 enzymes, particularly CYP3A4 that increases from 30% at 1 month to adult values by 6 to 12 months, and CYP1A2 that reaches 35% of adult values at 1 year. The authors concluded that children younger than 4 months should be monitored more closely after receiving ondansetron but did not make specific recommendations on the duration or modality of monitoring.
+270
+Ondansetron and Other 5 HT3 Antagonists
+There is now good evidence to suggest that 5 HT3 antago-
+nists and dexamethasone are the most effective antiemet-
+ics in the prophylaxis of pediatric POV . A study by Bolton et al.
+271 evaluating 557 children undergoing tonsillectomy/
+adenoidectomy found ondansetron was more effective than metoclopramide in preventing POV . A systematic review in children undergoing tonsillectomies also found that the 5 HT
+3 antagonists and dexamethasone were the most effec-
+tive prophylactic antiemetics with insufficient evidence for the efficacy of dimenhydrinate, droperidol, or perphen-azine (Table  1).
+73 In a more recent quantitative systematic 
+review of children undergoing a variety of surgical proce-dures, Schnabel et al.
+162 concluded that perphenazine is an 
+effective antiemetic compared with placebo, but a 5 HT3 
+antagonist (ondansetron or granisetron) was more effec-tive. In a Bayesian meta-analysis of 6 single drug therapy and 5 combinations of antiemetics in children, Engelman et al.
+272 note that the most pessimistic expectations are that 
+single drug prophylaxis with the 5 HT3 receptor antagonists 
+or dexamethasone result in a 50% to 60% RRR and that the expected RRR of the combination is 80%. In this study, the risk reduction with droperidol was 40%.
+Dexamethasone
+The dose-effect relationship of dexamethasone is unclear. 
+Most studies use a dose of 0.5 mg/kg.
+73 Kim et al.195 found 
+no differences in POV rates or secondary outcomes in chil-dren receiving 0.0625, 0.125, 0.25, 0.5, or 1 mg/kg (maxi-mum dose 24 mg) during adeno-tonsillectomy procedures. Thus, they concluded there is no justification for using higher doses than 0.0625 mg/kg. However, another study of the same patient population showed a dose-dependent reduction in POV with the best response in children receiv-ing 0.5 mg/kg.
+273 Steward et al.274 in an updated Cochrane 
+review of steroids for tonsillectomy patients stated that “the question of appropriate dosing remains unanswered and 
+final recommendations must await randomized dose-con-trol trials.”
+There are no new data to base a recommendation on the 
+timing of administration of these drugs. There are no differ -
+ences in POV in children who receive tropisetron immedi-ately after induction or at the end of surgery during short tonsillectomy procedures.
+275 There are also no published 
+pediatric data to make recommendations on the use of palo-nosetron or the NK-1 antagonists in pediatric POV . A RCT without a placebo arm found no differences in the 48-hour rates of POV in children receiving 0.5, 1.0, or 1.5 mg/kg palonosteron.
+276
+Based on this evidence, we would recommend the 
+prophylactic use of a combination of dexamethasone and ondansetron in most pediatric patients at high risk for POV 
+unless there are contraindications. This is similar to the rec-
+ommendation by the Association of Pediatric Anaesthetists 
+of Great Britain and Ireland.
+277
+SIDE EFFECTS OF DRUGS
+Ondansetron
+Cardiovascular complications have been reported after 
+ondansetron therapy. An 11-year-old child undergoing a thyroglossal duct cyst excision developed ventricular tachy-cardia after receiving ondansetron and dimenhydrinate.
+278 
+Subsequent studies showed she had an undiagnosed long QT syndrome. There is a report of a death from ventricular tachycardia in a patient receiving ondansetron in the emer -
+gency department
+279 and another report of severe bradycar -
+dia during incision and drainage of an abscess.280 The effects 
+of droperidol and ondansetron on myocardial repolariza-tion have been studied when given alone or in combination to healthy children.
+281 There were clinically insignificant 
+changes with lengthening of the QT intervals by 10 to 17 millisecond and of the Tp-e intervals by 0 to 7 millisecond without any differences between the groups. These data suggest clinicians should be aware of these risks especially in children with prolonged QT syndrome.
+Steroids
+Tumor lysis syndrome has been reported in children with leukemia who received intraoperative dexamethasone.
+282,283 
+One patient with an undiagnosed acute lymphoblastic leu-kemia developed hyperkalemia and a fatal cardiac arrest during a tonsillectomy procedure.
+282 A study of steroids in 
+children undergoing tonsillectomies was terminated early because of increased bleeding in patients receiving dexa-methasone.
+273 There has been considerable discussion about 
+this unexpected finding as it was a secondary outcome and was not adjusted for other risk factors.
+284 The statistical sig-
+nificance of increased bleeding was lost when primary hem-orrhage cases, which are largely related to surgical technique, 
+were excluded. Other studies including a meta-analysis and 
+retrospective reviews have failed to show increased post-
+operative bleeding between patients receiving dexametha-
+sone and controls in both meta-analyses and retrospective 
+reviews.
+285–287 Although the incidence of bleeding may not 
+increase, there was an increased incidence of operative rein-tervention for bleeding episodes in a systematic review of 
+Consensus Guidelines for the Management of PONV
+January 2014 • Volume 118 • Number 1  www.anesthesia-analgesia.org  99children receiving steroids during adenotonsillectomy.288 In 
+the updated Cochrane review, Steward et al.274 stated “any 
+suggestion that single-dose dexamethasone increases bleed-
+ing risk needs to be substantiated with further studies.” The most recent clinical practice guidelines from the American Academy of Otolaryngology-Head and Neck Surgery con-tinue to make a strong recommendation for the use of a single dose of dexamethasone in children undergoing ton-
+sillectomy.
+289 This guideline was based on a preponderance 
+of benefit over harm, including benefits from decreased 
+throat pain, POV , and earlier resumption of oral intake.289
+Nonpharmacologic Therapy
+Two meta-analyses showed acupuncture and acustimula-tion were effective in reducing POV in children.
+290,291 Pooled 
+data from 12 studies showed all modalities reduce vomiting (risk reduction 0.69, 95% CI, 0.59–0.8). There were no differ -
+ences between acustimulation and medications in reducing POV . However, therapeutic suggestion through earphones during anesthesia for tonsillectomy/adenoidectomy was ineffective.
+292
+Guideline 6. Provide Antiemetic Treatment 
+to Patients With PONV who did not Receive 
+Prophylaxis or in whom Prophylaxis Failed
+A treatment algorithm for adults is presented in Figure 4.
+New information: Additional studies on the use of iso-
+propyl alcohol for the treatment of established PONV are 
+discussed. Further data suggest the futility of repeat anti-emetic when administered within 6 hours of the previous antiemetic administration.
+DISCUSSION
+When nausea and vomiting occur postoperatively, treat-ment should be administered with an antiemetic from a pharmacologic class that is different from the prophylactic drug initially given, or if no prophylaxis was given, the rec-ommended treatment is a low-dose 5-HT
+3 antagonist.190,293 
+The 5-HT3 antagonists are the only drugs that have been 
+adequately studied for the treatment of existing PONV .190,294 
+The doses of 5-HT3 antagonists used for treatment are 
+smaller than those used for prophylaxis: ondansetron 1.0 mg; granisetron 0.1 mg; and tropisetron 0.5 mg (NNT = 4–5).
+54,190 All the 5-HT3 antagonists, except palonosetron 
+(that has not been studied for PONV treatment), are equally antiemetic for the treatment of established PONV .
+190
+Alternative treatments for established PONV include 
+dexamethasone, 2 to 4 mg IV , droperidol, 0.625 mg IV , or promethazine 6.25 to 12.5 mg IV .
+293,295,297 Propofol, 20 mg as 
+needed, can be considered for rescue therapy in patients still in the PACU and is as effective as ondansetron.
+165,169,298 
+However, the antiemetic effect with low doses of propofol is probably brief.
+165,298
+Although isopropyl alcohol inhalation is not effective 
+for the prophylaxis of PONV ,210 aromatherapy with isopro-
+pyl alcohol was effective in achieving a quicker reduction in nausea severity compared with promethazine or ondan-setron when used for the treatment of PONV (Evidence 
+A2).
+299–301 However, since studies investigating its use had 
+limitations, it is not clear whether it is an effective modality for the complete control of PONV . Better-designed studies 
+investigating the use of isopropyl alcohol for the treatment of PONV are needed.
+Repeating the medication given for PONV prophylaxis 
+within the first 6 hours after the initial dose conferred no additional benefit.
+302 During the first 4 postoperative hours, 
+patients who failed PONV prophylaxis with ondansetron 4 mg did not respond either to a second administration of 
+ondansetron 4 mg or to crossover with granisetron 0.1 or 
+1 mg.
+302,303 If >6 hours has elapsed, it may be possible to 
+achieve some effect with a second dose of a 5-HT3 antago-
+nist or butyrophenone (droperidol or haloperidol), but this has not been demonstrated in clinical trials and should only be attempted if triple therapy has been used for prophylaxis and if no alternatives are available for rescue that have not been used for prophylaxis. Readministration of longer-act-ing drugs, for example, dexamethasone, TDS, aprepitant, and palonosetron is not recommended.
+The attempt at rescue should be initiated when the 
+patient complains of PONV and, at the same time, an evalu-ation should be performed to exclude an inciting medica-tion or mechanical factor for nausea and/or vomiting. Contributing factors might include an opioid PCA, blood draining down the throat, or an abdominal obstruction. There is no large-scale study to base recommendations on the use of rescue antiemetics in children who have failed 
+prophylactic antiemetics.
+Postdischarge Nausea and Vomiting
+As many as one-third to one-half of patients who undergo 
+ambulatory surgery experience PDNV .304 Such patients often 
+do not have access to treatment for their PDNV . A systematic 
+review of all studies assessing PDNV after outpatient surgery 
+found that, on discharge, 17% of patients experience nausea (range, 0%–55%) and 8% have vomiting (range, 0%–16%).
+305
+Since ambulatory surgery constitutes about 60% of all 
+surgical procedures in the United States, many studies are focusing on how to prevent PDNV .
+83,84,103 As these studies 
+show, PDNV is still a significant problem. New research in this area is centered on mixing IV and per os doses of 
+different drugs, administered at various time points, to 
+evaluate the effects on reducing PDNV . The results show that mixing IV and per os antiemetics at various periopera-tive times decreases PDNV . For instance, 1 study found that dexamethasone 8 mg IV at induction plus ondansetron 4 mg IV at the end of surgery plus ondansetron 8 mg per os post-operatively had a greater effect on decreasing PDNV than 
+ondansetron 4 mg IV alone at the end of surgery.
+254
+Other studies evaluated different combinations for 
+PDNV . The combination of haloperidol 2.5 mg plus dexa-
+methasone 5 mg IV after induction was more effective than 
+droperidol 1.25 mg, haloperidol 2 mg, or dexamethasone 5 
+mg alone, all of which were more effective than placebo.200 
+Aprepitant 40 mg, 120 mg, and ondansetron 4 mg decreased PONV to a similar extent during the 0- to 24-hour postoper -
+ative period; however, 24 to 48 hours postoperatively, apre-pitant 40 mg and 120 mg had an equal effect, which was more effective than ondansetron 4 mg.
+113 In other PDNV 
+trials, the combination of casopitant plus ondansetron was 
+more effective than ondansetron alone,118 and ondansetron 
+4mg IV was equivalent to granisetron 1 mg per os.92
+100   www.anesthesia-analgesia.org  ANESTh ESIA & ANAL gESIAE SPECIAL ARTICLE
+Administration of prophylactic antiemetics may be war -
+ranted in patients at high risk for PDNV; however, many 
+of the available antiemetics have a short half-life and may 
+not be suitable for this purpose. A meta-analysis assessing 
+prophylactic therapy for PDNV after ambulatory surgery 
+found a NNT of approximately 5 with combination therapy versus a NNT of approximately 12 to 13 for ondansetron 4 
+mg or dexamethasone 4 to 10 mg alone.
+304 Droperidol was 
+ineffective at preventing PDNV at a dose <1 mg, and there 
+was insufficient evidence to evaluate droperidol >1 mg. A systematic review of 58 articles demonstrated that use of propofol versus inhaled anesthetics also reduced the inci-dence of PDNV (P < 0.05).
+167 Small RCTs have demonstrated 
+efficacy in preventing PDNV with orally disintegrating ondansetron tablets, acupoint stimulation of P6, and trans-dermal scopolamine.
+157,306,307
+Guideline 7. Ensure PONV Prevention and 
+Treatment Is Implemented in the Clinical Setting
+New information: This section is new to emphasize the 
+importance of implementing PONV prevention and treat-ment strategies in the clinical setting.
+Measures must be put in place to determine whether 
+suggested algorithms for the management of PONV are actually implemented as standard operating procedure in clinical settings and that these practices lead to improve-ment of PONV management.
+Clinical PONV Protocols and Algorithms to 
+Implement PONV Policies
+Recommendations for the administration of antiemetic 
+interventions traditionally support the application of a “valid assessment of the patient´s risk for POV or PONV .”
+2 
+Furthermore, when developing a management strategy for each individual patient, the choice should be based on patient preference, cost-efficiency, level of PONV risk, and patient’s preexisting condition (e.g., avoid QT prolonging antiemetics in patients with prolonged QT syndrome and TDS in closed angle glaucoma patients).
+2 Such recommenda-
+tions are based on the goal that antiemetics and other inter -
+ventions reduce the baseline risk for PONV in “high-risk patients,” that is, patients who actually need antiemetic pre-vention. This would save costs and prevent pharmacologi-cal exposure among patients who will not vomit anyway. Assuming that each antiemetic intervention is associated with a defined RRR that has been determined by clinical tri-als and meta-analyses, this RRR translates into an absolute risk reduction (ARR) that depends mainly on the control event rate (CER) in a given patient population. If the CER is high (e.g., 60%), then an antiemetic with a RRR of 30% reduces the incidence in that population to 42% (ARR = 18).  
+This means that approximately 6 patients (1/0.18) need to be treated with antiemetics for one to stay completely free from PONV . If, using the same antiemetic with simi-lar efficacy, the CER is 10%, the ARR would equal 3%, and approximately 33 patients (33 = 1/0.03) need to be treated for one to benefit from the administration of antiemetics in that population (= NNT).
+308
+The validity of these assumptions in a clinical scenario 
+rests on: (1) The ability to correctly classify the PONV risk; (2) The acquisition costs of antiemetics; (3) The potential of 
+antiemetics to cause adverse effects as well as; (4) The clini-
+cal applicability and compliance with guidelines depend-
+ing on their structure (e.g., general multimodal prevention versus various risk-adapted approaches or a combination of these approaches).
+Classifying PONV Risk With Risk Model
+Clinical risk models have made substantial contributions to eliminate presumed risk factors, so more reasonable risk assessment is now feasible for patients.
+9,10,48 However, it is 
+important to note “that no risk model can accurately pre-dict the likelihood of an individual having PONV ,” rather 
+they allow us “to estimate the risk for PONV among patient 
+groups.”
+2,309 Furthermore, problems may arise in the pro-
+spective determination of what constitutes “opioid ther -
+apy,” “motion sickness,” “smoking status” or even “PONV 
+history” (e.g., patient developed PONV after one of previ-
+ous 3 anesthetics). However, for patient populations, it has been shown in observational trials that:
+1. (a) the allocation of patients to risk groups was suc-
+cessful,
+45 and (b) a risk-adapted PONV protocol 
+effectively reduced the institutional PONV inci-dence.
+46 (B2)
+THE ACQUISITION COSTS OF ANTIEMETICS
+These costs of some of the antiemetics have decreased dramatically during recent years as generic versions have become available and also vary to a large extent from coun-
+try to country and among different institutions. Published 
+analyses suggest that “PONV prophylaxis is cost-effective with the older, less expensive drugs when patients have a 10% or more risk of emesis.”
+252 Lower drug acquisition costs 
+may even “support PONV prophylaxis in patient groups at a lower risk for PONV .”
+2 Newer substances that entered the 
+pharmaceutical market are associated with significant costs, but older molecules should not per se constitute a relevant 
+obstacle to a liberal administration of antiemetics.
+Potential for Adverse Effects
+The safety of antiemetics is well established considering the 
+huge amount of clinical data available and their summary in valid meta-analyses.
+310 Limited adverse effects have been 
+associated with the use of minimum effective doses of most recommended antiemetics.
+Clinical Applicability and Compliance With 
+Guideline
+A risk-adapted PONV protocol effectively reduced institu-
+tional PONV incidence.46 (B2). However, it has to be con-
+sidered that the results of such a protocol were obtained in a clinical study that had good compliance with proposed 
+algorithms, in contrast to clinical implementation in the 
+routine busy setting.
+Clinical Effectiveness of PONV Protocols
+As observed with other settings and pharmacological pre-ventive measures, effectiveness may be different from efficacy evaluations. The latter may be partly due to poor 
+Consensus Guidelines for the Management of PONV
+January 2014 • Volume 118 • Number 1  www.anesthesia-analgesia.org  101compliance with existing protocols. This seems to be true 
+in the setting of PONV , where irrespective of tremendous amounts of research findings observational studies investi-
+gating whether PONV prevention based on existing clinical 
+guidelines (even if present in the intranet or in the format of a booklet) are poorly implemented (B2). This phenom-enon was detected for adults
+311 and pediatric patients.312 
+Therefore, some studies suggest the introduction of elec-tronic reminders to improve compliance with standard 
+operating procedures.
+313,314
+The argument that poor education is the root cause for 
+the reluctance to administer appropriate antiemetic pro-
+phylaxis seems to be invalid, since the problem persists 
+even after intense educational activities.315 In 1 study, even 
+after training and continuous provider feedback, only 47% 
+and 37% of moderate (2 risk factors present) or high-risk 
+patients (3 risk factors present) received the scheduled 
+prophylactic treatment using a very simple algorithm that suggested administering 1 antiemetic per risk factor found in the preoperative assessment.
+315 Instead, almost 
+all patients received single antiemetic prophylaxis that was the de facto standard at the site where the study took 
+place.
+315
+Arguing that treating PONV only after symptoms occur 
+is as effective and as appropriate for patients as preven-
+tion, disregards the findings of a recent trial showing that 
+PONV symptoms, and nausea in particular, are frequently 
+missed in a busy clinical scenario. This observational study shows only 42% and 29% of PONV episodes were actually detected by the regular staff in the PACU and on the ward, 
+respectively.
+316Guideline 8. Use General Multimodal Prevention 
+to Facilitate Implementation of PONV Policies
+New information: This is a new section to recommend a 
+multimodal prevention approach to facilitate implementa-tion of PONV (Tables 6 and 7).
+In view of the poor guideline compliance with risk-
+adapted approaches and no general preventive measures, multimodal prevention strategy (adjusted with additional measures in high-risk patients) may be an option to facilitate 
+clinical implementation. This is especially true for high-risk 
+patients in which the latter procedure may overcome the hurdle to provide multimodal prevention (Tables 6 and 7).
+In 1 study, despite intense educational strategies that 
+resulted in fewer institutional PONV incidences, it was 
+surprising to note that no significant difference in the rate 
+of administration of antiemetic prophylaxis was observed between the overall ‘‘before’’ and ‘‘after’’ patient popula-tions (31.4% vs 36.8%).
+317 The only difference was in the rate 
+of administration of antiemetic prophylaxis in the high-risk group (with an Apfel simplified score >2), which reached 
+statistical significance (36.4% to 52.8%). This underscores 
+the observed extremely low compliance with institutional PONV policies. In another report, it was stated that only 
+37% of medium and high-risk patients received the speci-
+fied prophylaxis, leading to suboptimal PONV prevention in moderate and high-risk patients.
+318
+As a result, fast-track protocols often incorporate mul-
+timodal preventive PONV strategies.319,320 General multi-
+modal strategies may well be a starting point to facilitate clinical implementation of better PONV protection of 
+patients.
+321 Such approaches may prove more effective than 
+Table 6.  Risk-Adapted PONV-Prevention Algorithm (With No Prevention in Low-Risk Patients)
+Estimated risk for PONV, for example, as determined by a risk score
+Low Medium High
+Interventions 
+for 
+prophylaxisNo prevention (“wait and see”) Drug A + Drug B or TIVA Drug A + Drug B + TIVA
+On a case-by-case decision: further 
+interventions
+Interventions 
+for treatment1. Drug B 1. Drug C 1. Drug C
+2. Drug C (in case of ineffectiveness of 
+treatment in stage 1) (i.e., Drug B)2. Drug D (in case of ineffectiveness of 
+treatment in stage 1) (i.e., Drug C)2. Drug D (in case of ineffectiveness of 
+treatment in stage 1) (i.e., Drug C)
+Example interventions: Drug A = Dexamethasone 4 mg in adults/0.15 mg/kg of body weight in children; Drug B = Ondansetron 4 mg in adults/0.1 mg/kg of 
+body weight in children; Drug C = Droperidol 1 mg in adults/10 to 15 µg/kg of body weight in children; Substance D = Dimenhydrinate 1 mg/kg of body weight 
+in adults/0.5 to 1.0 mg/kg of body weight in children. Given drug examples are used to illustrate how the algorithm may be actually implemented but may 
+not represent the most favorable approach. The latter may be context-sensitive (children, adults, or other issues). In the event of treatment failure, a timely assessment and alternative antiemetics should be used. A multimodal treatment approach may be appropriate to increase the likelihood of success.
+TIVA = total intravenous anesthesia, that is, propofol induction and maintenance, no nitrous oxide.
+Table 7.  PONV-Prevention Algorithm in All Patients Including Low-Risk Patients Plus Additional 
+Interventions for High-Risk Patients
+Estimated risk for PONV, for example, as determined by a risk score
+Low Medium High
+Interventions for 
+prophylaxisDrug A + (Drug B or TIVA) Drug A + (Drug B or TIVA) Drug A + drug B + TIVA
+On a case-by-case decision: further 
+interventions
+Interventions for 
+treatment1. Drug C 1. Drug C 1. Drug C
+2. Drug D (in case of ineffectiveness of 
+treatment in stage 1) (i.e., Drug C)2. Drug D (in case of ineffectiveness of 
+treatment in stage 1) (i.e., Drug C)2. Drug D (in case of ineffectiveness of 
+treatment in stage 1) (i.e., Drug C)
+Example interventions: Drug A = Dexamethasone 4 mg in adults/0.15 mg/kg of body weight in children; Drug B = Ondansetron 4 mg in adults/0.1 mg/kg of body 
+weight in children; Drug C = Droperidol 1 mg in adults/10 to 15 mcg/kg of body weight in children; Drug D = Dimenhydrinate 1 mg/kg of body weight in adults/0.5 
+to 1.0 mg/kg of body weight in children. Given drug examples are used to illustrate how the algorithm may be actually implemented but may not represent 
+the most favorable approach. The latter may be context-sensitive (children, adults or other issues). In the event of treatment failure, a timely assessment and alternative antiemetics should be used. A multimodal treatment approach may be appropriate to increase the likelihood of success.
+TIVA = total intravenous anesthesia, that is, propofol induction and maintenance, no nitrous oxide.
+102   www.anesthesia-analgesia.org  ANESTh ESIA & ANAL gESIAE SPECIAL ARTICLE
+strictly risk-based approaches that rely on no prevention in 
+low-risk patients. The goal, therefore, is for antiemetic multi-modal prevention to become an integral part of anesthesia.
+322
+Research Agenda for PONV
+PONV has been extensively studied, and there is an excel-lent evidence base to guide clinical practice. Perhaps, the 
+biggest problem is that many anesthesia care providers fail 
+to translate this knowledge into changes in practice.
+315,323 
+One of the obstacles to widespread adoption of previous 
+guidelines may be the lack of conviction regarding the 
+clinical importance of PONV and/or unresolved aspects of the risk-benefit of PONV prophylaxis or treatment. One way the latter issue might be clarified is to obtain accurate data regarding the incidence of PONV and the clinical and 
+psychological implications of suffering from nausea and 
+vomiting. The incidence of adverse effects of antiemetics, 
+such as headache, prolonged QT interval, hyperglycemia, 
+and sepsis will better assist clinicians in the management decision-making process. Risk-benefit can be summarized by calculating the likelihood of harm, expressed as the NNT 
+divided by the NNH.
+324 Such a statistic would only be valid 
+however when both benefit and harm are comparable in 
+their intensity and duration.
+There are too many unhelpful PONV studies, many of 
+which address questions that are already known, such as efficacy of many of the established antiemetics, or include too few patients when analyzing risk factors for PONV . We 
+strongly advise against such redundant research.
+CONCLUSIONS
+These guidelines provide a comprehensive, evidence-based 
+reference tool for the management of patients undergoing surgical procedures who may be at risk for PONV . Not all 
+surgical patients will benefit from antiemetic prophylaxis, 
+thus identification of patients who are at increased risk using available risk scores leads to the most effective use of therapy and the greatest cost-efficacy. Although anti-
+emetic prophylaxis cannot eliminate the risk for PONV , it 
+can significantly reduce the incidence. When developing a 
+management strategy for each individual patient, the choice 
+should be based on patient preference, C/E, and level of PONV risk.
+Among the interventions considered, a reduction in 
+baseline risk factors and use of nonpharmacologic therapy are least likely to cause adverse events. PONV prophylaxis should be considered for patients at moderate to high risk 
+for PONV . Depending on the level of risk, prophylaxis 
+should be initiated with monotherapy or combination 
+therapy using interventions that reduce baseline risk, non-
+pharmacologic approaches, and antiemetics. Antiemetic 
+combinations are recommended for patients at moderate 
+and high risk for PONV . All prophylaxis in children at mod-erate or high risk for POV should include combination ther -
+apy using a 5-HT
+3 antagonist and a second drug. Because 
+the effects of interventions from different drug classes are additive, combining interventions has an additive effect in risk reduction.
+When rescue therapy is required, the antiemetic should 
+be chosen from a different therapeutic class than the drugs used for prophylaxis, and potentially one with a different mode of administration. If PONV occurs within 6 hours 
+postoperatively, patients should not receive a repeat dose of 
+the prophylactic antiemetic. An emetic episode more than 6 
+hours postoperatively can be treated with any of the drugs 
+used for prophylaxis except dexamethasone, TDS, aprepi-
+tant, and palonosetron.
+There are significant challenges in implementing an insti-
+tution-wide, comprehensive PONV prevention protocol based on a detailed risk-adapted approach. A more practi-
+cal risk assessment using a more liberal preventive strategy may be a better alternative in a busy clinical environment 
+such that it becomes an integral part of anesthesia. 
+E
+APPENDIX 2
+Category A: Supportive Literature
+Randomized controlled trials report statistically significant 
+(P < 0.01) differences between clinical interventions for a 
+specified clinical outcome.
+Level 1: The literature contains multiple randomized 
+controlled trials, and aggregated findings are supported by 
+meta-analysis.
+Level 2: The literature contains multiple randomized 
+controlled trials, but the number of studies is insufficient 
+to conduct a viable meta-analysis for the purpose of these 
+guidelines.
+Level 3: The literature contains a single randomized con-
+trolled trial.
+Category B: Suggestive Literature
+Information from observational studies permits inference of beneficial or harmful relationships among clinical interven-
+tions and clinical outcomes.
+Level 1: The literature contains observational compari-
+sons (e.g., cohort, case-control research designs) of clinical 
+interventions or conditions and indicates statistically signif-
+icant differences between clinical interventions for a speci-
+fied clinical outcome.
+Level 2: The literature contains noncomparative obser -
+vational studies with associative (e.g., relative risk, correla-
+tion) or descriptive statistics.
+Level 3: The literature contains case reports.
+Category C: Equivocal Literature
+The literature cannot determine whether there are beneficial or harmful relationships among clinical interventions and 
+clinical outcomes.
+Level 1: Meta-analysis did not find significant differ -
+ences (P > 0.01) among groups or conditions.
+Level 2: The number of studies is insufficient to conduct 
+meta-analysis, and (1) randomized controlled trials have not found significant differences among groups or conditions, or 
+(2) randomized controlled trials report inconsistent findings.
+Level 3: Observational studies report inconsistent find-
+ings or do not permit inference of beneficial or harmful 
+relationships.
+Category D: Insufficient Evidence from 
+Literature
+The lack of scientific evidence in the literature is described 
+by the following terms.
+Consensus Guidelines for the Management of PONV
+January 2014 • Volume 118 • Number 1  www.anesthesia-analgesia.org  103Inadequate: The available literature cannot be used to 
+assess relationships among clinical interventions and clini-
+cal outcomes. The literature either does not meet the crite-ria for content as defined in the “Focus” of the Guidelines 
+or does not permit a clear interpretation of findings due to 
+methodological concerns (e.g., confounding in study design or implementation).
+Silent: No identified studies address the specified rela-
+tionships among interventions and outcomes. 
+APPENDIX 3
+This set of guidelines have been officially endorsed by the following societies:
+American Academy of Anesthesiologist Assistants
+American Association of Nurse Anesthetists
+American Society of Anesthesiologists
+American Society of Health Systems PharmacistsAmerican Society of PeriAnesthesia NursesAustralian and New Zealand College of AnaesthetistsChinese Society of AnesthesiologyCongresoLationoamericano de Sociedades de Anestesia
+European Society of Anaesthesiology
+Hong Kong College of AnaesthesiologistsMalaysian Society of AnaesthesiologistsSingapore Society of AnaesthesiologistsSouth African Society of Anaesthesiologists
+RECUSE NOTE
+Dr. Peter J. Davis is the Section Editor for Pediatric 
+Anesthesiology for the Journal. This manuscript was handled by Dr. Steven L. Shafer, Editor-in-Chief, and Dr. Davis was not involved in any way with the editorial process or decision.
+DISCLOSURES
+Name: Tong J Gan, MD.Contribution: This author helped write the manuscript.Attestation: Tong J Gan has approved the final manuscript.Conflicts of Interest: Tong J Gan has received research grants or honorarium from Acacia, Pacira. Baxter, Cubist, Fresenius, Hospira and Merck.Name: Pierre Diemunsch, MD, PhD.Contribution: This author helped write the manuscript and helped lead the subgroups.Attestation: Pierre Diemunsch has approved the final manuscript.Conflicts of Interest: Pierre Diemunsch has given paid lectures and received consultant fees and research grants from Merck, 
+Glaxo, Astra Zeneca, and Prostrakan.
+Name: Ashraf S. Habib, MB, FRCA.
+Contribution: This author helped write the manuscript and 
+helped lead the subgroups.Attestation: Ashraf Habib has approved the final manuscript.
+Conflicts of Interest: The author has no conflicts of interest to 
+declare.Name: Anthony Kovac, MD.
+Contribution: This author helped write the manuscript and 
+helped lead the subgroups.
+Attestation: Anthony Kovac has approved the final manuscript.
+Conflicts of Interest: Anthony Kovac has received honoraria from Baxter, Helsinn, and Merck.Name: Peter Kranke, MD, PhD, MBA.
+Contribution: This author helped write the manuscript and 
+helped lead the subgroups.
+Attestation: Peter Kranke has approved the final manuscript.
+Conflicts of Interest: Peter Kranke was involved in the conduct 
+of clinical trials and acted as clinical advisor for Acacia Pharma, Ltd., Cambridge, UK. Consulted for Fresenius Kabi, Deutschland 
+GmbH, Bad Homburg, Germany, and for ProStrakan Pharma, 
+GmbH, Dusseldorf, Germany.Name: Tricia A. Meyer, PharmD, MS, FASHP .
+Contribution: This author helped write the manuscript and 
+helped lead the subgroups.
+Attestation: Tricia A. Meyer has approved the final manuscript.
+Conflicts of Interest: Tricia A. Meyer has received research sup-port from Merck.
+Name: Mehernoor Watcha, MD.
+Contribution: This author helped write the manuscript and helped lead the subgroups.
+Attestation: Mehernoor Watcha has approved the final 
+manuscript.Conflicts of Interest: The author has no conflicts of interest to 
+declare.
+Name: Frances Chung, MBBS.
+Contribution: This author helped write the manuscript and 
+coordinated the literature search process.Attestation: Frances Chung has approved the final manuscript.
+Conflicts of Interest: The author has no conflicts of interest to 
+declare.Name: Shane Angus, AA-C, MS.
+Contribution: This author helped write the manuscript.
+Attestation: Shane Angus has approved the final manuscript.
+Conflicts of Interest: The author has no conflicts of interest to 
+declare.
+Name: Christian C. Apfel, MD, PhD.
+Contribution: This author helped write the manuscript.Attestation: Christian C. Apfel has approved the final 
+manuscript.
+Conflicts of Interest: The author has no conflicts of interest to declare.
+Name: Sergio D. Bergese, MD.
+Contribution: This author helped write the manuscript.Attestation: Sergio D. Bergese has approved the final 
+manuscript.
+Conflicts of Interest: Sergio D. Bergese is a consultant with 
+Baxter.
+Name: Keith A. Candiotti, MD.Contribution: This author helped write the manuscript.
+Attestation: Keith A. Candiotti has approved the final 
+manuscript.Conflicts of Interest: Keith A. Candiotti has received research 
+grant support from Merck and Helsinn.
+Name: Matthew TV Chan, MB, BS, FANZCA.
+Contribution: This author helped write the manuscript.
+Attestation: Matthew TV Chan has approved the final manuscript.
+Conflicts of Interest: The author has no conflicts of interest to 
+declare.Name: Peter J. Davis, MD.
+Contribution: This author helped write the manuscript.
+Attestation: Peter J. Davis has approved the final manuscript.
+Conflicts of Interest: Peter J. Davis received research grant sup-
+port from Janssen, Hospira, and Cumberland.Name: Vallire D. Hooper, PhD, RN, CPAN, FAAN.
+104   www.anesthesia-analgesia.org  ANESTh ESIA & ANAL gESIAE SPECIAL ARTICLE
+Contribution: This author helped write the manuscript.
+Attestation: Vallire D. Hooper has approved the final 
+manuscript.
+Conflicts of Interest: The author has no conflicts of interest to declare.
+Name: Sandhya Lagoo-Deenadayalan, MD, PhD.
+Contribution: This author helped write the manuscript.
+Attestation: Sandhya Lagoo-Deenadayalan has approved the 
+final manuscript.
+Conflicts of Interest: The author has no conflicts of interest to 
+declare.Name: Paul Myles, MD.
+Contribution: This author helped write the manuscript.
+Attestation: Paul Myles has approved the final manuscript.Conflicts of Interest: The author has no conflicts of interest to 
+declare.
+Name: Greg Nezat, CRNA, PhD.
+Contribution: This author helped write the manuscript.
+Attestation: Greg Nezat has approved the final manuscript.Conflicts of Interest: The author has no conflicts of interest to 
+declare.
+Name: Beverly K. Philip, MD.
+Contribution: This author helped write the manuscript.
+Attestation: Beverly K. Philip has approved the final 
+manuscript.
+Conflicts of Interest: Beverly K. Philip has financial relation-ship with Cumberland and Merck.
+Name: Martin R. Tramèr, MD, DPhil.
+Contribution: This author helped write the manuscript.
+Attestation: Martin R. Tramèr has approved the final 
+manuscript.
+Conflicts of Interest: The author has no conflicts of interest to 
+declare.
+ACkNOWLEDGMENTS
+The authors would like to thank Marina Englesakis, BA (Hons), MLIS, Information Specialist, Health Sciences 
+Library, University Health Network, Toronto, Ontario, 
+Canada, and Frances Chung, MBBS, Professor, Department of Anesthesia, University Health Network, University of 
+Toronto, for their assistance and coordination with the lit-
+erature search.
+REFERENCES
+ 1. Gan TJ, Meyer T, Apfel CC, Chung F, Davis PJ, Eubanks S, 
+Kovac A, Philip BK, Sessler DI, Temo J, Tramèr MR, Watcha M; Department of Anesthesiology, Duke University Medical 
+Center. Consensus guidelines for managing postoperative nau-sea and vomiting. Anesth Analg 2003;97:62–71
+ 2. Gan TJ, Meyer TA, Apfel CC, Chung F, Davis PJ, Habib AS, 
+Hooper VD, Kovac AL, Kranke P , Myles P , Philip BK, Samsa G, 
+Sessler DI, Temo J, Tramèr MR, Vander Kolk C, Watcha M; Society 
+for Ambulatory Anesthesia. Society for Ambulatory Anesthesia guidelines for the management of postoperative nausea and 
+vomiting. Anesth Analg 2007;105:1615–28
+ 3. ASPAN’S evidence-based clinical practice guideline for the prevention and/or management of PONV/PDNV . J Perianesth Nurs 2006;21:230–50.
+ 4. Diemunsch P; Société française d’anesthésie et de réanimation. 
+[Conference of experts–short text. Management of postopera-
+tive nausea and vomiting. French Society of Anesthesia and 
+Resuscitation]. Ann Fr Anesth Reanim 2008;27:866–78
+ 5. Gómez-Arnau JI, Aguilar JL, Bovaira P , Bustos F, De Andrés J, de la Pinta JC, García-Fernández J, López-Alvarez S, López-
+Olaondo L, Neira F, Planas A, Pueyo J, Vila P , Torres LM: Grupo 
+de Trabajo de NVPO de la Sociedad Española de Anestesiología y Reanimación. [Postoperative nausea and vomiting and opi-
+oid-induced nausea and vomiting: guidelines for prevention 
+and treatment]. Rev Esp Anestesiol Reanim 2010;57:508–24
+ 6. McCracken G, Houston P , Lefebvre G; Society of Obstetricians and Gynecologists of Canada. Guideline for the management of postoperative nausea and vomiting. J Obstet Gynaecol Can 
+2008;30:600–7, 608–16
+ 7. Rüsch D, Becke K, Eberhart LH, Franck M, Hönig A, Morin AM, 
+Opel S, Piper S, Treiber H, Ullrich L, Wallenborn J, Kranke P . [Postoperative nausea and vomiting (PONV)-recommendations for risk assessment, prophylaxis and therapy-results of an 
+expert panel meeting]. Anasthesiol Intensivmed Notfallmed 
+Schmerzther 2011;46:158–70
+ 8. Apfelbaum JL, Silverstein JH, Chung FF, Connis RT, Fillmore RB, Hunt SE, Nickinovich DG, Schreiner MS, Silverstein JH, 
+Apfelbaum JL, Barlow JC, Chung FF, Connis RT, Fillmore RB, 
+Hunt SE, Joas TA, Nickinovich DG, Schreiner MS; American Society of Anesthesiologists Task Force on Postanesthetic Care. Practice guidelines for postanesthetic care: an updated report by the American Society of Anesthesiologists Task Force on Postanesthetic Care. Anesthesiology 2013;118:291–307
+ 9. Apfel CC, Läärä E, Koivuranta M, Greim CA, Roewer N. A sim-
+plified risk score for predicting postoperative nausea and vom-
+iting: conclusions from cross-validations between two centers. Anesthesiology 1999;91:693–700
+ 10. Koivuranta M, Läärä E, Snåre L, Alahuhta S. A survey of post-
+operative nausea and vomiting. Anaesthesia 1997;52:443–9
+ 11. Sinclair DR, Chung F, Mezei G. Can postoperative nausea and vomiting be predicted? Anesthesiology 1999;91:109–18
+ 12. Fortier J, Chung F, Su J. Unanticipated admission after ambula-
+tory surgery–a prospective study. Can J Anaesth 1998;45:612–9
+ 13. Gold BS, Kitz DS, Lecky JH, Neuhaus JM. Unanticipated 
+admission to the hospital following ambulatory surgery. JAMA 
+1989;262:3008–10
+ 14. Hill RP , Lubarsky DA, Phillips-Bute B, Fortney JT, Creed MR, 
+Glass PS, Gan TJ. Cost-effectiveness of prophylactic anti-emetic therapy with ondansetron, droperidol, or placebo. 
+Anesthesiology 2000;92:958–67
+ 15. Tramèr MR. Strategies for postoperative nausea and vomiting. 
+Best Pract Res Clin Anaesthesiol 2004;18:693–701
+ 16. Higgins JPT, Green S. Cochrane Handbook for Systematic 
+Reviews of Interventions Version 5.0.0 [updated February 2008] 
+The Cochrane Collaboration, 2008. Available at: http://www.cochrane-handbook.org. Accessed  May 18, 2013
+ 17. Habib AS, Gan TJ. Scientific fraud: impact of Fujii’s data on our 
+current knowledge and practice for the management of postop-erative nausea and vomiting. Anesth Analg 2013;116:520–2
+ 18. Practice guidelines for acute pain management in the peri-
+operative setting: an updated report by the American Society of Anesthesiologists Task Force on Acute Pain Management. Anesthesiology 2012;116:248–73
+ 19. Apfel CC, Philip BK, Cakmakkaya OS, Shilling A, Shi YY, Leslie 
+JB, Allard M, Turan A, Windle P , Odom-Forren J, Hooper VD, 
+Radke OC, Ruiz J, Kovac A. Who is at risk for postdischarge nausea and vomiting after ambulatory surgery? Anesthesiology 2012;117:475–86
+ 20. Apfel CC, Heidrich FM, Jukar-Rao S, Jalota L, Hornuss C, 
+Whelan RP , Zhang K, Cakmakkaya OS. Evidence-based analy-
+sis of risk factors for postoperative nausea and vomiting. Br J Anaesth 2012;109:742–53
+ 21. Apfel CC, Kranke P , Katz MH, Goepfert C, Papenfuss T, Rauch 
+S, Heineck R, Greim CA, Roewer N. Volatile anaesthetics may be the main cause of early but not delayed postoperative vom-
+iting: a randomized controlled trial of factorial design. Br J 
+Anaesth 2002;88:659–68
+ 22. Myles PS, Leslie K, Chan MT, Forbes A, Paech MJ, Peyton P , 
+Silbert BS, Pascoe E; ENIGMA Trial Group. Avoidance of 
+nitrous oxide for patients undergoing major surgery: a random-
+ized controlled trial. Anesthesiology 2007;107:221–31
+ 23. Breitfeld C, Peters J, Vockel T, Lorenz C, Eikermann M. Emetic 
+effects of morphine and piritramide. Br J Anaesth 2003;91:218–23
+ 24. Hong D, Flood P , Diaz G. The side effects of morphine and 
+hydromorphone patient-controlled analgesia. Anesth Analg 
+2008;107:1384–9
+Consensus Guidelines for the Management of PONV
+January 2014 • Volume 118 • Number 1  www.anesthesia-analgesia.org  105 25. Roberts GW, Bekker TB, Carlsen HH, Moffatt CH, Slattery PJ, 
+McClure AF. Postoperative nausea and vomiting are strongly influenced by postoperative opioid use in a dose-related man-
+ner. Anesth Analg 2005;101:1343–8
+ 26. Liu SS, Strodtbeck WM, Richman JM, Wu CL. A comparison of 
+regional versus general anesthesia for ambulatory anesthesia: 
+a meta-analysis of randomized controlled trials. Anesth Analg 2005;101:1634–42
+ 27. Marret E, Kurdi O, Zufferey P , Bonnet F. Effects of nonsteroidal 
+antiinflammatory drugs on patient-controlled analgesia mor -
+phine side effects: meta-analysis of randomized controlled tri-als. Anesthesiology 2005;102:1249–60
+ 28. Gurbet A, Basagan-Mogol E, Turker G, Ugun F, Kaya FN, Ozcan 
+B. Intraoperative infusion of dexmedetomidine reduces periop-
+erative analgesic requirements. Can J Anaesth 2006;53:646–52
+ 29. Collard V , Mistraletti G, Taqi A, Asenjo JF, Feldman LS, Fried 
+GM, Carli F. Intraoperative esmolol infusion in the absence 
+of opioids spares postoperative fentanyl in patients undergo-
+ing ambulatory laparoscopic cholecystectomy. Anesth Analg 
+2007;105:1255–62
+ 30. Janicki PK, Vealey R, Liu J, Escajeda J, Postula M, Welker K. 
+Genome-wide Association study using pooled DNA to identify 
+candidate markers mediating susceptibility to postoperative nausea and vomiting. Anesthesiology 2011;115:54–64
+ 31. Apfel CC, Kranke P , Eberhart LH. Comparison of surgical site 
+and patient’s history with a simplified risk score for the pre-diction of postoperative nausea and vomiting. Anaesthesia 2004;59:1078–82
+ 32. Leslie K, Myles PS, Chan MT, Paech MJ, Peyton P , Forbes A, 
+McKenzie D; ENIGMA Trial Group. Risk factors for severe 
+postoperative nausea and vomiting in a randomized trial of nitrous oxide-based vs nitrous oxide-free anaesthesia. Br J Anaesth 2008;101:498–505
+ 33. Cohen MM, Duncan PG, DeBoer DP , Tweed WA. The postop-
+erative interview: assessing risk factors for nausea and vomit-ing. Anesth Analg 1994;78:7–16
+ 34. Stadler M, Bardiau F, Seidel L, Albert A, Boogaerts JG. 
+Difference in risk factors for postoperative nausea and vomit-ing. Anesthesiology 2003;98:46–52
+ 35. Wallenborn J, Gelbrich G, Bulst D, Behrends K, Wallenborn 
+H, Rohrbach A, Krause U, Kühnast T, Wiegel M, Olthoff D. Prevention of postoperative nausea and vomiting by metoclo-pramide combined with dexamethasone: randomised double blind multicentre trial. BMJ 2006;333:324
+ 36. Van den Bosch JE, Moons KG, Bonsel GJ, Kalkman CJ. Does 
+measurement of preoperative anxiety have added value for 
+predicting postoperative nausea and vomiting? Anesth Analg 2005;100:1525–32
+ 37. Eberhart LH, Morin AM, Georgieff M. [The menstruation cycle 
+in the postoperative phase. Its effect of the incidence of nausea 
+and vomiting]. Anaesthesist 2000;49:532–5
+ 38. Cheng CR, Sessler DI, Apfel CC. Does neostigmine adminis-
+tration produce a clinically important increase in postoperative nausea and vomiting? Anesth Analg 2005;101:1349–55
+ 39. Tramèr MR, Fuchs-Buder T. Omitting antagonism of neuro-
+muscular block: effect on postoperative nausea and vomiting 
+and risk of residual paralysis. A systematic review. Br J Anaesth 1999;82:379–86
+ 40. Gan TJ. Risk factors for postoperative nausea and vomiting. 
+Anesth Analg 2006;102:1884–98
+ 41. Kerger KH, Mascha E, Steinbrecher B, Frietsch T, Radke OC, 
+Stoecklein K, Frenkel C, Fritz G, Danner K, Turan A, Apfel CC; IMPACT Investigators. Routine use of nasogastric tubes does not reduce postoperative nausea and vomiting. Anesth Analg 2009;109:768–73
+ 42. Orhan-Sungur M, Kranke P , Sessler D, Apfel CC. Does supple-
+mental oxygen reduce postoperative nausea and vomiting? A meta-analysis of randomized controlled trials. Anesth Analg 2008;106:1733–8
+ 43. Kranke P , Apefel CC, Papenfuss T, Rauch S, Löbmann U, 
+Rübsam B, Greim CA, Roewer N. An increased body mass 
+index is no risk factor for postoperative nausea and vomit-ing. A systematic review and results of original data. Acta Anaesthesiol Scand 2001;45:160–6 44. Charbit B, Albaladejo P , Funck-Brentano C, Legrand M, Samain 
+E, Marty J. Prolongation of QTc interval after postoperative nausea and vomiting treatment by droperidol or ondansetron. 
+Anesthesiology 2005;102:1094–100
+ 45. Pierre S, Benais H, Pouymayou J. Apfel’s simplified score may 
+favourably predict the risk of postoperative nausea and vomit-
+ing. Can J Anaesth 2002;49:237–42
+ 46. Pierre S, Corno G, Benais H, Apfel CC. A risk score-dependent 
+antiemetic approach effectively reduces postoperative nausea 
+and vomiting–a continuous quality improvement initiative. Can J Anaesth 2004;51:320–5
+ 47. Apfel CC, Korttila K, Abdalla M, Kerger H, Turan A, Vedder 
+I, Zernak C, Danner K, Jokela R, Pocock SJ, Trenkler S, Kredel 
+M, Biedler A, Sessler DI, Roewer N; IMPACT Investigators. A 
+factorial trial of six interventions for the prevention of postop-
+erative nausea and vomiting. N Engl J Med 2004;350:2441–51
+ 48. Eberhart LH, Geldner G, Kranke P , Morin AM, Schäuffelen A, 
+Treiber H, Wulf H. The development and validation of a risk 
+score to predict the probability of postoperative vomiting in 
+pediatric patients. Anesth Analg 2004;99:1630–7
+ 49. Kranke P , Eberhart LH, Toker H, Roewer N, Wulf H, Kiefer 
+P . A prospective evaluation of the POVOC score for the pre-
+diction of postoperative vomiting in children. Anesth Analg 2007;105:1592–7
+ 50. Erdem AF, Yoruk O, Alici HA, Cesur M, Atalay C, Altas E, 
+Kursad H, Yuksek MS. Subhypnotic propofol infusion plus dexamethasone is more effective than dexamethasone alone for the prevention of vomiting in children after tonsillectomy. Paediatr Anaesth 2008;18:878–83
+ 51. Erdem AF, Yoruk O, Silbir F, Alici HA, Cesur M, Dogan N, 
+Aktan B, Sutbeyaz Y. Tropisetron plus subhypnotic propofol infusion is more effective than tropisetron alone for the pre-vention of vomiting in children after tonsillectomy. Anaesth 
+Intensive Care 2009;37:54–9
+ 52. Rowley MP , Brown TC. Postoperative vomiting in children. 
+Anaesth Intensive Care 1982;10:309–13
+ 53. Visser K, Hassink EA, Bonsel GJ, Moen J, Kalkman CJ. 
+Randomized controlled trial of total intravenous anesthesia with propofol versus inhalation anesthesia with isoflurane-
+nitrous oxide: postoperative nausea with vomiting and eco-
+nomic analysis. Anesthesiology 2001;95:616–26
+ 54. Tramèr M, Moore A, McQuay H. Meta-analytic comparison 
+of prophylactic antiemetic efficacy for postoperative nau-sea and vomiting: propofol anaesthesia vs omitting nitrous oxide vs total i.v. anaesthesia with propofol. Br J Anaesth 
+1997;78:256–9
+ 55. Tramèr M, Moore A, McQuay H. Omitting nitrous oxide in 
+general anaesthesia: meta-analysis of intraoperative awareness and postoperative emesis in randomized controlled trials. Br J 
+Anaesth 1996;76:186–93
+ 56. Møiniche S, Rømsing J, Dahl JB, Tramèr MR. Nonsteroidal anti-
+inflammatory drugs and the risk of operative site bleeding after tonsillectomy: a quantitative systematic review. Anesth Analg 2003;96:68–77
+ 57. Polati E, Verlato G, Finco G, Mosaner W, Grosso S, Gottin L, 
+Pinaroli AM, Ischia S. Ondansetron versus metoclopramide in 
+the treatment of postoperative nausea and vomiting. Anesth Analg 1997;85:395–9
+ 58. Sukhani R, Vazquez J, Pappas AL, Frey K, Aasen M, Slogoff S. 
+Recovery after propofol with and without intraoperative fen-
+tanyl in patients undergoing ambulatory gynecologic laparos-
+copy. Anesth Analg 1996;83:975–81
+ 59. Elia N, Lysakowski C, Tramèr MR. Does multimodal anal-
+gesia with acetaminophen, nonsteroidal antiinflammatory drugs, or selective cyclooxygenase-2 inhibitors and patient-
+controlled analgesia morphine offer advantages over morphine 
+alone? Meta-analyses of randomized trials. Anesthesiology 2005;103:1296–304
+ 60. Gan TJ, Joshi GP , Zhao SZ, Hanna DB, Cheung RY, Chen C. 
+Presurgical intravenous parecoxib sodium and follow-up 
+oral valdecoxib for pain management after laparoscopic 
+cholecystectomy surgery reduces opioid requirements and opioid-related adverse effects. Acta Anaesthesiol Scand 2004;48:1194–207
+106   www.anesthesia-analgesia.org  ANESTh ESIA & ANAL gESIAE SPECIAL ARTICLE
+ 61. Elia N, Tramèr MR. Ketamine and postoperative pain–a 
+quantitative systematic review of randomised trials. Pain 2005;113:61–70
+ 62. Chan KS, Chen WH, Gan TJ, Hsieh R, Chen C, Lakshminarayanan 
+M, Revicki DA. Development and validation of a composite 
+score based on clinically meaningful events for the opioid-
+related symptom distress scale. Qual Life Res 2009;18:1331–40
+ 63. Ho KM, Ismail H, Lee KC, Branch R. Use of intrathecal neostig-
+mine as an adjunct to other spinal medications in perioperative 
+and peripartum analgesia: a meta-analysis. Anaesth Intensive Care 2005;33:41–53
+ 64. Orhan-Sungur M, Kranke P , Sessler D, Apfel CC. Does supple-
+mental oxygen reduce postoperative nausea and vomiting? A 
+meta-analysis of randomized controlled trials. Anesth Analg 
+2008;106:1733–8
+ 65. De Windt AC, Asehnoune K, Roquilly A, Guillaud C, Le Roux 
+C, Pinaud M, Lejus C. An opioid-free anaesthetic using nerve 
+blocks enhances rapid recovery after minor hand surgery in 
+children. Eur J Anaesthesiol 2010;27:521–5
+ 66. Gupta N, Kumar R, Kumar S, Sehgal R, Sharma KR. A pro-
+spective randomised double blind study to evaluate the effect 
+of peribulbar block or topical application of local anaesthesia 
+combined with general anaesthesia on intra-operative and postoperative complications during paediatric strabismus sur -
+gery. Anaesthesia 2007;62:1110–3
+ 67. Steib A, Karcenty A, Calache E, Franckhauser J, Dupeyron 
+JP , Speeg-Schatz C. Effects of subtenon anesthesia combined with general anesthesia on perioperative analgesic require-ments in pediatric strabismus surgery. Reg Anesth Pain Med 
+2005;30:478–83
+ 68. Ghai B, Ram J, Makkar JK, Wig J, Kaushik S. Subtenon block 
+compared to intravenous fentanyl for perioperative analgesia in pediatric cataract surgery. Anesth Analg 2009;108:1132–8
+ 69. Cardwell ME, Siviter G, Smith AF. Nonsteroidal anti-inflamma-
+tory drugs and perioperative bleeding in paediatric tonsillec-tomy. Cochrane Database Syst Rev 2013;7:CD003591
+ 70. Goodarzi M, Matar MM, Shafa M, Townsend JE, Gonzalez I. A prospective randomized blinded study of the effect of intravenous fluid therapy on postoperative nausea and vomiting in children 
+undergoing strabismus surgery. Paediatr Anaesth 2006;16:49–53
+ 71. Chukudebelu O, Leonard DS, Healy A, McCoy D, Charles D, 
+Hone S, Rafferty M. The effect of gastric decompression on postoperative nausea and emesis in pediatric, tonsillectomy patients. Int J Pediatr Otorhinolaryngol 2010;74:674–6
+ 72. Radke OC, Biedler A, Kolodzie K, Cakmakkaya OS, Silomon 
+M, Apfel CC. The effect of postoperative fasting on vomiting 
+in children and their assessment of pain. Paediatr Anaesth 2009;19:494–9
+ 73. Bolton CM, Myles PS, Nolan T, Sterne JA. Prophylaxis of post-
+operative vomiting in children undergoing tonsillectomy: a sys-
+tematic review and meta-analysis. Br J Anaesth 2006;97:593–604
+ 74. Tramèr MR, Reynolds DJ, Moore RA, McQuay HJ. Efficacy, 
+dose-response, and safety of ondansetron in prevention of postoperative nausea and vomiting: a quantitative systematic review of randomized placebo-controlled trials. Anesthesiology 
+1997;87:1277–89
+ 75. Grover VK, Mathew PJ, Hegde H. Efficacy of orally disintegrating 
+ondansetron in preventing postoperative nausea and vomiting 
+after laparoscopic cholecystectomy: a randomised, double-blind 
+placebo controlled study. Anaesthesia 2009;64:595–600
+ 76. Hartsell T, Long D, Kirsch JR. The efficacy of postoperative 
+ondansetron (Zofran) orally disintegrating tablets for pre-venting nausea and vomiting after acoustic neuroma surgery. Anesth Analg 2005;101:1492–6
+ 77. Ryu J, So YM, Hwang J, Do SH. Ramosetron versus ondanse-
+tron for the prevention of postoperative nausea and vomiting 
+after laparoscopic cholecystectomy. Surg Endosc 2010;24:812–7
+ 78. Aouad MT, Siddik-Sayyid SM, Taha SK, Azar MS, Nasr VG, Hakki MA, Zoorob DG, Baraka AS. Haloperidol vs. ondansetron for the prevention of postoperative nausea and vomiting follow-
+ing gynaecological surgery. Eur J Anaesthesiol 2007;24:171–8
+ 79. Lee Y, Wang PK, Lai HY, Yang YL, Chu CC, Wang JJ. Haloperidol 
+is as effective as ondansetron for preventing postoperative nau-sea and vomiting. Can J Anaesth 2007;54:349–54 80. Rosow CE, Haspel KL, Smith SE, Grecu L, Bittner EA. 
+Haloperidol versus ondansetron for prophylaxis of postopera-tive nausea and vomiting. Anesth Analg 2008;106:1407–9
+ 81. Diemunsch P , Gan TJ, Philip BK, Girao MJ, Eberhart L, Irwin 
+MG, Pueyo J, Chelly JE, Carides AD, Reiss T, Evans JK, Lawson 
+FC; Aprepitant-PONV Protocol 091 International Study Group. 
+Single-dose aprepitant vs ondansetron for the prevention of postoperative nausea and vomiting: a randomized, double-
+blind phase III trial in patients undergoing open abdominal 
+surgery. Br J Anaesth 2007;99:202–11
+ 82. Park SK, Cho EJ. A randomized, double-blind trial of palonose-
+tron compared with ondansetron in preventing postoperative 
+nausea and vomiting after gynaecological laparoscopic surgery. 
+J Int Med Res 2011;39:399–407
+ 83. Golembiewski J, Tokumaru S. Pharmacological prophylaxis 
+and management of adult postoperative/postdischarge nausea and vomiting. J Perianesth Nurs 2006;21:385–97
+ 84. Le TP , Gan TJ. Update on the management of postoperative 
+nausea and vomiting and postdischarge nausea and vomiting 
+in ambulatory surgery. Anesthesiol Clin 2010;28:225–49
+ 85. Graczyk SG, McKenzie R, Kallar S, Hickok CB, Melson T, 
+Morrill B, Hahne WF, Brown RA. Intravenous dolasetron for 
+the prevention of postoperative nausea and vomiting after outpatient laparoscopic gynecologic surgery. Anesth Analg 
+1997;84:325–30
+ 86. Iatrou CA, Dragoumanis CK, Vogiatzaki TD, Vretzakis GI, 
+Simopoulos CE, Dimitriou VK. Prophylactic intravenous ondansetron and dolasetron in intrathecal morphine-induced pruritus: a randomized, double-blinded, placebo-controlled 
+study. Anesth Analg 2005;101:1516–20
+ 87. Birmingham SD, Mecklenburg BW, Lujan E, Dacanay RG, Boyle 
+PK, Green R. Dolasetron versus ondansetron as single-agent prophylaxis for patients at increased risk for postoperative 
+nausea and vomiting: a prospective, double-blind, randomized 
+trial. Mil Med 2006;171:913–6
+ 88. Piper SN, Röhm K, Boldt J, Kranke P , Maleck W, Seifert R, 
+Suttner S. Postoperative nausea and vomiting after surgery for prognathism: not only a question of patients’ comfort. A placebo-controlled comparison of dolasetron and droperidol. J 
+Craniomaxillofac Surg 2008;36:173–9
+ 89. Janicki PK, Schuler HG, Jarzembowski TM, Rossi M 2nd. 
+Prevention of postoperative nausea and vomiting with granis-etron and dolasetron in relation to CYP2D6 genotype. Anesth Analg 2006;102:1127–33
+ 90. U.S. Department of Health and Human Services. Ondansetron 
+(Zofran) IV: Drug Safety Communication-QT prolonga-
+tion 2012 [June 18, 2012]. Available at: http://www.fda.gov/ Safety/MedWatch/SafetyInformation/SafetyAlertsfor  
+HumanMedicalProducts/ucm237341.htm?utm_campaign=  
+Google2&utm_source=fdaSearch&utm_medium=  
+website&utm_term=dolasetron&utm_content=2.
+  91. Bhatia N, Katyal S, Grewal A, Kaul TK. Antiemetic prophy-laxis with granisetron, ondansetron and metoclopramide in ambulatory gynaecological laparoscopic surgery: a compari-son. J Anaesthesiol Clin Pharmacol 2008;24:303–6
+  92. White PF, Tang J, Hamza MA, Ogunnaike B, Lo M, Wender RH, Naruse R, Sloninsky A, Kariger R, Cunneen S, Khalili T. The use of oral granisetron versus intravenous ondansetron 
+for antiemetic prophylaxis in patients undergoing laparo-
+scopic surgery: the effect on emetic symptoms and quality of 
+recovery. Anesth Analg 2006;102:1387–93
+  93. Erhan Y, Erhan E, Aydede H, Yumus O, Yentur A. Ondansetron, 
+granisetron, and dexamethasone compared for the prevention of postoperative nausea and vomiting in patients undergoing laparoscopic cholecystectomy: a randomized placebo-con-
+trolled study. Surg Endosc 2008;22:1487–92
+  94. Sodhi K, Mohindra BK, Sodhi GS, Kumar M. A comparative 
+study of granisetron, dexamethasone, and granisetron plus dexamethasone as prophylactic antiemetic therapy in female patients undergoing breast surgery. J Anaesthesiol Clin 
+Pharmacol 2007;23:373–8
+  95. Johns RA, Hanousek J, Montgomery JE. A comparison of cyclizine 
+and granisetron alone and in combination for the prevention of postoperative nausea and vomiting. Anaesthesia 2006;61:1053–7
+Consensus Guidelines for the Management of PONV
+January 2014 • Volume 118 • Number 1  www.anesthesia-analgesia.org  107  96. Bhattacharjee DP , Dawn S, Nayak S, Roy PR, Acharya A, Dey R. 
+A comparative study between palonosetron and granisetron to prevent postoperative nausea and vomiting after laparoscopic 
+cholecystectomy. J Anaesthesiol Clin Pharmacol 2010;26:480–3
+  97. Kranke P , Eberhart LH, Apfel CC, Broscheit J, Geldner G, Roewer N. [Tropisetron for prevention of postoperative 
+nausea and vomiting: a quantitative systematic review]. Anaesthesist 2002;51:805–14
+  98. Contreras-Domínguez V , Carbonell-Bellolio P . Prophylactic antiemetic therapy for acute abdominal surgery. A compara-tive study of droperidol, metoclopramide, tropisetron, granis-etron and dexamethasone. Rev Bras Anestesiol 2008;58:35–44
+  99. Ekinci O, Malat I, Işıtmangil G, Aydın N. A randomized 
+comparison of droperidol, metoclopramide, tropisetron, and 
+ondansetron for the prevention of postoperative nausea and 
+vomiting. Gynecol Obstet Invest 2011;71:59–65
+ 100. Eberhart LH, Büning EK, Folz B, Maybauer DM, Kästner M, 
+Kalder M, Koch T, Kranke P , Wulf H. Anti-emetic prophy-
+laxis with oral tropisetron and/or dexamethasone. Eur J Clin 
+Invest 2006;36:580–7
+ 101. Lee HJ, Kwon JY, Shin SW, Kim CH, Baek SH, Baik SW, Kim 
+HK, Kim KH. Preoperatively administered ramosetron oral 
+disintegrating tablets for preventing nausea and vomiting associated with patient-controlled analgesia in breast cancer 
+patients. Eur J Anaesthesiol 2008;25:756–62
+ 102. Choi YS, Shim JK, Yoon do H, Jeon DH, Lee JY, Kwak YL. 
+Effect of ramosetron on patient-controlled analgesia related nausea and vomiting after spine surgery in highly susceptible patients: comparison with ondansetron. Spine (Phila Pa 1976) 
+2008;33:E602–6
+ 103. George E, Hornuss C, Apfel CC. Neurokinin-1 and novel sero-
+tonin antagonists for postoperative and postdischarge nausea and vomiting. Curr Opin Anaesthesiol 2010;23:714–21
+ 104. Bajwa SS, Bajwa SK, Kaur J, Sharma V , Singh A, Singh A, 
+Goraya S, Parmar S, Singh K. Palonosetron: A novel approach to control postoperative nausea and vomiting in day care sur -
+gery. Saudi J Anaesth 2011;5:19–24
+ 105. Kovac AL, Eberhart L, Kotarski J, Clerici G, Apfel C; 
+Palonosetron 04-07 Study Group. A randomized, double-
+blind study to evaluate the efficacy and safety of three dif-
+ferent doses of palonosetron versus placebo in preventing postoperative nausea and vomiting over a 72-hour period. Anesth Analg 2008;107:439–44
+ 106. Candiotti KA, Kovac AL, Melson TI, Clerici G, Joo Gan T; 
+Palonosetron 04-06 Study Group. A randomized, double-blind 
+study to evaluate the efficacy and safety of three different 
+doses of palonosetron versus placebo for preventing postop-erative nausea and vomiting. Anesth Analg 2008;107:445–51
+ 107. Sun R, Klein KW, White PF. The effect of timing of ondan-
+setron administration in outpatients undergoing otolaryngo-
+logic surgery. Anesth Analg 1997;84:331–6
+ 108. Wilson AJ, Diemunsch P , Lindeque BG, Scheinin H, Helbo-
+Hansen HS, Kroeks MV , Kong KL. Single-dose i.v. granisetron in the prevention of postoperative nausea and vomiting. Br J Anaesth 1996;76:515–8
+ 109. Mikawa K, Takao Y, Nishina K, Shiga M, Maekawa N, Obara 
+H. Optimal dose of granisetron for prophylaxis against post-operative emesis after gynecological surgery. Anesth Analg 
+1997;85:652–6
+ 110. D’Angelo R, Philip B, Gan TJ, Kovac A, Hantler C, Doblar 
+D, Melson T, Minkowitz H, Dalby P , Coop A. A randomized, 
+double-blind, close-ranging, pilot study of intravenous granis-etron in the prevention of postoperative nausea and vomit-ing in patients abdominal hysterectomy. Eur J Anaesthesiol 2005;22:774–9
+ 111. Chen X, Tang J, White PF, Wender RH, Quon R, Sloninsky 
+A, Naruse R, Kariger R, Webb T, Norel E. The effect of tim-ing of dolasetron administration on its efficacy as a prophy-lactic antiemetic in the ambulatory setting. Anesth Analg 2001;93:906–11
+ 112. U.S. Food and Drug Administration. Ondansetron 
+(Zofran) 32 mg, Single Intravenous (IV) Dose: Updated Safety Communication–Product Removal due to Potential  
+For Serious Cardiac Risks 2012 [12/14/2012]. Available at: http://www.fda.gov/drugs/drugsafety/ucm271913.htm. Accessed November 18, 2013
+ 113. Gan TJ, Apfel CC, Kovac A, Philip BK, Singla N, Minkowitz H, 
+Habib AS, Knighton J, Carides AD, Zhang H, Horgan KJ, Evans 
+JK, Lawson FC; Aprepitant-PONV Study Group. A randomized, 
+double-blind comparison of the NK1 antagonist, aprepitant, 
+versus ondansetron for the prevention of postoperative nausea and vomiting. Anesth Analg 2007;104:1082–9, tables of contents
+ 114. Habib AS, Keifer JC, Borel CO, White WD, Gan TJ. A com-
+parison of the combination of aprepitant and dexamethasone versus the combination of ondansetron and dexamethasone for the prevention of postoperative nausea and vomiting in 
+patients undergoing craniotomy. Anesth Analg 2011;112:813–8
+ 115. Gin T, Lai L, Tang Y, Cheng B, Chan M. Aprepitant for pre-
+venting postoperative nausea and vomiting: a dose finding 
+study. Eur J Anaesthesiol 2009;26:128
+ 116. Scuderi PE, White PF. Novel therapies for postoperative nau-
+sea and vomiting: statistically significant versus clinically 
+meaningful outcomes. Anesth Analg 2011;112:750–2
+ 117. Altorjay A, Melson T, Chinachoit T, Kett A, Aqua K, Levin 
+J, Blackburn LM, Lane S, Pergolizzi JV Jr. Casopitant and 
+ondansetron for postoperative nausea and vomiting preven-
+tion in women at high risk for emesis: a phase 3 study. Arch Surg 2011;146:201–6
+ 118. Singla NK, Singla SK, Chung F, Kutsogiannis DJ, Blackburn 
+L, Lane SR, Levin J, Johnson B, Pergolizzi JV Jr. Phase II study to evaluate the safety and efficacy of the oral neurokinin-1 receptor antagonist casopitant (GW679769) administered with ondansetron for the prevention of postoperative and 
+postdischarge nausea and vomiting in high-risk patients. 
+Anesthesiology 2010;113:74–82
+ 119. Gan TJ, Gu J, Singla N, Chung F, Pearman MH, Bergese SD, 
+Habib AS, Candiotti KA, Mo Y, Huyck S, Creed MR, Cantillon 
+M; Rolapitant Investigation Group. Rolapitant for the preven-
+tion of postoperative nausea and vomiting: a prospective, double-blinded, placebo-controlled randomized trial. Anesth Analg 2011;112:804–12
+ 120. Henzi I, Walder B, Tramèr MR. Dexamethasone for the pre-
+vention of postoperative nausea and vomiting: a quantitative 
+systematic review. Anesth Analg 2000;90:186–94
+ 121. Wang JJ, Ho ST, Lee SC, Liu YC, Ho CM. The use of dexa-
+methasone for preventing postoperative nausea and vomiting in females undergoing thyroidectomy: a dose-ranging study. Anesth Analg 2000;91:1404–7
+ 122. Arslan M, Cicek R, Kalender HT, Yilmaz H. Preventing post-
+operative nausea and vomiting after laparoscopic cholecys-
+tectomy: a prospective, randomized, double-blind study. Curr Ther Res Clin Exp 2011;72:1–12
+ 123. Arslan M, Demir ME. Prevention of postoperative nausea 
+and vomiting with a small dose of propofol combined with 
+dexamethasone 4 mg or dexamethasone 8 mg in patients undergoing middle ear surgery: a prospective, randomized, double-blind study. Bratisl Lek Listy 2011;112:332–6
+ 124. Feroci F, Rettori M, Borrelli A, Lenzi E, Ottaviano A, Scatizzi 
+M. Dexamethasone prophylaxis before thyroidectomy to 
+reduce postoperative nausea, pain, and vocal dysfunction: a 
+randomized clinical controlled trial. Head Neck 2011;33:840–6
+ 125. Bilgin TE, Birbicer H, Ozer Z, Doruk N, Tok E, Oral U. A com-
+parative study of the antiemetic efficacy of dexamethasone, 
+ondansetron, and metoclopramide in patients undergoing 
+gynecological surgery. Med Sci Monit 2010;16:CR336–41
+ 126. Chaparro LE, Gallo T, Gonzalez NJ, Rivera MF, Peng PW. 
+Effectiveness of combined haloperidol and dexamethasone versus dexamethasone only for postoperative nausea and vomiting in high-risk day surgery patients: a randomized 
+blinded trial. Eur J Anaesthesiol 2010;27:192–5
+ 127. Murphy GS, Szokol JW, Greenberg SB, Avram MJ, Vender JS, 
+Nisman M, Vaughn J. Preoperative dexamethasone enhances quality of recovery after laparoscopic cholecystectomy: effect on in-hospital and postdischarge recovery outcomes. 
+Anesthesiology 2011;114:882–90
+ 128. De Oliveira GS Jr, Ahmad S, Fitzgerald PC, Marcus RJ, 
+Altman CS, Panjwani AS, McCarthy RJ. Dose ranging study on the effect of preoperative dexamethasone on postoperative 
+108   www.anesthesia-analgesia.org  ANESTh ESIA & ANAL gESIAE SPECIAL ARTICLE
+quality of recovery and opioid consumption after ambulatory 
+gynaecological surgery. Br J Anaesth 2011;107:362–71
+ 129. De Oliveira GS Jr, Almeida MD, Benzon HT, McCarthy RJ. 
+Perioperative single dose systemic dexamethasone for post-
+operative pain: a meta-analysis of randomized controlled tri-
+als. Anesthesiology 2011;115:575–88
+ 130. Waldron NH, Jones CA, Gan TJ, Allen TK, Habib AS. Impact 
+of perioperative dexamethasone on postoperative analgesia 
+and side-effects: systematic review and meta-analysis. Br J 
+Anaesth 2013;110:191–200
+ 131. Percival VG, Riddell J, Corcoran TB. Single dose dexameth-
+asone for postoperative nausea and vomiting–a matched 
+case-control study of postoperative infection risk. Anaesth 
+Intensive Care 2010;38:661–6
+ 132. Ali Khan S, McDonagh DL, Gan TJ. Wound complications 
+with dexamethasone for postoperative nausea and vomiting prophylaxis: a moot point? Anesth Analg 2013;116:966–8
+ 133. Eberhart LH, Graf J, Morin AM, Stief T, Kalder M, Lattermann 
+R, Schricker T. Randomised controlled trial of the effect of 
+oral premedication with dexamethasone on hyperglycae-
+mic response to abdominal hysterectomy. Eur J Anaesthesiol 
+2011;28:195–201
+ 134. Nazar CE, Lacassie HJ, López RA, Muñoz HR. Dexamethasone 
+for postoperative nausea and vomiting prophylaxis: effect on 
+glycaemia in obese patients with impaired glucose tolerance. 
+Eur J Anaesthesiol 2009;26:318–21
+ 135. Hans P , Vanthuyne A, Dewandre PY, Brichant JF, Bonhomme 
+V . Blood glucose concentration profile after 10 mg dexametha-sone in non-diabetic and type 2 diabetic patients undergoing 
+abdominal surgery. Br J Anaesth 2006;97:164–70
+ 136. Miyagawa Y, Ejiri M, Kuzuya T, Osada T, Ishiguro N, Yamada 
+K. Methylprednisolone reduces postoperative nausea in total knee and hip arthroplasty. J Clin Pharm Ther 2010;35:679–84
+ 137. Weren M, Demeere JL. Methylprednisolone vs. dexametha-
+sone in the prevention of postoperative nausea and vomiting: a prospective, randomised, double-blind, placebo-controlled trial. Acta Anaesthesiol Belg 2008;59:1–5
+ 138. Domino KB, Anderson EA, Polissar NL, Posner KL. 
+Comparative efficacy and safety of ondansetron, dro-
+peridol, and metoclopramide for preventing postopera-
+tive nausea and vomiting: a meta-analysis. Anesth Analg 1999;88:1370–9
+ 139. Fortney JT, Gan TJ, Graczyk S, Wetchler B, Melson T, Khalil 
+S, McKenzie R, Parrillo S, Glass PS, Moote C, Wermeling D, Parasuraman TV , Duncan B, Creed MR. A comparison of the 
+efficacy, safety, and patient satisfaction of ondansetron versus 
+droperidol as antiemetics for elective outpatient surgical pro-cedures. S3A-409 and S3A-410 Study Groups. Anesth Analg 1998;86:731–8
+ 140. Henzi I, Sonderegger J, Tramèr MR. Efficacy, dose-response, 
+and adverse effects of droperidol for prevention of postopera-tive nausea and vomiting. Can J Anaesth 2000;47:537–51
+ 141. Merker M, Kranke P , Morin AM, Rüsch D, Eberhart LH. 
+[Prophylaxis of nausea and vomiting in the postoperative phase: relative effectiveness of droperidol and metoclo-
+pramide]. Anaesthesist 2011;60:432–40, 442–5
+ 142. Schaub I, Lysakowski C, Elia N, Tramèr MR. Low-dose dro-
+peridol (≤1 mg or ≤15 μg·kg
+-1) for the prevention of postoper -
+ative nausea and vomiting in adults: quantitative systematic review of randomised controlled trials. Eur J Anaesthesiol 
+2012;29:286–94
+ 143. White PF, Song D, Abrao J, Klein KW, Navarette B. Effect of 
+low-dose droperidol on the QT interval during and after gen-
+eral anesthesia: a placebo-controlled study. Anesthesiology 2005;102:1101–5
+ 144. Weissenburger J, Funck-Brentano C, Jaillon P , Charbit B. 
+Droperidol and ondansetron in vitro electrophysiological drug interaction study. Fundam Clin Pharmacol 2009;23:719–26
+ 145. Chan MT, Choi KC, Gin T, Chui PT, Short TG, Yuen PM, Poon 
+AH, Apfel CC, Gan TJ. The additive interactions between ondansetron and droperidol for preventing postoperative 
+nausea and vomiting. Anesth Analg 2006;103:1155–62
+ 146. Büttner M, Walder B, von Elm E, Tramèr MR. Is low-
+dose haloperidol a useful antiemetic?: a meta-analysis of published and unpublished randomized trials. Anesthesiology 2004;101:1454–63
+ 147. Smith JC 2nd, Wright EL. Haloperidol: an alternative butyro-
+phenone for nausea and vomiting prophylaxis in anesthesia. 
+AANA J 2005;73:273–5
+ 148. Feng PH, Chu KS, Lu IC, Shieh JP , Tzeng JI, Ho ST, Wang JJ, 
+Chu CC. Haloperidol plus ondansetron prevents postopera-tive nausea and vomiting in patients undergoing laparoscopic cholecystectomy. Acta Anaesthesiol Taiwan 2009;47:3–9
+ 149. Meyer-Massetti C, Cheng CM, Sharpe BA, Meier CR, 
+Guglielmo BJ. The FDA extended warning for intravenous haloperidol and torsades de pointes: how should institutions 
+respond? J Hosp Med 2010;5:E8–16
+ 150. Wang TF, Liu YH, Chu CC, Shieh JP , Tzeng JI, Wang JJ. Low-
+dose haloperidol prevents post-operative nausea and vomit-
+ing after ambulatory laparoscopic surgery. Acta Anaesthesiol Scand 2008;52:280–4
+ 151. Yang YL, Lai HY, Wang JJ, Wang PK, Chen TY, Chu CC, Lee 
+Y. The timing of haloperidol administration does not affect its 
+prophylactic antiemetic efficacy. Can J Anaesth 2008;55:270–5
+ 152. Eberhart LH, Seeling W, Bopp TI, Morin AM, Georgieff M. 
+Dimenhydrinate for prevention of post-operative nausea and 
+vomiting in female in-patients. Eur J Anaesthesiol 1999;16:284–9
+ 153. Kothari SN, Boyd WC, Bottcher ML, Lambert PJ. Antiemetic 
+efficacy of prophylactic dimenhydrinate (Dramamine) vs 
+ondansetron (Zofran): a randomized, prospective trial inpa-
+tients undergoing laparoscopic cholecystectomy. Surg Endosc 2000;14:926–9
+ 154. Kranke P , Morin AM, Roewer N, Eberhart LH. Dimenhydrinate 
+for prophylaxis of postoperative nausea and vomiting: a meta-
+analysis of randomized controlled trials. Acta Anaesthesiol Scand 2002;46:238–44
+ 155. Forrester CM, Benfield DA Jr, Matern CE, Kelly JA, Pellegrini 
+JE. Meclizine in combination with ondansetron for prevention 
+of postoperative nausea and vomiting in a high-risk popula-
+tion. AANA J 2007;75:27–33
+ 156. Apfel CC, Zhang K, George E, Shi S, Jalota L, Hornuss C, Fero 
+KE, Heidrich F, Pergolizzi JV , Cakmakkaya OS, Kranke P . Transdermal scopolamine for the prevention of postoperative nausea and vomiting: a systematic review and meta-analysis. Clin Ther 2010;32:1987–2002
+ 157. Bailey PL, Streisand JB, Pace NL, Bubbers SJ, East KA, Mulder 
+S, Stanley TH. Transdermal scopolamine reduces nausea and vomiting after outpatient laparoscopy. Anesthesiology 1990;72:977–80
+ 158. Kranke P , Morin AM, Roewer N, Wulf H, Eberhart LH. The 
+efficacy and safety of transdermal scopolamine for the preven-tion of postoperative nausea and vomiting: a quantitative sys-tematic review. Anesth Analg 2002;95:133–43
+ 159. Semple P , Madej TH, Wheatley RG, Jackson IJ, Stevens J. 
+Transdermal hyoscine with patient-controlled analgesia. 
+Anaesthesia 1992;47:399–401
+ 160. Harris SN, Sevarino FB, Sinatra RS, Preble L, O’Connor TZ, 
+Silverman DG. Nausea prophylaxis using transdermal sco-polamine in the setting of patient-controlled analgesia. Obstet Gynecol 1991;78:673–7
+ 161. White PF, Tang J, Song D, Coleman JE, Wender RH, Ogunnaike 
+B, Sloninsky A, Kapu R, Shah M, Webb T. Transdermal scopol-amine: an alternative to ondansetron and droperidol for the prevention of postoperative and postdischarge emetic symp-
+toms. Anesth Analg 2007;104:92–6
+ 162. Schnabel A, Eberhart LH, Muellenbach R, Morin AM, Roewer 
+N, Kranke P . Efficacy of perphenazine to prevent postopera-
+tive nausea and vomiting: a quantitative systematic review. Eur J Anaesthesiol 2010;27:1044–51
+ 163. Henzi I, Walder B, Tramèr MR. Metoclopramide in the pre-
+vention of postoperative nausea and vomiting: a quantitative systematic review of randomized, placebo-controlled studies. Br J Anaesth 1999;83:761–71
+ 164. Soppitt AJ, Glass PS, Howell S, Weatherwax K, Gan TJ. The 
+use of propofol for its antiemetic effect: a survey of clinical 
+practice in the United States. J Clin Anesth 2000;12:265–9
+ 165. Gan TJ, Glass PS, Howell ST, Canada AT, Grant AP , Ginsberg 
+B. Determination of plasma concentrations of propofol 
+Consensus Guidelines for the Management of PONV
+January 2014 • Volume 118 • Number 1  www.anesthesia-analgesia.org  109associated with 50% reduction in postoperative nausea. 
+Anesthesiology 1997;87:779–84
+ 166. Tramèr M, Moore A, McQuay H. Propofol anaesthesia and 
+postoperative nausea and vomiting: quantitative system-
+atic review of randomized controlled studies. Br J Anaesth 
+1997;78:247–55
+ 167. Gupta A, Stierer T, Zuckerman R, Sakima N, Parker SD, 
+Fleisher LA. Comparison of recovery profile after ambulatory 
+anesthesia with propofol, isoflurane, sevoflurane and desflu-
+rane: a systematic review. Anesth Analg 2004;98:632–41
+ 168. Gan TJ, Ginsberg B, Glass PS, Fortney J, Jhaveri R, Perno R. 
+Opioid-sparing effects of a low-dose infusion of naloxone 
+in patient-administered morphine sulfate. Anesthesiology 
+1997;87:1075–81
+ 169. Unlugenc H, Guler T, Gunes Y, Isik G. Comparative study 
+of the antiemetic efficacy of ondansetron, propofol and mid-azolam in the early postoperative period. Eur J Anaesthesiol 
+2004;21:60–5
+ 170. Blaudszun G, Lysakowski C, Elia N, Tramèr MR. Effect of 
+perioperative systemic α2 agonists on postoperative mor -
+phine consumption and pain intensity: systematic review and meta-analysis of randomized controlled trials. Anesthesiology 
+2012;116:1312–22
+ 171. Chen CC, Lin CS, Ko YP , Hung YC, Lao HC, Hsu YW. 
+Premedication with mirtazapine reduces preoperative anxi-
+ety and postoperative nausea and vomiting. Anesth Analg 2008;106:109–13
+ 172. Bashir F, Mohammad Bhat K, Qazi S, Hashia AM. A random-
+ized, double blind, placebo controlled study evaluating pre-
+ventive role of gabapentin for PONV in patients undergoing 
+laparascopic cholecystectomy. JK Science 2009;11:190–3
+ 173. Khademi S, Ghaffarpasand F, Heiran HR, Asefi A. Effects of 
+preoperative gabapentin on postoperative nausea and vom-
+iting after open cholecystectomy: a prospective randomized 
+double-blind placebo-controlled study. Med Princ Pract 2010;19:57–60
+ 174. Pandey CK, Priye S, Ambesh SP , Singh S, Singh U, Singh PK. 
+Prophylactic gabapentin for prevention of postoperative nau-sea and vomiting in patients undergoing laparoscopic chole-
+cystectomy: a randomized, double-blind, placebo-controlled 
+study. J Postgrad Med 2006;52:97–100
+ 175. Koç S, Memis D, Sut N. The preoperative use of gabapen-
+tin, dexamethasone, and their combination in varicocele surgery: a randomized controlled trial. Anesth Analg 2007;105:1137–42
+ 176. Jung JS, Park JS, Kim SO, Lim DG, Park SS, Kwak KH, Cho 
+JD, Jeon YH. Prophylactic antiemetic effect of midazolam after middle ear surgery. Otolaryngol Head Neck Surg 2007;137:753–6
+ 177. Tarhan O, Canbay O, Celebi N, Uzun S, Sahin A, Coşkun F, 
+Aypar U. Subhypnotic doses of midazolam prevent nausea and vomiting during spinal anesthesia for cesarean section. Minerva Anestesiol 2007;73:629–33
+ 178. Lee Y, Wang JJ, Yang YL, Chen A, Lai HY. Midazolam vs 
+ondansetron for preventing postoperative nausea and vomit-
+ing: a randomised controlled trial. Anaesthesia 2007;62:18–22
+ 179. Makhdoom NK, Farid MF. Prophylactic antiemetic effects of 
+midazolam, dexamethasone, and its combination after middle 
+ear surgery. Saudi Med J 2009;30:504–8
+ 180. Yeo J, Jung J, Ryu T, Jeon YH, Kim S, Baek W. Antiemetic effi-
+cacy of dexamethasone combined with midazolam after mid-
+dle ear surgery. Otolaryngol Head Neck Surg 2009;141:684–8
+ 181. Shahriari A, Khooshideh M, Heidari MH. Prevention of nau-
+sea and vomiting in caesarean section under spinal anaesthe-sia with midazolam or metoclopramide? J Pak Med Assoc 
+2009;59:756–9
+ 182. Bedin A, Pinho Mde S, Zanotelli CT, Caldart AS, Turazzi JC, 
+de Castro RA. Dexamethasone compared to metoclopramide in the prophylaxis of emesis in children undergoing ambula-tory surgical procedures. Rev Bras Anestesiol 2005;55:387–96
+ 183. Safavi MR, Honarmand A. Low dose intravenous midazolam 
+for prevention of PONV , in lower abdominal surgery–pre-operative vs intraoperative administration. Middle East J Anesthesiol 2009;20:75–81 184. Alghanem SM, Massad IM, Rashed EM, Abu-Ali HM, 
+Daradkeh SS. Optimization of anesthesia antiemetic measures versus combination therapy using dexamethasone or ondan-
+setron for the prevention of postoperative nausea and vomit-
+ing. Surg Endosc 2010;24:353–8
+ 185. Banihashem N, Hassannasab B, Naziri F, Rahimifar AR, 
+Hosseini V , Shirkhani Z. Comparison of the prophylactic effect of ondansetron and dexamethasone on postoperative 
+nausea and vomiting after intrathecal meperidine in women 
+scheduled for elective cesarean section. JBUMS 2011;13:30–3
+ 186. Bano F, Zafar S, Aftab S, Haider S. Dexamethasone plus 
+ondansetron for prevention of postoperative nausea and vom-
+iting in patients undergoing laparoscopic cholecystectomy: 
+a comparison with dexamethasone alone. J Coll Physicians 
+Surg Pak 2008;18:265–9
+ 187. Gan TJ, Sinha AC, Kovac AL, Jones RK, Cohen SA, Battikha 
+JP , Deutsch JS, Pergolizzi JV Jr, Glass PS; TDS Study Group. A 
+randomized, double-blind, multicenter trial comparing trans-
+dermal scopolamine plus ondansetron to ondansetron alone 
+for the prevention of postoperative nausea and vomiting in 
+the outpatient setting. Anesth Analg 2009;108:1498–504
+ 188. Eberhart LH, Morin AM, Bothner U, Georgieff M. Droperidol 
+and 5-HT3-receptor antagonists, alone or in combination, for prophylaxis of postoperative nausea and vomiting. A meta-
+analysis of randomised controlled trials. Acta Anaesthesiol 
+Scand 2000;44:1252–7
+ 189. Habib AS, El-Moalem HE, Gan TJ. The efficacy of the 5-HT3 
+receptor antagonists combined with droperidol for PONV prophylaxis is similar to their combination with dexametha-
+sone. A meta-analysis of randomized controlled trials. Can J 
+Anaesth 2004;51:311–9
+ 190. Kazemi-Kjellberg F, Henzi I, Tramèr MR. Treatment of estab-
+lished postoperative nausea and vomiting: a quantitative sys-
+temic review. BMC Anesthesiol 2001;1:2 Available at: http://
+www.biomedcentral.com/1471-2253/1/2. Accessed May 18, 2013
+ 191. Tramèr MR. A rational approach to the control of postopera-
+tive nausea and vomiting: evidence from systematic reviews. Part I. Efficacy and harm of antiemetic interventions, and 
+methodological issues. Acta Anaesthesiol Scand 2001;45:4–13
+ 192. Gan TJ, Coop A, Philip BK. A randomized, double-blind study 
+of granisetron plus dexamethasone versus ondansetron plus dexamethasone to prevent postoperative nausea and vomit-ing in patients undergoing abdominal hysterectomy. Anesth Analg 2005;101:1323–9
+ 193. Leksowski K, Peryga P , Szyca R. Ondansetron, metoclopra-
+mid, dexamethason, and their combinations compared for the prevention of postoperative nausea and vomiting in patients undergoing laparoscopic cholecystectomy: a prospective ran-
+domized study. Surg Endosc 2006;20:878–82
+ 194. Antonetti M, Kirton O, Bui P , Ademi A, Staff I, Hudson-Civetta 
+JA, Lilly R. The effects of preoperative rofecoxib, metoclo-pramide, dexamethasone, and ondansetron on postoperative pain and nausea in patients undergoing elective laparoscopic cholecystectomy. Surg Endosc 2007;21:1855–61
+ 195. Kim MS, Coté CJ, Cristoloveanu C, Roth AG, Vornov P , 
+Jennings MA, Maddalozzo JP , Sullivan C. There is no dose-escalation response to dexamethasone (0.0625-1.0 mg/kg) in 
+pediatric tonsillectomy or adenotonsillectomy patients for 
+preventing vomiting, reducing pain, shortening time to first 
+liquid intake, or the incidence of voice change. Anesth Analg 
+2007;104:1052–8, tables of contents
+ 196. Gautam B, Shrestha BR, Lama P , Rai S. Antiemetic prophylaxis 
+against postoperative nausea and vomiting with ondansetron-dexamethasone combination compared to ondansetron or 
+dexamethasone alone for patients undergoing laparoscopic cho-
+lecystectomy. Kathmandu Univ Med J (KUMJ) 2008;6:319–28
+ 197. Paech MJ, Rucklidge MW, Lain J, Dodd PH, Bennett EJ, 
+Doherty DA. Ondansetron and dexamethasone dose com-binations for prophylaxis against postoperative nausea and 
+vomiting. Anesth Analg 2007;104:808–14
+ 198. Sriraman R, Indu S, Chari P . Is granisetron-dexamethasone 
+combination better than ondansetron-dexamethasone in the prevention of postoperative nausea and vomiting in 
+110   www.anesthesia-analgesia.org  ANESTh ESIA & ANAL gESIAE SPECIAL ARTICLE
+outpatient gynaecological laparoscopy? J Anaesthesiol Clin 
+Pharmacol 2007;23:365–72
+ 199. Dabbous AS, Jabbour-Khoury SI, Nasr VG, Moussa AA, 
+Zbeidy RA, Khouzam NE, El-Khatib MF, Baraka AS. 
+Dexamethasone with either granisetron or ondansetron for 
+postoperative nausea and vomiting in laparoscopic surgery. 
+Middle East J Anesthesiol 2010;20:565–70
+ 200. Chu CC, Shieh JP , Tzeng JI, Chen JY, Lee Y, Ho ST, Wang JJ. 
+The prophylactic effect of haloperidol plus dexamethasone on 
+postoperative nausea and vomiting in patients undergoing laparoscopically assisted vaginal hysterectomy. Anesth Analg 2008;106:1402–6
+ 201. Deban Singh L, Nando Singh Y, Ratan Singh N, Pradipkumar 
+Singh L, Hemjit Singh T, Moirangthem GS. A comparison 
+between granisetron and granisetron with dexamethasone for 
+prevention of postoperative nausea and vomiting for laparo-scopic cholecystectomy. JMS 2009;23:51–4
+ 202. Lee HK, Lee JH, Chon SS, Ahn EK, Kim JH, Jang YH. The effect 
+of transdermal scopolamine plus intravenous dexamethasone 
+for the prevention of postoperative nausea and vomiting in 
+patients with epidural PCA after major orthopedic surgery. 
+Korean J Anesthesiol 2010;58:50–5
+ 203. Grecu L, Bittner EA, Kher J, Smith SE, Rosow CE. Haloperidol 
+plus ondansetron versus ondansetron alone for prophy-
+laxis of postoperative nausea and vomiting. Anesth Analg 
+2008;106:1410–3
+ 204. Culebras X, Corpataux JB, Gaggero G, Tramèr MR. The anti-
+emetic efficacy of droperidol added to morphine patient-controlled analgesia: a randomized, controlled, multicenter 
+dose-finding study. Anesth Analg 2003;97:816–21
+ 205. Tramèr MR, Walder B. Efficacy and adverse effects of pro-
+phylactic antiemetics during patient-controlled analgesia therapy: a quantitative systematic review. Anesth Analg 
+1999;88:1354–61
+ 206. Chung SD, Lu CW, Chiu B, Liao CH, Yu HJ. Urethro-
+subcutaneous fistula and bilateral abscesses of the thighs. Int J Infect Dis 2009;13:e523–4
+ 207. Chung F, Lane R, Spraggs C, McQuade B, Jacka M, Luttropp 
+HH, Alahuta S, Rocherieux S, Roy M, Duvaldestin P , Curtis 
+P . Ondansetron is more effective than metoclopramide for 
+the treatment of opioid-induced emesis in post-surgical adult patients. Ondansetron OIE Post-Surgical Study Group. Eur J Anaesthesiol 1999;16:669–77
+ 208. Madson AT, Silverman MJ. The effect of music therapy on 
+relaxation, anxiety, pain perception, and nausea in adult solid 
+organ transplant patients. J Music Ther 2010;47:220–32
+ 209. Reza N, Ali SM, Saeed K, Abul-Qasim A, Reza TH. The impact 
+of music on postoperative pain and anxiety following cesar -
+ean section. Middle East J Anesthesiol 2007;19:573–86
+ 210. Teran L, Hawkins JK. The effectiveness of inhalation isopro-
+pyl alcohol vs. granisetron for the prevention of postoperative nausea and vomiting. AANA J 2007;75:417–22
+ 211. Weilbach C, Kähler K, Thissen U, Rahe-Meyer N, Piepenbrock 
+S. Esomeprazole for the prevention of postoperative nausea and vomiting. A randomized, placebo-controlled trial. Eur J 
+Anaesthesiol 2006;23:338–40
+ 212. Raeder J, Dahl V , Bjoernestad E, Edlund G, Modin S, Naucler 
+E, Bergheim R, Kilhamn J. Does esomeprazole prevent post-
+operative nausea and vomiting? Acta Anaesthesiol Scand 
+2007;51:217–25
+ 213. Ernst E, Pittler MH. Efficacy of ginger for nausea and vom-
+iting: a systematic review of randomized clinical trials. Br J Anaesth 2000;84:367–71
+ 214. Morin AM, Betz O, Kranke P , Geldner G, Wulf H, Eberhart 
+LH. [Is ginger a relevant antiemetic for postoperative nau-
+sea and vomiting?]. Anasthesiol Intensivmed Notfallmed 
+Schmerzther 2004;39:281–5
+ 215. Czarnetzki C, Schiffer E, Lysakowski C, Haller G, Bertrand D, 
+Tramèr MR. Transcutaneous nicotine does not prevent post-operative nausea and vomiting: a randomized controlled trial. 
+Br J Clin Pharmacol 2011;71:383–90
+ 216. Habib AS, White WD, El Gasim MA, Saleh G, Polascik TJ, Moul 
+JW, Gan TJ. Transdermal nicotine for analgesia after radical retropubic prostatectomy. Anesth Analg 2008;107:999–1004 217. Montgomery GH, Bovbjerg DH, Schnur JB, David D, Goldfarb 
+A, Weltz CR, Schechter C, Graff-Zivin J, Tatrow K, Price DD, Silverstein JH. A randomized clinical trial of a brief hypnosis 
+intervention to control side effects in breast surgery patients. J 
+Natl Cancer Inst 2007;99:1304–12
+ 218. Tramèr MR, Carroll D, Campbell FA, Reynolds DJ, Moore 
+RA, McQuay HJ. Cannabinoids for control of chemotherapy induced nausea and vomiting: quantitative systematic review. 
+BMJ 2001;323:16–21
+ 219. Lewis IH, Campbell DN, Barrowcliffe MP . Effect of nabilone 
+on nausea and vomiting after total abdominal hysterectomy. Br J Anaesth 1994;73:244–6
+ 220. Rincón DA, Valero JF. [Supplemental oxygen for the preven-
+tion of postoperative nausea and vomiting: a meta-analysis 
+of randomized clinical trials]. Rev Esp Anestesiol Reanim 
+2008;55:101–9
+ 221. Chen JJ, Frame DG, White TJ. Efficacy of ondansetron and 
+prochlorperazine for the prevention of postoperative nausea 
+and vomiting after total hip replacement or total knee replace-
+ment procedures: a randomized, double-blind, comparative 
+trial. Arch Intern Med 1998;158:2124–8
+ 222. Khalil S, Philbrook L, Rabb M, Wells L, Aves T, Villanueva 
+G, Amhan M, Chuang AZ, Lemak NA. Ondansetron/pro-methazine combination or promethazine alone reduces nau-
+sea and vomiting after middle ear surgery. J Clin Anesth 
+1999;11:596–600
+ 223. Rothenberg DM, Parnass SM, Litwack K, McCarthy RJ, 
+Newman LM. Efficacy of ephedrine in the prevention of post-operative nausea and vomiting. Anesth Analg 1991;72:58–61
+ 224. Hagemann E, Halvorsen A, Holgersen O, Tveit T, Raeder JC. 
+Intramuscular ephedrine reduces emesis during the first three hours after abdominal hysterectomy. Acta Anaesthesiol Scand 2000;44:107–11
+ 225. FDA Requires Boxed Warning for Promethazine 
+Hydrochloride Injection 2009. Available at: http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm182498.htm. Accessed May 18, 2013
+ 226. Lee AP . Microfluidic cellular and molecular detection for Lab-
+on-a-Chip applications. Conf Proc IEEE Eng Med Biol Soc 
+2009;2009:4147–9
+ 227. Frey UH, Funk M, Löhlein C, Peters J. Effect of P6 acustimula-
+tion on post-operative nausea and vomiting in patients under -
+going a laparoscopic cholecystectomy. Acta Anaesthesiol Scand 2009;53:1341–7
+ 228. Frey UH, Scharmann P , Löhlein C, Peters J. P6 acustimulation 
+effectively decreases postoperative nausea and vomiting in 
+high-risk patients. Br J Anaesth 2009;102:620–5
+ 229. Arnberger M, Stadelmann K, Alischer P , Ponert R, Melber A, 
+Greif R. Monitoring of neuromuscular blockade at the P6 acu-
+puncture point reduces the incidence of postoperative nausea 
+and vomiting. Anesthesiology 2007;107:903–8
+ 230. Kim YH, Kim KS, Lee HJ, Shim JC, Yoon SW. The efficacy of 
+several neuromuscular monitoring modes at the P6 acupunc-ture point in preventing postoperative nausea and vomiting. Anesth Analg 2011;112:819–23
+ 231. Maharaj CH, Kallam SR, Malik A, Hassett P , Grady D, Laffey 
+JG. Preoperative intravenous fluid therapy decreases postop-erative nausea and pain in high risk patients. Anesth Analg 
+2005;100:675–82
+ 232. Magner JJ, McCaul C, Carton E, Gardiner J, Buggy D. Effect of 
+intraoperative intravenous crystalloid infusion on postopera-
+tive nausea and vomiting after gynaecological laparoscopy: comparison of 30 and 10 ml kg(-1). Br J Anaesth 2004;93:381–5
+ 233. Haentjens LL, Ghoundiwal D, Touhiri K, Renard M, Engelman 
+E, Anaf V , Simon P , Barvais L, Ickx BE. Does infusion of col-
+loid influence the occurrence of postoperative nausea and 
+vomiting after elective surgery in women? Anesth Analg 2009;108:1788–93
+ 234. Chaudhary S, Sethi AK, Motiani P , Adatia C. Pre-operative 
+intravenous fluid therapy with crystalloids or colloids 
+on post-operative nausea & vomiting. Indian J Med Res 
+2008;127:577–81
+ 235. Gan TJ, Ginsberg B, Glass PS, Fortney J, Jhaveri R, Perno R. 
+Opioid-sparing effects of a low-dose infusion of naloxone 
+Consensus Guidelines for the Management of PONV
+January 2014 • Volume 118 • Number 1  www.anesthesia-analgesia.org  111in patient-administered morphine sulfate. Anesthesiology 
+1997;87:1075–81
+ 236. Maxwell LG, Kaufmann SC, Bitzer S, Jackson EV Jr, McGready J, 
+Kost-Byerly S, Kozlowski L, Rothman SK, Yaster M. The effects 
+of a small-dose naloxone infusion on opioid-induced side effects 
+and analgesia in children and adolescents treated with intrave-
+nous patient-controlled analgesia: a double-blind, prospective, randomized, controlled study. Anesth Analg 2005;100:953–8
+ 237. Jia DL, Ni C, Xu T, Zhang LP , Guo XY. A small-dose nalox-
+one infusion alleviates nausea and sedation without impact-ing analgesia via intravenous tramadol. Chin Med J (Engl) 2010;123:1695–8
+ 238. Joshi GP , Duffy L, Chehade J, Wesevich J, Gajraj N, Johnson 
+ER. Effects of prophylactic nalmefene on the incidence of 
+morphine-related side effects in patients receiving intra-
+venous patient-controlled analgesia. Anesthesiology 1999;90:1007–11
+ 239. Betz O, Kranke P , Geldner G, Wulf H, Eberhart LH. [Is ginger 
+a clinically relevant antiemetic? A systematic review of ran-
+domized controlled trials]. Forsch Komplementarmed Klass 
+Naturheilkd 2005;12:14–23
+ 240. Chaiyakunapruk N, Kitikannakorn N, Nathisuwan S, 
+Leeprakobboon K, Leelasettagool C. The efficacy of ginger for the prevention of postoperative nausea and vomiting: a meta-
+analysis. Am J Obstet Gynecol 2006;194:95–9
+ 241. Prapaitrakool S, Itharat A. Morinda citrifolia Linn. for preven-
+tion of postoperative nausea and vomiting. J Med Assoc Thai 2010;93 Suppl 7:S204–9
+ 242. Drummond MF, Jefferson TO. Guidelines for authors and 
+peer reviewers of economic submissions to the BMJ. The BMJ 
+Economic Evaluation Working Party. BMJ 1996;313:275–83
+ 243. Weinstein MC, Siegel JE, Gold MR, Kamlet MS, Russell LB. 
+Recommendations of the Panel on Cost-effectiveness in 
+Health and Medicine. JAMA 1996;276:1253–8
+ 244. Siegel JE, Weinstein MC, Russell LB, Gold MR. 
+Recommendations for reporting cost-effectiveness analyses. Panel on Cost-Effectiveness in Health and Medicine. JAMA 1996;276:1339–41
+ 245. Gan TJ, Ing RJ, de L Dear G, Wright D, El-Moalem HE, 
+Lubarsky DA. How much are patients willing to pay to avoid 
+intraoperative awareness? J Clin Anesth 2003;15:108–12
+ 246. Diez L. Assessing the willingness of parents to pay for reduc-
+ing postoperative emesis in children. Pharmacoeconomics 1998;13:589–95
+ 247. Elliott RA, Payne K, Moore JK, Davies LM, Harper NJ, St 
+Leger AS, Moore EW, Thoms GM, Pollard BJ, McHugh GA, 
+Bennett J, Lawrence G, Kerr J. Which anaesthetic agents are cost-effective in day surgery? Literature review, national survey of practice and randomised controlled trial. Health 
+Technol Assess 2002;6:1–264
+ 248. Carroll NV , Miederhoff PA, Cox FM, Hirsch JD. Costs incurred 
+by outpatient surgical centers in managing postoperative nau-sea and vomiting. J Clin Anesth 1994;6:364–9
+ 249. Dexter F, Tinker JH. Analysis of strategies to decrease postan-
+esthesia care unit costs. Anesthesiology 1995;82:94–101
+ 250. Frighetto L, Loewen PS, Dolman J, Marra CA. Cost-
+effectiveness of prophylactic dolasetron or droperidol vs rescue therapy in the prevention of PONV in ambulatory 
+gynecologic surgery. Can J Anaesth 1999;46:536–43
+ 251. Scuderi PE, James RL, Harris L, Mims GR 3rd. Antiemetic pro-
+phylaxis does not improve outcomes after outpatient surgery 
+when compared to symptomatic treatment. Anesthesiology 1999;90:360–71
+ 252. Watcha MF, Smith I. Cost-effectiveness analysis of antiemetic 
+therapy for ambulatory surgery. J Clin Anesth 1994;6:370–7
+ 253. Tramèr MR, Phillips C, Reynolds DJ, McQuay HJ, Moore RA. 
+Cost-effectiveness of ondansetron for postoperative nausea and vomiting. Anaesthesia 1999;54:226–34
+ 254. Pan PH, Lee SC, Harris LC. Antiemetic prophylaxis for post-
+discharge nausea and vomiting and impact on functional 
+quality of living during recovery in patients with high emetic 
+risks: a prospective, randomized, double-blind compari-son of two prophylactic antiemetic regimens. Anesth Analg 2008;107:429–38 255. Henzi I, Walder B, Tramèr MR. Dexamethasone for the pre-
+vention of postoperative nausea and vomiting: a quantitative systematic review. Anesth Analg 2000;90:186–94
+ 256. Eberhart LH, Högel J, Seeling W, Staack AM, Geldner G, 
+Georgieff M. Evaluation of three risk scores to predict post-
+operative nausea and vomiting. Acta Anaesthesiol Scand 
+2000;44:480–8
+ 257. Habib AS, El-Moalem HE, Gan TJ. The efficacy of the 5-HT3 
+receptor antagonists combined with droperidol for PONV 
+prophylaxis is similar to their combination with dexametha-sone. A meta-analysis of randomized controlled trials. Can J Anaesth 2004;51:311–9
+ 258. Habib AS, Gan TJ. Combination therapy for postoperative 
+nausea and vomiting-a more effective prophylaxis? Ambul 
+Surg 2001;9:59–71
+ 259. Eberhart LH, Seeling W, Ulrich B, Morin AM, Georgieff M. 
+Dimenhydrinate and metoclopramide alone or in combina-
+tion for prophylaxis of PONV . Can J Anaesth 2000;47:780–5
+ 260. Maddali MM, Mathew J, Fahr J, Zarroug AW. Postoperative 
+nausea and vomiting in diagnostic gynaecological laparoscopic 
+procedures: comparison of the efficacy of the combination of 
+dexamethasone and metoclopramide with that of dexametha-
+sone and ondansetron. J Postgrad Med 2003;49:302–6
+ 261. Scuderi PE, James RL, Harris L, Mims GR 3rd. Multimodal anti-
+emetic management prevents early postoperative vomiting 
+after outpatient laparoscopy. Anesth Analg 2000;91:1408–14
+ 262. Gan TJ. Postoperative nausea and vomiting–can it be elimi-
+nated? JAMA 2002;287:1233–6
+ 263. Habib AS, White WD, Eubanks S, Pappas TN, Gan TJ. A ran-
+domized comparison of a multimodal management strategy 
+versus combination antiemetics for the prevention of postop-erative nausea and vomiting. Anesth Analg 2004;99:77–81
+ 264. Lerman J. Surgical and patient factors involved in postopera-
+tive nausea and vomiting. Br J Anaesth 1992;69:24S–32S
+ 265. Cohen IT, Joffe D, Hummer K, Soluri A. Ondansetron 
+oral disintegrating tablets: acceptability and efficacy in children undergoing adenotonsillectomy. Anesth Analg 2005;101:59–63
+ 266. Davis PJ, Fertal KM, Boretsky KR, Fedel GM, Ingram MD, 
+Woelfel SK, Hoffmann PC, Gurnaney H, Young MC. The 
+effects of oral ondansetron disintegrating tablets for preven-tion of at-home emesis in pediatric patients after ear-nose-throat surgery. Anesth Analg 2008;106:1117–21
+ 267. Neufeld SM, Newburn-Cook CV . The efficacy of 5-HT3 recep-
+tor antagonists for the prevention of postoperative vomiting 
+following craniotomy: two studies in children and young 
+adults. Can J Neurosci Nurs 2009;31:30–4
+ 268. Subramaniam K, Pandia MP , Dash M, Dash HH, Bithal PK, 
+Bhatia A, Subramaniam B. Scheduled prophylactic ondanse-
+tron administration did not improve its antiemetic efficacy 
+after intracranial tumour resection surgery in children. Eur J Anaesthesiol 2007;24:615–9
+ 269. Khalil SN, Roth AG, Cohen IT, Simhi E, Ansermino JM, Bolos 
+ME, Coté CJ, Hannallah RS, Davis PJ, Brooks PB, Russo MW, Anschuetz GC, Blackburn LM. A double-blind com-
+parison of intravenous ondansetron and placebo for pre-
+venting postoperative emesis in 1- to 24-month-old pediatric patients after surgery under general anesthesia. Anesth Analg 
+2005;101:356–61
+ 270. Mondick JT, Johnson BM, Haberer LJ, Sale ME, Adamson PC, 
+Coté CJ, Croop JM, Russo MW, Barrett JS, Hoke JF. Population 
+pharmacokinetics of intravenous ondansetron in oncology and surgical patients aged 1-48 months. Eur J Clin Pharmacol 2010;66:77–86
+ 271. Bolton CM, Myles PS, Carlin JB, Nolan T. Randomized, 
+double-blind study comparing the efficacy of moderate-dose 
+metoclopramide and ondansetron for the prophylactic control of postoperative vomiting in children after tonsillectomy. Br J Anaesth 2007;99:699–703
+ 272. Engelman E, Salengros JC, Barvais L. How much does phar -
+macologic prophylaxis reduce postoperative vomiting in chil-
+dren? Calculation of prophylaxis effectiveness and expected incidence of vomiting under treatment using Bayesian meta-analysis. Anesthesiology 2008;109:1023–35
+112   www.anesthesia-analgesia.org  ANESTh ESIA & ANAL gESIAE SPECIAL ARTICLE
+ 273. Czarnetzki C, Elia N, Lysakowski C, Dumont L, Landis 
+BN, Giger R, Dulguerov P , Desmeules J, Tramèr MR. Dexamethasone and risk of nausea and vomiting and postop-
+erative bleeding after tonsillectomy in children: a randomized 
+trial. JAMA 2008;300:2621–30
+ 274. Steward DL, Grisel J, Meinzen-Derr J. Steroids for improv-
+ing recovery following tonsillectomy in children. Cochrane Database Syst Rev 2011:CD003997
+ 275. Gross D, Reuss S, Dillier CM, Gerber AC, Weiss M. Early 
+vs late intraoperative administration of tropisetron for the prevention of nausea and vomiting in children undergo-ing tonsillectomy and/or adenoidectomy. Paediatr Anaesth 
+2006;16:444–50
+ 276. Bicer C, Aksu R, Ulgey A, Madenoglu H, Dogan H, Yildiz K, 
+Boyaci A. Different doses of palonosetron for the prevention 
+of postoperative nausea and vomiting in children undergoing strabismus surgery. Drugs R D 2011;11:29–36
+ 277. The Association of Paediatric Anaesthetists of Great Britain 
+& Ireland. Guidelines on the Prevention of Post-operative 
+Vomiting in Children 2009 [Sept 11, 2012]. Available at: 
+http://www.google.com/url?sa=t&rct=j&q=&esrc=s&sou
+rce=web&cd=2&ved=0CDAQFjAB&url=http%3A%2F%2F
+www.apagbi.org.uk%2Fsites%2Fdefault%2Ffiles%2FAPA_Guidelines_on_the_Prevention_of_Postoperative_Vomiting_
+in_Children.pdf&ei=il1PUP6FDaPj0QHIxICAAQ&usg=AFQ
+jCNEFPDwR2y-1n6-6TONmxwt18Y5BMg&sig2=9pzb3IQN517UzzFWE6Oktw&cad=rja.
+ 278. McKechnie K, Froese A. Ventricular tachycardia after ondan-
+setron administration in a child with undiagnosed long QT 
+syndrome. Can J Anaesth 2010;57:453–7
+ 279. Chandrakala R, Vijayashankara CN, Kumar KK, Sarala N. 
+Ondansetron induced fatal ventricular tachycardia. Indian J Pharmacol 2008;40:186–7
+ 280. Afonso N, Dang A, Namshikar V , Kamat S, Rataboli PV . 
+Intravenous ondansetron causing severe bradycardia: two cases. Ann Card Anaesth 2009;12:172–3
+ 281. Mehta D, Sanatani S, Whyte SD. The effects of droperidol and 
+ondansetron on dispersion of myocardial repolarization in children. Paediatr Anaesth 2010;20:905–12
+ 282. McDonnell C, Barlow R, Campisi P , Grant R, Malkin D. Fatal 
+peri-operative acute tumour lysis syndrome precipitated by dexamethasone. Anaesthesia 2008;63:652–5
+ 283. Osthaus WA, Linderkamp C, Bünte C, Jüttner B, Sümpelmann 
+R. Tumor lysis associated with dexamethasone use in a child with leukemia. Paediatr Anaesth 2008;18:268–70
+ 284. Gunter JB, Willging JP , Myer CM 3rd. Dexamethasone and 
+postoperative bleeding after tonsillectomy in children. JAMA 2009;301:1764–5; author reply 1765–6
+ 285. Brigger MT, Cunningham MJ, Hartnick CJ. Dexamethasone 
+administration and postoperative bleeding risk in children 
+undergoing tonsillectomy. Arch Otolaryngol Head Neck Surg 2010;136:766–72
+ 286. Geva A, Brigger MT. Dexamethasone and tonsillectomy 
+bleeding: a meta-analysis. Otolaryngol Head Neck Surg 2011;144:838–43
+ 287. Shakeel M, Trinidade A, Al-Adhami A, Karamchandani D, 
+Engelhardt T, Ah-See KW, Kubba H. Intraoperative dexa-methasone and the risk of secondary posttonsillectomy hem-
+orrhage. J Otolaryngol Head Neck Surg 2010;39:732–6
+ 288. Plante J, Turgeon AF, Zarychanski R, Lauzier F, Vigneault L, 
+Moore L, Boutin A, Fergusson DA. Effect of systemic steroids 
+on post-tonsillectomy bleeding and reinterventions: system-atic review and meta-analysis of randomised controlled trials. BMJ 2012;345:e5389
+ 289. Baugh RF, Archer SM, Mitchell RB, Rosenfeld RM, Amin R, 
+Burns JJ, Darrow DH, Giordano T, Litman RS, Li KK, Mannix 
+ME, Schwartz RH, Setzen G, Wald ER, Wall E, Sandberg G, Patel MM; American Academy of Otolaryngology-Head and Neck Surgery Foundation. Clinical practice guideline: tonsillectomy in children. Otolaryngol Head Neck Surg 
+2011;144:S1–30
+ 290. Dune LS, Shiao SY. Metaanalysis of acustimulation effects on 
+postoperative nausea and vomiting in children. Explore (NY) 2006;2:314–20 291. Jindal V , Ge A, Mansky PJ. Safety and efficacy of acupuncture 
+in children: a review of the evidence. J Pediatr Hematol Oncol 2008;30:431–42
+ 292. Fortier MA, Weinberg M, Vitulano LA, Chorney JM, Martin 
+SR, Kain ZN. Effects of therapeutic suggestion in children 
+undergoing general anesthesia: a randomized controlled trial. 
+Paediatr Anaesth 2010;20:90–9
+ 293. Habib AS, Gan TJ. The effectiveness of rescue antiemetics 
+after failure of prophylaxis with ondansetron or droperidol: a 
+preliminary report. J Clin Anesth 2005;17:62–5
+ 294. Meyer TA, Roberson CR, Rajab MH, Davis J, McLeskey CH. 
+Dolasetron versus ondansetron for the treatment of postop-
+erative nausea and vomiting. Anesth Analg 2005;100:373–7
+ 295. Chia YY, Lo Y, Liu K, Tan PH, Chung NC, Ko NH. The effect of 
+promethazine on postoperative pain: a comparison of preop-
+erative, postoperative, and placebo administration in patients following total abdominal hysterectomy. Acta Anaesthesiol 
+Scand 2004;48:625–30
+ 296. Deleted in proof
+ 297. Habib AS, Reuveni J, Taguchi A, White WD, Gan TJ. A com-
+parison of ondansetron with promethazine for treating post-
+operative nausea and vomiting in patients who received 
+prophylaxis with ondansetron: a retrospective database anal-ysis. Anesth Analg 2007;104:548–51
+ 298. Gan TJ, El-Molem H, Ray J, Glass PS. Patient-controlled anti-
+emesis: a randomized, double-blind comparison of two doses of propofol versus placebo. Anesthesiology 1999;90:1564–70
+ 299. Pellegrini J, DeLoge J, Bennett J, Kelly J. Comparison of inha-
+lation of isopropyl alcohol vs promethazine in the treatment 
+of postoperative nausea and vomiting (PONV) in patients 
+identified as at high risk for developing PONV . AANA J 2009;77:293–9
+ 300. Cotton JW, Rowell LR, Hood RR, Pellegrini JE. A comparative 
+analysis of isopropyl alcohol and ondansetron in the treat-
+ment of postoperative nausea and vomiting from the hospital setting to the home. AANA J 2007;75:21–6
+ 301. Winston AW, Rinehart RS, Riley GP , Vacchiano CA, Pellegrini 
+JE. Comparison of inhaled isopropyl alcohol and intravenous ondansetron for treatment of postoperative nausea. AANA J 
+2003;71:127–32
+ 302. Kovac AL, O’Connor TA, Pearman MH, Kekoler LJ, 
+Edmondson D, Baughman VL, Angel JJ, Campbell C, Jense HG, Mingus M, Shahvari MB, Creed MR. Efficacy of repeat intravenous dosing of ondansetron in controlling postopera-tive nausea and vomiting: a randomized, double-blind, pla-
+cebo-controlled multicenter trial. J Clin Anesth 1999;11:453–9
+ 303. Candiotti KA, Nhuch F, Kamat A, Deepika K, Arheart KL, 
+Birnbach DJ, Lubarsky DA. Granisetron versus ondansetron treatment for breakthrough postoperative nausea and vom-
+iting after prophylactic ondansetron failure: a pilot study. 
+Anesth Analg 2007;104:1370–3
+ 304. Gupta A, Wu CL, Elkassabany N, Krug CE, Parker SD, 
+Fleisher LA. Does the routine prophylactic use of antiemetics affect the incidence of postdischarge nausea and vomiting fol-lowing ambulatory surgery?: a systematic review of random-
+ized controlled trials. Anesthesiology 2003;99:488–95
+ 305. Wu CL, Berenholtz SM, Pronovost PJ, Fleisher LA. Systematic 
+review and analysis of postdischarge symptoms after outpa-
+tient surgery. Anesthesiology 2002;96:994–1003
+ 306. al-Sadi M, Newman B, Julious SA. Acupuncture in the pre-
+vention of postoperative nausea and vomiting. Anaesthesia 
+1997;52:658–61
+ 307. Gan TJ, Franiak R, Reeves J. Ondansetron orally disintegrat-
+ing tablet versus placebo for the prevention of postdischarge nausea and vomiting after ambulatory surgery. Anesth Analg 
+2002;94:1199–200
+ 308. Kranke P , Eberhart LH, Gan TJ, Roewer N, Tramèr MR. 
+Algorithms for the prevention of postoperative nausea and vom-iting: an efficacy and efficiency simulation. Eur J Anaesthesiol 2007;24:856–67
+ 309. van den Bosch JE, Kalkman CJ, Vergouwe Y, Van Klei WA, 
+Bonsel GJ, Grobbee DE, Moons KG. Assessing the applicabil-ity of scoring systems for predicting postoperative nausea and vomiting. Anaesthesia 2005;60:323–31
+Consensus Guidelines for the Management of PONV
+January 2014 • Volume 118 • Number 1  www.anesthesia-analgesia.org  113 310. Carlisle JB, Stevenson CA. Drugs for preventing postop-
+erative nausea and vomiting. Cochrane Database Syst Rev 2006;19:CD004125
+ 311. Franck M, Radtke FM, Baumeyer A, Kranke P , Wernecke KD, 
+Spies CD. [Adherence to treatment guidelines for postopera-tive nausea and vomiting. How well does knowledge transfer result in improved clinical care?]. Anaesthesist 2010;59:524–8
+ 312. Klotz C, Philippi-Höhne C. [Prophylaxis of postoperative 
+nausea and vomiting in pediatric anesthesia: recommenda-tions and implementation in clinical routine]. Anaesthesist 2010;59:477–8
+ 313. Kooij FO, Klok T, Hollmann MW, Kal JE. Automated remind-
+ers increase adherence to guidelines for administration of prophylaxis for postoperative nausea and vomiting. Eur J Anaesthesiol 2010;27:187–91
+ 314. Kooij FO, Klok T, Hollmann MW, Kal JE. Decision sup-
+port increases guideline adherence for prescribing postop-erative nausea and vomiting prophylaxis. Anesth Analg 2008;106:893–8
+ 315. Frenzel JC, Kee SS, Ensor JE, Riedel BJ, Ruiz JR. Ongoing 
+provision of individual clinician performance data improves practice behavior. Anesth Analg 2010;111:515–9
+ 316. Franck M, Radtke FM, Apfel CC, Kuhly R, Baumeyer A, 
+Brandt C, Wernecke KD, Spies CD. Documentation of post-operative nausea and vomiting in routine clinical practice. J Int Med Res 2010;38:1034–41
+ 317. Sigaut S, Merckx P , Peuch C, Necib S, Pingeon F, Mantz J. 
+Does an educational strategy based on systematic preop-erative assessment of simplified Apfel’s score decrease post-operative nausea and vomiting? Ann Fr Anesth Reanim 2010;29:765–9
+ 318. Kumar A, Brampton W, Watson S, Reid VL, Neilly D. 
+Postoperative nausea and vomiting: simple risk scoring does work. Eur J Anaesthesiol 2012;29:57–9; author reply 59–60
+ 319. Jensen K, Kehlet H, Lund CM. Post-operative recovery pro-
+file after laparoscopic cholecystectomy: a prospective, obser -
+vational study of a multimodal anaesthetic regime. Acta Anaesthesiol Scand 2007;51:464–71
+ 320. Bergland A, Gislason H, Raeder J. Fast-track surgery for bar -
+iatric laparoscopic gastric bypass with focus on anaesthesia 
+and peri-operative care. Experience with 500 cases. Acta Anaesthesiol Scand 2008;52:1394–9
+ 321. Scuderi PE. PRO: anatomical classification of surgical proce-
+dures improves our understanding of the mechanisms of post-operative nausea and vomiting. Anesth Analg 2010;110:410–1
+ 322. Kranke P , Eberhart LH. Possibilities and limitations in the 
+pharmacological management of postoperative nausea and vomiting. Eur J Anaesthesiol 2011;28:758–65
+ 323. Curran JA, Grimshaw JM, Hayden JA, Campbell B. Knowledge 
+translation research: the science of moving research into pol-icy and practice. J Contin Educ Health Prof 2011;31:174–80 324. Akobeng AK. Communicating the benefits and harms of treat-
+ments. Arch Dis Child 2008;93:710–3
+ 325. Apfel CC, Meyer A, Orhan-Sungur M, Jalota L, Whelan RP , 
+Jukar-Rao S. Supplemental intravenous crystalloids for the prevention of postoperative nausea and vomiting: quantita-tive review. Br J Anaesth 2012;108:893–902
+ 326. Wang JJ, Ho ST, Tzeng JI, Tang CS. The effect of timing of 
+dexamethasone administration on its efficacy as a prophylac-tic antiemetic for postoperative nausea and vomiting. Anesth Analg 2000;91:136–9
+ 327. Eberhart LH, Morin AM, Georgieff M. [Dexamethasone for 
+prophylaxis of postoperative nausea and vomiting. A meta-analysis of randomized controlled studies]. Anaesthesist 2000;49:713–20
+ 328. Splinter WM. Prevention of vomiting after strabismus surgery 
+in children: dexamethasone alone versus dexamethasone plus low-dose ondansetron. Paediatr Anaesth 2001;11:591–5
+ 329. Splinter WM, Rhine EJ. Low-dose ondansetron with dexa-
+methasone more effectively decreases vomiting after strabis-mus surgery in children than does high-dose ondansetron. Anesthesiology 1998;88:72–5
+ 330. Shende D, Bharti N, Kathirvel S, Madan R. Combination of 
+droperidol and ondansetron reduces PONV after pediat-ric strabismus surgery more than single drug therapy. Acta Anaesthesiol Scand 2001;45:756–60
+ 331. Holt R, Rask P , Coulthard KP , Sinclair M, Roberts G, Van Der 
+Walt J, MacKenzie V , Rasmussen M. Tropisetron plus dexa-methasone is more effective than tropisetron alone for the prevention of postoperative nausea and vomiting in children undergoing tonsillectomy. Paediatr Anaesth 2000;10:181–8
+ 332. Madan R, Bhatia A, Chakithandy S, Subramaniam R, 
+Rammohan G, Deshpande S, Singh M, Kaul HL. Prophylactic dexamethasone for postoperative nausea and vomiting in pediatric strabismus surgery: a dose ranging and safety evalu-ation study. Anesth Analg 2005;100:1622–6
+ 333. Olutoye O, Jantzen EC, Alexis R, Rajchert D, Schreiner MS, 
+Watcha MF. A comparison of the costs and efficacy of ondan-setron and dolasetron in the prophylaxis of postoperative vomiting in pediatric patients undergoing ambulatory sur -
+gery. Anesth Analg 2003;97:390–6
+ 334. Cieslak GD, Watcha MF, Phillips MB, Pennant JH. The dose-
+response relation and cost-effectiveness of granisetron for the prophylaxis of pediatric postoperative emesis. Anesthesiology 1996;85:1076–85
+ 335. Khalil SN, Roth AG, Cohen IT, Simhi E, Ansermino JM, Bolos 
+ME, Coté CJ, Hannallah RS, Davis PJ, Brooks PB, Russo MW, Anschuetz GC, Blackburn LM. A double-blind com-parison of intravenous ondansetron and placebo for pre-venting postoperative emesis in 1- to 24-month-old pediatric patients after surgery under general anesthesia. Anesth Analg 2005;101:356–61

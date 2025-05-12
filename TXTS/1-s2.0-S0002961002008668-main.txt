@@ -1,0 +1,625 @@
+Review
+Multimodal strategies to improve surgical outcome
+Henrik Kehlet, M.D., Ph.D.a, Douglas W. Wilmore, M.D.b,*
+aDepartment of Surgical Gastroenterology, Hvidovre University Hospital, Hvidovre, Denmark
+bLaboratories for Surgical Metabolism and Nutrition, Department of Surgery, Brigham and Women’s Hospital, Harvard Medical School,
+Boston, MA 02115, USA
+Manuscript received July 23, 2001; revised manuscript December 18, 2001
+Abstract
+Objective: Toevaluatetheeffectofmodifyingperioperativecareinnoncardiacsurgicalpatientsonmorbidity,mortality,andotheroutcome
+measures.Background: New approaches in pain control, introduction of techniques that reduce the perioperative stress response, and the more
+frequent use of minimal invasive surgical access have been introduced over the past decade. The impact of these interventions, either aloneor in combination, on perioperative outcome was evaluated.Methods: We searched Medline for the period of 1980 to the present using the key terms fast track surgery, accelerated care programs,
+postoperativecomplicationsandpreoperativepatientpreparation;andweexaminedanddiscussedthearticlesthatwereidentiﬁedtoincludein this review. This information was supplemented with our own research on the mediators of the stress response in surgical patients, theuse of epidural anesthesia in elective operations, and pilot studies of fast track surgical procedures using the multimodality approach.Results: The introduction of newer approaches to perioperative care has reduced both morbidity and mortality in surgical patients. In the
+future, most elective operations will become day surgical procedures or require only 1 to 2 days of postoperative hospitalization.Reorganizationoftheperioperativeteam(anesthesiologists,surgeons,nurses,andphysicaltherapists)willbeessentialtoachievesuccessfulfast track surgical programs.Conclusions: Understanding perioperative pathophysiology and implementation of care regimes to reduce the stress of an operation, will
+continue to accelerate rehabilitation associated with decreased hospitalization and increased satisfaction and safety after discharge.Developments and improvements of multimodal interventions within the context of “fast track” surgery programs represents the majorchallenge for the medical professionals working to achieve a “pain and risk free” perioperative course. © 2002 Excerpta Medica, Inc. Allrights reserved.
+Keywords: Fast track surgery; Improved outcome; Perioperative care
+Surgicalproceduresdominatethecareprovidedbyhospitals
+and care centers located within the United States. In 1996,more than one half of the 71,900,000 procedures performedin this country were carried out in hospitalized patients [1].While many of these diagnostic and therapeutic modalitieswere performed on acutely ill individuals who requiredhospitalization, a large proportion (at least 30%) were elec-tive or semielective operations that subsequently resulted inpatients remaining in the hospital for postoperative care.
+Traditionally, patients have remained hospitalized after
+an operation in order to be observed and treated for anyanesthetic or surgical complications that may arise. In ad-dition, patients are nursed back to a level of self care before
+discharge. With advances in anesthetic and perioperativecare and improvements in surgical technique (such as min-imally invasive operations) the requirements for postopera-tive hospitalization have decreased. However, even withearlier discharge, patients may experience debility for sev-eral weeks or months after an operation.
+Attention is now being directed toward standardizing
+surgical care, evaluating new therapies to be used in theperioperative period, and applying a combination of tech-niquestoreducecomplications,shortenconvalescentrecov-ery, and decrease the use of hospital resources.
+This paper reviews the more contemporary evidence that
+relates methods of perioperative care in noncardiac surgerywith shortened hospitalization and improved outcome afteran elective or semi-elective operation.
+* Corresponding author. Tel.: /H110011-617-732-5280; fax: /H110011-617-732-
+5506.
+E-mail address: dwilmore@partners.org.
+The American Journal of Surgery 183 (2002) 630–641
+0002-9610/02/$ – see front matter © 2002 Excerpta Medica, Inc. All rights reserved.
+PII:S0002-9610(02)00866-8
+Areas for potential improvement: preoperative period
+Prospective assessment of the severity of concomitant
+organ dysfunction is routine practice during preoperativeevaluations,andappropriatecaremapsorrecommendationsare available for patients with cardiac disease [2], chronicobstructive lung disease [3], diabetes mellitus [4], and otherdisorders [5]. Such preoperative evaluation and optimiza-tion of organ dysfunction should be instituted in all patientsto reduce morbidity and mortality.
+Recent studies have shown that individuals who abuse
+alcohol, even in the absence of overt alcohol-related organdysfunction, are subject to higher morbidity and prolongedrecoveryafteranoperationthannonabusers[6].Subsequentintervention that included preoperative alcohol abstinencefor 4 weeks reduced the increased morbidity after colonicsurgery compared with patients who continued their drink-ing habits [7]. Smoking also represents a surgical risk [8].Evaluating lung macrophage activity in patients and recentstudies have demonstrated that smoking is associated with amarked reduction in phagocytic and microbicidal activity,possibly related to reduced proin ﬂammatory cytokine activ-
+ity [9]. However, no recent controlled studies have beenperformed to evaluate the role of preoperative smokingcessation on outcome. Efforts should be made to reducesmoking in abusers using newer modalities to aid cessationas 1 to 2 months of abstinence is required to improvepulmonary function in nonsurgical studies [10].
+Preoperative nutritional support of 7 to 10 days duration
+is only effective in reducing complications in the moreseverelymalnourishedpatients(morethan15%weightloss)[11]. However, other patient groups, such as those withCrohn’s disease [12] and the elderly [13], have been found
+to manifest signi ﬁcant micronutrient de ﬁciencies or ingest
+levels of vitamins and minerals below recommended allow-ances. Evaluation and preoperative micronutrient supple-mentation may be bene ﬁcial in these selected patient
+groups.
+Practice guidelines for preoperative fasting usually rec-
+ommend a 2- to 6-hour period of nothing-by-mouth beforeoperation. Recent clinical studies have shown that preoper-ative intake of a carbohydrate drink may reduce the post-operativeendocrinecatabolicresponsesandimproveinsulinresistance [14]. Investigators have hypothesized that thisapproachmayimproveoutcome.Furtheref ﬁcacyandsafety
+studies are needed, however, before routine preoperativeoral glucose containing drinks can be recommended.
+Patient education of the postoperative care plan plays a
+major role in modifying the individual ’s response to the
+operative experience. Classic studies have demonstratedthat the knowledgeable patient requires less analgesia in the
+postoperative period and at the same time, experiences sig-niﬁcantly less pain than the less informed patient [15], and
+more recent investigations have supported the conclusionthat preoperative information will aid coping, reduce pre-operativeanxiety,andmayalsoenhancepostsurgicalrecov-
+ery [16,17].
+Operative period
+Prophylactic antibiotics
+Treatment immediately before the operation with a cor-
+rect dose of the appropriate antibiotic is uniformly recom-mended for almost all operations [18]. Addition antibioticsmay be indicated postoperatively with the insertion of pros-thetic materials [19,20]. Timing of antibiotic administrationis extremely important; intravenous infusion should occurapproximately 30 minutes before the initial skin incision,thus insuring that peak tissue concentrations are achieved atthe time of operation.
+The tissue concentrations will generally be sustained
+over one half-life of the drug, and for most operations, onlya single preoperative dose of drug is necessary [18]. Forlonger procedures not involving a prosthesis, a second dosemay be indicated, but prolonged administration of postop-erative antibiotics has not been associated with reducedwound infections. For colon operations, oral antibiotics arefrequently used but the need for prolonged mechanicalcleaning and oral antibiotics is debatable [21].
+Supplemental oxygen has also been associated with a
+decreased infection rate [22], and the positive bene ﬁts of
+using this approach in the perioperative period will bereviewed later.
+Use of regional anesthesia
+Choice of anesthetic technique may depend on the type
+of surgery, preexisting disease, and effects of the agentsutilizedonintraoperativeandpostoperativeorganfunctions.Ideally, an anesthetic technique should have extended ef-fects on analgesia and stress-induced organ dysfunctionsover the postoperative period. Regional anesthesia repre-sents the only anesthetic technique available to date thatfulﬁlls these criteria, and regional anesthetic techniques
+utilizing local anesthetics are the most powerful therapyavailable to attenuate the endocrine-metabolic responses(the rise in cortisol, catecholamines, glucagon; hyperglyce-mia; insulin resistance and negative nitrogen balance) [23,24]. This effect is most pronounced when utilized withprocedures performed on the lower body where spinal orepidural anesthesia may provide a near total afferent neuralblockade.
+In contrast, there is a smaller inhibitory effect with tho-
+racic epidural anesthetic techniques for operations per-formed in the upper abdomen [24].
+The inhibitory effects on catabolic responses are most
+pronounced when regional anesthesia is provided for up to24to48hours,preferablyasacontinuousepiduralanalgesictechnique [24]. In contrast to endocrine-metabolic re-
+631 H. Kehlet and D.W. Wilmore / The American Journal of Surgery 183 (2002) 630 –641
+sponses, the in ﬂammatory responses (alterations in concen-
+trations of acute phase proteins, IL-6, and other cellularimmune functions) are not modi ﬁed by neural blockade
+techniques [23,24]. However, as a consequence of the re-duced stress response and inhibition of autonomic re ﬂexes
+that occur after an operation, postoperative organ dysfunc-tions may be attenuated (Fig. 1). This includes reducedimpairment in pulmonary function [23,25] and decreasedcardiac demands [23,26]. In addition, the ileus that accom-panies intraabdominal procedures may be shortened by sev-eraldaysusingcontinuous thoracicepidurallocalanesthetic
+with or without small doses or opioids. This effect has notbeen observed after lumbarepidural local anesthesia or
+epidural opioid analgesia [23,24,27,28].
+Spinal or epidural anesthetic techniques may not be the
+ﬁrst choice for many operations. For example, the intraop-
+erative use of local in ﬁltration anesthesia for hernia surgery
+providedastress-freeoperationandallowedearlydischargewith minimal side effects [29,30]. Furthermore, urinaryretentionwaseliminatedandtherewasapronouncedreduc-tion in cost. Similar results have been reported with the useof paravertebral blockade for operations on the breast [31]and with other peripheral nerve block techniques in a vari-ety of procedures.
+The use of central blockade techniques (spinal or epi-
+dural anesthesia) with or without additional general anes-thesia has recently been analyzed by comparing all random-ized trials with outcome from general anesthesia alone [32].This meta-analysis demonstrates signi ﬁcant reduction in
+postoperative mortality and the rate of myocardial infarc-tion, pneumonia, thromboembolic complications, acute re-nal failure, and bleeding and transfusion requirements (Ta-ble1).Nodifferenceshavebeendemonstratedinpostoperative
+cerebral dysfunction between regional and general anesthe-sia [25,32], but none of the existing studies have alteredother aspects of perioperative care, such as reducing the useof opioid and benzodiazepines and treating hypoxemia, fac-tors that may contribute to postoperative cerebral dysfunc-tion.
+The value of continuous epidural local anesthetic tech-
+niques in patients after procedures in the upper abdomenand thorax has been debated [23 –25] although a recent
+meta-analysis including lower body procedures demon-strated a signi ﬁcant reduction of pulmonary complicata-
+tions, compared with other analgesic techniques (intercostalblock, epidural or systemic opioid techniques) [25]. How-ever, previous studies on continuous epidural analgesiahave not included changes in perioperative care that incor-porate earlier rehabilitation with feeding, mobilization,physiotherapy, and other approaches to be discussed later.
+Minimally invasive surgery
+The use of endoscopic procedures has revolutionized
+several aspects of surgical care and has caused major re-evaluationoftraditionalcareregimenswhencomparedwithopen procedures. The use of minimal invasive abdominalsurgical techniques has not resulted in a signi ﬁcant reduc-
+tion of the classical endocrine metabolic responses, but hasreduced various in ﬂammatory responses (acute phase pro-
+teins,leukocytosis,IL-6,andsoforth)andimmunodysfunc-tions [33]. Pulmonary function has improved with less hy-poxemia compared with open surgery, although differencesbetween laparoscopic and “minicholecystectomy ”are less
+apparent [33]. Postoperative paralytic ileus has been re-duced in experimental and clinical studies [28]. Subse-quently most studies have reported less pain, shorter hospi-tal stay, and reduction of morbidity after laparoscopicsurgery.
+When compared with other approaches, the question
+remains, however, whether this is a result of altered patho-
+Fig. 1. Mediators and modulators of the catabolic responses after an
+operation. Afferent impulses from the operative site travel via the spinalcord to initiate neurohormonal responses, while local or regional in ﬂam-
+matory mediators are blood borne and stimulate a variety of systemicresponses. Increased energy demands and accelerated net protein break-down result in increased organ demands and organ dysfunction. Up ar-rows/H11005increased; down arrows /H11005decreased.Table 1
+Effect of regional anesthetic/analgesic techniques compared with generalanesthesia and systemic analgesics on postoperative morbidity*
+Complications Reduction in morbidity
+Pulmonary infectious complications /H1101130%
+Respiratory depression /H1101140%
+Pulmonary embolism /H1101150%
+Myocardial infarction /H1101130%
+Other thromboembolic complications /H1101140%
+Ileus /H110112 Days
+Blood loss and transfusion requirements /H1101120–30%
+Cerebral complications No effectRenal failure /H1101130%
+Other infectious complications (wound, etc.) No effect
+From Kehlet [24], Ballantyre et al [25], Steinbrook [27], Halte and
+Kehlet [28], and Rogers et al [32].632 H. Kehlet and D.W. Wilmore / The American Journal of Surgery 183 (2002) 630 –641
+physiological (in ﬂammatory) responses to the operation or
+whether this is due to concomitant changes in postoperativecare due to the expected faster recovery from laparoscopicsurgery. A critical view of randomized trials comparing“open”and laparoscopic procedures indicates that tradi-
+tional care regimens have rarely been revised in the opentreatment groups, but have been modi ﬁed in the laparas-
+copic group, thereby favoring the expected improved out-come after minimally invasive surgery. Several studies inwhich hospital stay and convalescence were utilized asendpointsmaymerelyre ﬂecttraditionsofperioperativecare
+associated with open procedures rather than differencesbetween open and closed surgical techniques [33]. Thus,“fast track”surgery with minimal hospital stay and reduced
+convalescence has been reported in laparoscopic cholecys-tectomy, hernorrhaphy, and colonic resection. However, thesameresultswereachievedafterbothopenandlaparoscopicprocedureswhentheperioperativecareregimenswerestan-dardized (see below).
+Minimally invasive procedures will continue to be per-
+formed but the physiological and biochemical impact ofthese operations on outcome can only be evaluated if pa-tients after both open and laparoscopic procedures are af-forded a similar postoperative rehabilitation program de-signed to optimize recovery. Nevertheless, minimalinvasive surgery remains one of the most important tech-niques for future improvement of postoperative outcome.
+Intraoperative normothermia
+During operations, patients are frequently subjected to
+cold stress, as operative rooms are maintained between 20 °
+and 25°C, temperatures that are generally just below the
+zone of thermal neutrality for semiclad patients [34]. Inaddition, the administration of general anesthesia alters theregulatory setpoint for defense against cold exposure, thusrendering the patient poikilothermic [35]. That is, the pa-tient’s core temperature (usually 37 °C) is now determined
+by the external environment, and hypothermia is frequentlyobserved, particularly with moderate to prolonged proce-dures (longer than 2 hours). Both spinal and epidural anes-thetics also alter central and peripheral thermoregulatoryresponses, and mild hypothermia (a reduction of 1 °to 3°in
+core temperature) is frequently observed in patients receiv-ing these types of regional anesthetics [35].
+After operations such as aortic aneurysectomy, colec-
+tomy,orlowerextremityjointreplacement,itisnotunusualfor patients to demonstrate a falling core temperature of 2 °
+to 4°C. This decline in central temperature stimulates the
+outpouringofcortisolandcatecholaminesandaugmentsthestress response to the surgical procedure [36]. When com-pared with normothermic controls, this degree of mild hy-pothermia has been associated with a twofold to threefoldincrease in surgical wound infections [37]. In addition,hypothermia has been related to a signi ﬁcant increase of
+intraoperative blood loss, in most [38 –40] but not all stud-ies [41], an increased incidence of operative and postoper-
+ative cardiac events, including postoperative ventriculartachycardia [42,43], a 40% increase in postoperative nitro-gen excretion [44], and an increase in patient discomfort[43]. Active prevention of intraoperative hypothermia byutilizing specially constructed forced air heaters placed onthe operative table is recommended in major surgical pro-cedures to facilitate recovery.
+Postoperative care
+Revising perioperative care regimens
+Guidelines for perioperative care should be developed
+based upon scienti ﬁc data. However, many postoperative
+practices have evolved from traditions that perpetuate theuse of drains, tubes, catheters, and restrictions for oralintake and mobilization. These approaches have been asso-ciated in the past with a successful outcome but in light ofcontemporary practice may reduce recovery or even con-tribute to morbidity. The routineuse of nasogastric tubes
+after elective abdominal surgery is unnecessary and maycontribute to pulmonary complications, based upon a meta-analysis of several controlled trials [45]. The routine use ofdrains in cholecystectomy [46], joint replacement [47 –49],
+colonic surgery [50,51], radical hysterectomy or lymphad-enectomy [52,53], and thyroid surgery [54] does not im-prove outcome as determined by randomized clinical stud-ies. Thus, routine drainage may be avoided in most cases orlimited to a short period, to facilitate early mobilization.However, after mastectomy, postoperative drainage mayreduce seroma formation and other wound problems [55 –
+57]. Postoperative wound drainage after mastectomy maynot limit discharge, as it can be managed on an outpatientbasis.
+The use of postoperative urinary bladder drainage has
+becomeroutineaftermajoroperations.Fewcontrolledstud-ies are available to de ﬁne the optimal duration of such
+drainage, but after major low-rectal operations, urinarybladder drainage should be limited to about 3 days and to 1day after other types of colonic surgery [58,59]. The use oflow-dose thoracic epidural bupivacaine-opioid administra-tionforpostoperativepainreliefshouldnotbeanindicationfor bladder drainage beyond 24 hours, despite continuousepidural treatment [59].
+Traditional postoperative care often includes bed rest,
+which is undesirable because it increases muscle loss andweakness, impairs pulmonary function and tissue oxygen-ation, and predisposes to thromboembolic and pulmonarycomplications and orthostatic intolerance [60]. All effortsshould be made to enforce postoperative mobilization,which is possible with effective pain relief.
+Oral intake is frequently limited in the postoperative
+period. When enteral feedings are provided, they are oftengivenasadietprogressionfromliquidstosofttosolidfood;
+633 H. Kehlet and D.W. Wilmore / The American Journal of Surgery 183 (2002) 630 –641
+there is no scienti ﬁc basis for such practice. In fact, several
+studies have shown that early oral feedings are safe evenafter colonic surgery with bowel anastomoses [61 –63]. If
+nausea, vomiting, or ileus are present, effective pharmaco-logical treatment should be utilized and feeding should beinitiated.
+Thromboembolic prophylaxis
+Surgical injury changes the coagulatory/ ﬁbrinolytic bal-
+ance in favor of coagulation, thereby increasing the risk ofdeep venous and pulmonary thromboembolism. Guidelinesfor prevention of venous thromboembolism have thereforebeendevelopedbaseduponnumerousrandomizedtrialsandmeta-analyses [64]. However, such guidelines have rarelyconsidered the role of anesthetic-analgesic techniques inprophylaxis. A recent meta-analysis [32] and review [65]have emphasized the important role of epidural analgesia toreduce deep venous thrombosis and pulmonary embolismeven in high-risk patients undergoing major joint replace-ments. Preliminary observations suggest that combinedtreatment with epidural analgesia and chemoprophylaxismay further reduce thromboembolism [65]. Unfortunately,in the United States low molecular-weight heparin has beenadministered at a higher dose than given in Europe, result-ing in an apparent higher risk of epidural hematoma. Thecombined use of neuraxial block and standard heparinthromboembolic phrophylaxis does not carry increased risk[66], but combined use of neuraxial block and low molec-ular-weight heparin with doses recommended in the UnitedStatesrequiremorestudy,withdosesadjusteddownwardtomeet revised practice guidelines [67].
+The use of intermittent pneumatic compression is wide-
+spread owing to the documented ef ﬁcacy [64] and avoid-
+ance of potential hemorrhagic complications. However,pneumatic compression devices may limit early mobiliza-tion, which otherwise is considered to be of major impor-tance to prevent postoperative thromboembolism.
+Pain control
+Despitemuchprogessinourunderstandingofpainphys-
+iology [68] and attention from professional and governmentagencies [69,70], routine postoperative pain managementusually remains unsatisfactory [71]. This is unfortunate,since well-established treatment regimens are available [72,73], and the implementation of such programs with theintroduction of acute pain services improves quality of care[69,70]. Furthermore, suf ﬁcient pain relief is a prerequisite
+for optimal recovery [74].
+Effective treatment of postoperative pain that allows for
+early mobilization, may be achieved using a combination ofanalgesic agents or techniques (balanced analgesia) [73].The concept of multimodal or balanced analgesia takesadvantage of the additive or synergistic effects by combin-ing multiple agents. Moreover, with several combination
+regimens there is concomitant reduction of side effectsowing to the lower doses of the individual drugs and dif-ferences between drugs in side effect pro ﬁles [73].
+The use of simple and safe local anesthetic in ﬁltration
+techniques in small operations should be emphasized [75],and the use of continuous epidural techniques for moresevere pain is well established [23,73]. Early mobilizationaftermajorprocedurescanonlyeffectivelybeaccomplishedby utilizing epidural or other local anesthetic techniquesrather than with opioids, nonsteroidal anti-in ﬂammatory
+drugs (NSAID), or other systemic analgesics. However, theconcept of opioid-free or opioid-reduced analgesia shouldreceive further attention in the future, as reduction of opi-oid-related side effects may hasten recovery [76]
+Antinausea prophylaxis
+Postoperative nausea and vomiting are among the most
+common postoperative complaints and these problems arean inconvenience and may limit recovery and hospital dis-charge.
+Predictive factors for nausea include a previous history
+of motion sickness and postoperative vomiting, anxiety,
+type of surgical procedure (increased risk during head andneck surgery), dehydration, and female sex [77]. In recentyears, well-designed controlled trials have demonstratedsigniﬁcant antinausea and vomiting effects of proprofol
+anesthesia [78] and ondansetron (or other similar drugs)[79]. Moreover, nausea and vomiting were reduced with theomission of nitrous oxide [80]. A single dose of dexameth-asone given preoperatively reduces nausea and vomiting inminor to moderate sized operations [81]. Droperidol is alsoeffective [82]. Finally a recent study suggests that intraop-erative and early postoperative supplemental oxygen mayreduce nausea and vomiting after colonic surgery [83], andthe effects may be as effective as ondansetron [84].
+Local anesthesia may provide effective postoperative
+pain relief, thereby reducing use of systemic opioid andindirectly reducing nausea and vomiting [85 –87]. Because
+the technique of continuous epidural local anesthesia re-duces the need for systemic opioids, this technique will alsoreduce nausea and vomiting as oral intake is possible (seebelow). The use of NSAID ’s to provide early postoperative
+analgesia and a 20% to 30% opioid-sparing effect mayreduce nausea and vomiting but further studies are needed[76,88]. Several other pharmacological agents (phenothia-zines, antihistaminics, anticholinergics, and benzamides)may exhibit some antinausea and vomiting effects, but theefﬁcacy of these drugs is less well-established. Metoclopra-
+mide is ineffective [89]. Future effective control of nauseaand vomiting probably require multimodal intervention, butdata are not available at this time to allow recommendationfor such combinations [90 –92].
+634 H. Kehlet and D.W. Wilmore / The American Journal of Surgery 183 (2002) 630 –641
+Early enteral nutrition
+Traditional care regimens after major operations have
+usually included restricted oral intake, which contributes tocatabolism with loss of weight and skeletal muscle. Severalexperimental and clinical studies have demonstrated thatearly enteral nutrition reduces gut permeability (and pre-sumed bacterial translocation) when compared with paren-teral nutrition or late enteral feeding. Some authors suggestthat early enteral feeding may reduce infectious complica-tions and improve outcomes [93,94]. However, several ofthese studies have been performed in patients after acciden-talinjury[93]andtheexactroleofroutineearlyenteraltubefeeding [95,96] or feeding with oral dietary supplementsafter elective procedures remains controversial. In recentyears, more well-described but small studies have beenperformed to suggest that early enteral nutrition is possibleand may be valuable even in selective elective surgicalpatients [61,97,98]. Although theoretically promising, spe-
+ciﬁc nutrient pharmacotherapy utilizing immune-enhancing
+nutrition also needs further study before this can be recom-mended for routine use, since consistent bene ﬁts have not
+been found [95,99-102]. Future improvement in periopera-tive care with effective treatment of nausea, vomiting, andileus (see above), may allow early enteral (oral) nutrition tobecome routine therapy thereby reducing catabolism andlimiting loss of muscle function and postoperative fatigue.Future studies with appropriate analgesic techniques to re-duce ileus [28] need to be performed in order to reevaluatethe role of enteral nutrition on morbidity.
+Single factor intervention with additional protein-en-
+riched supplements for 10 to 16 weeks after discharge afterabdominalsurgeryhasincreasedbodyweightandleanbodymass [103] while the effect on recovery, hand grip strength,and quality of life could only be demonstrated in depletedpatients [103,104]. These ﬁndings suggest that prolongednutritional therapy has no major bene ﬁt except in depleted
+patients.
+Postoperative hypoxemia
+Postoperative hypoxemia may occur in the early recov-
+ery period as a consequence of anesthesia-related effects,and as a late event during the days when the patient isreceiving less acute care [105]. The late postoperative hy-poxemia may occur as a persistent phenomenon or as epi-sodic desaturations, usually occurring at night [106]
+The constant hypoxemic response is closely related to
+the conventional impairment in pulmonary function andsupine position [107] while episodic desaturations are pre-dominantly related to postoperative sleep disturbances withrebound of REM-sleep during the second to fourth postop-erative night [105,106]. Late postoperative hypoxemia hasbeen identi ﬁed as an important contributing factor to post-
+operative cardiac dysfunction (ischemia and arrhythmias)and possibly to myocardial infarction [105]. Decreased tis-sue oxygen tension may also play an important role inwound infection and delayed wound healing as well asdisturbances of cognitive function [105]. Modi ﬁcation of
+the usual hypoxemic responses should focus on techniquesto improve postoperative pulmonary function and sleep, orto provide supplemental oxygen. Postoperative pulmonaryfunction can be improved by providing suf ﬁcient analgesia,
+where continuous epidural analgesia with local anestheticsis most effective. The position of the patient is important,since the usual supine position during the postoperativeperiod may impair pulmonary function and further reduceoxygen saturation, while mobilization improves pulmonaryfunction and oxygenation [106]. Postoperative sleep distur-bances and episodic desaturations may be improved bysufﬁcient analgesia with regional local anesthetic tech-
+niques and reduced use of opioids, which may contribute tosleep disturbances [105,108]
+Oxygen administration increases oxygen delivery, but
+has no effect on the incidence of episodic desaturations[105]. However, early postoperative oxygen administrationmay reduce nausea and vomiting [83] decrease the inci-dence of surgical wound infection [109], and reduce tachy-cardia [110]. Furthermore, cerebral dysfunction may beimproved [105]. Although no controlled data are availablefrom the late postoperative period, routine oxygen admin-istration is indicated in high-risk patients for the ﬁrst 2-4
+days when patients are in the supine position (night time) orwhen oxygen saturation is less than about 93%.
+Convalescence
+Postoperative convalescence may depend on several fac-
+tors of which pain, fatigue, rehabilitation, and speci ﬁc sur-
+gical factors are most important [111]. Early postoperativefatigue may be related to distorted sleep resulting fromnoise, drugs (opioids, benodiazepines), and the in ﬂamma-
+Fig. 2. Factors that contribute to delayed or accelerated recovery after
+elective operations.635 H. Kehlet and D.W. Wilmore / The American Journal of Surgery 183 (2002) 630 –641
+tory response (IL-6) [111,112]. Late (weeks) fatigue is re-
+lated to loss of weight and muscle mass and associatedweakness [111,113].
+Postoperative pain can be effectively treated with multi-
+modal analgesia thereby allowing early mobilization (seeabove), and fatigue may be reduced by combined inhibitionof the catabolic response with neural blockade techniques,early nutrition, and mobilization [111]. These approachesappear to be the most important factors to enhance conva-lescent recovery.
+Recommendations for care during the convalescent pe-
+riod are highly variable [114] and this period of care israrely studied. There seems to be no scienti ﬁc basis for
+restrictions of activities of daily living. Studies in animalsshowed a resumption of strenuous physical activity (grey-hound racing) 2 weeks after an abdominal procedure withno deleterious effects [115] whereas convalescence in pa-tients frequently averages 4 to 5 weeks [116]. Although nocontrolled data are available, large, single-center studies ofhernia surgery have shown that recommendations for im-mediateactivitymayshortenconvalescencetoaboutaweekafter inguinal herniorrhaphy [30,117] in contrast to 2 to 4weeks after laparoscopic repair or open herniorrhaphy withtraditional recommendations to limit postoperative activity[118]. Such recommendations regarding convalescence
+should be reviewed and adjusted as information based onclinical trials become available.
+Interrupting preoperative medications
+Recent observations suggest that an increased incidence
+of cerebrovascular complications may occur in the postop-erativeperiodwithcessationofchronicallyusedappropriatemedicationaftertheoperation[119].Thisespeciallyappliesto agents such as beta-blockers, antihypertensives, angio-tension converting enzyme inhibitors, benzodiazopams, andantidepressives. These agents should therefore be continuedin the postoperative period.
+Potential of multimodality therapy
+The risks and morbidity associated with surgical proce-
+dures may be determined by multiple factors (Fig. 2). Al-though improvement in operative outcome has beenachieved due to single interventions such as antimicrobialprophylaxis or antithrombotic therapy, further major reduc-tion in morbidity using single intervention approaches mayTable 2
+Results from fast track programs compared with traditional care in the United States
+Type of operation Postoperative hospitalization Comments and other ﬁndings
+Fast track Traditional*
+Inguinal hernia repair [29,30] 2 –7 hours Ambulatory or 1 day Large consecutive patient series, fast track surgery utilized local
+inﬁltration anesthesia in /H1102295%, documented low morbidity, no
+urinary retention. Cost reduction /H11022$250 procedure with local
+anesthesia compared with other types of anesthesia. Patientsatisfaction /H1101190%.
+Cholecystectomy
+Laparoscopic [122 –124] /H1102290%
+dischargedon same day1–2 days Large consecutive patient series, documented safety, patient
+satisfaction /H1102290%. Randomized study [124] documented cost
+reduction $750/patient.
+Mini incision [125] Large consecutive patient series, safety documented.
+Fundoplication [126] /H110211 day 2 –3 days Selected low-risk patients (n /H1100545).
+Colorectal resection
+Open [63] 2 –3 days 8 –11 days Preliminary studies (n /H1100560) including high-risk patients.
+Cardiopulmonary morbidity reduced.
+Laparoscopic [127] 2 –3 days 4 –6 days High-risk patients ( /H1101180 yrs; n /H1100550). Results as with “open”
+fast track series.
+Lung resection [128] 1 day 8 –10 days Preliminary study (n /H1100510).
+Carotid endarterectomy [129 –131] 90% /H110211 day 3 –4 days Surgery under local anesthesia, nurse and ward specialization.
+Abdominal aortic aneurysmectomy [132] 3 days 7 –10 days Preliminary study (n /H1100550).
+Lower extremity arterial bypass [133] 2 –3 days 6 –9 days N /H11005130, safety documented.
+Radical prostatectomy [134] 1 –2 days 4 –5 days Preliminary study (n /H11005100), patient satisfaction /H1102295%.
+Mastectomy [135 –137] 90% /H110211 day 2 –3 days Cumulated large patient series. Documented safety [135,136],
+major cost reduction, high patient satisfaction /H1102290%. Random-
+ized study: no increased morbidity with fast track, but lesswound pain and improved arm movement; no increased risk ofpsychosocial complications [137].
+Adrenalectomy [138] /H110211 day 3 –5 days Preliminary study (n /H110059).
+Donor nephrectomy [139] /H110211 day 3 –7 days Preliminary study (n /H1100541).
+* These data are derived from a hospital data base [121] and large multicenter trials published over the last 5 years. These lengths of stay are generall y
+reﬂective of the current level of care in the United States.636 H. Kehlet and D.W. Wilmore / The American Journal of Surgery 183 (2002) 630 –641
+not be possible. Additional improvement in postoperative
+outcomes may therefore require more attention by combin-ing efforts from anesthesiologists and surgeons in the intra-operative and early postoperative period (1 to 4 days),where the peak incidence of complications occur.
+A rational approach towards control of postoperative
+pathophysiology and morbidity may therefore be multimo-dal intervention [120]. Such efforts represent an extensionof conventional “clinical pathways, ”because they integrate
+recent data from pain physiology and treatment, anesthesia,surgical technique, enforced feeding and mobilization, andrevision of traditional care programs into an effective post-operative rehabilitation program. The terminology for suchprograms has included such expressions as “fast track ”or
+“accelerated recovery programs. ”In recent years, several reports describing fast track pro-
+grams have been published (Table 2). A common feature ofthese reports is a reduction of hospital stay with low mor-bidity. Most available data are small-scale nonrandomizedpatient series from single centers.
+Therefore, the suggestions from these studies of reduc-
+tion of hospital stay, organ dysfunction, and morbidity needfurther assessment with a focus on patient safety after earlydischarge. In addition, a detailed cost analysis should beperformed including the potential for extra costs resultingfrom readmissions and the need for rehabilitation servicesor care provided by home nursing. However, from the fewrandomized trials available patient safety and satisfactionhave been preserved [123,137,140] and cost reduced [124,141] compared with traditional postoperative stay pro-Table 3
+Organizational steps necessary to develop a fast track surgical program
+Step Personnel involved Speci ﬁc task/estimated Time
+required, if applicableComments
+1. Develop a plan or critical
+pathway.All individuals who interface
+with the patientWrite a pathway to be followed.
+Meetings lasting 1 –2 hours a week
+for 1–2 months.Leader needed with skills in consensus
+development, knowledge in processengineering. Identify team memberscommitted to project.
+2. Outline speci ﬁcs of preoperative
+preparation.1°Surgeon
+2°Consulting internistEvaluate need for tests and
+preventive strategy to optimizephysiology ( /H1101125 hours).Emphasis on minimizing comorbid
+condition such as heart disease, pulmonarydisease, diabetes mellitus, andthromboembolic and infection risk.
+3. Develop anesthesia and
+analgesia programs.1°Anesthesiologists/pain
+service2°Surgeons, nursesOptimize regional techniques to
+reduce the stress response andoptimize pain management.Initiation and development ofprogram may require 2 –3 months.May require special training for
+anesthesiologists to perform epidural andother neural block techniques. Nurses mayproﬁt by visiting units with protocols in
+place to maintain patients pain free for theearly postoperative period.
+4. Minimize stress of operation. 1 °Anesthesiologist/surgeon
+2°Operating room and
+recovery room nursesOptimize anesthetic technique.
+Practice minimal invasive surgery.Prevent perioperative hypothermia.Minimize transfusionrequirements.
+5. Adjust postoperative care
+according to evidence-basedstudies.1°Surgeon
+2°Nursing staffModify practice regarding drains,
+tubes, catheters, etc. Have standardprotocols for feeding andambulation.Standardize postoperative orders. Staff may
+proﬁt by a visit to a center practicing fast
+track surgery.
+6. Develop postoperative nursing
+care programs.1°Nurses, nursing assistant
+2°Physiotherapists,
+dieticiansEnforce feeding, ambulation, and
+sleeping protocols.Staff may bene ﬁt by visiting to a center
+already practicing fast track surgery.
+7. Determine patient follow-up. 1 °Surgeon
+2°Nurse practitioner,
+surgical assistantProvide a system for telephone
+follow-up and of ﬁce visit by
+senior members of the team.Protocols should be developed for speci ﬁc
+and rapid responses to pain, nausea andvomiting, wound drainage, and othercomplaints that traditionally requirereadmission.
+8. Develop a patient information
+program.All team members, possibly
+headed by a nursepractitioner or patienteducator.Develop oral, written, and video
+material to educate patient beforethe operation.
+9. Document results, tabulate
+problems and patientsatisfaction. Revise and improveprogram.All team members, possibly
+headed by a data manager.Develop outcome measures and
+methods of follow-up.May require speci ﬁc training in outcome
+research.
+Fast track recommendation for speci ﬁc procedures are found in the references cited in Table 2. 1 °/H11005primary personnel; 2 °/H11005secondary personnel.637 H. Kehlet and D.W. Wilmore / The American Journal of Surgery 183 (2002) 630 –641
+grams. In addition, pharmacological, sympathetic blockade
+that reduces cardiac demands and mortality, will probablybe utilized to enhance outcome in the future [142,143].
+A prerequisite for an “accelerated recovery program ”is
+a multidisciplinary collaboration that requires organizationto successfully interface between the patient, the surgeon,the anesthesiologist, physiotherapist, and surgical nurse(Table 3). Such programs therefore represent an expansionof the function of the more traditional acute pain service.Other characteristics of the programs are nurse specializa-tion, direction of patients after speci ﬁc operations to as-
+signed areas of care (ie, specialized units), optimal use ofregional anesthetic techniques and balanced analgesia, opi-oid-free or opioid-reduced analgesia, and a willingness toreconsider and revise the use and necessity of traditionalpostoperative care principles (drains, tubes, catheters, re-strictions, and so forth).
+It should be emphasized that accelerated recovery and
+fast track surgical programs are based on the concept thatmultimodal intervention may reduce stress induced organdysfunction and the accompanying morbidity that results inthe subsequent need for hospitalization. This may havemajor social economic implications, in contrast to the ef-fects of modifying only one single factor (hospital stay),which may have minimal impacts on overall costs [144].
+In summary, recent developments in the understanding
+ofperioperativepathophysiologyandtheimplementationofcareregimenstoattenuatethestressofanoperation,suggestthatacomprehensiverevisionofpostoperativecaretowardsaccelerated rehabilitation may decrease morbidity and theneed for hospitalization with increased satisfaction andsafety after discharge. Development and improvement ofmultimodal intervention within the context of fast tracksurgery programs represent the major challenge for themedical professions working to achieve a pain and risk freeperioperative course.
+References
+[1] Centers for Disease Control and Prevention. Advanced data, from
+the vital and health statistics of the Centers for Disease Control andPrevention. Vital Health Stat 1998;300:1 –16.
+[2] Mangano DT, Goldman L. Preoperative assessment of patients with
+known or suspected coronary disease. N Engl J Med 1995;333:1750–6.
+[3] Doyle RL. Assessing and modifying the risk of postoperative pul-
+monary complications. Chest 1999;115:77S –81S.
+[4] McAnulty GR, Robertshaw H, Hall GM. Anaesthetic management
+of patients with diabetes mellitus. Br J Anaesth 2000;85:80 –9.
+[5] Wilmore DW, Cheung LY, Harken A, editors. Special problems in
+perioperative care. Sci Am Surg 1999;5:1 –13.
+[6] Tonnesen H, Kehlet H. Preoperative alcoholism and postoperative
+morbidity. Br J Surg 1999;86:867 –74.
+[7] Tonnesen H, Rosenberg J, Nielsen HJ, et al. Effect of preoperative
+abstinence on poor postoperative outcome in alcohol misusers: arandomized controlled trial. BMJ 1999;318:1311 –6.[8] Bluman LG, Mosca L, Newman N, et al. Preoperative smoking
+habits and postoperative pulmonary complications. Chest 1998;113:883–9.
+[9] Kotani N, Hashimoto H, Sessler DI, et al. Smoking decreases al-
+veola macrophage function during anesthesia and surgery. Anesthe-siology 2000;2:1268 –77.
+[10] Jackson CV. Preoperative pulmonary evaluation. Arch Intern Med
+1988;148:2120 –7.
+[11] Veteran ’s Affairs Total Parenteral Nutrition Study Group. Periop-
+erative total parenteral nutrition in surgical patients. N Engl J Med1991;325:525 –32.
+[12] Geerling BJ, Badart-Smook A, Stockbrugger RW, Brummer
+RJ. Comprehensive nutritional status in patients with long-standingCrohn disease currently in remission. Am J Clin Nutr 1998;67:919 –
+26.
+[13] Payette H, Gray-Donald K. Dietary intake and biochemical indices
+of nutritional status in an elderly population, with estimates of theprecisionofthe7-dayfoodrecord.AmJClinNutr1991;54:478 –88.
+[14] Nygren J, Soop M, Thorell A, et al. Preoperative oral carbohydrates
+and postoperative insulin resistance. Clin Nutr 1999;18:117 –20.
+[15] Egbert LD, Bant GE, Welch CE, et al. Reduction of postoperative
+pain by encouragement and instruction of patients. N Engl J Med1964;207:824 –7.
+[16] Daltroy LH, Morlino CI, Eaton HM, et al. Preoperative education
+for total hip and knee replacement patients. Arthritis Care Res1998;11:469 –78.
+[17] Klafta JM, Roizen MF. Current understanding of patients ’attitudes
+towardandpreparationforanesthetic:areview.AnesthAnalg1996;83:1314–21.
+[18] Woods RK, Dellinger EP. Current guidelines for antibiotic prophy-
+laxis of surgical wounds. Am Fam Phys 1998;57:2731 –40.
+[19] Ludwig KA, Carlson MA, Condon RE. Prophylactic antibiotics in
+surgery. Annu Rev Med 1993;44:385 –93.
+[20] Page CP, Bohnen JM, Fletcher JR, et al. Antimicrobial prophylaxis
+for surgical wounds. Guidelines for clinical care. Arch Surg 1993;128:79–88.
+[21] Burke P, Mealy K, Gillen P, et al. Requirement for bowel prepara-
+tion in colorectal surgery. Br J Surg 1994;81:907 –10.
+[22] Knighton DR, Halliday B, Hunt TK. Oxygen as an antibiotic, the
+effect of inspired oxygen on infection. Arch Surg 1984;119:199 –
+204.
+[23] Liu SS, Carpenter RL, Neal JM. Epidural anesthesia and analgesia.
+Theirroleinpostoperativeoutcome.Anesthesiology1995;82:1474 –
+506.
+[24] Kehlet H. Modi ﬁcation of responses to surgery by neural blockade:
+clinical implications. In: Cousins MJ, Bridenbaugh PO, editors.Neural blockade in clinical anesthesia and management of pain.Philadelphia: Lippincott, 1998, p 129 –75.
+[25] Ballantyne JC, Carr DB, deFerranti S, et al. The comparative effects
+of postoperative analgesic therapies on pulmonary outcome: cumu-lative meta-analysis of randomized controlled trials. Anesth Analg1998;86:598 –612.
+[26] Chaney MA. Intrathecal and epidural anesthesia and analgesia for
+cardiac surgery. Anesth Analg 1997;84:1211 –21.
+[27] Steinbrook RA. Epidural anesthesia and gastrointestinal motility.
+Anesth Analg 1998;86:837 –44.
+[28] Holte K, Kehlet H. Postoperative ileus: a preventable event. Br J
+Surg 2000;87:1480 –93.
+[29] Callesen T, Bech K, Kehlet H. The feasibility, safety and cost of
+inﬁltration anaesthesia for hernia repair. Anaesthesia 1998;53:31 –5.
+[30] Kark AE, Kurzer NM, Belsham PA. Three thousand one hundred
+seventy-ﬁve primary inguinal hernia repairs: advantages of ambu-
+latory open mesh repair using local anesthesia. J Am Coll Surg1998;186:447 –54.
+[31] Coveney E, Weltz CR, Greengrass R, et al. Use of paravertebral
+block anesthesia in the surigical management of breast cancer:experience in 156 cases. Ann Surg 1998;227:496 –501.638 H. Kehlet and D.W. Wilmore / The American Journal of Surgery 183 (2002) 630 –641
+[32] Rogers A, Walker N, Schug S, et al. Reduction of post-operative
+mortality and morbidity with epidural or spinal anaesthesia: resultsfrom an overview of randomized trials. BMJ 2000;321:1493 –1504.
+[33] Kehlet H. Surgical stress response: does endoscopic surgery confer
+an advantage? World J Surg 1999;23:801 –7.
+[34] Wilmore DW. The metabolic management of the critically ill. New
+York: Plenum, 1977, p 83.
+[35] Sessler DI. Mild perioperative hypothermia. N Engl J Med 1997;
+336:1730 –7.
+[36] Frank SM, Higgins MS, Breslow MJ, et. al. The catecholamine,
+cortisol, and hemodynamic responses to mild perioperative hypo-thermia. A randomized clinical trial. Anesthesiology 1995;82:83 –
+93.
+[37] Kurz A, Sessler DI, Lenhardt R. Perioperative normothermia to
+reduce the incidence of surgical-wound infection and shorten hos-pitalization. Study of wound infection and temperature group.N Engl J Med 1996;334:1209 –15.
+[38] Schmied H, Kurz A, Sessler DI, et al. Mild hypothermia increases
+blood loss and transfusion requirements during total hip arthro-plasty. Lancet 1996;347:289 –92.
+[39] Bock M, Mu ¨ller J, Bach A, et al. Effect of preinduction intraoper-
+ative warming during major laparotomy. Br J Anaesth 1998;80:159–63.
+[40] Winkler M, Akca O, Birkenberg B, et al. Aggressive warming
+reduces blood loss during hip arthroplasty. Anesth Analg 2000;91:978–84.
+[41] Johansson T, Lisander B, Ivarsson I. Mild hypothermia does not
+increase blood loss during total hip arthroplasty. Acta AnesthesiolScand 1999;43:1005 –10.
+[42] Frank SM, Fleisher LA, Breslow MJ, et al. Perioperative mainte-
+nance of normothermia reduces the incidence of morbid cardiacevents: a randomized clinical trial. JAMA 1997;227:1127 –34.
+[43] Kurz A, Sessler DI, Narzt E, et al. Postoperative hemodynamic and
+thermoregulatory consequences of intraoperative core hypothermia.J Clin Anesth 1995;7:359 –66.
+[44] Carli F, Emery PW, Freemantle CA. Effect of preoperative normo-
+thermia on postoperative protein metabolism in elderly patientsundergoing hip arthroplasty. Br J Anaesth 1989;63:276 –82.
+[45] Cheatham ML, Chapman WC, Key SP, et al. A meta-analysis of
+selective versus routine nasogastric decompression after electivelaparotomy. Ann Surg 1995;221:469 –76.
+[46] HoffmanJ,LorentzenM.Drainageaftercholecystectomy.BrJSurg
+1985;72:423 –7.
+[47] Ritter MA, Keeting EN, Faris PM. Closed wound drainage in total
+hip or total knee replacement: a prospective randomized study.J Bone Joint Surg 1994;76A:35 –8.
+[48] Kim Y-H, Cho S-H, Kim R-S. Drainage versus non-drainage in
+simultaneous bilateral total knee arthroplasties. Clin Orthopaed RelRes 1998;347:188 –93.
+[49] Adalberth G, Bystro ¨m S, Kolstad K, et al. Postoperative drainage of
+knee arthroplasty is not necessary. Acta Orthop Scand 1998;69:475–8.
+[50] Merad F, Yahchouchi E, Hay J-M, et al. Prophylactic abdominal
+drainageafterelectivecolonicresectionandsuprapromonitoryanas-tomosis:amulticenterstudycontrolledbyrandomization.ArchSurg1998;133:309 –14.
+[51] Urbach DR, Kennedy ED, Cohen MM. Colon and rectal anastomo-
+sis do not require routine drainage. A systematic review and ameta-analysis. Ann Surg 1999;229:174 –80.
+[52] Lopes A, Hall JR, Monaghan JM. Drainage following radical hys-
+terectomy and pelvic lymphadenectomy: dogma or need: ObstetGynecol 1995;86:960 –3.
+[53] Benedetti-Panici P, Maneshi F, Cutillo G, et al. A randomized study
+comparing retroperitoneal drainage with no drainage of lymphade-nectomyingynecologicmalignanciesGynecolOncol1997;65:478 –
+82.[54] Debry C, Renou G, Fingerhut A. Drainage after thyroid surgery: a
+propective randomized study. J Laryngol Otol 1999;113:49 –51.
+[55] Kopelman D, Klemm O, Babous H, et al. Postoperative suction
+drainage of the axilla: for how long? Prospective randomized trial.Eur J Surg 1999;165:117 –20.
+[56] Cameron C, Ebbs SR, Wylie F, et al. Suction drainage of the axilla:
+a prospective randomized trial. Br J Surg 1998;75:1211.
+[57] Yu¨M, Murphy C, Orr N. Early removal of drains and discharge of
+breast cancer surgery patients: a controlled prospective clinical trial.Ann R Coll Surg Engl 1995;77:377 –9.
+[58] Benoist S, Panis Y, Denet C, et al. Optimal duration of urinary
+drainage after rectal resection: a randomized controlled trial. Sur-gery 1999;125:135 –41.
+[59] Basse L, Werner M, Kehlet H. Is urinary drainage necessary during
+continuous epidural analgesia after colonic resection? Reg AnesthPain Med 2000,25:498 –501.
+[60] Harper CM, Lyles YM. Physiology and complications of bed rest.
+J Am Geriatr Soc 1988;36:1047 –54.
+[61] Carr CS, Ling KD, Boulos P, et al. Randomized trial of safety and
+efﬁcacy of immediate postoperative enteral feeding in patients un-
+dergoing gastrointestinal resection. BMJ 1996;312:869 –71.
+[62] DiFronzo LA, Cymerman J, O ’Connell TX. Factors affecting post-
+operative feeding following elective open colon resection. ArchSurg 1999;134:941 –6.
+[63] Basse L, Hjort Jakobsen D, Billesbolle P, et al. A clinical pathway
+to accelerate recovery after colonic resection. Ann Surg 2000;232:51–7.
+[64] Clagett GP, Anderson FA, Geerts W, et al. Prevention of venous
+thromboembolism. Chest 1998;114:531S –60S.
+[65] Salvati EA, Pellegrini VD, Sharrock NE, et al. Recent advances in
+venous thromboembolic prophylaxis during and after total hip re-placement. J Bone Joint Surg 2000;82A:252 –70.
+[66] Liu SS, Mulroy MF. Neuraxial anesthesia and analgesia in the
+presence of standard heparin. Reg Anesth Pain Med 1998;23(suppl2):157–63.
+[67] Horlocker TT, Wedel DJ. Neuraxial block and low-molecular
+weigth heparin: balancing perioperative analgesia and thrombo-
+prophylaxis. Reg Anesth Pain Med 1998;23(suppl 2):164 –77.
+[68] Carr DB, Goudas LC. Acute pain. Lancet 1999;353:2051 –8.
+[69] War ﬁeld CA, Kahn CH. Acute pain management. Programs in US
+hospitals and experiences and attitudes among US adults. Anesthe-siology 1995;83:1090 –4.
+[70] American Pain Society Quality of Care Committee. Quality im-
+provement guidelines for the treatment of acute pain and cancerpain. JAMA 1995;274:1874 –80.
+[71] McQuay HJ, Moore RA, Justins D. Treating acute pain in hospital.
+BMJ 1997;314:1531 –5.
+[72] McQuayHJ,MooreRA.Anevidencebasedresourceforpainrelief.
+Oxford: Oxford University Press, 1998, p1 –264.
+[73] Kehlet H, Werner M, Perkins F. Balanced analgesia. What is it and
+what are its advantages in postoperative pain? Drugs1999;58:793 –7.
+[74] Kehlet H. Acute pain control and accelerated postoperative surgical
+recovery. Surg Clin North Am 1999;79:431 –43.
+[75] Mo¨iniche S, Mikkelsen S, Wetterslev J, et al. A qualitative system-
+atic review of incisional local anaesthesia for postoperative painrelief after abdominal operations. Br J Anaesth 1998;81:377 –83.
+[76] Kehlet H, Rung GW, Callesen T. Postoperative opioid analgesia:
+time for reconsideration? J Clin Anesth 1996;8:441 –5.
+[77] Watcha MF, White PF. Postoperative nausea and vomiting. Its
+etiology, treatment and prevention. Anesthesiology 1992;77:162 –
+84.
+[78] Tramer MR, Moore RA, McQuay HJ. Proprofol anaesthesia and
+postoperative nausea and vomiting: quantitiative systematic reviewof randomized controlled studies. Br J Anaesth 1997;78:247 –55.639 H. Kehlet and D.W. Wilmore / The American Journal of Surgery 183 (2002) 630 –641
+[79] Tramer MR, Moore RA, Reynolds DJ, et al. A quantitative system-
+atic review of ondansetron in treatment of established postoperativenausea and vomiting. BMJ 1997;314:1088 –92.
+[80] Tramer MR, Moore RA, McQuay H. Omitting nitrous oxide in
+general anaesthesia: meta-analyses of intraoperative awareness andpostoperative emesis in randomized controlled trials. Br J Anaesth1996;76:186 –93.
+[81] Henzi I, Walder B, Tramer MR. Dexamethasone for the prevention
+of postoperative nausea and vomiting: a quantitative systematicreview. Anesth Analg 2000;90:186 –94.
+[82] Henzi I, Sonderegger J, Tramer MR. Ef ﬁcacy, dose-response, and
+adverse effects of droperidol for prevention of postoperative nauseaand vomiting. Can J Anaesth 2000;47:537 –51.
+[83] Greif P, Lucing S, Rapf B, et al. Supplemental oxygen reduces the
+incidence of postoperative nausea and vomiting. Anesthesiology1999;91:1246 –52.
+[84] Goll V, Akca O, Grief R, et al. Ondansetron is no more effective
+than supplemental oxygen for prevention of postoperative nauseaand vomiting. Anesth Analg 2001;1992:112.
+[85] Callesen T, Hjort D, Mogensen T, et al. Combined ﬁeld block and
+i. p. installation of ropivacaine for pain management after laparo-scopic sterilization. Br J Anaesth 1999;82:586 –90.
+[86] Callesen T, Schouenborg L, Nielsen D, et al. Combined epidural-
+spinal opioid-free anaesthesia and analgesia for hysterectomy. Br JAnaesth 1999;82:881 –5.
+[87] Bisgaard T, Klarskov B, Kristiansen VB, et. al. Multi-regional local
+anesthetic in ﬁltration during laparoscopic cholecystectomy in pa-
+tients receiving prophylactic multimodal analgesia: a randomizeddouble-blinded placebo-controlled study. Anesth Analg 1999;89:1017–24.
+[88] Power I, Barratt S. Analgesic agents for the postoperative period.
+Nonopioids. Surg Clin North Am 1999;79:275 –95.
+[89] Henzi I, Walder B, Tramer MR. Metoclopramide in the prevention
+of postoperative nausea and vomiting: a quantitative systematicreview of randomized, placebo-controlled studies. Brit J Anaesth1999;83:761 –71.
+[90] Eserhart LHJ, Morin AM, Bothner U et al. Droperidol and 5-HT
+3–
+receptor antagonists, alone or in combination, for prophylaxis of
+postoperative nausea and vomiting. Acta Anaesthesiol Scand 2000;44:1252–7.
+[91] Tramer MR. A rational approach to the control of postoperative
+nausea and vomiting: evidence from systematic reviews. Part I.Efﬁcacy and harm of antiemetic interventions, and methodological
+issues. Acta Anaesthesiol Scand 2001;45:4 –23.
+[92] Tramer MR. A rational approach to the control of postoperative
+nausea and vomiting: evidence from systematic reviews. Part II.Recommendations for prevention and treatment, and researchagenda. Acta Anaesthesiol Scand 2001;45:14 –19.
+[93] MooreFA,FelicianoDV,AndrassyRJ,etal.Earlyenteralfeedings,
+compared with parenteral, reduces postoperative septic complica-tions. The results of a meta-analysis. Ann Surg 1992;216:172 –83.
+[94] Kudsk KA. Gut mucosal nutritional support —enteral nutrition as
+primary therapy after multiple system trauma. Gut 1994;35:S52 –4.
+[95] Lipman TO. Grains or veins: is enteral nutrition really better than
+parenteral nutrition? A look at the evidence. J Parenter Enteral Nutr1998;22:167 –82.
+[96] Silk BBA, Green CJ. Perioperative nutrition: parenteral versus en-
+teral. Curr Opin Clin Nutr Metab Care 1998;1:21 –7.
+[97] Schroeder D, Gillanders L, Mahr K, et al. Effects of immediate
+postoperative enteral nutrition on body composition, muscle func-tion and wound healing. J Parenter Enteral Nutr 1991;15:376 –83.
+[98] Stewart BT, Woods RJ, Collopy BT, et al. Early feeding after
+elective open colorectal resections: a prospective randomised trial.Aust NZ J Surg 1998;68:125 –8.
+[99] Lin E, Goncalves JA, Lowry SF. Ef ﬁcacy of nutritional pharmacol-
+ogy in surgical patients. Curr Opin Clin Nutr Metab Care 1998;1:41–50.[100] Heys SD, Walker LG, Smith I, et al. Enteral nutritional supplemen-
+tation with key nutrients in patients with critical illness and cancer.A meta-analysis of randomized controlled clinical trials. Ann Surg1999;229:467 –77.
+[101] Heslin NJ, Latkany L, Leung D, et al. A prospective, randomized
+trial of early enteral feeding after resection of upper gastrointestinalmalingnancy. Ann Surg 1997;226:567 –77.
+[102] AllisonSP,KinneyJM.Perioperativenutrition.CurrOpinClinNutr
+Metab Care 2000;3:1 –3.
+[103] Jensen MB, Hessov I. Randomization to nutritional intervention at
+home did not improve postoperative function, fatigue or well-being.Br J Surg 1997;84:113 –18.
+[104] Beattie AH, Prach AT, Baxter JP, et al. A randomized controlled
+trial evaluating the use of enteral nutritional supplements postoper-atively in malnourished surgical patients. GUT 2000;46:813 –18.
+[105] Rosenberg J, Kehlet H. Late postoperative hypoxemia. In: Kinney
+JM, Tucker HN, editors. Physiology, stress and malnutrition: func-tional correlates, nutritional intervention. Philadelphia: Lippincott-Raven, 1997, p 183 –206.
+[106] RosenbergJ,WildschodtzG,PedersenMH,etal.Latepostoperative
+nocturnal episodic hypoxaemia and associated sleep pattern. Br JAnaesth 1994;72:145 –50.
+[107] Mynster T, Jensen LM, Jensen FG, et al. The effect of posture on
+late postoperative hypoxaemia. Anaesthesia 1996;51:225 –7.
+[108] Rosenberg-Adamsen S, Kehlet H, Dodds C, et al. Postoperative
+sleep disturbances: mechanisms and clinical implications. Br J An-aesth 1996;76:552 –9.
+[109] GreifR,AkcaO,HornEP,etal.Supplementalperioperativeoxygen
+to reduce the incidence of surgical-wound infection. N Engl J Med2000; 342:161 –7.
+[110] Rosenberg-Adamsen S, Lie C, Bernhard A, et al. Effect of oxygen
+treatment on heart rate after abdominal surgery. Anesthesiology1999;90:380 –4.
+[111] Kehlet H, Rosenberg J. Surgical stress: pain, sleep and convales-
+cence. In: Kinney JM, Tucker HN, editors. Physiology, stress andmalnutrition: functional correlates, nutritional intervention “Phila-
+delphia: Lippincott-Raven, 1997, p 95 –112.
+[112] Spa ¨th-Schwalbe E, Hansen K, Schmidt F, et al. Acute effects of
+recombinant human interleukin-6 on endocrine and central nervoussleepfunctionsinhealthymen.JClinEndocrinolMetab1998;1573 –
+79.
+[113] Christensen T, Kehlet H. Postoperative fatigue. World J Surg 1993;
+17:220–5.
+[114] Majeed AW, Brong S, Williams N, et al. Variations in medical
+attitudes to postoperative recovery period. BMJ 1995;311:296.
+[115] Alam MW, Martin JE. A survey of some physiological responses of
+domestic animals during the immediate post-surgical period. AnnNY Acad Sci 1958;73:438 –43.
+[116] Van den Eeden SK, Glasser M, Mathias SD, et al. Quality of life,
+health care utilization and costs among women undergoing hyster-ectomy in a managed care setting. Am J Obstet Gynecol 1998;178:91–100.
+[117] Callesen T, Klarskov B, Beck K. Short convalescence after inguinal
+herniorrhaphy with standardized recommendation: duration and rea-sons for delayed return to work. Eur J Surg 1999;165:236 –41.
+[118] Callesen T, Kehlet H. Post-herniorrhaphy pain. Anesthesiology
+1997;87:1219 –30.
+[119] Noble DW, Kehlet H. Risks of interrupting drug treatment before
+surgery. BMJ 2000;321:719 –20.
+[120] Kehlet H. Multimodal approach to control postoperative pathophys-
+iology and rehabilitation. Br J Anaesth 1997;78:606 –17.
+[121] HCUPnet. Health care cost and utilization project, agency for
+healthcare research and quality, Rockville, Maryland. Available at:http://www.ahrg.gov/data/hcup/hcupnet.htm.
+[122] Mjaland O, Raeder J, Aasboe V, et al. Outpatient laparoscopic
+cholecystectomy. Br J Surg 1997;84:958 –61.640 H. Kehlet and D.W. Wilmore / The American Journal of Surgery 183 (2002) 630 –641
+[123] Voitk AJ. Establishing outpatient cholecystectomy as a hospital
+routine. Can J Surg 1997;40:284 –8.
+[124] Keulemans Y, Eshuis J, deHaes H, et al. Laparoscopic cholecys-
+tecomy: day-care versus clinical observation. Ann Surg 1998;228:734–40.
+[125] Seale AK, Ledet WP. Minicholecystectomy. A safe, cost-effective
+day surgery procedure. Arch Surg 1999;134:308 –10.
+[126] Trondsen E, Mjaland O, Raeder J, et al. Day-case laparoscopic
+fundoplication for gastro-esophageal re ﬂux disease. Br J Surg 2000;
+87:1708–11.
+[127] Bardram L, Funch-Jensen P, Kehlet H. Rapid rehabilitation in el-
+derly patients after laparoscopic colonic resection. Br J Surg 2000;87:1540–5.
+[128] Tovar EA, Roethe RA, Weissig MD, et al. One-day admision for
+lung lobectomy: an incidental result of a clinical pathway. AnnThorac Surg 1998;65:803 –6.
+[129] Collier PE. Are one-day admissions for carotid endarterectomy
+feasible? Am J Surg 1995;170:140 –3.
+[130] Bourke BM. Overnight hospital stay for carotid endarterectomy.
+Med J Aust 1998;168:157 –60.
+[131] Kaufman JL, Frank D, Rhee SW, et al. Feasibility and safety of
+1-daypostoperativehospitalizationforcarotidendarterectomy.ArchSurg 1996;131:751 –5.
+[132] Podore PC, Throop EB. Infrarenal aortic surgery with a 3-day
+hospital stay: a report on success with a clinical pathway. J VascSurg 1999;29:787 –92.
+[133] CollierPE.Doclinicalpathwaysformajorvascularsurgeryimprove
+outcomes and reduce cost? J Vasc Surg 1997;261:179 –85.
+[134] Kirsh EJ, Worwag EM, Sinner M, et al. Using outcome data and
+patient satisfaction surveys to develop policies regarding minimumlength of hospitalization after radical prostectomy. Urology 2000;
+56:101–7.
+[135] Warren JL, Riley GF, Potosky AL. Trends and outcomes of outpa-
+tient mastectomy in elderly women. J Natl Cancer Inst 1998;90:833–40.
+[136] Ferrante J, Gonzalez E, Pal N, et al. The use and outcomes of
+outpatient mastectomy in Florida. Am J Surg 2000;179:253 –9.
+[137] Bundred N, Maguire P, Reynolds J, et al. Randomized controlled
+trial of effects of early discharge after surgery for breast cancer.BMJ 1998;317:1275 –9.
+[138] Gill IS, Hobart MG, Schweizer D, et al. Outpatient adrenalectomy.
+J Urol 2000;163:717 –20.
+[139] Kuo PC, Johnson LB, Sitzmann JV. Laparoscopic donor nephrec-
+tomy with a 23-hour stay. Ann Surg 2000;31:772 –7.
+[140] Kremer C, Duffy S, Moroney M. Patient satisfaction with outpatient
+hysteroscopy versus day case hysteroscopy: randomized controlledtrial. BMJ 2000;320:279 –82.
+[141] Munin MC, Rudy TE, Glynn NW, et al. Early inpatient rehabilita-
+tion after elective hip and knee arthroplasty. JAMA 1998;279:847 –
+52.
+[142] Mangano DT, Layug EI, Wallace A, et al. Effect of atenolol on
+mortality and cardiovascular morbidity after noncardiac surgery.N Engl J Med 1996;335:1717 –20.
+[143] Poldermans D, Boersma E, Bax JJ, et al. The effect of bisoprolol on
+perioperative mortality and myocardial infarction in high-risk pa-tients undergoing vascular surgery. N Engl J Med 1999;341:1789 –
+94.
+[144] Taheri PA, Butz DA, Green ﬁeld LS. Length of stay has minimal
+impact on the cost of hospital admissions. J Am Coll Surg 2000;191:123–30.641 H. Kehlet and D.W. Wilmore / The American Journal of Surgery 183 (2002) 630 –641

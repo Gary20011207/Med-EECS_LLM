@@ -1,0 +1,244 @@
+Postoperative Pain Experience: Results from a National
+Survey Suggest Postoperative Pain Continues toBe Undermanaged
+Jeffrey L. Apfelbaum, MD*, Connie Chen, PharmD† , Shilpa S. Mehta, PharmD† , and
+Tong J. Gan, MD‡
+*Department of Anesthesia and Critical Care, The University Chicago Hospitals, Chicago, Illinois; †Pharmacia Corp.,
+Skokie, Illinois; and ‡Department of Anesthesiology, Duke University Medical Center, Durham, North Carolina
+Postoperative pain can have a significant effect on pa-
+tient recovery. An understanding of patient attitudesand concerns about postoperative pain is important foridentifying ways health care professionals can improvepostoperative care. To assess patients’ postoperativepain experience and the status of acute pain manage-ment, we conducted a national study by using tele-phone questionnaires. A random sample of 250 adultswho had undergone surgical procedures recently in theUnited States was obtained from National FamilyOpinion. Patients were asked about the severity of post-surgical pain, treatment, satisfaction with pain medica-tion, patient education, and perceptions about postop-erative pain and pain medications. Approximately80% of patients experienced acute pain after surgery.Of these patients, 86% had moderate, severe, or extremepain, with more patients experiencing pain after dis-
+charge than before discharge. Experiencing postopera-tive pain was the most common concern (59%) ofpatients. Almost 25% of patients who received painmedications experienced adverse effects; however,almost 90% of them were satisfied with their pain med-ications. Approximately two thirds of patients reportedthat a health care professional talked with them abouttheir pain. Despite an increased focus on pain manage-ment programs and the development of new standardsfor pain management, many patients continue to expe-rience intense pain after surgery. Additional effortsare required to improve patients’ postoperative painexperience.
+(Anesth Analg 2003;97:534–40)
+In the United States, more than 73 million surgeries
+are performed annually (1), and up to 75% of pa-tients experience pain after surgery (2–4). During
+the past decade, because of changes to incentives inhospital payment systems, the growth of managedcare, advances in medical technology, and changes inpractice patterns, the site of medical care has shiftedfrom inpatient to outpatient settings. Approximately70% of all surgeries in the United States are nowperformed in an ambulatory setting (5).
+Although pain is a predictable part of the postop-
+erative experience, inadequate management of painis common and can have profound implications.Unrelieved postoperative pain may result in clinicaland psychological changes that increase morbidity and
+mortality as well as costs and that decrease quality of life(6). Negative clinical outcomes resulting from ineffectivepostoperative pain management include deep veinthrombosis, pulmonary embolism, coronary ischemia,myocardial infarction, pneumonia, poor wound healing,insomnia, and demoralization (6,7). Associated withthese complications are economic and medical implica-tions, such as extended lengths of stay, readmissions,and patient dissatisfaction with medical care (8,9). It isestimated that the economic burden of treating chronicpain that develops from acute pain in a 30-yr-old indi-vidual over a lifetime could be as much as $1 million
+(10). Prevention and effective relief of acute pain mayimprove clinical outcomes, avoid clinical complications,save health care resources, and improve quality of life.Recognizing that some of the deleterious effects of acutepain can be avoided or minimized, the Joint Commissionon Accreditation of Healthcare Organizations (JCAHO)has incorporated new standards for pain management.Effective in 2001, the JCAHO requires as one conditionof accreditation adequate assessment, monitoring, and
+Supported in part by Pharmacia, Inc.
+Accepted for publication March 10, 2003.Address correspondence and reprint requests to Jeffrey L. Apfel-
+baum, MD, Department of Anesthesia and Critical Care, The Uni-versity of Chicago Hospitals, 5841 S. Maryland Ave., MC 4028,Chicago, IL 60637. Address e-mail to j-apfelbaum@uchicago.edu.
+DOI: 10.1213/01.ANE.0000068822.10113.9E
+©2003 by the International Anesthesia Research Society
+534 Anesth Analg 2003;97:534–40 0003-2999/03
+treatment of pain (11). Pain management must become
+part of all patient care activities.
+The Agency for Health Care Policy and Research
+issued guidelines for acute pain management in 1992(12,13). The guidelines promote aggressive treatmentof acute pain and educate patients about the need tocommunicate unrelieved pain. In 1995, the AmericanSociety of Anesthesiologists published guidelines foracute pain management in the perioperative setting(8). These guidelines promote standardization of pro-cedures and the use of patient-controlled analgesiapumps, epidurals, and multimodal analgesia. Theyalso recommend that proactive planning —including
+obtaining pain history and preoperative, intraopera-tive, and postoperative pain treatment —be a part of
+the institution ’s interdisciplinary care plan.
+Pain management guidelines appear to have had
+little influence on practice patterns or on improvedpain control for patients. In a study conducted 1 yrafter the introduction of the Agency for Health CarePolicy and Research guidelines, Warfield and Kahn (4)found that the incidence and severity of postoperativepain was high. Three of four patients in their studyreported experiencing pain after surgery, and 80% ofthese patients rated pain after surgery as moderate toextreme. The analysis in the study was somewhatlimited because inpatients and outpatients weregrouped together without factoring in the differencesbetween the two patient settings. Similarly, assess-ments of pain levels taken before and after dischargewere analyzed together, even though levels of pain areknown to differ between these time periods.
+Since the Warfield and Kahn study (4), newer pro-
+tocols for patient-controlled analgesia and regionalanalgesia have been developed, and minimally inva-sive surgical techniques, such as endoscopic proce-dures, are used more frequently. These changes inpractice patterns could affect the management of post-operative pain and patient attitudes about pain. Anunderstanding of the postoperative pain experiencefrom a patient ’s perspective is important if health care
+professionals are to identify ways to improve care. Theobjective of this study was to characterize the postop-erative pain experience, assess patient satisfactionwith pain medications, evaluate the success of patienteducation, and assess patient perceptions about post-operative pain and pain medications.
+Methods
+The list of potential subjects was obtained from Na-tional Family Opinion-WorldGroup, a market re-search organization that maintains a panel of/H11022550,000 households for use exclusively in market
+research studies. The initial sample was randomlyselected from the universe of panel households via acomputer program and was designed to be represen-
+tative of the US population; it was based on US censusinformation in terms of geography, age of householdhead, household income, household size, and marketsize. From this randomly selected sample, respon-dents were contacted systematically to ensure thateach person within the sample had an approximatelyequal opportunity to participate in the study. Adultswho had surgery within the last 5 yr were eligible forparticipation in the study. A total of 666 adults werecontacted to obtain a prespecified 250 eligible patientsfor this study, and all participants gave their consent.This sample size was based on a similar survey re-ported in the literature (4), and patients were not paidfor their participation. The interviewers asked a pre-determined list of questions about postoperative painmanagement.
+The predetermined questions, which were written
+in lay language and modified from a survey usedpreviously (4), asked about the postoperative painexperience. Participants were asked how long agotheir procedures had been performed, in what type offacility, and what their concerns were before surgery.Patients also were asked about the presence and se-verity of pain (verbal categorical scale), the medica-tions received, adverse effects, and satisfaction withpain medications after surgery while they were still inthe hospital and up to 2 wk after discharge. They wereasked whether they had received pain managementeducation and were asked to describe their percep-tions of pain and pain medications after surgery. Thequestionnaire focused on major events and experi-ences that patients could reliably recall.
+Data were stratified according to surgical setting.
+Results from patients who had surgery in a doctor ’s
+office, outpatient clinic, or freestanding surgery centerwere combined with results from patients who hadsurgery as outpatients in the hospital setting. Percent-ages were calculated on the basis of the total numberof patients who answered each question. Data wereanalyzed with descriptive statistics.
+Results
+A total of 666 adults were screened to obtain 250eligible patients (38%) for this study. There were nodifferences between screened patients ( n/H11005666) and
+study-eligible patients ( n/H11005250) with regard to geo-
+graphic region, age, income, or household size. Mostpatients who participated in this study were women(65%) with a median age of 46 yr (Table 1). More thanhalf of the patients had inpatient surgery, comparedwith 38% of patients who had outpatient surgery.Data from the remaining 10% of patients whose sur-gical procedures had been performed in a doctor ’s
+office, an outpatient clinic, or a freestanding surgeryANESTH ANALG PAIN MEDICINE APFELBAUM ET AL. 535
+2003;97:534 –40 POSTOPERATIVE PAIN EXPERIENCE
+center were combined with the data from hospital-
+based outpatients. At the time of the survey, 60% ofoutpatients had had surgery less than 1 yr previously,and 5% had had surgery between 4 and 5 years ago.For inpatients, the values were 40% and 23%,respectively.
+Patients were most concerned about pain after sur-
+gery (59%) and whether the surgery would actuallyimprove their condition (51%) (Table 2). When datawere stratified by sex, female patients were still mostconcerned about pain after surgery (60%); however,men indicated improvement of their condition post-surgery (57%) as their most common concern, withpain postsurgery (56%) and full recovery from surgery(56%) following closely thereafter. The second nextmost common female response was improvement oftheir condition postsurgery, with 47% of women indi-cating this as a concern. Other concerns included painduring surgery, recovery after surgery, and whetheror not health care professionals would be responsiveand sensitive to their medical needs.
+Overall, 82% of patients reported that they had ex-
+perienced some pain from the period after surgeryuntil 2 wk after discharge (Table 3). Of these patients,47% experienced moderate pain and 39% experiencedsevere to extreme pain (Table 3) at some time duringtheir postsurgical recovery period. A larger propor-tion of inpatients experienced severe to extreme painthan did outpatients. Also, a larger proportion of fe-male patients reported experiencing pain after surgery(female 60% versus male 55%). To evaluate potential
+recall bias, Table 4 compares the proportion and levelof postsurgical pain in patients who had surgerywithin the last year and those who had surgery be-tween 2 and 5 yr previously. A similar proportion ofpatients reported either severe or extreme pain if thesurgery had been performed within the last year com-pared with patients who had surgery more than 1 yrpreviously (38% vs 42%, respectively). If levels of “ex-
+treme ”pain were examined, a slightly larger propor-
+tion of patients experienced extreme pain in the /H113491
+year category than the more than 1 yr category (22%vs 15%).
+Overall, proportionately more patients experienced
+pain after discharge (from the hospital or physicianoffice) than before discharge. Approximately 75% ofpatients reported pain after discharge, compared with58% of patients who reported pain before discharge.Almost half of all patients experienced severe to ex-treme pain before discharge. After discharge, the per-centage of patients who experienced severe pain wasrelatively unchanged, but the percentage of patientswho experienced extreme pain was substantiallyreduced.
+Approximately 82% of all patients received pain
+medications in the hospital, doctor ’s office, outpatient
+clinic, or surgery center. The most commonly admin-istered medications were morphine (33%) and meper-idine (27%) for inpatients and acetaminophen withcodeine (23%) and ibuprofen (15%) for outpatients.Overall, one third of patients requested their first oneto two doses of pain medication while in the surgicalsetting. Of these, 37% were inpatients and 25% wereoutpatients. After discharge, 76% of all patients re-ceived pain medications. The most frequently pre-scribed medications were acetaminophen with co-deine (17%) or acetaminophen alone (17%) forinpatients and acetaminophen with codeine (21%) oroxycodone with acetaminophen (20%) for outpatients.
+Of the patients who received pain medications, 23%
+reported experiencing adverse effects (Table 5). In thehospital, doctor ’s office, outpatient clinic, or surgery
+center, 15% experienced adverse effects; 17% of pa-tients experienced adverse effects after discharge. Themost common side effects were drowsiness, nausea,and constipation.
+When patients who received pain medications be-
+fore discharge were asked about satisfaction with theirmedications, 88% of them reported that they wereeither “very satisfied ”or“satisfied ”(Table 6). Despite
+reporting intense pain, only 3% of patients were “dis-
+satisfied ”or“very dissatisfied ”with pain medica-
+tions. A similar trend was noted for surgical inpatientsand outpatients; however, outpatients were slightlyless satisfied. Approximately 90% of inpatients and85% of outpatients were satisfied with their pain med-ications, compared with only 2% of inpatients and 4%Table 1. Demographics of Survey Respondents
+VariableInpatient
+(n/H11005129)Outpatient
+(n/H11005121)aTotal
+(n/H11005250)
+Age (yr)
+18–39 28% 31% 29%
+40–54 33% 46% 38%
+/H1135055 39% 23% 31%
+Sex
+Male 39% 31% 35%Female 61% 69% 65%
+Location of surgery
+Inpatient —— 52%
+Outpatient —— 38%
+Other —— 10%
+Time since surgery (yr)
+/H113491 40% 60% 50%
+2–3 36% 35% 36%
+4–5 23% 5% 14%
+Health insurance
+Managed care 63% 66% 65%Indemnity plan 13% 15% 14%Medicaid 3% 4% 4%Medicare 14% 7% 11%Blue Cross/Blue Shield 2% 2% 2%Other 4% 3% 2%None 1% 3% 2%
+aIncludes outpatients in hospitals, doctor ’s offices, outpatient clinics, and
+freestanding surgery centers.536 PAIN MEDICINE APFELBAUM ET AL. ANESTH ANALG
+POSTOPERATIVE PAIN EXPERIENCE 2003;97:534 –40
+of outpatients who were dissatisfied with their pain
+medications. The percentage of patients reporting“very satisfied ”or“satisfied ”was 90% in the inpatient
+group, compared with 84% in the outpatient surgicalgroup while in the hospital or outpatient surgical cen-ter. The rates for patients postdischarge home (up to 2wk) were 87% vs 76%, respectively.
+When patients were asked about their satisfaction
+with pain medications during the first 2 wk afterdischarge, 83% reported being “very satisfied ”or“sat-
+isfied, ”10% “slightly satisfied, ”3%“slightly dissatis-
+fied, ”and 4% “dissatisfied ”or“very dissatisfied ”(Ta-
+ble 6). After discharge, patients who had outpatient
+surgery were slightly less satisfied with their painmedication than were patients who had inpatient sur-gery. Findings were similar for outpatient and inpa-tient surgical settings.Approximately two thirds of patients reported that
+a health care professional talked with them beforesurgery about how their pain would be treated (Table7). Overall, nurses were more likely than other healthcare professionals to educate patients about pain andpain management. Among surgical outpatients, sur-geons were as likely as nurses to provide patient paineducation, but nurses were more likely to provide thisservice for surgical inpatients. After surgery, twothirds of patients reported being asked by a healthcare professional about their pain, most frequently bya nurse.
+When asked about attitudes regarding pain and
+pain medications, 75% of patients believed that it wasnecessary to experience some pain after surgery, and8% of patients had postponed surgery because theywere worried about the possibility of experiencingTable 2. Patient Concerns Before Undergoing Surgery
+ConcernaInpatient
+(n/H11005129)Outpatient
+(n/H11005121)Total
+(n/H11005250)
+Pain after surgery 57% 61% 59%
+Whether surgery would improve condition 47% 55% 51%Full recovery from surgery 50% 41% 46%Pain during surgery 36% 30% 33%Treatment by health care professionals 32% 27% 30%Don ’t know/refused 19% 12% 16%
+aPatients could choose more than one concern.
+Table 3. Presence of Pain and Most Intense Pain Experienced
+Variable Any pain Slight pain Moderate pain Severe pain Extreme pain
+Overall paina
+Total 82% 13% 47% 21% 18%
+Inpatient 86% 10% 43% 24% 23%Outpatient 79% 17% 52% 18% 14%
+Pain before discharge
+Total 58% 14% 43% 23% 21%Inpatient 73% 12% 40% 23% 25%Outpatient 43% 18% 47% 22% 14%
+Pain after discharge
+Total 75% 20% 52% 21% 8%Inpatient 78% 19% 52% 22% 7%Outpatient 71% 20% 52% 19% 9%
+Percentages for individual pain levels are based on the number of patients experiencing any pain. Total patients /H11005250, inpatients /H11005129, outpatients /H11005121.
+aOverall pain experienced in the period after surgery until 2 wk after discharge.
+Table 4. Pain Experience of Patients with Surgery Within the Last Year and Longer Than One Year
+Pain experienceTime since surgery /H113491y r
+(n/H11005125)Time since surgery 2 –5y r
+(n/H11005125)
+Any pain 101 (80%) 105 (84%)
+Worst pain experiencedSlight pain 19 (19%) 8 (8%)Moderate pain 44 (44%) 53 (51%)Severe pain 16 (16%) 28 (27%)Extreme pain 22 (22%) 16 (15%)ANESTH ANALG PAIN MEDICINE APFELBAUM ET AL. 537
+2003;97:534 –40 POSTOPERATIVE PAIN EXPERIENCE
+pain. Approximately 94% of patients thought that
+some pain medications prescribed after surgerycaused adverse effects, and, if given a choice of painrelievers, 72% of patients would choose a nonnarcoticdrug. The main reasons for this choice were that non-narcotic drugs are less addictive (49%) and have feweradverse effects (18%).
+Discussion
+With current standard postoperative care, approxi-mately 80% of all patients in our survey experiencedacute pain after surgery. Alarmingly, most of thesepatients had moderate, severe, or extreme pain. Bothinpatients and outpatients experienced postoperativepain. Ambulatory patients experienced more pain af-ter discharge than when they were in the facilities.
+When assessing the severity and effect of pain ex-
+perienced after day surgery, Beauregard et al. (14)found that 40% of patients reported moderate to se-vere pain during the first 24 hours after discharge.Pain decreased over time but was severe enough tointerfere with daily activities, even several days aftersurgery. Chung et al. (15) found that /H1102225% of ambu-
+latory patients reported experiencing moderate to se-vere pain after discharge. Another study, conductedby Lynch et al. (16), used a 1 –10 numerical rating scale
+to assess the severity of pain among patients who hadnoncardiac inpatient surgery. The mean maximum
+pain score on postoperative Day 1 was 6.3 (moderatepain) and decreased only slightly to 5.6 by postoper-ative Day 3. The findings demonstrated that patientsexperienced intense pain after inpatient and outpa-tient surgery, which is consistent with the findingsfrom our study.
+A national study similar to ours assessed the status
+of acute pain management and attitudes toward post-operative pain in a random sample of patients (4).Although this study was performed approximately adecade ago, it provided a baseline against which laterstudies could be compared to assess improvement inpain management. In this study of 500 patients, 77%experienced pain after surgery, 23% experienced se-vere pain, and 8% experienced extreme pain. Simi-larly, we found that 82% of patients experienced painafter surgery: 21% of patients experienced severe pain,and 18% of patients experienced extreme pain. Thepercentage of patients with overall pain increasedslightly in our study; however, the percentage of pa-tients with extreme pain more than doubled as com-pared with the results from Warfield and Kahn (4)(Fig. 1). Patients seem just as concerned about experi-encing postoperative pain today (59%) as they werealmost a decade ago.
+Adverse effects can occur after pain medications. Of
+those patients who received analgesia, 23% experi-enced adverse effects in our study, which was similarto the results reported by Warfield and Kahn (4).Interestingly, almost 90% of these patients reportedsatisfaction with their pain medications. This findingis similar to results in studies that focused on overallpain management rather than specific satisfactionwith the actual pain medication. This could be relatedto patients ’expectation of postoperative pain and little
+awareness of the efficacy of current analgesics (17,18).Satisfaction with pain care is also challenging to un-derstand because patients often base their response onTable 5. Adverse Effects Experienced Before and After Discharge
+Side effectBefore discharge
+(n/H11005197)After discharge
+(n/H11005184)Overall
+(n/H11005222)
+Any side effect 15% 17% 23%
+Drowsiness 41% 43% 41%Nausea 28% 33% 35%Constipation 24% 23% 26%Sleeplessness 14% 17% 18%Dizziness 17% 13% 14%Vomiting 21% 3% 14%Abdominal discomfort 10% 7% 10%Itching 10% 7% 10%Mood changes 7% 7% 8%Difficult urination 10% 3% 8%
+Data are based on the number of patients receiving pain medications. The percentages for individual adverse effects are based on the number of patient s
+experiencing any adverse effect.
+Table 6. Patient Satisfaction with Pain Medication Before
+Surgery and After Discharge
+Satisfaction with pain
+medicationBefore surgery
+(in hospital)After
+discharge
+Very satisfied 50% 43%
+Satisfied 38% 40%Slightly satisfied 7% 10%Slightly dissatisfied 3% 3%Dissatisfied 3% 3%Very dissatisfied 0% 1%538
+PAIN MEDICINE APFELBAUM ET AL. ANESTH ANALG
+POSTOPERATIVE PAIN EXPERIENCE 2003;97:534 –40
+sympathetic reactions and friendliness of staff rather
+than the outcomes of pain relief.
+We were surprised to find that more than half of the
+patients surveyed were concerned about experiencingpain after surgery and that this caused some of themeven to postpone surgery. Although most patientsclaimed to receive preoperative education on postop-erative pain management, our findings suggest that apatient ’s real concern is not adequately addressed.
+Despite the increased focus on pain management overthe last several years and the development of formalstandards and guidelines for the management of acutepain, a significant number of patients continue to ex-perience unacceptable levels of pain after surgery andafter discharge. This fact is alarming, considering thetrend toward ambulatory surgery and shorter hospitalstays. Aggressive management could prevent compli-cations that result from postoperative pain. The in-tense pain experienced after surgery and side effectsfrom pain medications may explain why patients con-tinue to fear postoperative pain.
+Guidelines have been designed to improve treat-
+ment outcomes for patients with acute pain. In 1995,the American Pain Society ’s Quality of Care Commit-
+tee published a set of guidelines recommending qual-ity improvement programs for acute pain, which in-clude five key elements: 1) recognition and prompttreatment of pain, 2) provision to clinicians of infor-mation about analgesics, 3) promise to patients ofattentive analgesic care, 4) implementation of policies
+for using modern analgesic technologies, and 5) as-sessment and continuous improvement of pain man-agement (19). Such recommendations have the poten-
+tial to improve patient satisfaction with medical careand remove some of the obstacles to optimally man-age pain. However, as the results of this study show,postoperative pain is still not adequately managed.Recognizing the importance of the issue of undertreat-ment of pain, the JCAHO implemented new pain stan-dards, which require that all patients be assessed forpain and then be appropriately treated and moni-tored. In 1999, the National Health and Medical Re-search Council of Australia published evidence-basedguidelines on management of all forms of severe pain(20).
+Other factors also may explain the inadequate man-
+agement of acute pain after surgery. The pressure todischarge patients after surgery could limit the painmedications health care professionals are willing toprescribe. In our study, inpatients had more pain andwere more likely to receive morphine and meperidinebefore discharge than outpatients, who were morelikely to receive acetaminophen with codeine or ibu-profen before discharge. Both patient groups receivedsimilar medications after discharge. Physicians may beunwilling to discharge a patient medicated with po-tent, long-acting opioids from a supervised settingbecause of potential safety concerns. Also, patientsmay not have someone at home who can assist themduring the first 24 hours after discharge, when thepain may be greatest, adverse effects can be common,and analgesia administered at the hospital is wearingoff.
+Although there is still some risk, when opioids are
+used for a medical purpose for a short time, the risk ofaddiction is small (21). Fearful of the addictive poten-tial of opioids, many patients may prefer a non-opioidor a less potent opioid medication. Also, some patientsmay be so distressed by the adverse effects of opioidsthat they may prefer to experience pain rather thanopioid adverse effects. Efforts toward multimodal an-algesia with the combination of opioid and non-opioidTable 7. Patient Education on Pain Management
+VariableAny
+education Nurses Surgeons AnesthesiologistOther
+physician
+Before surgery
+Total ( n/H11005250) 63% 42% 38% 18% 20%
+Inpatient ( n/H11005129) 63% 37% 30% 22% 24%
+Outpatient ( n/H11005121) 63% 48% 47% 15% 15%
+After surgery
+Total ( n/H11005250) 66% 56% 28% 2% 33%
+Inpatient ( n/H11005129) 70% 60% 26% 3% 38%
+Outpatient ( n/H11005121) 61% 50% 29% 0% 28%
+Percentages are based on the number of patients receiving any education.
+Figure 1. Overall pain after surgery.ANESTH ANALG PAIN MEDICINE APFELBAUM ET AL. 539
+2003;97:534 –40 POSTOPERATIVE PAIN EXPERIENCE
+medications, including nonsteroidal antiinflammatory
+drugs, cyclooxygenase-2 inhibitors, or local anesthet-ics, may result in more optimal pain management (22).Our findings suggest that greater awareness of theimportance of managing pain and the dedication ofresources to pain control are needed to improve post-operative pain management.
+There are some weaknesses in this study. A retro-
+spective survey of an event or an experience is likelyto be influenced by the events occurring after theevent in question, as well as by the time interval.Although many people are able to recall past events orexperiences with reasonable accuracy, over long peri-ods of time, the effect of recall bias and passage of timeshould be considered when interpreting a retrospec-tive analysis. However, we believe that postoperativeevents are unique and significant enough that patientsmay be able to recall their general pain experience,even when it took place several years previously. Ap-proximately 50% of patients who responded to thissurvey had had surgery within the year before thesurvey. In addition, these data should be interpretedin the context of 250 patients, with just slightly morefemale respondents (60%), because there can be somedifference in pain experience between sexes. Finally, itis acknowledged that these results are based on asurvey of only 250 randomly selected patients, span-ning both inpatient and outpatient procedures. None-theless, these findings are consistent with previousreports and provide a current understanding of thepotential challenges we still face in adequately man-aging pain.
+In summary, most patients experience moderate to
+severe pain sometime during their postoperative re-covery. The results from this study are even morerelevant with the increasing attention to pain manage-ment in the hospital setting. Changes in medical prac-tice patterns, continued research, development ofnewer analgesics with potent efficacy and minimaladverse effects, and use of balanced analgesia shouldenhance the potential to treat postoperative pain moresuccessfully.
+References
+1. Fast stats. National Center for Health Statistics Web site. Avail-
+able at: http://www.cdc.gov/nchs/fastats. Accessed May 7,2003.2. Schug S, Large R. Economic considerations in pain manage-
+ment. Pharmacoeconomics 1993;3:260 –7.
+3. Owen H, McMillan V, Rogowski D. Postoperative pain therapy:
+a survey of patients ’expectations and their experiences. Pain
+1990;41:303 –7.
+4. Warfield CA, Kahn CH. Acute pain management: programs in
+U.S. hospitals and experiences and attitudes among U.S adults.Anesthesiology 1995;83:1090 –4.
+5. SMG forecast of surgical volume in hospital/ambulatory set-
+tings 1994 –2001. Chicago: SMG Marketing Group, Inc., 1996.
+6. Carr DB, Goudas LC. Acute pain. Lancet 1999;353:2051 –8.
+7. Breivik H. Postoperative pain management: why is it difficult to
+show that it improves outcome? Eur J Anaesthesiol 1998;15:748 –51.
+8. Practice guidelines for acute pain management in the perioper-
+ative setting: a report by the American Society of Anesthesiol-ogists Task Force on Pain Management, Acute Pain Section.Anesthesiology 1995;82:1071 –81.
+9. Twersky R, Fishman D, Homel P. What happens after dis-
+charge? Return hospital visits after ambulatory surgery. AnesthAnalg 1997;84:319 –24.
+10. Cousins MJ, Power I, Smith G. Pain: a persistent problem. Reg
+Anesth Pain Med 2000;25:6 –21.
+11. Pain management standards. Joint Commission on Accreditation
+of Healthcare Organization Web site. Available at: http://www.jcaho.org/accredited /H11001organizations/ho spitals/standards/
+revisions/index.htm. Accessed May 7, 2003.
+12. Acute pain management: operative or medical procedures and
+trauma. I. Agency for Health Care Policy and Research. ClinPharm 1992;11:309 –31.
+13. Acute pain management: operative or medical procedures and
+trauma. II. Agency for Health Care Policy and Research. ClinPharm 1992;11:391 –414.
+14. Beauregard L, Pomp A, Choiniere M. Severity and impact of
+pain after day-surgery. Can J Anaesth 1998;45:304 –11.
+15. Chung F, Ritchie E, Su J. Postoperative pain in ambulatory
+surgery. Anesth Analg 1997;85:808 –16.
+16. Lynch EP, Lazor MA, Gellis JE, et al. Patient experience of pain
+after elective noncardiac surgery. Anesth Analg 1997;85:117 –23.
+17. McNeill JA, Sherwood GD, Starck PL, Thompson CJ. Assessing
+clinical outcomes: patient satisfaction with pain management.J Pain Symptom Manage 1998;16:29 –40.
+18. Ward SE, Gordon D. Application of the American Pain Society
+quality assurance standards. Pain 1994;56:299 –306.
+19. American Pain Society Committee. Quality improvement guide-
+lines for the treatment of acute pain and cancer pain. JAMA1995;274:1874 –80.
+20. National Health and Medical Research Council of Australia.
+Acute pain management: scientific evidence. Canberra,Australia: Aus Info, 1999.
+21. Cherny NI. Opioid analgesics: comparative features and pre-
+scribing guidelines. Drug 1995;51:713 –37.
+22. Jin J, Chung F. Multimodal analgesia for postoperative pain
+control. J Clin Anesth 2001;13:524 –39.540 PAIN MEDICINE APFELBAUM ET AL. ANESTH ANALG
+POSTOPERATIVE PAIN EXPERIENCE 2003;97:534 –40

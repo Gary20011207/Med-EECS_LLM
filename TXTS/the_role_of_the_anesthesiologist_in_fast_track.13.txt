@@ -1,0 +1,930 @@
+The Role of the Anesthesiologist in Fast-Track
+Surgery: From Multimodal Analgesia to Perioperative
+Medical Care
+Paul F. White, PhD, MD*
+Henrik Kehlet, MD, PhD†
+Joseph M. Neal, MD‡
+Thomas Schricker, MD, PhD§
+Daniel B. Carr, MD /H14067¶
+Franco Carli, MD, MPhil§ and the
+Fast-Track Surgery Study GroupBACKGROUND: Improving perioperative efficiency and throughput has become in-
+creasingly important in the modern practice of anesthesiology. Fast-track surgeryrepresents a multidisciplinary approach to improving perioperative efficiency byfacilitating recovery after both minor (i.e., outpatient) and major (inpatient) surgeryprocedures. In this article we focus on the expanding role of the anesthesiologist infast-track surgery.METHODS: A multidisciplinary group of clinical investigators met at McGill Univer-
+sity in the Fall of 2005 to discuss current anesthetic and surgical practices directedat improving the postoperative recovery process. A subgroup of the attendees atthis conference was assigned the task of reviewing the peer-reviewed literature onthis topic as it related to the role of the anesthesiologist as a perioperativephysician.RESULTS: Anesthesiologists as perioperative physicians play a key role in fast-track
+surgery through their choice of preoperative medication, anesthetics and tech-niques, use of prophylactic drugs to minimize side effects (e.g., pain, nausea andvomiting, dizziness), as well as the administration of adjunctive drugs to maintainmajor organ system function during and after surgery.CONCLUSION: The decisions of the anesthesiologist as a key perioperative physician
+are of critical importance to the surgical care team in developing a successfulfast-track surgery program.
+(Anesth Analg 2007;104:1380 –96)
+The concept of fast-track surgery using multimodal
+perioperative rehabilitation programs (1) was intro-duced in the early 1990s to facilitate an early dischargefrom the hospital and more rapid resumption ofnormal activities of daily living after elective surgery.The increasing popularity of minimally invasive surgicaltechniques has also allowed patients to undergo in-
+creasingly complex surgical procedures on anambulatory and/or short-stay basis (2). Therefore,fast-tracking implies implementation of a periopera-tive patient care paradigm that reduces the time todischarge home and resumption of activities of dailyliving after both major (inpatient) and minor (outpa-tient) surgical procedures.
+From the *Department of Anesthesiology and Pain Manage-
+ment, University of Texas Southwestern Medical Center at Dallas,Texas; †Section for Surgical Pathophysiology, The Juliane MarieCentre, Rigshospitalet, Copenhagen, Denmark; ‡Department ofAnesthesia, Virginia Mason Medical Centre, Seattle, Washington;§Department of Anesthesia, McGill University Health Centre, Mon-treal, Canada; /H20648Department of Anesthesia, Tufts-New England
+Medical Center, Boston, Massachusetts; and ¶Javelin Pharmaceuti-cals, Cambridge, Massachusetts.
+Accepted for publication February 28, 2007.The meeting which generated the interest in this program was
+supported by an unrestricted educational grant from Ethicon Endo-Surgery, Inc (Cincinnati, OH).
+Fast-Track Surgery Study Group consisted of the following indi-
+viduals: Franco Carli, Wesley Bourne Professor, McGill UniversityHealth Center, Montreal, Canada; Daniel B. Carr, Saltonstall Professorof Pain Research, Tufts-New England Medical Center, Boston, MA;Frances Chung, Professor, University of Toronto, Canada; Gerald M.Fried, Adair Chair of Surgical Education, Steinberg-Bernstein Chair ofMinimally Invasive Surgery and Surgical Innovation, McGill Univer-sity Health Center, Montreal, Canada; Henrik Kehlet, Professor, TheJuliane Marie Centre, Copenhagen, Denmark; Nancy E. Mayo, James
+McGill Professor, McGill University Health Center, Montreal, Canada;Joseph M. Neal, Clinical Professor, Virginia Mason Medical Centre,Seattle, WA; Thomas Schricker, Associate Professor, McGill UniversityHealth Centre, Montreal, Canada; Anthony J. Senagore, Professor andChairman, Medical University of Ohio; Daniel I. Sessler, Vice Dean andAssociate VP for Health Affairs, Interim Chair and L&S WeakleyProfessor of Anesthesiology, University of Louisville, KY, Paul F.White, Professor and Holder of the Margaret Milam McDermottDistinguished Chair in Anesthesiology, University of Texas South-western Medical Center at Dallas, TX; Douglas Wilmore, Professor,Harvard Medical School, Boston, MA; Gerald S. Zavorsky, AssistantProfessor, McGill University Health Centre, Montreal, Canada.
+Address correspondence and reprint requests to Paul F. White,
+PhD, MD, Department of Anesthesiology and Pain Management,University of Texas Southwestern Medical Center at Dallas, Texas.Address e-mail to paul.white@utsouthwestern.edu.
+Copyright © 2007 International Anesthesia Research Society
+DOI: 10.1213/01.ane.0000263034.96885.e1Special Article
+Vol. 104, No. 6, June 2007 1380
+The role of the anesthesiologist has evolved from
+that of a physician primarily concerned with provid-ing optimal surgical conditions and minimizing painimmediately after the operation, to that of a perioper-ative physician responsible for ensuring that patientswith coexisting medical conditions are optimally man-aged before, during, and after surgery (3,4). In additionto optimizing preoperative medication and providingthe best possible intraoperative surgical conditions, theability to provide for a rapid emergence from anesthesiaand avoid postoperative side effects and early complica-tions has assumed increasing importance for both out-patients and inpatients undergoing fast-track surgery.The evaluation of clinically meaningful outcomes (e.g.,quality of recovery, resumption of normal activities ofdaily living) has increasingly become a focal point ofanesthesia-related clinical research involving new drugsand techniques.
+The Fast-Track Surgery Study Group is a multidis-
+ciplinary group of clinical investigators interested incritically evaluating the peer-reviewed literature re-lated to surgical and anesthetic practices, as well aspre- and postoperative care directed at facilitating therecovery process after elective surgery. The primaryaim of this article is to focus on specific aspects ofperioperative care in which the anesthesiologist’s con-tribution facilitates the recovery process. Ideally, theprocess begins in the preoperative period and extendsinto the postdischarge period. The anesthetic andanalgesic techniques for facilitating the recovery pro-cess apply to all patients undergoing surgical proce-dures whether they are hospitalized or dischargedhome on the day of surgery. The complementary roleof surgery and nursing care in the fast-tracking pro-cess are also discussed.
+PREOPERATIVE ISSUES
+Premedication
+Preanesthetic medication is given primarily to pro-
+vide sedation, reduce anxiety, optimize intraoperativehemodynamic stability, and decrease postoperativeside effects (5). Benzodiazepines remain the mostcommonly used premedications because even smalldoses of these compounds (e.g., midazolam 20
+/H9262g/kg
+IV) can improve the perioperative fast-tracking pro-cess by reducing anxiety and anxiety-related compli-cations, as well as improving patient comfort andsatisfaction (6). With respect to improving surgicaloutcome, both the
+/H9252-blockers and /H92512-agonists are
+increasingly popular adjuvants to fast-track anesthetic
+techniques. As a result of their anesthetic andanalgesic-sparing effects (7–11), these compounds canfacilitate the early recovery process, improve periop-erative hemodynamic stability, and reduce postopera-tive pain. Premedication with the
+/H92512-agonist clonidine
+or dexmedetomidine has been associated with a re-
+duction in the use of opioid analgesics, postoperativenausea and vomiting (PONV), and intraoperativeblood loss (10–12). IV clonidine combined with epi-
+dural clonidine improves analgesia and shortens theduration of paralytic ileus after colorectal procedures(13). The inhibitory effects of these
+/H92512-agonists on the
+sympathoadrenergic and hypothalamo-pituitary stress
+response (14) facilitate glycemic control in type-2 dia-betic patients (15) and reduce myocardial ischemia aftersurgery (16).
+/H9252-blockers (e.g., atenolol) suppress surgery-induced
+increases in circulating catecholamines, and preventuntoward perioperative cardiovascular events in el-derly patients undergoing noncardiac surgery (7).Evidence suggests that
+/H9252-blockers are most effective in
+reducing cardiac events in surgical patients with pre-existing coronary artery disease (17,18). Perioperative
+/H9252-blockade improved hemodynamic stability during
+emergence from anesthesia and in the early postop-erative period. The anesthetic and analgesic-sparingeffects of
+/H9252-blockers also lead to a faster emergence
+from anesthesia and reduce postoperative side effects(e.g., PONV). The anticatabolic properties of
+/H9252-blockers
+may also facilitate the resumption of normal activi-ties after major surgery procedures. In critically illpatients,
+/H9252-blocker therapy combined with total
+parenteral nutrition can establish a positive protein
+balance (19).
+Hydration Status
+Elective surgery has traditionally been performed
+after an overnight fast to ensure an empty stomachand minimize the risk of aspiration during the peri-operative period. However, many studies have dem-onstrated that avoiding fasting-induced dehydration(e.g., allowing oral intake of clear liquids up to 2–3 hbefore surgery and IV hydration before induction ofanesthesia) is both safe and effective in reducingpostoperative side effects (20–23). Liberal (versus re-strictive) fluid administration during laparoscopicsurgery also leads to improved patient outcomes(24,25). One study recommended that even obesepatients without comorbid conditions should be al-lowed to drink clear liquids until 2 h before electivesurgery procedures (21). Preoperative administrationof glucose-containing fluids, prevents postoperativeinsulin resistance and attenuates the catabolic re-sponses to surgery while replacing fluid deficits(26,27). However, the effects of glucose-containingsolutions on clinical outcomes, including the length ofhospital stay, incidence of PONV, muscle strength andsubjective well-being remain controversial (28,29).
+Perioperative hydration includes correction of pre-
+operative dehydration due to fasting, bowel prepara-tion, and underlying disease, replacement of bloodloss, and administration of maintenance fluids (30,31).Four aspects of perioperative fluid resuscitation ap-pear to be relevant for improving surgical outcome: 1)fluid volume, 2) fluid composition, 3) type of surgery,and 4) hemodynamic goals. With the exception of
+Vol. 104, No. 6, June 2007 © 2007 International Anesthesia Research Society 1381
+pulmonary and major abdominal surgery, it is com-
+mon practice to administer relatively large amounts ofcrystalloids even for procedures with minimal bloodloss. For example, high intraoperative fluid therapywas associated with reduced side effects (e.g., pulmo-nary dysfunction, dizziness, drowsiness, thirst, andnausea/vomiting) and a shorter hospital stay after
+laparoscopic cholecystectomy (22,25). Although aggres-sive crystalloid administration during colorectal surgeryimproved tissue oxygenation (32), it did not decrease therisk of surgical wound infections (33). On the other hand,two studies have suggested that excess fluid hydrationcan increase postoperative morbidity and the length ofthe hospital stay after major abdominal surgery (34,35).Furthermore, perioperative water and salt restrictionreduced cardiopulmonary and tissue healing complica-tions and prevented hyperchloremic metabolic acidosisafter abdominal surgery (36,37).
+Goal-directed fluid administration targeting specific
+values for cardiac index, oxygen delivery, and oxygenconsumption using synthetic colloids and inotropicdrugs may further improve outcome and recovery inpatients undergoing pulmonary, major abdominal andorthopedic procedures (38,39). Therefore, strategies,which avoid both hypovolemia and excessive intravas-cular volume postoperatively, are important in facilitat-ing the fast-track recovery process (31).
+Glycemic Control
+Impaired glucose homeostasis during surgery can
+result in hyperglycemia (27). Recent evidence suggeststhat even moderate increases in blood glucose areassociated with adverse outcomes, particularly in pa-tients with cardiovascular, infectious, and neurologi-cal diseases (40,41). Intraoperative hyperglycemia isan independent risk factor for postoperative compli-cations, including death after cardiac surgery (42–44).Morbidity and mortality correlated with mean bloodglucose levels in a concentration-dependent manner indiabetic patients undergoing cardiac surgery (42,43).Van den Berghe et al. (45) also demonstrated superiorsurgical outcomes with strict normoglycemia in postop-
+erative critically ill patients. Not surprisingly, improvedglycemic control using a continuous perioperative insu-lin infusion reduces morbidity and mortality in diabeticpatients undergoing cardiac surgery (46,47). Mainte-nance of normoglycemia also attenuates the systemicinflammatory response to cardiopulmonary bypass (48).Therefore, “tight” glycemic control clearly improvespatient outcome after cardiac surgery (46–48), and othercritical illnesses (49). Use of glucocorticoid steroids aspart of a fast-track anesthetic technique may lead totransient postoperative hyperglycemia in at-risk surgerypopulations (e.g., diabetics) (50).
+Temperature Control
+Perioperative hypothermia can have a wide range
+of detrimental effects, which may include increasedrates of wound infection, morbid cardiac events, bloodloss, and even prolong the hospital stay (51–54).
+Studies suggest that maintaining normothermia dur-ing surgery may provide significant benefits for sur-gical patients by reducing postoperative morbidity(55). Hypothermia can be reduced by using forced-airwarming blankets, and warming irrigation and IVfluids. In addition, warmed and humidified insuffla-tion gases may decrease postoperative pain and theneed for opioid analgesics and antiemetic therapyafter laparoscopic surgery (56).
+FAST-TRACK ANESTHETIC TECHNIQUES
+Local Anesthesia
+Infiltration of local anesthetics around a surgical
+incision should be a component of all “balanced”fast-track anesthetic techniques (57,58). Local infiltra-tion anesthesia alone provides adequate analgesia forsuperficial procedures (e.g., inguinal herniorrhaphy,breast and anorectal surgery, shoulder and knee ar-throscopy), and is probably vastly under-utilized(59–61). Patient comfort can be improved if IVsedation-analgesia is used to supplement local anes-thetic infiltration, particularly when the local anesthe-sia is not completely effective (59,62). However, use ofIV adjuvants can also increase side effects (e.g., venti-latory depression, PONV) (63,64). The benefits of localwound infiltration in patients undergoing more inva-sive surgical procedures have not been as extensivelystudied. Although there is little evidence that preemp-tive analgesia involving local anesthetic injections atthe surgical wound reduces the risk for developingpersistent postoperative pain syndromes (65), it doeslessen both intra- and postoperative opioid require-ments as well as opioid-related side effects (66).
+Many studies have demonstrated improved analge-
+sia, greater patient satisfaction with pain manage-ment, and reduced PONV and hospital stay withinfusion of local anesthetic at the surgical incision site(67). For example, patients receiving a continuousinfusion of bupivacaine at the median sternotomyincision site after cardiac surgery not only experiencedimproved postoperative pain management, but werealso able to ambulate earlier, leading to a reducedlength of hospital stay (68). Infiltration of local anes-thetic at portal sites and the gallbladder bed improvespostoperative analgesia after laparoscopic cholecys-tectomy (69). Com pared with neuroaxial or general
+anesthetic techniques, local anesthetic infiltration tech-niques reduce the risk of postoperative urinary retentionassociated with anorectal surgery (70) and inguinal her-niorrhaphy (62,71). When used as the primary anesthetictechnique, local anesthesia facilitates postanesthesia careunit bypass, thereby reducing recovery costs (59,62,70,72).
+In summary, routine use of local anesthetics at inci-
+sion sites can facilitate fast-track recovery after outpa-tient, and even some inpatient, surgical procedures.
+1382 Role of Anesthesiologists in Fast-Track Surgery ANESTHESIA &ANALGESIA
+Regional Anesthesia
+IV regional anesthesia, peripheral nerve blocks, and
+“mini-dose” neuraxial blocks are the most popularregional anesthetic techniques used for fast-track sur-gery. Use of IV regional anesthesia for ambulatoryhand surgery was associated with faster discharge andlower costs, when compared with either general anes-thesia or a peripheral nerve block (72). As supple-ments to general anesthesia, peripheral nerve blocks(versus local infiltration) improve postoperative anal-gesia and reduce opioid-related side effects, therebyfacilitating the fast-track recovery process (73). Forexample, suprascapular block improves the recoveryprofile after arthroscopic shoulder surgery performedunder general anesthesia (74), but not after “open”surgery with an interscalene block (75). As the pri-mary analgesic technique, peripheral nerve blocks areassociated with shorter discharge times, improvedanalgesia, and fewer side effects compared with gen-eral anesthesia for hand (73,76), shoulder (77), anorec-tal (70), hernia repair (62,78), and knee surgery (79).
+Although it is widely assumed that regional anes-
+thesia offers advantages over general anesthesia withrespect to speed of recovery (80), a recent metaanalysissuggested that there were no significant differences inambulatory surgery unit time (81). However, use ofcontinuous perineural catheters to administer localanesthetics can improve pain control and expeditehospital discharge after painful upper (82) and lowerextremity (83) surgical procedures. In addition, thelocal analgesia can be continued at home after dis-charge (84). These beneficial findings were confirmedin a recent multicenter trial which used patient-controlled perineural local analgesia as an alternativeto IV patient-controlled analgesia (PCA) with mor-phine (85). A recent metaanalysis confirmed the ad-vantages of a peripheral catheter technique over aparenteral opioid-based analgesic technique for ex-tremity surgery (86).
+When central neuroaxis block techniques are used
+as a part of a fast-track regimen, it is important toselect the most appropriate local anesthetic and adju-vant combination to avoid prolonged anesthetic ef-fects that negatively impact on readiness for discharge(62). For instance, prolonging subarachnoid-inducedanalgesia with fentanyl rather than epinephrineavoids the prolonged time to micturition (87), andreduces the time to discharge from the hospital (88).As compared with conventional intrathecal doses oflocal anesthetics, use of so-called minidose lidocaine(10–30 mg), bupivacaine (3.5–7 mg), or ropivacaine(5–10 mg) spinal anesthetic techniques when com-bined with a potent opioid analgesic (e.g., fentanyl10–25
+/H9262g or sufentanil 5–10 /H9262g) can result in faster
+recovery of sensory and motor function (89,90). Whencompared to a monitored anesthesia care (MAC) tech-nique for ambulatory knee surgery, a minidose spinaltechnique involving lidocaine and fentanyl achievedcomparable recovery times after knee arthroscopy(60). For outpatient laparoscopic gynecologic surgery,
+this technique has also been reported to offer signifi-cant advantages over both conventional spinal andgeneral anesthetic techniques (90,91). However, post-operative side effects (e.g., pruritus, nausea) are in-creased due to the intrathecal opioid (60).
+Epidural analgesia can be a valuable adjuvant to
+fast-track anesthesia techniques for major surgery (92).The benefits of epidural analgesia are most apparentwhen used as part of a multimodal analgesic regimen(93,94). Both continuous epidural infusion and epi-dural PCA provide better static and dynamic painrelief than IV opioid-based PCA delivery systems (95).In addition, epidural local analgesia, compared toIV-PCA, reduced postoperative pulmonary complica-tions after thoracic or upper abdominal surgery (96),improved perioperative nutritional profiles andhealth-related quality of life scores, while better pre-serving exercise capacity after colon surgery (97–99).These factors can facilitate the achievement of postop-erative milestones (e.g., earlier tracheal extubation anddischarge from the intensive care unit, as well asshorter time to ambulation), but there is little evidencethat epidural analgesia actually reduces mortality orhastens hospital discharge even after major surgery(95,96). A lthough epidural analgesia improved analge-
+sia and reduced pulmonary complications after aorticsurgery (100) and thoracoabdominal esophagectomy(101), it did not consistently reduce ileus or the length ofthe hospital stay in these surgical populations.
+Thoracic epidural analgesia with a local anesthetic
+can reduce ileus and lead to a faster discharge aftercolonic surgery when combined with multimodalanalgesic techniques (102–104). However, the advan-tages of epidural analgesia over simple IV-PCA arenot appearent when using a fast-track postoperativecare plan (104). Although epidural analgesia decreasesrehabilitation time after total knee arthroplasty (105)and improved pain control, it failed to facilitate reha-bilitation after hip fracture surgery (106). Given thatsimilar analgesia can be achieved using a perineuralcatheter technique (e.g., continuous femoral or popli-teal nerve blocks) as with epidural local analgesiawithout the attendant risk of epidural-related compli-cations (e.g., hematoma formation, abscesses, hemo-dynamic instability), peripheral nerve blocks wouldappear to be preferable for lower extremity surgery.
+The use of epidural analgesia for minimally inva-
+sive surgery (e.g., laparoscopic colectomy, nephrec-tomy, prostatectomy) is highly questionable. Epiduralanesthesia and analgesia for laparoscopic colectomyonly facilitated recovery of bowel function when atraditional, nonaccelerated perioperative care pro-gram was used (107). Future advances in fast-tracksurgery techniques and perioperative use of periph-eral
+/H9262-opioid antagonists (108) will likely further
+lessen the future role of epidural analgesia (109).Although epidural analgesia per se minimally impacts
+fast-track surgery, as a component of multimodal
+Vol. 104, No. 6, June 2007 © 2007 International Anesthesia Research Society 1383
+management strategy it can provide superior analge-
+sia and physiologic advantages that facilitate attain-ment of clinical pathway goals after major surgery(95,96). For example, intrathecal opioids as part of amultimodal analgesia technique are increasingly usedas part of fast-track cardiac anesthesia techniques(110–112). Although there were no differences in therates of mortality or myocardial infarction after coro-nary artery bypass grafting with central neuroaxialanalgesia when using local anesthetics, there wereassociated improvements in time to tracheal extuba-tion, decreased pulmonary complications and cardiacdysrhythmias, and reduced postoperative pain andopioid analgesic requirements (113). When the needfor systemic opioids are reduced, cardiac surgerypatients are able to be extubated earlier and experi-ence a reduced length of stay in the intensive care unit(111), as well as a faster recovery of bowel and bladderfunction (68).
+Monitored Anesthesia Care
+Compared with general endotracheal and central
+neuroaxis anesthetic techniques for superficial (non-cavitary) surgical procedures, MAC-based techniquesinvolving the use of local anesthesia via infiltration orperipheral nerve block in combination with and IV
+sedative-analgesic drugs can facilitate a fast-trackrecovery (62,63,70). The simplest local anesthetic
+technique, which provides adequate analgesia, isrecommended to minimize the risk of side effectsand complications (114).
+Use of a MAC technique for inguinal hernia repair,
+anorectal, and hand surgery was associated with adecreased incidence and severity of postoperativepain, reduced need for opioid-containing analgesics,less PONV, constipation, ileus, urinary retention, andother opioid-related side effects (62,70,72). MAC tech-niques commonly involve the use of local anestheticinfiltration and/or peripheral nerve blocks using amixture of lidocaine (2%) and bupivacaine (0.5%) orropivacaine (0.5%) in combination with small doses ofmidazolam (1–3 mg IV) and a variable-rate propofolinfusion (25–100
+/H9262g/H18528kg/H110021/H18528min/H110021) (115). Increasingly,
+dexmedetomidine (0.5–1 /H9262g/kg) (116) and ketamine
+(75–150 /H9262g/kg) (117) are being used as alternatives to
+opioid analgesics like fentanyl (0.5–1 /H9262g/kg) (118) or
+remifentanil (0.25–0.5 /H9262g/kg boluses or 0.025–0.05
+/H9262g/H18528kg/H110021/H18528min/H110021infusion) (119), as part of a MAC
+anesthetic technique to reduce the ventilatory depres-
+sion produced when combining a potent opioid anal-gesic with midazolam and propofol (119). Respiratorydepression due to over sedation and a lack of vigilanceis the leading cause of serious patient injuries duringMAC (64).
+In summary, use of MAC techniques can facilitate a
+fast-track recovery after surgery, since patients rou-tinely bypass the postanesthesia care unit, and can bedischarged home earlier due to the low incidence ofpostoperative side effects. However, careful intraop-
+erative vigilance to avoid respiratory complications ismandatory to insure patient safety.
+General Anesthesia
+Despite the obvious advantages of local, regional
+and MAC anesthetic techniques, many patients (andsurgeons) still prefer general anesthesia because theyremain unaware of events during the operation.Propofol, 1.5–2.5 mg/kg, is clearly the IV inductiondrug of choice for fast-track anesthesia (120). Theless-soluble volatile anesthetics, desflurane (3%–6%)and sevoflurane (0.75%–1.5%), appear to offer advan-tages over propofol and isoflurane for maintenance ofgeneral anesthesia with respect to facilitating the earlyrecovery process (121–124). Nitrous oxide (50%–70%)remains a popular adjuvant during the maintenanceperiod because of its anesthetic and analgesic-sparingeffects, low cost, and favorable pharmacokinetic pro-file (125). However, remifentanil infusion (0.05–0.20
+/H9262g/H18528kg/H110021/H18528min/H110021) is an increasingly popular alterna -
+tive to nitrous oxide as an adjuvant to the less-solublevolatile anesthetics (126,127).
+The
+/H9252-blocking drugs (e.g., esmolol, labetalol) can
+be used as an alternative to short-acting opioid anal-gesics for controlling the transient, acute autonomic
+responses during surgery (128–130). Whenever pos-sible, a laryngeal mask airway should be used as analternative to a tracheal tube (131). If tracheal intuba-tion is required, short (e.g., succinylcholine, mivacu-rium) (132) or intermediate-acting (e.g., cisatracurium,vecuronium, rocuronium) neuromuscular blockingdrugs should be used (133). A novel cyclodextrincompound, sugammadex (134), is capable of facilitat-ing a faster reversal of steroid-based, nondepolarizingneuromuscular blockers than either a combination ofedrophonium-atropine or neostigmine-glycopyrrolatewithout anticholinergic side effects (135). Use of thisreversal drug may also lead to earlier tracheal extuba-tion after surgery and reduce postoperative respira-tory complications resulting from residual muscleparalysis (134).
+Use of volatile anesthetics (versus propofol) for
+maintenance of anesthesia will increase PONV in theearly postoperative period (136). For patients receiv-ing volatile anesthetics, the most cost-effective anti-emetic prophylaxis technique consists of a combinationof low-dose droperidol (0.625–1.25 mg IV) and dexa-methasone (4–8 mg IV) (137,138) or methylpred-nisolone (125 mg IV) (139). If the patient is at increasedrisk for developing PONV, a 5-HT
+3antagonist should
+also be added as part of a multimodal antiemetic
+regimen (140). The neurokinin-1 antagonists may playan increasingly important role in the management ofemetic symptoms in the future. Finally, use of non-opioid analgesics [e.g., nonsteroidal antiinflammatorydrugs (NSAIDs), cycloxygenase-2 (COX-2) inhibitors,acetaminophen,
+/H92512-agonists, glucocorticoids, ketamine,
+1384 Role of Anesthesiologists in Fast-Track Surgery ANESTHESIA &ANALGESIA
+and local anesthetics] as part of a multimodal analge-
+sic regimen will minimize postoperative pain andopioid-related side effects (66,141).
+In summary, use of short-acting anesthetic agents
+and prophylactic drugs, which minimize postopera-tive side effects, and avoiding surgical misadventures,will enhance the ability to fast-track patients after bothambulatory (142) and major inpatient surgery proce-dures (110–113). Not surprisingly, combining the useof short-acting anesthetic techniques with an educa-tional program has been reported to significantlyincrease fast-tracking in ambulatory centers (143).Although a majority of both adults and children canbe fast-tracked after ambulatory surgery under gen-eral anesthesia, minimizing patient discomfort andanxiety is critically important in establishing a suc-cessful fast-track surgery program after all types ofelective surgery (129,142–144). Finally, improving thetitration of both IV and inhaled anesthetics by usingcerebral monitoring devices may also facilitate thefast-tracking process (145–148). However, in sponta-neously breathing (nonparalyzed) patients, the valueof cerebral monitoring in facilitating the recoveryprocess is questionable (149).
+POSTOPERATIVE ISSUES
+Pain Management
+Observational studies have confirmed that poorly
+controlled pain and associated PONV can delay dis-charge after ambulatory surgery (150). Improvingpostoperative pain control accelerates normalizationof quality of life and functionality that may otherwisepersist for weeks after an elective operation (151–153).According to a recent systematic review by Liu andWu (154) there is “insufficient evidence to concludethat analgesic techniques influence postoperative mor-tality or morbidity” due to the current low incidencesof complications. However, excessive reliance uponopioids for perioperative analgesia contributes toacute opioid tolerance and hyperalgesia (155), as wellas dose-related side effects (e.g., hypoventilation, se-dation, nausea and vomiting, urinary retention, ileus)that delay hospital discharge and add to the cost ofsurgical care (66,156). Although opioid infusions arefrequently used both IV and epidurally, they do notimprove postoperative pain management due to therapid development of tolerance (157), and increased
+risk of ventilatory depression. Even if acute pain controlhas little or no beneficial economic or physiologicaleffects, efforts to improve pain management are beingmandated by accrediting agencies, and excessive reli-ance on opioid analgesics will lead to increased morbid-ity and mortality (158).
+Multimodal (or “balanced”) analgesia involves the
+use of more than one modality of pain control toobtain additive (or even synergistic) beneficial analge-sic effects while reducing opioid-related side effects(159). Early fast-track studies demonstrated that thesemultimodal analgesic techniques can improve recov-
+ery and patient outcome after ambulatory procedures(160,161). This approach is currently the standardpractice in fast-track clinical care plans (1,162) becausereliance on a single non-opioid analgesic modalitysuch as NSAIDs may not suffice to control severe pain,and reliance exclusively on opioids produces manyundesirable side effects (141). Use of partial opioidagonists (e.g., tramadol) is associated with increasedside effects and patient dissatisfaction compared withthat of both opioid and non-opioid analgesics (163).
+The clinically relevant benefits of multimodal anal-
+gesia remain controversial (154). Unfortunately, manyindividual studies are under-powered, the reportingof adverse effects of analgesic drugs has been incon-sistent, and meta-analyses (or systematic literaturereviews) have often pooled data inappropriately fromstudies involving diverse types of operations whichlacked common internal controls, and estimated ag-gregate effects often used insensitive measures such asnumber-needed-to-treat (164–166). Furthermore, thedefinition of “multimodal” is not uniform in theanesthesia and surgery literature. In some contexts,multimodal analgesia refers to systemic administra-tion of analgesic drugs with different mechanisms ofaction (142), while in other it refers to concurrentapplication of analgesic pharmacotherapy and re-gional analgesia (167). Despite these weaknesses in thepublished literature, recent meta-analyses have con-firmed the opioid dose-sparing effect of NSAIDs (in-cluding the COX-2 inhibitors) and decreases in theopioid-related side effects of PONV and sedation(166,168,169). Improvements in late outcome variablesmay be possible with short-term use of these drugs in thepostoperative period (170). However, these positivefindings do not necessarily extend to discernible benefitson opioid- induced pruritus, urinary retention, andrespiratory depression (168,169), nor are these benefitsevident with the reduced opioid-sparing effect of acet-aminophen (171).
+Studies suggest that an opioid-sparing effect can be
+achieved postoperatively using a pharmacologicallydiverse variety of non-opioid adjuvants (i.e., ketamine,clonidine, dexmedetomidine, adenosine, gabapentin,pregabalin, glucocorticoids, esmolol, neostigmine, mag-nesium) (66). The current evidence from the peer-
+reviewed literature in support of these non-opioidadjuvants is summarized in Table 1. The recent atten-tion given to opioid-related side effects as impediments
+to achieving a high degree of patient satisfaction andearly discharge home after surgery has increasedinterest in local and regional anesthetic techniques(63), and led to the development of longer-actinglocal anesthetics (e.g., suspensions, liposomes, micro-
+spheres) (214–217) and continuous delivery methods(e.g., peripheral nerve and wound infusion tech-niques) (67,82–84,86). Although continuous local an-esthetic techniques have become increasingly populardue to the availably of disposable delivery systems,
+Vol. 104, No. 6, June 2007 © 2007 International Anesthesia Research Society 1385
+Table 1. Clinical Evidence for Addition of Selected Second Drugs to an Opioid or a Nonsteroidal Antiinﬂammatory Drug (NSAID)
+Cyclooxygenase-2 (COX-2) Inhibitors and Other Non-Opioid Compounds as Part of a Multimodal Analgesic Technique
+Drug group Second drugEvidence for
+beneﬁt of
+combination Comments Selected references
+Opioid /H11001NSAID (including
+COX-2 inhibitors)A Meta-analyses describe robust effects on
+enhancement of analgesia and/or opioiddose-sparing, and corresponding reductionin opioid side effectsAshburn et al. (167)
+Cepeda et al. (166)Curatolo et al. (172)Elia et al. (169)Gilron et al. (173)Marret et al. (168)
+/H11001Local anesthetics A Multiple meta-analyses describe opioid dose-
+sparing and reduction of opioid side effectsfor many operative sites and analgesicroutes and techniques.Sarantopoulos et al. (174)
+Moiniche et al. (175)Richman et al. (86)Walker et al. (176)
+/H11001
+/H9252-Adrenergic blockers A Limited evidence indicates opioid-sparing
+(including tramadol-sparing) independentfrom well-recognized reduction ofpostoperative cardiac eventsChia et al. (9)
+White et al. (130)Zaugg et al. (7)
+/H11001Acetaminophen B Meta-analysis describes opioid-sparing but no
+clear effect upon opioid side effectsCuratolo et al. (172)
+Edwards et al. (177)Elia et al. (169)Remy et al. (171)Romsing et al. (178)Zhang et al. (179)
+/H11001Adrenergics,
+/H9251-2 agonists
+(includes epinephrine,clonidine,dexmedetomidine)B Limited evidence indicates potential for opioid
+dose-sparing but no evident effect uponopioid side effectsArmand et al. (180)
+Curatolo et al. (172)Segal et al. (10)Walker et al. (176)
+/H11001Antiepileptic drugs (includes
+gabapentin)B Growing clinical literature indicates clear-cut
+effect on opioid dose-sparing, but notreduction of opioid side effects forgabapentinDierking et al. (181)
+Fassoulaki et al. (182)Fassoulaki et al. (183)Turan et al. (184)Turan et al. (185)
+/H11001Glucocorticoids B Positive although limited data on opioid dose
+reduction and improvements inpostoperative nausea/vomitingAasboe et al. (186)
+Holte and Kehlet (187)Moiniche et al. (188)Romundstad et al. (189)
+/H11001NMDA antagonist (includes
+ketamine,dextromethorphan,magnesium)B Sufficient evidentiary base indicates opioid
+dose-sparing with few adverse effectsduring low doses of ketamine; muchweaker effect, if any, for dextromethorphan;positive but very limited data formemantine, magnesiumAida et al. (190)
+Bolcal et al. (191)Duedahl et al. (192)McCartney et al. (193)Seyhan et al. (194)
+/H11001Antidepressants (includes
+tricyclics, SSRIs)C Small evidence base indicates potential of
+tricyclics, not SSRIs, for opioid dose-sparingbut no evident effect upon opioid sideeffectsLynch et al. (195)
+/H11001Cholinomimetics (includes
+neostigmine, physostigmine)C Limited positive, exploratory data on systemic
+and neuraxial physostigmine indicatesopioid reduction but additional cholinergicside effectsBeilin et al. (196)
+Chia et al. (197)Ho et al. (198)Poyhia et al. (199)
+/H11001Antihistamines (includes
+hydroxyzine,diphenhydramine)C Insufficient data to show an opioid-sparing or
+opioid side effect-reducing effect; clinicalseries show anticholinergic side effects andreduction of nauseaLin et al. (200)
+/H11001Nitroglycerine C Limited data Lauretti et al. (201)
+Sen et al. (202)
+/H11001Calcium channel blockers C Limited data White et al. (130)
+Atanassoff et al. (203)Choe et al. (204)
+NSAID (including
+COX-2inhibitors)/H11001Local anesthetics A Positive data indicate clear analgesic benefit
+and indirectly, avoidance or sparing ofopioids in operations otherwise requiringopioid therapyAshburn et al. (167)
+Coloma et al. (205)Ma et al. (206)White et al. (170)
+/H11001Acetaminophen B Limited data indicate an analgesic benefit but
+no clear clinical benefit otherwiseHyllested et al. (207)
+Romsing et al. (178)Issioui et al. (208)Issioui et al. (209)Watcha et al. (210)
+/H11001Tramadol C Limited data Lauretti et al. (211)
+/H11001Dextroethorphan C Limited data Yeh et al. (212)
+Yeh et al. (213)
+Citations include randomized controlled trials (RCTs) and, where available, syntheses of multiple RCTs in published systematic reviews and/or met aanalyses. Evidence rated as “A” is sufﬁciently
+strong that the addition of the drug be considered for each patient, unless speciﬁcally contraindicated. Evidence rated as “B” is favorable but insuf ﬁcient to warrant consideration of the drug
+for every patient. Evidence rated as “C” is negative, inconclusive or highly preliminary. SSRI /H11005selective serotonin reuptake inhibitor; NMDA /H11005N-methyl-
+D-aspartate.
+1386 Role of Anesthesiologists in Fast-Track Surgery ANESTHESIA &ANALGESIA
+the encouraging results from these early pilot studies
+must be balanced against the cost of the equipmentand the resources need to manage these systemsoutside the hospital (38,217).
+An evaluation of multimodal analgesic therapy by
+Curatolo and Sveticic (172) in 2002 yielded 55 clinicaltrials and 47 randomized controlled trials relevant tothe treatment of acute postoperative pain. These in-vestigators concluded that adding a NSAID (or ket-amine) to morphine was advantageous, and that thecombination of acetaminophen and a NSAID issuperior to either drug alone. Unfortunately, mostmultimodal analgesia studies have focused on thecombination of an opioid with a single non-opioiddrug. Ideally, multiple non-opioids (e.g., NSAIDs,acetaminophen, COX-2 inhibitors and gabapentin)could be combined to achieve more optimal pain reliefand, perhaps ultimately, an opioid-free environment
+(66,141). Therefore, multimodal analgesia represents akey element for successful fast-track surgery by mini-
+mizing postoperative pain, opioid-related organ dys-
+function and facilitating the recovery process fromanesthesia. Newer fast-tracking criteria recognize theimportance of controlling pain and opioid-related sideeffects (e.g., PONV) (218).
+Nausea and Vomiting
+Despite the introduction of many new antiemetic
+therapies, the incidence of PONV remains high, occur-ring in up to 30% of all surgical cases (including bothcardiac and neurosurgery) due to patient, anesthesiaand surgery-related factors (219). The major risk factorsfor PONV include female gender, nonsmoker status,history of PONV or motion sickness, intraoperative useof volatile anesthetics and high-dose opioid techniques,as well as postoperative opioid analgesic use (220). Inadults, a multidrug antiemetic prophylaxis strategy isrecommended for patients who present with two ormore risk factors (221). In addition to the administra-tion of antiemetic drugs, multimodal strategies toreduce the risk of PONV include use of propofol andlocal anesthetic-based analgesic techniques, adequatehydration, as well as minimizing perioperative opioid
+use (222). Use of cardiovascular drugs (e.g.,
+/H9252-blockers,
+/H92512-agonists) to control transient acute autonomic re -
+sponses to noxious surgical stimuli and non-opioidanalgesics to reduce postoperative pain will minimizeemetic symptoms (66,129,130). Nonpharmacologicaltechniques (e.g., acupuncture, acupressure, and trans-cutaneous electrical nerve stimulation) can be usefuladjuvants to standard antiemetic drugs when usedafter surgery (223–225). Therefore, replacing intra-vascular fluid deficits, minimizing use of volatile
+anesthetics and nitrous oxide, opioid analgesics andreversal drugs, and using propofol, multimodal anti-emetic prophylaxis and non-opioid analgesic tech-niques are all important factors in preventing PONV(141). In the future, practitioners should also considerincorporating alternative medical therapies into their
+treatment plans (226).
+Ileus and Constipation
+Postoperative ileus can cause discomfort and delay
+oral food intake, thereby prolonging convalescenceand the length of the hospital stay (227). The keyelements in a multimodal fast-track strategy for pre-venting postoperative ileus include use of minimallyinvasive surgical techniques, use of a peripherallyacting
+/H9262-opioid receptor antagonist, avoidance of a
+nasogastric (NG) tube, early oral feeding and ambu-lation, and opioid-sparing analgesic regimens (228).One of the most important factors in accelerating thereturn of bowel function after major abdominal sur-gery is the use of continuous thoracic epidural localanalgesia (227,229). The positive effect of epiduralanalgesia on bowel function appears to be related tosegmental visceral afferent and efferent blockade.Therefore, thoracic epidural infusion of a local anes-thetic solution should reduce the duration of ileusafter major abdominal surgery (99).
+Multimodal rehabilitation paradigms, which com-
+bine epidural analgesia with early oral feeding andmobilization, have been found to decrease the dura-tion of ileus (227). In addition, there is evidence thatreduced perioperative sodium administration andavoidance of fluid excess is associated with earlierreturn of bowel function after abdominal surgery(230), and a decrease in the length of the hospital stay(231). The results of recent clinical trials indicate thatuse of a peripheral
+/H9262-opioid receptor antagonist (i.e.,
+alvimopan, methylnaltrexone) can facilitate the recov-ery of postoperative bowel activity and may reducethe time to hospital discharge after major surgicalprocedures (108,232,233). Importantly, minimizing theuse of opioid-containing oral analgesics after dis-charge reduces both constipation and PONV (234).
+Nutritional Supplementation
+The objective of nutritional management of surgical
+patients is to accelerate wound healing and increaseresistance to infection while preventing loss of func-tional and structural proteins (97). Administration ofhypercaloric amounts of glucose in combination withamino acids is the only nutritional modality that hasbeen shown to produce a positive effect on proteinbalance (i.e., anabolism). Clinical studies support theconcept that enteral nutrition is preferable to paren-teral nutrition, and that early (versus late) oral feedingis advantageous with respect to improved surgicaloutcomes (235–237). Parenteral nutrition is a usefulstrategy only in surgical patients who are unable toresume oral feeding. Hyperalimentation requiringcentral venous cannulation should be avoided becauseit causes hyperglycemia, which can increase postop-erative morbidity (238). The choice of perioperativeanalgesia (e.g., epidural local analgesia versus IV PCA
+Vol. 104, No. 6, June 2007 © 2007 International Anesthesia Research Society 1387
+with opioid analgesics) can also affect the periopera-
+tive feeding strategy (98). Epidural analgesia facili-tates glucose use and improves insulin sensitivity,thereby diminishing the amount of energy required toattenuate the catabolic losses after major intracavitarysurgery (97,239,240). In addition, epidural local anal-gesia facilitates recovery of ileus and allows earlierresumption of oral nutrition.
+INTERACTIONS WITH SURGEONS AND NURSES IN
+FACIITATING THE RECOVERY PROCESS
+Since the principles of fast-track surgery by defini-
+tion include a multidisciplinary approach, the “totalcare” principle involves anesthesiologists as membersof the perioperative care team with surgical, nursing,and rehabilitation personnel. The benefits of the anes-thesiologist’s fast-track anesthetic techniques can onlybe fully realized when they are incorporated into acomprehensive perioperative patient care plan (162).Compared to traditional postoperative care after colonsurgery, patients cared for by surgeons experienced inusing fast-tracking protocols had shorter hospitalstays (4.5 d vs 7–10 d) (229,241). However, no differ-ences were found in the postoperative activity levels,suggesting that reductions in the length of stay wererelated to factors other than changes in the patient’slevel of physical activity after surgery (242).
+Technical and Procedural Aspects of Surgical Care
+There have been recent advances in minimally
+invasive surgery in almost all surgical specialties. As aresult of this paradigm shift, there have been benefi-cial effects on perioperative organ function includingimprovements in nociceptive control (i.e., reducedpain) and pulmonary function (i.e., less atelectasis),decreased cardiac demands, and reduced endocrine-metabolic responses, muscle catabolism, and inflamma-tory responses. Laparoscopic (versus open) colectomyand nephrectomy was associated with longer operat-ing times, but significantly reduced the length of thehospital stay and the time to resume normal activitiesof daily living (243,244). In a metaanalysis of pub-lished studies involving laparoscopic (versus open)procedures, Abraham et al. (244) reported that resec-tions for colorectal cancer required 33% more time inthe operating room (OR). How ever, the time to pass
+flatus was reduced by 34%, and the time to toleratedietary intake was decreased by 24%. Postoperative painscores and the need for opioid analgesics were reducedby 34%–63% during the first 3 days after surgery. Thegreatest benefits of minimally invasive surgery are foroperations where the alternative is a large incision (e.g.,esophageal reflux surgery, bariatric surgery, splenec-tomy, thoracic, vascular procedures, arthroscopy, adre-nalectomy, and nephrectomy). However, the differencesare less pronounced with other types of surgery (e.g.,colonic resection, appendectomy, cholecystectomy, in-guinal herniorrhaphy).Importantly, the maximal benefits of minimally
+invasive surgery (e.g., laparoscopic techniques) canonly be achieved when perioperative care principlesare adjusted to the principles of fast-track surgery inorder to take advantage of the reduced disturbance inperioperative pathophysiology (245). The differencesbetween minimal invasive surgery per se and “open”
+surgery combined with a fast-track recovery strategybecome small, or may even favor open procedures insome situations (e.g., colonic resection). Therefore,there is still a need for prospective, randomized,patient and observer-blinded studies to define the roleof minimally invasive surgery for many commonsurgical procedures.
+Only two blinded studies with planned early recov-
+ery programs have been published, and these studiesdemonstrated no clinically important differences be-tween open and laparoscopic colonic resection (246) orappendectomy (247). A similar criticism can be madeabout many of the published series comparing recov-ery after a so-called fast-track multimodal rehabilita-tion program to “conventional recovery care.” Most ofthese series are nonrandomized and involve the use ofhistorical control groups. Many of these comparativestudies have emphasized the ability to achieve ashorter hospital stay, reduced postoperative fatigue,and earlier resumption of normal activities without anincrease need for additional support after dischargewith fast-track multimodal rehabilitation programs(248,249). However, concerns have been raised regard-ing the possibility of a higher readmission rate (250),and the need for more effective communication andeducation regarding postdischarge care (251).
+In implementing fast-track surgical programs, sev-
+eral surgical aspects of care (e.g., type of incision, useof drains, NG tubes, urinary catheters, bowel prepa-ration) must be revised based on current evidence(1,162). For example, several randomized studies havedemonstrated less pain and pulmonary dysfunctionwith transverse (versus vertical) incisions (252,253). Apossible explanation for this improved outcome re-lates to the larger number of dermatomal levels beingdisrupted by vertical incisions. In order to facilitateearly functional recovery, traditional care principlesthat hinder early mobilization and feeding must bechanged. For elective mid-to-lower abdominal proce-dures, the routine use of NG tubes should be avoided(254), since their use can prolong paralytic ileus,hinder oral intake, cause oropharyngeal discomfort,and predispose the patient to pulmonary morbidity(e.g., aspiration pneumonitis). Similarly, prolongedroutine use of surgical drains should be avoided becauserandomized clinical trials have demonstrated thatthey are not necessary and can have detrimentaleffects on recovery after hepatic, colonic, and rectalresections with primary anastomoses, as well as ap-pendectomy (255). The traditional bowel preparation(e.g., polyethylene glyol-electrolyte solution) prior toabdominal procedures may actually increase the risk
+1388 Role of Anesthesiologists in Fast-Track Surgery ANESTHESIA &ANALGESIA
+of infectious morbidity (256,257). The same situation
+may also apply to the use of urinary catheters (1). Inaddition, the surgical care principles must be adjustedbased on recent evidence regarding optimal fluidmanagement (31) and adequate early oral nutrition(258).
+Finally, surgical patients undergoing major surgery
+who are unfit and who have comorbid illnesses expe-rience more postoperative complications and a longerconvalescence period (99). The process of enablingsurgical patients to withstand the adverse effects ofsurgery-induced inactivity by increasing their exercisecapacity through preoperative conditioning (i.e.,physical training) is termed “prehabilitation” (259).This consists of a program of aerobic and resistanceexercises over a period of 3–4 wk before electivesurgery. Preliminary studies suggest that a prehabili-tation program can increase preoperative exercisecapacity by 15%–20%, even in lower risk patientsundergoing cardiac surgery (260). A recent study byHulzebos et al. (261) found that preoperative inspira-tory muscle training reduced the incidence of postop-erative pulmonary complications and the duration ofhospital stay after coronary artery bypass graft sur-gery. A perioperative exercise program was also found
+to be effective in improving early recovery of physicalfunction after total hip arthroplasty in the elderly (262).Simple walking tests (using pedometers, accelerometers,and treadmills to monitor daily activity) may be usefulpredictors of postoperative recovery (263).
+Changing the Postsurgical Nursing Culture
+A common experience at centers implementing
+fast-track surgery has been the challenge of changinglong-standing surgical nursing care principles(264,265), and this is a major component of the totalcare package (266). An intensified nurse-based preop-erative patient education program is a crucial adjunctto improved fast-track anesthetic surgical care (143).These programs need to focus on what is expectedfrom the patient as an active participant in the recov-ery and rehabilitation process (267). The provision ofdaily nurse care (i.e., clinical pathway) charts remainsan important element in the fast-track recovery pro-cess. It is essential to secure daily tasks, and toestablish programs to facilitate education of new per-sonal as every aspect of care must be carefully ex-plained. Therefore, multidisciplinary meetings beforeand after implementing fast-track surgery are crucialto the overall success of the program. These meetingsshould include a presentation of results and patientfollow-up in order to facilitate an understanding of thegoals and results of fast-track surgery compared withtraditional recovery care.
+CONCLUSIONS
+As perioperative physicians, anesthesiologists play
+an important role in the implementation of fast-tracksurgery programs (Table 2). Understanding the im-portance of coexisting diseases and taking appropriate
+steps to minimize postoperative complications throughappropriate use of preoperative medications, selectingthe optimal anesthetic and analgesic techniques, andmaintaining normal organ system function will lead toimproved patient care at a reduced cost (268). As moreinformation becomes available, it should be possible toTable 2. Key Elements of the Perioperative Anesthetic
+Management for Facilitating a Fast-Track Recovery AfterElective Surgery
+I.Preoperative period
+Stabilizing coexisting diseases (e.g., hypertension,
+diabetes) and encourage prehabilitation exerciseprogram and smoking cessation
+Optimizing patient comfort by minimizing anxiety and
+discomfort
+Insure adequate rehydration by replacing fluid deficitsAppropriate use of prophylactic therapies to prevent
+postoperative complications (e.g., nausea, vomiting,pain, ileus)
+II.Intraoperative period
+Utilize anesthetic techniques which optimize surgical
+conditions, while insuring a rapid recovery withminimal side effects
+Administer local analgesia via peripheral nerve blocks,
+wound infiltration, and/or instillation
+Apply multimodal analgesia and antiemetic prophylaxis
+(including use of glucocorticoid steroids)
+Minimize use of nasogastric tubes and avoid excessive
+fluid administration
+III.Postoperative period
+Allow patients who meet discharge criteria to be fast-
+tracked (i.e., discharged earlier from recovery units)
+Insure adequate pain control in the postdischarge period
+utilizing non-opioid analgesics to minimize need foropioid-containing analgesics
+Encourage early ambulation and resumption of normal
+activities of daily living
+Table 3. Future Strategies for Anesthesiologist to Advance
+Fast-Track Surgery
+1. Participate in identification of preoperative risk factors
+and improvement in organ function by optimizing intra-and postoperative hemodynamic stability (268)
+2. Development of multimodal non-opioid analgesic and
+antiemetic regimens based on the type of surgery andthe patient’s risk assessment (66,140,141)
+3. Pharmacological modifications of the autonomic “stress”
+responses during and after surgery (269)
+4. Optimizing perioperative fluid regimens based on the
+duration of preoperative fasting and the type of surgery(e.g., intracavitary, blood loss) (30,31)
+5. Postoperative rounds by anesthesiologists caring for
+high-risk surgical patients (270)
+6. Establishment of “outreach” services for ancillary
+healthcare personnel involved in facilitating therehabilitation process (271)
+7. Multidisciplinary approaches to routine perioperative
+care which would ideally include specificprocedure-based clinical pathways (162,272)
+8. Preventing acute postoperative pain from becoming a
+chronic problem by optimizing the analgesic therapyboth before and after discharge from the surgicalfacility (65)
+Vol. 104, No. 6, June 2007 © 2007 International Anesthesia Research Society 1389
+make recommendations for each of these steps on a
+procedure-specific basis, as has been achieved for post-operative pain management (www.postoppain.org).
+Future advances in fast-track surgery will require
+interdisciplinary collaborations involving anesthetic,surgery and nursing care (Table 3) (269). However,anesthesiologists are the ones who make the impor-tant decisions regarding premedication, fluid manage-ment, anesthetic and adjuvant drugs, treatment of sideeffects, and pain management in the early postopera-tive period. Interventions to modify surgical stressresponses are also performed by anesthesiologists andinclude perioperative use of
+/H9252-blockers, glucocorticoid
+steroids, administration of fluids, as well as control ofstress-induced hyperglycemia by administering insu-lin (30,66,269). The effective control of stress responseswill likely prove to be advantageous with respect toimproving patient outcome. Furthermore, an expan-sion of the anesthesiologists’ interventions beyond theoperating and recovery rooms may also be necessary.Preliminary data suggest that positive outcome effectsmay be achieved when anesthesiologists participate inward rounds in the later postoperative period (270), orif an outreach service is established for early recogni-tion of organ dysfunction (271).
+Perioperative anesthetic care should, therefore, be
+considered as a multidisciplinary strategy to improvethe management and outcome of patients undergoingsurgery, rather than a subspeciality limited to onemedical profession (272). As a member of the multi-disciplinary team, the decisions of the anesthesiologist
+have a direct impact on the ability to achieve afast-track recovery after surgery (4,162). It has recentlybeen reported that an anesthesiologist-led manage-ment team improved OR efficiency (resulting in a 48%reduction in gap time between cases in the same OR)when defined scheduling policies were supported bysurgeons, nurses, and hospital administrators (273). Inaddition, the implementation of a multidisciplinaryapproach to minimizing common postoperative sideeffects can lead to a reduced recovery room andhospital stay, as well as better pain control and patientsatisfaction after surgery (274,275). However, moreprospectively randomized, controlled studies involv-ing multidisciplinary approaches to facilitating a fast-track recovery are needed.
+The role of the anesthesiologists would ideally
+expand beyond the time of hospitalization since effec-tive pain control after discharge is critically importantfor achieving successful convalescence (4,13,66,141).Anesthesiologists may contribute by encouraging theoptimal use of multimodal analgesia, as well as inimplementing novel techniques, which can improvepain control and minimize side effects (e.g., PONV,ileus) after the patient has been discharged home(2,84,226,233). The time is right for anesthesiologists totake a more active role as perioperative physicians inimplementing fast-track surgery programs.REFERENCES
+1. Kehlet H, Wilmore DW. Multimodal strategies to improve
+surgical outcome. Am J Surg 2002;183:630–41.
+2. White PF. Ambulatory anesthesia advances into the new
+millennium. Anesth Analg 2000;90:1234–5.
+3. Halaszynski TM, Juda R, Silverman DG. Optimizing postop-
+erative outcomes with efficient preoperative assessment andmanagement. Crit Care Med 2004;32:S76–86.
+4. Hensel M, Schwenk W, Bloch A, et al. The role of anesthesiol-
+ogy in fast track concepts in colonic surgery. Anaesthesist2006;55:80–92.
+5. White PF. Pharmacologic and clinical aspects of preoperative
+medication. Anesth Analg 1986;65:963–74.
+6. van Vlymen JM, Sa Rego MM, White PF. Benzodiazepine
+premedication: can it improve outcome in patients undergoing
+breast biopsy procedures. Anesthesiology 1999;90:740–7.
+7. Zaugg M, Tagliente T, Lucchinetti E, et al. Beneficial effects
+from
+/H9252-adrenergic blockade in elderly patients undergoing
+noncardiac surgery. Anesthesiology 1999;91:1674–86.
+8. Johansen JW, Flaishon R, Sebel PS. Esmolol reduces anesthetic
+requirement for skin incision during propofol/nitrousoxide/morphine anesthesia. Anesthesiology 1997;86:364–71.
+9. Chia YY, Chan MH, Ko NH, Liu K. Role of
+/H9252-blockade in
+anaesthesia and postoperative pain management after hyster-ectomy. Br J Anaesth 2004;93:799–805.
+10. Segal IS, Jarvis DJ, Duncan SR, et al. Clinical efficacy of
+oral-transdermal clonidine combinations during the perioper-ative period. Anesthesiology 1991;74:220–5.
+11. Arain SR, Ruehlow RM, Uhrich TD, Ebert TJ. The efficacy of
+dexmedetomidine versus morphine for postoperative analge-sia after major inpatient surgery. Anesth Analg 2004;98:153–8.
+12. Okuyama K, Inomata S, Toyooka H. The effects of prostaglan-
+din E
+1or oral clonidine premedication on blood loss during
+paranasal sinus surgery. Can J Anaesth 2005;52:546–7.
+13. Wu CT, Jao SW, Borel CO, et al. The effect of epidural clonidine
+on perioperative cytokine response, postoperative pain, andbowel function in patients undergoing colorectal surgery.Anesth Analg 2004;99:502–9.
+14. Mertes N, Goetters C, Kuhlmann M, Zander JF. Postoperative
+/H9251-2 adrenergic stimulation attenuates protein catabolism.
+Anesth Analg 1996;82:258–63.
+15. Belhoula M, Ciebiera JP, De La Chapelle A, et al. Clonidine
+premedication improves metabolic control in type 2 diabeticpatients during ophthalmic surgery. Br J Anaesth 2003;90:434–9.
+16. Wallace AW, Galindez D, Salahieh A, et al. Effect of clonidine
+on cardiovascular morbidity after noncardiac surgery. Anes-thesiology 2004;101:284–293.
+17. Lindenauer PK, Pekow P, Wang K, et al. Perioperative
+/H9252-blocker therapy and mortality after major noncardiac sur-
+gery. N Engl J Med 2005;353:349–61.
+18. Devereaux P, Beattie W, Choi P, et al. How strong is the
+evidence for the use of perioperative /H9252-blockers in patients
+undergoing noncardiac surgery? A systematic review andmetaanalysis. BMJ 2005;331:313–21.
+19. Herndon DN, Hart DW, Wolf SE, et al. Reversal of catabolism
+by
+/H9252-blockade after severe burns. N Engl J Med 2001;345:
+1223–9.
+20. Maltby JR, Sutherland AD, Sale JP, Shaffer EA. Preoperative
+oral fluids is a five-hour fast justified prior to elective surgery.Anesth Analg 1986;11:1112–16.
+21. Maltby JR, Pytka S, Watson NC, et al. Drinking 300 mL of clear
+fluid two hours before surgery has no effect on gastric fluidvolume and pH in fasting and non-fasting obese patients. CanJ Anaesth 2004;51:111–15.
+22. Yogendran S, Asokumar B, Cheng D, Chung F. A prospective,
+randomized double-blind study of the effect of intravenousfluid therapy on adverse outcomes after outpatient surgery.Anesth Analg 1995;80:682–6.
+23. Maharaj CH, Kallam SR, Malik A, et al. Preoperative intrave-
+nous fluid therapy decreases postoperative nausea and pain inhigh risk patients. Anesth Analg 2005;100:675–82.
+24. Magner JJ, McCaul C, Carton E, et al. Effect of intraoperative
+intravenous crystalloid infusion on postoperative nausea andvomiting after gynaecological laparoscopy: comparison of 30and 10 ml /H18528kg
+/H110021. Br J Anaesth 2004;93:381–5.
+1390 Role of Anesthesiologists in Fast-Track Surgery ANESTHESIA &ANALGESIA
+25. Holte K, Klarskov B, Christensen DS, et al. Liberal versus
+restrictive fluid administration to improve recovery after lapa-roscopic cholecystectomy: a randomized, double-blind study.Ann Surg. 2004;240:892–9.
+26. Ljungqvist O, Nygren J, Thorell A. Insulin resistance and
+elective surgery. Surgery 2000;128:757–60.
+27. Hausel J, Nygren J, Thorell A, et al. Randomized clinical trial of
+the effects of oral preoperative carbohydrates on postoperativenausea and vomiting after laparoscopic cholecystectomy. Br JSurg 2005;92:415–21.
+28. Bisgaard T, Kristiansen VB, Hjortsoe NC, et al. Randomized
+clinical trial comparing an oral carbohydrate beverage withplacebo before laparoscopic cholecystectomy. Br J Surg2004;91:151–8.
+29. Noblett SE, Watson DS, Huong W, et al. Pre-operative oral
+carbohydrate loading in colorectal surgery: a randomizedcontrolled trial. Colorectal Dis 2006;8:563–69.
+30. Grocott MP, Mythen MG, Gan TJ. Perioperative fluid manage-
+ment and clinical outcomes in adults. Anesth Analg 2005;100:1093–106.
+31. Holte K, Kehlet H. Fluid therapy and surgical outcomes in
+elective surgery: a need for reassessment in fast-track surgery.J Am Coll Surg 2006;202:971–89.
+32. Arkilic CF, Taguchi A, Charma N. Supplemental perioperative
+fluid administration increases tissue oxygen pressure. Surgery2003;133:49–55.
+33. Kabon B, Akca O, Taguchi A, et al. Supplemental intravenous
+crystalloid administration does not reduce the risk of surgicalwound infection. Anesth Analg 2005;101:1546–1553.
+34. Brandstrup B, Tonnesen H, Beier-Holgersen R, et al. The
+Danish Study Group on Perioperative Fluid Therapy. Effects ofintravenous fluid restriction on postoperative complications:comparison of two perioperative fluid regimens. A random-ized assessor-blinded multicenter trial. Ann Surg 2003;238:640–50.
+35. Nisanevich V, Felsenstein I, Almogy G, et al. Effect of intraop-
+erative fluid management on outcome after intra-abdominalsurgery. Anesthesiology 2005;103:25–32.
+36. Scheingraber S, Rehm M, Sehmisch C, Finsterer U. Rapid saline
+infusion produces hyperchloremic acidosis in patients under-going gynecologic surgery. Anesthesiology 1999;90:1265–70.
+37. Waters JH, Gottlieb A, Schoenwald P, et al. Normal saline
+versus lactated Ringer’s solution for intraoperative fluid man-agement in patients undergoing abdominal aortic aneurysm:an outcome study. Anesth Analg 2001;93:817–822.
+38. Gan TJ, Soppitt A, Maroof M, et al. Goal directed intraopera-
+tive fluid administration reduces length of hospital stay aftermajor surgery. Anesthesiology 2002;97:820–6.
+39. Venn R, Steele R, Richardson P, et al. Randomized controlled
+trial to investigate influence of the fluid challenge on durationof hospital stay and perioperative morbidity in patients withhip fractures. Br J Anaesth 2002;88:65–71.
+40. McAlister FA, Majumdar SR, Blitz S, et al. The relation between
+hyperglycemia and outcomes in 2471 patients admitted to thehospital with community-acquired pneumonia. Diabetes Care2005;28:810–15.
+41. Gandhi GY, Nuttall GA, Abel MD, et al. Intraoperative hyper-
+glycemia and perioperative outcomes in cardiac surgery pa-tients. Mayo Clin Proc 2005;80:862–6.
+42. Anderson RE, Klerdal K, Ivert T, et al. Are even impaired
+fasting glucose levels preoperatively associated with increasedmortality after CABG surgery. Eur Heart J 2005;26:1513–18.
+43. Quattara A, Lecomte P, LeManach Y, et al. Poor intraoperative
+blood glucose control is associated with a worsened hospitaloutcome after cardiac surgery in diabetic patients. Anesthesi-ology 2005;103:687–94.
+44. Rady MY, Ryan T, Starr NJ. Perioperative determinants of
+morbidity and mortality in elderly patients undergoing cardiacsurgery. Crit Care Med 1998;26:225–35.
+45. Van den Berghe G, Wouters P, Weekers F, et al. Intensive
+insulin therapy in critically ill patients. N Engl J Med2001;345:1359–67.
+46. Furnary A, Gao G, Grunkeimer GL, et al. Continuous insulin
+infusion reduces mortality in patients with diabetes undergo-ing coronary artery bypass grafting. J Thorac Cardiovasc Surg2003;125:1007–21.
+47. Furnary AP, Zerr K, Grunkemeier GL, Starr A. Continuous
+intravenous insulin infusion reduces the incidence of deepsternal wound infection in diabetic patients after cardiac
+surgical procedures. Ann Thorac Surg 1999;67:352–62.
+48. Visser L, Zuurbier CJ, Hoek FJ, et al. Glucose, insulin and
+potassium applied as perioperative hyperinsulinaemic normo-glycaemic clamp: effects on inflammatory response duringcoronary artery surgery. Br J Anaesth 2005;95:448–57.
+49. Krinsley JS. Effect of an intensive glucose management proto-
+col on the mortality of critically ill adult patients. Mayo ClinProc 2004;79:992–1000.
+50. London MJ, Grunwald GK, Shroyer AL, Grover FL. Asso-
+ciation of fast-track cardiac management and low-dose tomoderate-dose glucocorticoid administration with perioper-ative hyperglycemia. J Cardiothorac Vasc Anesth 2000;14:631–8.
+51. Kurz A, Sessler DI, Lenhardt R. Perioperative normothermia to
+reduce the incidence of surgical-wound infection and shortenhospitalization. Study of wound infection and temperaturegroup. N Engl J Med 1996;334:1209–15.
+52. Nesher N, Zisman E, Wolf T, et al. Strict thermoregulation
+attenuates myocardial injury during coronary artery bypassgraft surgery as reflected by reduced levels of cardiac-specifictroponin I. Anesth Analg 2003;96:328–35.
+53. Schmied H, Kurz A, Sessler DI, et al. Mild hypothermia
+increases blood loss and transfusion requirements during totalhip arthroplasty. Lancet 1996;347:289–92.
+54. Lenhardt R, Marker E, Goll V, et al. Mild intraoperative
+hypothermia prolongs postanesthetic recovery. Anesthesiol-ogy 1997;87:1318–23.
+55. Frank SM, Fleisher LA, Breslow MJ, et al. Perioperative main-
+tenance of normothermia reduces the incidence of morbidcardiac events. A randomized clinical trial. JAMA 1997;277:1127–34.
+56. Hamza MA, Schneider BE, White PF, et al. Heated and
+humidified insufflation during laparoscopic gastric bypasssurgery: effect on temperature, postoperative pain, and recov-ery outcomes. J Laparoendo Adv Surg Tech 2005;15:6–12.
+57. Chung F, Ritchie E, Su J. Postoperative pain in ambulatory
+surgery. Anesth Analg 1997;85:808–16.
+58. Andersen FM, Nielsen K, Kehlet H. Combined ilioinguinal
+blockade and local infiltration anaesthesia for groin herniarepair-a double-blind randomized study. Br J Anaesth2005;94:520–3.
+59. Callesen T, Bech K, Kehlet H. One-thousand inguinal hernia
+repairs under unmonitored local anesthesia. Anesth Analg2001;93:1373–76.
+60. Ben-David B, DeMeo PJ, Lucyk C, Solosko D. A comparison of
+mini-dose lidocaine-fentanyl spinal anesthesia and localanesthesia/propofol infusion for outpatient knee arthroscopy.Anesth Analg 2001;93:319–25.
+61. Kehlet H, White PF. Optimizing anesthesia for inguinal herni-
+orraphy: general, regional, or local anesthesia? (editorial).Anesth Analg 2001;93:1367–9.
+62. Song D, Greilich NB, White PF, et al. Recovery profiles and
+costs of anesthesia for outpatient unilateral inguinal hernior-rhaphy. Anesth Analg 2000;91:876–81.
+63. Sa Re ´go M, Watcha MF, White PF. The changing role of
+monitored anesthesia care in the ambulatory setting. AnesthAnalg 1997;85:1020–36.
+64. Bhananker SM, Posner KL, Cheney FW, et al. Injury and
+liability associated with monitored anesthesia care: a closedclaims analysis. Anesthesiology 2006;104:228–34.
+65. Kehlet H, Jensen TS, Woolf CJ. Persistent postsurgical pain:
+risk factors and prevention. Lancet 2006;367:1618–25.
+66. White PF. The changing role of non-opioid analgesic tech-
+niques in the management of postoperative pain. AnesthAnalg 2005;01:S5–22.
+67. Liu SS, Richman JM, Thirlby R, Wu CL. Efficacy of continu-
+ous wound catheters delivering local anesthetic for postop-erative analgesia: a quantitative and qualitative systematicreview of randomized controlled trials. J Am Coll Surg2006;203:914–32.
+68. White PF, Rawal S, Latham P, et al. Use of a continuous local
+anesthetic infusion for pain management after median sternot-omy. Anesthesiology 2003;99:918–23.
+69. Gupta A, Thorn SE, Axelsson K, et al. Postoperative pain relief
+using intermittent injections of 0.5% ropivacaine through acatheter after laparoscopic cholecystectomy. Anesth Analg2002;95:450–56.
+Vol. 104, No. 6, June 2007
+© 2007 International Anesthesia Research Society 1391
+70. Li S, Coloma M, White PF, et al. Comparison of the costs and
+recovery profiles of three anesthetic techniques for ambulatoryanorectal surgery. Anesthesiology 2000;93:1225–30.
+71. Jensen P, Mikkelsen T, Kehlet H. Postherniorraphy urinary
+retention—effect of local, regional, and general anesthesia: areview. Reg Anesth Pain Med 2002;27:587–89.
+72. Chan VWS, Peng PWH, Kaszas Z, et al. A comparative study
+of general anesthesia, intravenous regional anesthesia, andaxillary block for outpatient hand surgery. Clinical outcomeand cost. Anesth Analg 2001;93:1181–4.
+73. Hadzic A, Arliss J, Kerimoglu B, et al. A comparison of
+infraclavicular nerve block versus general anesthesia for handand wrist day-case surgeries. Anesthesiology 2004;101:127–32.
+74. Ritchie E, Tong D, Chung F, et al. Suprascapular nerve block
+for postoperative pain relief in arthroscopic shoulder surgery:a new modality? Anesth Analg 1997;84:1306–12.
+75. Neal JM, McDonald SB, Larkin KL, Polissar NL. Suprascapular
+nerve block prolongs analgesia after nonarthroscopic shouldersurgery, but does not improve outcome. Anesth Analg2003;96:982–6.
+76. McCartney CJ, Brull R, Chan VW, et al. Early but no long-term
+benefit of regional compared with general anesthesia forambulatory hand surgery. Anesthesiology 2004;101:461–7.
+77. Hadzic A, Williams BA, Karaca PE, et al. For outpatient rotator cuff
+surgery, nerve block anesthesia provides superior same-day recov-ery after general anesthesia. Anesthesiology 2005;102:1001–7.
+78. Hadzic A, Kerimoglu B, Loreio D, et al. Paravertebral blocks
+provides superior same-day recovery over general anesthesiain patients undergoing inguinal hernia repair. Anesth Analg2006;102:1076–81.
+79. Hadzic A, Karaca PE, Hobeika P, et al. Peripheral nerve blocks
+result in superior recovery profile compared with generalanesthesia in outpatient knee arthroscopy. Anesth Analg2005;100:976–81.
+80. Hadzic A. Is regional anesthesia really better than general
+anesthesia? [editorial]. Anesth Analg 2005;101:1631–3.
+81. Liu SS, Strodtbeck WM, Richman JM, Wu CL. A comparison of
+regional versus general anesthesia for ambulatory anesthesia: ameta-analysis of randomized controlled trials. Anesth Analg2005;101:1634–42.
+82. Ilfeld BM, Morey TE, Enneking FK. Continuous infraclavicular
+brachial plexus block for postoperative pain control at home: arandomized, double-blinded, placebo-controlled study. Anes-thesiology 2002;96:1297–304.
+83. White PF, Issioui T, Skrivanek GD, et al. The use of a
+continuous popliteal sciatic nerve block after surgery involvingthe foot and ankle: does it improve the quality of recovery.Anesth Analg 2003;97:1303–9.
+84. Ilfeld BM, Enneking FK. Continuous peripheral nerve blocks at
+home: a review. Anesth Analg 2005;100:1822–33.
+85. Capdevilla X, Dadure C, Bringuier S, et al. Effect of patient-
+controlled perineural analgesia on rehabilitation and pain afterambulatory orthopaedic surgery: a multicenter randomizedtrial. Anesthesiology 2006;105:566–73.
+86. Richman JM, Liu SS, Courpas G, et al. Does continuous
+peripheral nerve block provide superior pain control to opi-
+oids? A meta-analysis. Anesth Analg 2006;102:248–57.
+87. Liu S, Chiu A, Carpenter R, et al. Fentanyl prolongs lidocaine
+spinal anesthesia without prolonging recovery. Anesth Analg1995;80:730–4.
+88. Ben-David B, Solomon E, Levin H, et al. Intrathecal fentanyl
+with small-dose dilute bupivacaine: better anesthesia withoutprolonging recovery. Anesth Analg 1997;85:560–5.
+89. Ben-David B, Maryanovsky M, Gurevitch A, et al. A compari-
+son of minidose lidocaine-fentanyl and conventional doselidocaine spinal anesthesia. Anesth Analg 2000;91:865–70.
+90. Vaghadia H, McLeod DH, Mitchell GW, et al. Small-dose hypo-
+baric lidocaine-fentanyl spinal anesthesia for short duration out-patient laparoscopy. I. A randomised comparison with conven-tional dose hyperbaric lidocaine. Anesth Analg 1997;84:59–64.
+91. Lennox PH, Vaghadia H, Henderson C, et al. Small-dose
+selective spinal anesthesia for short-duration outpatient lapa-roscopy: recovery characteristics compared with desfluraneanesthesia. Anesth Analg 2002;94:346–50.
+92. Block MB, Liu SS, Rowlingson AJ, et al. Efficacy of postoperative
+epidural analgesia: a meta analysis. JAMA 2003;290:2455–63.
+93. Singh H, Bossard RF, White PH, Yeatts RW. Effects of ketorolac
+versus bupivacaine coadministration during patient-controlledhydromorphone epidural analgesia after thoracotomy proce-
+dures. Anesth Analg 1997;84:564–9.
+94. Schug SA, Sidebotham DA, McGuinnety M, et al. Acetamino-
+phen as an adjunct to morphine by patient-controlled analgesiain the management of acute postoperative pain. Anesth Analg1998;87:368–72.
+95. Wu CL, Cohen SR, Richman JM, et al. Efficacy of postoperative
+patient-controlled and continuous infusion epidural analgesiaversus intravenous patient-controlled analgesia with opioids.Anesthesiology 2005;103:1079–88.
+96. Rigg JR, Jamrozik K, Myles PS, et al. MASTER Anaesthesia
+Trial Study Group. Epidural anaesthesia and analgesia andoutcome of major surgery: a randomized trial. Lancet 2002;359:1276–82.
+97. Schricker T, Wykes L, Eberhart L, et al. The anabolic effect of
+epidural blockade requires energy and substrate supply. An-esthesiology 2002;97:943–51.
+98. Carli F, Halliday D. Continuous epidural blockade arrests the
+postoperative decrease in muscle protein fractional syntheticrate in surgical patients. Anesthesiology 1997;86:1033–40.
+99. Carli F, Mayo N, Klubien K, et al. Epidural analgesia enhances
+functional exercise capacity and health-related quality of lifeafter colon surgery. Anesthesiology 2002;97:540–9.
+100. Norris EJ, Beattie C, Perler BA, et al. Double-masked random-
+ized trial comparing alternate combinations of intraoperativeanesthesia and postoperative analgesia in abdominal aorticsurgery. Anesthesiology 2001;95:1054–67.
+101. Brodner G, Pogatzki E, Van Aken H, et al. A multimodal
+approach to control postoperative pathophysiology and reha-bilitation in patients undergoing abdominothoracic esophagec-tomy. Anesth Analg 1998;86:228–34.
+102. Liu SS, Carpenter RL, Mackey DC, et al. Effects of periopera-
+tive analgesic technique on rate of recovery after colon surgery.Anesthesiology 1995;83:757–65.
+103. Steinbrook RA. Epidural anesthesia and gastrointestinal motil-
+ity. Anesth Analg 1998;86:837–44.
+104. Zutshi M, Delaney CP, Senagore AJ, et al. Randomized con-
+trolled trial comparing the controlled rehabilitation with earlyambulation and diet pathway versus the controlled rehabilita-tion with early ambulation and diet with preemptive epiduralanesthesia/analgesia after laparotomy and intestinal resection.Am J Surg 2005;189:268–72.
+105. Capdevila X, Barthelet Y, Biboulet P, et al. Effects of perioper-
+ative analgesic technique on the surgical outcome and durationof rehabilitation after major knee surgery. Anesthesiology1999;91:8–15.
+106. Foss NB, Kristensen BB, Jensen PS, Kehlet H. Effect of postop-
+erative epidural analgesia and pain after hip fracture surgery:a randomized, double-blind, placebo-controlled trial. Anesthe-siology 2005;102:1197–1204.
+107. Taqi A, Hong X, Mistraletti G, et al. Thoracic epidural analge-
+sia facilitates the restoration of bowel function and dietaryintake in patients undergoing laparoscopic colon resectionusing a traditional, nonaccelerated, perioperative care pro-gram. Surg Endosc 2006;20:1–7.
+108. Wolff BG, Michelassi F, Gerkin TM, et al. Alvimopan Postop-
+erative Ileus Study Group. Alvimopan, a novel, peripherallyacting
+/H9262opioid antagonist: results of a multicenter, random-
+ized, double-blind, placebo-controlled, phase III trial of majorabdominal surgery and postoperative ileus. Ann Surg2004;240:728–34.
+109. Carli F, Kehlet H. Continuous epidural analgesia for colonic
+surgery—what about the future? Reg Anesth Pain Med2005;30:140–2.
+110. Zarate E, Latham P, White PF, et al. Fast-track cardiac anes-
+thesia: a comparison of remifentanil plus intrathecal morphinewith sufentanil in a desflurane-based anesthetic. Anesth Analg2000;91:283–7.
+111. Bettex DA, Schmidlin D, Chassot PG, Schmid ER. Intrathecal
+sufentanil-morphine shortens the duration of intubation andimproves analgesia in fast-track cardiac surgery. Can J Anaesth2002;49:711–17.
+112. Lena P, Balarac N, Arnulf JJ, et al. Fast-track coronary artery
+bypass grafting surgery under general anesthesia withremifentanil and spinal analgesia with morphine andclonidine. J Cardiothorac Vasc Anesth 2005;19:49–53.
+113. Cheng DCH. Regional analgesia and ultra-fast track cardiac
+anesthesia. Can J Anesth 2005;52:12–17.
+1392 Role of Anesthesiologists in Fast-Track Surgery ANESTHESIA &ANALGESIA
+114. White PF. Choice of peripheral nerve block for inguinal
+herniorrhaphy: is better the enemy of good. Anesth Analg2006;102:1073–5.
+115. Taylor E, Ghouri AF, White PF. Midazolam in combination
+with propofol for sedation during local anesthesia. J ClinAnesth 1992;4:213–16.
+116. Arain SR, Ebert TJ. The efficacy, side effects, and recovery
+characteristics of dexmedetomidine versus propofol whenused for intraoperative sedation. Anesth Analg 2002;95:461–6.
+117. Badrinath S, Avramov MN, Shadrick M, et al. The use of a
+ketamine-propofol combination during monitored anesthesiacare. Anesth Analg 2000;90:858–62.
+118. Gesztesi Z, Sa Rego MM, White PF. The comparative effective-
+ness of fentanyl and its newer analogs during extracorporealshock wave lithotripsy under monitored anesthesia care.Anesth Analg 2000;90:567–70.
+119. Sa Rego MM, Inagaki Y, White PF. Remifentanil administration
+during monitored anesthesia care: are intermittent boluses aneffective alternative to a continuous infusion? Anesth Analg1999;88:518–22.
+120. Pavlin DJ, Rapp SE, Polissar NL, et al. Factors affecting discharge
+time in adult outpatients. Anesth Analg 1998;87:816–26.
+121. Tang J, Chen L, White PF, et al. Recovery profile, costs, and
+patient satisfaction with propofol and sevoflurane for fast-track office-based anesthesia. Anesthesiology 1999;91:253–261.
+122. Song D, Joshi GP, White PF. Fast-track eligibility after ambu-
+latory anesthesia: a comparison of desflurane, sevoflurane, andpropofol. Anesth Analg 1998;86:267–73.
+123. Fredman B, Sheffer O, Zohar E, et al. Fast-track eligibility of
+geriatric patients undergoing short urologic surgery proce-dures. Anesth Analg 2002;94:560–4.
+124. Tang J, White PF, Wender RH, et al. Fast-track office-based
+anesthesia: a comparison of propofol versus desflurane withantiemetic prophylaxis in spontaneously breathing patients.Anesth Analg 2001;92:95–9.
+125. Tang J, Chen L, White PF, et al. A use of propofol for
+office-based anesthesia: effect of nitrous oxide on recoveryprofile. J Clin Anesth 1999;11:226–30.
+126. Song D, White PF. Remifentanil as an adjuvant during desflu-
+rane anesthesia facilitates early recovery after ambulatorysurgery. J Clin Anesth 1999;11:364–7.
+127. Song D, Whitten CW, White PF. Remifentanil infusion facili-
+tates early recovery for obese outpatients undergoing laparo-scopic cholecystectomy. Anesth Analg 2000;90:1111–13.
+128. Smith I, Van Hemelrijck J, White PF. Efficacy of esmolol versus
+alfentanil as a supplement to propofol-nitrous oxide anesthe-sia. Anesth Analg 1991;73:540–6.
+129. Coloma M, Chiu JW, White PF, Armbruster SC. The use of
+esmolol as an alternative to remifentanil during desfluraneanesthesia for fast-track outpatient gynecologic laparoscopicsurgery. Anesth Analg 2001;92:352–7.
+130. White PF, Wang B, Tang J, et al. The effect of intraoperative use
+of esmolol and nicardipine on recovery after ambulatorysurgery. Anesth Analg 2003;97:1633–8.
+131. Joshi GP, Inagaki Y, White PF, et al. Use of the laryngeal mask
+airway as an alternative to the tracheal tube during anesthesia.Anesth Analg 1997;85:573–7.
+132. Tang J, Joshi GP, White PF. Comparison of rocuronium and
+mivacurium to succinylcholine during outpatient laparoscopicsurgery. Anesth Analg 1996;82:994–8.
+133. Murphy GS, Szokol JW, Marymont JH, et al. Impact of shorter-
+acting neuromuscular blocking agents on fast-track recovery ofthe cardiac surgery patient. Anesthesiology 2002;96:600–6.
+134. Miller RD. Sugammadex: An opportunity to change the prac-
+tice of anesthesiology? Anesth Analg 2007;104:477–8.
+135. Sacan O, White PF, Tufanogullari Sayin B, Klein K. Sugamma-
+dex reversal of rocuronium-induced neuromuscular blockade:a comparison with neostigmine-glycopyrrolate and edrophonium-
+atrophine. Anesth Analg 2007;104:569–74.
+136. Apfel CC, Kranke P, Katz MH, et al. Volatile anaesthetics may
+be the main cause of early but not delayed postoperativevomiting: a randomized controlled trial of factorial design. Br JAnaesth 2002;88:659–68.
+137. Tang J, Chen X, White PF, et al. Antiemetic prophylaxis for
+office-based surgery: are the 5-HT3 receptor antagonists ben-
+eficial. Anesthesiology 2003;98:293–8.138. Apfel CC, Korttila K, Abdalla M, et al. IMPACT Investigators. A
+factorial trial of six interventions for the prevention of postoperativenausea and vomiting. N Engl J Med 2004;350:2441–51.
+139. Romundstad L, Breivik H, Roald H, et al. Methylprednisolone
+reduces pain, emesis, and fatigue after breast augmentationsurgery: a single-dose, randomised, parallel-group study withmethylprednisolone 125 mg, parecoxib 40 mg, and placebo.Anesth Analg 2006;102:418–25.
+140. White PF. Prevention of postoperative nausea and vomiting—a
+multimodal solution to a persistent problem. N Engl J Med2004;350:2511–12.
+141. Kehlet H. Postoperative opioid sparing to hasten recovery.
+What are the issues? Anesthesiology 2005;102:1983–5.
+142. Coloma M, Zhou T, White PF, et al. Fast-tracking after outpa-
+tient laparoscopy: reasons for failure after propofol, sevoflu-rane and desflurane anesthesia. Anesth Analg 2001;93:112–15.
+143. Apfelbaum JL, Walawander CA, Grasela TH, et al. Eliminating
+intensive postoperative care in same-day surgery patientsusing short-acting anesthetics. Anesthesiology 2002;97:66–74.
+144. Patel RI, Verghese ST, Hannallah RS, et al. Fast-tracking
+children after ambulatory surgery. Anesth Analg 2001;92:918–22.
+145. Gan TJ, Glass PS, Windsor A, et al. Bispectral index monitoring
+allows faster emergence and improved recovery from propo-fol, alfentanil, and nitrous oxide anesthesia. BIS Utility Group.Anesthesiology 1997;87:808–17.
+146. Song D, Joshi GP, White PF. Titration of volatile anesthetics
+using bispectral index facilitates recovery after ambulatoryanesthesia. Anesthesiology 1997;87:842–8.
+147. Song D, van Vlymen J, White PF. Is the bispectral index useful
+in predicting fast-track eligibility after ambulatory anesthesiawith propofol and desflurane. Anesth Analg 1998;87:1245–8.
+148. White PF, Ma H, Tang J, et al. Does the use of electroencepha-
+lographic bispectral index or auditory evoked potential indexmonitoring facilitate recovery after desflurane anesthesia in theambulatory setting? Anesthesiology 2004;100:811–17.
+149. Zohar E, Luban I, White PF, et al. Bispectral index monitoring
+does not improve early recovery of geriatric outpatients un-dergoing brief surgical procedures. Can J Anaesth 2006;53:20–25.
+150. Pavlin DJ, Chen C, Penazola DA, et al. Pain as a factor
+complicating recovery and discharge after ambulatory surgery.Anesth Analg 2003;97:1627–32.
+151. Strassels SA, Chen C, Carr DB. Postoperative analgesia: eco-
+nomics, resource use, and patient satisfaction in an urbanteaching hospital. Anesth Analg 2002;94:130–7.
+152. Mattila K, Toivonen J, Janhunen L, et al. Postdischarge symp-
+toms after ambulatory surgery: first-week incidence, intensity,and risk factors. Anesth Analg 2005;101:1643–50.
+153. Wu Cl, Rowlingson AJ, Partin AW, et al. Correlation of
+postoperative pain to quality of recovery in the immediatepostoperative period. Reg Anesth Pain Med 2005;30:516–22.
+154. Liu SS, Wu CL. The effect of postoperative analgesia on major
+postoperative complications: a systematic update of the evi-dence. Anesth Analg 2007;104:689–702.
+155. Guignard B, Bossard AE, Coste C, et al. Acute opioid tolerance:
+intraoperative remifentanil increases postoperative pain andmorphine requirement. Anesthesiology 2000;93:409–17.
+156. Oderda GM, Evans S, Lloyd J, et al. Cost of opioid-related
+adverse drug events in surgical patients. J Pain SymptomManage 2003;25:276–83.
+157. Parker RK, Holtmann B, White PF. Patient-controlled analge-
+sia. Does a concurrent opioid infusion improve pain manage-ment after surgery? JAMA 1991;266:1947–52.
+158. White PF, Kehlet H. Improving pain management: Are we
+jumping from the frying pan into the fire? Anesth Analg2007;105 (In press).
+159. Kehlet H, Dahl JB. The value of “multimodal” or “balanced
+analgesia” in postoperative pain treatment. Anesth Analg1993;77:1048–56.
+160. Michaloliakou C, Chung F, Sharma S. Preoperative multimo-
+dal analgesia facilitates recovery after ambulatory laparoscopiccholecystectomy. Anesth Analg 1996;83:44–51.
+161. Eriksson H, Tenhunen A, Korttila K. Balanced analgesia im-
+proves recovery and outcome after outpatient tubal ligation.Acta Anaesth Scand 1996;40:151–5.
+162. Kehlet H, Dahl JB. Anesthesia, surgery and challenges in
+postoperative recovery. Lancet 2003;362:1921–8.
+Vol. 104, No. 6, June 2007
+© 2007 International Anesthesia Research Society 1393
+163. Rawal N, Allvin R, Amilon A, et al. Postoperative analgesia at
+home after ambulatory hand surgery: a controlled comparisonof tramadol, metamizol, and paracetamol. Anesth Analg2001;92:347–51.
+164. Edwards JE, McQuay HJ, Moore RA, Collins SL. Reporting of
+adverse events in clinical trials should be improved: lessonsfrom acute postoperative pain. J Pain Symptom Manage1999;18:427–37.
+165. Gray A, Kehlet H, Bonnet F, Rawal N. Predicting postoperative
+analgesia outcomes: NNT league tables or procedure-specificevidence? Br J Anaesth 2005;94:710–14.
+166. Cepeda MS, Miranda N, Diaz A, et al. Comparison of mor-
+phine, ketorolac, and their combination for postoperative pain:results from a large, randomized, double blind trial. Anesthe-siology 2005;103:1225–32.
+167. Ashburn MA, Caplan RA, Carr DB, et al. Practice guidelines
+for acute pain management in the perioperative setting. Anupdated report by the American Society of AnesthesiologistsTask Force on Pain Management. Anesthesiology 2004;100:1573–81.
+168. Marret E, Kurdi O, Zufferey P, Bonnet F. Effects of nonsteroi-
+dal antiinflammatory drugs on patient-controlled analgesiamorphine side effects. Meta-analysis of randomized controlledtrials. Anesthesiology 2005;102:1249–60.
+169. Elia N, Lysakowski C, Tramer MR. Does multimodal analgesia
+with acetaminophen, nonsteroidal anti-inflammatory drugs, orselective cyclooxygenase-2 inhibitors and patient-controlledanalgesia morphine offer advantages over morphine alone?Meta-analysis of randomized trials. Anesthesiology 2005;103:1296–04.
+170. White PF, Sacan O, Tufanogullari B, et al. Effect of short-term
+postoperative celecoxib administration on patient outcomeafter outpatient laparoscopic surgery. Can J Anesth 2007;54.
+171. Remy C, Marret E, Bonnet F. Effects of acetaminophen on
+morphine side-effects and consumption alter major surgery:meta-analysis of randomized controlled trials. Br J Anaesth2005;94:505–13.
+172. Curatolo M, Sveticic G. Drug combinations in pain treatment:
+a review of the Publisher evidence and a method for findingthe optimal combination. Best Prac Res Clin Anaesthesiol2002;16:507–19.
+173. Gilron I, Milne B, Hong M. Cyclooxygenase-2 inhibitors in
+postoperative pain management. Current evidence and futuredirections. Anesthesiology 2003;99:1198–1208.
+174. Sarantopoulos C, Fassoulaki A. Systemic opioids enhance the
+spread of sensory analgesia produced by intrathecal lidocaine.Anesth Analg 1994;79:94–7.
+175. Moiniche S, Jorgensen H, Wetterslev J, Dahl JB. Local anes-
+thetic infiltration for postoperative pain relief after laparos-copy: a qualitative and quantitative systematic review ofintraperitoneal, port-site infiltration, and mesosalpinx block.Anesth Analg 2000;90:899–912.
+176. Walker SM, Goudas LC, Cousins MJ, Carr DB. Combination
+spinal analgesic chemotherapy: a systematic review. AnesthAnalg 2002;95:674–715.
+177. Edwards JE, McQuay HJ, Moore RA. Combination analgesic
+efficacy: individual patient data meta-analysis of single-doseoral tramadol plus acetaminophen in acute postoperative pain.J Pain Symptom Manage 2002;23:121–30.
+178. Romsing J, Moiniche S, Dahl JB. Rectal and parenteral parac-
+etamol, and paracetamol in combination with NSAIDs, forpostoperative analgesia. Br J Anaesth 2002;88:215–26.
+179. Zhang WY, Li Wan Po A. Analgesic efficacy of paracetamol
+and its combination with codeine and caffeine in surgicalpain—a meta-analysis. J Clin Pharm Ther 1996;21:261–82.
+180. Armand S, Langlade A, Boutros A, et al. Meta-analysis of the
+efficacy of extradural clonidine to relieve postoperative pain:an impossible task. Br J Anaesth 1998;81:126–34.
+181. Dierking G, Duedahl TH, Rasmussen ML, et al. Effects of
+gabapentin on postoperative morphine consumption and painafter abdominal hysterectomy: a randomized, double-blindtrial. Acta Anaesthesiol Scand 2004;48:322–7.
+182. Fassoulaki A, Patris K, Sarantopoulos C, Hogan Q. The anal-
+gesic effect of gabapentin and mexiletine after breast surgeryfor cancer. Anesth Analg 2002;95:985–91.183. Fassoulaki A, Triga A, Melemeni A, Sarantopoulos C. Multi-
+modal analgesia with gabapentin and local anesthetics pre-vents acute and chronic pain after breast surgery for cancer.Anesth Analg 2005;101:1427–32.
+184. Turan A, White PF, Karamanlioglu B, et al. Gabapentin: an
+alternative to the cyclooxygenase-2 inhibitors for perioperativepain management. Anesth Analg 2006;102:175–81.
+185. Turan A, Kaya G, Karamanlioglu B, et al. Effect of oral
+gabapentin on postoperative epidural analgesia. Br J Anaesth2006;96:242–6.
+186. Aasboe V, Raeder JC, Groegaard B. Betamethasone reduces
+postoperative pain and nausea after ambulatory surgery.Anesth Analg 1998;87:319–23.
+187. Holte K, Kehlet H. Perioperative single-dose glucocorticoid
+administration pathophysiologic effects and clinical implica-tions. J Am Coll Surg 2002;195:694–712.
+188. Moiniche S, Kehlet H, Dahl JB. A qualitative and quantitative
+systematic review of preemptive analgesia for postoperativepain relief: the role of timing of analgesia. Anesthesiology2002;96:725–41.
+189. Romundstad L, Breivik H, Niemi G, et al. Methylprednisolone
+intravenously 1 day after surgery has sustained analgesic andopioid-sparing effects. Acta Anaesthesiol Scand 2004;48:1223–31.
+190. Aida S, Yamakura T, Baba H, et al. Preemptive analgesia by
+intravenous low-dose ketamine and epidural morphine ingastrectomy: a randomized double-blind study. Anesthesiol-ogy 2000;92:1624–30.
+191. Bolcal C, Iyem H, Sargin M, et al. Comparison of magnesium
+sulfate with opioid and NSAIDs on postoperative pain man-agement after coronary artery bypass surgery. J CardiothoracVasc Anesth 2005;19:714–18.
+192. Duedahl TH, Romsing J, Moiniche S, Dahl JB. A qualitative
+systematic review of peri-operative dextromethorphan in post-operative pain. Acta Anaesthesiol Scand 2006;50:1–13.
+193. McCartney CJ, Sinha A, Katz J. A qualitative systematic review
+of the role of N-methyl- d-aspartate receptor antagonists in
+preventive analgesia. Anesth Analg 2004;98:1385–400.
+194. Seyhan TO, Tugrul M, Sungur MO, et al. Effects of three
+different dose regimens of magnesium on propofol require-ments, haemodynamic variables and postoperative pain reliefin gynaecological surgery. Br J Anaesth 2006;96:247–52.
+195. Lynch ME. Antidepressants as analgesics: a review of random-
+ized controlled trials. J Psychiatry Neurosci 2001;26:30–6.
+196. Beilin B, Bessler H, Papismedov L, et al. Continuous physostig-
+mine combined with morphine-based patient-controlled anal-gesia in the postoperative period. Acta Anaesthesiol Scand2005;49:78–84.
+197. Chia YY, Chang TH, Liu K, et al. The efficacy of thoracic
+epidural neostigmine infusion after thoracotomy. AnesthAnalg 2006;102:201–8.
+198. Ho KM, Ismail H, Lee KC, Branch R. Use of intrathecal
+neostigmine as an adjunct to other spinal medications inperioperative and peripartum analgesia: a meta-analysis. An-aesth Intensive Care 2005;33:41–53.
+199. Poyhia R. Cholinergic mechanisms of analgesia. Acta Anaes-
+thesiol Scand 2000;44:1033–4.
+200. Lin T, Yeh Y, Yen Y, et al. Antiemetic and analgesic-sparing
+effects of diphenhydramine added to morphine intravenouspatient-controlled analgesia. Br J Anaesth 2005;94:835–9.
+201. Lauretti GR, de Oliveira R, Reis MPD, et al. Transdermal
+nitroglycerine enhances spinal sufentanil postoperative anal-gesia following orthopedic surgery. Anesthesiology 1999;90:734–9.
+202. Sen S, Ugur B, Aydin ON, et al. The analgesic effect of
+nitroglycerin added to lidocaine on intravenous regional anes-thesia. Anesth Analg 2006;102:916–20.
+203. Atanassoff PG, Hartmannsgruber MW, Thrasher J, et al. Zi-
+conotide, a new N-type calcium channel blocker, administeredintrathecally for acute postoperative pain. Reg Anesth PainMed 2000;25:274–8.
+204. Choe H, Kim JS, Ko SH, et al. Epidural verapamil reduces
+analgesic consumption after lower abdominal surgery. AnesthAnalg 1998;86:786–90.
+205. Coloma M, White PF, Huber PJ, et al. The effect of ketorolac on
+recovery after anorectal surgery: intravenous versus localadministration. Anesth Analg 2000;90:1107–10.
+1394 Role of Anesthesiologists in Fast-Track Surgery ANESTHESIA &ANALGESIA
+206. Ma H, Tang J, White PF, et al. Perioperative rofecoxib improves
+early recovery after outpatient herniorrhaphy. Anesth Analg2004;98:970–5.
+207. Hyllested M, Jones S, Pedersen JL, Kehlet H. Comparative
+effect of paracetamol, NSAIDs or their combination in postop-erative pain management: a qualitative review. Br J Anaesth2002;88:199–214.
+208. Issioui T, Klein KW, White PF, et al. The efficacy of premedi-
+cation with celecoxib and acetaminophen in preventing painafter otolaryngologic surgery. Anesth Analg 2002;94:1188–93.
+209. Issioui T, Klein KW, White PF, et al. Cost-efficacy of rofecoxib
+versus acetaminophen for preventing pain after ambulatorysurgery. Anesthesiology 2002;97:931–7.
+210. Watcha MF, Issioui T, Klein KW, White PF. Costs and effec-
+tiveness of rofecoxib, celecoxib, and acetaminophen for pre-venting pain after ambulatory otolaryngologic surgery. AnesthAnalg 2003;96:987–94.
+211. Lauretti GR, Mattos AL, Lima IC. Tramadol and
+/H9252-cyclodextrin
+piroxicam: effective multimodal balanced analgesia for theintra- and postoperative period. Reg Anesth 1997;22:243–8.
+212. Yeh CC, Wu CT, Lee MS, et al. Analgesic effects of preinci-
+sional administration of dextromethorphan and tenoxican fol-lowing laparoscopic cholecystectomy. Acta AnaesthesiolScand 2004;48:1049–53.
+213. Yeh CC, Jao SW, Huh BK, et al. Preincisional dextromethor-
+phan combined with thoracic epidural anesthesia and analge-sia improves postoperative pain and bowel function in patientsundergoing colonic surgery. Anesth Analg 2005;100:1384–9.
+214. Pedersen JL, Lilleso J, Hammer NA, et al. Bupivacaine in micro-
+capsules prolongs analgesia after subcutaneous infiltration inhumans: a dose-finding study. Anesth Analg 2004;99:912–18.
+215. Rose JS, Neal JM, Kopacz DJ. Extended-duration analgesia:
+update on microspheres and liposomes. Reg Anesth Pain Med2005;30:275–85.
+216. Soderberg L, Dyhre H, Roth B, Bjorkman S. Ultralong periph-
+eral nerve block by lidocaine:prilocaine 1:1 mixture in a lipiddepot formulation: comparison of in vitro, in vivo, and effectkinetics. Anesthesiology 2006;104:110–21.
+217. Klein SM, Evans H, Nielsen KC, et al. Peripheral nerve block
+techniques for ambulatory surgery. Anesth Analg 2005;101:1663–76.
+218. White PF, Song D. New criteria for fast-tracking after outpa-
+tient anesthesia: a comparison with the modified Aldrete’sscoring system. Anesth Analg 1999;88:1069–72.
+219. Watcha M, White PF. Postoperative nausea and vomiting. Its etiol-
+ogy, treatment, and prevention. Anesthesiology 1992;77:162–84.
+220. Apfel CC, Roewer N. Risk assessment of postoperative nausea
+and vomiting. Int Anesthesiol Clin 2003;41:13–32.
+221. White PF, Watcha M. Postoperative nausea and vomiting:
+Prophylaxis versus treatment. Anesth Analg 1999;89:1337–9.
+222. Scuderi PE, James RL, Harris L, Mims GR. Multimodal anti-
+emetic management prevents early postoperative vomitingafter outpatient laparoscopy. Anesth Analg 2000;91:1408–14.
+223. Lee A, Done M. The use of nonpharmacologic techniques to
+prevent postoperative nausea and vomiting: a meta-analysis.Anesth Analg 1999;88:1362–9.
+224. White PF, Issioui T, Hu J, et al. Comparative efficacy of
+acustimulation (ReliefBand) versus ondansetron (Zofran) incombination with droperidol for preventing nausea and vom-iting. Anesthesiology 2002;97:1075–81.
+225. Gan TJ, Jiao KR, Zenn M, Georgiade G. A randomized con-
+trolled comparision of electro-acupoint stimulation or ondan-setron versus placebo for the prevention of postoperativenausea and vomiting. Anesth Analg 2004;99:1070–5.
+226. White PF. Use of alternative medical therapies in the perioperative
+period: is it time to get on board? Anesth Analg. 2007;104:251–4.
+227. Holte K, Kehlet H. Postoperative ileus: a preventable event.
+Br J Surg 2000;87:1480–93.
+228. Baig MK, Wexner SD. Postoperative ileus: a review. Dis Colon
+Rectum 2004;47:516–26.
+229. Basse L, Torbol JE, Lossel K, Kehlet H. Colonic surgery with
+accelerated rehabilitation or conventional care. Dis ColonRectum 2004;47:271–8.
+230. Joshi GP. Intraoperative fluid restriction improves outcome
+after major elective gastrointestinal surgery. Anesth Analg
+2005;101:601–5.231. Lobo DN, Bostock KA, Neal KR, et al. Effect of salt and water balance
+on recovery of gastrointestinal function after elective colonic resec-
+tion: a randomized controlled trial. Lancet 2002;359:1812–18.
+232. Delaney CP, Weese JL, Hyman NH, et al. Phase III trial of
+alvimopan, a novel, peripherally acting,
+/H9262opioid antagonist,
+for postoperative ileus after major abdominal surgery. DisColon Rectum 2005;48:1114–25.
+233. Viscusi ER, Goldstein S, Witkowski T, et al. Alvimopan, a
+peripherally acting
+/H9262-opiod receptor antagonist, compared
+with placebo in postoperative ileus after major abdominalsurgery. Results of a randomized, double-blind, controlledstudy. Surg Endosc 2006;20:64–70.
+234. Raeder JC, Steine S, Vatsgar TT. Oral ibuprofen versus parac-
+etamol plus codeine for analgesia after ambulatory surgery.Anesth Analg 2001;92:1470–2.
+235. Bozzetti F, Braga M, Gianotti G, Mariani L. Postoperative
+enteral versus parenteral nutrition in malnourished patients
+with gastrointestinal cancer: a randomized multicentre trial.Lancet 2001;358:1487–92.
+236. Soop M, Carlson GL, Hopkinson J, et al. Randomized clinical
+trial of the effects of immediate enteral nutrition on metabolicresponses to major colorectal surgery in an enhanced recoveryprotocol. Br J Surg 2004;91:1138–45.
+237. Gabor S, Renner H, Matzi V, et al. Early enteral feeding
+compared with parenteral nutrition after oesophageal or oe-sophagogastric resection and reconstruction. Br J Nutr 2005;93:509–13.
+238. Veterans Affairs Total Parenteral Nutrition Study Group. Peri-
+operative parenteral nutrition in surgical patients. N EnglJ Med 1991;325:525–9.
+239. Schricker T, Meterissian S, Eberhardt L, et al. Postoperative
+protein sparing with epidural analgesia and hypocaloric dex-trose. Ann Surg 2004;240:916–21.
+240. Holte K, Kehlet H. Epidural anaesthesia and analgesia—effects
+on surgical stress responses and implications for postoperativenutrition. Clin Nutr 2002;21:199–206.
+241. Delaney CP, Zutshi M, Senagore AJ, et al. Prospective, ran-
+domized, controlled trial between a pathway of controlledrehabilitation with early ambulation and diet and traditionalpostoperative care after laparotomy and intestinal resection.Dis Colon Rectum 2003;46:851–9.
+242. Zutshi M, Delaney CP, Senagore AJ, Fazio VW. Shorter hospi-
+tal stay associated with fastrack postoperative care pathwaysand laparoscopic intestinal resection are not associated withincreased physical activity. Colorectal Dis 2004;6:477–80.
+243. Kercher KW, Heniford BT, Matthews BD, et al. Laparoscopic
+versus open nephrectomy in 210 consecutive patients: out-comes, cost, and changes in practice patterns. Surg Endosc2003;17:1889–95.
+244. Abraham NS, Young JM, Solomon MJ. Meta-analysis of short-
+term outcomes after laparoscopic resection for colorectal can-cer. Br J Surg 2004;91:1111–24.
+245. Kehlet H, Kennedy RH. Laparoscopic colonic surgery—mission
+accomplished or work in progress. Colorectal Dis 2006;8:514–17.
+246. Basse L, Jakobsen DH, Bardram L, et al. Functional recovery
+after open versus laparoscopic colonic resection: a random-ized, blinded study. Ann Surg 2005;241:416–23.
+247. Katkhouda N, Mason RJ, Towfigh GA, Essani R. Laparoscopic
+versus open appendectomy. A prospective randomizeddouble-blind study. Ann Surg 2005;242:439–50.
+248. Raue W, Haase O, Junghans T, et al. “Fast-track” multimodal
+rehabilitation program improves outcome after laparoscopicsigmoidectomy: a controlled prospective evaluation. Surg En-dosc 2004;18:1463–8.
+249. Jakobsen DH, Sonne E, Andreasen J, Kehlet H. Convalescence
+after colonic surgery with fast-track vs conventional care.Colorectal Dis 2006;8:683–7.
+250. Nygren J, Hausel J, Kehlet H, et al. A comparison in five
+European Centres of case mix, clinical management and out-comes following either conventional or fast-track perioperativecare in colorectal surgery. Clin Nutr 2005;24:455–61.
+251. Englelman RM. Mechanisms to reduce hospital stays. Ann
+Thorac Surg 1996;61:S26–9.
+252. Grantcharov TP, Rosenberg J. Vertical compared with trans-
+verse incisions in abdominal surgery. Eur J Surg 2001;167:260–7.
+Vol. 104, No. 6, June 2007
+© 2007 International Anesthesia Research Society 1395
+253. Lindgren PG, Nordgren SR, O ¨resland T, Hulte ´n L. Midline or
+transverse abdominal incision for right-sided colon cancer—arandomized trial. Colorectal Dis 2000;3:46–50.
+254. Nelson R, Tse B, Edwards S. Systematic review of prophylactic
+nasogastric decompression after abdominal operations. Br JSurg 2005;92:673–80.
+255. Petrowsky H, Demartines N, Rousson V, Clavien PA.
+Evidence-based value of prophylactic drainage in gastrointes-tinal surgery. A systematic review and meta-analyses. AnnSurg 2004;420:1074–85.
+256. Bucher P, Mermillod B, Gervaz P, Morel P. Mechanical bowel
+preparation for elective colorectal surgery. A meta-analysis.Arch Surg 2004;139:1359–64.
+257. Slim K, Vicaut E, Panis Y, Chipponi J. Meta-analysis of
+randomized clinical trials of colorectal surgery with or withoutmechanical bowel preparation. Br J Surg 2004;91:1125–30.
+258. Lewis SJ, Egger M, Sylvester PA, Thomas S. Early interal
+feeding versus “nil per mouth” after gastrointestinal surgery:systematic review and meta-analysis of controlled trials. BMJ2001;323:773–6.
+259. Carli F, Zavorsky GS. Optimizing functional exercise capacity
+in the elderly surgical population. Curr Opin Clin Nutr MetabCare 2005;8:23–32.
+260. Arthur HM, Daniels C, McKelvie R, et al. Effect of a preopera-
+tive intervention on preoperative and postoperative outcomesin low-risk patients awaiting elective coronary artery bypassgraft surgery. A randomized, controlled trial. Ann Intern Med2000;133:253–62.
+261. Hulzebos EHJ, Helders PJM, Favie NJ, et al. Preoperative inten-
+sive inspiratory muscle training to prevent postoperative pulmo-nary complications in high risk patients undergoing CABGsurgery. A Randomized Clinical Trial. JAMA 2006;296:1851–7.
+262. Gilbey HJ, Ackland TR, Wang AW, et al. Exercise improves
+early functional recovery after total hip arthroplasty. ClinOrthop Relat Res 2003;408:193–200.
+263. Brooks D, Parsons J, Tran D, et al. The two-minute walk test as
+a measure of functional capacity in cardiac surgery patients.Arch Phys Med Rehabil 2004;85:1525–30.264. Watkins AC, White PF. Fast-tracking after ambulatory surgery.
+J Perianesth Nurs 2001;16:379–87.
+265. White PF, Rawal S, Nguyen J, Watkins A. PACU fast-tracking:
+an alternative to “bypassing” the PACU for facilitating therecovery process after ambulatory surgery. J Perianesth Nurs2003;18:247–53.
+266. Pasero C, Belden J. Evidence-based perianesthesia care; accel-
+erated postoperative recovery programs. J Perianesth Nurs2006;21:168–76.
+267. Papadakos PJ. Physician and nurse consideration for recovery
+fast-track patients in the ICU. J Cardiothorac Vasc Anesth1995;9:21–3.
+268. Davenport DL, Henderson WG, Kuhri SF, Mentzer RM. Pre-
+operative risk factors and surgical complexity are more pre-dictive of costs than postoperative complications: a case studyusing the National Surgical Quality Improvement Program(NSQIP) Database. Ann Surg 2005;242:463–71.
+269. Kehlet H. Surgical stress and outcome—from here to where.
+Reg Anesth Pain Med 2006;31:47–52.
+270. Foss NB, Christensen DS, Krasheninnikoff M, et al. Postopera-
+tive rounds by anaesthesiologists after hip fracture surgery: apilot study. Acta Anaesthesiol Scand 2006;50:437–42.
+271. Goldhill DR. Preventing surgical death: critical care and inten-
+sive care outreach services in the postoperative period. Br JAnaesth 2005;95:88–94.
+272. Dahl JB, Kehlet H. Perioperative medicine—a new sub-
+specialty or a multidisciplinary strategy to improve perioper-ative management and outcome. Acta Anaesthesiol Scand2002;46:121–122.
+273. Hudson ME, Handley L, Dunworth B, et al. Implementation of
+a multidisciplinary or management team improves overalloperating room efficiency. Anesth Analg 2006;102:A1300.
+274. Recart A, Duchene D, White PF, et al. Efficacy and safety of
+fast-track recovery strategy for patients undergoing laparo-scopic nephrectomy. J Endourol 2005;19:1165–9.
+275. Kaba A, Laurent SR, Detroz BJ, et al. Intravenous Lidocaine
+infusion facilitates acute rehabilitation after laparoscopic colec-tomy. Anesthesiology 2007;106:11–8.
+1396 Role of Anesthesiologists in Fast-Track Surgery ANESTHESIA &ANALGESIA
