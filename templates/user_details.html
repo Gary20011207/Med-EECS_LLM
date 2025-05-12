@@ -11,11 +11,11 @@
     </style>
 </head>
 <body>
-    <h2>User Details – {{ user.username }}</h2>
+    <h2>User Details – {{ user.name }}</h2>
     <a href="/admin">Back to Admin Dashboard</a> | <a href="/logout">Logout</a>
     <hr>
-    <p><strong>Date of Birth:</strong> {{ user.dob }}</p>
-    <p><strong>Surgery Type:</strong> {{ user.surgery_type }}</p>
+    <p><strong>生日:</strong> {{ user.dob }}</p>
+    <p><strong>主治醫師:</strong> {{ user.attending_physician }}</p>
     <p><strong>Current Expert:</strong> {{ user.current_expert }}</p>
     <div class="chat-history">
         <h3>Chat History</h3>
