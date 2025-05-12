@@ -40,3 +40,5 @@ opencv-python-headless
 
 bitsandbytes
 gradio
+
+Flask-Limiter>=3.0.0

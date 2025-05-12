@@ -1,0 +1,1159 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ERAS 智慧個案管理師 - 醫療問答系統</title>
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --secondary-color: #3498db;
+            --success-color: #27ae60;
+            --warning-color: #f39c12;
+            --danger-color: #e74c3c;
+            --light-gray: #ecf0f1;
+            --medium-gray: #bdc3c7;
+            --dark-gray: #34495e;
+            --white: #ffffff;
+            --border-radius: 8px;
+            --box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            --transition: all 0.3s ease;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', 'Microsoft JhengHei', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            color: var(--primary-color);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Header */
+        .header {
+            background: linear-gradient(135deg, var(--primary-color) 0%, var(--dark-gray) 100%);
+            color: var(--white);
+            padding: 1rem 2rem;
+            text-align: center;
+            box-shadow: var(--box-shadow);
+        }
+
+        .header h1 {
+            font-size: 1.8rem;
+            font-weight: 600;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Status Bar */
+        .status-bar {
+            background: var(--secondary-color);
+            color: var(--white);
+            padding: 0.75rem;
+            text-align: center;
+            font-size: 0.9rem;
+            border-bottom: 1px solid var(--medium-gray);
+        }
+
+        .status-bar.initializing {
+            background: var(--warning-color);
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0% { opacity: 0.7; }
+            50% { opacity: 1; }
+            100% { opacity: 0.7; }
+        }
+
+        /* Main Container */
+        .container {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+            margin: 1rem;
+            border-radius: var(--border-radius);
+            box-shadow: var(--box-shadow);
+            background: var(--white);
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 320px;
+            background: var(--light-gray);
+            padding: 1.5rem;
+            overflow-y: auto;
+            border-right: 1px solid var(--medium-gray);
+        }
+
+        .sidebar-section {
+            margin-bottom: 2rem;
+            padding: 1rem;
+            background: var(--white);
+            border-radius: var(--border-radius);
+            box-shadow: 0 1px 5px rgba(0, 0, 0, 0.05);
+        }
+
+        .sidebar-section h3 {
+            color: var(--primary-color);
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--secondary-color);
+        }
+
+        .form-group {
+            margin-bottom: 1rem;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+            color: var(--dark-gray);
+        }
+
+        .form-control {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid var(--medium-gray);
+            border-radius: var(--border-radius);
+            font-size: 0.9rem;
+            transition: var(--transition);
+        }
+
+        .form-control:focus {
+            outline: none;
+            border-color: var(--secondary-color);
+            box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+        }
+
+        .checkbox-group {
+            display: flex;
+            align-items: center;
+            margin-bottom: 0.5rem;
+        }
+
+        .checkbox-group input[type="checkbox"] {
+            margin-right: 0.5rem;
+            transform: scale(1.2);
+        }
+
+        .btn {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            border: none;
+            border-radius: var(--border-radius);
+            font-weight: 600;
+            cursor: pointer;
+            transition: var(--transition);
+            font-size: 0.9rem;
+        }
+
+        .btn-primary {
+            background: var(--secondary-color);
+            color: var(--white);
+        }
+
+        .btn-primary:hover {
+            background: #2980b9;
+            transform: translateY(-2px);
+        }
+
+        .btn-danger {
+            background: var(--danger-color);
+            color: var(--white);
+        }
+
+        .btn-danger:hover {
+            background: #c0392b;
+            transform: translateY(-2px);
+        }
+
+        .btn-warning {
+            background: var(--warning-color);
+            color: var(--white);
+        }
+
+        .btn-warning:hover {
+            background: #e67e22;
+            transform: translateY(-2px);
+        }
+
+        .btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        /* Chat Area */
+        .chat-main {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .chat-output {
+            flex: 1;
+            padding: 1.5rem;
+            overflow-y: auto;
+            background: var(--light-gray);
+        }
+
+        .message {
+            margin-bottom: 1rem;
+            padding: 1rem 1.25rem;
+            border-radius: 18px;
+            line-height: 1.6;
+            max-width: 80%;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            white-space: pre-wrap;
+            animation: fadeIn 0.3s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .message-user {
+            background: var(--secondary-color);
+            color: var(--white);
+            align-self: flex-end;
+            border-bottom-right-radius: 4px;
+            margin-left: auto;
+        }
+
+        .message-assistant {
+            background: var(--white);
+            border: 1px solid var(--medium-gray);
+            align-self: flex-start;
+            border-bottom-left-radius: 4px;
+        }
+
+        .message-sources {
+            font-size: 0.8rem;
+            color: var(--dark-gray);
+            margin-top: 0.5rem;
+            padding-top: 0.5rem;
+            border-top: 1px dashed var(--medium-gray);
+        }
+
+        .typing-indicator {
+            display: flex;
+            align-items: center;
+            padding: 1rem;
+            color: var(--dark-gray);
+            font-style: italic;
+        }
+
+        .typing-dots {
+            margin-left: 0.5rem;
+        }
+
+        .typing-dots::after {
+            content: '';
+            display: inline-block;
+            animation: typing 1.5s infinite;
+        }
+
+        @keyframes typing {
+            0% { content: ''; }
+            25% { content: '.'; }
+            50% { content: '..'; }
+            75% { content: '...'; }
+            100% { content: ''; }
+        }
+
+        /* Input Area */
+        .input-area {
+            display: flex;
+            padding: 1.5rem;
+            background: var(--white);
+            border-top: 1px solid var(--medium-gray);
+        }
+
+        .input-area .form-control {
+            flex: 1;
+            margin-right: 1rem;
+            padding: 1rem;
+            border-radius: 25px;
+        }
+
+        .send-button {
+            padding: 1rem 1.5rem;
+            border: none;
+            border-radius: 25px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: var(--transition);
+            margin-left: 0.5rem;
+        }
+
+        .btn-send {
+            background: var(--secondary-color);
+            color: var(--white);
+        }
+
+        .btn-send:hover {
+            background: #2980b9;
+            transform: scale(1.05);
+        }
+
+        .btn-stream {
+            background: var(--success-color);
+            color: var(--white);
+        }
+
+        .btn-stream:hover {
+            background: #229954;
+            transform: scale(1.05);
+        }
+
+        /* PDF List */
+        .pdf-list {
+            max-height: 200px;
+            overflow-y: auto;
+            border: 1px solid var(--medium-gray);
+            border-radius: var(--border-radius);
+            padding: 0.75rem;
+            background: var(--white);
+        }
+
+        .pdf-item {
+            display: flex;
+            align-items: center;
+            padding: 0.5rem 0;
+            border-bottom: 1px solid var(--light-gray);
+        }
+
+        .pdf-item:last-child {
+            border-bottom: none;
+        }
+
+        .pdf-item input[type="checkbox"] {
+            margin-right: 0.75rem;
+            transform: scale(1.1);
+        }
+
+        /* Status Grid */
+        .status-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 0.75rem;
+        }
+
+        .status-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.5rem;
+            background: var(--white);
+            border-radius: var(--border-radius);
+            border: 1px solid var(--light-gray);
+        }
+
+        .status-label {
+            font-weight: 600;
+            color: var(--dark-gray);
+        }
+
+        .status-value {
+            color: var(--secondary-color);
+            font-weight: 500;
+        }
+
+        /* Spinner */
+        .spinner {
+            border: 3px solid var(--light-gray);
+            border-top: 3px solid var(--secondary-color);
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            animation: spin 1s linear infinite;
+            display: inline-block;
+            margin-left: 0.5rem;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Info Text */
+        .info-text {
+            font-size: 0.9rem;
+            color: #666;
+            margin-bottom: 0.5rem;
+            font-style: italic;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 1024px) {
+            .container {
+                flex-direction: column;
+            }
+            
+            .sidebar {
+                width: 100%;
+                max-height: 300px;
+            }
+            
+            .message {
+                max-width: 90%;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.4rem;
+            }
+            
+            .container {
+                margin: 0.5rem;
+            }
+            
+            .sidebar {
+                padding: 1rem;
+            }
+            
+            .chat-output {
+                padding: 1rem;
+            }
+            
+            .input-area {
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <h1>ERAS 智慧個案管理師</h1>
+    </header>
+
+    <!-- Status Bar -->
+    <div id="status-area" class="status-bar">正在載入狀態...</div>
+
+    <!-- Main Container -->
+    <main class="container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <!-- Chat Settings -->
+            <section class="sidebar-section">
+                <h3>聊天設定</h3>
+                
+                <div class="form-group">
+                    <label for="session-id">對話ID</label>
+                    <input type="text" id="session-id" class="form-control" readonly>
+                </div>
+                
+                <div class="checkbox-group">
+                    <input type="checkbox" id="enable-memory" checked>
+                    <label for="enable-memory">啟用對話記憶</label>
+                </div>
+                
+                <div class="checkbox-group">
+                    <input type="checkbox" id="use-rag" checked>
+                    <label for="use-rag">使用 RAG 檢索</label>
+                </div>
+                
+                <button id="clear-history-button" class="btn btn-danger">清除對話歷史</button>
+            </section>
+
+            <!-- RAG Settings -->
+            <section class="sidebar-section" id="rag-section">
+                <h3>檢索設定</h3>
+                
+                <div class="form-group">
+                    <label>選擇檢索文件</label>
+                    <p class="info-text">選擇要檢索的檔案範圍，不選擇時將搜索所有檔案</p>
+                    <div class="checkbox-group" style="margin-bottom: 0.5rem;">
+                        <input type="checkbox" id="select-all-pdfs" onchange="toggleAllPdfs()">
+                        <label for="select-all-pdfs">全選 / 全不選</label>
+                    </div>
+                    <div id="pdf-search-list-container" class="pdf-list">
+                        <p>正在載入檔案列表...</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Model Parameters -->
+            <section class="sidebar-section">
+                <h3>模型參數</h3>
+                
+                <div class="form-group">
+                    <label for="temperature">創造性 (Temperature)</label>
+                    <select id="temperature" class="form-control">
+                        <option value="">預設</option>
+                        <option value="0.1">0.1 (保守)</option>
+                        <option value="0.3">0.3 (平衡)</option>
+                        <option value="0.7">0.7 (創造)</option>
+                        <option value="1.0">1.0 (隨機)</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="max-tokens">最大回覆長度</label>
+                    <select id="max-tokens" class="form-control">
+                        <option value="">預設</option>
+                        <option value="256">256 (短)</option>
+                        <option value="512">512 (中)</option>
+                        <option value="1024">1024 (長)</option>
+                        <option value="2048">2048 (很長)</option>
+                    </select>
+                </div>
+            </section>
+
+            <!-- Database Management -->
+            <section class="sidebar-section">
+                <h3>資料庫管理</h3>
+                
+                <div class="form-group">
+                    <label>資料庫重建</label>
+                    <p class="info-text">重建資料庫將處理 PDF 資料夾中的所有檔案</p>
+                </div>
+                
+                <div class="checkbox-group">
+                    <input type="checkbox" id="force-reset-db" checked>
+                    <label for="force-reset-db">強制重置資料庫</label>
+                </div>
+                
+                <button id="rebuild-db-button" class="btn btn-warning">重建資料庫</button>
+                <div id="db-rebuild-status" class="form-group"></div>
+            </section>
+
+            <!-- System Status -->
+            <section class="sidebar-section">
+                <h3>系統狀態</h3>
+                <div class="status-grid">
+                    <div class="status-item">
+                        <span class="status-label">模型設備:</span>
+                        <span id="model-device" class="status-value">-</span>
+                    </div>
+                    <div class="status-item">
+                        <span class="status-label">GPU記憶體:</span>
+                        <span id="gpu-memory" class="status-value">-</span>
+                    </div>
+                    <div class="status-item">
+                        <span class="status-label">資料庫連接:</span>
+                        <span id="db-connection" class="status-value">-</span>
+                    </div>
+                    <div class="status-item">
+                        <span class="status-label">文件數量:</span>
+                        <span id="db-doc-count" class="status-value">-</span>
+                    </div>
+                </div>
+            </section>
+        </aside>
+
+        <!-- Chat Area -->
+        <div class="chat-main">
+            <div id="chat-output" class="chat-output">
+                <div class="message message-assistant">
+                    您好！我是您的 ERAS 智慧個案管理師，請問有什麼可以協助您的嗎？
+                </div>
+            </div>
+            
+            <div class="input-area">
+                <input 
+                    type="text" 
+                    id="message-input" 
+                    class="form-control" 
+                    placeholder="請輸入您的問題..." 
+                    aria-label="輸入訊息"
+                >
+                <button id="send-button" class="send-button btn-send" title="傳送訊息">
+                    <span aria-hidden="true">💬</span>
+                    <span class="sr-only">傳送</span>
+                </button>
+                <button id="send-stream-button" class="send-button btn-stream" title="串流傳送">
+                    <span aria-hidden="true">⚡</span>
+                    <span class="sr-only">串流</span>
+                </button>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // Global variables
+        const elements = {
+            messageInput: document.getElementById('message-input'),
+            sendButton: document.getElementById('send-button'),
+            sendStreamButton: document.getElementById('send-stream-button'),
+            chatOutput: document.getElementById('chat-output'),
+            pdfSearchListContainer: document.getElementById('pdf-search-list-container'),
+            selectAllPdfsCheckbox: document.getElementById('select-all-pdfs'),
+            enableMemoryCheckbox: document.getElementById('enable-memory'),
+            useRagCheckbox: document.getElementById('use-rag'),
+            clearHistoryButton: document.getElementById('clear-history-button'),
+            sessionIdInput: document.getElementById('session-id'),
+            statusArea: document.getElementById('status-area'),
+            forceResetDbCheckbox: document.getElementById('force-reset-db'),
+            rebuildDbButton: document.getElementById('rebuild-db-button'),
+            dbRebuildStatus: document.getElementById('db-rebuild-status'),
+            temperatureSelect: document.getElementById('temperature'),
+            maxTokensSelect: document.getElementById('max-tokens'),
+            // Status elements
+            modelDevice: document.getElementById('model-device'),
+            gpuMemory: document.getElementById('gpu-memory'),
+            dbConnection: document.getElementById('db-connection'),
+            dbDocCount: document.getElementById('db-doc-count'),
+            ragSection: document.getElementById('rag-section')
+        };
+
+        let currentSessionId = '';
+        let currentAssistantMessageDiv = null;
+        let currentAssistantText = null;
+        let currentSourcesDiv = null;
+
+        // Utility functions
+        function generateUUID() {
+            return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+                const r = Math.random() * 16 | 0;
+                const v = c == 'x' ? r : (r & 0x3 | 0x8);
+                return v.toString(16);
+            });
+        }
+
+        function saveToLocalStorage(key, value) {
+            try {
+                localStorage.setItem(key, JSON.stringify(value));
+            } catch (e) {
+                console.error('保存到LocalStorage失敗:', e);
+            }
+        }
+
+        function loadFromLocalStorage(key) {
+            try {
+                const item = localStorage.getItem(key);
+                return item ? JSON.parse(item) : null;
+            } catch (e) {
+                console.error('從LocalStorage讀取失敗:', e);
+                return null;
+            }
+        }
+
+        // Session management
+        function initializeSession() {
+            currentSessionId = loadFromLocalStorage('chatSessionId');
+            if (!currentSessionId) {
+                currentSessionId = generateUUID();
+                saveToLocalStorage('chatSessionId', currentSessionId);
+            }
+            elements.sessionIdInput.value = currentSessionId;
+            renderChatHistory();
+        }
+
+        function saveChatHistory(history) {
+            if (!currentSessionId) return;
+            saveToLocalStorage(`chatHistory_${currentSessionId}`, history);
+        }
+
+        function loadChatHistory() {
+            if (!currentSessionId) return [];
+            return loadFromLocalStorage(`chatHistory_${currentSessionId}`) || [];
+        }
+
+        function renderChatHistory() {
+            const history = loadChatHistory();
+            // Keep the welcome message
+            elements.chatOutput.innerHTML = `
+                <div class="message message-assistant">
+                    您好！我是您的 ERAS 智慧個案管理師，請問有什麼可以協助您的嗎？
+                </div>
+            `;
+            
+            history.forEach(msg => {
+                if (msg.role && msg.content) {
+                    displayMessage(msg.role, msg.content, msg.sources || []);
+                }
+            });
+        }
+
+        // Message display
+        function displayMessage(role, text, sources = []) {
+            const messageDiv = document.createElement('div');
+            messageDiv.classList.add('message', `message-${role}`);
+            messageDiv.textContent = text;
+            
+            if (role === 'assistant' && sources && sources.length > 0) {
+                const sourcesDiv = document.createElement('div');
+                sourcesDiv.classList.add('message-sources');
+                sourcesDiv.textContent = '資料來源: ' + sources.join(', ');
+                messageDiv.appendChild(sourcesDiv);
+            }
+            
+            elements.chatOutput.appendChild(messageDiv);
+            elements.chatOutput.scrollTop = elements.chatOutput.scrollHeight;
+            return messageDiv;
+        }
+
+        function showTypingIndicator(show = true) {
+            removeTypingIndicator();
+            if (show) {
+                const indicator = document.createElement('div');
+                indicator.id = 'typing-indicator';
+                indicator.classList.add('typing-indicator');
+                indicator.innerHTML = '個管師正在輸入中<span class="typing-dots"></span>';
+                elements.chatOutput.appendChild(indicator);
+                elements.chatOutput.scrollTop = elements.chatOutput.scrollHeight;
+            }
+        }
+
+        function removeTypingIndicator() {
+            const indicator = document.getElementById('typing-indicator');
+            if (indicator) {
+                indicator.remove();
+            }
+        }
+
+        // Toggle RAG section visibility
+        function toggleRagSection() {
+            if (elements.useRagCheckbox.checked) {
+                elements.ragSection.style.display = 'block';
+            } else {
+                elements.ragSection.style.display = 'none';
+            }
+        }
+
+        // API functions
+        async function fetchWithRetry(url, options = {}, retries = 3) {
+            for (let i = 0; i < retries; i++) {
+                try {
+                    const response = await fetch(url, options);
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response;
+                } catch (error) {
+                    if (i === retries - 1) throw error;
+                    await new Promise(resolve => setTimeout(resolve, 1000 * (i + 1)));
+                }
+            }
+        }
+
+        async function fetchAvailableSourceFiles() {
+            try {
+                // 從資料庫獲取可用的源檔案列表
+                const response = await fetchWithRetry('/api/db/source-files');
+                const data = await response.json();
+                
+                elements.pdfSearchListContainer.innerHTML = '';
+                if (data.source_files && data.source_files.length > 0) {
+                    data.source_files.forEach(file => {
+                        const pdfItem = document.createElement('div');
+                        pdfItem.classList.add('pdf-item');
+                        
+                        const checkbox = document.createElement('input');
+                        checkbox.type = 'checkbox';
+                        checkbox.id = `pdf-search-${file.replace(/[^a-zA-Z0-9]/g, '')}`;
+                        checkbox.value = file;
+                        checkbox.name = 'pdf_search_selection';
+                        checkbox.checked = true; // 預設全選
+                        
+                        const label = document.createElement('label');
+                        label.htmlFor = checkbox.id;
+                        label.textContent = file;
+                        
+                        pdfItem.appendChild(checkbox);
+                        pdfItem.appendChild(label);
+                        elements.pdfSearchListContainer.appendChild(pdfItem);
+                    });
+                    
+                    // 設置全選狀態
+                    elements.selectAllPdfsCheckbox.checked = true;
+                } else {
+                    elements.pdfSearchListContainer.innerHTML = '<p>資料庫中沒有檔案</p>';
+                    elements.selectAllPdfsCheckbox.checked = false;
+                }
+            } catch (error) {
+                console.error('獲取資料庫源檔案失敗:', error);
+                elements.pdfSearchListContainer.innerHTML = '<p>無法連接到資料庫</p>';
+            }
+        }
+
+        function toggleAllPdfs() {
+            const checkboxes = document.querySelectorAll('#pdf-search-list-container input[type="checkbox"]');
+            const selectAll = elements.selectAllPdfsCheckbox.checked;
+            
+            checkboxes.forEach(checkbox => {
+                checkbox.checked = selectAll;
+            });
+        }
+
+        async function fetchStatus() {
+            try {
+                const response = await fetchWithRetry('/api/status');
+                const status = await response.json();
+                
+                if (status.status === 'initializing') {
+                    elements.statusArea.textContent = '應用程式初始化中，請稍候...';
+                    elements.statusArea.classList.add('initializing');
+                    setStatusValues('-', '-', '-', '-');
+                    return;
+                }
+                
+                elements.statusArea.classList.remove('initializing');
+                
+                if (status.status === 'ok') {
+                    // Status bar summary
+                    let statusText = `模型: ${status.model_name}`;
+                    if (status.model_device) {
+                        statusText += ` | 設備: ${status.model_device.type}`;
+                        if (status.model_device.type === 'cuda' && status.model_device.index !== null) {
+                            statusText += `:${status.model_device.index}`;
+                        }
+                    }
+                    if (status.gpu_memory) {
+                        statusText += ` | GPU: ${status.gpu_memory.allocated}GB / ${status.gpu_memory.reserved}GB`;
+                    }
+                    if (status.vector_db) {
+                        statusText += ` | 資料庫: ${status.vector_db.connected ? '已連接' : '未連接'} (${status.vector_db.doc_count || 0} 文件)`;
+                    }
+                    elements.statusArea.textContent = statusText;
+                    
+                    // Detailed status
+                    const deviceText = status.model_device ? 
+                        `${status.model_device.type}${status.model_device.type === 'cuda' && status.model_device.index !== null ? ':' + status.model_device.index : ''}` : '-';
+                    
+                    const gpuText = status.gpu_memory ? 
+                        `${status.gpu_memory.allocated}GB / ${status.gpu_memory.reserved}GB` : '-';
+                    
+                    const dbText = status.vector_db && status.vector_db.connected ? '已連接' : '未連接';
+                    const docCountText = status.vector_db ? String(status.vector_db.doc_count || 0) : '-';
+                    
+                    setStatusValues(deviceText, gpuText, dbText, docCountText);
+                } else {
+                    elements.statusArea.textContent = `錯誤: ${status.message || '未知錯誤'}`;
+                    setStatusValues('-', '-', '-', '-');
+                }
+            } catch (error) {
+                console.error('獲取狀態失敗:', error);
+                elements.statusArea.textContent = '無法連接到伺服器';
+                setStatusValues('-', '-', '-', '-');
+            }
+        }
+
+        function setStatusValues(device, memory, connection, docs) {
+            elements.modelDevice.textContent = device;
+            elements.gpuMemory.textContent = memory;
+            elements.dbConnection.textContent = connection;
+            elements.dbDocCount.textContent = docs;
+        }
+
+        // Chat functions
+        async function sendMessage(stream = false) {
+            const message = elements.messageInput.value.trim();
+            if (!message) return;
+
+            // Display user message
+            displayMessage('user', message);
+            elements.messageInput.value = '';
+            showTypingIndicator(true);
+            
+            // Get current chat history and prepare it for backend
+            const currentHistory = loadChatHistory();
+            const historyForBackend = currentHistory.map(msg => ({
+                role: msg.role,
+                content: msg.content
+            }));
+
+            // 獲取選中的檔案
+            const selectedFiles = [];
+            if (elements.useRagCheckbox.checked) {
+                const checkboxes = document.querySelectorAll('#pdf-search-list-container input[type="checkbox"]:checked');
+                if (checkboxes.length === 0) {
+                    // 如果沒有選中任何檔案，使用 null 表示搜索所有檔案
+                    selectedFiles.push(...[]);
+                } else {
+                    checkboxes.forEach(cb => selectedFiles.push(cb.value));
+                }
+            }
+
+            // Prepare payload
+            const payload = {
+                message: message,
+                session_id: currentSessionId,
+                use_rag: elements.useRagCheckbox.checked,
+                enable_memory: elements.enableMemoryCheckbox.checked,
+                source_files: elements.useRagCheckbox.checked ? (selectedFiles.length > 0 ? selectedFiles : null) : null,
+                history: historyForBackend  // 發送歷史記錄到後端
+            };
+
+            // Add model parameters if set
+            if (elements.temperatureSelect.value) {
+                payload.temperature = parseFloat(elements.temperatureSelect.value);
+            }
+            if (elements.maxTokensSelect.value) {
+                payload.max_new_tokens = parseInt(elements.maxTokensSelect.value);
+            }
+
+            // Reset assistant message variables
+            currentAssistantMessageDiv = null;
+            currentAssistantText = null;
+            currentSourcesDiv = null;
+
+            try {
+                if (stream) {
+                    await handleStreamResponse(payload, message, currentHistory);
+                } else {
+                    await handleNormalResponse(payload, message, currentHistory);
+                }
+            } catch (error) {
+                console.error('發送訊息失敗:', error);
+                removeTypingIndicator();
+                displayMessage('assistant', `抱歉，發生錯誤: ${error.message}`);
+            }
+        }
+
+        async function handleNormalResponse(payload, message, currentHistory) {
+            const response = await fetchWithRetry('/api/chat', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify(payload)
+            });
+
+            const result = await response.json();
+            removeTypingIndicator();
+
+            if (result.error) {
+                displayMessage('assistant', `錯誤: ${result.error}`);
+                return;
+            }
+
+            displayMessage('assistant', result.reply, result.sources || []);
+            
+            // Update history
+            const updatedHistory = currentHistory.concat([
+                {role: 'user', content: message},
+                {role: 'assistant', content: result.reply, sources: result.sources || []}
+            ]);
+            saveChatHistory(updatedHistory);
+        }
+
+        async function handleStreamResponse(payload, message, currentHistory) {
+            const response = await fetchWithRetry('/api/chat/stream', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify(payload)
+            });
+
+            const reader = response.body.getReader();
+            const decoder = new TextDecoder();
+            let accumulatedResponse = '';
+            let finalSources = [];
+
+            while (true) {
+                const { value, done } = await reader.read();
+                if (done) break;
+
+                const rawEvents = decoder.decode(value, { stream: true });
+                const eventStrings = rawEvents.split('\n\n').filter(s => s.trim() !== '');
+
+                for (const eventString of eventStrings) {
+                    if (eventString.startsWith('data:')) {
+                        const jsonData = eventString.substring(5);
+                        try {
+                            const chunk = JSON.parse(jsonData);
+                            
+                            if (chunk.error) {
+                                console.error('串流錯誤:', chunk.error);
+                                removeTypingIndicator();
+                                displayMessage('assistant', `錯誤: ${chunk.error}`);
+                                return;
+                            }
+
+                            if (chunk.status === 'started') {
+                                removeTypingIndicator();
+                                currentAssistantMessageDiv = displayMessage('assistant', '', []);
+                                currentAssistantText = currentAssistantMessageDiv.firstChild;
+                            }
+
+                            if (chunk.reply !== undefined) {
+                                accumulatedResponse = chunk.reply;
+                                
+                                // 處理串流中的來源信息
+                                if (chunk.sources && chunk.sources.length > 0) {
+                                    finalSources = chunk.sources;
+                                    
+                                    // 更新來源顯示
+                                    if (!currentSourcesDiv && currentAssistantMessageDiv) {
+                                        currentSourcesDiv = document.createElement('div');
+                                        currentSourcesDiv.classList.add('message-sources');
+                                        currentAssistantMessageDiv.appendChild(currentSourcesDiv);
+                                    }
+                                    if (currentSourcesDiv) {
+                                        currentSourcesDiv.textContent = '資料來源: ' + chunk.sources.join(', ');
+                                    }
+                                }
+
+                                if (currentAssistantText) {
+                                    currentAssistantText.textContent = accumulatedResponse;
+                                }
+                                elements.chatOutput.scrollTop = elements.chatOutput.scrollHeight;
+                            }
+
+                            if (chunk.status === 'completed') {
+                                // Update history
+                                const updatedHistory = currentHistory.concat([
+                                    {role: 'user', content: message},
+                                    {role: 'assistant', content: accumulatedResponse, sources: finalSources}
+                                ]);
+                                saveChatHistory(updatedHistory);
+                                return;
+                            }
+                        } catch (e) {
+                            console.error('解析串流數據錯誤:', e);
+                        }
+                    }
+                }
+            }
+        }
+
+        // Database operations
+        async function clearChatHistory() {
+            if (!currentSessionId) {
+                alert('沒有有效的對話ID');
+                return;
+            }
+
+            if (!confirm(`確定要清除對話ID "${currentSessionId}" 的所有歷史記錄嗎？`)) {
+                return;
+            }
+
+            try {
+                // 先清除本地歷史
+                localStorage.removeItem(`chatHistory_${currentSessionId}`);
+                renderChatHistory();
+                
+                // 通知後端（可選，因為後端不再儲存歷史）
+                const response = await fetchWithRetry('/api/chat/history/clear', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({session_id: currentSessionId})
+                });
+
+                const result = await response.json();
+                if (result.success) {
+                    alert('歷史記錄已清除');
+                } else {
+                    alert(`清除操作確認失敗: ${result.message || result.error}`);
+                }
+            } catch (error) {
+                console.error('清除歷史記錄時網路錯誤:', error);
+                // 即使網路錯誤，本地已清除，所以只顯示警告
+                alert('歷史記錄已從本地清除，但與服務器通信時出現問題');
+            }
+        }
+
+        async function rebuildDatabase() {
+            if (!confirm('確定要重建資料庫嗎？這將處理所有PDF檔案。')) {
+                return;
+            }
+
+            elements.dbRebuildStatus.innerHTML = '正在重建資料庫...<span class="spinner"></span>';
+            elements.rebuildDbButton.disabled = true;
+
+            try {
+                const response = await fetchWithRetry('/api/db/rebuild', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({
+                        force_reset: elements.forceResetDbCheckbox.checked
+                    })
+                });
+
+                const result = await response.json();
+                if (result.success) {
+                    elements.dbRebuildStatus.textContent = `成功: ${result.message}`;
+                    elements.dbRebuildStatus.style.color = 'var(--success-color)';
+                    alert(`成功: ${result.message}`);
+                    fetchStatus(); // Refresh status
+                    // 刷新檢索檔案列表
+                    await fetchAvailableSourceFiles();
+                } else {
+                    elements.dbRebuildStatus.textContent = `失敗: ${result.message}`;
+                    elements.dbRebuildStatus.style.color = 'var(--danger-color)';
+                    alert(`失敗: ${result.message}`);
+                }
+            } catch (error) {
+                console.error('重建資料庫失敗:', error);
+                elements.dbRebuildStatus.textContent = `錯誤: ${error.message}`;
+                elements.dbRebuildStatus.style.color = 'var(--danger-color)';
+                alert(`重建資料庫失敗: ${error.message}`);
+            } finally {
+                elements.rebuildDbButton.disabled = false;
+            }
+        }
+
+        // Event listeners
+        function setupEventListeners() {
+            // Send message events
+            elements.sendButton.addEventListener('click', () => sendMessage(false));
+            elements.sendStreamButton.addEventListener('click', () => sendMessage(true));
+            
+            // Enter key to send
+            elements.messageInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter' && !e.shiftKey) {
+                    e.preventDefault();
+                    sendMessage(false);
+                }
+            });
+
+            // Clear history
+            elements.clearHistoryButton.addEventListener('click', clearChatHistory);
+
+            // Rebuild database
+            elements.rebuildDbButton.addEventListener('click', rebuildDatabase);
+
+            // Toggle RAG section visibility
+            elements.useRagCheckbox.addEventListener('change', toggleRagSection);
+        }
+
+        // Initialization
+        function init() {
+            console.log('正在初始化ERAS聊天界面...');
+            
+            // Initialize session
+            initializeSession();
+            
+            // Setup event listeners
+            setupEventListeners();
+            
+            // Initially toggle RAG section
+            toggleRagSection();
+            
+            // Fetch initial data
+            fetchAvailableSourceFiles();
+            fetchStatus();
+            
+            // Set up periodic status updates
+            setInterval(fetchStatus, 30000);
+            
+            // Set up periodic source files refresh
+            setInterval(fetchAvailableSourceFiles, 60000);
+            
+            console.log('ERAS聊天界面初始化完成');
+        }
+
+        // Error handling
+        window.addEventListener('error', (event) => {
+            console.error('全域錯誤:', event.error);
+        });
+
+        window.addEventListener('unhandledrejection', (event) => {
+            console.error('未處理的Promise拒絕:', event.reason);
+        });
+
+        // Start the application
+        document.addEventListener('DOMContentLoaded', init);
+    </script>
+</body>
+</html>
