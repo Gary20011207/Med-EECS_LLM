@@ -1,0 +1,243 @@
+ QA 問答 (復健)
+
+「緊急腹腔手術（Emergency Laparotomy, EL）」
+
+1. 問：什麼時候可以開始術後復健？
+答： 通常在手術後第一天（術後第 0 或 1 天），如果您的狀況穩定，復健
+科可能會開始協助您進行簡單的活動，如床上移動或坐起來。
+
+2. 問：術後我需要做哪些復健運動？
+答： 復健運動可能包括深呼吸練習、床上翻身、坐到站立的練習，以及逐
+步增加步行距離。這些活動由復健科根據您的狀況量身定制，遵循 ERAS
+的早期活動原則。
+
+3. 問：復健時如何避免傷口疼痛或受傷？
+答： 遵循復健科的指導，進行溫和的運動，並避免突然用力或過度伸展。
+
+4. 問：如果我感到虛弱，該如何進行復健？
+答： 復健科會根據您的體力設計輕量活動，例如從簡單的床上運動開始，
+逐步增加強度。ERAS 指南特別提到，對於高風險或虛弱患者，應提供個
+別化的復健計劃。
+
+5. 問：復健能幫助我避免哪些術後問題？
+答： 早期復健有助於預防肺部感染、血栓形成和肌肉萎縮等併發症。
+
+6. 問：我需要多久才能恢復正常活動？
+答： 恢復時間因人而異，視您的健康狀況和手術複雜性而定。復健科會設
+定逐步目標，幫助您在數週內逐步恢復日常活動。
+
+7. 問：我需要去復健中心嗎，還是可以在家復健？
+答： 初期復健通常在醫院進行，由復健科指導。出院後，您可能會收到居
+家復健計劃，或在門診繼續復健。
+
+8. 問：復健科會如何評估我的進展？
+
+答： 復健科會定期評估您的移動能力、力量和功能，例如您是否能獨立行
+走或完成日常活動。
+
+9. 問：術後我可以自己運動嗎？
+答： 在復健科或醫療團隊指導前，不建議自行進行劇烈運動。過早或不當
+的運動可能影響傷口癒合。
+
+10. 問：復健會幫助我更快出院嗎？
+答： 是的，積極參與復健能加速您的恢復，幫助您更快達到出院標準，例
+如獨立行走或自理能力。
+
+11. 問：復健過程中我應該注意什麼？
+答： 注意任何異常症狀，如傷口疼痛加劇、呼吸困難或腫脹，並立即告知
+醫療團隊。遵循復健科的指導，避免過度用力。
+
+12. 問：如果我感到虛弱或疲倦，該怎麼辦？
+答： 告訴復健科或醫療團隊您的感受。他們會調整復健計劃，例如縮短活
+動時間或選擇更輕鬆的運動。
+
+13. 問：復健時需要特別注意飲食嗎？
+答： 是的，均衡飲食有助於恢復。確保攝取足夠蛋白質和水分，支持肌肉
+修復和傷口癒合。
+
+14. 問：我應該如何保護手術傷口？
+答： 避免直接壓迫傷口，保持傷口清潔乾燥，並遵循醫療團隊的傷口護理
+指導，復健時選擇不會拉扯傷口的運動。
+
+15. 問：復健過程中如何預防跌倒？
+答： 使用助行器或醫療團隊的協助進行行走練習，穿防滑鞋，並確保環境
+安全（如移除絆倒物）。
+
+16. 問：我可以什麼時候停止復健？
+答： 復健應持續進行，直到您恢復日常功能或達到醫療團隊設定的目標。
+
+
+17. 問：復健時應該如何管理疼痛？
+答： 與醫療團隊討論您的疼痛狀況，他們可能會調整止痛藥、建議放鬆技
+巧或設計更低疼痛的運動。
+
+18. 問：我需要每天都做復健嗎？
+答： 是的，規律的復健活動（即使是短時間）有助於加快恢復。
+
+19. 問：復健時需要呼吸訓練嗎？
+答： 是的，ERAS 建議術後進行呼吸理療，包括深呼吸和痰液清除訓練，
+增強呼吸肌力，預防肺部併發症。
+
+20. 問：如果我超過 65 歲，復健有什麼特別注意事項？
+答： 老年患者應接受術後譫妄篩查，復健時注重認知刺激和規律作息，運
+動計劃應更溫和，減少併發症風險。
+
+21. 問：如果我有尿液導管，復健時需要注意什麼？
+答： 確保導管固定，避免拉扯，醫療團隊會每天評估是否可移除。
+
+22. 問：術前認知評估如何幫助復健？
+答： 對 65 歲以上患者進行簡單的認知功能評估（如 Mini-Cog），有助於
+識別術後譫妄和認知功能障礙的風險患者，從而制定針對性的復健計劃。
+
+
+
+Reference :
+
+1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.
+
+
+
+「婦科腫瘤學（Gynecologic Oncology）」
+
+1. 問：手術後多久可以開始進食？
+答：通常在手術後不久可以開始飲用清澈液體 (水或碳水化合物飲料)，並
+在一日內進展到輕食，以減少併發症和住院時間。
+
+2. 問：手術後如何預防血栓？
+答：您可能會接受靜脈血栓栓塞（VTE）預防措施，如肝素，並被鼓勵術
+後進行適度活動以預防血栓。
+
+3. 問：我可以做哪些運動來避免血栓？
+答：在床上進行簡單的腿部運動以及手術後不久的短距離行走，由醫療團
+隊指導，有助於改善血流並預防血栓
+
+
+
+Reference :
+
+1. NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society
+guidelines for gynecologic oncology: Addressing implementation challenges-
+2023 update. Gynecologic oncology, 2023, 173: 58-67.
+
+
+
+「婦科：： 外陰部和陰道手術：（ Gynecologic：： vulvar and vaginal surgery）」
+
+1. 問：外陰或陰道手術後何時可以開始進食？
+答：建議在手術後 24 小時內開始正常飲食，早期進食安全，有助於腸道功
+能恢復並縮短住院時間。
+
+
+2. 問：什麼是逆行膀胱充填，為什麼可能使用？
+答：逆行膀胱充填是在手術室或恢復室向膀胱注入液體，以測試陰道手術
+後的排尿功能。
+
+3. 問：手術後需要陰道填塞嗎？
+答：陰道填塞非必要，因其不會減少出血或血腫，且可能增加疼痛或感染
+風險，若使用陰道填塞，應在 24 小時內移除，以避免感染風險增加和延長
+尿管使用。
+
+
+
+Reference :
+
+1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
+Recovery After Surgery Society recommendations. American journal of
+obstetrics and gynecology, 2020, 223.4: 475-485.
+
+
+
+「婦科：剖腹產（Gynecologic：Cesarean Delivery）」
+
+1. 問：我應該了解剖腹產的哪些風險？
+答：您將被告知短期風險（如感染、血栓、疼痛）和長期風險（如未來妊
+娠子宮破裂），尤其是當手術缺乏醫學指徵時。
+
+2. 問：肥胖會影響剖腹產恢復？
+答：若您的 BMI 超過 40，感染或傷口問題的風險較高。
+
+3. 問：為什麼術前管理高血壓很重要？
+答：慢性高血壓增加子癲前症 (Preeclampsia) 和早產風險，孕期控制高血
+壓可改善結果並減少剖腹產併發症。
+
+4. 問：糖尿病管理會影響我的恢復？
+答：控制糖尿病（原有或妊娠期）可減少子癇前症、巨嬰症和剖腹產風
+險，通過生活方式和藥物管理改善恢復。
+
+
+5. 問：為什麼剖腹產前要檢查貧血？
+答：貧血可能會增加母體死亡、胎兒體重過輕、早產和手術併發症風險，
+通過鐵劑 (口服或靜脈注射) 補充可改善貧血。
+
+6. 問：剖腹產前是否應該戒菸？
+答：是的，孕早期戒菸可減少胎兒體重過輕、早產和死胎等風險。
+
+
+
+Reference :
+
+1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
+cesarean delivery: Enhanced Recovery After Surgery Society recommendations
+(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.
+
+
+
+「骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）」
+
+1. 問：我的飲食會影響手術恢復嗎？
+答：是的，醫生會檢查您的營養狀況，若有營養不良，會建議飲食調整或
+補充營養品，以減少併發症。
+
+2. 問：我抽菸，會不會影響手術恢復？
+答：抽菸會增加術後併發症風險，建議至少在手術前 4 週戒菸，能顯著改
+善恢復效果。
+
+3. 問：喝酒對手術恢復有什麼影響？
+答：過量飲酒可能增加感染和血栓風險，建議手術前 4-8 週參加戒酒計
+劃，促進恢復。
+
+4. 問：如果我有貧血，會影響恢復嗎？
+答：貧血可能延長住院時間和增加併發症，醫生會在手術前檢查並改善貧
+血症狀，幫助您更好地恢復。
+
+5. 問：術後什麼時候可以開始吃東西？
+
+答：通常建議術後儘早恢復正常飲食，這能幫助腸道功能恢復，促進康
+復。
+
+6. 問：手術中怎麼防止感染來幫助恢復？
+答：醫生會使用抗生素和氯己定或碘酒清潔皮膚，這些措施能降低感染風
+險，讓您恢復更順利。
+
+7. 問：手術後需要一直插尿管嗎？
+答：對於簡單的腰椎融合手術，通常不需要尿管；若有使用，會在術後幾
+小時內移除，以減少不適。
+
+8. 問：手術後怎麼避免血栓影響恢復？
+答：醫生可能會使用氣壓加壓裝置或藥物來預防血栓，這能降低血栓風
+險，幫助安全恢復。
+
+9. 問：術後多久我可以恢復正常活動？
+答：ERAS 協議通過減少併發症和促進早期活動，幫助您更快恢復，但具
+體時間取決於您的狀況，需與醫生討論。
+
+
+
+Reference :
+
+1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
+spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
+recommendations. The spine journal, 2021, 21.5: 729-752.
+
