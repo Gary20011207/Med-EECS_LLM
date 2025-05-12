@@ -1,0 +1,697 @@
+PAIN MEDICINE
+Perioperative Single Dose Systemic Dexamethasone for
+Postoperative Pain
+A Meta-analysis of Randomized Controlled Trials
+Gilda` sio S. De Oliveira, Jr., M.D.,* Marcela D. Almeida, M.D.,† Honorio T. Benzon, M.D.,‡
+Robert J. McCarthy, Pharm.D.§
+This article has been selected for the A NESTHESIOLOGY CME Program. Learning
+objectives and disclosure and ordering information can be found in the CMEsection at the front of this issue.
+ABSTRACT
+Background: Dexamethasone is frequently administered in the
+perioperative period to reduce postoperative nausea and vomiting.In contrast, the analgesic effects of dexamethasone are not well de-fined. The authors performed a meta-analysis to evaluate the dose-dependent analgesic effects of perioperative dexamethasone.Methods: We followed the PRISMA statement guidelines. A
+wide search was performed to identify randomized controlledtrials that evaluated the effects of a single dose systemic dexa-methasone on postoperative pain and opioid consumption.Meta-analysis was performed using a random-effect model. Ef-fects of dexamethasone dose were evaluated by pooling studiesinto three dosage groups: low (less than 0.1 mg/kg), intermedi-ate (0.11–0.2 mg/kg) and high ( /H113500.21 mg/kg).
+Results: Twenty-four randomized clinical trials with 2,751
+subjects were included. The mean (95% CI) combined effectsfavored dexamethasone over placebo for pain at rest ( /H113494h ,
+/H110020.32 [0.47 to /H110020.18], 24 h, /H110020.49 [/H110020.67 to/H110020.31]) andwith movement ( /H113494h ,/H110020.64 [/H110020.86 to/H110020.41], 24 h, /H110020.47
+[/H110020.71 to/H110020.24]). Opioid consumption was decreased to a
+similar extent with moderate /H110020.82 (/H110021.30 to /H110020.42) and
+high/H110020.85 (/H110021.24 to /H110020.46) dexamethasone, but not de-
+creased with low-dose dexamethasone /H110020.18 (/H110020.39–0.03).
+No increase in analgesic effectiveness or reduction in opioid usecould be demonstrated between the high- and intermediate-dose dexamethasone. Preoperative administration of dexameth-asone appears to produce a more consistent analgesic effect com-pared with intraoperative administration.Conclusion: Dexamethasone at doses more than 0.1 mg/kg
+is an effective adjunct in multimodal strategies to reducepostoperative pain and opioid consumption after surgery.The preoperative administration of the drug produces lessvariation of effects on pain outcomes.
+ACUTE postoperative pain is an undesirable outcomethat can delay functional recovery for patients under-
+going surgical procedures. Multimodal analgesic approaches* Instructor, Department of Anesthesiology, Northwestern Uni-
+versity, Feinberg School of Medicine, Chicago, Illinois. † ClinicalAssociate, Department of Psychiatry, University of Chicago, PritzkerSchool of Medicine, Chicago, Illinois. ‡ Professor, Department ofAnesthesiology, Northwestern University, Feinberg School of Med-icine. §Research Professor, Department of Anesthesiology, North-
+western University, Feinberg School of Medicine.
+Received from the Department of Anesthesiology, Northwestern Uni-
+versity, Feinberg School of Medicine, Chicago, Illinois. Submitted for pub-lication January 28, 2011. Accepted for publication May 5, 2011. Supportwas provided solely from institutional and/or departmental sources.
+Address correspondence to Dr. De Oliveira: Department of Anes-
+thesiology, Northwestern Memorial Hospital, 251 E. Huron Street, F5-704, Chicago, Illinois 60611. g-jr@northwestern.edu. This article may beaccessed for personal use at no charge through the Journal Web site,www.anesthesiology.org.
+Copyright © 2011, the American Society of Anesthesiologists, Inc. Lippincott
+Williams & Wilkins. Anesthesiology 2011; 115:575–88What We Already Know about This Topic
+•Dexamethasone is often used to prevent postoperative nau-
+sea and vomiting, but its effects on pain are less well studied
+What This Article Tells Us That Is New
+•In a meta-analysis of approximately 2,500 patients, dexa-
+methasone, /H110220.1 mg/kg, reduced postoperative pain and
+opioid consumption
+/H17004This article is accompanied by an Editorial View. Please see:
+Turan A, Sessler DI: Steroids to ameliorate postoperativepain. A
+NESTHESIOLOGY 2011; 115:457–9.
+Anesthesiology, V 115  No 3 September 2011 575
+
+have been used as an important strategy to mitigate postop-
+erative pain.1The effectiveness of adjunct agents, including
+ketamine,2gabapentin,3paracetamol, and nonsteroidal an-
+tiinflammatory drugs,4have been examined in systematic
+reviews that demonstrate their benefits in reducing postop-erative pain and/or opioid consumption. These agents be-came useful multimodal analgesic strategies.
+5Dexametha-
+sone is a corticosteroid commonly used perioperatively toreduce postoperative nausea and vomiting
+6and may have a
+beneficial role in postoperative analgesia. However, in a sys-tematic review of dexamethasone after laparoscopic cholecys-tectomy, the postoperative analgesic effect of dexametha-sone, examined as a secondary outcome was found to beinconclusive.
+7Therefore, the effect of dexamethasone on
+postoperative pain as well as the optimal dose to reduce painhas not been clearly defined. Currently, dexamethasone isnot recommended as a component of a multimodal drugstrategy to decrease postsurgical pain.
+The objective of this quantitative systematic review was to
+assess the efficacy and dose dependency of single-dose peri-operative dexamethasone on postsurgical pain outcomes. Wealso evaluated the dose-dependent side effects of single dosedexamethasone in the perioperative period.
+Materials and Methods
+This quantitative systematic review was conducted followingthe guidelines of the PRISMA statement.
+8
+Systematic SearchPublished reports of randomized trials evaluating the effectsof dexamethasone on surgical postoperative pain weresearched using the National Library of Medicine’s PubMeddatabase, the Cochrane Database of Systematic Reviews, andGoogle Scholar inclusive to September 1, 2010. Free text andMeSH terms “dexamethasone,” “pain,” “postoperative,”“preoperative,” “analgesia,” and “opioid” were used individ-ually and in various combinations. No language restrictionwas used. The search was limited to randomized controlled clin-ical trials in subjects older than 18 yr. An attempt to identifyadditional studies not found by the primary search methods wasmade by reviewing the reference lists from identified studies. Nosearch was performed for unpublished studies. This initialsearch yielded 211 randomized clinical trials.
+Selection of Included Studies
+The study’s inclusion and exclusion criteria were determinedbefore the systematic search. Two authors (GDO and MDA)independently evaluated the abstract and results of the 211articles obtained by the initial search. Articles that wereclearly not relevant based on our inclusion and exclusioncriteria were excluded at this phase. Disagreements on inclu-sion of the articles were resolved by discussion among theevaluators. If an agreement could not be reached, the disputewas resolved with the help of a third investigator (HTB).Inclusion and Exclusion Criteria
+We included randomized controlled trials of a single periop-erative intravenous dexamethasone administration with aninactive (placebo or “no treatment”) control group. Ex-cluded were trials reporting analgesia after emergency medi-cine, dental, and nonsurgical pain. Trials evaluating morethan one dose of perioperative dexamethasone were also ex-cluded to maximize clinical homogeneity. Studies containinga concurrent use of an alternative multimodal analgesia reg-imen were excluded if a direct comparison of dexamethasoneand placebo could not be established. Included studies had toreport at least pain scores or opioid consumption on postop-erative pain outcomes. No minimum sample size was re-quired for inclusion in the meta-analysis.
+Validity Scoring
+Two authors (GSD and MDA) independently read the in-cluded reports and assessed their methodologic validity using amodified Jadad five-point quality scale.
+9The scale evaluates the
+study for the following: randomization, double-blind evalua-tion, concealment of study group to evaluator, valid randomiza-tion method, and completeness of data at follow-up. Discrep-ancies in rating of the trials were resolved by discussion amongthe evaluators. If an agreement could not be reached, the disputewas resolved with the help of a third investigator (HTB). Be-cause only randomized trials were included in the analysis,the minimum possible score of an included trial was 1 and themaximum was 5. Trials were not excluded or weighted in theanalysis based on quality assessment scores.
+Data Extraction
+Two authors (GDO and MDA) independently evaluated the fullmanuscripts of all included trials and performed data extractionusing a data collection form specifically developed for this review.
+Discrepancies were resolved by discussion between the
+two investigators (GDO and MDA). If an agreement couldnot be reached between the two investigators, the decisionwas made by a third investigator (HTB). Data extracted fromtrials included dexamethasone dose and time of administra-tion, sample size, number of subjects in treatment groups,follow-up period, type of surgery, early pain scores ( /H113494h )a t
+rest and at movement, late pain scores (24 h) at rest and atmovement, cumulative opioid consumption, time to opioidadministration (minutes), length of hospital stay (hours),and adverse events. Postoperative opioid consumption wasconverted to the equivalent dose of intravenous morphine.
+10
+Visual analog scale or numeric rating scale of pain were con-verted to a 0–10 numeric rating scale.
+Data were initially extracted from tables. For data not
+available in tables, attempts to contact authors were made; ifthe authors did not respond or did not have current contactinformation, the data were abstracted from available figures.Dichotomous data on the presence or absence of adverseeffects was extracted and converted to incidence while con-tinuous data were recorded using mean and SD. Data pre-Dexamethasone for Postoperative Pain
+Anesthesiology 2011; 115:575–88 De Oliveira, Jr. et al . 576
+
+sented only as median and range were converted to means
+and SD using previously described methodology.11When
+required, the SD for pain scores was estimated using the mostextreme values. The most conservative value was used whenthe same outcome was reported more than one time for adetermined period. Dexamethasone dose was converted tounits in mg/kg using the mean weight reported for the dexa-methasone groups. When no information about groupweight was available, 70 kg was used.
+To facilitate a quantitative analysis and to examine dose de-
+pendency of the outcomes, comparisons were stratified by doseinto three groups: low-dose ( /H113490.10 mg/kg), intermediate-dose
+(0.11–0.20 mg/kg), and high-dose ( /H113500.21 mg/kg) dexameth-
+asone. The dosage ranges were derived from clinical guidelinesfor postoperative nausea and vomiting that favor low dose com-pared with intermediated dose dexamethasone for antiemeticprophylaxis.
+6The high-dose group represents doses greater than
+those routinely used for antiemetic prophylaxis.
+Definition of Relevant Outcome Data
+Primary Outcomes. Early acute postoperative pain scores
+(visual analog scale or numeric rating scale) at rest and atmovement (0–4 h postoperatively); late acute postoperativepain scores (visual analog scale or numeric rating scale) at restand at movement (24 h postoperatively); and cumulativeopioid consumption (up to 24 h) in the postoperative period.Secondary Outcomes. The time to first analgesic administration
+(minutes); time to hospital discharge (hours); and incidence andseverity (visual analog scale or numeric rating scale) scores of chronicpain. In addition, adverse events including postoperative infection(wound, urinary tract, and pneumonia), hyperglycemic events, de-layed healing, and pruritus were examined.
+Meta-analyses
+The standardized mean differences with 95% CI were determinedand reported for continuous data. For dichotomous data (adverseeffects), the Peto odds ratio (to account for the potential of zerocounts in the cells for low-frequency outcomes) and 95% CI arereported. A significant effect compared with placebo required thatthe 95% CI for continuous data did not include 0 and for dichot-omous data, the CI did not include 1.0. We calculated numberneeded to harm, based on the absolute risk reduction, with 95% CIas an estimate of a harmful effect. We used the lower 95% CIestimate of the number needed to harm to describe the largest in-crease in adverse events that could be excluded by our analysis.Because of the different surgical procedures, we used a randomeffect model in an attempt to generalize our findings to studies notincluded in our meta-analysis.
+12Publication bias was evaluated by
+examining for asymmetric funnel plots using the Egger regressiontest.
+13A one-sided P/H110210.05 was considered an indication of an
+asymmetric funnel plot. A file drawer analysis described byRosenthal
+14was performed in the case of an asymmetric funnel
+plot. The test estimates the lowest number of additional studies thatif they would become available would reduce the combined effect tononsignificance assuming the average z-value of the combined Pvalues of these missing studies would be 0.
+14Sensitivity analysis was
+also performed to assess the effect of the elimination of a single trialon the outcome of the analysis.
+Heterogeneity of the included studies was considered to be
+present if the I
+2statistic was greater than 30%. Further analysis
+was planned a priori to explore relevant heterogeneity. Sub-
+group analysis was performed to investigate the effect of time ofdexamethasone administration (preoperative vs.intraoperative)
+on the pain outcomes. A Qstatistic was used to compare the
+effects between subgroups. The proportion of the total varianceexplained by the covariates (R
+2) was calculated by dividing ran-
+dom effects pooled estimates of variance ( /H9270squared) within
+studies by total variance (total /H9270squared). The value obtained
+was then subtracted from 1. When values fall outside the rangeof 0–100%, they were set to the closest value (0% or 100%).
+Comparisons between the different doses of dexametha-
+sone and were made using a Z test with Bonferroni correc-tion for multiple comparisons. Analysis was performed usingComprehensive Meta-analysis software version 2 (Biostat,Englewood, NJ).
+Results
+Of the 211 initially evaluated abstracts, 38 studies initiallymet the inclusion criteria (fig. 1). Fourteen studies were sub-sequently excluded: 12 either had no acute pain outcomes,
+Fig. 1. Flow chart outlining retrieved, excluded, and evalu-
+ated randomized controlled trials. Some trials evaluated mul-tiple doses of dexamethasone.PAIN MEDICINE
+Anesthesiology 2011; 115:575–88 De Oliveira, Jr. et al . 577
+
+Table 1. Summary of Studies Included in Analysis
+AuthorsYear of
+Publication ProceduresNumber
+Treatment/
+Control Treatment
+Al-Quadah et al.292010 Nasal sinus endoscopy 32/30 Dexamethasone 8 mg IV at induction
+Sánchez-Rodríguez
+et al.352010 Laparoscopic
+cholecystectomy105/105 Dexamethasone 8 mg IV 60 min
+preoperatively
+Thangaswamy et al.302010 Laparoscopic hysterectomy 36/19 Dexamethasone 4 mg and 8 mg IV 2
+h preoperatively
+Fukami et al.462009 Laparoscopic
+cholecystectomy40/40 Dexamethasone 8 mg IV 90 min
+before surgery
+Jokela et al.312009 Laparoscopic hysterectomy 120/30 Dexamethasone 5 mg, 10 mg and 15
+mg IV before induction
+Yeo et al.522009 Middle ear surgery 40/40 Dexamethasone 10 mg IV after
+induction
+Kardash et al.432008 Total hip arthroplasty 25/25 Dexamethasone 40 mg IV
+intraoperative
+Worni et al.362008 Thyroidectomy 37/35 Dexamethasone 8 mg IV 45 min
+preoperatively
+Bianchin et al.402007 Laparoscopic
+cholecystectomy36/37 Dexamethasone 8 mg IV 2min before
+induction
+Hval et al.392007 Breast segmental
+mastectomy50/50 Dexamethasone 16 mg IV after
+induction
+Wuet al.322007 Anorectal surgery 30/30 Dexamethasone 5 mg IV before
+induction
+Aminmansour et al.442006 Lumbar discectomy 39/22 Dexamethasone 40 mg or 80 mg IV–
+time not specified
+Chen et al.412006 Orthopedic, otolaryngologic,
+ophthalmologic,laparoscopy, laparotomy350/350 Dexamethasone 10 mg before
+induction
+Feo et al.
+472005 Laparoscopic
+cholecystectomy49/52 Dexamethasone 8 mg 90 min before
+surgery
+McKean et al.372005 Tonsillectomy 24/22 Dexamethasone 10 mg IV after
+induction
+Bisgaard et al.382003 Laparoscopic
+cholecystectomy40/40 Dexamethasone 8 mg IV 90 min
+preoperatively
+Coloma et al.502002 Laparoscopic
+cholecystectomy70/70 Dexamethasone 4 mg IV at induction
+Elhakim et al.452002 Laparoscopic
+cholecystectomy120/30 Dexamethasone 4 mg, 8 mg, 16 mg
+before induction
+Leeet al.482002 Gynecologic laparoscopy 83/84 Dexamethasone 8 mg before
+induction
+Wang et al.332002 Laparoscopic
+cholecystectomy38/39 Dexamethasone 5 mg IV after
+induction
+Coloma et al.342001 Anorectal surgery 40/40 Dexamethasone 4 mg IV
+intraoperative
+Carr et al.491999 Tonsillectomy 15/14 Dexamethasone 20 mg IV
+intraoperatively
+Wang et al.511999 Laparoscopic
+cholecystectomy40/38 Dexamethasone 8 mg IV before
+induction
+McKenzie et al.421997 Major gynecologic surgery 40/40 Dexamethasone IV 20 mg after
+induction
+† Means and SDs for data used in analysis were extracted from tables and or text unless specified. ‡ Means and/or SDs were estimated
+from median and or range.
+IM/H11005intramuscularly; IV /H11005intravenously; PCA /H11005patient-controlled analgesia; po /H11005per oral; PRN /H11005as needed; q /H11005every; SC /H11005
+subcutaneously.Dexamethasone for Postoperative Pain
+Anesthesiology 2011; 115:575–88 De Oliveira, Jr. et al . 578
+
+Table 1. Continued
+Type of Anesthesia Postoperative AnalgesiaModified
+Jadad
+Score (1–5)9Method of Data
+Extraction†
+Fentanyl/propofol/
+isofluraneAcetaminophen 1g p oq6h r /H11001tramadol
+(IM) PRN4 Table/Figure
+Fentanyl/propofol Ketorolac 30 mg I Vq8h r /H11001buprenorphine
+(0.15–0.30 mcg) PRN3 Table/text
+Fentanyl/propofol/N2O/
+isofluraneFentanyl PCA 5 Figure/text
+Fentanyl/propofol/N2O/
+sevofluraneDiclofenac sodium 50 mg per rectum PRN 3 Table/text
+Remifentanil/propofol/
+N2OOxycodone PCA 5 Table/Figure
+Propofol/isoflurane/
+N2OKetorolac 30 mg I Vq6h 4 Table/text
+Spinal, L2-L3, 15 mg 0.5%
+bupivacainePCA morphine, acetaminophen 650 mg po
+q 6 h and ibuprofen 400 mg p oq6h5 Table/text
+Fentanyl/propofol/thiopental/
+isoflurane/sevofluraneAcetaminophen
+4g/H11001metamizole /H11001morphine IV or SC5 Figure/text
+Fentanyl/propofol/N2O/
+sevofluraneKetorolac 30 mg IV 5 Table/text‡
+Remifentanil/fentanyl/
+propofolOxycodone 5 mg po 5 Figures/text
+Propofol/sevoflurane/
+N2OKetorolac 30 mg IV /H11001meperidine 12.5–25
+mg IV4 Table/text
+Anesthetic regimen not
+standardizedMorphine SC 3 Table/text
+Fentanyl/propofol/
+sevofluraneMeperidine 50 mg I Mq4h rP R N 4 Table/text
+Fentanyl/propofol/
+sevofluraneAcetaminophe n1gI Vq6h /H11001ketoprofen
+PRN3 Figures/text
+Morphine/propofol/N2O/
+isofluraneAcetaminophe n1gP Oq6h /H11001diclofenac
+5 0m gP Oq8h5 Tables/text‡
+Fentanyl/propofol Ibuprofen 600 mg p oq8h /H11001morphine
+5–10 mg IV5 Figures/table/text
+Fentanyl/propofol/sevoflurane Fentanyl 25mcg PRN pain 3 Table/textFentanyl/propofol/N
+2O/
+isofluraneNalbuphine 20 mg I Mq4h rP R N 4 Table/text
+Fentanyl/thiopental/
+sevofluraneKetorolac 15 mg IV 3 Table/text
+Fentanyl/propofol/
+isofluraneTenoxicam 20 mg q 12 hr IV 5 Author
+Sedation: midazolam,
+propofol, ketorolac,fentanyl, and localinfiltrationHydrocodone 2.5 mg –acetaminophen
+500 mg2 Table/text
+Not described Codeine elixi rq4h rP R N 5 Figure
+Fentanyl/propofol/
+isofluraneMorphine PCA IV 5 Table/text
+Fentanyl/propofol/N
+2O/
+isofluraneMorphine IV PCA 4 Table/text‡PAIN MEDICINE
+Anesthesiology 2011; 115:575–88 De Oliveira, Jr. et al . 579
+
+data could not be extracted, or authors could not be
+reached15–26; one trial used multiple doses27; and one trial
+evaluated oral dexamethasone.28The characteristics of in-
+cluded studies are listed in table 1. The evaluated trials in-cluded data from 2,751 subjects and were published between1997 and 2010.
+29–52The median number of patients in the
+included studies receiving dexamethasone was 40. The me-dian modified Jadad scale score was 4. The trials tested asingle dose of dexamethasone given either preoperatively orintraoperatively in a large variety of surgical procedures. All24 studies reported on opioid consumption and/or painscores. Six studies reported pain scores for both rest andactivity.
+30,31,38,39,43,45
+Early (0 – 4 h) Pain at RestThe overall effect of dexamethasone on early pain at restcompared with placebo favored dexamethasone with amean difference (95% CI) of /H110020.32 (/H110020.46 to /H110020.18)
+(fig. 2). The funnel plot did not demonstrate asymmetry,indicating that there was not substantial publication bias
+(P/H110050.43) (fig. 3).
+The aggregate effect of the six studies evaluating low-
+dose dexamethasone on early pain at rest
+29–34did not
+achieve statistical significance at /H110020.33 (/H110020.70 to 0.04)
+of dexamethasone compared with placebo (fig. 2). All thestudies assessed dexamethasone given intraoperatively.Post hoc sensitivity analysis demonstrated that removal of
+the study of Thangaswamy et al.
+30would change the anal-
+ysis to result in a significant effect of /H110020.42 (/H110020.81 to
+/H110020.03) for low-dose dexamethasone compared with
+placebo.
+The effect of the combined 11 studies examining the
+effect of intermediate-dose dexamethasone on early painat rest
+29–31,35–42suggests a decrease in early pain of
+/H110020.33 (/H110020.52 to /H110020.13) compared with placebo. There
+was no difference in the effect of time of drug administra-tion on early pain and 38% of the total variance in theeffect was explained by the time of drug administration.
+Fig. 2. Pooled data evaluating the effect of dexamethasone dose on early pain scores (4 h or less) at rest compared with
+placebo. Data evaluated using a random effects model. Point estimate (95% CI) for overall effect was /H110020.32 (/H110020.46 to /H110020.17).
+Standardized mean difference for individual study represented by small circles on Forrest plot with 95% CI of the difference
+shown as solid line .Larger sized circle andthicker 95% CI line denote larger sample size. The diamond represents the pooled
+estimate and uncertainty for the effects of low- (0.1 mg/kg or less), intermediate- (0.11–0.2 mg/kg), and high-dose (more than0.2 mg/kg) dexamethasone, respectively. Sample heterogeneity as assessed by the I
+2for the low-, intermediate-, and high-dose
+grouping of studies was 68, 52, and 42, respectively.Dexamethasone for Postoperative Pain
+Anesthesiology 2011; 115:575–88 De Oliveira, Jr. et al . 580
+
+The heterogeneity for studies evaluating the preoperative
+administration was low ( I2/H110050) but it was high for studies
+examining the intraoperative administration of the drug
+(I2/H1100577).
+Five studies evaluated the effect of high-dose dexametha-
+sone on early postoperative pain at rest.31,39,42–44One
+study44provided two comparisons that were included in the
+analysis. There was a beneficial effect of dexamethasone onearly pain of /H110020.29 (/H110020.57 to/H110020.02). Dexamethasone was
+administered intraoperatively in all of these studies. No dif-ference in effectiveness was found among the dexamethasonegroups on early pain at rest.Early (0 – 4 h) Pain at Movement
+The overall effect of dexamethasone on early pain atmovement compared with placebo favored dexametha-sone with a mean difference (95% CI) of /H110020.64 (/H110020.86 to
+/H110020.41) (fig. 4) The funnel demonstrated some asymmetry
+(P/H110050.04) with one of the seven studies outside the
+95% CI, indicating some heterogeneity favoring dexa-methasone; however, the low number of studies limitsthe potential for evaluating substantial publication bias(fig. 5).
+Fig. 3. Early pain at rest funnel plot assessing publication
+bias. Plotted is the SE versus standard difference in mean
+(Effects). Vertical line is the combined effect for early pain,
+with diagonal lines representing the expected 95% CI from
+the combined effect. Studies outside the funnel indicate het-erogeneity. Eggers regression suggests absence of asymme-try (P/H110050.43, one-sided).
+Fig. 4. Pooled data evaluating the effect of dexamethasone dose on early pain scores (4 h or less) with movement compared
+with placebo. Data evaluated using a random effects model. Point estimate (95% CI) for overall effect was /H110020.64 (/H110020.86 to
+/H110020.41). Standardized mean difference for individual study represented by square on Forrest plot with 95% CI of the difference
+shown as solid line .Larger sized circle andthicker 95% CI line denote larger sample size. The diamond represents the pooled
+estimate and uncertainty for the effects of low- (0.1 mg/kg or less), intermediate- (0.11–0.2 mg/kg), and high-dose (more than0.2 mg/kg) dexamethasone, respectively. Sample heterogeneity as assessed by the I
+2for the low-, intermediate-, and high-dose
+grouping of studies was 0, 0 and 74, respectively.
+Fig. 5. Early pain at movement funnel plot assessing publi-
+cation bias. Plotted is the SE versus standard difference in
+mean (Effects). Vertical line is the combined effect for early
+pain, with diagonal lines representing the expected 95% CI
+from the combined effect. Studies outside the funnel indicateheterogeneity. The funnel demonstrated some asymmetry(P/H110050.04, one-sided) with one of the seven studies outside
+the 95% CI indicating some heterogeneity favoring dexa-methasone; however, the low number of studies limits thepotential for evaluating substantial publication bias.PAIN MEDICINE
+Anesthesiology 2011; 115:575–88 De Oliveira, Jr. et al . 581
+
+Two studies evaluated the effect of low-dose dexametha-
+sone on early pain at movement,30,31showing a reduction
+when compared with placebo, /H110020.43(/H110020.84 to /H110020.03).
+Three studies assessed the effect of moderate-dose dexameth-asone on early pain at movement,
+30,31,38showing a reduc-
+tion when compared with placebo, /H110020.65 (/H110020.96 to
+/H110020.35), and two studies evaluating high dose dexametha-
+sone on early pain at movement31,39also demonstrated a
+decrease in pain when compared with placebo, /H110021.09
+(/H110021.77 to /H110020.42). There was no difference between the
+effects of different doses of dexamethasone on early pain atmovement.
+Late (24 h) Pain at Rest
+The overall effect of dexamethasone on late pain at rest com-pared with placebo favored dexamethasone with a mean dif-ference (95% CI) of /H110020.49 (/H110020.67 to/H110020.31) (fig. 6). The
+funnel demonstrated moderate asymmetry ( P/H110050.01) with 5
+of the 25 studies outside the 95% CI with 2
+40,41favoring
+placebo and 331,35,42favoring dexamethasone (fig. 7).The effects of dexamethasone (compared with placebo)
+on late pain at rest by dosing groups is presented in figure 6.Five studies examined the effects of low-dose dexamethasoneon late pain at rest.
+29,30,31,33,45One study45provided two
+comparisons and both were included in the analysis. A pos-itive effect on late pain at rest of /H110020.47 (/H110020.68 to/H110020.25)
+was observed. There was no evidence of asymmetry in thefunnel plot ( P/H110050.15).
+Twelve studies evaluated the effect of intermediate-dose
+dexamethasone on late pain at rest.
+30,31,35–38,40,41,45–48One
+study48provided two comparisons and both were included in
+the analysis. There was a decrease in late pain at rest of /H110020.41
+(/H110020.80 to/H110020.03) compared with placebo. There was no evi-
+dence of asymmetry in the funnel plot ( P/H110050.09). There was a
+greater effect when dexamethasone was given preoperatively,/H110020.77 (/H110020.95–0.09) compared with intraoperative adminis-
+tration,/H110020.007 (/H110020.12–0.11) ( P/H110210.001).
+The six studies examining the effect of high-dose dexa-
+methasone on late pain at rest
+31,39,42,43,45,49demonstrated a
+Fig. 6. Pooled data evaluating the effect of dexamethasone dose on late pain scores (24 h) at rest compared with placebo. Data
+evaluated using a random effects model. Point estimate (95% CI) for overall effect was /H110020.49 (/H110020.67 to /H110020.31). Standardized
+mean difference for individual study represented by circle on Forrest plot with 95% CI of the difference shown as solid line .
+Larger sized circle and thicker 95% CI line denote larger sample size. The diamond represents the pooled estimate and
+uncertainty for the effects of low- (0.1 mg/kg or less), intermediate- (0.11–0.2 mg/kg), and high-dose (more than 0.2 mg/kg)dexamethasone, respectively. Sample heterogeneity as assessed by the I
+2for the low-, intermediate- and high-dose grouping
+of studies was 0, 71, and 96, respectively.Dexamethasone for Postoperative Pain
+Anesthesiology 2011; 115:575–88 De Oliveira, Jr. et al . 582
+
+decrease in pain of /H110021.0 (/H110021.77 to/H110020.26) compared with
+placebo. There was no evidence of asymmetry on the funnelplot ( P/H110050.14). All studies assessed dexamethasone given
+intraoperatively. There was no difference in the effect on latepain when the high-dose dexamethasone was compared
+with the moderate- ( P/H110050.13) or the low-dose ( P/H110050.14)
+groups.Late Pain at Movement
+The overall effect of dexamethasone on late pain at movementcompared with placebo favored dexamethasone with a meandifference (95% CI) of /H110020.47 (/H110020.71 to/H110020.24) (fig. 8). The
+funnel demonstrated asymmetry ( P/H110050.003) with one study
+43
+favoring dexamethasone outside the 95% CI (fig. 9).
+Three studies examined the effect of low-dose dexameth-
+asone.30,31,45One of the studies45provided data for two
+comparisons and both were included in the analysis. Low-dose dexamethasone demonstrated a reduction of /H110020.39
+(/H110020.66 to/H110020.12) in late pain at movement. There was no
+evidence of asymmetry on the funnel plot ( P/H110050.43).
+Four studies examining the effect of moderate-dose dexa-
+methasone
+30,31,38,45also showed a reduction in pain of
+/H110020.52 (/H110021.02,/H110020.03). However, the analysis was limited
+by asymmetry ( P/H110050.05). Rosenthal analysis predicted that
+14 missing studies would be required to change the analysis.There was no difference in the influence of time of drugadministration on the dexamethasone effects ( P/H110050.45),
+with 18% of the total accounted variance due to time ofadministration. There was high heterogeneity in the effectwhen the drug was administered intraoperatively ( I
+2/H1100589)
+and low heterogeneity when the drug was administered pre-operatively ( I
+2/H110050).
+Four studies evaluated the effect of high-dose dexameth-
+asone on late pain at movement,31,39,43,45demonstrating a
+reduction in pain of /H110023.16 (/H110024.95 to/H110021.38). The analysis
+Fig. 7. Late pain (24 h) at rest funnel plot assessing publica-
+tion bias. Plotted is the SE versus standard difference in
+mean (Effects). Vertical line is the combined effect for early
+pain with diagonal lines representing the expected 95% CIfrom the combined effect. Studies outside the funnel indicateheterogeneity. The funnel demonstrated moderate asymme-try (P/H110050.01, one-sided) with 5 of the 25 studies outside the
+95% CI, with 2 favoring placebo and 3 favoring dexametha-sone. There was no asymmetry in funnel plots for low-, mod-erate-, or high-dose dexamethasone subgroups.
+Fig. 8. Pooled data evaluating the effect of dexamethasone dose on late pain scores (24 h) with movement compared with
+placebo. Data evaluated using a random effects model. Point estimate (95% CI) for overall effect was /H110020.47 (/H110020.71 to /H110020.24).
+Standardized mean difference for individual study represented by circle on Forrest plot with 95% CI of the difference shown as
+solid line .Larger sized circle andthicker 95% CI line denote larger sample size. The diamond represents the pooled estimate
+and uncertainty for the effects of low- (0.1 mg/kg or less), intermediate- (0.11–0.2 mg/kg), and high-dose (more than 0.2 mg/kg)dexamethasone, respectively. Sample heterogeneity as assessed by the I
+2for the low, intermediate and high dose grouping of
+studies was 0, 71 and 96, respectively.PAIN MEDICINE
+Anesthesiology 2011; 115:575–88 De Oliveira, Jr. et al . 583
+
+was potentially affected by asymmetry of the sample ( P/H11005
+0.01), indicating a publication bias for positive studies.Rosenthal analysis suggested that 104 missing studies wouldbe needed to increase the Pvalue above 0.05. Post hoc sensi-
+tivity analysis demonstrated that removal of the Kardash et
+al.
+43study would result in a change in the effect of the high
+dose dexamethasone group on late pain to /H110020.84 (/H110021.12 to
+/H110020.56) when compared with placebo. With the Kardash et
+al.43study included high-dose dexamethasone showed im-
+provement in late pain at movement compared with the low(P/H110050.003) or intermediate ( P/H110050.004) dose; whereas with the
+Kardash et al.study removed high-dose dexamethasone showed
+improvement in late pain at movement compared with the low(P/H110050.01) but not intermediate ( P/H110050.26) dose.
+Postoperative Opioid Cconsumption
+The overall effect of dexamethasone on postoperative opioidconsumption compared with placebo favored dexametha-sone with a mean difference (95% CI) of /H110020.41 (/H110020.58 to
+/H110020.24) (fig. 10). The funnel plot did not demonstrate asym-metry indicating that there was not substantial publication
+bias ( P/H110050.35) (fig. 11).
+Four studies evaluated the effect of low-dose dexametha-
+sone on postoperative opioid consumption.
+30,31,45,50One
+study provided data for two comparisons, and both wereincluded in the analysis.
+45No difference in opioid consump-
+tion compared with placebo was found at /H110020.17 (/H110020.38 to
+0.03). All of the studies evaluated dexamethasone adminis-tered during the intraoperative period.
+Nine studies examined the effect of moderate dose dexa-
+methasone on postoperative opioid consumption demon-strating an opioid-sparing effect of /H110020.82 (/H110021.22 to/H110020.42)
+compared with placebo.
+30,31,35,36,38,40,41,45,51Moderate-
+dose dexamethasone also decreased opioid consumptioncompared with low dose ( P/H110050.003). When given in the
+preoperative period, the mean effect of dexamethasone onopioid consumption was /H110020.9 (/H110021.15 to/H110020.72) compared
+with/H110020.48 (/H110021.04 to/H110020.07) when given intraoperatively
+(P/H110050.1), suggesting an advantage for preoperative admin-
+istration. In addition, 46% of the between-studies variationin effect was due to the time of drug administration.
+Five studies assessed the effects of high-dose dexametha-
+sone on postoperative opioid consumption.
+31,39,43,44,45One
+study51provided data for two comparisons, and both were
+included in the analysis. There was a reduction in postoper-
+ative opioid consumption of /H110020.84 (/H110021.24 to/H110020.45) com-
+pared with placebo. All studies included in the analysis evaluateddexamethasone administered intraoperatively. High- dose
+dexamethasone reduced opioid consumption compared withlow dose ( P/H110050.002), but there was no difference in the
+opioid-sparing effect when comparing moderate-dose andhigh-dose dexamethasone ( P/H110050.94).
+Chronic Pain (3 Months or Longer)
+None of the included studies reported on chronic pain.
+Time to First Analgesic Administration (Minutes)
+Four studies evaluated the effects of low-dose dexamethasoneon time to analgesic administration.
+30,31,45,50One study45
+provided data for two comparisons, and both were includedin the analysis. There was a prolongation of the time toanalgesic requirement when the low dexamethasone groupwas compared with placebo at 0.70 (0.01–1.39). There was
+no evidence of an asymmetric funnel plot ( P/H110050.07). The
+studies demonstrated high heterogeneity ( I
+2/H1100589) but the be-
+tween-studies variability could not be explained by the time
+of drug administration.
+Three studies evaluated the effect of intermediate-dose
+dexamethasone on time to analgesic requirement,30,31,45
+showing no effect on the time to analgesic requirement: 1.09(/H110020.2 to 2.41). There was no evidence of asymmetric funnel
+plots ( P/H110050.21). The analysis was limited by high heteroge-
+neity that could not be explained by time of administrationof dexamethasone ( I
+2/H1100592). Only two studies evaluated the
+effect of high-dose dexamethasone on time to analgesic re-
+Fig. 9. Late pain (24 h) at movement funnel plots assessing
+publication bias. Plotted is the SE versus standard difference
+in mean (Effects). Vertical line is the combined effect for early
+pain, with diagonal lines representing the expected 95% CI
+from the combined effect. Studies outside the funnel indicateheterogeneity. ( A) Funnel plot for dexamethasone less than
+0.1 mg/kg. There was no evidence of asymmetry on thefunnel plot ( P/H110050.43, one-sided). ( B) Funnel plot for interme-
+diate dose dexamethasone (0.11–0.2 mg/kg) and late painwith movement. Eggers regression demonstrated someasymmetry ( P/H110050.05, one-sided) with one study lying outside
+of the 95% CI. ( C) Funnel plot for high-dose dexamethasone
+(more than 0.2 mg/kg) and late pain with movement. Eggersregression demonstrated asymmetry ( P/H110050.01, one sided)
+with one study lying outside of the 95% CI.Dexamethasone for Postoperative Pain
+Anesthesiology 2011; 115:575–88 De Oliveira, Jr. et al . 584
+
+quirement, showing no delay on the time to analgesic re-
+quirement: 0.72 ( /H110020.70 to 2.14).31,45The analysis was lim-
+ited by the low number of studies and high heterogeneity(I
+2/H1100592). Both studies evaluated dexamethasone given dur-
+ing the intraoperative period.Time to Hospital Discharge (Hours)
+Five studies examined the effect of low-dose dexamethasone ontime to hospital discharge compared with placebo.
+30,32,34,45,50
+One study45provided data for two comparisons, and both
+were included in the analysis. The com bined data showed a
+decrease in time to hospital discharge: /H110020.47 (/H110020.72 to
+/H110020.2). The analysis was limited by the presence of an
+asymmetric funnel plot ( P/H110050.04), with Rosenthal anal-
+ysis suggesting 30 missing studies would be needed tochange the results.
+Six studies assessed the effect of moderate-dose dexameth-
+asone compared with placebo on time to hospital dis-charge.
+30,35,36,40,45,47There was a reduction in time to dis-
+charge,/H110020.47 (/H110020.91 to /H110020.04), and no evidence of an
+asymmetric funnel plot ( P/H110050.40). Heterogeneity was high
+(I2/H1100589), with 16% of the total variance attributable to the
+time of drug administration. Only one study45that evaluated
+the effect of high-dose dexamethasone on the time to hospi-tal discharge demonstrated a 5.5-h reduction when com-pared with placebo ( P/H110210.001).
+Safety Analysis
+Among the studies evaluating low dose dexamethasone, twodid not comment on adverse side effects.
+29,32Three studies
+reported no difference in adverse side effects,33,45,50two spe-
+Fig. 10. Pooled data evaluating the effect of dexamethasone dose on opioid consumption (intravenous morphine equivalents)
+compared with placebo. Data evaluated using a random effects model. Point estimate (95% CI) for overall effect was /H110020.41
+(/H110020.91 to /H110020.24). Standardized mean difference for individual study represented by circle on Forrest plot with 95% CI of the
+difference shown as solid line .Larger sized circle andthicker 95% CI line denote larger sample size. The diamond represents
+the pooled estimate and uncertainty for the effects of low- (0.1 mg/kg or less), intermediate- (0.11–0.2 mg/kg), and high-dose(more than 0.2 mg/kg) dexamethasone, respectively. Sample heterogeneity as assessed by the I
+2for the low-, intermediate-,
+and high-dose grouping of studies was 0, 89, and 67, respectively.
+Fig. 11. Opioid-sparing effect of dexamethasone funnel plot
+assessing publication bias. Plotted is the SE versus standard
+difference in mean (Effects). Vertical line is the combined
+effect for early pain, with diagonal lines representing the
+expected 95% CI from the combined effect. Studies outsidethe funnel indicate heterogeneity. Eggers regression sug-gests absence of asymmetry ( P/H110050.35, one-sided).PAIN MEDICINE
+Anesthesiology 2011; 115:575–88 De Oliveira, Jr. et al . 585
+
+cifically reported no difference in postoperative wound in-
+fection,30,34and one study specifically reported no cases with
+delayed wound healing.30One study reported no difference
+in changes of blood glucose between the dexamethasone andplacebo group.
+30
+Among studies evaluating moderate doses of dexametha-
+sone, two did not report on side effects,37,51two reported no
+differences in adverse side effects,41,45eight specifically
+reported no cases of postoperative wound infec-tion,
+30,35,36,40,46–48,52and one reported the same incidence
+of wound infection in the dexamethasone and placebogroups,
+38resulting in a 0.2% (0.05% to 1%) incidence of
+postoperative infection for both the dexamethasone and pla-cebo groups. These numbers resulted in an overall risk dif-ference (95% CI) of 0% ( /H110021.2% to 1.2%) between the
+moderate dose dexamethasone group and saline. The lowerestimate of the 95% CI of the number needed to harm is 83,therefore indicating that we can exclude one additional caseof wound infection in fewer than 83 patients. Two studiesreported no difference in change of blood glucose
+30,36and
+four studies specifically reported no differences in woundhealing.
+Among studies evaluating high-dose dexamethasone, one
+study did not comment on side effects,
+49two reported no
+cases of serious side effects,39,45one specifically reported no
+cases of wound infection or delayed wound healing,43and
+one trial reported a single case of wound infection in theplacebo group and no case in the dexamethasonegroups
+44These numbers resulted in an overall risk difference
+(95% CI) of 0.3% ( /H110022.5% to 3.1%). The lower estimate of
+the number needed to harm is 32, indicating that we can ruleout one additional case of wound infection in fewer than 32patients. Three studies
+31,43,45showed no decrease in the
+odds ratio (95% CI) for pruritus: 0.72 (0.2 to 2.1) comparedwith placebo.
+Discussion
+Several important findings emerged from our meta-analysis.First, intermediate-dose dexamethasone (0.11–0.2 mg/kg)had opioid-sparing effects. It also reduced early and late painboth at rest and at movement. Heterogeneity was partiallyexplained by the time of drug administration (preoperativevs.intraoperative). High-dose dexamethasone (more than
+0.2 mg/kg) had opioid-sparing effects and also decreasedpain scores. We were unable to detect a difference in opioid use
+for the low-dose dexamethasone (less than 0.1 mg/kg) whengiven intraoperatively despite a reduction in late pain at rest andat movement. There is evidence that a single perioperative sys-temic dexamethasone dose can be used as part of a multimodalpain strategy to reduce postoperative pain.
+Our findings have important clinical implications be-
+cause lower dose dexamethasone is commonly given intraop-eratively at the time of anesthesia induction to reduce post-operative nausea and vomiting.
+6By giving intermediate
+doses of dexamethasone (0.11–0.2 mg/kg), beneficial effectson postoperative pain and a reduction in opioid consump-
+tion in addition to decreased nausea and vomiting can beachieved.
+7The decreased variability in analgesic effectiveness
+when moderate-dose dexamethasone was administered pre-operatively favors preoperative rather than intraoperative ad-ministration of the drug. This finding is consistent with thetime to peak effect of dexamethasone (45 min to 1 h). Apotential limitation to the preoperative administration ofdexamethasone is that it can frequently (50–70%) produce
+extreme perineal pain when given rapidly in low volumes.
+53
+This effect can be avoided if the dexamethasone dose is di-luted in 50 ml saline solution and infused over 10 min.
+54
+In a comparison, the high-dose dexamethasone group re-
+duced late pain at movement compared with the intermedi-ate dose, but did not show a significant advantage in opioid-sparing effects, early pain at rest and at movement, and latepain at rest. Dexamethasone was administered intraopera-tively for all of the studies evaluating the high-dose group,which limited our ability to investigate the influence of thetime of drug administration on the outcome measures. Inregard to early pain at rest, the three dexamethasone groupshad similar point estimate reductions, but we were unable todemonstrate a statistically significant effect for the low dosegroup.
+Our review provided evidence that a single dose of peri-
+operative dexamethasone did not increase dose-limitingcomplications such as wound infection nor does it appear todelay wound healing. This conclusion is strongest for themoderate doses of dexamethasone because there are greaternumbers of patients studied at this dosing level. Our studycorroborates the safety assessment regarding postoperativewound infection and healing in a systematic review evaluat-ing a single dose of a different corticosteroid (methylpred-nisolone).
+55Because we included several procedures and not
+only contaminated surgeries, our findings cannot be gener-alized to patients at high risk of developing postoperativewound infection. Blood glucose alterations were specificallymentioned in only two studies, limiting any safety assess-ment on this important side effect.
+Time to hospital discharge, an important outcome due to
+its economic implications and affected by the presence ofpostoperative pain,
+56showed a similar positive effect in both
+low-dose and intermediate-dose groups. The analysis, how-ever, was limited by the presence of publication bias in thelow dexamethasone group, and by high heterogeneity in themoderate-dose group. It is conceivable that further reductionin postoperative pain could affect discharge time, althoughwe were unable to demonstrate this in our current analysis.
+Our meta-analysis had several limitations. In an attempt
+to generalize our findings to different surgical procedures, weincluded different types of surgeries that may have affectedthe heterogeneity in some of our analyses. Varying methodsof postoperative pain management across the studies wereanother potential source of heterogeneity. We could notdemonstrate a decrease in opioid-related side effects such asDexamethasone for Postoperative Pain
+Anesthesiology 2011; 115:575–88 De Oliveira, Jr. et al . 586
+
+pruritus because of the low number of studies by dosing
+group reporting on these side effects. We also did not exam-ine the effect of dexamethasone on postoperative nausea andvomiting. We believe that this analysis would be biased by alarge number of studies that evaluated postoperative nauseaand vomiting but not postoperative pain and that were,therefore, excluded from our analysis.
+Our quantitative review raises important questions that
+need to be addressed in future studies. First, the effect of lowand high dose dexamethasone given preoperatively on post-operative pain needs further investigation. Second, side ef-fects such as wound infection and healing with high-dosedexamethasone, especially in open surgical procedures, needadditional evaluation. Third, because acute pain can contrib-ute to the development of chronic pain,
+57studies assessing
+the effects of dexamethasone on chronic postoperative painare also warranted. The data originated in the current studyshould be confirmed by large dose-ranging randomized clin-ical trials.
+In summary, low-dose dexamethasone when given intra-
+operatively does not have opioid sparing effects after surgery.High-dose dexamethasone (more than 0.2 mg/kg) whengiven intraoperatively has opioid-sparing effects and de-creased postoperative pain; however, it does not seem to beadvantageous when compared with intermediate (0.11 to 0.2mg/kg) doses. Intermediate dose dexamethasone (0.11 to 0.2mg/kg) is a safe and effective multimodal pain strategy aftersurgical procedures. The preoperative administration of thedrug provides a greater effect on postoperative pain.
+References
+1. White PF: The changing role of non-opioid analgesic tech-
+niques in the management of postoperative pain. AnesthAnalg 2005; 101:S5–22
+2. Bell RF, Dahl JB, Moore RA, Kalso E: Perioperative ketamine
+for acute postoperative pain. Cochrane Database Syst Rev2006 Jan 25;(1):CD004603
+3. Ho KY, Gan TJ, Habib AS: Gabapentin and postoperative
+pain: A systematic review of randomized controlled trials.Pain 2006; 126:91–101
+4. Ong CK, Seymour RA, Lirk P, Merry AF: Combining parac-
+etamol (acetaminophen) with nonsteroidal antiinflamma-tory drugs: A qualitative systematic review of analgesicefficacy for acute postoperative pain. Anesth Analg 2010;110:1170–9
+5. White PF: Multimodal analgesia: Its role in preventing post-
+operative pain. Curr Opin Investig Drugs 2008; 9:76–82
+6. Gan TJ, Meyer TA, Apfel CC, Chung F, Davis PJ, Habib AS,
+Hooper VD, Kovac AL, Kranke P, Myles P, Philip BK, SamsaG, Sessler DI, Temo J, Trame `r MR, Vander Kolk C, Watcha
+M, Society for Ambulatory Anesthesia: Society for Ambula-tory Anesthesia guidelines for the management of postop-erative nausea and vomiting. Anesth Analg 2007; 105:1615–28
+7. Karanicolas PJ, Smith SE, Kanbur B, Davies E, Guyatt GH:
+The impact of prophylactic dexamethasone on nausea andvomiting after laparoscopic cholecystectomy: A systematicreview and meta-analysis. Ann Surg 2008; 248:751–62
+8. Liberati A, Altman DG, Tetzlaff J, Mulrow C, Gøtzsche PC,
+Ioannidis JP, Clarke M, Devereaux PJ, Kleijnen J, Moher D:The PRISMA statement for reporting systematic reviews andmeta-analyses of studies that evaluate health care interven-
+tions: Explanation and elaboration. J Clin Epidemiol 2009;62:e1–34
+9. Jadad AR, Moore RA, Carroll D, Jenkinson C, Reynolds DJ,
+Gavaghan DJ, McQuay HJ: Assessing the quality of reports ofrandomized clinical trials: Is blinding necessary? ControlClin Trials 1996; 17:1–12
+10. Macintyre PE, Ready LB: Pharmacology of opioids, Acute
+Pain Management: A Practical Guide. 2nd edition. Philadel-phia, WB Saunders, 2001, pp 15–49
+11. Hozo SP, Djulbegovic B, Hozo I: Estimating the mean and
+variance from the median, range, and the size of a sample.BMC Med Res Methodol 2005; 5:13
+12. DerSimonian R, Laird N: Meta-analysis in clinical trials.
+Control Clin Trials 1986; 7:177–88
+13. Egger M, Davey Smith G, Schneider M, Minder C: Bias in
+meta-analysis detected by a simple, graphical test. BMJ1997; 315:629–34
+14. Rosenthal R: The file drawer problem and tolerance for null
+results. Psychol Bull 1979; 86: 638–41
+15. McKenzie R, Tantisira B, Karambelkar DJ, Riley TJ, Abdel-
+hady H: Comparison of ondansetron with ondansetron plusdexamethasone in the prevention of postoperative nauseaand vomiting. Anesth Analg 1994; 79:961–4
+16. Liu YH, Li MJ, Wang PC, Ho ST, Chang CF, Ho CM, Wang JJ:
+Use of dexamethasone on the prophylaxis of nausea andvomiting after tympanomastoid surgery. Laryngoscope2001; 111:1271–4
+17. Fujii Y, Nakayama M: Reduction of postoperative nausea and
+vomiting and analgesic requirement with dexamethasone inwomen undergoing general anesthesia for mastectomy.Breast J 2007; 13:564–7
+18. Fujii Y, Nakayama M: Dexamethasone for reduction of
+nausea, vomiting and analgesic use after gynecological lapa-roscopic surgery. Int J Gynaecol Obstet 2008; 100:27–30
+19. Fujii Y, Itakura M: Reduction of postoperative nausea, vom-
+iting, and analgesic requirement with dexamethasone forpatients undergoing laparoscopic cholecystectomy. SurgEndosc 2010; 24:692–6
+20. Fujii Y, Nakayama M: Dexamethasone for the reduction of
+postoperative nausea and vomiting and analgesic require-ments after middle ear surgery in adult Japanese patients.Methods Find Exp Clin Pharmacol 2009; 31:337–40
+21. Fujii Y, Nakayama M: Efficacy of dexamethasone for reduc-
+ing postoperative nausea and vomiting and analgesic re-quirements after thyroidectomy. Otolaryngol Head NeckSurg 2007; 136:274–7
+22. Zargar-Shoshtari K, Sammour T, Kahokehr A, Connolly AB,
+Hill AG: Randomized clinical trial of the effect of glucocor-ticoids on peritoneal inflammation and postoperative recov-ery after colectomy. Br J Surg 2009; 96:1253–61
+23. Lo ´pez-Olaondo L, Carrascosa F, Pueyo FJ, Monedero P, Busto
+N, Sa´ez A: Combination of ondansetron and dexamethasone
+in the prophylaxis of postoperative nausea and vomiting.Br J Anaesth 1996; 76:835–40
+24. Wang JJ, Ho ST, Lee SC, Liu YC, Ho CM: The use of
+dexamethasone for preventing postoperative nausea andvomiting in females undergoing thyroidectomy: A dose-ranging study. Anesth Analg 2000; 91:1404–7
+25. Movafegh A, Soroush AR, Navi A, Sadeghi M, Esfehani F,
+Akbarian-Tefaghi N: The effect of intravenous administra-tion of dexamethasone on postoperative pain, nausea, andvomiting after intrathecal injection of meperidine. AnesthAnalg 2007; 104:987–9
+26. Bergeron SG, Kardash KJ, Huk OL, Zukor DJ, Antoniou J:
+Perioperative dexamethasone does not affect functional out-come in total hip arthroplasty. Clin Orthop Relat Res 2009;467:1463–7
+27. Lachance M, Lacroix Y, Audet N, Savard P, Thuot F: The usePAIN MEDICINE
+Anesthesiology 2011; 115:575–88 De Oliveira, Jr. et al . 587
+
+of dexamethasone to reduce pain after tonsillectomy in
+adults: A double-blind prospective randomized trial. Laryn-goscope 2008; 118:232–6
+28. Mattila K, Kontinen VK, Kalso E, Hynynen MJ: Dexametha-
+sone decreases oxycodone consumption following osteot-omy of the first metatarsal bone: A randomized controlledtrial in day surgery. Acta Anaesthesiol Scand 2010; 54:268–76
+29. Al-Qudah M, Rashdan Y: Role of dexamethasone in reducing
+pain after endoscopic sinus surgery in adults: A double-blindprospective randomized trial. Ann Otol Rhinol Laryngol2010; 119:266–9
+30. Thangaswamy CR, Rewari V, Trikha A, Dehran M, Chan-
+dralekha: Dexamethasone before total laparoscopic hyster-ectomy: A randomized controlled dose-response study.J Anesth 2010; 24:24–30
+31. Jokela RM, Ahonen JV, Tallgren MK, Marjakangas PC, Kort-
+tila KT: The effective analgesic dose of dexamethasone afterlaparoscopic hysterectomy. Anesth Analg 2009; 109:607–15
+32. Wu JI, Lu SF, Chia YY, Yang LC, Fong WP, Tan PH: Sevo-
+flurane with or without antiemetic prophylaxis of dexa-methasone in spontaneously breathing patients undergoingoutpatient anorectal surgery. J Clin Anesth 2009; 21:469–73
+33. Wang JJ, Ho ST, Uen YH, Lin MT, Chen KT, Huang JC, Tzeng
+JI: Small-dose dexamethasone reduces nausea and vomitingafter laparoscopic cholecystectomy: A comparison of tro-pisetron with saline. Anesth Analg 2002; 95:229–32
+34. Coloma M, Duffy LL, White PF, Kendall Tongier W, Huber PJ
+Jr: Dexamethasone facilitates discharge after outpatient ano-rectal surgery. Anesth Analg 2001; 92:85–8
+35. Sa ´nchez-Rodríguez PE, Fuentes-Orozco C, Gonza ´lez-Ojeda A:
+Effect of dexamethasone on postoperative symptoms inpatients undergoing elective laparoscopic cholecystectomy:Randomized clinical trial. World J Surg 2010; 34:895–900
+36. Worni M, Schudel HH, Seifert E, Inglin R, Hagemann M,
+Vorburger SA, Candinas D: Randomized controlled trial onsingle dose steroid before thyroidectomy for benign diseaseto improve postoperative nausea, pain, and vocal function.Ann Surg 2008; 248:1060–6
+37. McKean S, Kochilas X, Kelleher R, Dockery M: Use of
+intravenous steroids at induction of anaesthesia for adulttonsillectomy to reduce post-operative nausea and vomitingand pain: A double-blind randomized controlled trial. ClinOtolaryngol 2006; 31:36–40
+38. Bisgaard T, Klarskov B, Kehlet H, Rosenberg J: Preoperative
+dexamethasone improves surgical outcome after laparo-scopic cholecystectomy: A randomized double-blind place-bo-controlled trial. Ann Surg 2003; 238:651–60
+39. Hval K, Thagaard KS, Sem TK, Schlichting E, Ellen S, Raeder
+J, Johan R: The prolonged postoperative analgesic effectwhen dexamethasone is added to a nonsteroidal antiinflam-matory drug (rofecoxib) before breast surgery. AnesthAnalg 2007; 105:481–6
+40. Bianchin A, De Luca A, Caminiti A: Postoperative vomiting
+reduction after laparoscopic cholecystectomy with singledose of dexamethasone. Minerva Anestesiol 2007; 73:343–6
+41. Chen MS, Hong CL, Chung HS, Tan PP, Tsai CC, Su HH,
+Wong CH: Dexamethasone effectively reduces postopera-tive nausea and vomiting in a general surgical adult patient
+population. Chang Gung Med J 2006; 29:175–8142. McKenzie R, Riley TJ, Tantisira B, Hamilton DL: Effect of
+propofol for induction and ondansetron with or withoutdexamethasone for the prevention of nausea and vomitingafter major gynecologic surgery. J Clin Anesth 1997;9:15–20
+43. Kardash KJ, Sarrazin F, Tessler MJ, Velly AM: Single-dose
+dexamethasone reduces dynamic pain after total hip arthro-plasty. Anesth Analg 2008; 106:1253–7
+44. Aminmansour B, Khalili HA, Ahmadi J, Nourian M: Effect of
+high-dose intravenous dexamethasone on postlumbar disc-ectomy pain. Spine 2006; 31:2415–7
+45. Elhakim M, Nafie M, Mahmoud K, Atef A: Dexamethasone 8
+mg in combination with ondansetron 4 mg appears to bethe optimal dose for the prevention of nausea and vomitingafter laparoscopic cholecystectomy. Can J Anaesth 2002;49:922–6
+46. Fukami Y, Terasaki M, Okamoto Y, Sakaguchi K, Murata T,
+Ohkubo M, Nishimae K: Efficacy of preoperative dexameth-asone in patients with laparoscopic cholecystectomy: Aprospective randomized double-blind study. J HepatobiliaryPancreat Surg 2009; 16:367–71
+47. Feo CV, Sortini D, Ragazzi R, De Palma M, Liboni A: Ran-
+domized clinical trial of the effect of preoperative dexa-methasone on nausea and vomiting after laparoscopic cho-lecystectomy. Br J Surg 2006; 93:295–9
+48. Lee Y, Lai HY, Lin PC, Huang SJ, Lin YS: Dexamethasone
+prevents postoperative nausea and vomiting more effec-tively in women with motion sickness. Can J Anaesth 2003;50:232–7
+49. Carr MM, Williams JG, Carmichael L, Nasser JG: Effect of
+steroids on posttonsillectomy pain in adults. Arch Otolaryn-gol Head Neck Surg 1999; 125:1361–4
+50. Coloma M, White PF, Markowitz SD, Whitten CW, Macaluso
+AR, Berrisford SB, Thornton KC: Dexamethasone in combi-nation with dolasetron for prophylaxis in the ambulatorysetting: Effect on outcome after laparoscopic cholecystec-tomy.
+ANESTHESIOLOGY 2002; 96:1346–50
+51. Wang JJ, Ho ST, Liu YH, Lee SC, Liu YC, Liao YC, Ho CM:
+Dexamethasone reduces nausea and vomiting after laparo-scopic cholecystectomy. Br J Anaesth 1999; 83:772–5
+52. Yeo J, Jung J, Ryu T, Jeon YH, Kim S, Baek W: Antiemetic
+efficacy of dexamethasone combined with midazolam aftermiddle ear surgery. Otolaryngol Head Neck Surg 2009; 141:684–8
+53. Neff SP, Stapelberg F, Warmington A: Excruciating perineal
+pain after intravenous dexamethasone. Anaesth IntensiveCare 2002; 30:370–1
+54. Bell A: Preventing perineal burning from i.v. dexametha-
+sone. Oncol Nurs Forum 1988; 15:199
+55. Sauerland S, Nagelschmidt M, Mallmann P, Neugebauer EA:
+Risks and benefits of preoperative high dose methylpred-nisolone in surgical patients: A systematic review. Drug Saf2000; 23:449–61
+56. Elvir-Lazo OL, White PF: Postoperative pain management
+after ambulatory surgery: Role of multimodal analgesia. An-esthesiol Clin 2010; 28:217–24
+57. Ga ¨rtner R, Jensen MB, Nielsen J, Ewertz M, Kroman N,
+Kehlet H: Prevalence of and factors associated with persis-tent pain following breast cancer surgery. JAMA 2009; 302:1985–92Dexamethasone for Postoperative Pain
+Anesthesiology 2011; 115:575–88 De Oliveira, Jr. et al . 588
+
