@@ -3,6 +3,7 @@ import sqlite3
 import os
 import sys
 from werkzeug.security import generate_password_hash, check_password_hash
+from datetime import datetime
 
 # Check for WEB parameter
 WEB_DEV = "WEB" in sys.argv
@@ -32,7 +33,7 @@ def admin_dashboard():
         conn.close()
         return abort(403)  # Forbidden
 
-    users = conn.execute("SELECT id, username FROM users WHERE is_admin != 1").fetchall()
+    users = conn.execute("SELECT id, name FROM users WHERE is_admin != 1").fetchall()
     conn.close()
     return render_template("admin.html", users=users)
 
@@ -48,7 +49,7 @@ def view_user_details(user_id):
         conn.close()
         return abort(403)  # Forbidden
 
-    user = conn.execute("SELECT id, username, dob, surgery_type, current_expert FROM users WHERE id = ?", (user_id,)).fetchone()
+    user = conn.execute("SELECT id, name, dob, attending_physician, current_expert FROM users WHERE id = ?", (user_id,)).fetchone()
     chat_history = conn.execute(
         "SELECT sender, message, timestamp FROM chat_history WHERE user_id = ? ORDER BY timestamp ASC",
         (user_id,)
@@ -117,20 +118,28 @@ def admin_delete_user(user_id):
 @app.route("/register", methods=["GET", "POST"])
 def register():
     if request.method == "POST":
-        username = request.form["username"]
-        password = request.form["password"]
+        record_id = request.form["record_id"]
+        password = record_id
         hashed_pw = generate_password_hash(password)
+        name = request.form["name"]
+        attending_physician = request.form["attending_physician"]
+        hospital_stay_date = request.form["hospital_stay_date"]
+        surgery_date = request.form["surgery_date"]
 
         conn = get_db_connection()
         try:
-            conn.execute("INSERT INTO users (username, password) VALUES (?, ?)", (username, hashed_pw))
+            conn.execute(
+                "INSERT INTO users (record_id, password, name, attending_physician, hospital_stay_date, surgery_date) VALUES (?, ?, ?, ?, ?, ?)",
+                (record_id, hashed_pw, name, attending_physician, hospital_stay_date, surgery_date)
+            )
             conn.commit()
             conn.close()
-            return redirect(url_for("login"))
+            return redirect(url_for("admin_dashboard"))
         except sqlite3.IntegrityError:
             conn.close()
-            return "Username already exists!"
-    return render_template("register.html")
+            return "病歷號已經存在!"
+    current_date = datetime.now().strftime("%Y-%m-%d")
+    return render_template("register.html", current_date=current_date)
 
 # User profile
 @app.route("/profile", methods=["GET", "POST"])
@@ -143,10 +152,10 @@ def profile():
 
     if request.method == "POST":
         dob = request.form["dob"]
-        surgery_type = request.form["surgery_type"]
+        attending_physician = request.form["attending_physician"]
 
-        conn.execute("UPDATE users SET dob = ?, surgery_type = ? WHERE id = ?",
-                     (dob, surgery_type, session["user_id"]))
+        conn.execute("UPDATE users SET dob = ?, attending_physician = ? WHERE id = ?",
+                     (dob, attending_physician, session["user_id"]))
         conn.commit()
         conn.close()
         return redirect(url_for("chat"))
@@ -158,23 +167,24 @@ def profile():
 @app.route("/login", methods=["GET", "POST"])
 def login():
     if request.method == "POST":
-        username = request.form["username"]
+        record_id = request.form["record_id"]
         password = request.form["password"]
 
         conn = get_db_connection()
-        user = conn.execute("SELECT * FROM users WHERE username = ?", (username,)).fetchone()
+        user = conn.execute("SELECT * FROM users WHERE record_id = ?", (record_id,)).fetchone()
         conn.close()
 
         if user and check_password_hash(user["password"], password):
             session["user_id"] = user["id"]
-            session["username"] = user["username"]
+            session["record_id"] = user["record_id"]
+            session["name"] = user["name"]
             session["is_admin"] = user["is_admin"]
             if user["is_admin"] == 1:
                 return redirect(url_for("admin_dashboard"))
             else:
-                return redirect(url_for("chat"))
+                return redirect(url_for("welcome"))
         else:
-            return "Invalid username or password!"
+            return "病歷號或是密碼錯誤!"
     return render_template("login.html")
 
 # Logout
@@ -184,11 +194,25 @@ def logout():
     return redirect(url_for("login"))
 
 # Chat page (must be logged in)
-@app.route("/")
+@app.route("/chat")
 def chat():
     if "user_id" not in session:
         return redirect(url_for("login"))
-    return render_template("chat.html", username=session["username"])
+    return render_template("chat.html")
+
+@app.route("/")
+def welcome():
+    if "user_id" not in session:
+        return redirect(url_for("login"))
+
+    conn = get_db_connection()
+    user = conn.execute("SELECT * FROM users WHERE id = ?", (session["user_id"],)).fetchone()
+    conn.close()
+
+    if not user:
+        return redirect(url_for("login"))
+
+    return render_template("welcome.html", user=user)
 
 # Get chat history
 @app.route("/get_history")
@@ -272,9 +296,9 @@ def get_all_users():
     users = conn.execute("SELECT * FROM users").fetchall()
     conn.close()
     return users
-def get_user_by_username(username):
+def get_user_by_record_id(record_id):
     conn = get_db_connection()
-    user = conn.execute("SELECT * FROM users WHERE username = ?", (username,)).fetchone()
+    user = conn.execute("SELECT * FROM users WHERE record_id = ?", (record_id,)).fetchone()
     conn.close()
     return user
 def get_user_by_id(user_id):
@@ -292,11 +316,11 @@ def get_dob(user_id):
     dob = conn.execute("SELECT dob FROM users WHERE id = ?", (user_id,)).fetchone()
     conn.close()
     return dob
-def get_surgery_type(user_id):
+def get_attending_physician(user_id):
     conn = get_db_connection()
-    surgery_type = conn.execute("SELECT surgery_type FROM users WHERE id = ?", (user_id,)).fetchone()
+    attending_physician = conn.execute("SELECT attending_physician FROM users WHERE id = ?", (user_id,)).fetchone()
     conn.close()
-    return surgery_type
+    return attending_physician
 def get_current_expert(user_id): # Default (0), 營養師(1)、護理(2)、復健科(3)、麻醉科(4)、手術醫師(5)
     conn = get_db_connection()
     current_expert = conn.execute("SELECT current_expert FROM users WHERE id = ?", (user_id,)).fetchone()
@@ -382,16 +406,16 @@ def get_doctor_list():
     conn.close()
     return jsonify([dict(d) for d in doctors])
 
-def ensure_chat_history_column():
-    conn = get_db_connection()
-    cursor = conn.cursor()
-    cursor.execute("PRAGMA table_info(chat_history)")
-    columns = [row["name"] for row in cursor.fetchall()]
-    if "doctor_name" not in columns:
-        print("Adding missing column: doctor_name")
-        cursor.execute("ALTER TABLE chat_history ADD COLUMN doctor_name TEXT")
-        conn.commit()
-    conn.close()
+# def ensure_chat_history_column():
+#     conn = get_db_connection()
+#     cursor = conn.cursor()
+#     cursor.execute("PRAGMA table_info(chat_history)")
+#     columns = [row["name"] for row in cursor.fetchall()]
+#     if "doctor_name" not in columns:
+#         print("Adding missing column: doctor_name")
+#         cursor.execute("ALTER TABLE chat_history ADD COLUMN doctor_name TEXT")
+#         conn.commit()
+#     conn.close()
 
 if __name__ == "__main__":
     # Initialize the database if it doesn't exist
@@ -401,12 +425,33 @@ if __name__ == "__main__":
         conn.execute('''
             CREATE TABLE IF NOT EXISTS users (
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
-                username TEXT UNIQUE NOT NULL,
+                record_id TEXT UNIQUE NOT NULL,
                 password TEXT NOT NULL,
                 is_admin INTEGER DEFAULT 0,
+                name TEXT,
                 dob DATE,
-                surgery_type TEXT,
-                current_expert INTEGER DEFAULT 0 NOT NULL
+                attending_physician TEXT NOT NULL,
+                hospital_stay_date DATE NOT NULL,
+                surgery_date DATE NOT NULL,
+                phone TEXT,
+                clinic_case_intake DATE DEFAULT NULL,
+                clinic_measure_height DATE DEFAULT NULL,
+                height REAL DEFAULT NULL,
+                clinic_measure_weight DATE DEFAULT NULL,
+                weight REAL DEFAULT NULL,
+                clinic_provide_preop_education_and_consent DATE DEFAULT NULL,
+                clinic_anxiety_survey_preop DATE DEFAULT NULL,
+                clinic_instruction_satisfaction_survey_preop DATE DEFAULT NULL,
+                anesthesiology_preop_assessment_and_explanation DATE DEFAULT NULL,
+                nutritionist_dietary_assessment_and_guidance DATE DEFAULT NULL,
+                pharmacist_medication_guidance DATE DEFAULT NULL,
+                rehab_preop_functional_and_balance_assessment DATE DEFAULT NULL,
+                rehab_preop_exercise_guidance DATE DEFAULT NULL,
+                ward_nurse_education DATE DEFAULT NULL,
+                ward_anxiety_survey_postop DATE DEFAULT NULL,
+                ward_instruction_satisfaction_survey_postop DATE DEFAULT NULL,
+                current_expert INTEGER DEFAULT 0 NOT NULL,
+                has_completed_profile INTEGER DEFAULT 0 NOT NULL
             )
         ''')
         # Create a table for chat history
@@ -434,12 +479,12 @@ if __name__ == "__main__":
 
         # Create an admin user
         conn.execute('''
-            INSERT INTO users (username, password, is_admin) VALUES (?, ?, ?)
-        ''', ("admin", generate_password_hash("nimda"), 1))
+            INSERT INTO users (record_id, password, attending_physician, hospital_stay_date, surgery_date, is_admin) VALUES (?, ?, ?, ?, ?, ?)
+        ''', ("admin", generate_password_hash("nimda"), "nimda", "2025-05-12", "2025-05-12", 1))
         conn.commit()
         conn.close()
         print("Database initialized.")
-    else:
-        ensure_chat_history_column()
+    # else:
+    #     ensure_chat_history_column()
     # Run the Flask app
     app.run(host="0.0.0.0", port=5001, debug=True)

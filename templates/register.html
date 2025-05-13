@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html>
-<head><title>Register</title></head>
+<head><title>新增病患</title></head>
 <body>
-  <h2>Register</h2>
+  <h2>新增病患</h2>
   <form method="post">
-    Username: <input name="username" required><br>
-    Password: <input type="password" name="password" required><br>
-    <button type="submit">Register</button>
+    病歷號: <input name="record_id" required>
+    姓名: <input name="name" required>
+    主治醫師: <input name="attending_physician" required>
+    住院日期: <input type="date" name="hospital_stay_date" value="{{ current_date }}">
+    手術日期: <input type="date" name="surgery_date" value="{{ current_date }}">
+    <button type="submit">新增</button>
   </form>
-  <p>Already have an account? <a href="/login">Login here</a></p>
+  <p><a href="/admin">返回</a></p>
 </body>
 </html>
