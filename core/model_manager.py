@@ -28,7 +28,6 @@ class ModelManager:
     """LLM 模型管理器"""
     
     def __init__(self):
-        """初始化模型管理器"""
         self.model_name = LLM_MODEL_NAME
         self.model = None
         self.tokenizer = None
@@ -38,11 +37,9 @@ class ModelManager:
         self._model_management_lock = threading.RLock()
         self._device_monitor_thread = None
         self._shutdown_flag = threading.Event()
-        
-        logger.info(f"ModelManager 初始化完成 (模型: {self.model_name})")
     
-    def initialize(self, force_cpu_init: bool = False) -> Tuple[Optional[Any], Optional[Any], Optional[int]]:
-        """初始化模型，強制在 CPU 上載入
+    def initialize(self, force_cpu_init: bool = True) -> Tuple[Optional[Any], Optional[Any], Optional[int]]:
+        """初始化模型
         
         Args:
             force_cpu_init: 是否強制在 CPU 上初始化
@@ -54,17 +51,13 @@ class ModelManager:
             if self.model is not None and self.tokenizer is not None:
                 logger.debug("LLM 模型和分詞器已載入")
                 return self.model, self.tokenizer, self.model_max_context_length
-            
-            logger.info(f"開始初始化 LLM 模型: {self.model_name} (強制CPU: {force_cpu_init})...")
-            
+                        
             # 決定目標設備
             if force_cpu_init or not torch.cuda.is_available():
                 target_device = "cpu"
             else:
                 target_device = "auto"
-            
-            logger.info(f"LLM 初始化目標設備: {target_device} (CUDA可用: {torch.cuda.is_available()})")
-            
+                       
             # 配置量化設定
             quantization_config = BitsAndBytesConfig(
                 load_in_4bit=True, 
@@ -72,7 +65,9 @@ class ModelManager:
                 bnb_4bit_quant_type="nf4", 
                 bnb_4bit_compute_dtype=torch.float16,
             )
-            
+
+            logger.info(f"開始初始化 LLM 模型: {self.model_name} 目標設備: {target_device} (CUDA可用: {torch.cuda.is_available()})")
+             
             try:
                 # 載入分詞器
                 self.tokenizer = AutoTokenizer.from_pretrained(
@@ -106,9 +101,9 @@ class ModelManager:
             
             return self.model, self.tokenizer, self.model_max_context_length
     
-    def get_model_and_tokenizer(self, 
-                               update_last_used_time: bool = True, 
-                               ensure_on_gpu: bool = True) -> Tuple[Optional[Any], Optional[Any], Optional[int]]:
+    def get_model(self, 
+                  update_last_used_time: bool = True, 
+                  ensure_on_gpu: bool = True) -> Any:
         """獲取模型和分詞器，根據需要將模型移至 GPU
         
         Args:
@@ -116,15 +111,14 @@ class ModelManager:
             ensure_on_gpu: 是否確保模型在 GPU 上
             
         Returns:
-            (model, tokenizer, max_context_length) 的元組
+            self.model
         """
         with self._model_management_lock:
-            # 如果模型未初始化，進行首次初始化（強制到 CPU）
-            if self.model is None or self.tokenizer is None:
-                logger.info("get_model_and_tokenizer: 模型或分詞器未初始化，將進行首次CPU初始化...")
-                self.initialize(force_cpu_init=True)
+            # 如果模型未初始化，進行首次初始化
+            if self.model is None:
+                self.initialize(force_cpu_init=False)
                 if self.model is None:
-                    logger.error("get_model_and_tokenizer: 初始化後模型仍為 None")
+                    logger.error("初始化後模型仍為 None")
                     raise RuntimeError("LLM 模型初始化失敗")
             
             # 根據需要將模型移至 GPU
@@ -132,17 +126,16 @@ class ModelManager:
                 try:
                     model_device_type = next(self.model.parameters()).device.type
                     if model_device_type == "cpu":
-                        logger.info("get_model_and_tokenizer: (ensure_on_gpu=True) CUDA可用，模型在CPU，移至GPU...")
                         self.model = self.model.to("cuda")
                         logger.info("模型已成功移至GPU")
                 except Exception as e:
-                    logger.error(f"get_model_and_tokenizer: 嘗試將模型移至GPU時出錯: {e}", exc_info=True)
+                    logger.error(f"嘗試將模型移至GPU時出錯: {e}", exc_info=True)
             
             # 更新最後使用時間
             if update_last_used_time:
                 self.last_model_use_time = time.time()
             
-            return self.model, self.tokenizer, self.model_max_context_length
+            return self.model
     
     def count_tokens(self, text_to_count: str) -> int:
         """計算文本的 token 數量
@@ -151,28 +144,27 @@ class ModelManager:
             text_to_count: 要計算 token 的文本
             
         Returns:
-            token 數量，錯誤時返回 -1
+            token 數量，錯誤時返回基於字符數的粗略估算
         """
         try:
             with self._model_management_lock:
                 if self.tokenizer is None:
-                    logger.warning("count_tokens: 分詞器尚未初始化，嘗試被動獲取...")
-                    _, temp_tokenizer, _ = self.get_model_and_tokenizer(
-                        update_last_used_time=False, 
-                        ensure_on_gpu=False
-                    )
-                    if temp_tokenizer is None:
-                        logger.error("count_tokens: 仍無法獲取分詞器")
-                        return 0
-                    tokenizer_instance = temp_tokenizer
-                else:
-                    tokenizer_instance = self.tokenizer
-            
-            return len(tokenizer_instance.encode(text_to_count, add_special_tokens=False))
+                    self.initialize(force_cpu_init=True)
+                    if self.tokenizer is None:
+                        logger.error("初始化後分詞器仍為 None")
+                        raise RuntimeError("LLM 模型初始化失敗")
+                
+                # 使用分詞器計算精確 token 數
+                return len(self.tokenizer.encode(text_to_count, add_special_tokens=False))
+                
         except Exception as e:
-            logger.error(f"count_tokens: 計算 token 時出錯: {e}", exc_info=True)
-            return -1
-    
+            # 備用方案：粗略估算
+            # 中文約 1.5 token/字符，英文約 1 token/字符，整體平均約 1.2
+            estimated_tokens = int(len(text_to_count) * 1.2)
+            logger.warning(f"count_tokens: 精確計算 token 失敗，使用粗略估算: {e}")
+            logger.debug(f"粗略估算 token 數: {estimated_tokens} (原文長度: {len(text_to_count)})")
+            return estimated_tokens
+        
     def get_status(self) -> dict:
         """獲取模型狀態
         
