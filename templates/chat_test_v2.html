@@ -876,7 +876,6 @@
                     checkboxes.forEach(cb => selectedFiles.push(cb.value));
                 }
             }
-
             // Prepare payload
             const payload = {
                 message: message,
@@ -894,11 +893,6 @@
             if (elements.maxTokensSelect.value) {
                 payload.max_new_tokens = parseInt(elements.maxTokensSelect.value);
             }
-
-            // Reset assistant message variables
-            currentAssistantMessageDiv = null;
-            currentAssistantText = null;
-            currentSourcesDiv = null;
 
             try {
                 if (stream) {
@@ -930,7 +924,7 @@
 
             displayMessage('assistant', result.reply, result.sources || []);
             
-            // Update history
+            // Update history - 注意保存格式
             const updatedHistory = currentHistory.concat([
                 {role: 'user', content: message},
                 {role: 'assistant', content: result.reply, sources: result.sources || []}
@@ -947,6 +941,9 @@
 
             const reader = response.body.getReader();
             const decoder = new TextDecoder();
+            let currentAssistantMessageDiv = null;
+            let currentAssistantText = null;
+            let currentSourcesDiv = null;
             let accumulatedResponse = '';
             let finalSources = [];
 
@@ -977,9 +974,17 @@
                             }
 
                             if (chunk.reply !== undefined) {
-                                accumulatedResponse = chunk.reply;
+                                // 後端現在發送每個文本片段，不是累積的
+                                accumulatedResponse += chunk.reply;
                                 
-                                // 處理串流中的來源信息
+                                if (currentAssistantText) {
+                                    currentAssistantText.textContent = accumulatedResponse;
+                                }
+                                elements.chatOutput.scrollTop = elements.chatOutput.scrollHeight;
+                            }
+
+                            if (chunk.status === 'completed') {
+                                // 處理來源信息
                                 if (chunk.sources && chunk.sources.length > 0) {
                                     finalSources = chunk.sources;
                                     
@@ -994,13 +999,6 @@
                                     }
                                 }
 
-                                if (currentAssistantText) {
-                                    currentAssistantText.textContent = accumulatedResponse;
-                                }
-                                elements.chatOutput.scrollTop = elements.chatOutput.scrollHeight;
-                            }
-
-                            if (chunk.status === 'completed') {
                                 // Update history
                                 const updatedHistory = currentHistory.concat([
                                     {role: 'user', content: message},

@@ -1,4 +1,14 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer
+import torch
+from transformers import BitsAndBytesConfig
+
+quant_config = BitsAndBytesConfig(
+    load_in_4bit=True,
+    bnb_4bit_quant_type="nf4",
+    bnb_4bit_use_double_quant=True,
+    bnb_4bit_compute_dtype=torch.bfloat16
+)
+
 
 model_name = "Qwen/Qwen3-30B-A3B"
 
@@ -6,9 +16,11 @@ model_name = "Qwen/Qwen3-30B-A3B"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
-    torch_dtype="auto",
-    device_map="auto"
+    quantization_config=quant_config,
+    device_map="cpu"
 )
+
+model = model.to("cuda")
 
 # prepare the model input
 prompt = "Give me a short introduction to large language model."
@@ -26,7 +38,7 @@ model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
 # conduct text completion
 generated_ids = model.generate(
     **model_inputs,
-    max_new_tokens=32768
+    max_new_tokens=2048
 )
 output_ids = generated_ids[0][len(model_inputs.input_ids[0]):].tolist() 
 
