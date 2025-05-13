@@ -6,7 +6,7 @@ import threading
 import re
 from transformers import TextIteratorStreamer
 
-# 導入配置
+# 修改導入配置的部分：
 try:
     from config import (
         SYSTEM_PROMPT,
@@ -15,10 +15,12 @@ try:
         MIN_TEMPERATURE,
         MAX_TEMPERATURE,
         MIN_MAX_NEW_TOKENS,
-        MAX_MAX_NEW_TOKENS
+        MAX_MAX_NEW_TOKENS,
+        get_current_model_config,  # 新增：用於動態獲取配置
+        config_manager             # 新增：用於監聽配置變更
     )
 except ImportError:
-    # 預設配置
+    # 預設配置保持不變
     SYSTEM_PROMPT = """您是一個專業的醫療助手，專門協助醫護人員解答關於 ERAS (Enhanced Recovery After Surgery) 手術加速康復計劃的問題。
 
 您的任務是基於提供的 ERAS 指引文件，為醫護人員提供準確、專業的回答。如果問題超出您的知識範圍或提供的文件內容，請誠實告知您無法回答該問題，並建議咨詢專業醫療人員。
@@ -30,6 +32,7 @@ except ImportError:
     MAX_TEMPERATURE = 2.0
     MIN_MAX_NEW_TOKENS = 50
     MAX_MAX_NEW_TOKENS = 4000
+    config_manager = None
 
 logger = logging.getLogger(__name__)
 
@@ -39,11 +42,27 @@ class RAGEngine:
     def __init__(self, model_manager, db_manager):
         self.model_manager = model_manager
         self.db_manager = db_manager
-        self.system_prompt = SYSTEM_PROMPT
-        self.default_temperature = DEFAULT_TEMPERATURE
-        self.default_max_new_tokens = DEFAULT_MAX_NEW_TOKENS
+        self._update_config_values()
         self._lock = threading.Lock()
         self._last_rag_resources = []  # 保存源資料元數據
+
+    def _update_config_values(self):
+        """更新配置值"""
+        try:
+            # 動態從配置管理器獲取當前值
+            self.system_prompt = SYSTEM_PROMPT
+            self.default_temperature = DEFAULT_TEMPERATURE
+            self.default_max_new_tokens = DEFAULT_MAX_NEW_TOKENS
+        except:
+            # 如果獲取失敗，使用預設值
+            self.system_prompt = SYSTEM_PROMPT
+            self.default_temperature = DEFAULT_TEMPERATURE
+            self.default_max_new_tokens = DEFAULT_MAX_NEW_TOKENS
+    
+    def reload_config(self):
+        """重新載入配置值"""
+        logger.info("RAGEngine: 重新載入配置")
+        self._update_config_values()
     
     @property
     def model(self):
@@ -185,7 +204,7 @@ class RAGEngine:
         if max_new_tokens_for_reply is None:
             max_new_tokens_for_reply = self.default_max_new_tokens
         
-        # 1. 系統提示詞
+        # 1. 系統提示詞 - 使用實例變數
         prompt_parts = [self.system_prompt]
         base_tokens = self.model_manager.count_tokens(self.system_prompt)
         

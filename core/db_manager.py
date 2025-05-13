@@ -19,7 +19,8 @@ try:
         DB_PATH,
         CHUNK_SIZE,
         CHUNK_OVERLAP,
-        RAG_TOP_K
+        RAG_TOP_K,
+        config_manager  # 新增：用於監聽配置變更
     )
 except ImportError:
     # 如果無法導入配置，使用預設值
@@ -29,20 +30,15 @@ except ImportError:
     CHUNK_SIZE = 1000
     CHUNK_OVERLAP = 200
     RAG_TOP_K = 5
+    config_manager = None
 
 logger = logging.getLogger(__name__)
 
 class VectorDBManager:
     def __init__(self):
-        self.pdf_folder = PDF_FOLDER
-        self.db_path = DB_PATH
-        self.embedding_model_name = EMBEDDINGS_MODEL_NAME
-        self.chunk_size = CHUNK_SIZE
-        self.chunk_overlap = CHUNK_OVERLAP
-        self.default_top_k = RAG_TOP_K
-
+        self._update_config_values()
         self.db = None
-        self.embedding_function = HuggingFaceEmbeddings(model_name=self.embedding_model_name)
+        self.embedding_function = None
         self._rebuilding = False
         self._rebuild_status = {
             "status": "idle",
@@ -52,6 +48,39 @@ class VectorDBManager:
             "total_files": 0,
             "processed_files": 0
         }
+        # 初始化 embedding function
+        self._init_embedding_function()
+
+    def _update_config_values(self):
+        self.pdf_folder = PDF_FOLDER
+        self.db_path = DB_PATH
+        self.embedding_model_name = EMBEDDINGS_MODEL_NAME
+        self.chunk_size = CHUNK_SIZE
+        self.chunk_overlap = CHUNK_OVERLAP
+        self.default_top_k = RAG_TOP_K
+
+    def _init_embedding_function(self):
+        """初始化 embedding function"""
+        if self.embedding_model_name:
+            self.embedding_function = HuggingFaceEmbeddings(model_name=self.embedding_model_name)
+        else:
+            logger.warning("未指定 embedding 模型，將無法進行向量化")
+            self.embedding_function = None
+
+    def reload_config(self):
+        """重新載入配置"""
+        logger.info("VectorDBManager: 重新載入配置")
+        old_embedding_model = self.embedding_model_name
+        self._update_config_values()
+        
+        # 如果 embedding 模型改變，需要重新初始化
+        if old_embedding_model != self.embedding_model_name:
+            logger.info(f"Embedding 模型已改變: {old_embedding_model} -> {self.embedding_model_name}")
+            self._init_embedding_function()
+            
+            # 如果資料庫已連接且模型改變，需要重建資料庫
+            if self.db is not None:
+                logger.warning("Embedding 模型改變，建議重建向量資料庫")
 
     def connect_db(self) -> Optional[Chroma]:
             if self.db is not None:

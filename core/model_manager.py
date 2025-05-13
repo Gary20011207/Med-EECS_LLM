@@ -14,13 +14,15 @@ try:
     from config import (
         LLM_MODEL_NAME,
         DEFAULT_INACTIVITY_TIMEOUT,
-        MONITOR_CHECK_INTERVAL_SECONDS
+        MONITOR_CHECK_INTERVAL_SECONDS,
+        config_manager  # 新增：用於監聽配置變更
     )
 except ImportError:
     # 如果無法導入配置，使用預設值
     LLM_MODEL_NAME = "Qwen/Qwen2.5-14B-Instruct-1M"
     DEFAULT_INACTIVITY_TIMEOUT = 600
     MONITOR_CHECK_INTERVAL_SECONDS = 30
+    config_manager = None
 
 logger = logging.getLogger(__name__)
 
@@ -28,15 +30,43 @@ class ModelManager:
     """LLM 模型管理器"""
     
     def __init__(self):
-        self.model_name = LLM_MODEL_NAME
+        # 動態獲取配置值
+        self._update_config_values()
         self.model = None
         self.tokenizer = None
         self.model_max_context_length = None
         self.last_model_use_time = 0.0
-        self.inactivity_timeout = DEFAULT_INACTIVITY_TIMEOUT
         self._model_management_lock = threading.RLock()
         self._device_monitor_thread = None
         self._shutdown_flag = threading.Event()
+    
+    def _update_config_values(self):
+        """更新配置值"""
+        self.model_name = LLM_MODEL_NAME
+        self.inactivity_timeout = DEFAULT_INACTIVITY_TIMEOUT
+    
+    def reload_config(self):
+        """重新載入配置"""
+        logger.info("ModelManager: 重新載入配置")
+        old_model_name = self.model_name
+        self._update_config_values()
+        
+        # 如果模型名稱改變，需要重新載入模型
+        if old_model_name != self.model_name and self.model is not None:
+            logger.info(f"模型名稱已改變: {old_model_name} -> {self.model_name}")
+            logger.info("將在下次使用時重新載入新模型")
+            # 標記需要重新載入
+            self._need_reload = True
+    
+    def check_and_reload_if_needed(self):
+        """檢查是否需要重新載入模型"""
+        if hasattr(self, '_need_reload') and self._need_reload:
+            logger.info("重新載入模型...")
+            # 關閉當前模型
+            self.shutdown()
+            # 重新初始化
+            self.initialize()
+            self._need_reload = False
     
     def initialize(self, force_cpu_init: bool = True) -> Tuple[Optional[Any], Optional[Any], Optional[int]]:
         """初始化模型
@@ -104,15 +134,10 @@ class ModelManager:
     def get_model(self, 
                   update_last_used_time: bool = True, 
                   ensure_on_gpu: bool = True) -> Any:
-        """獲取模型和分詞器，根據需要將模型移至 GPU
+        """獲取模型，自動處理配置變更"""
+        # 檢查是否需要重新載入
+        self.check_and_reload_if_needed()
         
-        Args:
-            update_last_used_time: 是否更新最後使用時間
-            ensure_on_gpu: 是否確保模型在 GPU 上
-            
-        Returns:
-            self.model
-        """
         with self._model_management_lock:
             # 如果模型未初始化，進行首次初始化
             if self.model is None:
