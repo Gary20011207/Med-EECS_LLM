@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome</title>
+    <style>
+        body { font-family: Arial; max-width: 800px; margin: auto; padding: 20px; }
+        .warning { background-color: #f8d7da; color: #721c24; padding: 10px; border: 1px solid #f5c6cb; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <h2>歡迎！{{ user.name }}</h2>
+    <a href="/logout">Logout</a>
+
+    {% if not user.has_completed_profile %}
+    <div class="warning">
+        請完成個人資料填寫 <a href="/profile">Go to Profile</a>
+    </div>
+    {% endif %}
+
+    <h3>Clinic Pre-op Education and Consent</h3>
+    <p>{{ user.clinic_provide_preop_education_and_consent }}</p>
+
+    <a href="/chat">Go to Chat</a>
+
+    <h3>Your To-Do List</h3>
+    <ul>
+        {% for item in todo_list %}
+        <li>
+            {{ item.task }}
+            {% if item.completed %}
+            <span>(Completed)</span>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

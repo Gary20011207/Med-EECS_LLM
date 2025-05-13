@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Admin Dashboard</title>
+    <title>管理員介面</title>
     <style>
         body { font-family: Arial; max-width: 800px; margin: auto; padding: 20px; }
         .user-list { margin-bottom: 20px; }
@@ -9,14 +9,15 @@
     </style>
 </head>
 <body>
-    <h2>Admin Panel – User List</h2>
-    <a href="/">Back to Chat</a> | <a href="/logout">Logout</a>
+    <h2>管理員介面</h2>
+    <a href="/logout">登出</a>
+    <p><a href="/register">新增病患</a></p>
     <hr>
     <div class="user-list">
-        <h3>Users</h3>
+        <h3>病患列表</h3>
         <ul>
             {% for user in users %}
-                <li><a href="{{ url_for('view_user_details', user_id=user.id) }}">{{ user.username }}</a></li>
+                <li><a href="{{ url_for('view_user_details', user_id=user.id) }}">{{ user.name }}</a></li>
             {% endfor %}
         </ul>
     </div>

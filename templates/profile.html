@@ -8,13 +8,9 @@
 </head>
 <body>
 	<h2>User Profile</h2>
-	<a href="/">Back to Chat</a> | <a href="/logout">Logout</a>
-	<h3>Profile Information</h3>
-	<p><strong>Username:</strong> {{ user.username }}</p>
-	<h3>Configure Profile</h3>
-	<form method="post">
-		Date of Birth: <input type="date" name="dob" value="{{ user.dob }}"><br>
-		Surgery Type: <input type="text" name="surgery_type" value="{{ user.surgery_type }}"><br>
-		<button type="submit">Update Profile</button>
-	</form>
+	<a href="/">返回</a> | <a href="/logout">Logout</a>
+	<h3>基本資料</h3>
+	<p><strong>姓名:</strong> {{ user.name }}</p>
+	生日: {{ user.dob }}<br>
+	主治醫師: {{ user.surgery_type }}
 </body>
