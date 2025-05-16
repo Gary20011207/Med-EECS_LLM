@@ -122,7 +122,7 @@ class ModelManager:
                     self.model_name,
                     quantization_config=quantization_config,
                     device_map=target_device if target_device != "cpu" else None,
-                    torch_dtype=torch.float16 if target_device != "cpu" and use_quantization else (torch.float32 if target_device == "cpu" else None), # GPU用float16, CPU用float32
+                    torch_dtype=torch.float16
                     trust_remote_code=True
                 )
                 if target_device == "cpu" or _force_cpu_init: # 確保如果目標是CPU，模型最終在CPU
