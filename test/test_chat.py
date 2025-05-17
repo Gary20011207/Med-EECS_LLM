@@ -85,7 +85,7 @@ def test_db_manager(rebuild: bool = False):
     logger.info("===== 開始測試 DBManager =====")
     
     # 初始化 DBManager
-    db_manager = DBManager()
+    db_manager = DBManager(embedding_model_name="intfloat/multilingual-e5-large-instruct")
     logger.info(f"DBManager 初始化完成: {db_manager.embedding_model_name}")
     logger.info(f"使用集合名稱: {db_manager.collection_name}")
     
