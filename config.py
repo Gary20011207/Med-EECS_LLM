@@ -23,7 +23,7 @@ DEFAULT_MAX_MAX_NEW_TOKENS = 4096 # 根據常見模型調整
 # --- DBManager Defaults ---
 DEFAULT_EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2" #"BAAI/bge-small-zh-v1.5"  # 或者您選擇的其他模型
 DEFAULT_VECTOR_STORE_PATH = "./VectorDB"         # 預設的向量資料庫儲存路徑
-DEFAULT_COLLECTION_NAME = "eras_documents"              # 預設的集合名稱
+DEFAULT_DOCUMENTS_PATH = "./PDFS"  # 預設PDF路徑
 DEFAULT_CHUNK_SIZE = 1000
 DEFAULT_CHUNK_OVERLAP = 100
 DEFAULT_K_SEARCH_RESULTS = 5                            # 搜尋時預設返回的結果數量
