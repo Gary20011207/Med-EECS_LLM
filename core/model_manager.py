@@ -102,7 +102,6 @@ class ModelManager:
                     self.model_name,
                     quantization_config=quantization_config,
                     device_map=target_device,
-                    torch_dtype=torch.float16,
                     trust_remote_code=True
                 )
                 if target_device == "cpu" or _force_cpu_init: # 確保如果目標是CPU，模型最終在CPU
@@ -139,12 +138,12 @@ class ModelManager:
                 try:
                     logger.info("get_model: 模型目前在 CPU，嘗試移至 GPU...")
                     self.model = self.model.to("cuda")
-                    return self.model
                 except Exception as e:
                     logger.error(f"get_model: 嘗試將模型移至 GPU 時出錯: {e}", exc_info=True)
                     raise RuntimeError("將模型移至 GPU 失敗")
             
             self._update_activity_and_ensure_monitor()
+            return self.model
 
     def count_tokens(self, text_to_count: str) -> int:
         """計算文本的 token 數量"""
@@ -166,6 +165,7 @@ class ModelManager:
         """使用載入的模型生成回應。"""
         with self._model_management_lock:
             self.get_model()
+            inputs = None
             try:
                 inputs = self.tokenizer(prompt, return_tensors="pt", add_special_tokens=False)
                 inputs = {k: v.to(self.model.device) for k, v in inputs.items()}
@@ -184,10 +184,22 @@ class ModelManager:
                 logger.error(f"generate_response: 生成回應時發生錯誤: {e}", exc_info=True)
                 raise
 
+            finally:
+                # 確保清理輸入張量
+                if inputs is not None:
+                    try:
+                        for tensor in inputs.values():
+                            if hasattr(tensor, 'device') and tensor.device.type == 'cuda':
+                                del tensor
+                        inputs = None
+                    except Exception as cleanup_error:
+                        logger.debug(f"清理輸入張量時發生非關鍵錯誤: {cleanup_error}")
+
     def generate_stream_response(self, prompt: str, **generation_kwargs: Any) -> Generator[str, None, None]:
         """使用載入的模型以流式方式生成回應。"""
         with self._model_management_lock:
             self.get_model()
+            inputs = None
             try:
                 inputs = self.tokenizer(prompt, return_tensors="pt", add_special_tokens=False)
                 inputs = {k: v.to(self.model.device) for k, v in inputs.items()}
@@ -203,12 +215,23 @@ class ModelManager:
                 thread = threading.Thread(target=self.model.generate, kwargs=gen_kwargs_with_streamer)
                 thread.start()
                 for new_text in streamer:
-                    self._update_activity_and_ensure_monitor()
                     yield new_text
                 thread.join()
+                self._update_activity_and_ensure_monitor()
             except Exception as e:
                 logger.error(f"generate_stream_response: 生成流式回應時發生錯誤: {e}", exc_info=True)
                 raise
+
+            finally:
+                # 確保清理輸入張量
+                if inputs is not None:
+                    try:
+                        for tensor in inputs.values():
+                            if hasattr(tensor, 'device') and tensor.device.type == 'cuda':
+                                del tensor
+                        inputs = None
+                    except Exception as cleanup_error:
+                        logger.debug(f"清理輸入張量時發生非關鍵錯誤: {cleanup_error}")
 
     def get_status(self) -> dict:
         """獲取模型狀態"""
@@ -252,66 +275,64 @@ class ModelManager:
                 "monitor_check_interval_setting": self.monitor_check_interval
             }
 
-    def shutdown(self): # 簡化 shutdown，不再有 full_shutdown 參數
-        """釋放所有相關資源"""
+    def shutdown(self):
+        """釋放所有相關資源，確保可以安全地再次初始化"""
         with self._model_management_lock:
             logger.info("開始釋放 LLM 相關資源...")
+            
+            # 1. 設置關閉標誌並停止監控執行緒
             self._shutdown_flag.set()
-
             if self._device_monitor_thread is not None and self._device_monitor_thread.is_alive():
                 logger.info("等待設備監控線程結束...")
-                self._device_monitor_thread.join(timeout=self.monitor_check_interval + 1)
-                if self._device_monitor_thread.is_alive():
-                    logger.warning("設備監控線程未能正常結束。")
+                self._device_monitor_thread.join(timeout=3)  # 給予固定的短時間等待
             self._device_monitor_thread = None
-
+            
+            # 2. 釋放模型和分詞器資源
             if self.model is not None:
-                try:
-                    if next(self.model.parameters()).device.type != "cpu":
-                        logger.info("將 LLM 模型移至 CPU...")
-                        self.model = self.model.to("cpu")
-                except Exception as e: logger.warning(f"關閉前將模型移至CPU失敗: {e}")
-                del self.model; self.model = None
-                logger.info("LLM 模型已卸載")
-
+                logger.info("釋放 LLM 模型資源...")
+                del self.model
+                self.model = None
+            
             if self.tokenizer is not None:
-                del self.tokenizer; self.tokenizer = None
-                logger.info("分詞器已卸載")
-
-            if torch.cuda.is_available():
+                logger.info("釋放分詞器資源...")
+                del self.tokenizer
+                self.tokenizer = None
+            
+            # 3. 清理 GPU 快取
+            try:
                 torch.cuda.empty_cache()
                 logger.info("GPU 快取已清理")
-
+            except Exception as e:
+                logger.debug(f"清理 GPU 快取時出現非關鍵錯誤: {e}")
+            
+            # 4. 重置所有狀態變數
             self.model_max_context_length = None
             self.last_model_use_time = 0
-            self._shutdown_flag.clear() # 為下次可能的啟動做準備
-            logger.info("LLM 相關資源已釋放。")
+            self._shutdown_flag.clear()  # 為下次可能的啟動做準備
+            
+            logger.info("LLM 相關資源已完全釋放，可以安全地再次初始化")
 
     def _update_activity_and_ensure_monitor(self):
         """更新最後使用時間並確保裝置監控執行緒運行 (如果模型在GPU上)"""
         with self._model_management_lock:
-            if self.model is not None and next(self.model.parameters()).device.type == 'cuda':
-                self.last_model_use_time = time.time()
-                self._ensure_device_monitor_started()
+            if self.model is None:
+                return
+                
+            try:
+                current_device_type = next(self.model.parameters()).device.type
+                if current_device_type == 'cuda':
+                    self.last_model_use_time = time.time()
+                    self._ensure_device_monitor_started()
+            except Exception as e:
+                logger.error(f"_update_activity_and_ensure_monitor: 獲取模型設備類型時出錯: {e}", exc_info=True)
 
     def _ensure_device_monitor_started(self):
         """確保設備監控線程已啟動 (如果模型在 GPU 上)"""
-        with self._model_management_lock: # 確保在此方法內部訪問 self.model 等是線程安全的
-            if self.model is None or next(self.model.parameters()).device.type != 'cuda':
-                if self._device_monitor_thread is not None and self._device_monitor_thread.is_alive():
-                    logger.debug("模型不在 GPU 上，但監控執行緒仍在運行。將其停止。")
-                    self._shutdown_flag.set()
-                    self._device_monitor_thread.join(timeout=self.monitor_check_interval + 1) # 給予時間結束
-                    if self._device_monitor_thread.is_alive(): # 再次檢查
-                         logger.warning("_ensure_device_monitor_started: 監控線程未能停止。")
-                    self._device_monitor_thread = None
-                    self._shutdown_flag.clear() # 清除標誌，以備將來使用
-                return
-
+        with self._model_management_lock:
             if self._device_monitor_thread is not None and self._device_monitor_thread.is_alive():
                 return
 
-            if self._shutdown_flag.is_set(): # 如果之前被要求關閉，現在要重啟，則清除標誌
+            if self._shutdown_flag.is_set():
                 self._shutdown_flag.clear()
 
             logger.info(f"設備監控線程準備啟動 (檢查間隔: {self.monitor_check_interval}s, GPU閒置超時: {self.inactivity_timeout}s)")
@@ -325,21 +346,33 @@ class ModelManager:
         logger.info("模型設備活動監控線程已啟動。")
         while not self._shutdown_flag.wait(self.monitor_check_interval):
             with self._model_management_lock:
-                if self.model is None: continue
+                if self.model is None:
+                    logger.debug("模型為None，監控線程將停止。")
+                    break
+                    
                 try:
                     current_model_device_type = next(self.model.parameters()).device.type
-                except Exception as e_get_params:
-                    logger.error(f"監控線程：獲取模型設備類型時出錯: {e_get_params}", exc_info=True)
-                    continue
-                if current_model_device_type == "cuda":
+                    if current_model_device_type != "cuda":
+                        logger.debug("模型不再在GPU上，監控線程將停止。")
+                        break
+                        
                     current_time = time.time()
                     idle_time = current_time - self.last_model_use_time
                     if idle_time > self.inactivity_timeout:
                         logger.info(f"模型在 GPU 上閒置超過 {self.inactivity_timeout} 秒 ({idle_time:.2f}s)，準備移至CPU...")
                         try:
                             self.model = self.model.to("cpu")
-                            if torch.cuda.is_available(): torch.cuda.empty_cache()
+                            if torch.cuda.is_available(): 
+                                torch.cuda.empty_cache()
                             logger.info("模型已成功移至CPU，GPU記憶體已釋放。")
+                            break  # 模型已移至CPU，監控線程任務完成，跳出循環
                         except Exception as e_to_cpu:
                             logger.error(f"監控線程：將模型移至CPU時發生錯誤: {e_to_cpu}", exc_info=True)
-        logger.info("模型設備活動監控線程已停止。")
+                except Exception as e_get_params:
+                    logger.error(f"監控線程：獲取模型設備類型時出錯: {e_get_params}", exc_info=True)
+                    continue
+        
+        # 循環結束後
+        with self._model_management_lock:
+            self._device_monitor_thread = None  # 自我清理引用
+            logger.info("模型設備活動監控線程已停止。")
