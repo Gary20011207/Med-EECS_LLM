@@ -34,14 +34,14 @@ except ImportError as e:
 # 導入 core 模組並初始化
 try:
     from core.model_manager import ModelManager
-    from core.db_manager import VectorDBManager
+    from core.db_manager import DBManager
     from core.rag_engine import RAGEngine
     
     # 初始化組件
     model_manager = ModelManager()
     model, tokenizer, model_max_length = model_manager.initialize()
     
-    db_manager = VectorDBManager()
+    db_manager = DBManager()
     db = db_manager.connect_db()
     
     rag_engine = RAGEngine(model_manager, db_manager)
@@ -68,7 +68,7 @@ def get_app_status():
         status_info = {
             'status': 'ok',
             'timestamp': datetime.now().isoformat(),
-            'model_name': config.LLM_MODEL_NAME
+            'model_name': config.DEFAULT_LLM_MODEL_NAME
         }
         
         # 模型狀態
@@ -316,8 +316,8 @@ def get_rag_info():
 if __name__ == '__main__':
     logger.info("啟動 Flask 伺服器...")
     app.run(
-        host=config.FLASK_HOST,
-        port=config.FLASK_PORT,
-        debug=config.FLASK_DEBUG,
+        host=config.DEFAULT_WEB_HOST,
+        port=config.DEFAULT_WEB_PORT,
+        debug=config.DEFAULT_WEB_DEBUG,
         threaded=True
     )
