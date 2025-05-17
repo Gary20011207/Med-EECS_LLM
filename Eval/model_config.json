@@ -1,6 +1,6 @@
 [
   {
-    "config_name": "Qwen2.5-14B_MiniLM",
+    "config_name": "Qwen2.5-14B_with_rag",
     "llm_model_name": "Qwen/Qwen2.5-14B-Instruct-1M",
     "embeddings_model_name": "sentence-transformers/all-MiniLM-L6-v2",
     "chunk_size": 1000,

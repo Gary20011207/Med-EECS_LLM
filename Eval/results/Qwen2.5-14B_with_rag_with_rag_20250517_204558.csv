@@ -1,0 +1,1793 @@
+qa_id,question,reference_answer,resource,category,llm_answer,human_eval,bleu-1,bleu-2,bleu-3,bleu-4,rouge-1,rouge-2,rouge-l,meteor,response_length,response_time,used_rag_resources
+0,為何 ERAS 建議多模式鎮痛而非阿片單用？,減少阿片副作用如噁心與腸道遲緩，提升康復速度。,Kehlet,藥劑,"根據 ERAS 的原則，建議使用多模式鎮痛策略而非單一的阿片類藥物，主要是因為多模式鎮痛可以提供更全面的疼痛管理，同時減少單一藥物的副作用和風險。這種方法結合了不同的鎮痛機制，例如非甾體抗炎藥（NSAIDs）、局部麻醉藥、神經阻滯等，以達到更好的鎮痛效果並降低阿片類藥物的需求。
+
+這樣不僅能減少患者對阿片類藥物的依賴，還能降低便秘、嗜睡、呼吸抑制等不良反應的發生率，從而促進患者的快速恢復。這與 ERAS 強調的減少術後併發症和加速患者康復的核心理念一致。此外，文檔中提到的「多模式鎮痛」也強調了這種方法在臨床上的有效性和安全性。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,266.0,10.941649436950684,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf"
+1,ERAS 是否建議術前給予 acetaminophen？,是，為術後鎮痛提供基礎效果，且副作用低。,Apfelbaum,藥劑,"根據提供的 ERAS 指南，術前是否給予 acetaminophen（對乙酰氨基酚）並沒有明確的強制性建議。然而，在術後管理中，定期給藥 acetaminophen 是一個常見的做法，作為鎮痛的基礎治療之一。
+
+在肝臟手術的情況下，如果顯著的肝臟組織被切除，則需要調整 acetaminophen 的劑量，因為其代謝會受到影響。此外，對於高風險發生術後噁心和嘔吐（PONV）的患者，可以考慮使用其他方法來預防 PONV，例如 scopolamine 貼片，但應避免用於老年人，因為可能會有中樞副作用。
+
+總結來說，雖然 ERAS 沒有特別強調術前使用 acetaminophen，但在術後管理中它是推薦的鎮痛策略之一。具體應用時需根據患者的個體情況進行調整。如果您需要更詳細的信息，請參考文檔中的相關部分。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,353.0,4.197937250137329,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf, Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf"
+2,gabapentin 在 ERAS 中的應用？,可減術後疼痛與阿片使用，但有鎮靜風險。,Tiippana,藥劑,"根據 ERAS（增強手術後恢復）指南，gabapentin 是一種常見的用於多模式鎮痛策略中的藥物，特別是在減少手術後疼痛和減少阿片類藥物使用方面。以下是其應用的一些關鍵點：
+
+1. **作用機制**：Gabapentin 是一種神經調節劑，最初用於治療慢性神經病理性疼痛，但在 ERAS 策略中也被用於預防急性手術後的疼痛。
+ 
+2. **使用場景**：在脊柱手術、結腸手術、肝臟手術以及胸腔和主動脈手術等多種手術中，都推薦使用 gabapentin 作為多模式鎮痛的一部分。
+
+3. **效果**：研究表明，術前使用 gabapentin 可以有效降低急性手術後的疼痛程度，減少阿片類藥物的需求，並有助於加速患者的恢復。
+
+4. **注意事項**：雖然 gabapentin 的使用通常是安全的，但需要注意其可能引起的副作用，如嗜睡、頭暈等。此外，在某些情況下，尤其是老年人或有呼吸系統疾病的患者，應謹慎使用，因為它可能會導致呼吸抑制。
+
+5. **劑量與時間**：為了達到最佳的藥理學效果，應該根據患者的年齡和體重調整劑量，並確保給藥時間能夠在手術前達到有效的血藥濃度。
+
+如果您需要更詳細的信息或具體的手術類型指導，請參考相關的 ERAS 指南文件。例如，在脊柱手術中，有研究支持術前使用 gabapentin 可以改善術後疼痛管理（Han et al., 2017）。而在結腸手術中，則建議將 gabapentin 與對乙醯氨基酚和非甾體抗炎藥（NSAIDs）結合使用，以形成一個全面的鎮痛方案（ERAS Society Recommendations, 2018）。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,689.0,8.31857943534851,"Consensus statement for perioperative care in lumbar spinal fusion Enhanced Recovery After Surgery (ERAS®) Society recommendations.pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for enhanced recovery after lung surgery recommendations of the Enhanced Recovery After Surgery (ERAS®) Society and the European Society of Thoracic Surgeons (ESTS).pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf"
+3,NSAIDs 是否適用於 ERAS？,是，但需監控出血風險與腎功能。,White,藥劑,"NSAIDs（非甾体抗炎药）在 ERAS（加速康复外科）计划中可以使用，但需谨慎。它们具有镇痛、抗炎和减少阿片类药物使用的优点，特别是在术后疼痛管理中。然而，使用时需要考虑以下几点：
+
+1. **风险因素**：NSAIDs 对于某些患者群体存在较高的肾功能衰竭风险，如老年人、已有肾功能不全或低血容量的患者。
+ 
+2. **选择性 COX-2 抑制剂**：选择性 COX-2 抑制剂（如帕瑞昔布）不会显著影响血小板功能，因此在某些情况下可能更适合使用，尤其是在需要避免出血的情况下。
+
+3. **胃肠副作用**：NSAIDs 可能导致胃肠道副作用，因此在推荐早期使用时应谨慎，并监测患者的反应。
+
+综上所述，在 ERAS 计划中使用 NSAIDs 应基于个体化评估，确保其益处大于潜在的风险。建议在使用前与医疗团队讨论并制定合适的方案。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,368.0,4.331954479217529,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for enhanced recovery after lung surgery recommendations of the Enhanced Recovery After Surgery (ERAS®) Society and the European Society of Thoracic Surgeons (ESTS).pdf, Optimal Perioperative Care in Major Head and Neck Cancer Surgery With Free Flap Reconstruction A Consensus Review and Recommendations From the Enhanced Recovery After Surgery Society.pdf, Guidelines for enhanced recovery after lung surgery recommendations of the Enhanced Recovery After Surgery (ERAS®) Society and the European Society of Thoracic Surgeons (ESTS).pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf"
+4,術前使用 celecoxib 有哪些優點？,COX-2 抑制效果佳，胃腸副作用低。,Reuben,藥劑,"根據 ERAS 的建議，celecoxib 的使用主要集中在減少術後疼痛和降低胃腸道併發症的風險上。Celecoxib 是一種選擇性 COX-2 抑制剂，能夠有效減輕疼痛，同時較少影響胃腸道的保護機制，從而減少胃出血等不良反應的風險。
+
+在 ERAS 計劃中，celecoxib 可能被用作多模式鎮痛策略的一部分，以幫助患者更快地恢復。不過，具體是否適用於您的情況，還需考慮患者的個人健康狀況和其他治療選項，並由專業醫師評估決定。
+
+請注意，所有藥物使用都應遵循醫師指導，並密切監控可能的副作用。如果您有更多關於 ERAS 或特定治療方案的疑問，請隨時提出。",,0.07142857142857141,3.9866508128531494e-155,3.72413206023431e-204,9.418382295637229e-232,0.14285714040816327,0.0,0.14285714040816327,0.15625000000000003,279.0,3.3516783714294434,"Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Antenatal and Preoperative care in Cesarean Delivery Enhanced Recovery After Surgery Society Recommendations (Part 1).pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, fsurg-07-573398.pdf"
+5,ERAS 是否推薦 preemptive analgesia？,是，術前止痛能降低術後敏感化。,Katz,藥劑,"根據提供的 ERAS 指南文件，ERAS 推薦使用多模式鎮痛策略，包括預防性鎮痛（preemptive analgesia）。這種策略旨在通過不同類型的藥物作用於多個位點來控制疼痛，從而減少手術後的疼痛和阿片類藥物的使用。
+
+文檔提到，ERAS 的鎮痛策略結合了區域麻醉和局部麻醉技術，以最小化患者的阿片類藥物消耗。預防性鎮痛是多模式鎮痛的一部分，其目的是在手術前或手術初期使用鎮痛藥物來阻斷疼痛信號的傳遞，從而減少術後疼痛的強度和持續時間。
+
+雖然目前還需要更多的研究來確立這種鎮痛方法的可行性、有效性和安全性，但已有研究表明，使用長效多囊泡脂質體包封的布比卡因進行傷口浸潤作為多模式鎮痛方案的一部分，已經顯示出有前景的結果。
+
+因此，在 ERAS 範疇內，預防性鎮痛是被推薦的，但應根據具體情況和患者因素進行個體化調整。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,362.0,4.7495081424713135,"Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf"
+6,ketamine 於 ERAS 的角色為何？,可減術後慢性疼痛並保護中樞抑制。,Bell,藥劑,"根據 ERAS 規範，酮胺（Ketamine）在手術加速康復計劃中扮演重要角色，特別是在提供優質止痛和減少對手術期間及術後阿片類藥物的依賴方面。酮胺通過非麻醉劑量的靜脈輸注來發揮其作用，這有助於降低疼痛評分，並與硬膜外止痛的效果相當 [195]。
+
+然而，腹腔手術患者使用酮胺的最佳劑量、給藥時間和持續時間尚未確定 [194, 196]。此外，使用酮胺時需注意安全性，應進行適當的監測以避免毒性反應。國際共識聲明提供了關於指征、劑量計算（使用理想體重）以及使用的明確指南 [197]。
+
+總結來說，酮胺在 ERAS 中可用於改善術後疼痛管理，但其具體應用需遵循嚴格的監控和指導原則。如果您需要更詳細的信息或具體的劑量建議，建議參考相關的國際共識聲明。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,325.0,4.5142247676849365,"Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Consensus Review of Optimal Perioperative Care in Breast Reconstruction Enhanced Recovery after Surgery (ERAS) Society Recommendations.pdf, Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf, Guidelines for postoperative care in cesarean delivery Enhanced Recovery After Surgery (ERAS) Society recommendations (part 3).pdf, Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf"
+7,靜脈 lidocaine 有哪些臨床效果？,減痛、抗炎並促進腸道功能恢復。,McCarthy,藥劑,"根據提供的 ERAS 指南文件，靜脈注射利多卡因（lidocaine）在臨床上有以下幾個主要效果：
+
+1. **減少術後疼痛**：靜脈輸注利多卡因可以有效降低術後疼痛，其鎮痛效果與硬膜外麻醉相似，且能減少對其他止痛藥物的需求。
+
+2. **減少炎症反應**：利多卡因具有抗炎作用，能夠減少手術引起的全身性炎症反應，從而改善患者的恢復情況。
+
+3. **減少心臟不良事件**：在某些情況下，利多卡因還可以用於預防和治療心律失常，特別是在手術期間或術後早期階段。
+
+4. **促進腸道功能恢復**：靜脈輸注利多卡因有助於加速腸道功能的恢復，這對於腹部手術患者尤其重要。
+
+需要注意的是，使用靜脈利多卡因時應密切監控患者的血漿濃度，以避免毒性反應。通常建議的劑量範圍為每公斤體重每小時 1.5 至 3 毫克，具體劑量需根據患者情況進行調整。此外，持續的心電圖監控也是必要的，以便及早發現任何可能的心臟異常。
+
+這些效果均來自於上述 ERAS 指南中的研究和建議，但具體應用時仍需根據患者個體情況和醫生判斷來決定。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,453.0,6.137155055999756,"Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf, British Journal of Surgery - 2014 - Mortensen - Consensus guidelines for enhanced recovery after gastrectomy.pdf, Guidelines for Perioperative Care in Cytoreductive Surgery (CRS) with or without hyperthermic IntraPEritoneal chemotherapy (HIPEC) Enhanced recovery after surgery (ERAS®) Society Recommendations — Part.pdf, Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf"
+8,ERAS 是否鼓勵區域麻醉？,是，有助降低阿片使用與加速恢復。,McDonnell,藥劑,"根據提供的 ERAS 指南，ERAS 強調多模式鎮痛（multimodal analgesia），這通常包括區域麻醉（如椎管內麻醉或周邊神經阻斷）作為疼痛管理策略的一部分。這樣的措施可以減少全身性阿片類藥物的使用，從而降低相關副作用和併發症的風險。
+
+例如，在《Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018》中提到，實施 ERAS 程序時，應考慮使用多模式鎮痛來改善患者的恢復過程（第 24 頁）。區域麻醉是這種方法的重要組成部分之一。
+
+因此，ERAS 確實鼓勵在合適的情況下使用區域麻醉來幫助患者更好地恢復。不過，具體應用需根據患者個體情況及手術類型由專業團隊評估決定。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,398.0,3.913494348526001,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf"
+9,為什麼 ERAS 強調使用 BIS？,減少麻醉過度與術後譫妄。,Radtke,藥劑,"在 ERAS（增強型恢復術後計劃）中，BIS（腦電雙頻指數）的使用主要集中在手術期間的麻醉管理和監測上，以確保患者的安全和改善術後恢復。BIS 是一種通過分析 EEG（腦電圖）信號來評估麻醉深度的指標，能夠幫助麻醉師精確地調整麻醉藥物的用量，避免過度鎮靜或不足。
+
+根據文檔 5 的內容，雖然沒有直接提到 BIS，但強調了術中管理的重要性，包括精確的麻醉管理和監測，這些都有助於減少並發症和促進術後恢復。使用 BIS 可以幫助實現這一目標，因為它能更精確地反映患者的麻醉深度，從而減少不必要的麻醉藥物使用，降低相關風險，如低血壓或呼吸抑制等。
+
+需要注意的是，BIS 的使用應該基於具體的手術類型和患者情況，並且需要由有經驗的麻醉團隊來操作。如果您需要更多關於特定手術類型中如何應用 BIS 的信息，請提供更多信息，以便我能給出更詳細的答案。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,371.0,4.725656986236572,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care in Cytoreductive Surgery (CRS) with or without hyperthermic IntraPEritoneal chemotherapy (HIPEC) Enhanced Recovery After Surgery (ERAS) Society Recommendations — Part2.pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf"
+10,ERAS 中 PONV 的預防建議？,雙重止吐策略：dexamethasone＋ondansetron。,Gan,藥劑,"根據 ERAS 規範，預防術後噁心和嘔吐（PONV）的建議包括：
+
+1. **使用止吐藥物**：在手術前或麻醉後使用止吐藥物，如昂丹司瓊或多拉司瓊。
+ 
+2. **避免使用增加 PONV 風險的麻醉藥物**：例如減少使用揮發性麻醉劑和阿片類鎮痛藥。
+
+3. **非藥物干預**：包括使用針灸或經皮電神經刺激（TENS）等方法。
+
+這些措施有助於降低患者術後出現噁心和嘔吐的風險，從而改善患者的恢復過程。這些建議主要來自於 ERAS 協會對結腸直腸手術的推薦（文檔 3）。如果您需要更詳細的信息，請告訴我！",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,252.0,3.631382703781128,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf, Guidelines for perioperative care after radical cystectomy for bladder cancer Enhanced Recovery After Surgery (ERAS®) society recommendations.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf"
+11,術中使用 dexamethasone 有何額外益處？,除止吐外，可能具有鎮痛與抗炎作用。,De,藥劑,"根據 ERAS 指南，術中使用地塞米松（Dexamethasone）的主要目的是作為止吐藥物之一，以預防術後噁心和嘔吐（PONV）。地塞米松與其他止吐藥物如昂丹司瓊（Ondansetron）聯合使用，可以提高止吐效果。
+
+地塞米松的額外益處可能包括：
+
+1. **減少炎症反應**：地塞米松具有抗炎作用，這有助於減少手術引起的全身性炎症反應。
+2. **減少疼痛**：地塞米松還可以幫助減少術後的疼痛，從而減少對鎮痛藥的需求。
+3. **減少腦水腫**：在某些情況下，地塞米松可以幫助減少腦水腫，特別是在涉及頭頸部手術的情況下。
+
+這些益處在不同的手術類型中可能有所不同，因此在使用時應根據患者具體情況和手術類型進行評估。如果您需要更詳細的信息，建議參考相關的 ERAS 指南或諮詢專業的麻醉醫師。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,349.0,4.681880950927734,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Consensus Review of Optimal Perioperative Care in Breast Reconstruction Enhanced Recovery after Surgery (ERAS) Society Recommendations.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf"
+12,術前減敏處理與 prehabilitation 有何關聯？,可減低術後疼痛與阿片需求。,Carli,藥劑,"術前減敏處理（Prehabilitation）是指在手術前進行的一系列干預措施，旨在改善患者的身體狀況和心理狀態，從而提高術後恢復的效果。根據提供的 ERAS 指南，術前減敏處理對於高風險患者（如年長者、營養不良或過重的患者、吸煙者或有心理障礙的患者）尤其重要。
+
+術前減敏處理通常包括以下幾個方面：
+- **體能訓練**：幫助患者增強肌肉力量和耐力。
+- **飲食干預**：調整飲食以減少肝內脂肪，改善代謝狀況。
+- **心理準備**：通過減輕焦慮和其他心理壓力來提升患者的心理狀態。
+
+這些措施一般建議在手術前 4 到 6 周開始進行，具體時間取決於手術的緊急性。術前減敏處理的目標是通過這些干預措施來優化患者的整體健康狀況，進而改善術後的恢復效果。
+
+在肝臟手術的情況下，術前減敏處理已被證明可以幫助減少術後併發症，縮短住院時間，並改善術後的功能恢復。因此，對於高風險患者，實施術前減敏處理是非常重要的。 
+
+如果您需要更詳細的信息或具體的指導，請參考 ERAS 的相關指南。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,441.0,5.667579174041748,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Consensus statement for perioperative care in lumbar spinal fusion Enhanced Recovery After Surgery (ERAS®) Society recommendations.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Transplantation Enhanced Recovery After Surgery (ERAS) Recommendations.pdf"
+13,ERAS 是否支持 spinal anesthesia？,是，尤其在下腹部與下肢手術中優先選擇。,Guay,藥劑,"根據 ERAS（增強恢復術後）的指導原則，脊髓麻醉（spinal anesthesia）是被支持的，特別是在胃腸道手術中。這類麻醉方式有助於減少全身麻醉的需求，從而降低相關風險，並促進術後快速恢復。
+
+在文檔 2 和文檔 4 中提到，ERAS 強調個體化麻醉方案的重要性，並指出脊髓麻醉可以作為一種有效的選擇，尤其適合下腹部和骨盆區域的手術。這種麻醉方法能夠提供良好的鎮痛效果，同時減少對呼吸系統和心血管系統的抑制作用。
+
+然而，具體是否適用於某位患者，還需考慮患者的健康狀況、手術類型以及其他個人因素。因此，在實施前應進行全面的評估。如果您有更多具體情況需要討論，請隨時提出！",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,289.0,3.508060932159424,"Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf"
+14,ERAS 是否限制術中液體補充？,鼓勵 goal-directed therapy（GDT）以維持灌流。,Grocott,藥劑,"根據 ERAS 的原則，術中液體管理強調個體化和精細化，而不是簡單地限制液體補充。目標是減少過度的液體負荷，以降低肺水腫和其他並發症的風險，同時確保患者獲得足夠的血液動力學支持。
+
+在 ERAS 協議中，通常會建議使用目標導向的液體療法（Goal-Directed Fluid Therapy, GDF），這意味著根據患者的血流動態監測（如脈搏氧輸出指數 VO₂ 或其他指標）來調整液體輸注量，而不是固定輸注速率或總量。
+
+因此，ERAS 不是絕對地限制液體補充，而是通過精確的監控和評估來優化液體管理，從而改善患者的恢復情況。
+
+如果您需要更詳細的信息，可以參考《Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018》中的第 24 頁，該部分討論了如何通過審計和反饋來改進 ERAS 程序的實施，包括液體管理的最佳做法。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,468.0,4.89571475982666,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf"
+15,何謂 opioid-sparing anesthesia？,麻醉過程中避免或最小化使用阿片。,Lavand’homme,藥劑,"Opioid-sparing anesthesia 是指在手術麻醉中減少使用阿片類藥物（opioids），以降低其可能帶來的副作用，如呼吸抑制、便秘、嗜睡等，同時仍能有效控制疼痛。這種方法強調多模式鎮痛（multimodal analgesia），結合非阿片類的鎮痛方式，如局部麻醉技術、非甾體抗炎藥（NSAIDs）、N-乙醯半胱氨酸（NAC）或其他輔助藥物，來達到更好的疼痛管理效果。
+
+根據 ERAS 指南，減少阿片類藥物的使用不僅可以改善患者的恢復過程，還能降低與阿片類相關的不良反應風險，如術後噁心和嘔吐（PONV）、便秘等，從而促進更快的術後康復。
+
+例如，在文檔 2 中提到，應將阿片類藥物的使用量降至最低或完全避免，並且在使用時需平衡其有益作用（如止痛、促進被動呼氣和防止身體僵硬）與有害影響（如 PONV、便秘、嗜睡及通氣和咳嗽抑制）。而在文檔 3 中也強調了在術前評估患者時，教育和諮詢以及使用短效的抗焦慮藥和止痛藥來幫助進行區域麻醉程序的重要性。這些都是實現 opioid-sparing anesthesia 的一部分策略。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,473.0,5.883764982223511,"Guidelines for Perioperative Care in Bariatric Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations A 2021 Update.pdf, Guidelines for enhanced recovery after lung surgery recommendations of the Enhanced Recovery After Surgery (ERAS®) Society and the European Society of Thoracic Surgeons (ESTS).pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf"
+16,ERAS 是否鼓勵術後 PCA（patient-controlled analgesia）？,可使用但應搭配非阿片藥物優化效果。,Chou,藥劑,根據 ERAS 的原則，PCA（患者自控鎮痛）應作為最後的手段使用，僅在需要重複注射靜脈用止痛藥的患者中才考慮。通常情況下，ERAS 強調多模式鎮痛策略，以減少對 PCA 的依賴，並確保在住院和出院環境中都能有效地控制疼痛而不影響患者的滿意度。因此，除非有特殊需求，否則不建議常規使用 PCA。請參考文檔 5 中的建議。,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,160.0,2.10717511177063,"Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf"
+17,使用 alpha-2 agonist（如 dexmedetomidine）有何效益？,可減少術後阿片使用並穩定血壓與焦慮。,Lin,藥劑,"根據 ERAS 指南，使用 alpha-2 受體激動劑（如 dexmedetomidine）可以帶來多種益處：
+
+1. **減少嗎啡用量**：Dexmedetomidine 可以提供術中鎮痛和鎮靜效果，從而減少術後對嗎啡的需求。
+ 
+2. **降低術後谵妄發生率**：一項中等質量的 meta 分析顯示，使用 dexmedetomidine 能夠降低術後 30 天內的全因死亡率，並減少術後谵妄的發生率。
+
+3. **縮短插管時間**：Dexmedetomidine 也被證明可以縮短插管時間。
+
+4. **減少急性腎損傷風險**：在心臟手術中，dexmedetomidine 可能有助於減少急性腎損傷（AKI）的風險。
+
+這些效益在不同類型的手術中均有報告，特別是在心臟手術和胰腺十二指腸切除術中。然而，目前還沒有針對胰腺手術的最佳給藥量和維持時間進行驗證。
+
+引用文獻：
+- 文檔 2, 第 4 頁
+- 文檔 1, 第 11 頁",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,416.0,5.292233467102051,"Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care in Cardiac Surgery Enhanced Recovery After Surgery Society Recommendations.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf, Guidelines for enhanced recovery after lung surgery recommendations of the Enhanced Recovery After Surgery (ERAS®) Society and the European Society of Thoracic Surgeons (ESTS).pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf"
+18,ERAS 是否限制 benzodiazepines？,除非病人高度焦慮，應避免使用。,Sampson,藥劑,"根據 ERAS 的指導原則，benzodiazepines 的使用受到限制，因為它們可能會導致神經認知功能障礙和不希望有的鎮靜作用。
+
+在文檔中提到：
+
+- 文檔 1 和文檔 4 強調了單次劑量的 benzodiazepines 也可能引起心理運動和認知障礙以及鎮靜效果。
+- 文檔 2 識別了 benzodiazepines 可能導致認知障礙和谵妄的風險。
+- 文檔 4 特別指出，由於這些藥物可能造成神經認知功能障礙和不希望有的鎮靜效果，因此應避免使用 sedative 或 anxiolytic 藥物。
+
+在 ERAS 計劃中，會優先考慮其他方法來管理患者的焦慮和疼痛，例如非藥物干預措施或選擇性地使用其他類型的藥物，以減少對患者認知功能的影響。
+
+如果您有更多具體的情況或需要進一步的建議，請隨時提出！",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,355.0,4.454505681991577,"Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf, Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS) Society Recommendations Part 1—Preoperative Diagnosis, Rapid Assessment and Optimization.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf, Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf"
+19,術後麻醉復甦階段的優先重點？,快速清醒與疼痛控制平衡。,Myles,藥劑,"根據 ERAS 規範，在術後麻醉復甦階段，優先重點包括：
+
+1. **確保呼吸道安全**：確認患者能夠自主呼吸且無氣道阻塞。
+2. **維持生命體征穩定**：監測血壓、心率、血氧飽和度等，確保這些指標在正常範圍內。
+3. **疼痛管理**：使用多模式鎮痛策略來控制患者的疼痛，以促進早期活動。
+4. **早期活動**：一旦患者情況允許，應鼓勵其進行早期活動，如床上移動或坐起，以減少並發症的風險。
+5. **飲食恢復**：根據患者的情況，逐步恢復飲食，通常從清流質飲食開始。
+6. **預防性措施**：實施深 vein 血栓（DVT）預防措施，如間歇性氣壓治療和抗凝藥物的使用。
+
+這些步驟有助於加速患者的術後恢復，並降低並發症的發生率。請根據具體患者的健康狀況和手術類型調整這些建議。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,343.0,4.621464967727661,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+20,術前禁食建議為何？,清流質可於術前 2 小時內飲用，固體需禁食 6 小時。,,營養,"根據 ERAS（增強手術後恢復）指南，術前禁食的建議如下：
+
+- **成人**：術前應禁食固體食物 **6 小時**，清液（如清水、不含糖的茶、黑咖啡等）則可延續至 **2 小時** 前。
+ 
+- **兒童**：術前應禁食固體食物 **6 小時**，清液則可延續至 **2 小時** 前。嬰兒和幼兒的禁食時間可能有所不同，具體應遵循個別醫院的指導原則。
+
+這些建議旨在減少麻醉期間發生嘔吐和誤吸的風險，同時促進患者的快速恢復。在某些情況下，如患者有特殊健康狀況或手術類型，可能需要個別調整禁食時間，因此應與麻醉團隊討論並確認具體要求。 
+
+引用文獻：
+- 文檔 2, 第 13 頁：Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf 
+- 文檔 3, 第 9 頁：Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf 
+
+如果您有更多關於此主題的問題，請隨時提出！",,0.021739130434782608,2.1993446941558915e-155,2.5149956618749963e-204,6.995501686664742e-232,0.0,0.0,0.0,0.07299270072992702,572.0,5.474372148513794,"Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, British Journal of Surgery - 2014 - Mortensen - Consensus guidelines for enhanced recovery after gastrectomy.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+21,碳水化合物飲品的標準建議？,術前晚 100g，術晨 2 小時內 50g 清流質含醣。,,營養,"根據 ERAS 覜議會的建議，在手術前的準備階段，可以使用碳水化合物飲品來幫助穩定血糖水平，減少手術期間的胰島素抵抗，並改善術後恢復。通常建議在手術前的晚上和手術當天早晨服用碳水化合物飲品。
+
+具體來說：
+
+- **手術前一天晚上**：可以在睡前 2-3 小時內服用 500 mL 的 10% 至 12.5% 的葡萄糖溶液或等量的碳水化合物飲品。
+- **手術當天早晨**：可以在手術前 2 小時內服用 250 mL 的 10% 至 12.5% 的葡萄糖溶液或等量的碳水化合物飲品。
+
+這些飲品應該在沒有食物的情況下服用，以避免延遲手術時間。這樣的飲品可以幫助維持血糖水平，減少手術期間的應激反應，並促進術後恢復。
+
+請注意，具體的飲用量和時間可能因患者個體情況和醫院的具體指南而有所不同，因此在實施前應與患者的主治醫生確認。",,0.023809523809523808,2.3016939199658746e-155,2.5916422949041747e-204,7.156422969333831e-232,0.07407407061728412,0.0,0.07407407061728412,0.052083333333333336,363.0,4.859716176986694,"Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf"
+22,ESPEN 建議營養風險病人術前多久開始介入？,7–14 天。,,營養,"根據 ERAS 的相關指南，對於營養風險的病人，術前的營養干預應該在手術前 **4-6周** 開始，具體時間取決於手術的緊急性。這段時間內可以進行包括體能訓練、飲食干預或減輕焦慮的運動等預先康復（prehabilitation）措施，以幫助患者更好地準備手術，並改善術後恢復。
+
+引用文獻：《Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022》第 2 頁。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,272.0,2.647261142730713,"Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+23,術後多久可進食？,4 小時內鼓勵清流質、軟質食物。,,營養,"根據 ERAS 規範，術後進食的時間取決於手術類型和患者的情況。以下是一些常見的情況：
+
+1. **緊急開腹手術**：根據文檔 1，可以在手術後 24 小時內開始進食，與傳統方法（在放屁或排便後開始流質飲食）相比，早期進食似乎是安全的，雖然會導致更多的嘔吐（輕易治療且無患者不適），但患者的饑餓感較少。
+
+2. **食道切除術**：根據文檔 3，患者在接受食道癌手術時面臨高風險的營養不良，因此需要根據個體情況進行評估，可能需要在術後幾個月內提供營養支持。
+
+3. **減積手術 (CRS) 和/或高溫腹腔內化療 (HIPEC)**：根據文檔 4，在術後第一天可以引入早期口服進食，術後第 1-2 天只允許液體飲食，第 3-5 天允許軟質飲食，然後恢復正常飲食。
+
+4. **胰十二指腸切除術**：根據文檔 5，通常建議在術後 24-48 小時內開始進食，具體時間需根據患者的情況和胃排空情況來決定。
+
+總結來說，術後進食的時間應根據患者的手術類型、身體狀況以及醫生的專業判斷來決定。如果您有更詳細的手術類型或其他背景信息，我可以提供更具體的建議。",,0.018181818181818177,2.011364918071686e-155,2.3709786167136736e-204,6.689869579535845e-232,0.06896551595719384,0.0,0.06896551595719384,0.06849315068493152,474.0,6.83660364151001,"Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf, British Journal of Surgery - 2014 - Mortensen - Consensus guidelines for enhanced recovery after gastrectomy.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf, Guidelines for Perioperative Care in Cytoreductive Surgery (CRS) with or without hyperthermic IntraPEritoneal chemotherapy (HIPEC) Enhanced Recovery After Surgery (ERAS) Society Recommendations — Part2.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf"
+24,免疫營養（IMN）組成？,Arginine、omega-3、核苷酸。,,營養,"根據提供的 ERAS 指南文件，並沒有直接提到免疫營養（IMN）的具體組成。免疫營養通常是指在手術後提供的一種特殊營養支持，旨在幫助患者增強免疫系統，促進恢復。它可能包含特定的氨基酸、脂肪酸、抗氧化劑和其他成分，以減少感染風險和促進組織修復。
+
+如果您需要更詳細的信息，建議參考臨床營養學的專業資源或諮詢營養專家。他們可以提供關於免疫營養配方和其在 ERAS 計劃中應用的具體指導。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,191.0,2.5331966876983643,"fsurg-07-573398.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for enhanced recovery after lung surgery recommendations of the Enhanced Recovery After Surgery (ERAS®) Society and the European Society of Thoracic Surgeons (ESTS).pdf, fsurg-07-573398.pdf"
+25,術前 NPO 是否需常規靜脈營養支持？,不建議，首選腸道營養。,,營養,"根據 ERAS 的原則，術前禁食（NPO）期間是否需要常規進行靜脈營養支持取決於患者的情況和手術類型。
+
+對於大多數成人患者，在手術前短暫的禁食（通常為水和清液至手術前 2 小時停止）通常是足夠的，並且不需要常規的靜脈營養支持。這樣可以減少腸道萎縮和腸道功能障礙的風險，同時避免不必要的靜脈輸液。
+
+然而，在某些情況下，如患者有營養不良、長期禁食或特定的健康狀況（例如糖尿病），可能需要個別化的營養支持。這應該由醫療團隊根據患者的具體情況來決定。
+
+如果您需要更詳細的信息，請參考《Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018》中的相關部分。該指南提供了更全面的指導，包括如何評估患者是否需要術前營養支持。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,414.0,4.227179765701294,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Antenatal and Preoperative care in Cesarean Delivery Enhanced Recovery After Surgery Society Recommendations (Part 1).pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf"
+26,營養支持何時需由腸道轉為靜脈補充？,"若病人持續 >3 天無法經腸道進食，應考慮靜脈營養。
+解釋：腸道為優先，TPN 僅在腸功能不全或腸阻塞時考慮。","Singer P, et al. Clin Nutr. 2019;38(1):48–79.",營養,"根據 ERAS 要求，營養支持應優先考慮腸內營養，因為它有助於維持腸道功能和免疫系統。只有在以下情況下才需要轉為腸外營養（靜脈補充）：
+
+1. **腸道功能障礙**：當患者出現嚴重的腸梗阻、腸道穿孔或其他腸道功能障礙，導致無法進行腸內營養時。
+ 
+2. **急性疾病或手術後短期內**：在某些緊急情況下，如急性腹膜炎或嚴重創傷，可能需要暫時使用腸外營養，直到腸道功能恢復。
+
+3. **長期無法進食**：如果患者因其他原因（如昏迷或吞咽困難）長期無法經口或腸內攝取營養，則需要腸外營養。
+
+在這些情況下，應根據患者的具體病情和醫生的判斷來決定是否轉換為腸外營養。此外，應密切監測患者的營養狀況和腸道功能恢復情況，以便及時調整營養支持方式。
+
+如果您需要更詳細的信息，可以參考 ERAS 的相關指南，特別是針對特定手術類型的指導原則。",,0.03225806451612903,2.679115079291711e-155,2.8648241283319714e-204,7.720899511627474e-232,0.0,0.0,0.0,0.0588235294117647,366.0,4.989246129989624,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS) Society Recommendations Part 1—Preoperative Diagnosis, Rapid Assessment and Optimization.pdf"
+27,術後高蛋白攝取的建議量為何？,"1.2–2.0 g/kg/day。
+解釋：足夠蛋白質能促進傷口癒合與免疫功能。","Weimann A, et al. Clin Nutr. 2017;36(3):623–650.",營養,"根據 ERAS 的建議，在肝臟手術術後，高蛋白攝取對於促進組織修復和減少感染風險非常重要。具體來說，建議患者每日攝取 **1.2-1.5 公克/公斤體重** 的蛋白質，以支持恢復過程。
+
+此外，研究指出，攝取支鏈氨基酸（BCAA）、L-精氨酸、omega-3脂肪酸和核苷酸可以控制炎症、預防免疫抑制，從而降低術後敗血症的風險 [59, 61]。Omega-3脂肪酸的使用與肝切除術患者的感染減少和肝功能改善有關 [62]。
+
+這些營養補充品應在專業醫療人員的指導下進行，以確保安全性和有效性。如果您需要更詳細的信息或個別患者的營養計劃，建議諮詢營養師或相關專業人士。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,283.0,3.6717841625213623,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+28,術後可否使用口服營養補充（ONS）？,"建議使用，能提升總能量與蛋白攝取。
+解釋：ONS 適合術後胃口差或恢復期間使用。","Cawood AL, et al. Clin Nutr. 2012;31(3):293–312.",營養,"根據 ERAS 的建議，在術後恢復期間，口服營養補充（ONS）可以作為一種有效的營養支持方式。ONS 可以幫助患者更快地恢復正常的飲食，並減少營養不良的風險。
+
+在肝臟手術的 ERAS 指南中，建議在術後早期開始使用ONS，前提是患者能夠耐受口服攝入。這樣的做法有助於促進腸道功能的恢復，並可能減少腸道功能障礙的發生率。
+
+請確保在使用 ONS 前，與患者的營養狀況和具體情況進行評估，並遵循個別患者的治療計劃。如果有任何疑慮，應諮詢營養師或相關醫療專業人員。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,230.0,2.989032506942749,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf"
+29,長期術後營養不良的後果？,"延遲癒合、感染率升高、住院延長。
+解釋：營養狀態直接影響免疫與修復功能。","Correia MI, et al. Curr Opin Clin Nutr Metab Care. 2014;17(5):488–494.",營養,"長期術後營養不良可能導致多種不良後果，包括：
+
+1. **延遲傷口癒合**：營養不良會影響身體的修復能力，導致傷口癒合時間延長。
+2. **免疫力下降**：缺乏足夠的營養會削弱免疫系統，增加感染風險。
+3. **肌肉萎縮**：長期營養不良會導致肌肉質量減少，影響患者的活動能力和恢復速度。
+4. **心理健康問題**：營養不良還可能伴隨情緒低落、焦慮等心理健康問題。
+5. **慢性病風險增加**：長期營養不良可能會增加心血管疾病、糖尿病等慢性病的風險。
+
+根據 ERAS 指南，對於營養狀況不佳或過重的患者，建議在手術前進行預先康復（Prehabilitation），包括體能訓練、飲食干預和減輕焦慮的練習，以改善患者的整體健康狀況，促進術後快速恢復。預先康復通常應在手術前 4-6 周開始，具體時間取決於手術的緊急性。雖然目前尚未明確預先康復的具體內容和持續時間，但這些措施有助於提高患者的術後恢復效果。 
+
+如需更詳細的信息，建議參考 ERAS 的相關指南。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,432.0,5.565366268157959,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Transplantation Enhanced Recovery After Surgery (ERAS) Recommendations.pdf"
+30,術後多久內達成營養目標最理想？,"48–72 小時內達 80% 熱量與蛋白目標。
+解釋：可減少負氮平衡與功能衰退。",ESPEN Guidelines. Clin Nutr. 2006;25(2):224–244.,營養,"根據 ERAS 規範，術後早期恢復營養非常重要。通常建議在術後 **6 小時內** 開始口服進食，前提是患者沒有惡心、嘔吐或其他禁忌症狀。這樣可以幫助促進腸道功能恢復，減少腸麻痹的風險，並改善患者的整體恢復情況。
+
+具體來說，《Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022》中提到，使用傳統中藥（如司母藥湯）和針灸，或是嚼口香糖，都可以縮短首次排便時間，這表明早期開始進食對腸道功能的恢復有積極影響。
+
+因此，在確保安全的前提下，盡早恢復飲食對於達成營養目標是非常理想的。如果有任何疑慮，應與醫療團隊討論，以確定最適合個別患者的策略。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,364.0,3.7603108882904053,"Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, Guidelines for enhanced recovery after lung surgery recommendations of the Enhanced Recovery After Surgery (ERAS®) Society and the European Society of Thoracic Surgeons (ESTS).pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+31,術後是否需額外補充 omega-3？,"癌症與重症病人中證據支持補充。
+解釋：omega-3 可抗發炎並改善營養狀態。",Calder PC. Proc Nutr Soc. 2010;69(3):305–318.,營養,"根據 ERAS 社會的肝臟手術圍術期護理指南（2022），omega-3脂肪酸的補充已被證明可以減少感染並改善接受肝切除術患者的肝功能。研究顯示，omega-3脂肪酸的使用與術後感染率降低和肝功能改善有關聯[62]。
+
+然而，是否需要額外補充omega-3，應根據患者具體情況而定。對於某些患者，如存在高風險感染或肝功能受損的情況，可能建議在術前、術中及術後口服omega-3脂肪酸。但這應該由醫療團隊根據患者的具體病情來決定。
+
+此外，有研究指出，在部分肝切除後，omega-3脂肪酸的補充對肝再生無顯著影響[64]。因此，在考慮補充omega-3時，應全面評估其潛在益處與患者個體狀況。
+
+總結來說，雖然omega-3脂肪酸可能有助於改善術後結果，但是否需要額外補充應由醫療團隊根據患者具體情況來決定。如有疑問，建議諮詢專業醫療人員。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,369.0,4.692091941833496,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+32,營養風險評估常用工具？,"NRS-2002 與 MUST。
+解釋：這些工具可早期識別需要營養介入的患者。","Kondrup J, et al. Clin Nutr. 2003;22(4):415–421.",營養,"根據 ERAS 的建議，在進行肝臟手術前，應對患者進行營養風險評估。常見的營養風險評估工具有：
+
+1. **NRS-2002（Nutritional Risk Screening 2002）**：這是一種廣泛使用的評估工具，用於識別住院患者的營養風險。
+ 
+2. **MUST（Malnutrition Universal Screening Tool）**：適用於所有年齡群體，特別是在社區和急診環境中使用。
+
+3. **SGA（Subjective Global Assessment）**：用於評估成人患者的營養狀況，尤其適合外科手術患者。
+
+這些工具幫助識別需要進一步營養支持的患者，從而改善術後恢復和預後。在 ERAS 計劃中，早期識別並管理營養不良對於減少術後併發症和促進快速康復非常重要。如果您需要更詳細的信息或具體的評估流程，請告訴我！",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,376.0,4.073205471038818,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+33,術後腸蠕動未恢復可否使用腸道營養？,"應依臨床耐受度，少量開始可行。
+解釋：即使無腸音，也可在無嘔吐無腹脹情況下給予。","McClave SA, et al. JPEN. 2016;40(2):159–211.",營養,"根據 ERAS 的原則，在術後腸蠕動未完全恢復的情況下，通常不建議進行腸道營養。應先確保患者已經開始腸蠕動，這通常通過肛門氣體排出來確認。一旦腸蠕動恢復，可以逐步恢復腸內營養。
+
+如果您需要更詳細的信息，請參考《Guidelines for Perioperative Care in Bariatric Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations A 2021 Update》中的相關部分。該指南強調了在術後恢復腸蠕動的重要性，並提供了如何安全地恢復腸內營養的指導。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,283.0,2.6739792823791504,"Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care in Bariatric Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations A 2021 Update.pdf, Guidelines for enhanced recovery after lung surgery recommendations of the Enhanced Recovery After Surgery (ERAS®) Society and the European Society of Thoracic Surgeons (ESTS).pdf, Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS) Society Recommendations Part 1—Preoperative Diagnosis, Rapid Assessment and Optimization.pdf"
+34,術後灌食速度的起始建議？,"每小時 10–30 mL 起始，逐日調整。
+解釋：緩慢提升可降低不耐與胃瀦留風險。",ESPEN Guidelines. Clin Nutr. 2006;25(2):224–244.,營養,"根據 ERAS 的建議，術後的營養支持應該儘早開始，以促進患者的恢復。對於需要腸內營養的患者，應考慮使用標準的聚合物腸內營養配方。
+
+在起始灌食速度方面，通常建議從較低的速度開始，例如每小時 25 至 50 毫升（ml/hr），然後根據患者的耐受性逐步增加到目標速率。目標速率通常是每天 1000 至 1500 卡路里，具體取決於患者的能量需求和耐受性。
+
+重要的是密切監控患者的反應，包括是否有不耐受的症狀，如腹脹、腹瀉或嘔吐。如果患者能夠良好耐受，則可以逐步增加灌食速度，直到達到目標速率。
+
+此外，在某些情況下，如患者有高風險的營養不良或需要長期的營養支持，可能需要更個別化的策略。因此，建議根據每位患者的具體情況和醫生的評估來調整灌食速度。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,324.0,4.461759805679321,"Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf, British Journal of Surgery - 2014 - Mortensen - Consensus guidelines for enhanced recovery after gastrectomy.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Optimal Perioperative Care in Major Head and Neck Cancer Surgery With Free Flap Reconstruction A Consensus Review and Recommendations From the Enhanced Recovery After Surgery Society.pdf"
+35,術後低磷血症與 refeeding syndrome 風險？,"高風險病人應補充電解質並緩慢進食。
+解釋：低營養狀態者重新餵食會導致電解質移動與心衰。",Crook MA. J Clin Pathol. 2001;54(11):876–877.,營養,"根據 ERAS 的相關指南，術後低磷血症確實可能增加 refeeding syndrome（再餵食綜合症）的風險，特別是在患者經歷長期禁食或營養不良的情況下。
+
+Refeeding syndrome 是指在嚴重營養不良的患者中，當開始恢復營養供應時，由於過快地補充碳水化合物，導致體內電解質失衡，尤其是磷、鎂和鉀的水平下降。這可能會導致心臟、神經肌肉和代謝功能的嚴重問題。
+
+為了降低這種風險，在 ERAS 規劃中強調：
+
+1. **逐步恢復營養**：避免突然大量進食，應該逐步增加患者的營養攝入。
+ 
+2. **監測電解質水平**：密切監控患者的血液電解質水平，特別是磷、鎂和鉀。
+
+3. **個別化營養支持**：根據患者的具體情況制定個別化的營養計劃，確保安全且有效地恢復營養。
+
+如果您需要更詳細的信息或具體的指導，建議參考 ERAS 指南中的「營養支持」部分，例如文檔 1 中提到的「2b. Nutritional deficiency」。此外，也可以考慮諮詢營養師或相關專家以獲得更專業的建議。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,452.0,5.377118349075317,"Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care in Bariatric Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS) Society Recommendations Part 1—Preoperative Diagnosis, Rapid Assessment and Optimization.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+36,術後早期飲食不耐應如何調整？,"減少進食量、改為低脂清流質。
+解釋：避免噁心與腹脹，讓腸道逐步適應。",Lewis SJ. BMJ. 2009;338:b748.,營養,"根據 ERAS 的指導原則，在患者能夠耐受的情況下，應儘早恢復口服用餐。如果患者出現術後早期飲食不耐的情況，可以考慮以下調整措施：
+
+1. **減少食物份量**：從少量開始，逐步增加食物份量，讓患者的腸道有時間適應。
+ 
+2. **選擇易消化的食物**：如清湯、米湯等，避免油膩、難消化的食物。
+
+3. **監測症狀**：密切觀察患者是否仍有不耐受的症狀（如噁心、嘔吐等），並根據情況調整飲食。
+
+4. **個別化治療**：根據患者的具體情況和恢復進度，個別化調整飲食方案。
+
+根據文檔 1 和文檔 3 的建議，早期飲食雖然可能會導致更多的嘔吐，但這些症狀通常容易處理且不會引起患者不適。因此，在確保患者安全的前提下，應盡快恢復正常的口服用餐，以促進腸道功能的恢復和整體康復。如果症狀持續或加重，則需要進一步評估並可能需要暫停或延遲恢復口服用餐。此外，對於營養不良或長期禁食的患者，可能需要考慮腸內或腸外營養支持。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,407.0,5.395544052124023,"Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Optimal Perioperative Care in Major Head and Neck Cancer Surgery With Free Flap Reconstruction A Consensus Review and Recommendations From the Enhanced Recovery After Surgery Society.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf"
+37,術後是否應限制膳食纖維？,"初期應以低渣飲食為主，逐步增加。
+解釋：高纖初期可能增加脹氣與排便困難。",ESPEN Guidelines. Clin Nutr. 2006;25(2):224–244.,營養,"根據 ERAS 的指導原則，在患者能夠耐受的情況下，通常不建議嚴格限制膳食纖維。實際上，早期恢復正常飲食，包括含有膳食纖維的食物，已被證明可以安全地進行，並且有助於腸道功能的恢復。
+
+例如，在某些情況下，如緊急腹部手術後，研究顯示在手術後24小時內開始進食（包括含膳食纖維的食物）與傳統方法相比，並不會增加併發症的發生率，也沒有延長住院時間或導致更多的腸梗阻。雖然早期進食可能會導致更多的嘔吐，但這些症狀通常是輕微且容易處理的，不會引起患者的不適。
+
+因此，在患者能夠耐受的情況下，應該儘早恢復正常的飲食模式，包括膳食纖維，以促進腸道功能的恢復和整體康復。當然，具體的飲食計劃應該根據每位患者的具體情況和醫生的建議來制定。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,311.0,4.187765836715698,"Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, British Journal of Surgery - 2014 - Mortensen - Consensus guidelines for enhanced recovery after gastrectomy.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Optimal Perioperative Care in Major Head and Neck Cancer Surgery With Free Flap Reconstruction A Consensus Review and Recommendations From the Enhanced Recovery After Surgery Society.pdf"
+38,術後老年人常見營養障礙？,"咀嚼困難、食慾差、蛋白質攝取不足。
+解釋：可採用高能量密度與少量多餐策略。",Volkert D. Clin Geriatr Med. 2019;35(2):201–211.,營養,"根據 ERAS 的指導原則，術後老年人常見的營養障礙主要包括：
+
+1. **營養不良**：老年人由於代謝率下降、活動量減少以及可能存在的慢性疾病，容易出現營養不良的情況。
+ 
+2. **肌肉萎縮（肌少症）**：隨著年齡增長，肌肉質量和功能會逐漸下降，這會增加術後恢復的困難度。
+
+3. **吸收不良**：某些老年人可能存在消化系統功能減退，影響營養素的吸收。
+
+為了有效管理這些問題，ERAS 強調在術前進行營養評估，並根據需要提供營養支持。此外，還應考慮以下措施：
+- 提供高蛋白、高熱量的飲食。
+- 使用口服營養補充劑。
+- 在必要時，考慮腸內或腸外營養支持。
+
+這些措施有助於改善患者的營養狀況，從而促進術後的快速康復。如需更詳細的信息，可以參考 ERAS 的相關指南。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,338.0,4.269807815551758,"Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Enhanced Recovery After Surgery (ERAS®) Society Consensus Guidelines for Emergency Laparotomy Part 3 Organizational Aspects and General Considerations for Management of the Emergency Laparotomy Patient.pdf"
+39,術後口服營養介入最佳時機？,"術後即開始、每日評估進度與耐受度。
+解釋：早期介入比延後有更好結局。",Stratton RJ. Clin Nutr. 2003;22(6):515–522.,營養,"根據 ERAS 的建議，在肝臟手術後，術後口服營養介入的最佳時機應該是在患者能夠耐受的情況下儘早開始。具體來說，當患者恢復腸道功能（如肛門排气）並且沒有明顯的腸梗阻或其他併發症時，就可以開始口服營養。
+
+此外，有研究指出，使用包含支鏈氨基酸（BCAA）、L-精氨酸、omega-3脂肪酸和核苷酸的免疫營養可以幫助控制炎症、預防免疫抑制，從而減少術後感染的風險，改善肝功能，進而提高治療效果（參考文檔5）。因此，在條件允許的情況下，應儘早提供這樣的免疫營養支持。
+
+總結來說，術後口服營養介入的最佳時機應該是患者腸道功能恢復後，並結合個體情況選擇合適的營養方案。這樣不僅能促進患者的恢復，還能降低術後並發症的發生率。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,307.0,4.072960376739502,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+40,術後患者是否需限制脂肪？,"視手術類型與脂質代謝狀況決定。
+解釋：肝膽手術可採低脂，但一般手術不需嚴格限制。",ESPEN Guidelines. Clin Nutr. 2006;25(2):224–244.,營養,"根據 ERAS 的原則，術後脂肪攝入並沒有絕對的限制，但應根據患者的具體情況進行個別化管理。通常建議：
+
+1. **早期進食**：鼓勵患者在術後盡快恢復飲食，包括脂肪含量較低的食物，以促進腸道功能的恢復。
+ 
+2. **逐漸增加脂肪攝入**：隨著患者的腸道功能恢復，可以逐步增加脂肪的攝入量，但仍需避免過多的高脂食物，以免引起消化不耐受或腹瀉。
+
+3. **個別化調整**：對於有特殊健康狀況（如肥胖、糖尿病或其他代謝疾病）的患者，應根據其具體情況調整脂肪攝入量，並在營養師的指導下進行。
+
+如果您需要更詳細的指導，建議參考《Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022》中的相關部分，特別是關於營養支持和飲食恢復的章節。這份指南提供了更全面的建議，幫助確保患者在術後得到最佳的營養支持。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,441.0,4.71002197265625,"Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+41,術後不明發熱是否可能因營養不良？,"可能，需排除微量營養素缺乏。
+解釋：缺鋅、維生素 C 可干擾免疫與癒合。",Gombart AF. Nutrients. 2020;12(1):236.,營養,"根據提供的 ERAS 指南，術後不明發熱的原因可能有很多，包括感染、脫水、免疫反應等。雖然營養不良可能會影響患者的免疫系統功能，從而增加感染風險，但術後不明發熱並不一定直接由營養不良引起。
+
+在肝臟手術的 ERAS 規範中，特別強調了術前的營養評估和管理（文檔 1）。對於營養不良或過重的患者，應考慮進行術前康復（prehabilitation），以改善患者的整體健康狀況，這有助於減少術後併發症的發生率。
+
+如果您懷疑術後不明發熱與營養不良有關，建議進一步評估患者的營養狀態，並考慮進行相關的營養支持治療。同時，也應排除其他可能的原因，如感染，並根據需要進行相應的檢查和治療。如有需要，可以諮詢營養師或相關專家。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,307.0,3.944523334503174,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Transplantation Enhanced Recovery After Surgery (ERAS) Recommendations.pdf"
+42,術後營養管理是否包含心理支持？,"是，尤其在癌症與慢病手術中。
+解釋：焦慮與抑鬱會抑制食慾與影響順從性。",Anderson JR. Psychooncology. 2014;23(7):739–746.,營養,"根據提供的 ERAS 指南，術後營養管理和心理支持都是 ERAS 計劃的重要組成部分。雖然文檔中沒有直接提到術後營養管理是否包含心理支持，但文檔強調了多學科團隊的合作，其中包括心理學家（當需要時），這表明心理支持在整個 ERAS 計劃中是被考慮到的。
+
+此外，文檔提到術前教育和心理支持可以幫助減少患者的焦慮，提高依從性，這對於術後恢復也是有益的。因此，可以合理推斷，在 ERAS 計劃中，術後營養管理可能會包括心理支持，以確保患者的心理健康和整體恢復。
+
+如果您需要更詳細的信息，建議參考 ERAS 的完整指南或諮詢相關領域的專家。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,267.0,3.355180501937866,"fsurg-07-573398.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Guidelines for Perioperative Care in Bariatric Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf"
+43,ERAS 對術後糖尿病病人的營養建議？,"使用含纖維的糖控營養配方。
+解釋：可改善血糖控制與胃排空耐受度。",Gavin JR. Clin Diabetes. 2010;28(4):150–159.,營養,"根據 ERAS 的原則，對於術後糖尿病病人，營養建議主要包括以下幾點：
+
+1. **術前評估與準備**：在手術前，應對糖尿病患者的血糖水平進行嚴格控制，確保其處於穩定狀態。這有助於減少手術風險和促進術後恢復。
+
+2. **術中管理**：在手術過程中，應持續監測血糖水平，並根據需要調整胰島素用量，以維持血糖在安全範圍內。
+
+3. **術後營養支持**：術後初期，可能需要暫時禁食以避免腸道負擔過重，但應儘快恢復進食，通常是在患者能夠耐受的情況下開始口服進食。初期可提供清流質飲食，如水、清湯等，然後逐步轉換為正常飲食。
+
+4. **個體化治療**：每位患者的具體情況不同，因此應根據患者的實際情況制定個體化的營養計劃，並密切監測血糖變化，必要時調整治療方案。
+
+這些措施旨在減少術後併發症的發生率，促進患者更快地康復。如果您需要更詳細的信息或有其他相關問題，請隨時告訴我！",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,386.0,5.047220230102539,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf"
+44,術後心臟手術病人如何調整營養？,"建議低鈉、高蛋白、足熱量飲食。
+解釋：支持心肌修復並預防水腫。",Casey R. Nutr Clin Pract. 2012;27(2):176–183.,營養,"根據 ERAS 規範，術後心臟手術病人的營養調整應包括以下幾個方面：
+
+1. **風險評估與器官功能優化**：在手術前，多學科團隊（包括麻醉師、外科醫生、內科醫生、營養師等）會對患者的營養狀況進行全面評估，並根據需要進行營養支持和優化。
+
+2. **教育**：患者及其照顧者需要接受有關手術過程、恢復期飲食和活動的教育，以確保他們了解如何在術後維持良好的營養狀態。
+
+3. **術後飲食指導**：術後初期，患者可能需要從流質飲食開始，然後逐步轉換到正常飲食。具體的飲食計劃應該根據患者的個體情況和恢復進度來制定。
+
+4. **監測與支持**：在術後恢復期間，持續監測患者的營養狀況，並根據需要提供營養支持，如口服營養補充劑或腸內營養。
+
+這些措施有助於提高患者的生理儲備，促進更快的康復，並減少術後併發症的發生率。如果您有更詳細的需求或具體案例，建議諮詢專業的營養師或多學科團隊。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,390.0,5.314303159713745,"fsurg-07-573398.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf"
+45,術後延遲排氣是否與營養有關？,"可能與缺乏腸道刺激與早期進食延遲有關。
+解釋：可考慮少量液體飲食與口服益生菌。",Andersson RE. World J Surg. 2012;36(7):1509–1516.,營養,"根據 ERAS 的指導原則，術後延遲排氣（腸道功能恢復延遲）通常與多種因素相關，包括手術類型、麻醉時間、患者年齡和基礎健康狀況等。雖然直接將其歸因於營養狀態可能不完全準確，但良好的營養支持確實有助於促進腸道功能的恢復。
+
+在準備進行肝臟手術的患者中，文檔 2 強調了術前預康復的重要性，這包括體能訓練、飲食干預和減少焦慮的練習。這些措施可以改善患者的整體健康狀況，從而可能幫助減少術後腸道功能恢復的延遲。
+
+此外，確保患者在術前處於良好的營養狀態也是 ERAS 計劃的一部分。對於營養不良或過重的患者，應在術前進行適當的營養評估和干預，以幫助他們更好地準備手術並促進術後恢復。
+
+總結來說，雖然營養不是唯一影響術後腸道功能恢復的因素，但它確實是一個重要的考慮因素，並且在 ERAS 計劃中得到了強調。如果您有更多具體的問題或需要進一步的信息，請隨時告訴我！",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,378.0,5.112504005432129,"fsurg-07-573398.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Enhanced Recovery After Surgery (ERAS®) Society Consensus Guidelines for Emergency Laparotomy Part 3 Organizational Aspects and General Considerations for Management of the Emergency Laparotomy Patient.pdf"
+46,使用鼻胃管病人如何轉換為口服？,"應進行漸進式轉換與進食訓練。
+解釋：需由營養師與語言治療師共同監測。",Cichero JA. Clin Nutr. 2011;30(6):671–677.,營養,"根據 ERAS 的原則，減少不必要的管餵和盡早恢復口服用餐是促進患者快速康復的重要部分。對於使用鼻胃管的患者，轉換為口服應遵循以下步驟：
+
+1. **評估腸道功能恢復**：確保患者已經開始排便或有腸鳴音，這表明腸道功能正在恢復。
+ 
+2. **逐步恢復進食**：
+ - 先從清流質飲食開始（如水、清湯）。
+ - 如果患者耐受良好，可以逐漸增加至半流質飲食（如米粥、果凍）。
+ - 最終轉換到正常飲食。
+
+3. **密切監測**：在轉換過程中，密切觀察患者是否有腹脹、腹痛或其他不適症狀。如果有任何不良反應，應立即停止進食並通知醫生。
+
+4. **拔除鼻胃管**：當患者能夠順利進食且無不良反應時，可以考慮拔除鼻胃管。
+
+這些步驟有助於確保患者安全地從鼻胃管餵養轉換為口服用餐，從而促進更快的康復。如果您需要更詳細的指導，請參考 ERAS 的具體指南或諮詢您的醫療團隊。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,384.0,5.368138074874878,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care for Liver Transplantation Enhanced Recovery After Surgery (ERAS) Recommendations.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, fsurg-07-573398.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf"
+47,口腔手術術後如何提供營養？,"液態或軟質營養飲品。
+解釋：確保能量攝取同時避免刺激傷口。",Elad S. Support Care Cancer. 2008;16(4):447–456.,營養,"根據 ERAS 的原則，術後營養支持應以患者的安全和恢復為中心。對於口腔手術術後的患者，以下是一些關鍵的營養管理建議：
+
+1. **早期進食**：一旦患者能夠吞咽且無明顯併發症，應鼓勵其儘早開始進食。這有助於刺激腸道功能的恢復，減少腸麻痹的風險。
+
+2. **選擇合適的食物**：初期應提供易消化、溫和的食物，如清湯、果汁、米粥等。避免辛辣、過熱或粗糙的食物，以防刺激傷口。
+
+3. **維持營養均衡**：確保攝入足夠的蛋白質、碳水化合物和維生素，以促進組織修復和免疫功能。必要時可考慮口服營養補充劑。
+
+4. **個別化調整**：根據患者的具體情況（如手術類型、身體狀況及個人偏好），制定個化的飲食計劃。
+
+5. **密切監測**：術後密切關注患者的進食反應，並根據需要調整飲食方案。如有任何不適，應立即通知醫療團隊。
+
+這些措施有助於加速患者的術後恢復，並提高其整體健康狀況。若需更詳細的指導，建議參考 ERAS 相關指南或諮詢專業營養師。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,422.0,5.48147988319397,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Transplantation Enhanced Recovery After Surgery (ERAS) Recommendations.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf"
+48,胃繞道術後飲食建議？,"少量多餐、避免高糖。
+解釋：預防 Dumping syndrome 並控制體重。",Mechanick JI. Obesity. 2013;21(S1):S1–S27.,營養,"根據 ERAS（增強手術後恢復）指南，胃繞道術後的飲食建議如下：
+
+1. **早期進食**：應在手術後 4 小時開始口服營養，這有助於腸道功能的恢復。
+ 
+2. **飲食逐步進階**：
+ - **液體飲料**：從清流質飲料開始，如水、清湯等。
+ - **半流質飲食**：如米湯、稀粥等，當患者能夠耐受液體飲料且無不適時，可逐漸轉換到半流質飲食。
+ - **軟質食物**：如蒸蛋、細軟的蔬菜泥等，當患者能夠順利消化半流質飲食後，可以嘗試軟質食物。
+ - **正常飲食**：當患者能夠順利消化軟質食物且無不適時，可以恢復正常飲食。
+
+3. **避免過度進食**：每次進食量應小而頻繁，避免一次性進食過多，以減少腸道負擔。
+
+4. **注意症狀**：若出現腹痛、腹脹、惡心、嘔吐等不適症狀，應立即停止進食並通知醫生。
+
+這些飲食建議旨在促進腸道功能的快速恢復，減少併發症的發生，並加速患者的康復過程。具體的飲食計劃應根據患者的個體情況和醫生的指導進行調整。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,425.0,6.295468330383301,"British Journal of Surgery - 2014 - Mortensen - Consensus guidelines for enhanced recovery after gastrectomy.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Optimal Perioperative Care in Major Head and Neck Cancer Surgery With Free Flap Reconstruction A Consensus Review and Recommendations From the Enhanced Recovery After Surgery Society.pdf, Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf, Guidelines for perioperative care after radical cystectomy for bladder cancer Enhanced Recovery After Surgery (ERAS®) society recommendations.pdf"
+49,ERAS 是否支持術後個人化營養計畫？,"是，依手術類型、疾病與年齡調整。
+解釋：提升療效並減少營養不足與併發症。",Thibault R. Clin Nutr. 2011;30(2):160–165.,營養,"根據提供的 ERAS 指南文件，ERAS 強調個體化的患者管理，包括術後的營養支持。在文檔 4 中提到的 ""2b. 营养缺乏""，指出在術前評估中應考慮患者的營養狀況，並根據需要制定個體化的營養補充方案。
+
+此外，在文檔 5 中也強調了 ERAS 的核心原則之一是個體化治療，這意味著根據每位患者的具體情況（如年齡、健康狀況、營養狀態等）來調整護理計劃。因此，ERAS 支持根據患者的需求制定術後個人化營養計畫。
+
+如果您需要更詳細的信息，可以參考文檔中的具體章節。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,232.0,3.1055285930633545,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf"
+50,術後營養照護團隊需包含誰？,"醫師、營養師、護理師、藥師。
+解釋：跨領域整合能提升營養順從性與療效。",Schuetz P. Clin Nutr. 2020;39(3):685–693.,營養,"根據 ERAS（增強型恢復術後計劃）的指導原則，術後營養照護團隊應包括多學科專業人員，以確保患者獲得全面且個化的營養支持。團隊成員通常包括：
+
+1. **註冊營養師（Registered Dietitian）**：負責評估患者的營養狀況，制定和監控個別化的營養計劃。
+ 
+2. **外科醫生（Surgeon）**：與營養師合作，確保營養計劃不會影響手術結果或延遲恢復。
+
+3. **麻醉醫師（Anesthesiologist）**：參與評估患者的手術風險，並監控術後的營養支持是否會影響患者的呼吸功能或其他重要生命體徵。
+
+4. **護士（Nurse）**：特別是重症護理護士或術後護理護士，他們在術後階段密切監控患者的進展，並確保患者遵循營養計劃。
+
+5. **物理治療師（Physical Therapist）**：幫助患者進行適當的活動，促進腸道功能恢復，並減少長期卧床可能導致的肌肉萎縮。
+
+6. **心理諮詢師（Psychologist or Psychiatrist）**：對於有心理困擾或焦慮的患者，提供心理支持，幫助他們應對術後壓力。
+
+這些團隊成員共同合作，確保患者在術後能夠快速恢復，並減少併發症的發生。具體團隊組成可能會根據醫院的資源和患者的需求有所不同。如果您需要更詳細的信息，請參考 ERAS 的相關指南。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,566.0,6.358739376068115,"Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+51,手術後麻醉相關的處理是什麼？,"手術後，您將被轉移到術後麻醉恢復室（PACU）或可能到重症監護
+病房（ICU）進行密切監測，以確保您從麻醉中安全甦醒。ERAS 指南強調
+術後觀察的重要性，以早期發現任何問題。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"根據 ERAS 規範，手術後麻醉相關的處理主要包括以下幾個方面：
+
+1. **早期恢復清醒**：鼓勵患者在手術後儘早恢復意識，這有助於減少呼吸抑制和其他併發症的風險。
+ 
+2. **疼痛管理**：使用多模式鎮痛策略，包括非阿片類藥物（如對乙醯氨基酚）和局部麻醉技術，以減少對阿片類藥物的需求，從而降低便秘、嗜睡等副作用。
+
+3. **早期活動**：一旦患者情況穩定，應鼓勵其進行早期活動，這有助於促進腸道功能恢復，減少肺部並發症。
+
+4. **飲食恢復**：當患者能夠正常吞咽且無惡心或嘔吐時，應允許其開始進食清流質飲食，然後逐步轉向普通飲食。
+
+這些措施旨在加速患者的康復過程，減少住院時間並提高生活品質。如果您需要更詳細的信息，請參考 ERAS 的具體指南。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,331.0,4.351507902145386,"fsurg-07-573398.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, fsurg-07-573398.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf, fsurg-07-573398.pdf"
+52,術後我的疼痛會如何管理？,"您的疼痛將通過藥物管理，可能包括靜脈注射藥物或區域麻醉技術，
+如 ERAS 路徑中建議的，目標是讓您感到舒適並促進恢復。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"根據 ERAS（增強型恢復術後計劃）的原則，術後疼痛管理是非常重要的一部分。通常會採取多模式鎮痛策略來有效控制疼痛，這包括：
+
+1. **非阿片類藥物**：如對乙醯氨基酚（泰諾）或非甾體抗炎藥（NSAIDs），這些藥物可以幫助減少炎症和輕度至中度的疼痛。
+ 
+2. **局部麻醉技術**：例如使用硬膜外麻醉或周邊神經阻斷，這些技術可以在手術區域提供長時間的疼痛緩解。
+
+3. **阿片類藥物**：在必要時使用，但應避免過度依賴，因為它們可能導致副作用如便秘、嗜睡等。
+
+4. **物理治療**：早期活動和移動也有助於減少術後疼痛，並促進恢復。
+
+5. **心理支持**：通過教育和心理干預來幫助患者更好地應對疼痛。
+
+請與您的醫生討論具體的疼痛管理方案，以確保安全有效地控制您的術後疼痛。如果您有任何疑慮或症狀加劇，請立即通知您的醫療團隊。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,370.0,4.704033613204956,"fsurg-07-573398.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+53,緊急手術的麻醉有風險嗎？,"所有麻醉都有一定風險，但 ERAS 指南強調，您的麻醉科醫師會快速
+評估您的狀況並制定麻醉計劃，以盡量減少風險，特別考慮到手術的緊急
+性質。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"根據 ERAS 指南，緊急手術確實存在一定的麻醉風險。這些風險可能包括但不限于血流動力學不穩定、快速評估和準備不足等。然而，通過實施 ERAS 策略，如優化患者術前狀態（例如戒煙、控制糖尿病和高血壓）、使用多模式鎮痛以及減少不必要的禁食時間，可以幫助降低這些風險並改善患者的預後。
+
+對於緊急手術，特別強調的是要在最短時間內完成必要的術前評估和準備，同時確保麻醉團隊能夠迅速響應並管理任何潛在的風險因素。此外，指南建議在緊急情況下仍應遵循 ERAS 的核心原則，以促進患者的快速恢復。
+
+如果您需要更詳細的信息，請告訴我，我可以提供更多的指導。",,0.11111111111111109,4.972227154133551e-155,4.308710317117189e-204,1.0518351895246305e-231,0.1666666618055557,0.0,0.1666666618055557,0.0925925925925926,272.0,3.3361525535583496,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+54,麻醉效果需要多久才會消退？,"全身麻醉的效果通常在幾小時內消退，但您可能會感覺昏昏沉沉一段
+時間。ERAS 指南建議在 PACU 進行密切監測，以確保您從麻醉中安全恢
+復。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"根據提供的資料，並沒有直接提到麻醉效果消退的時間。麻醉後的效果消退時間取決於所使用的麻醉類型（如全身麻醉、區域麻醉等）以及個體差異。
+
+一般來說：
+
+- **全身麻醉**：通常在手術結束後幾分鐘內開始恢復意識，但完全清醒可能需要數小時，甚至更長時間。
+- **區域麻醉**：如脊髓麻醉或臂叢神經阻滯，感覺和運動功能的恢復時間較短，通常在數小時內恢復，具體時間依麻醉劑種類而定。
+
+建議參考具體的手術和麻醉方案，並遵循 ERAS 規範中關於術後恢復的指導原則，確保患者安全且有效地恢復。如有需要，可以諮詢麻醉科醫生以獲得更精確的信息。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,266.0,3.4725542068481445,"fsurg-07-573398.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf"
+55,我需要向麻醉科醫師提供哪些健康信息？,"請提供您完整的醫療病史，包括目前的和過去的疾病（如心臟病、糖
+尿病）、過敏史（特別是藥物或麻醉劑過敏）以及家族中是否有麻醉併發症
+史。ERAS 指南強調準確的術前評估對安全麻醉至關重要。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"根據 ERAS（增強手術後恢復）指南，為了確保患者在手術前處於最佳狀態，您應該收集以下健康資訊：
+
+1. **病史**：包括既往疾病、過敏史（如青黴素過敏）、手術史和藥物使用史。
+2. **體檢**：特別注意與手術相關的身體狀況，例如心肺功能、腹部檢查等。
+3. **實驗室檢查**：如血常規、肝腎功能、凝血功能等，以評估患者的生理狀況。
+4. **影像學檢查**：如X光片、CT掃描或MRI，用於評估手術部位的情況。
+5. **疼痛管理計劃**：討論並制定個性化的鎮痛方案，包括非阿片類止痛藥和多模式鎮痛策略。
+6. **飲食和腸道準備**：根據手術類型，可能需要調整飲食或進行腸道清潔。
+7. **心理支持**：了解患者的焦慮程度，並提供必要的心理支持和指導。
+
+這些信息有助於麻醉科醫師制定安全有效的麻醉計劃，並減少手術風險。如果您有具體的手術類型或患者情況，可以提供更多細節以便獲得更精確的建議。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,402.0,5.404817342758179,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf"
+56,我應該告訴醫師我正在服用的藥物嗎？,"是的，請告知所有正在使用的藥物，包括處方藥、非處方藥、維生
+素、草藥或補充劑。某些藥物可能需要停用或調整，以確保麻醉和手術安
+全，符合 ERAS 的快速審查建議。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"根據 ERAS（增強型恢復術後計劃）原則，您應該主動告知醫師您目前正在服用的所有藥物，包括處方藥、非處方藥、補充劑和草藥。這樣可以幫助醫師評估這些藥物是否可能影響手術結果或麻醉效果，並確保您的安全。
+
+此外，根據文檔 4 中提到的研究，使用 mHealth 應用程序（如 AmieTM）可以幫助提醒患者完成術前準備中的關鍵任務，例如停止服用抗凝血劑等。因此，您可以考慮使用這些應用程序來幫助您記住並報告所有相關的藥物信息給醫師。這樣不僅能減少因未遵守術前指示而導致的手術取消，還能提高您的術後恢復質量。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,251.0,3.13889479637146,"fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, Using_a_Mobile_Application_for_Real-Time_Collectio.pdf"
+57,手術前我需要禁食嗎？,"由於緊急手術的急迫性，禁食時間可能有限，但醫療團隊會根據您的
+情況提供具體指導，例如停止進食或飲水。這能降低麻醉期間誤吸的風
+險，請嚴格遵循指示。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"根據 ERAS 的建議，在肝臟手術前通常不需要完全禁食。相反，建議在手術前一天晚上提供清淡的飲食，如清湯或果汁，以避免空腹時間過長。這樣可以幫助維持患者的營養狀態，減少手術風險。
+
+具體來說，《Guidelines for Perioperative Care for Liver Surgery》指出，應避免不必要的長期禁食，並提倡早期進食（early oral intake）。這意味著患者可以在手術後第一天恢復正常飲食，除非有特殊的醫療情況需要延遲進食。
+
+如果您有任何疑慮或特殊健康狀況，請與您的醫生討論最適合您的具體情況。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,266.0,2.758227586746216,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf"
+58,如果我最近生病了，應該告訴醫師嗎？,"應該。如果您有發燒、感冒、呼吸道感染或其他近期健康問題，請告
+知麻醉科醫師。這些狀況可能影響麻醉安全，ERAS 指南建議快速評估患
+者的最新生理狀態。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,當然應該告訴醫師您最近的健康狀況，包括任何疾病或症狀。這對於確保您的手術前後得到最佳的照護非常重要。醫師需要了解所有可能影響您健康的因素，以便制定最適合您的治療和康復計劃。如果您有任何疑慮或不確定的情況，最好直接與您的醫師討論。這樣可以幫助醫師更好地評估您的情況，並提供更個性化的建議和支持。此外，在 ERAS（手術加速康復）計劃中，透明地分享您的健康資訊也是促進更快康復的重要部分。,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,192.0,2.31864070892334,"fsurg-07-573398.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf"
+59,吸煙或喝酒會影響麻醉嗎？,"是的，吸煙和飲酒可能影響麻醉效果和術後恢復。雖然緊急手術無法
+提前計劃，但請告知您的吸煙或飲酒史，麻醉科醫師會據此調整計劃。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"根據 ERAS 指南，吸煙和酒精攝取確實可能影響麻醉的效果和手術後的恢復。
+
+1. **吸煙**：長期吸煙會導致肺功能下降，增加術後呼吸併發症的風險，如肺炎或肺不張。此外，尼古丁會縮血管，這可能會影響血液供應，並延長麻醉藥物的作用時間。因此，指南建議在手術前至少戒煙 4 至 6 周（2e. Tobacco and alcohol cessation）。
+
+2. **酒精攝取**：過量飲酒會影響肝臟功能，並可能干擾麻醉藥物的代謝。長期酗酒者還可能有肝硬化或其他相關健康問題，這些都會增加麻醉風險。指南也建議在手術前停止飲酒，以確保最佳的麻醉效果和術後恢復（2e. Tobacco and alcohol cessation）。
+
+總結來說，為了減少麻醉風險並促進術後快速康復，建議患者在手術前避免吸煙和過量飲酒。如有需要，可以尋求專業的戒煙或戒酒支持。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,377.0,4.5556604862213135,"fsurg-07-573398.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf"
+60,麻醉科醫師會問我什麼問題？,"他們可能會問您是否有過麻醉經驗、是否曾有麻醉併發症（如惡性高
+熱或噁心嘔吐），以及您的身體狀況（如呼吸困難）。誠實回答有助於制定
+適合您的麻醉方案。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"麻醉科醫師可能會詢問以下與 ERAS 計劃和 mHealth 應用程式相關的問題：
+
+1. **如何使用 mHealth 應用程式來支援 ERAS 計劃？**
+ - 根據文獻，mHealth 應用程式可以幫助患者查看個性化的康復計劃，追蹤個人健康數據，並提供每日報告和提示以鼓勵持續使用應用程式（文檔 1）。
+ 
+2. **這些應用程式是否有助於提高患者的滿意度和依從性？**
+ - 研究顯示，使用 mHealth 應用程式的患者通常會有更高的滿意度，更好的藥物依從性，以及較低的再住院率和急診就診率（文檔 5）。
+
+3. **這些應用程式是否能有效減少患者的再入院率？**
+ - 在沒有 mHealth 應用程式的狀況下，有多達 55% 的患者可能會因為傷口評估而返回醫院（文檔 5）。因此，這些應用程式可能有助於減少不必要的再入院。
+
+4. **這些應用程式是否能幫助患者更好地管理術後疼痛？**
+ - 文獻指出，脊柱手術患者在術後面臨著重要的挑戰，包括康復、疼痛管理和併發症（文檔 4）。mHealth 應用程式可以提供個性化的疼痛管理建議和支持。
+
+5. **這些應用程式是否能幫助患者與醫生進行有效的溝通？**
+ - mHealth 應用程式允許患者與醫生進行即時通信，並且可以根據需要調整康復計劃（文檔 1）。
+
+6. **這些應用程式是否能夠節省資源並降低成本？**
+ - mHealth 技術提供了以成本效益的方式與患者進行溝通的新機會，這對於整合到臨床實踐中非常有利（文檔 2）。
+
+如果您有其他具體的問題，請隨時提出，我可以根據提供的文獻進一步詳細解答。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,687.0,8.336122035980225,"fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf"
+61,手術前需要做哪些檢查？,"根據您的健康狀況，可能需要血液檢查、心電圖或其他快速檢查，以
+確認您適合麻醉。這些是 ERAS 指南中快速術前優化的一部分，確保手術
+安全。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"根據 ERAS 規範，手術前的檢查旨在確保患者處於最佳狀態，以減少併發症和促進快速恢復。具體的檢查項目可能因手術類型和患者個體情況而異，但通常包括以下幾個方面：
+
+1. **健康評估**：包括病史、體格檢查、實驗室檢測（如血液檢查、肝功能測試等）。
+2. **影像學檢查**：如 X 光、CT 或 MRI，用於評估手術部位的情況。
+3. **心肺功能評估**：特別是對於高風險患者，可能需要進行心電圖（ECG）、胸部 X 光或肺功能測試。
+4. **營養狀況評估**：尤其是對於營養不良或過重的患者，可能需要進行營養評估和干預。
+5. **心理支持**：對有心理困擾的患者提供心理支持和干預。
+
+此外，對於某些特定的手術，還可能需要進行其他專門的檢查。例如，在肝臟手術中，可能會進行膽汁培養以指導抗生素使用；而在頭頸部手術中，則可能需要進行更詳細的影像學檢查來評估血管和組織的情況。
+
+這些檢查的具體內容應由外科醫生根據患者的具體情況來決定。如果您需要更詳細的信息，請提供具體的手術類型，以便我能夠給出更加精確的答案。",,0.0196078431372549,2.088753197158939e-155,2.4307996582608832e-204,6.817352958349419e-232,0.07999999680000014,0.0,0.07999999680000014,0.052083333333333336,459.0,5.973967790603638,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Optimal Perioperative Care in Major Head and Neck Cancer Surgery With Free Flap Reconstruction A Consensus Review and Recommendations From the Enhanced Recovery After Surgery Society.pdf"
+62,我的家人可以參與麻醉相關討論嗎？,"可以。ERAS 指南建議讓家人或照護者參與術前討論，特別是高風險
+患者。這有助於記錄您的意願並確保照護目標明確。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"根據 ERAS（增強手術後恢復）原則，鼓勵家庭成員和患者一起參與術前準備和討論，以確保患者充分了解手術過程及術後護理。這有助於提高患者的參與度和滿意度，並可能改善術後恢復情況。
+
+在麻醉相關討論中，家屬可以提供支持，幫助患者理解麻醉過程及其潛在風險，但最終的決策應由患者本人與麻醉醫生共同商議。家屬的參與可以增進溝通，確保所有疑慮都得到解答，並為患者提供情感支持。
+
+如果您有具體的麻醉相關問題，建議直接與麻醉團隊討論，他們會根據患者的情況提供專業建議。這樣不僅能確保信息的準確性，也能更好地保護患者的隱私。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,254.0,3.3141846656799316,"fsurg-07-573398.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf"
+63,麻醉時會用什麼藥物來保護我的氣道？,"麻醉師會使用琥珀膽鹼（1-2 mg/kg）或羅庫溴銨（0.9-1.2 mg/kg）等
+快速肌肉鬆弛劑，配合氣管插管保護氣道。藥物選擇會根據您的狀況調
+整。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"根據ERAS（增強手術後恢復）的建議，在剖宮產手術中，麻醉醫生會選擇合適的麻醉方式來保護您的氣道。通常會使用全身麻醉，這意味著會給您注射一種讓您進入睡眠狀態的藥物，這樣您在手術過程中就不會感到疼痛或意識到正在進行的手術。
+
+具體使用的藥物會根據您的健康狀況和醫生的判斷來決定。這些藥物可能包括鎮靜劑、止痛藥以及肌肉鬆弛劑等，以確保您的安全並有效進行手術。如果您有特殊的健康情況或過敏史，請務必提前告知您的麻醉醫生，以便他們可以調整麻醉方案，確保您的安全。
+
+如果您需要更詳細的信息，建議直接與您的麻醉醫生討論。他們能夠根據您的具體情況提供最準確的答案。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,276.0,3.495237112045288,"Guidelines for Antenatal and Preoperative care in Cesarean Delivery Enhanced Recovery After Surgery Society Recommendations (Part 1).pdf, fsurg-07-573398.pdf, Guidelines for Antenatal and Preoperative care in Cesarean Delivery Enhanced Recovery After Surgery Society Recommendations (Part 1).pdf, fsurg-07-573398.pdf, Guidelines for Antenatal and Preoperative care in Cesarean Delivery Enhanced Recovery After Surgery Society Recommendations (Part 1).pdf"
+64,什麼是環甲膜壓迫？為什麼需要？,"環甲膜壓迫是一種技術，麻醉師在插管時壓迫您的喉部以防止胃內容
+物反流。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"根據您提供的資料，並沒有直接提到“環甲膜壓迫”這個術語。環甲膜壓迫（Cricoid Pressure）是一種臨床操作，通常在氣管插管時使用，目的是為了減少胃內容物反流和誤吸的風險，特別是在進行快速序列誘導（Rapid Sequence Induction, RSI）的情況下。
+
+在ERAS（加速康復外科）的背景下，雖然沒有直接提及此技術，但其目標之一是減少並發症，包括誤吸等。因此，在某些情況下，如患者有高風險的胃內容物反流，可能會考慮使用環甲膜壓迫來降低這些風險。
+
+如果您需要更詳細的信息，建議參考麻醉學或相關的手術指南。這可能超出了我目前所能提供的信息範圍。您可以諮詢專業的麻醉醫師以獲得更精確的答案。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,305.0,3.57631778717041,"fsurg-07-573398.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, fsurg-07-573398.pdf, Guidelines for Antenatal and Preoperative care in Cesarean Delivery Enhanced Recovery After Surgery Society Recommendations (Part 1).pdf"
+65,麻醉期間如何確保我的血壓穩定？,"麻醉師會選擇適合的麻醉藥物並小心調整劑量，必要時使用血管加壓
+藥，維持平均動脈壓（MAP）在 60-65 mmHg，保護您的器官功能。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"根據 ERAS 指南，確保麻醉期間血壓穩定涉及多個方面，包括優化患者準備和麻醉管理。以下是一些建議：
+
+1. **優化患者準備**：
+ - 控制高血壓：在手術前，應對患者的高血壓進行治療，以達到目標血壓水平。
+ - 戒煙：戒煙可以減少心血管並發症的風險，儘管最佳戒煙時間尚不清楚，但大多數研究建議患者應盡可能早地戒煙，短期戒煙不會造成傷害，而長期戒煙則與較少的併發症有關（文檔 1 和文檔 3）。
+
+2. **麻醉管理**：
+ - 使用適當的麻醉藥物：選擇合適的麻醉藥物和技術，以維持血壓穩定。
+ - 密切監控血壓：在麻醉期間，應持續監控血壓，並根據需要調整麻醉深度和藥物使用。
+ - 維持血容量：確保患者在麻醉期間有足夠的血容量，以避免低血容量引起的血壓下降。
+
+3. **其他措施**：
+ - 控制血糖：糖尿病患者應控制好血糖水平，以減少心血管風險。
+ - 適當的氧氣供應：確保患者在麻醉期間獲得足夠的氧氣供應，以支持心血管功能。
+
+這些措施有助於在麻醉期間維持血壓穩定，從而降低心血管並發症的風險。如果您有更多具體的問題或需要進一步的信息，請隨時告訴我。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,480.0,6.45578145980835,"Guidelines for Perioperative Care in Cytoreductive Surgery (CRS) with or without hyperthermic IntraPEritoneal chemotherapy (HIPEC) Enhanced recovery after surgery (ERAS®) Society Recommendations — Part.pdf, Guidelines for enhanced recovery after lung surgery recommendations of the Enhanced Recovery After Surgery (ERAS®) Society and the European Society of Thoracic Surgeons (ESTS).pdf, Guidelines for Perioperative Care in Cytoreductive Surgery (CRS) with or without hyperthermic IntraPEritoneal chemotherapy (HIPEC) Enhanced recovery after surgery (ERAS®) Society Recommendations — Part.pdf, fsurg-07-573398.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf"
+66,手術中會如何控制我的體溫？,"麻醉團隊會使用主動加溫設備和溫熱靜脈液，監測您的核心體溫，保
+持正常體溫（36-37°C），降低感染和併發症風險。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"在手術過程中，維持患者的正常體溫是非常重要的，因為低體溫（低溫症）可能會延遲恢復並增加併發症的風險。根據 ERAS 的原則，手術室的環境溫度通常會被調節到較高的水平，並且使用加溫毯或其他加溫設備來幫助患者保持體溫。
+
+具體措施可能包括：
+
+- 使用加熱的輸液和輸血。
+- 使用加溫毯或加熱墊。
+- 調整手術室的環境溫度至較高水準。
+- 定期監測患者的體溫。
+
+這些措施有助於確保患者在手術期間保持正常的體溫，從而促進更快的康復。如果您有更多關於 ERAS 的問題，請隨時提出！",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,238.0,3.2604782581329346,"fsurg-07-573398.pdf, fsurg-07-573398.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf"
+67,手術中如何預防噁心和嘔吐？,"麻醉師會使用多模式方法，包括減少鴉片類藥物和給予止吐藥，降低
+術後噁心嘔吐（PONV）的風險，特別針對高風險的 EL 患者。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"根據 ERAS（增強型恢復術後）指南，預防術後恶心和呕吐（PONV）是術後加速恢復的重要部分。以下是一些常見的預防措施：
+
+1. **選擇性使用止吐藥物**：在手術前或手術期間，可以考慮使用止吐藥物，如昂丹司瓊（Ondansetron）、多拉司瓊（Dolasetron）或格拉司瓊（Granisetron），這些藥物已被證明對預防PONV有效。
+
+2. **避免使用已知會增加PONV風險的麻醉藥物**：某些麻醉藥物，如揮發性麻醉劑（如異氟醚）和阿片類鎮痛藥（如芬太尼），可能會增加PONV的風險。因此，在可能的情況下，應選擇其他麻醉藥物。
+
+3. **非藥物干預**：包括使用針灸、經皮電神經刺激（TENS）等方法，這些方法也被認為有助於減少PONV的發生。
+
+4. **術後早期活動**：鼓勵患者術後早期活動，這有助於促進腸道功能恢復，減少PONV的風險。
+
+5. **保持良好的通氣**：確保患者在手術過程中得到充分的氧氣供應，避免二氧化碳積聚，因為高碳酸血症也可能導致PONV。
+
+6. **控制疼痛**：有效的疼痛管理可以減少因疼痛引起的惡心和嘔吐。可以考慮使用多模式鎮痛策略，如組合使用非甾體抗炎藥（NSAIDs）和局部麻醉技術。
+
+這些措施應根據每位患者的具體情況進行個化化調整，以達到最佳的效果。如果您需要更詳細的信息或有其他問題，請隨時告訴我。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,581.0,7.430989742279053,"fsurg-07-573398.pdf, fsurg-07-573398.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf"
+68,麻醉結束時如何決定是否拔管？,"麻醉師和外科團隊會共同評估您的呼吸功能和整體狀況，確保拔管安
+全，降低術後肺部併發症風險。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"根據 ERAS 指南，麻醉結束後是否拔管應由麻醉師根據患者的情況來決定。通常會考慮以下因素：
+
+1. **呼吸功能**：確保患者能夠自主呼吸且呼吸頻率和深度正常。
+2. **意識水平**：患者應該清醒且能夠遵循指令。
+3. **血流動態穩定**：患者的血壓和心率應穩定。
+4. **氣道保護能力**：患者應能保護自己的氣道，避免誤吸。
+
+這些標準確保患者在拔管後能夠安全地恢復正常的生理功能。具體的拔管決策應由麻醉團隊根據患者的個體情況進行評估。如果您需要更詳細的信息，建議參考麻醉學相關的 ERAS 指南。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,254.0,3.1388232707977295,"fsurg-07-573398.pdf, Guidelines for Antenatal and Preoperative care in Cesarean Delivery Enhanced Recovery After Surgery Society Recommendations (Part 1).pdf, Guidelines for Antenatal and Preoperative care in Cesarean Delivery Enhanced Recovery After Surgery Society Recommendations (Part 1).pdf, Enhanced Recovery After Surgery (ERAS®) Society Consensus Guidelines for Emergency Laparotomy Part 3 Organizational Aspects and General Considerations for Management of the Emergency Laparotomy Patient.pdf, Guidelines for Perioperative Care for Liver Transplantation Enhanced Recovery After Surgery (ERAS) Recommendations.pdf"
+69,如何降低緊急剖腹手術患者的靜脈血栓栓塞（VTE）風險？,"在入院時使用經過驗證的工具評估患者的 VTE 風險。如果藥物預防
+不可行，應使用機械預防措施（如間歇性氣壓治療）。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+
+World journal of surgery, 2023, 47.8: 1850-1880.
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉,"根據 ERAS 的指導原則，對於需要緊急剖腹手術的患者，降低靜脈血栓栓塞（VTE）風險的策略包括：
+
+1. **評估風險因素**：在手術前評估患者是否有 VTE 的風險因素，如年齡、長期臥床、肥胖、腫瘤病史等。
+ 
+2. **動態評估**：在手術期間和手術後持續評估患者的 VTE 風險，特別是在手術後早期階段。
+
+3. **物理預防措施**：
+ - 使用間歇性充氣加壓裝置（IPC）。
+ - 鼓勵患者儘早活動，如床上移動和下床行走。
+
+4. **藥物預防**：
+ - 根據患者具體情況選擇合適的抗凝藥物，如低分子肝素（LMWH）或普通肝素（UFH）。
+ - 注意避免過度使用抗凝藥物，以免增加出血風險。
+
+5. **個體化治療**：根據患者的具體情況制定個體化的 VTE 預防方案，並密切監測患者的反應和併發症。
+
+這些措施應結合患者的情況進行個體化調整，以確保安全有效地降低 VTE 的風險。如果您需要更詳細的信息，請參考 ERAS 的相關指南。",,0.016129032258064516,1.8944204401462482e-155,2.2790721136294767e-204,6.492476721861418e-232,0.06896551486325811,0.0,0.06896551486325811,0.05102040816326531,425.0,5.643964052200317,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+70,手術前可以喝東西嗎？,"ERAS 指南建議在手術前 2-3 小時飲用水或碳水化合物飲料，以減少
+術前焦慮、口渴和飢餓感，並防止脫水。","Reference: 1. NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society
+guidelines for gynecologic oncology: Addressing implementation challenges-
+2023 update. Gynecologic oncology, 2023, 173: 58-67.",麻醉,"根據 ERAS 規範，手術前通常會有飲食限制，以減少麻醉期間發生嘔吐和吸入性肺炎的風險。一般建議：
+
+- **成人患者**：手術前 **6 小時** 不要進食固體食物，但可以喝清水直到 **2 小時** 前。
+- **兒童患者**：具體指導可能有所不同，建議遵循醫院的具體指南或諮詢麻醉團隊。
+
+這些指導有助於確保患者的安全，並促進更快的恢復。如果您需要更詳細的信息，請參考 ERAS 指南或與您的醫療團隊確認。",,0.02941176470588235,2.5581897658231897e-155,2.7788127450817144e-204,7.544641259221007e-232,0.11111110709876558,0.0,0.11111110709876558,0.06329113924050633,206.0,2.636835813522339,"Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Consensus statement for perioperative care in lumbar spinal fusion Enhanced Recovery After Surgery (ERAS®) Society recommendations.pdf"
+71,如果我有嚴重的青黴素過敏怎麼辦？,"若您有確診嚴重的青黴素過敏，醫療團隊可能避免使用β-內酰胺類抗
+生素，改用替代藥物以預防手術部位感染。","Reference: 1. NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society
+guidelines for gynecologic oncology: Addressing implementation challenges-
+2023 update. Gynecologic oncology, 2023, 173: 58-67.",麻醉,"根據提供的 ERAS 指南，並沒有直接提到關於青黴素過敏的情況。不過，在手術前的評估中，通常會包括對患者的過敏史進行詳細的問診。
+
+對於嚴重的青黴素過敏患者，重要的是：
+
+1. **確認過敏反應的性質和嚴重程度**：了解過敏反應是否僅僅是皮膚反應（如蕁麻疹）還是更嚴重的全身反應（如過敏性休克）。這一點對於選擇合適的手術前抗生素預防非常重要。
+
+2. **避免使用青黴素類抗生素**：在手術前的抗生素預防中，應避免使用任何可能引起過敏的青黴素類抗生素。
+
+3. **選擇替代抗生素**：可以考慮使用其他類型的抗生素，例如頭孢菌素或其他非青黴素類抗生素，但需確保這些抗生素不會引起過敏，並且根據當地的感染控制指南和臨床情況選擇合適的抗生素。
+
+4. **與麻醉科醫生和外科醫生討論**：在手術前，應該與麻醉科醫生和外科醫生討論過敏史，以確保在手術過程中能夠迅速處理任何潛在的過敏反應。
+
+如果您需要具體的抗生素選擇建議，建議諮詢您的主治醫生或感染病專家，他們可以根據您的具體情況提供個化的建議。此外，也可以參考醫院的感染控制指南或當地的抗生素使用指南。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,475.0,5.923319578170776,"Consensus Guidelines for Perioperative Care in Neonatal Intestinal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Antenatal and Preoperative care in Cesarean Delivery Enhanced Recovery After Surgery Society Recommendations (Part 1).pdf"
+72,為什麼手術前可以吃輕食？,"您可以在麻醉前 6 小時吃輕食，因為現代禁食規則顯示這是安全的，
+且能減少術後胰島素抵抗，促進恢復。","Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
+Recovery After Surgery Society recommendations. American journal of
+obstetrics and gynecology, 2020, 223.4: 475-485.",麻醉,"根據 ERAS（手術加速康復）的建議，減少手術前的禁食時間有助於改善患者的恢復情況。這包括允許患者在手術前幾小時內攝取輕食，如清流質飲品或少量的食物。
+
+這樣的安排可以：
+
+1. **減少飢餓感和口渴**：讓患者感到更舒適。
+2. **避免脫水**：確保患者在手術前保持良好的水合狀態。
+3. **減少腸道萎縮**：較短的禁食時間可能有助於維持腸道功能，從而促進術後恢復。
+4. **降低並發癥風險**：例如誤吸等與禁食相關的風險。
+
+文檔中提到，對於適合口服攝取且經過適當篩查和管理的患者，可以在術前進行少量飲食，特別是在那些有吞咽困難或再餵食綜合症風險的情況下。這樣的做法不僅能提高患者的舒適度，還能幫助他們更快地恢復正常的飲食習慣，進而促進整體的術後康復過程。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,333.0,4.579698085784912,"Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Optimal Perioperative Care in Major Head and Neck Cancer Surgery With Free Flap Reconstruction A Consensus Review and Recommendations From the Enhanced Recovery After Surgery Society.pdf, Guidelines for Perioperative Care in Bariatric Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Guidelines for perioperative care after radical cystectomy for bladder cancer Enhanced Recovery After Surgery (ERAS®) society recommendations.pdf"
+73,手術會使用哪種麻醉方式？,"可能使用全身麻醉或區域麻醉（如脊椎或硬膜外麻醉），具體取決於您
+的手術。","Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
+Recovery After Surgery Society recommendations. American journal of
+obstetrics and gynecology, 2020, 223.4: 475-485.",麻醉,"根據 ERAS 規範，麻醉方式應根據患者的情況和手術類型由麻醉團隊決定。通常會考慮以下因素：
+
+1. **手術類型**：不同的手術可能需要不同的麻醉技術。例如，頭頸部手術可能需要全身麻醉，而某些婦科手術可能適合區域麻醉。
+ 
+2. **患者健康狀況**：患者的年齡、體重、是否有其他疾病（如心臟病或糖尿病）都會影響麻醉選擇。
+
+3. **疼痛管理**：ERAS 強調多模式鎮痛，即結合不同類型的止痛藥物來減少單一藥物的用量，從而降低副作用。這意味著麻醉方式可能會與術後疼痛管理策略相配合。
+
+4. **恢復時間**：ERAS 的目標之一是縮短住院時間並加快患者恢復。因此，麻醉方式也會考慮如何幫助患者更快地甦醒並回到正常活動中。
+
+如果您具體指的是某一種手術（如婦科腫瘤手術或頭頸部手術），可以提供更多細節，以便給出更精確的答案。此外，文檔中沒有詳細列出所有可能的麻醉方式，但強調了個體化治療的重要性。建議與麻醉醫師討論以確定最合適的麻醉方案。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,422.0,5.271570920944214,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Optimal Perioperative Care in Major Head and Neck Cancer Surgery With Free Flap Reconstruction A Consensus Review and Recommendations From the Enhanced Recovery After Surgery Society.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf"
+74,為什麼推薦短效麻醉藥？,"短效麻醉藥能加快恢復，讓您更快恢復正常活動，如進食和行動，減
+少手術壓力反應","Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
+Recovery After Surgery Society recommendations. American journal of
+obstetrics and gynecology, 2020, 223.4: 475-485.",麻醉,"根據 ERAS（增強手術後恢復）指南，推薦使用短效麻醉藥的主要原因包括：
+
+1. **快速恢復意識和呼吸功能**：短效麻醉藥能夠更快地從體內代謝掉，這意味著患者可以在手術後更快地恢復意識和自主呼吸，減少機械通氣時間。
+ 
+2. **減少住院時間**：由於患者能更快地恢復正常功能，因此可以縮短住院時間，促進早期出院。
+
+3. **降低並發症風險**：短效麻醉藥可以減少與長效麻醉藥相關的副作用，如呼吸抑制、心血管抑制等，從而降低並發症的發生率。
+
+這些措施有助於實現 ERAS 的目標，即通過多模式的策略來改善患者的術後恢復過程，提高生活質量並減少住院時間。如果您需要更詳細的信息，請參考 ERAS 指南中的相關部分。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,309.0,3.735752582550049,"fsurg-07-573398.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf"
+75,什麼是全靜脈麻醉（TIVA）,"全靜脈麻醉（TIVA）是一種使用靜脈藥物而非吸入氣體的全身麻醉方
+式，並能減少術後噁心嘔吐。","Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
+Recovery After Surgery Society recommendations. American journal of
+obstetrics and gynecology, 2020, 223.4: 475-485.",麻醉,"全靜脈麻醉（Total Intravenous Anesthesia, TIVA）是指整個手術過程中僅使用靜脈注射的麻醉藥物來達到和維持麻醉狀態的一種技術。根據 ERAS 指南，在單側輸尿管切開取石術（Single-Sided Stone Disease, SSD）中，與吸入性麻醉相比，TIVA 與較少的手術後噁心和嘔吐（PONV）有關，並且不會延長氣管拔管時間或在恢復室（PACU）停留的時間。
+
+這種方法可以通過精確控制麻醉藥物的濃度來提供更平穩的麻醉效果，減少對呼吸系統的影響，並可能降低某些不良反應的風險。在某些情況下，當 TIVA 不適用時，吸入性麻醉結合適當的止吐預防措施也可以提供類似的止吐效果。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,306.0,3.6719720363616943,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Guidelines for Perioperative Care in Bariatric Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations A 2021 Update.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf"
+76,陰道子宮切除術前會給我抗生素嗎？,是的，您會在手術前 60 分鐘內接受靜脈抗生素，以降低感染風險。,"Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
+Recovery After Surgery Society recommendations. American journal of
+obstetrics and gynecology, 2020, 223.4: 475-485.",麻醉,"根據 ERAS 的原則，在陰道子宮切除術前是否使用抗生素取決於多個因素，包括手術的風險和患者的個人健康狀況。通常，醫生會根據最新的臨床指南來決定是否需要預防性使用抗生素。
+
+如果您有特定的手術計劃，建議直接與您的外科醫生討論，以了解他們的具體做法和理由。這樣可以確保您獲得最適合您情況的治療方案。如果您有任何疑慮或問題，也可以隨時向您的醫療團隊提出。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,175.0,2.1036596298217773,"Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf, fsurg-07-573398.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf"
+77,外陰手術會使用抗生素嗎？,"外陰手術，特別是根治性外陰切除術，建議使用抗生素，因其感染風
+險高。","Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
+Recovery After Surgery Society recommendations. American journal of
+obstetrics and gynecology, 2020, 223.4: 475-485.",麻醉,"根據提供的 ERAS 指南文件，並沒有直接提到外陰手術的抗生素使用情況。不過，根據一般的外科手術原則和感染預防措施，在某些情況下，醫生可能會根據患者的情況和手術風險來決定是否使用抗生素。
+
+通常，抗生素的使用會考慮以下因素：
+- 手術部位的感染風險
+- 患者的健康狀況（如免疫系統功能）
+- 是否存在其他併發症
+
+建議您諮詢執刀醫生或醫療團隊，他們會根據具體情況制定最合適的治療方案。如果您需要更詳細的信息，可以提供更多的背景信息，以便我能夠提供更有針對性的建議。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,232.0,2.7552096843719482,"Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, fsurg-07-573398.pdf"
+78,剖腹產前喝東西安全嗎？,"是的，您可以在手術前 2 小時飲用清澈液體，如無果肉果汁、不加奶
+的咖啡或茶。","Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
+cesarean delivery: Enhanced Recovery After Surgery Society recommendations
+(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",麻醉,"根據 ERAS 的建議，在剖腹產手術前，通常會要求患者在手術前的幾個小時內禁食。這主要是為了防止手術過程中或麻醉期間發生嘔吐和誤吸的情況，從而減少並發症的風險。
+
+具體來說，《Guidelines for Antenatal and Preoperative care in Cesarean Delivery Enhanced Recovery After Surgery Society Recommendations (Part 1)》中提到，剖腹產手術前應遵循標準的禁食指南，一般建議成人術前 6 小時禁食固體食物，術前 2 小時禁食液體（除了允許少量的清水）。
+
+因此，剖腹產前喝水是安全的，但應該限制在術前 2 小時內，且僅限於少量清水。其他飲料或食物則應按照醫生的指示進行禁食。如果有任何疑問，最好與您的醫療團隊確認具體的禁食時間表。",,0.03333333333333333,2.723400973358595e-155,2.8959916856509815e-204,7.784451369270533e-232,0.06666666435555564,0.0,0.06666666435555564,0.07575757575757576,374.0,3.973435401916504,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf, Guidelines for Antenatal and Preoperative care in Cesarean Delivery Enhanced Recovery After Surgery Society Recommendations (Part 1).pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf"
+79,剖腹產前可以吃東西嗎？,您可以在手術前 6 小時吃輕食。,"Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
+cesarean delivery: Enhanced Recovery After Surgery Society recommendations
+(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",麻醉,"根據 ERAS 的建議，在剖腹產手術前，通常會要求患者進行禁食，以減少手術期間發生嘔吐和誤吸的風險。具體的禁食時間可能因醫院政策和個體情況而有所不同，但一般建議：
+
+- **成人**：手術前 6 小時禁食固體食物，手術前 2 小時禁食液體（除了允許少量清水）。
+- **兒童**：手術前 6 小時禁食固體食物，手術前 4 小時禁食奶類，手術前 2 小時禁食清液（如水、糖水）。
+
+這些指導原則旨在確保患者的安全，並減少麻醉和手術期間的併發症風險。如果您有更詳細的情況或需要進一步的指導，建議與您的醫療團隊確認具體的禁食要求。",,0.03571428571428572,2.8189878239914012e-155,2.9626829242377775e-204,7.919883909890055e-232,0.11764705591695508,0.0,0.11764705591695508,0.09090909090909093,262.0,3.7230827808380127,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Antenatal and Preoperative care in Cesarean Delivery Enhanced Recovery After Surgery Society Recommendations (Part 1).pdf, Guidelines for Perioperative Care in Bariatric Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations A 2021 Update.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+80,為什麼手術前要給我抗酸劑？,"抗酸劑（如非顆粒性檸檬酸鈉）用於中和胃酸，降低麻醉期間罕見但
+嚴重的誤吸性肺炎風險。","Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
+cesarean delivery: Enhanced Recovery After Surgery Society recommendations
+(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",麻醉,"根據 ERAS（增強手術後恢復）指南，術前使用抗酸劑的主要目的是為了減少胃內酸性環境，從而降低手術過程中發生胃內容物反流和吸入性肺炎的風險。這對於減少術後並發症和促進快速康復非常重要。
+
+在肝臟手術的情況下，由於麻醉和手術本身會影響消化道的正常功能，因此使用抗酸劑可以幫助保護患者的呼吸道，確保手術的安全進行。如果您有任何疑慮或需要進一步的信息，請隨時與您的醫療團隊討論。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,186.0,2.417038917541504,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Liver Transplantation Enhanced Recovery After Surgery (ERAS) Recommendations.pdf, fsurg-07-573398.pdf"
+81,剖腹產會使用哪種麻醉方式？,"建議使用區域麻醉，如脊椎或硬膜外麻醉，因為它比全身麻醉更安
+全，但某些情況可能需要全身麻醉。","Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
+cesarean delivery: Enhanced Recovery After Surgery Society recommendations
+(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",麻醉,"根據 ERAS 的原則，剖腹產的麻醉方式通常會選擇對母親和胎兒影響較小的方式。常見的麻醉方式包括：
+
+1. **腰麻（脊髓麻醉）**：這是最常用的麻醉方式，因為它可以提供良好的鎮痛效果，同時讓母親保持清醒，並且對胎兒的影響較小。
+ 
+2. **全身麻醉**：在某些情況下，如緊急剖腹產或母親有特殊健康狀況時，可能會使用全身麻醉。這種方式可以更快地進行手術，但需要密切監控母親和胎兒的生命體徵。
+
+具體選擇哪種麻醉方式，應由麻醉醫師根據母親的健康狀況、妊娠週數以及手術的緊急性來決定。在 ERAS 計劃中，也會考慮如何減少麻醉對患者的影響，並促進術後快速恢復。如果您需要更詳細的信息，建議參考 ERAS 的相關指南或諮詢麻醉專家。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,314.0,3.9658215045928955,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, fsurg-07-573398.pdf"
+82,麻醉科醫師如何確保麻醉期間我的安全？,"麻醉科醫師會使用抗酸劑、組織胺 H2 受體拮抗劑 (histamine H2
+receptor antagonists)，並儘可能使用區域麻醉，以降低誤吸等風險，確保手
+術安全。","Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
+cesarean delivery: Enhanced Recovery After Surgery Society recommendations
+(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",麻醉,"根據 ERAS 覺得恢復手術（ERAS）指南，麻醉科醫師會採取一系列措施來確保您在麻醉期間的安全：
+
+1. **麻醉前評估**：麻醉科醫師會進行詳細的麻醉前評估，包括病史、體檢和必要的實驗室檢查，以確定您的健康狀況和可能存在的風險因素。
+
+2. **個化麻醉方案**：根據您的具體情況制定個化的麻醉方案，選擇最適合您的麻醉技術和藥物，以減少並發症的風險。
+
+3. **監測和支持**：在麻醉期間，使用先進的生命體征監測設備，如心電圖（ECG）、血氧飽和度（SpO₂）、呼氣末二氧化碳（ETCO₂）等，持續監控您的生命體征，並隨時調整麻醉深度和通氣支持。
+
+4. **多模式鎮痛**：採用多模式鎮痛策略，結合不同的鎮痛方法，如局部麻醉、區域阻滯和全身麻醉，以提高鎮痛效果並減少阿片類藥物的用量，從而降低呼吸抑制和其他並發症的風險。
+
+5. **快速恢復**：遵循 ERAS 指南，通過優化麻醉管理，促進術後快速恢復，縮短住院時間，減少並發症發生率。
+
+如果您有任何疑慮或特殊需求，請與麻醉科醫師討論，他們將會根據您的具體情況提供個性化的建議和保障措施。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,475.0,6.023244142532349,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf"
+83,手術前可以吃止痛藥來減輕術後疼痛嗎？,"是的，醫生可能會給您乙醯氨酚、非甾體抗炎藥或加巴噴丁類藥物，
+這些藥物能減少術後疼痛和對阿片類藥物的需求。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
+spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
+recommendations. The spine journal, 2021, 21.5: 729-752.",麻醉,"根據 ERAS 的建議，手術前通常不建議使用止痛藥來減輕術後疼痛。ERAS 強調通過多種方法來優化患者的術後恢復，包括使用多模式鎮痛（multimodal analgesia）策略，這意味著結合不同的止痛技術和藥物，以減少單一藥物的用量及其副作用。
+
+在某些情況下，醫生可能會考慮在手術前使用特定的止痛藥，但這需要個別評估，並且應該由外科醫生或麻醉師根據患者的情況來決定。例如，對於有慢性疼痛病史的患者，可能需要在手術前進行更詳細的疼痛管理計劃。
+
+如果您具體指的是某種止痛藥，或者有其他相關的問題，請提供更多細節，以便我能給出更精確的答案。同時，所有決策都應遵循 ERAS 指南和當地醫療團隊的指導原則。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,303.0,3.8017451763153076,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf"
+84,手術中的麻醉會怎麼進行？,"麻醉通常結合全身麻醉和局部麻醉技術（如硬膜外或鞘內麻醉），以確
+保您無痛並減少術後不適，具體方案依醫院設備而定。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
+spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
+recommendations. The spine journal, 2021, 21.5: 729-752.",麻醉,"根據 ERAS 規範，麻醉管理是 ERAS 程序的重要部分之一。雖然具體的麻醉方法可能會根據手術類型和患者個體情況有所不同，但一般來說，ERAS 強調以下幾個方面：
+
+1. **快速順應性麻醉（Rapid Sequence Induction, RSI）**：對於需要緊急插管的情況，使用快速順應性麻醉可以減少氣道反應和誤吸風險。
+ 
+2. **區域麻醉技術**：如椎管內麻醉或周邊神經阻滯，這些技術可以減少全身麻醉的需求，從而降低全身應激反應，促進恢復。
+
+3. **多模式鎮痛**：結合不同的鎮痛方法，如非甾體抗炎藥（NSAIDs）、阿片類藥物和其他輔助鎮痛技術，以減少單一鎮痛藥物的用量，降低副作用。
+
+4. **避免不必要的鎮靜劑**：在可能的情況下，減少使用鎮靜劑，以加快患者的清醒和恢復。
+
+5. **術後早期恢復意識**：在手術結束後，盡快恢復患者的意識，以便他們能夠更快地開始進食和活動。
+
+這些措施旨在減少手術期間的全身應激反應，並促進術後的快速恢復。具體的麻醉方案應該由麻醉醫生根據患者的具體情況制定。如果您需要更詳細的信息，請參考 ERAS 的麻醉指南。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,488.0,5.858323335647583,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, fsurg-07-573398.pdf"
+85,手術中會不會因為體溫太低而有風險？,"醫生會在手術前和手術中用加溫設備保持您的正常體溫，這能降低術
+後併發症風險。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
+spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
+recommendations. The spine journal, 2021, 21.5: 729-752.",麻醉,"根據 ERAS 的指導原則，在手術過程中維持患者的正常體溫是非常重要的。低體溫（低溫症）可能會導致凝血功能障礙、增加感染風險以及延長恢復時間等併發症。
+
+為了避免這些風險，ERAS 指南建議採取以下措施來維持患者的體溫：
+
+1. 使用加溫毯或其他加溫設備。
+2. 對輸液和血液進行加溫。
+3. 在麻醉期間使用加熱的空氣通氣。
+
+這些措施有助於減少低體溫的情況發生，從而改善患者的手術後恢復情況。如果您需要更詳細的信息，請參考 ERAS 指南中的相關部分。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,227.0,2.9465816020965576,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+86,手術後我會不會很痛？局部麻醉有幫助嗎？,"局部麻醉（如傷口滲透或硬膜外麻醉）能有效減輕術後疼痛，讓您更
+舒適。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
+spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
+recommendations. The spine journal, 2021, 21.5: 729-752.",麻醉,"根據 ERAS 的建議，手術後疼痛管理是非常重要的部分。雖然每個患者的疼痛感受不同，但通常會使用多模式鎮痛（multimodal analgesia）來有效控制疼痛，這可能包括止痛藥物如非類固醇抗炎藥（NSAIDs）、 opioids 或其他藥物，以及非藥物方法如局部麻醉技術。
+
+對於肝臟手術，局部麻醉技術如腹橫肌平面阻斷（TAP block）可以提供額外的疼痛緩解，特別是在術後初期。這種技術可以在手術過程中進行，以減少術後急性期的疼痛。
+
+如果您對具體的手術後疼痛管理有更多疑問，或者需要更詳細的建議，請隨時與您的醫療團隊討論。他們可以根據您的具體情況提供個性化的建議。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,288.0,3.370487689971924,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+87,"聽說區域阻斷麻醉 (Regional Block Anesthesia) 可以減緩疼痛，這適合
+我嗎？","區域阻斷麻醉 (Regional Block Anesthesia) 可能有助於疼痛管理，但效
+果因人而異，醫生會根據您的情況決定是否使用。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
+spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
+recommendations. The spine journal, 2021, 21.5: 729-752.",麻醉,"根據 ERAS 的建議，區域阻斷麻醉（如脊髓麻醉或硬膜外麻醉）確實可以幫助改善術後恢復，包括減少疼痛、保護器官功能、促進移動能力以及降低術後噁心和嘔吐的發生率。此外，區域阻斷麻醉通常比全身麻醉更安全，這可能是為什麼與麻醉相關的孕產婦死亡率下降的原因之一。
+
+不過，是否適合您需要考慮多方面因素，例如您的健康狀況、手術類型及個人偏好等。建議您與麻醉科醫生討論，他們會根據您的具體情況提供專業建議。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,197.0,2.6098673343658447,"Guidelines for intraoperative care in cesarean delivery Enhanced Recovery After Surgery Society Recommendations (Part 2).pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf"
+88,術後我可以繼續吃術前用的止痛藥嗎？,"可以，術後通常繼續使用乙醯氨酚或非甾體抗炎藥，這些藥物能減少
+對強效止痛藥的需求，降低副作用。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
+spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
+recommendations. The spine journal, 2021, 21.5: 729-752.",麻醉,根據 ERAS 的指導原則，術後是否可以繼續服用術前使用的止痛藥需要由您的醫生評估決定。通常情況下，術後會有新的止痛方案，以確保安全和有效性。請與您的醫療團隊討論，他們會根據您的具體情況提供最合適的建議。如果您有任何疑慮，務必與他們溝通。,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,119.0,1.6317579746246338,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf"
+89,我很擔心術後會噁心想吐，有什麼預防方法？,"醫生會在手術前評估您的噁心風險，並可能在手術中使用抗嘔吐藥物
+來預防術後噁心感。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
+spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
+recommendations. The spine journal, 2021, 21.5: 729-752.",麻醉,"根據 ERAS 的建議，預防術後噁心和呕吐（PONV）是非常重要的。以下是一些常見的預防措施：
+
+1. **使用止吐藥物**：在手術前或手術中使用止吐藥物，如昂丹司瓊（Ondansetron）、多拉司琼（Dolasetron）等，可以有效減少 PONV 的發生率。
+ 
+2. **避免使用可能誘發噁心的麻醉藥物**：選擇對胃腸道影響較小的麻醉藥物，以降低 PONV 的風險。
+
+3. **術後早期進食**：鼓勵患者在術後盡早恢復飲食，這有助於減少 PONV 的發生。
+
+4. **非藥物干預**：包括針灸、指壓治療（如內關穴）等，這些方法也被證明對某些患者有效。
+
+如果您有其他疑問或需要更詳細的信息，請隨時告訴我！這些措施都是基於 ERAS 指南中的建議，旨在提高患者的術後舒適度和恢復速度。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,347.0,4.597966432571411,"fsurg-07-573398.pdf, fsurg-07-573398.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Guidelines for Perioperative Care in Bariatric Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Guidelines for Perioperative Care in Cytoreductive Surgery (CRS) with or without hyperthermic IntraPEritoneal chemotherapy (HIPEC) Enhanced recovery after surgery (ERAS®) Society Recommendations — Part.pdf"
+90,什麼時候可以開始術後復健？,"通常在手術後第一天（術後第 0 或 1 天），如果您的狀況穩定，復健
+科可能會開始協助您進行簡單的活動，如床上移動或坐起來。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS（增強型手術後恢復）計劃，術後復健的時間點應根據患者的情況和手術類型進行個別化調整。通常，在確保患者生命體徵穩定且無明顯併發症的情況下，可以開始輕度的活動和移動。
+
+對於剖宮產術後的患者，根據《剖宮產術後護理的 ERAS 規範》（Guidelines for Postoperative Care in Cesarean Delivery），建議在患者情況允許的情況下，儘早開始口服進食和輕微的活動，以促進腸道功能恢復和整體康復。
+
+對於其他手術類型，如開腹主動脈血管手術或緊急剖腹手術，則需要根據具體的 ERAS 指南進行評估。例如，《開腹主動脈血管手術的 ERAS 共識聲明》建議在患者情況穩定後，開始早期活動和移動，以減少並發症和縮短住院時間。
+
+總結來說，術後復健的開始時間應該由醫療團隊根據患者的具體情況來決定，並遵循 ERAS 的原則，以促進快速康復。如果有更多具體的手術類型或患者情況，請提供更多細節以便獲得更精確的建議。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,425.0,5.378668308258057,"Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care in Bariatric Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations A 2021 Update.pdf, Guidelines for postoperative care in cesarean delivery Enhanced Recovery After Surgery (ERAS) Society recommendations (part 3).pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS) Society Recommendations Part 1—Preoperative Diagnosis, Rapid Assessment and Optimization.pdf"
+91,術後我需要做哪些復健運動？,"復健運動可能包括深呼吸練習、床上翻身、坐到站立的練習，以及逐
+步增加步行距離。這些活動由復健科根據您的狀況量身定制，遵循 ERAS
+的早期活動原則。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS 的建議，在肝臟手術後，應從手術當天開始進行早期活動（離開病床），直到出院為止。雖然目前對於肝臟手術後物理治療的類型、頻率和強度尚未達成共識，但建議在監督下進行運動，以改善功能能力。
+
+您可以從輕微的活動開始，例如坐在床邊、站立和短時間的步行。這些活動有助於促進腸道蠕動、減少血栓形成風險並加快恢復過程。請遵循您的醫療團隊的指導，他們會根據您的具體情況提供個別化的建議。如果有任何不適，請立即停止並通知您的醫生。",,0.25,7.458340731200295e-155,5.6307666226860216e-204,1.2882297539194154e-231,0.24999999500000009,0.0,0.24999999500000009,0.125,213.0,2.8638980388641357,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care in Bariatric Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations A 2021 Update.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+92,復健時如何避免傷口疼痛或受傷？,遵循復健科的指導，進行溫和的運動，並避免突然用力或過度伸展。,"Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS 的原則，雖然文獻中沒有直接提到「復健時如何避免傷口疼痛或受傷」，但可以從相關的疼痛管理和傷口護理建議中提取一些有用的策略：
+
+1. **疼痛管理**：確保患者在手術後得到適當的鎮痛治療，以減少術後的疼痛。這可能包括使用多模式鎮痛（如非類固醇抗炎藥、局部麻醉技術和 opioids）來控制疼痛，同時減少 opioids 的用量。
+
+2. **早期活動**：鼓勵患者在術後早期進行輕微的活動，如床上移動和簡單的伸展運動，這樣有助於促進血液循環，減少血栓形成風險，並改善整體恢復。
+
+3. **傷口護理**：確保患者了解正確的傷口護理方法，包括保持傷口清潔、乾燥，避免感染。如果需要更詳細的指導，可以參考 ERAS 指南中的具體傷口護理建議。
+
+4. **物理治療**：在醫生的指導下，患者可以參加物理治療，學習如何安全地進行復健運動，避免對傷口造成不必要的壓力。
+
+5. **個別化方案**：每位患者的恢復情況不同，因此應根據患者的具體情況制定個別化的復健計劃，並密切監控其進展。
+
+如果您需要更詳細的信息，建議參考 ERAS 指南中的具體章節，或者諮詢專業的物理治療師或外科醫生。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,497.0,6.246488332748413,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+93,如果我感到虛弱，該如何進行復健？,"復健科會根據您的體力設計輕量活動，例如從簡單的床上運動開始，
+逐步增加強度。ERAS 指南特別提到，對於高風險或虛弱患者，應提供個
+別化的復健計劃。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS 覺康復計劃，如果您感到虛弱，可以考慮以下幾點來幫助您的復健：
+
+1. **營養支持**：確保您攝取足夠的營養，特別是蛋白質和維生素，以促進恢復。如果有必要，可以進行營養評估和補充。
+
+2. **運動和物理治療**：在醫生指導下進行適當的運動和物理治療，這有助於增強肌肉力量和改善平衡。
+
+3. **休息與睡眠**：確保獲得充足的休息和良好的睡眠質量，這對於身體的恢復非常重要。
+
+4. **心理支持**：如果您有情緒低落或抑鬱的情況，尋求心理支持或諮詢專業人士可能會對您的整體健康有益。
+
+5. **定期追蹤**：與您的醫療團隊保持密切聯繫，定期回診，以便他們可以監控您的進展並調整您的治療方案。
+
+這些措施應在醫生的指導下進行，以確保安全和有效性。如果有任何疑慮，請隨時與您的醫療團隊討論。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,354.0,4.377424955368042,"fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf"
+94,復健能幫助我避免哪些術後問題？,早期復健有助於預防肺部感染、血栓形成和肌肉萎縮等併發症。,"Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS（手術加速康復）指南，術後早期活動和復健可以幫助您避免或減少以下幾種常見的術後問題：
+
+1. **肺部併發症**：如肺炎或呼吸困難。術後早期活動有助於促進肺部功能恢復，減少肺部感染的風險。
+ 
+2. **深靜脈血栓（DVT）**：長期臥床會增加深靜脈血栓的風險，而早期活動可以幫助改善血液循環，降低血栓形成的可能性。
+
+3. **肌肉萎縮和關節僵硬**：術後早期活動和復健可以幫助維持肌肉力量和關節靈活性，減少術後肌肉萎縮和關節僵硬的情況。
+
+4. **腸道功能障礙**：對於腹部手術患者，術後早期活動可以幫助促進腸道蠕動，減少腸梗阻或腸麻痹等腸道功能障礙的發生。
+
+5. **長期住院時間**：通過早期活動和復健，您可以更快地恢復日常活動能力，從而縮短住院時間，加快出院速度。
+
+這些措施不僅有助於您的身體恢復，還可以提高您的整體康復質量。如果您有任何疑慮或需要具體的復健指導，請隨時與您的醫療團隊討論。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,410.0,5.463631868362427,"Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care in Bariatric Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations A 2021 Update.pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf"
+95,我需要多久才能恢復正常活動？,"恢復時間因人而異，視您的健康狀況和手術複雜性而定。復健科會設
+定逐步目標，幫助您在數週內逐步恢復日常活動。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS（增強手術後康復）計劃，恢復時間因人而異，主要取決於手術類型、個人健康狀況以及遵循的康復指導。對於脊柱手術患者來說，使用移動健康應用程序（如 Bai et al. 研究中的應用程序）可以幫助您查看個性化的康復計劃，並通過每日報告和提示來鼓勵持續使用應用程序。這樣可以更好地監控您的進展並調整您的活動水平。
+
+通常情況下，在術後初期應避免劇烈運動和提舉重物，隨著時間推移逐步增加活動量。具體恢復時間表應該由您的醫生根據您的進展來制定。如果您有任何疑問或不適，請及時與您的醫療團隊聯繫。他們會根據您的情況提供最合適的建議。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,266.0,3.546393394470215,"fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf"
+96,我需要去復健中心嗎，還是可以在家復健？,"初期復健通常在醫院進行，由復健科指導。出院後，您可能會收到居
+家復健計劃，或在門診繼續復健。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS 覺得康復計劃，患者可以選擇在家中進行復健，也可以前往復健中心。具體選擇取決於您的個人情況和醫生的建議。
+
+文獻指出，使用移動健康（mHealth）應用程序在家進行復健的患者，顯示出更高的滿意度、更好的藥物依從性、更佳的就診率，並且住院和急診訪問次數較低（文檔 3）。此外，一項研究發現，在沒有使用 mHealth 應用程序的情況下，有多達 55% 的患者可能會返回醫院進行傷口評估（文檔 3）。
+
+如果您有條件使用 mHealth 應用程序，這可能是一個很好的選擇，因為它允許您查看由醫師制定的個性化復健計劃，並提供每日報告和提示以鼓勵持續使用（文檔 2）。此外，您還可以通過應用程序與醫生溝通並調整您的復健計劃。
+
+然而，如果您需要更多的指導和支持，或者您的家庭環境不適合復健活動，那麼前往復健中心可能是更好的選擇。最終的決定應該根據您的醫生的建議以及您的個人偏好來做出。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,395.0,4.95013427734375,"A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf"
+97,復健科會如何評估我的進展？,"復健科會定期評估您的移動能力、力量和功能，例如您是否能獨立行
+走或完成日常活動。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS 規範，復健科會通過以下方式評估您的進展：
+
+1. **定期評估**：醫生和治療師會定期評估您的身體狀況，包括肌肉力量、活動能力以及任何可能影響恢復的因素（如疼痛程度）。
+ 
+2. **個性化康復計劃**：根據您的具體情況制定個性化的康復計劃，並根據您的進展進行調整。例如，在文獻中提到的行動研究中，患者可以通過移動健康應用程式查看由醫師制定的個人化康復計劃，並提供每日報告和提示以鼓勵持續使用該應用程式。
+
+3. **與醫師溝通**：您也可以通過應用程式與醫師進行交流，並根據需要對康復計劃進行修改。
+
+4. **監控併發症風險**：特別是對於那些代謝和炎症狀態改變的患者（如老年人、糖尿病患者或癌症患者），他們可能會經歷更大的壓力反應和分解代謝狀態，從而導致術後併發症和功能恢復延遲。因此，醫生會密切關注這些風險因素，並採取措施減少這些風險。
+
+如果您有任何疑問或需要進一步的信息，請隨時與您的醫療團隊聯繫。他們將能夠提供更詳細的指導和支持。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,430.0,5.28080415725708,"fsurg-07-573398.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf, fsurg-07-573398.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf"
+98,術後我可以自己運動嗎？,"在復健科或醫療團隊指導前，不建議自行進行劇烈運動。過早或不當
+的運動可能影響傷口癒合。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS 規範，在術後進行適當的活動是非常重要的，這有助於促進恢復。通常，醫生會根據您的手術類型和個人健康狀況，提供具體的運動指導。
+
+對於大多數患者來說，輕微的活動如短時間的步行是有益的，因為它可以幫助預防血栓形成、改善腸道功能並減少肺部並發症。然而，過度或不當的活動可能會延遲傷口癒合或導致其他併發症。
+
+建議您遵循以下原則：
+1. **聽從醫囑**：遵循您的外科醫生或物理治療師的指示。
+2. **逐步增加活動量**：從輕微的活動開始，然後根據您的舒適度和恢復情況逐漸增加活動量。
+3. **注意身體信號**：如果您感到疼痛、疲勞或其他不適，應立即停止活動並與您的醫療團隊聯繫。
+
+此外，使用移動健康應用（mHealth）可以幫助您追蹤和記錄您的活動進展，並與您的醫生保持溝通。這樣可以確保您的活動安全且有效。
+
+如果您有具體的手術類型或健康狀況，請提供更多詳細信息，以便獲得更個性化的建議。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,402.0,5.128988027572632,"fsurg-07-573398.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care in Cytoreductive Surgery (CRS) with or without hyperthermic IntraPEritoneal chemotherapy (HIPEC) Enhanced recovery after surgery (ERAS®) Society Recommendations — Part.pdf"
+99,復健會幫助我更快出院嗎？,"是的，積極參與復健能加速您的恢復，幫助您更快達到出院標準，例
+如獨立行走或自理能力。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS（手術加速康復）的原則，早期活動和功能訓練可以幫助患者更快地恢復，並促進更早的出院。這些措施包括鼓勵患者在術後盡快下床活動，進行深呼吸和咳嗽練習，以及進行適當的功能性訓練。這些做法有助於減少並發症的風險，如肺部感染和血栓形成，從而加快患者的康復過程。
+
+如果您有更多具體的問題或需要進一步的信息，請隨時告訴我！",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,162.0,2.2047579288482666,"Guidelines for postoperative care in cesarean delivery Enhanced Recovery After Surgery (ERAS) Society recommendations (part 3).pdf, Guidelines for postoperative care in cesarean delivery Enhanced Recovery After Surgery (ERAS) Society recommendations (part 3).pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+100,復健過程中我應該注意什麼？,"注意任何異常症狀，如傷口疼痛加劇、呼吸困難或腫脹，並立即告知
+醫療團隊。遵循復健科的指導，避免過度用力。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS 規範，在術後的復健過程中，您可以採取以下措施來促進恢復：
+
+1. **遵循個人化復健計劃**：使用移動健康（mHealth）應用程序，如 Bai 等人的研究中提到的那樣，這些應用程序可以讓您查看由醫生制定的個人化復健計劃，並提供每日報告和提示，以鼓勵持續使用應用程序。
+
+2. **與醫生保持溝通**：通過應用程序與您的醫生進行交流，這樣您可以隨時更新他們您的進展，並在需要時獲得指導。
+
+3. **定期評估營養狀況**：確保您的營養需求得到滿足，避免營養不良，這對於術後恢復非常重要。
+
+4. **監控貧血情況**：如果您有貧血的情況，應及時尋求治療，因為貧血會增加術後併發症的風險。
+
+5. **戒煙戒酒**：如果您有吸煙或酗酒的習慣，應在術前停止，以減少對健康的影響。
+
+6. **管理心理社會因素**：關注您的心理健康，必要時尋求專業幫助，以應對可能的心理壓力。
+
+7. **預防谵妄風險**：了解並降低谵妄的風險，這對於術後恢復也非常重要。
+
+請記住，每位患者的情況都是獨特的，因此在實施任何復健計劃之前，最好先與您的醫生討論，以確保計劃適合您的具體情況。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,491.0,6.042498350143433,"Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf, Guidelines for Antenatal and Preoperative care in Cesarean Delivery Enhanced Recovery After Surgery Society Recommendations (Part 1).pdf"
+101,如果我感到虛弱或疲倦，該怎麼辦？,"告訴復健科或醫療團隊您的感受。他們會調整復健計劃，例如縮短活
+動時間或選擇更輕鬆的運動。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據ERAS（增強型恢復術後計劃）的原則，在術後恢復期間感到虛弱或疲倦是非常常見的情況。以下是一些建議：
+
+1. **休息**：確保獲得足夠的休息，避免過度活動。
+2. **飲食**：保持均衡飲食，攝入足夠的營養和水分。
+3. **活動**：在醫生指導下進行輕微的活動，有助於促進血液循環和恢復。
+4. **溝通**：如果您持續感到虛弱或疲倦，請及時與您的醫療團隊聯繫，他們可以提供進一步的指導和支持。
+
+此外，如果您使用了mHealth應用程序，您可以利用這些工具來追蹤您的健康數據，並與您的醫生保持通信，以確保您的恢復過程順利進行。如果有任何疑慮，請不要猶豫與您的醫療團隊討論。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,291.0,3.7198848724365234,"fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf"
+102,復健時需要特別注意飲食嗎？,"是的，均衡飲食有助於恢復。確保攝取足夠蛋白質和水分，支持肌肉
+修復和傷口癒合。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS 規範，在患者術後的恢復過程中，確實需要特別注意飲食。以下是一些關鍵點：
+
+1. **營養不足的篩查與補充**：確保患者在手術前和術後得到足夠的營養支持，避免營養不良。這包括評估患者的營養狀況，並在必要時提供營養補充（如口服營養補充品）。
+
+2. **貧血篩查**：檢查是否有貧血的情況，並在需要時進行治療，以減少術後併發症的風險。
+
+3. **戒煙戒酒**：鼓勵患者在術前停止使用煙草和酒精，這些習慣會影響身體的愈合能力。
+
+4. **心理社會因素**：考慮患者的心理健康和支持系統，因為壓力和焦慮可能影響恢復過程。
+
+5. **個別化飲食指導**：根據患者的具體情況，提供個別化的飲食建議，例如高蛋白、易消化的食物，幫助促進傷口癒合和整體恢復。
+
+這些措施有助於改善患者的術後恢復，減少併發症，並加快康復速度。如果您有更詳細的需求或特定的手術類型，可以提供更多資訊，以便獲得更具針對性的建議。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,405.0,5.343761444091797,"Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, British Journal of Surgery - 2014 - Mortensen - Consensus guidelines for enhanced recovery after gastrectomy.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf"
+103,我應該如何保護手術傷口？,"避免直接壓迫傷口，保持傷口清潔乾燥，並遵循醫療團隊的傷口護理
+指導，復健時選擇不會拉扯傷口的運動。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS 規範，保護手術傷口主要涉及以下幾個方面：
+
+1. **清潔與護理**：確保手術傷口乾淨且不受感染。遵循醫生的指示進行傷口護理，定期更換敷料，避免接觸水或其他污染物。
+
+2. **避免刺激**：避免使用化學物質或強力清潔劑直接接觸傷口，這些可能會刺激傷口或延緩癒合過程。
+
+3. **保護傷口免受摩擦和壓力**：穿戴合適的衣服，避免衣物對傷口造成摩擦或壓力，這有助於減少傷口疼痛和延遲癒合。
+
+4. **監控傷口狀況**：密切觀察傷口是否有紅腫、分泌物、異味或發熱等感染跡象。如有任何不尋常的情況，應立即聯繫醫生。
+
+5. **使用 mHealth 應用程序**：如文獻所述，使用移動健康應用程序（mHealth）可以幫助患者更好地管理傷口護理，提高患者的滿意度並改善依從性。這些應用程序通常會提供個人化的護理計劃，並提供每日報告和提示以鼓勵持續使用。
+
+如果您有任何疑慮或需要具體指導，請隨時與您的醫療團隊聯繫。他們可以根據您的個體情況提供最適合的建議。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,435.0,5.60313868522644,"fsurg-07-573398.pdf, Guidelines for Perioperative Care for Liver Transplantation Enhanced Recovery After Surgery (ERAS) Recommendations.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care in Cytoreductive Surgery (CRS) with or without hyperthermic IntraPEritoneal chemotherapy (HIPEC) Enhanced recovery after surgery (ERAS®) Society Recommendations — Part.pdf, fsurg-07-573398.pdf"
+104,復健過程中如何預防跌倒？,"使用助行器或醫療團隊的協助進行行走練習，穿防滑鞋，並確保環境
+安全（如移除絆倒物）。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS 的原則，預防患者在復健過程中跌倒是非常重要的。以下是一些關鍵措施：
+
+1. **評估風險**：在手術前評估患者的平衡能力和跌倒風險，特別是年長或有神經系統疾病的患者。
+ 
+2. **環境安全**：確保病房和復健區域地面乾燥、無障礙物，並使用防滑地板。移除任何可能導致絆倒的物品。
+
+3. **輔助設備**：提供合適的輔助設備，如助行器或拐杖，並確保患者熟悉其使用方法。
+
+4. **物理治療**：安排物理治療師指導患者進行平衡訓練和步態練習，以增強肌肉力量和協調性。
+
+5. **藥物管理**：監控和調整可能影響平衡的藥物，如鎮靜劑或抗高血壓藥物。
+
+6. **教育與支持**：教育患者及其家屬有關跌倒的危險因素，並提供心理支持，減少因害怕跌倒而避免活動的情況。
+
+這些措施有助於降低跌倒風險，促進患者的安全和快速康復。如有需要，可以進一步參考 ERAS 指南中的具體建議。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,395.0,4.980116128921509,"Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf"
+105,我可以什麼時候停止復健？,復健應持續進行，直到您恢復日常功能或達到醫療團隊設定的目標。,"Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS 的建議，術後早期活動（出離病床）應從手術當天開始，直到出院為止。目前尚未就肝臟手術中物理治療的類型、頻率和強度達成共識。因此，具體的復健結束時間應由您的醫療團隊根據您的恢復情況來決定。
+
+如果您有任何疑慮或需要調整復健計劃，請與您的醫生或物理治療師討論。他們會根據您的進展提供個別化的指導。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,153.0,2.167227268218994,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, British Journal of Surgery - 2014 - Mortensen - Consensus guidelines for enhanced recovery after gastrectomy.pdf, Guidelines for Perioperative Care in Bariatric Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations A 2021 Update.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+106,復健時應該如何管理疼痛？,"與醫療團隊討論您的疼痛狀況，他們可能會調整止痛藥、建議放鬆技
+巧或設計更低疼痛的運動。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS 覺得手術加速康復計劃，疼痛管理是術後恢復的重要部分。有效的疼痛控制可以減少患者的不適，促進早期活動和恢復。
+
+在 ERAS 指南中，建議使用多模式鎮痛策略，這意味著結合不同的鎮痛方法來達到更好的效果，同時減少單一藥物的副作用。常見的多模式鎮痛策略包括：
+
+1. **非甾體抗炎藥 (NSAIDs)**：如布洛芬或塞來昔布，這些藥物可以減輕炎症和疼痛。
+ 
+2. **阿片類藥物**：如嗎啡或氫可酮，用於控制較嚴重的疼痛。但應謹慎使用以避免成癮和副作用。
+
+3. **局部麻醉技術**：如周邊神經阻滯或硬膜外麻醉，這些技術可以直接作用於疼痛區域，減少全身性鎮痛的需求。
+
+4. **輔助藥物**：如加巴噴丁或普瑞巴林，這些藥物可以幫助控制神經性疼痛。
+
+此外，物理治療和心理支持也是重要的一部分，能夠幫助患者更快地恢復。請與您的醫療團隊討論，制定適合您情況的疼痛管理計劃。如果您有更多具體的問題，請隨時提出！",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,411.0,5.373540878295898,"Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for postoperative care in cesarean delivery Enhanced Recovery After Surgery (ERAS) Society recommendations (part 3).pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf"
+107,我需要每天都做復健嗎？,是的，規律的復健活動（即使是短時間）有助於加快恢復。,"Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS 規範，術後恢復期間的運動和活動是非常重要的，它有助於減少肌肉萎縮、促進血液循環並加速康復。具體是否每天都需要進行復健，取決於手術類型、個人健康狀況以及醫生的建議。
+
+例如，在肺癌手術後，患者通常會被鼓勵儘早開始輕度活動，如深呼吸練習和短暫的步行，以幫助肺部功能恢復。而在脊柱手術後，有研究顯示使用移動健康應用程序（mHealth apps）來制定個性化的復健計劃，並提供每日報告和提示，可以有效提高患者的依從性和恢復效果。
+
+因此，建議您遵循主治醫師的指導，他們會根據您的具體情況制定合適的復健計劃。如果您有任何疑問或不確定如何進行復健，請隨時與您的醫療團隊溝通。這樣可以確保您的復健過程安全且有效。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,308.0,4.054347038269043,"Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Guidelines for enhanced recovery after lung surgery recommendations of the Enhanced Recovery After Surgery (ERAS®) Society and the European Society of Thoracic Surgeons (ESTS).pdf, fsurg-07-573398.pdf, Guidelines for postoperative care in cesarean delivery Enhanced Recovery After Surgery (ERAS) Society recommendations (part 3).pdf, Guidelines for enhanced recovery after lung surgery recommendations of the Enhanced Recovery After Surgery (ERAS®) Society and the European Society of Thoracic Surgeons (ESTS).pdf"
+108,復健時需要呼吸訓練嗎？,"是的，ERAS 建議術後進行呼吸理療，包括深呼吸和痰液清除訓練，
+增強呼吸肌力，預防肺部併發症。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS 規範，雖然文獻中沒有直接提到「復健時需要呼吸訓練」，但在術後恢復期間，呼吸訓練是非常重要的，特別是在腹部手術或胸部手術後，以預防肺部併發症如肺炎和肺不張（atelectasis）。這有助於改善患者的呼吸功能，減少肺部併發症的風險。
+
+如果您指的是其他類型的手術，例如四肢血管繞道手術，則可能不需要專門的呼吸訓練，但還是建議患者進行適當的活動和移動，以促進血液循環和避免深 vein 血栓形成（DVT）。
+
+您可以參考 ERAS 的相關指引，確保每位患者都得到個別化的照護，並根據其手術類型和個人情況提供最合適的指導。如有疑問，建議諮詢專業的物理治療師或呼吸治療師。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,290.0,3.71708345413208,"Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for postoperative care in cesarean delivery Enhanced Recovery After Surgery (ERAS) Society recommendations (part 3).pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf"
+109,如果我超過 65 歲，復健有什麼特別注意事項？,"老年患者應接受術後譫妄篩查，復健時注重認知刺激和規律作息，運
+動計劃應更溫和，減少併發症風險。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS 規範，對於年長患者（如超過 65 歲）的復健，有幾點需要注意：
+
+1. **評估體力與認知功能**：文檔提到需要評估患者的衰弱程度（frailty）和谵妄風險（delirium risk），這對於年長患者尤其重要（文檔 1, 2c 和 2d）。確保他們能夠安全地進行復健活動，並避免可能加重體力或認知負擔的活動。
+
+2. **個別化復健計劃**：文檔 2 提到，使用 mHealth 應用程序可以為每位患者提供個人化的復健計劃，並根據需要調整這些計劃。這樣可以更好地滿足不同年齡和健康狀況的需求。
+
+3. **溝通和支持**：文檔 2 強調，患者應該能夠通過應用程序與醫生交流，並獲得即時支持。這對於年長患者來說非常重要，因為他們可能會有更多的疑問或需要更多的指導。
+
+4. **監控和警報系統**：文檔 3 說明了一種應用程序，它會收集術後信息並在必要時觸發警報，讓 ERAS 團隊介入。這樣的系統可以幫助及早發現問題，並提供必要的幫助。
+
+5. **教育和參與**：確保年長患者了解復健的重要性，並鼓勵他們積極參與。文檔 3 中提到，大多數使用者對此類應用程序感到滿意，這表明良好的教育和參與可以提高患者的滿意度和依從性。
+
+總結來說，針對年長患者的復健應當更加注重個別化、監控和支持，以確保他們的安全和效果。如果有任何疑慮，建議與醫療團隊討論，以制定最適合的復健方案。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,595.0,7.407227993011475,"Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf"
+110,如果我有尿液導管，復健時需要注意什麼？,確保導管固定，避免拉扯，醫療團隊會每天評估是否可移除。,"Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"根據 ERAS 視角，使用尿液導管的患者在進行復健時應注意以下幾點：
+
+1. **保持個人衛生**：確保尿道周圍區域清潔，以減少感染風險。
+2. **避免拉扯**：在移動或進行物理治療時，小心不要拉扯尿液導管，以免造成不適或損傷。
+3. **定期檢查**：密切監控尿液的顏色和量，如有異常（如血尿或尿量顯著減少），應立即通知醫療團隊。
+4. **活動限制**：在某些情況下，可能需要限制某些活動以避免損傷導管或增加感染風險。遵循醫生的指導，調整活動強度和類型。
+5. **溝通與支持**：與醫療團隊保持良好溝通，報告任何不適或疑慮，並尋求必要的支持和指導。
+
+這些措施有助於確保安全有效的復健過程，同時降低併發症的風險。如果有具體的復健需求或疑問，建議諮詢您的醫療團隊以獲得個別化的指導。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,344.0,4.5405237674713135,"fsurg-07-573398.pdf, fsurg-07-573398.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf"
+111,術前認知評估如何幫助復健？,"對 65 歲以上患者進行簡單的認知功能評估（如 Mini-Cog），有助於
+識別術後譫妄和認知功能障礙的風險患者，從而制定針對性的復健計劃。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
+laparotomy Enhanced Recovery After Surgery (ERAS) Society
+recommendations: part 1—preoperative: diagnosis, rapid assessment and
+optimization. World journal of surgery, 2021, 45.5: 1272-1290.
+2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
+emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
+recommendations part 2—emergency laparotomy: intra-and postoperative care.
+World journal of surgery, 2023, 47.8: 1850-1880.
+
+3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
+consensus guidelines for emergency laparotomy part 3: organizational aspects
+and general considerations for management of the emergency laparotomy
+patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健,"術前認知評估是 ERAS 計劃的一部分，旨在識別患者可能存在的認知功能障礙，如失智症或谵妄風險。這有助於制定個化的預後和恢復計劃，並確保患者在接受手術前處於最佳狀態。
+
+根據文檔 2 中提到的內容，術前認知評估（如第 2d 項所述）可以幫助識別谵妄風險，進而採取相應的預防措施，減少術後谵妄的發生率，從而促進患者的快速康復。此外，早期識別心理問題（如焦慮或抑鬱）也有助於實施心理干預，改善患者的手術結果和整體健康狀況。
+
+如果您需要更詳細的信息，請告訴我，我可以進一步解釋。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,237.0,3.3428549766540527,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for postoperative care in cesarean delivery Enhanced Recovery After Surgery (ERAS) Society recommendations (part 3).pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Antenatal and Preoperative care in Cesarean Delivery Enhanced Recovery After Surgery Society Recommendations (Part 1).pdf"
+112,手術後多久可以開始進食？,"通常在手術後不久可以開始飲用清澈液體 (水或碳水化合物飲料)，並
+在一日內進展到輕食，以減少併發症和住院時間。","Reference: 1. NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society
+guidelines for gynecologic oncology: Addressing implementation challenges-
+2023 update. Gynecologic oncology, 2023, 173: 58-67.",復健,"根據 ERAS 覺得恢復計劃的指導原則，在某些情況下，可以在手術後 24 小時內開始進食。這與傳統的做法不同，傳統做法是在患者放屁或排便後才開始給予流質飲食。
+
+一項研究比較了手術後 24 小時內進食與傳統方法的效果，結果顯示兩組之間的併發症發生率、腸梗阻和住院時間（LOS）沒有差異。在這項研究中，早期進食在緊急腹部手術後似乎是安全的，儘管與傳統方法相比，早期進食會導致更多的嘔吐（輕易治療且無患者不適）和較少的饑餓感。
+
+對於其他類型的手術，如肝臟手術或胃切除術，通常建議在患者甦醒並能夠吞咽後，逐步恢復口服營養。具體的恢復時間可能因個體情況而異，因此應根據患者的具體情況和醫生的建議來決定。
+
+在所有情況下，都應該密切監測患者的反應，並根據需要調整進食計劃。如果您有更多具體的問題或需要進一步的指導，請隨時提出。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,359.0,5.042670249938965,"Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf, British Journal of Surgery - 2014 - Mortensen - Consensus guidelines for enhanced recovery after gastrectomy.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care in Bariatric Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf"
+113,手術後如何預防血栓？,"您可能會接受靜脈血栓栓塞（VTE）預防措施，如肝素，並被鼓勵術
+後進行適度活動以預防血栓。","Reference: 1. NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society
+guidelines for gynecologic oncology: Addressing implementation challenges-
+2023 update. Gynecologic oncology, 2023, 173: 58-67.",復健,"根據 ERAS 的建議，手術後預防血栓（深 vein 血栓形成 DVT 和肺栓塞 PE）是非常重要的。以下是一些常見的預防措施：
+
+1. **早期活動**：鼓勵患者在手術後盡快開始活動，如床上移動和下床行走，以促進血液循環。
+ 
+2. **間歇性氣壓治療（IPC）**：使用間歇性氣壓裝置來幫助促進下肢的血液循環，減少靜脈血液淤積。
+
+3. **抗凝治療**：根據患者的具體情況，醫生可能會開處抗凝藥物，如低分子肝素或華法林，來降低血栓風險。
+
+4. **足部運動器**：使用足部運動器來幫助促進小腿肌肉的收縮，從而改善血液流動。
+
+5. **飲食與水化**：確保患者有良好的水化狀態，避免脫水，因為脫水會增加血栓風險。
+
+這些措施應根據患者個體情況由醫療團隊評估並決定最合適的方案。如果您需要更詳細的信息或具體的指導，請參考 ERAS 的相關指南。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,375.0,4.898455858230591,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Optimal Perioperative Care in Major Head and Neck Cancer Surgery With Free Flap Reconstruction A Consensus Review and Recommendations From the Enhanced Recovery After Surgery Society.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+114,我可以做哪些運動來避免血栓？,"在床上進行簡單的腿部運動以及手術後不久的短距離行走，由醫療團
+隊指導，有助於改善血流並預防血栓","Reference: 1. NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society
+guidelines for gynecologic oncology: Addressing implementation challenges-
+2023 update. Gynecologic oncology, 2023, 173: 58-67.",復健,"根據 ERAS（增強手術後恢復）計劃，避免血栓的運動主要包括以下幾項：
+
+1. **腿部運動**：在床上進行簡單的腳踝轉動和膝蓋伸展運動，可以幫助促進下肢血液循環。
+ 
+2. **深呼吸和咳嗽**：這有助於擴張肺部，減少肺部感染的風險，同時也有助於促進全身血液循環。
+
+3. **早期活動**：在醫生允許的情況下，儘早下床活動，如散步，可以有效預防深 vein 血栓形成（DVT）。
+
+此外，根據文獻中提到的 mHealth（移動健康）應用程序的研究，使用這些應用程序來追蹤個人健康數據、提醒患者並與醫生保持溝通，也可以幫助患者更好地遵循醫生的指導，從而降低血栓的風險。
+
+請務必在開始任何新的運動計劃之前，先諮詢您的醫生或物理治療師，以確保這些運動適合您的具體情況。如果您有任何疑慮或症狀，應立即通知您的醫療團隊。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,358.0,4.409494161605835,"fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf"
+115,外陰或陰道手術後何時可以開始進食？,"建議在手術後 24 小時內開始正常飲食，早期進食安全，有助於腸道功
+能恢復並縮短住院時間。","Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
+Recovery After Surgery Society recommendations. American journal of
+obstetrics and gynecology, 2020, 223.4: 475-485.",復健,"根據提供的 ERAS 指南文件，並沒有直接提到外陰或陰道手術後的進食時間表。不過，根據 ERAS 的原則，通常會根據患者的情況和恢復情況來決定進食時間。
+
+一般來說，在確保患者沒有出現任何併發症（如嘔吐、腸梗阻等）的情況下，可以在手術後幾小時內逐步恢復進食。具體來說：
+
+- **清流質飲食**：通常在手術後幾個小時內可以開始，前提是患者沒有出現不適。
+- **進階至半流質飲食**：如果清流質飲食耐受良好，則可以進階到半流質飲食。
+- **正常飲食**：當患者能夠順利接受半流質飲食且無不良反應時，可以恢復正常飲食。
+
+建議在實施這些步驟之前，與患者的外科醫生和護理團隊討論，以確定最適合個別患者的進食時間表。此外，應密切監控患者的症狀，並在出現任何不適時立即調整進食計劃。如果有疑慮，最好由專業的營養師進行評估和指導。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,361.0,4.953064680099487,"British Journal of Surgery - 2014 - Mortensen - Consensus guidelines for enhanced recovery after gastrectomy.pdf, Guidelines for Perioperative Care in Bariatric Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, British Journal of Surgery - 2014 - Mortensen - Consensus guidelines for enhanced recovery after gastrectomy.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf"
+116,什麼是逆行膀胱充填，為什麼可能使用？,"逆行膀胱充填是在手術室或恢復室向膀胱注入液體，以測試陰道手術
+後的排尿功能。","Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
+Recovery After Surgery Society recommendations. American journal of
+obstetrics and gynecology, 2020, 223.4: 475-485.",復健,"逆行膀胱充填（也稱為膀胱鏡檢查下的膀胱充填）是一種在手術前通過尿道插入導管並將液體注入膀胱的程序。這種技術通常用於泌尿外科手術中，特別是在需要進行膀胱手術的情況下。
+
+逆行膀胱充填的主要目的是：
+
+1. **評估膀胱功能**：確定膀胱的容積和壓力，幫助醫生了解膀胱的功能狀態。
+2. **排除梗阻**：檢查是否存在尿路梗阻，如前列腺肥大引起的梗阻。
+3. **準備手術**：確保膀胱在手術開始時是空的，減少手術過程中的風險，例如誤傷膀胱。
+
+在ERAS（加速恢復外科）框架內，逆行膀胱充填可以作為術前準備的一部分，以提高患者的安全性和手術的成功率。然而，具體是否需要進行逆行膀胱充填應根據患者的具體情況和手術需求由醫生決定。如果您有更多關於ERAS或其他相關主題的問題，請隨時提問！",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,341.0,4.471485614776611,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, fsurg-07-573398.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Antenatal and Preoperative care in Cesarean Delivery Enhanced Recovery After Surgery Society Recommendations (Part 1).pdf"
+117,手術後需要陰道填塞嗎？,"陰道填塞非必要，因其不會減少出血或血腫，且可能增加疼痛或感染
+風險，若使用陰道填塞，應在 24 小時內移除，以避免感染風險增加和延長
+尿管使用。","Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
+Recovery After Surgery Society recommendations. American journal of
+obstetrics and gynecology, 2020, 223.4: 475-485.",復健,"根據提供的 ERAS 指南文件，並沒有直接提到手術後需要進行陰道填塞。通常，ERAS 強調的是減少不必要的操作和提高患者的舒適度及恢復速度。
+
+在妇科腫瘤手術後，是否需要陰道填塞應該由主治醫生根據患者具體情況來決定。這可能包括考慮出血控制、感染風險以及其他個體化因素。如果您有更多關於此主題的具體問題，或者需要了解其他 ERAS 相關的建議，請隨時告訴我！",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,178.0,2.280327796936035,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, fsurg-07-573398.pdf, Guidelines for enhanced recovery after lung surgery recommendations of the Enhanced Recovery After Surgery (ERAS®) Society and the European Society of Thoracic Surgeons (ESTS).pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf"
+118,我應該了解剖腹產的哪些風險？,"您將被告知短期風險（如感染、血栓、疼痛）和長期風險（如未來妊
+娠子宮破裂），尤其是當手術缺乏醫學指徵時。","Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
+cesarean delivery: Enhanced Recovery After Surgery Society recommendations
+(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",復健,"剖腹產（即子宮下段剖宮產術）是一種常見的分娩方式，但與任何手術一樣，它也伴隨著一定的風險。根據 ERAS 的指導原則，了解這些風險對於確保母親的安全和促進術後恢復至關重要。以下是一些主要的風險：
+
+1. **出血**：剖腹產可能導致較多的術後出血。
+2. **感染**：包括切口部位的皮膚感染或子宮內膜炎等。
+3. **麻醉相關風險**：如麻醉過敏反應或呼吸抑制。
+4. **血栓形成**：長期臥床休息增加了深靜脈血栓形成的風險。
+5. **器官損傷**：如膀胱或腸道受損。
+6. **再妊娠時的併發症**：未來懷孕時可能需要再次剖腹產，這會增加胎盤植入異位妊娠等風險。
+
+為了減少這些風險，ERAS 強調了術前準備的重要性，比如戒煙、控制體重、改善營養狀況以及進行適當的運動。此外，術後的快速恢復策略，如早期活動和飲食恢復，也有助於降低這些風險並加快恢復過程。
+
+如果您有更多具體的問題，或者需要更詳細的信息，請隨時告訴我！",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,413.0,5.505262613296509,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Transplantation Enhanced Recovery After Surgery (ERAS) Recommendations.pdf"
+119,肥胖會影響剖腹產恢復？,若您的 BMI 超過 40，感染或傷口問題的風險較高。,"Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
+cesarean delivery: Enhanced Recovery After Surgery Society recommendations
+(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",復健,"根據 ERAS（增強手術後康復）的原則，肥胖確實可能對剖腹產術後的恢復產生影響。肥胖患者通常面臨更高的並發症風險，如感染、血栓形成和延遲癒合等。此外，肥胖還可能導致麻醉和手術技術上的挑戰，例如呼吸功能受限和創口張力增加。
+
+在 ERAS 計劃中，針對肥胖患者的建議包括：
+
+1. **術前評估**：進行全面的健康評估，包括營養狀況、心肺功能和代謝狀態。
+2. **營養支持**：確保患者在術前達到最佳的營養狀態，以促進術後恢復。
+3. **麻醉管理**：選擇合適的麻醉方法，以減少並發症的風險。
+4. **術後管理**：密切監控並提供個性化的護理，幫助患者更快地恢復。
+
+這些措施有助於改善肥胖患者的術後結果，並促進更快速的康復。如果您需要更多具體的指導，請參考 ERAS 的相關指南。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,343.0,4.42911958694458,"fsurg-07-573398.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf"
+120,為什麼術前管理高血壓很重要？,"慢性高血壓增加子癲前症 (Preeclampsia) 和早產風險，孕期控制高血
+壓可改善結果並減少剖腹產併發症。","Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
+cesarean delivery: Enhanced Recovery After Surgery Society recommendations
+(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",復健,"術前管理高血壓對於手術患者來說非常重要，因為未控制的高血壓可能會增加手術期間和術後併發症的風險。根據 ERAS 指南（文檔 1 和文檔 2），以下是一些原因：
+
+1. **心血管風險**：高血壓會增加心臟負擔，可能導致心肌梗死或心律失常等心血管事件。
+ 
+2. **腦血管風險**：高血壓會增加中風的風險，特別是在麻醉和手術過程中。
+
+3. **腎功能保護**：高血壓會損害腎功能，而腎功能受損會影響手術後的恢復。ERAS 指南強調了腎保護的重要性（文檔 2 中的 11c 腎保護部分）。
+
+4. **減少出血風險**：高血壓會增加術中和術後出血的可能性，這會延長手術時間並增加輸血需求。
+
+5. **改善術後恢復**：良好的血壓控制可以幫助患者更快地從手術中恢復，減少住院時間並降低再入院率。
+
+因此，在術前對高血壓進行有效的管理和控制，是 ERAS 策略的重要組成部分，有助於提高患者的整體預後和安全性。建議在術前根據 ERAS 指南進行全面的評估和管理，以確保最佳的術後結果。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,441.0,5.963968515396118,"Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for postoperative care in cesarean delivery Enhanced Recovery After Surgery (ERAS) Society recommendations (part 3).pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+121,糖尿病管理會影響我的恢復？,"控制糖尿病（原有或妊娠期）可減少子癇前症、巨嬰症和剖腹產風
+險，通過生活方式和藥物管理改善恢復。","Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
+cesarean delivery: Enhanced Recovery After Surgery Society recommendations
+(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",復健,"糖尿病確實可能影響手術後的恢復過程。良好的血糖控制對於減少感染風險、促進傷口癒合和避免其他併發症非常重要。根據 ERAS（增強型手術後快速康復）原則，術前優化患者的整體健康狀況，包括控制糖尿病，可以改善術後結果。
+
+如果您有糖尿病，建議您與您的醫生討論如何在術前、術中和術後更好地管理您的病情。這可能包括調整飲食、運動和藥物治療，以確保血糖水平保持在目標範圍內。此外，使用移動健康技術（如智能手機應用程序）來監控血糖水平和追蹤個人健康數據，也可以幫助您更好地管理糖尿病，從而促進更快的康復。
+
+請隨時與您的醫療團隊合作，制定個性化的糖尿病管理和恢復計劃。這樣可以提高您的術後恢復質量和滿意度。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,296.0,3.7164509296417236,"fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf"
+122,為什麼剖腹產前要檢查貧血？,"貧血可能會增加母體死亡、胎兒體重過輕、早產和手術併發症風險，
+通過鐵劑 (口服或靜脈注射) 補充可改善貧血。","Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
+cesarean delivery: Enhanced Recovery After Surgery Society recommendations
+(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",復健,"剖腹產前檢查貧血的原因主要基於以下幾點：
+
+1. **避免手術中和手術後的併發症**：貧血會導致血液攜氧能力下降，這可能增加手術期間和手術後的併發症風險，如心臟負擔加重、手術部位的愈合不良等。
+
+2. **改善患者的手術耐受性**：通過治療貧血，可以提高患者的體能狀態，使其更好地耐受手術過程，減少手術中的不適。
+
+3. **促進術後恢復**：良好的術前健康狀況有助於加速術後恢復，減少住院時間，降低術後並發症的發生率。
+
+根據 ERAS（增強術後恢復）原則，術前評估和優化患者狀態是重要的一環，其中包括貧血的篩查與治療。這樣可以確保患者在手術前處於最佳健康狀態，從而提升整體的術後恢復效果。
+
+雖然提供的文檔中沒有直接提到剖腹產前檢查貧血，但這些原則適用於所有外科手術，包括剖腹產。如果您需要更詳細的信息，請參考相關的 ERAS 指南。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,369.0,5.0148961544036865,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+123,剖腹產前是否應該戒菸？,是的，孕早期戒菸可減少胎兒體重過輕、早產和死胎等風險。,"Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
+cesarean delivery: Enhanced Recovery After Surgery Society recommendations
+(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",復健,"根據 ERAS 的剖腹產手術加速康復指南，建議在剖腹產手術前停止吸煙。戒菸可以減少手術風險，促進傷口癒合，並改善整體健康狀況。通常建議在手術前至少 4-6 星期開始戒菸，這樣可以讓身體有足夠的時間從吸煙的負面影響中恢復。
+
+如果您需要更詳細的指導或有其他相關問題，請隨時提出！",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,138.0,2.0775811672210693,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Antenatal and Preoperative care in Cesarean Delivery Enhanced Recovery After Surgery Society Recommendations (Part 1).pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+124,我的飲食會影響手術恢復嗎？,"是的，醫生會檢查您的營養狀況，若有營養不良，會建議飲食調整或
+補充營養品，以減少併發症。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
+spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
+recommendations. The spine journal, 2021, 21.5: 729-752.",復健,"是的，您的飲食確實會影響手術後的恢復。根據 ERAS（手術加速康復）指南，良好的營養支持對於減少併發症和促進恢復非常重要。
+
+在肝臟手術的情況下，大多數患者可以在手術後第一天正常進食。研究表明，口服營養比完全腸外營養（TPN）更有利於術後恢復。此外，腸內營養（如通過鼻胃管或腸造口）通常優先於腸外營養，因為它能更好地維持免疫功能並降低感染性併發症的風險。
+
+在其他手術類型中，如胃切除術或食道切除術，也強調了術前和術後的營養支持。術前的營養評估和指導可以幫助識別那些可能需要特殊營養支持的患者，而這些患者通常包括營養不良或有長期禁食需求的患者。
+
+總之，在手術期間和術後，合理的飲食管理可以幫助您更快地康復。如果您有任何疑慮，建議與您的醫療團隊討論個別情況下的最佳飲食方案。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,337.0,4.832622289657593,"Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, British Journal of Surgery - 2014 - Mortensen - Consensus guidelines for enhanced recovery after gastrectomy.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf, Guidelines for Perioperative Care in Bariatric Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf"
+125,我抽菸，會不會影響手術恢復？,"抽菸會增加術後併發症風險，建議至少在手術前 4 週戒菸，能顯著改
+善恢復效果。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
+spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
+recommendations. The spine journal, 2021, 21.5: 729-752.",復健,"根據 ERAS（手術加速康復）指南，抽菸會對手術恢復產生負面影響。抽菸會導致多種併發症，包括延遲傷口癒合、增加感染風險以及可能加重肺部功能損傷。此外，抽菸還會影響身體的氧氣供應，這對於術後恢復尤其不利。
+
+在準備手術期間，建議您嘗試戒煙，這樣可以改善您的整體健康狀況，並提高術後恢復的效果。如果您需要幫助戒煙，可以與您的醫生討論，他們可能會推薦一些資源或治療方案來幫助您成功戒煙。
+
+引用文獻：Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, 第 2 頁提到，針對即將接受肝臟手術的患者，如果有營養不良、過重、吸煙或心理疾病等情況，應該進行術前預備（prehabilitation）。術前預備應在手術前 4-6 周開始，具體時間取決於手術的緊急性。雖然預備的內容（如體能訓練、飲食干預或減輕焦慮的練習）和持續時間尚未明確，但戒煙是其中一個重要的部分。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,475.0,5.5003790855407715,"fsurg-07-573398.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+126,喝酒對手術恢復有什麼影響？,過量飲酒可能增加感染和血栓風險，建議手術前 4-8 週戒酒，以促進恢復。,"Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
+spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
+recommendations. The spine journal, 2021, 21.5: 729-752.",復健,"根據 ERAS 規範，術前飲酒可能對手術恢復產生負面影響。酒精會影響肝功能，延遲組織修復，並增加出血風險。此外，長期大量飲酒還可能導致營養不良和免疫系統抑制，這些都會影響術後恢復。
+
+建議患者在術前至少 2 周內避免飲酒，以確保最佳的術後恢復效果。如果您需要更詳細的信息或個別患者的指導，建議參考 ERAS 的具體指南或諮詢專業醫療人員。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,169.0,2.302396535873413,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf"
+127,如果我有貧血，會影響恢復嗎？,"貧血可能延長住院時間和增加併發症，醫生會在手術前檢查並改善貧
+血症狀，幫助您更好地恢復。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
+spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
+recommendations. The spine journal, 2021, 21.5: 729-752.",復健,貧血可能会影响手术后的恢复。贫血会导致身体组织缺氧，从而影响伤口愈合和整体康复过程。确保术前纠正贫血可以改善患者的术后恢复情况。建议您与医生讨论您的具体情况，并根据医生的建议进行治疗和管理。在ERAS计划中，营养支持和贫血管理也是重要的一部分，以促进更快更好的恢复。,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,133.0,1.5303809642791748,"fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf"
+128,術後什麼時候可以開始吃東西？,"通常建議術後儘早恢復正常飲食，這能幫助腸道功能恢復，促進康
+復。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
+spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
+recommendations. The spine journal, 2021, 21.5: 729-752.",復健,"根據 ERAS 規範，術後飲食恢復的時間取決於手術類型和患者的情況。通常，在膽道手術（如胰十二指腸切除術）中，患者可以在術後幾小時內開始進食，前提是沒有出現任何不適症狀，如腹瀉或嘔吐。
+
+對於其他手術，例如肝臟手術或減重手術，患者通常在術後 24 小時內開始進食，前提是腸道功能已經恢復，且無需禁食。具體的時間點應由外科醫生根據患者的個體情況來決定。
+
+如果您需要更詳細的信息，請提供具體的手術類型，以便我給出更精確的答案。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,212.0,3.0953516960144043,"Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care in Bariatric Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations A 2021 Update.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf"
+129,手術中怎麼防止感染來幫助恢復？,"醫生會使用抗生素和氯己定或碘酒清潔皮膚，這些措施能降低感染風
+險，讓您恢復更順利。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
+spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
+recommendations. The spine journal, 2021, 21.5: 729-752.",復健,"根據 ERAS 的指導原則，預防手術中的感染對於促進患者術後快速康復非常重要。以下是一些關鍵措施：
+
+1. **手術室環境控制**：確保手術室的無菌環境，遵循標準的消毒和清潔程序。
+ 
+2. **手術團隊的手衛生**：所有參與手術的團隊成員都應嚴格遵守手衛生指南，使用酒精基的手部消毒劑。
+
+3. **抗生素的合理使用**：根據最新的指南，根據患者的具體情況（如感染風險因素）選擇合適的抗生素進行預防性使用。避免不必要的廣譜抗生素使用，以減少抗藥性。
+
+4. **減少手術時間**：縮短手術時間可以降低感染風險，因為手術時間越長，細菌進入體內的機會越大。
+
+5. **無菌技術**：確保手術過程中的所有器械和材料都是無菌的，並且正確使用無菌技術。
+
+這些措施有助於減少手術相關的感染，從而促進患者的快速康復。如果您需要更詳細的信息，請參考 ERAS 的具體指南，例如《Guidelines for Perioperative Care for Liver Surgery》或《Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology》。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,523.0,5.313714504241943,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf"
+130,手術後需要一直插尿管嗎？,"對於簡單的腰椎融合手術，通常不需要尿管；若有使用，會在術後幾
+小時內移除，以減少不適。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
+spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
+recommendations. The spine journal, 2021, 21.5: 729-752.",復健,"根據 ERAS（手術加速康復）的原則，不建議在手術後無限期留置尿管。通常，尿管會在手術後幾小時內移除，以促進患者的早期活動和恢復。這樣可以減少感染風險，並幫助患者更快地恢復正常生活。
+
+具體的拔管時間可能因個體情況和手術類型而異，應由醫療團隊根據患者的情況來決定。如果您有更多關於此主題的疑問，或者需要更詳細的信息，請隨時提出！",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0,2.302398443222046,"Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations.pdf"
+131,手術後怎麼避免血栓影響恢復？,"醫生可能會使用氣壓加壓裝置或藥物來預防血栓，這能降低血栓風
+險，幫助安全恢復。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
+spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
+recommendations. The spine journal, 2021, 21.5: 729-752.",復健,"根據 ERAS 規範，手術後避免血栓影響恢復可以採取以下措施：
+
+1. **預防性抗凝治療**：根據患者的情況，如年齡、手術類型和風險因素（如肥胖、長期臥床等），醫生會決定是否需要使用低分子肝素或其他抗凝藥物來預防深 vein 血栓形成 (DVT) 和肺栓塞 (PE)。
+
+2. **早期活動**：鼓勵患者在手術後盡早下床活動，這有助於促進血液循環，減少靜脈血栓的風險。
+
+3. **足部運動和壓力襪**：對於高風險患者，可以穿戴壓力襪來幫助促進腿部血液回流，減少血栓形成的可能性。
+
+4. **飲食調整**：保持良好的飲食習慣，增加纖維攝入，避免便秘，因為便秘會增加腹部壓力，從而增加血栓風險。
+
+5. **戒煙**：如果患者是吸煙者，應鼓勵其戒煙，因為吸煙會增加血栓風險。
+
+這些措施應根據每位患者的具體情況由醫療團隊進行個別化評估和實施。如果您需要更詳細的信息或有其他問題，請隨時告訴我！",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,397.0,5.1697704792022705,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Optimal Perioperative Care in Major Head and Neck Cancer Surgery With Free Flap Reconstruction A Consensus Review and Recommendations From the Enhanced Recovery After Surgery Society.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
+132,術後多久我可以恢復正常活動？,"ERAS 協議通過減少併發症和促進早期活動，幫助您更快恢復，但具
+體時間取決於您的狀況，需與醫生討論。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
+spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
+recommendations. The spine journal, 2021, 21.5: 729-752.",復健,"根據 ERAS（增強型手術後恢復）計劃，術後恢復正常活動的時間因手術類型和個體差異而異。通常，輕微的日常活動如散步可以在術後幾天內開始，但應避免劇烈運動或提舉重物，直到醫生確認可以恢復這些活動。
+
+對於具體的手術類型，例如脊柱手術或肝臟手術，恢復時間可能有所不同。建議遵循您的外科醫生的指導，他們會根據您的恢復進度提供個性化的建議。如果您有任何疑慮，請隨時與您的醫療團隊聯繫以獲得更詳細的指導。",,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,197.0,2.7373366355895996,"fsurg-07-573398.pdf, fsurg-07-573398.pdf, fsurg-07-573398.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Guidelines for Perioperative Care for Liver Surgery Enhanced Recovery After Surgery (ERAS) Society Recommendations 2022.pdf"
