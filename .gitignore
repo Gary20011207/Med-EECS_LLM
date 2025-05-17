@@ -1,6 +1,7 @@
 # app folder
 .gradio
 /VectorDB
+/VectorDB_backup
 
 # SQLite database
 *.sqlite3

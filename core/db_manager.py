@@ -113,7 +113,7 @@ class DBManager:
     
     def connect_db(self) -> bool:
         """
-        連接到向量資料庫，如果對應 collection 不存在則創建
+        連接到向量資料庫，如果對應 collection 不存在則創建並自動重建
         
         Returns:
             bool: 連接是否成功
@@ -135,16 +135,26 @@ class DBManager:
                     embedding_function=self.embedding_function
                 )
                 logger.info(f"已連接到現有集合: {self.collection_name}")
+                
+                # 檢查集合是否為空
+                if self.collection.count() == 0:
+                    logger.warning(f"集合 '{self.collection_name}' 存在但為空，將嘗試重建")
+                    self._try_rebuild_empty_collection()
+                
                 self.is_connected = True
                 return True
             except Exception as e:
-                logger.warning(f"集合 '{self.collection_name}' 不存在，將創建新集合")
+                logger.warning(f"集合 '{self.collection_name}' 不存在，將創建新集合並嘗試重建")
                 self.collection = self.client.create_collection(
                     name=self.collection_name,
                     embedding_function=self.embedding_function,
                     metadata={"hnsw:space": "cosine"}
                 )
                 logger.info(f"已創建新集合: {self.collection_name}")
+                
+                # 嘗試重建新創建的集合
+                self._try_rebuild_empty_collection()
+                
                 self.is_connected = True
                 return True
                 
@@ -154,6 +164,30 @@ class DBManager:
             self.collection = None
             self.is_connected = False
             return False
+
+    def _try_rebuild_empty_collection(self) -> None:
+        """
+        嘗試重建空集合，如果文檔路徑存在並包含PDF文件
+        """
+        try:
+            if not os.path.exists(self.documents_path):
+                logger.warning(f"文檔路徑不存在: {self.documents_path}，無法自動重建集合")
+                return
+                
+            # 檢查PDF文件
+            pdf_files = [f for f in os.listdir(self.documents_path) if f.lower().endswith('.pdf')]
+            if not pdf_files:
+                logger.warning(f"在 {self.documents_path} 中沒有找到PDF文件，無法自動重建集合")
+                return
+                
+            logger.info(f"找到 {len(pdf_files)} 個PDF文件，開始自動重建集合...")
+            rebuild_success = self.rebuild_db()
+            if rebuild_success:
+                logger.info(f"自動重建集合成功，現在可以進行搜索")
+            else:
+                logger.warning(f"自動重建集合失敗，請手動調用 rebuild_db() 方法")
+        except Exception as e:
+            logger.error(f"嘗試重建空集合失敗: {e}", exc_info=True)
     
     def _ensure_connected(self) -> None:
         """確保已連接到資料庫"""
