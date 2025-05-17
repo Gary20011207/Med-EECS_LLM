@@ -7,7 +7,7 @@ from transformers import (
     BitsAndBytesConfig, TextIteratorStreamer
 )
 import logging
-from typing import Optional, Any, Tuple, Dict, Generator
+from typing import Optional, Any, Tuple, Generator
 
 # 從 config.py 導入預設值
 from config import (
@@ -60,13 +60,6 @@ class ModelManager:
         self._device_monitor_thread: Optional[threading.Thread] = None
         self._shutdown_flag = threading.Event()
 
-    def _update_activity_and_ensure_monitor(self):
-        """更新最後使用時間並確保裝置監控執行緒運行 (如果模型在GPU上)"""
-        with self._model_management_lock:
-            self.last_model_use_time = time.time()
-            if self.model is not None and next(self.model.parameters()).device.type == 'cuda':
-                self._ensure_device_monitor_started()
-
     def initialize(self, force_cpu_init: Optional[bool] = None) -> Tuple[Optional[Any], Optional[Any], Optional[int]]:
         """
         初始化模型。
@@ -81,34 +74,21 @@ class ModelManager:
 
         with self._model_management_lock:
             if self.model is not None and self.tokenizer is not None:
-                # logger.debug("LLM 模型和分詞器已載入")
-                self._update_activity_and_ensure_monitor()
+                logger.debug("LLM 模型和分詞器已載入")
                 return self.model, self.tokenizer, self.model_max_context_length
 
             logger.info(f"開始初始化 LLM 模型: {self.model_name} (強制CPU: {_force_cpu_init})")
 
-            target_device = "cpu"
+            target_device = "auto" if not _force_cpu_init else "cpu"
             use_quantization = self.load_in_4bit
-
-            if not _force_cpu_init and torch.cuda.is_available():
-                target_device = "auto"
-                logger.info("CUDA 可用，嘗試將模型載入 GPU。")
-            else:
-                logger.info("CUDA 不可用或強制使用 CPU，模型將載入 CPU。")
-                if _force_cpu_init:
-                    logger.info("由於 force_cpu_init=True，即使CUDA可用也將使用CPU。")
-                use_quantization = False # CPU模式下通常不使用BitsAndBytes量化
-                if self.load_in_4bit and not _force_cpu_init and not torch.cuda.is_available():
-                    logger.warning("請求4-bit量化但CUDA不可用，將在CPU上以全精度載入。")
-
-
             quantization_config = None
+
             if use_quantization:
                 quantization_config = BitsAndBytesConfig(
-                    load_in_4bit=True, # self.load_in_4bit 應該為 True
+                    load_in_4bit=True, 
                     bnb_4bit_use_double_quant=True,
                     bnb_4bit_quant_type="nf4",
-                    bnb_4bit_compute_dtype=torch.float16,
+                    bnb_4bit_compute_dtype=torch.float16
                 )
                 logger.info("使用 4-bit 量化設定。")
 
@@ -121,8 +101,8 @@ class ModelManager:
                 self.model = AutoModelForCausalLM.from_pretrained(
                     self.model_name,
                     quantization_config=quantization_config,
-                    device_map=target_device if target_device != "cpu" else None,
-                    torch_dtype=torch.float16
+                    device_map=target_device,
+                    torch_dtype=torch.float16,
                     trust_remote_code=True
                 )
                 if target_device == "cpu" or _force_cpu_init: # 確保如果目標是CPU，模型最終在CPU
@@ -144,43 +124,27 @@ class ModelManager:
                 raise
             return self.model, self.tokenizer, self.model_max_context_length
 
-    def get_model(self, ensure_on_gpu: bool = True) -> Any:
+    def get_model(self) -> Any:
         """獲取模型，自動處理裝置轉移"""
-        # 移除了 check_and_reload_if_needed
         with self._model_management_lock:
             if self.model is None:
                 logger.info("get_model: 模型尚未初始化，開始進行初始化。")
-                # 如果要確保在GPU，則不強制CPU初始化 (除非預設是強制CPU)
-                _force_init_cpu = DEFAULT_FORCE_CPU_INIT if not ensure_on_gpu else False
-                self.initialize(force_cpu_init=_force_init_cpu)
+                self.initialize()
                 if self.model is None:
                     logger.error("get_model: 初始化後模型仍為 None")
                     raise RuntimeError("LLM 模型初始化失敗")
 
             model_device_type = next(self.model.parameters()).device.type
-            if ensure_on_gpu and torch.cuda.is_available():
-                if model_device_type == "cpu":
-                    try:
-                        logger.info("get_model: 模型目前在 CPU，嘗試移至 GPU...")
-                        self.model = self.model.to("cuda")
-                        logger.info("get_model: 模型已成功移至 GPU。")
-                        model_device_type = "cuda"
-                    except Exception as e:
-                        logger.error(f"get_model: 嘗試將模型移至 GPU 時出錯: {e}", exc_info=True)
-            elif not ensure_on_gpu and model_device_type != "cpu":
-                if model_device_type == "cuda":
-                    try:
-                        logger.info("get_model: 模型目前在 GPU，但要求在 CPU，嘗試移至 CPU...")
-                        self.model = self.model.to("cpu")
-                        if torch.cuda.is_available(): torch.cuda.empty_cache()
-                        logger.info("get_model: 模型已成功移至 CPU。")
-                        model_device_type = "cpu"
-                    except Exception as e:
-                        logger.error(f"get_model: 嘗試將模型移至 CPU 時出錯: {e}", exc_info=True)
-
-            if model_device_type == 'cuda':
-                 self._update_activity_and_ensure_monitor()
-            return self.model
+            if model_device_type == "cpu" and torch.cuda.is_available():
+                try:
+                    logger.info("get_model: 模型目前在 CPU，嘗試移至 GPU...")
+                    self.model = self.model.to("cuda")
+                    return self.model
+                except Exception as e:
+                    logger.error(f"get_model: 嘗試將模型移至 GPU 時出錯: {e}", exc_info=True)
+                    raise RuntimeError("將模型移至 GPU 失敗")
+            
+            self._update_activity_and_ensure_monitor()
 
     def count_tokens(self, text_to_count: str) -> int:
         """計算文本的 token 數量"""
@@ -201,14 +165,10 @@ class ModelManager:
     def generate_response(self, prompt: str, **generation_kwargs: Any) -> str:
         """使用載入的模型生成回應。"""
         with self._model_management_lock:
-            model_instance = self.get_model(ensure_on_gpu=True)
-            if model_instance is None or self.tokenizer is None:
-                logger.error("generate_response: 模型或分詞器尚未初始化。")
-                raise RuntimeError("模型或分詞器尚未初始化，無法生成回應。")
-            self._update_activity_and_ensure_monitor()
+            self.get_model()
             try:
                 inputs = self.tokenizer(prompt, return_tensors="pt", add_special_tokens=False)
-                inputs = {k: v.to(model_instance.device) for k, v in inputs.items()}
+                inputs = {k: v.to(self.model.device) for k, v in inputs.items()}
                 if 'pad_token_id' not in generation_kwargs:
                     generation_kwargs['pad_token_id'] = self.tokenizer.eos_token_id
                 if 'eos_token_id' not in generation_kwargs:
@@ -216,7 +176,7 @@ class ModelManager:
                 if 'max_new_tokens' not in generation_kwargs: # 確保有 max_new_tokens
                     generation_kwargs['max_new_tokens'] = 512
 
-                outputs = model_instance.generate(**inputs, **generation_kwargs)
+                outputs = self.model.generate(**inputs, **generation_kwargs)
                 response = self.tokenizer.decode(outputs[0][inputs['input_ids'].shape[1]:], skip_special_tokens=True)
                 self._update_activity_and_ensure_monitor()
                 return response
@@ -227,14 +187,10 @@ class ModelManager:
     def generate_stream_response(self, prompt: str, **generation_kwargs: Any) -> Generator[str, None, None]:
         """使用載入的模型以流式方式生成回應。"""
         with self._model_management_lock:
-            model_instance = self.get_model(ensure_on_gpu=True)
-            if model_instance is None or self.tokenizer is None:
-                logger.error("generate_stream_response: 模型或分詞器尚未初始化。")
-                raise RuntimeError("模型或分詞器尚未初始化，無法生成流式回應。")
-            self._update_activity_and_ensure_monitor()
+            self.get_model()
             try:
                 inputs = self.tokenizer(prompt, return_tensors="pt", add_special_tokens=False)
-                inputs = {k: v.to(model_instance.device) for k, v in inputs.items()}
+                inputs = {k: v.to(self.model.device) for k, v in inputs.items()}
                 streamer = TextIteratorStreamer(self.tokenizer, skip_prompt=True, skip_special_tokens=True)
                 if 'pad_token_id' not in generation_kwargs:
                     generation_kwargs['pad_token_id'] = self.tokenizer.eos_token_id
@@ -244,7 +200,7 @@ class ModelManager:
                     generation_kwargs['max_new_tokens'] = 512
 
                 gen_kwargs_with_streamer = {**inputs, "streamer": streamer, **generation_kwargs}
-                thread = threading.Thread(target=model_instance.generate, kwargs=gen_kwargs_with_streamer)
+                thread = threading.Thread(target=self.model.generate, kwargs=gen_kwargs_with_streamer)
                 thread.start()
                 for new_text in streamer:
                     self._update_activity_and_ensure_monitor()
@@ -330,6 +286,13 @@ class ModelManager:
             self.last_model_use_time = 0
             self._shutdown_flag.clear() # 為下次可能的啟動做準備
             logger.info("LLM 相關資源已釋放。")
+
+    def _update_activity_and_ensure_monitor(self):
+        """更新最後使用時間並確保裝置監控執行緒運行 (如果模型在GPU上)"""
+        with self._model_management_lock:
+            if self.model is not None and next(self.model.parameters()).device.type == 'cuda':
+                self.last_model_use_time = time.time()
+                self._ensure_device_monitor_started()
 
     def _ensure_device_monitor_started(self):
         """確保設備監控線程已啟動 (如果模型在 GPU 上)"""
