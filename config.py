@@ -1,7 +1,7 @@
 # config.py
 
 # --- ModelManager Defaults ---
-DEFAULT_LLM_MODEL_NAME = "nvidia/Llama-3.1-Nemotron-Nano-8B-v1" #"Qwen/Qwen2.5-14B-Instruct-1M" # 原來的預設
+DEFAULT_LLM_MODEL_NAME = "Qwen/Qwen2.5-14B-Instruct-1M" #"microsoft/Phi-4-mini-reasoning" # 原來的預設
 DEFAULT_INACTIVITY_TIMEOUT_SECONDS = 600  # 閒置超時時間 (秒)
 DEFAULT_MONITOR_CHECK_INTERVAL_SECONDS = 60 # 監控執行緒檢查間隔 (秒)
 DEFAULT_LOAD_IN_4BIT = True # 是否預設以 4-bit 量化載入
