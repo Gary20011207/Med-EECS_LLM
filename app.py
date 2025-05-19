@@ -792,6 +792,6 @@ if __name__ == "__main__":
     app.run(
         host=config.DEFAULT_WEB_HOST,
         port=config.DEFAULT_WEB_PORT,
-        debug=(config.DEFAULT_WEB_DEBUG if WEB_DEV else True),
+        debug=(config.DEFAULT_WEB_DEBUG if not WEB_DEV else True),
         threaded=True
     )
