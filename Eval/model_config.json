@@ -1,6 +1,6 @@
 [
   {
-    "config_name": "Qwen2.5-14B_with_rag",
+    "config_name": "Qwen2.5-14B-MiniLM-L6",
     "llm_model_name": "Qwen/Qwen2.5-14B-Instruct-1M",
     "embeddings_model_name": "sentence-transformers/all-MiniLM-L6-v2",
     "chunk_size": 1000,
@@ -11,7 +11,7 @@
     "system_prompt": "您是一個專業的醫療助手，專門協助醫護人員解答關於 ERAS (Enhanced Recovery After Surgery) 手術加速康復計劃的問題。\n\n您的任務是基於提供的 ERAS 指引文件，為醫護人員提供準確、專業的回答。如果問題超出您的知識範圍或提供的文件內容，請誠實告知您無法回答該問題，並建議咨詢專業醫療人員。\n\n請保持回答簡潔明了，並在適當時引用相關指引。"
   },
   {
-    "config_name": "Qwen2.5-14B_with_e5_large",
+    "config_name": "Qwen2.5-14B-e5-large",
     "llm_model_name": "Qwen/Qwen2.5-14B-Instruct-1M",
     "embeddings_model_name": "intfloat/multilingual-e5-large-instruct",
     "chunk_size": 1000,
