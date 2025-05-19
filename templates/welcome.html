@@ -1,37 +1,416 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome</title>
+    <title>歡迎！ERAS 主頁面</title>
     <style>
-        body { font-family: Arial; max-width: 800px; margin: auto; padding: 20px; }
-        .warning { background-color: #f8d7da; color: #721c24; padding: 10px; border: 1px solid #f5c6cb; margin-bottom: 20px; }
+        :root {
+            --primary-color: #2c3e50;
+            --secondary-color: #3498db;
+            --success-color: #27ae60;
+            --warning-color: #f39c12;
+            --danger-color: #e74c3c;
+            --light-gray: #ecf0f1;
+            --medium-gray: #bdc3c7;
+            --dark-gray: #34495e;
+            --white: #ffffff;
+            --border-radius: 8px;
+            --box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            --transition: all 0.3s ease;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', 'Microsoft JhengHei', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            color: var(--primary-color);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        /* Header */
+        .header {
+            background: linear-gradient(135deg, var(--primary-color) 0%, var(--dark-gray) 100%);
+            color: var(--white);
+            padding: 1rem 2rem;
+            text-align: center;
+            box-shadow: var(--box-shadow);
+            width: 100%;
+        }
+
+        .header h1 {
+            font-size: 1.8rem;
+            font-weight: 600;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        @keyframes pulse {
+            0% { opacity: 0.7; }
+            50% { opacity: 1; }
+            100% { opacity: 0.7; }
+        }
+
+        /* Main Container */
+        .container {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+            margin: 1rem;
+            border-radius: var(--border-radius);
+            box-shadow: var(--box-shadow);
+            background: var(--white);
+            width: 100%;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 320px;
+            background: var(--light-gray);
+            padding: 1.5rem;
+            overflow-y: auto;
+            border-right: 1px solid var(--medium-gray);
+        }
+
+        .sidebar-section {
+            margin-bottom: 2rem;
+            padding: 1rem;
+            background: var(--white);
+            border-radius: var(--border-radius);
+            box-shadow: 0 1px 5px rgba(0, 0, 0, 0.05);
+        }
+
+        .sidebar-section h3 {
+            color: var(--primary-color);
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--secondary-color);
+        }
+
+        .form-group {
+            margin-bottom: 1rem;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+            color: var(--dark-gray);
+        }
+
+        .form-control {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid var(--medium-gray);
+            border-radius: var(--border-radius);
+            font-size: 0.9rem;
+            transition: var(--transition);
+        }
+
+        .form-control:focus {
+            outline: none;
+            border-color: var(--secondary-color);
+            box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+        }
+
+        .checkbox-group {
+            display: flex;
+            align-items: center;
+            margin-bottom: 0.5rem;
+        }
+
+        .checkbox-group input[type="checkbox"] {
+            margin-right: 0.5rem;
+            transform: scale(1.2);
+        }
+
+        .btn {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            border: none;
+            border-radius: var(--border-radius);
+            font-weight: 600;
+            cursor: pointer;
+            transition: var(--transition);
+            font-size: 0.9rem;
+        }
+
+        .btn-primary {
+            background: var(--secondary-color);
+            color: var(--white);
+        }
+
+        .btn-primary:hover {
+            background: #2980b9;
+            transform: translateY(-2px);
+        }
+
+        .btn-danger {
+            background: var(--danger-color);
+            color: var(--white);
+        }
+
+        .btn-danger:hover {
+            background: #c0392b;
+            transform: translateY(-2px);
+        }
+
+        .btn-warning {
+            background: var(--warning-color);
+            color: var(--white);
+        }
+
+        .btn-warning:hover {
+            background: #e67e22;
+            transform: translateY(-2px);
+        }
+
+        .btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .danger {
+            background-color: var(--danger-color);
+            color: var(--white);
+            padding: 10px;
+            border-radius: var(--border-radius);
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .danger a {
+            color: var(--white);
+            text-decoration: underline;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            gap: 10px;
+            padding: 20px;
+            height: 20vh;
+            width: 100%;
+        }
+
+        .grid-item {
+            text-align: center;
+            padding: 10px;
+            background: var(--light-gray);
+            border-radius: var(--border-radius);
+            box-shadow: var(--box-shadow);
+        }
+
+        .grid-item.completed {
+            background: var(--success-color);
+            color: var(--white);
+        }
+
+        .todo-list {
+            background: var(--light-gray);
+            padding: 10px;
+            border-radius: var(--border-radius);
+            box-shadow: var(--box-shadow);
+            height: 100%;
+            width: 100%;
+            padding: 10px;
+            margin: 10px;
+        }
+
+        .todo-list h3 {
+            margin-bottom: 10px;
+            color: var(--primary-color);
+        }
+
+        .todo-list ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .todo-list li {
+            margin-bottom: 5px;
+            padding: 5px;
+            background: var(--white);
+            border-radius: var(--border-radius);
+            box-shadow: var(--box-shadow);
+        }
+
+        .todo-list li span {
+            color: var(--success-color);
+            font-weight: bold;
+        }
+
+        .main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 1024px) {
+            .container {
+                flex-direction: column;
+            }
+            
+            .sidebar {
+                width: 100%;
+                max-height: 300px;
+            }
+            
+            .message {
+                max-width: 90%;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.4rem;
+            }
+            
+            .container {
+                margin: 0.5rem;
+            }
+            
+            .sidebar {
+                padding: 1rem;
+            }
+            
+            .chat-output {
+                padding: 1rem;
+            }
+            
+            .input-area {
+                padding: 1rem;
+            }
+        }
     </style>
 </head>
 <body>
-    <h2>歡迎！{{ user.name }}</h2>
-    <a href="/logout">Logout</a>
+    <!-- Header -->
+    <header class="header">
+        <h1>歡迎！ERAS主頁面</h1>
+    </header>
 
-    {% if not user.has_completed_profile %}
-    <div class="warning">
-        請完成個人資料填寫 <a href="/profile">Go to Profile</a>
-    </div>
-    {% endif %}
-
-    <h3>Clinic Pre-op Education and Consent</h3>
-    <p>{{ user.clinic_provide_preop_education_and_consent }}</p>
-
-    <a href="/chat">Go to Chat</a>
-
-    <h3>Your To-Do List</h3>
-    <ul>
-        {% for item in todo_list %}
-        <li>
-            {{ item.task }}
-            {% if item.completed %}
-            <span>(Completed)</span>
+    <main class="container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <section class="sidebar-section">
+                <h3>姓名：{{user.name}}</h3>
+                <div>
+                    <span>病歷號：</span>
+                    <span>{{user.record_id}}</span>
+                </div>
+                <button onclick="window.location.href='/profile'" class="btn btn-primary" style="margin-top: 1rem;">個人資料</button>
+                <button onclick="window.location.href='/chat'" class="btn btn-primary" style="margin-top: 1rem;">聊天機器人</button>
+                <button onclick="window.location.href='/todo'" class="btn btn-primary" style="margin-top: 1rem;">待辦事項</button>
+                <button onclick="window.location.href='/logout'" class="btn btn-danger" style="margin-top: 1rem;">登出</button>
+            </section>
+            <section class="sidebar-section">
+                <h3>手術資訊</h3>
+                <div>
+                    <span>主治醫師：</span>
+                    <span>{{user.attending_physician}}</span>
+                </div>
+                <div>
+                    <span>住院日期：</span>
+                    <span>{{user.hospital_stay_date}}</span>
+                </div>
+                <div>
+                    <span>手術日期：</span>
+                    <span>{{user.surgery_date}}</span>
+                </div>
+            </section>
+        </aside>
+        <div class="main-content">
+            {% if not user.has_completed_profile %}
+            <div class="danger" style="margin: 10px;">
+                 <a href="/profile">點此完成填寫個人資料 / 更改密碼</a>
+            </div>
             {% endif %}
-        </li>
-        {% endfor %}
-    </ul>
+            <div class="grid">
+                {% if user.clinic_provide_preop_education_and_consent == None or user.clinic_anxiety_survey_preop == None or user.clinic_instruction_satisfaction_survey_preop == None %}
+                <div class="grid-item">
+                    <h3><a href="/chat">門診</a></h3>
+                        <p>未完成</p>
+                {% else %}
+                <div class="grid-item completed">
+                    <h3><a href="/chat">門診</a></h3>
+                        <p>已於{{ user.clinic_provide_preop_education_and_consent }}完成</p>
+                {% endif %}
+                </div>
+                {% if user.anesthesiology_preop_assessment_and_explanation == None %}
+                <div class="grid-item">
+                    <h3><a href="/chat">麻醉科</a></h3>
+                        <p>未完成</p>
+                {% else %}
+                <div class="grid-item completed">
+                    <h3><a href="/chat">麻醉科</a></h3>
+                        <p>已於{{ user.anesthesiology_preop_assessment_and_explanation }}完成</p>
+                {% endif %}
+                </div>
+                {% if user.nutritionist_dietary_assessment_and_guidance == None %}
+                <div class="grid-item">
+                    <h3><a href="/chat">營養科</a></h3>
+                        <p>未完成</p>
+                {% else %}
+                <div class="grid-item completed">
+                    <h3><a href="/chat">營養科</a></h3>
+                        <p>已於{{ user.nutritionist_dietary_assessment_and_guidance }}完成</p>
+                {% endif %}
+                </div>
+                {% if user.pharmacist_medication_guidance == None %}
+                <div class="grid-item">
+                    <h3><a href="/chat">藥劑科</a></h3>
+                        <p>未完成</p>
+                {% else %}
+                <div class="grid-item completed">
+                    <h3><a href="/chat">藥劑科</a></h3>
+                        <p>已於{{ user.pharmacist_medication_guidance }}完成</p>
+                {% endif %}
+                </div>
+                {% if user.rehab_preop_functional_and_balance_assessment == None or user.rehab_preop_exercise_guidance == None %}
+                <div class="grid-item">
+                    <h3><a href="/chat">復健科</a></h3>
+                        <p>未完成</p>
+                {% else %}
+                <div class="grid-item completed">
+                    <h3><a href="/chat">復健科</a></h3>
+                        <p>已於{{ user.rehab_preop_functional_and_balance_assessment }}完成</p>
+                {% endif %}
+                </div>
+                {% if user.ward_nurse_education == None or user.ward_anxiety_survey_postop == None or user.ward_instruction_satisfaction_survey_postop == None %}
+                <div class="grid-item">
+                    <h3><a href="/chat">病房</a></h3>
+                        <p>未完成</p>
+                {% else %}
+                <div class="grid-item completed">
+                    <h3><a href="/chat">病房</a></h3>
+                        <p>已於{{ user.ward_nurse_education }}完成</p>
+                {% endif %}
+                </div>
+            </div>
+    
+            <div class="todo-list">
+                <h3>待辦清單</h3>
+                <ul>
+                    {% for item in todo_list %}
+                    <li>
+                        {{ item.task }}
+                        {% if item.completed %}
+                        <span>(完成)</span>
+                        {% endif %}
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
