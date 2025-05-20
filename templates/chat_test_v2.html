@@ -437,6 +437,15 @@
     <header class="header">
         <h1>ERAS 智慧個案管理師</h1>
     </header>
+    <!-- 科室頭像區塊 -->
+    <div style="display: flex; justify-content: center; gap: 1rem; padding: 1rem; background-color: #ecf0f1; flex-wrap: wrap;">
+        <button class="btn" style="width: 100px; height: 100px; font-weight: bold;" onclick="switchDepartment('門診')">門診</button>
+        <button class="btn" style="width: 100px; height: 100px; font-weight: bold;" onclick="switchDepartment('麻醉科')">麻醉科</button>
+        <button class="btn" style="width: 100px; height: 100px; font-weight: bold;" onclick="switchDepartment('營養科')">營養科</button>
+        <button class="btn" style="width: 100px; height: 100px; font-weight: bold;" onclick="switchDepartment('藥劑科')">藥劑科</button>
+        <button class="btn" style="width: 100px; height: 100px; font-weight: bold;" onclick="switchDepartment('復健科')">復健科</button>
+        <button class="btn" style="width: 100px; height: 100px; font-weight: bold;" onclick="switchDepartment('病房')">病房</button>
+    </div>
 
     <!-- Status Bar -->
     <div id="status-area" class="status-bar">正在載入狀態...</div>
@@ -1140,6 +1149,8 @@
             setInterval(fetchAvailableSourceFiles, 60000);
             
             console.log('ERAS聊天界面初始化完成');
+            let currentDepartment = '門診';
+
         }
 
         // Error handling
@@ -1153,6 +1164,22 @@
 
         // Start the application
         document.addEventListener('DOMContentLoaded', init);
+
+        let currentDepartment = '門診';
+
+        function switchDepartment(dept) {
+            currentDepartment = dept;
+            let existingId = loadFromLocalStorage(`deptSessionId_${dept}`);
+            if (!existingId) {
+                existingId = `${dept}-${generateUUID()}`;
+                saveToLocalStorage(`deptSessionId_${dept}`, existingId);
+            }
+            currentSessionId = existingId;
+            saveToLocalStorage('chatSessionId', currentSessionId);
+            elements.sessionIdInput.value = currentSessionId;
+            renderChatHistory();
+        }
+
     </script>
 </body>
 </html>
