@@ -1,0 +1,237 @@
+                          QA問答    (麻醉) 
+
+                 「通用型問答（General Q&A）」               
+
+1.  問：麻醉期間如何確保我的血壓穩定？ 
+    答：   麻醉師會選擇適合的麻醉藥物並小心調整劑量，必要時使用血管加壓
+    藥，維持平均動脈壓（MAP）在65 mmHg以上，保護您的器官功能。 
+     
+2.  問：手術中會如何控制我的體溫？ 
+    答：   麻醉團隊會使用主動加溫設備和溫熱靜脈液，監測您的核心體溫，保
+    持正常體溫（36-37°C），降低感染和併發症風險。 
+     
+
+Reference : 
+
+1.  PEDEN, Carol J., et al. Guidelines for perioperative care for emergency 
+    laparotomy Enhanced Recovery After Surgery (ERAS) Society 
+    recommendations: part 1—preoperative: diagnosis, rapid assessment and 
+    optimization. World journal of surgery, 2021, 45.5: 1272-1290. 
+2.  SCOTT, Michael J., et al. Consensus guidelines for perioperative care for 
+    emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society 
+    recommendations part 2—emergency laparotomy: intra-and postoperative care. 
+    World journal of surgery, 2023, 47.8: 1850-1880. 
+3.  PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society 
+    consensus guidelines for emergency laparotomy part 3: organizational aspects 
+    and general considerations for management of the emergency laparotomy 
+    patient. World journal of surgery, 2023, 47.8: 1881-1898. 
+4.  NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society 
+    guidelines for gynecologic oncology: Addressing implementation challenges-
+    2023 update. Gynecologic oncology, 2023, 173: 58-67. 
+5.  ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced 
+    Recovery After Surgery Society recommendations. American journal of 
+    obstetrics and gynecology, 2020, 223.4: 475-485. 
+6.  WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in 
+    cesarean delivery: Enhanced Recovery After Surgery Society recommendations 
+    (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. 
+7.  DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar 
+    spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society 
+    recommendations. The spine journal, 2021, 21.5: 729-752. 
+8.  MCGINIGLE, Katharine L., et al. Perioperative care in open aortic vascular 
+    surgery: a consensus statement by the Enhanced Recovery After Surgery (ERAS) 
+    Society and Society for Vascular Surgery. Journal of vascular surgery, 2022, 
+    75.6: 1796-1820. 
+
+ 
+
+         「緊急腹腔手術（Emergency Laparotomy, EL）」                 
+     
+1.  問：麻醉時會用什麼藥物來保護我的氣道？ 
+    答：麻醉師會使用琥珀膽鹼（1-2 mg/kg）或羅庫溴銨（0.9-1.2 mg/kg）等
+    快速肌肉鬆弛劑，配合氣管插管保護氣道。藥物選擇會根據您的狀況調
+    整。 
+
+
+Reference : 
+
+1.  PEDEN, Carol J., et al. Guidelines for perioperative care for emergency 
+    laparotomy Enhanced Recovery After Surgery (ERAS) Society 
+    recommendations: part 1—preoperative: diagnosis, rapid assessment and 
+    optimization. World journal of surgery, 2021, 45.5: 1272-1290. 
+2.  SCOTT, Michael J., et al. Consensus guidelines for perioperative care for 
+    emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society 
+    recommendations part 2—emergency laparotomy: intra-and postoperative care. 
+    World journal of surgery, 2023, 47.8: 1850-1880. 
+3.  PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society 
+    consensus guidelines for emergency laparotomy part 3: organizational aspects 
+    and general considerations for management of the emergency laparotomy 
+    patient. World journal of surgery, 2023, 47.8: 1881-1898. 
+
+ 
+
+             「婦科腫瘤學（Gynecologic Oncology）」              
+
+1.  問：手術前可以喝東西嗎？ 
+    答：ERAS指南建議在手術前2-3 小時飲用水或碳水化合物飲料，以減少
+    術前焦慮、口渴和飢餓感，並防止脫水。 
+
+ 
+Reference : 
+
+1.  NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society 
+    guidelines for gynecologic oncology: Addressing implementation challenges-
+    2023 update. Gynecologic oncology, 2023, 173: 58-67. 
+
+ 
+
+    「婦科：外陰部和陰道手術（Gynecologic：vulvar and vaginal surgery）」 
+
+1.  問：為什麼手術前可以吃輕食？ 
+    答：您可以在麻醉前6 小時吃輕食，因為現代禁食規則顯示這是安全的，
+    且能減少術後胰島素抵抗，促進恢復。  
+     
+2.  問：陰道子宮切除術前會給我抗生素嗎？ 
+    答：是的，您會在手術前60 分鐘內接受靜脈抗生素，以降低感染風險。 
+ 
+
+Reference : 
+
+1.  ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced 
+    Recovery After Surgery Society recommendations. American journal of 
+    obstetrics and gynecology, 2020, 223.4: 475-485. 
+
+ 
+
+       「婦科：剖腹產（Gynecologic：Cesarean Delivery）」                 
+
+1.  問：剖腹產前喝東西安全嗎？ 
+    答：是的，您可以在手術前2 小時飲用清澈液體，如無果肉果汁、不加奶
+    的咖啡或茶。 
+     
+2.  問：剖腹產前可以吃東西嗎？ 
+    答：您可以在手術前6 小時吃輕食。 
+ 
+
+Reference : 
+
+1.  WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in 
+    cesarean delivery: Enhanced Recovery After Surgery Society recommendations 
+    (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. 
+
+  
+
+     「開放主動脈血管手術（Open aortic vascular surgery）」                  
+
+1.  問：手術中如何監測我的心臟和血壓？ 
+    答：會使用動脈導管進行侵入性心血管監測，確保您的平均動脈壓
+    （MAP）接近正常值，且至少高於65 mmHg。 
+          
+2.  問：會給我抗生素來預防感染嗎？ 
+    答：是的，您會在手術前30-60 分鐘接受預防性靜脈抗生素，必要時術中
+    會再次給藥，以降低感染風險。 
+
+ 
+
+Reference : 
+
+1.  MCGINIGLE, Katharine L., et al. Perioperative care in open aortic vascular 
+    surgery: a consensus statement by the Enhanced Recovery After Surgery (ERAS) 
+    Society and Society for Vascular Surgery. Journal of vascular surgery, 2022, 
+    75.6: 1796-1820. 
+
+ 
+
+                          QA問答    (復健) 
+
+                 「緊急腹腔手術（Emergency Laparotomy, EL）」 
+    
+1.  問：什麼時候可以開始術後復健？ 
+    答：通常在手術後第一天（術後第 0 或 1 天），如果您的狀況穩定，復健
+    科可能會開始協助您進行簡單的活動，如床上移動或坐起來。 
+
+
+Reference : 
+
+1.  PEDEN, Carol J., et al. Guidelines for perioperative care for emergency 
+    laparotomy Enhanced Recovery After Surgery (ERAS) Society 
+    recommendations: part 1—preoperative: diagnosis, rapid assessment and 
+    optimization. World journal of surgery, 2021, 45.5: 1272-1290. 
+2.  SCOTT, Michael J., et al. Consensus guidelines for perioperative care for 
+    emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society 
+    recommendations part 2—emergency laparotomy: intra-and postoperative care. 
+    World journal of surgery, 2023, 47.8: 1850-1880. 
+3.  PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society 
+    consensus guidelines for emergency laparotomy part 3: organizational aspects 
+    and general considerations for management of the emergency laparotomy 
+    patient. World journal of surgery, 2023, 47.8: 1881-1898. 
+
+
+
+             「婦科腫瘤學（Gynecologic Oncology）」              
+
+1.  問：手術後多久可以開始進食？ 
+    答：通常在手術後不久可以開始飲用清澈液體 (水或碳水化合物飲料)，並
+    在 1 日內進展到輕食，以減少併發症和住院時間。
+
+
+Reference : 
+
+1.  NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society 
+    guidelines for gynecologic oncology: Addressing implementation challenges-
+    2023 update. Gynecologic oncology, 2023, 173: 58-67. 
+
+
+
+    「婦科：外陰部和陰道手術（Gynecologic：vulvar and vaginal surgery）」 
+
+
+1.  問：外陰或陰道手術後何時可以開始進食？ 
+    答：建議在手術後24 小時內開始正常飲食，早期進食安全，有助於腸道功
+    能恢復並縮短住院時間。 
+
+2.  問：手術後需要陰道填塞嗎？ 
+    答：陰道填塞非必要，因其不會減少出血或血腫，且可能增加疼痛或感染
+    風險，若使用陰道填塞，應在 24 小時內移除，以避免感染風險增加和延長
+    尿管使用。 
+
+
+Reference : 
+
+1.  ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced 
+    Recovery After Surgery Society recommendations. American journal of 
+    obstetrics and gynecology, 2020, 223.4: 475-485. 
+
+
+
+       「婦科：剖腹產（Gynecologic：Cesarean Delivery）」 
+
+1.  問：肥胖會影響剖腹產恢復？ 
+    答：若您的BMI 超過40，感染或傷口問題的風險較高。 
+
+
+Reference : 
+
+1.  WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in 
+    cesarean delivery: Enhanced Recovery After Surgery Society recommendations 
+    (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. 
+
+
+
+  「骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）」                     
+
+1.  問：我抽菸，會不會影響手術恢復？ 
+    答：抽菸會增加術後併發症風險，建議至少在手術前 4 週戒菸，能顯著改
+    善恢復效果。 
+     
+2.  問：喝酒對手術恢復有什麼影響？ 
+    答：過量飲酒可能增加感染和血栓風險，建議手術前 4-8 週避免飲酒，以
+    促進恢復。 
+
+
+Reference : 
+
+1.  DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar 
+    spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society 
+    recommendations. The spine journal, 2021, 21.5: 729-752. 
+
+
