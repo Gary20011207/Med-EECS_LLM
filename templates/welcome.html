@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>歡迎！ERAS 主頁面</title>
+    <title>ERAS 智慧個案管理師</title>
     <style>
         :root {
             --primary-color: #2c3e50;
@@ -401,7 +401,7 @@
 <body>
     <!-- Header -->
     <header class="header">
-        <h1>歡迎！ERAS主頁面</h1>
+        <h1>ERAS 智慧個案管理師</h1>
     </header>
 
     <main class="container">
@@ -414,8 +414,6 @@
                     <span>{{user.record_id}}</span>
                 </div>
                 <button onclick="window.location.href='/profile'" class="btn btn-primary" style="margin-top: 1rem;">個人資料</button>
-                <button onclick="window.location.href='/chat'" class="btn btn-primary" style="margin-top: 1rem;">聊天機器人</button>
-                <button onclick="window.location.href='/todo'" class="btn btn-primary" style="margin-top: 1rem;">待辦事項</button>
                 <button onclick="window.location.href='/logout'" class="btn btn-danger" style="margin-top: 1rem;">登出</button>
             </section>
             <section class="sidebar-section">
@@ -425,15 +423,11 @@
                     <span>{{user.attending_physician}}</span>
                 </div>
                 <div>
-                    <span>住院日期：</span>
-                    <span>{{user.hospital_stay_date}}</span>
-                </div>
-                <div>
                     <span>手術日期：</span>
                     <span>{{user.surgery_date}}</span>
                 </div>
             </section>
-            <section class="sidebar-section todo-list">
+            <section class="sidebar-section">
                 <h3>待辦清單</h3>
                 <div class="progress-dashboard">
                     <div class="progress-label">完成進度</div>
@@ -446,11 +440,7 @@
             </section>
         </aside>
         <div class="main-content">
-            {% if not user.has_completed_profile %}
-            <div class="danger" style="margin: 10px;">
-                 <a href="/profile">點此完成填寫個人資料</a>
-            </div>
-            {% endif %}
+
             <div class="grid">
                 <!--
                 {% if user.clinic_provide_preop_education_and_consent == None or user.clinic_anxiety_survey_preop == None or user.clinic_instruction_satisfaction_survey_preop == None %}
@@ -624,11 +614,9 @@
                 <div class="input-area" style="display: flex; padding: 1.5rem; background: var(--white); border-top: 1px solid var(--medium-gray);">
                     <input type="text" id="message-input" class="form-control" placeholder="請輸入您的問題..." aria-label="輸入訊息" style="flex: 1; margin-right: 1rem; padding: 1rem; border-radius: 25px;">
                     <button id="send-button" class="send-button btn-send" title="傳送訊息" style="padding: 1rem 1.5rem; border-radius: 25px; background: var(--secondary-color); color: white; border: none; font-weight: bold;">
-                        💬傳送
+                        💬 傳送
                     </button>
-                    <button id="send-stream-button" class="send-button btn-stream" title="串流傳送" style="padding: 1rem 1.5rem; border-radius: 25px; background: var(--success-color); color: white; border: none; font-weight: bold; margin-left: 0.5rem;">
-                        ⚡串流
-                    </button>
+
                 </div>
             </div>
         </div>
@@ -1146,8 +1134,8 @@
         // Event listeners
         function setupEventListeners() {
             // Send message events
-            elements.sendButton.addEventListener('click', () => sendMessage(false));
-            elements.sendStreamButton.addEventListener('click', () => sendMessage(true));
+            elements.sendButton.addEventListener('click', () => sendMessage(true));
+            //elements.sendStreamButton.addEventListener('click', () => sendMessage(true));
             
             // Enter key to send
             elements.messageInput.addEventListener('keypress', (e) => {
