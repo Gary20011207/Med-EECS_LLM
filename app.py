@@ -420,18 +420,28 @@ def admin_delete_user(user_id):
 def register():
     if request.method == "POST":
         record_id = request.form["record_id"]
-        password = record_id
+        password = request.form["password"]
         hashed_pw = generate_password_hash(password)
         name = request.form["name"]
         attending_physician = request.form["attending_physician"]
-        hospital_stay_date = request.form["hospital_stay_date"]
         surgery_date = request.form["surgery_date"]
+        gender = request.form["gender"]
+        dob = request.form["dob"]
+        phone = request.form["phone"]
+        height = request.form["height"]
+        weight = request.form["weight"]
+        signup_blood_type = request.form["signup-blood-type"]
+        signup_allergies = request.form["signup-allergies"]
+        signup_email = request.form["signup-email"]
+        signup_surgery_type = request.form["signup-surgery-type"]
+        signup_diagnosis = request.form["signup-diagnosis"]
+        signup_comorbidities = request.form["signup-comorbidities"]
 
         conn = get_db_connection()
         try:
             conn.execute(
-                "INSERT INTO users (record_id, password, name, attending_physician, hospital_stay_date, surgery_date) VALUES (?, ?, ?, ?, ?, ?)",
-                (record_id, hashed_pw, name, attending_physician, hospital_stay_date, surgery_date)
+                "INSERT INTO users (record_id, password, name, attending_physician, surgery_date, gender, dob, phone, height, weight, signup_blood_type, signup_allergies, signup_email, signup_surgery_type, signup_diagnosis, signup_comorbidities) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+                (record_id, hashed_pw, name, attending_physician, surgery_date, gender, dob, phone, height, weight, signup_blood_type, signup_allergies, signup_email, signup_surgery_type, signup_diagnosis, signup_comorbidities)
             )
             conn.commit()
             conn.close()
@@ -726,33 +736,28 @@ if __name__ == "__main__":
         conn.execute('''
             CREATE TABLE IF NOT EXISTS users (
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
+                is_admin INTEGER DEFAULT 0,
                 record_id TEXT UNIQUE NOT NULL,
                 password TEXT NOT NULL,
-                is_admin INTEGER DEFAULT 0,
                 name TEXT,
-                dob DATE,
                 attending_physician TEXT NOT NULL,
-                hospital_stay_date DATE NOT NULL,
                 surgery_date DATE NOT NULL,
+                gender TEXT DEFAULT NULL,
+                dob DATE,
                 phone TEXT,
-                clinic_case_intake DATE DEFAULT NULL,
-                clinic_measure_height DATE DEFAULT NULL,
                 height REAL DEFAULT NULL,
-                clinic_measure_weight DATE DEFAULT NULL,
                 weight REAL DEFAULT NULL,
-                clinic_provide_preop_education_and_consent DATE DEFAULT NULL,
-                clinic_anxiety_survey_preop DATE DEFAULT NULL,
-                clinic_instruction_satisfaction_survey_preop DATE DEFAULT NULL,
+                signup_blood_type TEXT DEFAULT NULL,
+                signup_allergies TEXT DEFAULT NULL,
+                signup_email TEXT DEFAULT NULL,
+                signup_surgery_type TEXT DEFAULT NULL,
+                signup_diagnosis TEXT DEFAULT NULL,
+                signup_comorbidities TEXT DEFAULT NULL,
                 anesthesiology_preop_assessment_and_explanation DATE DEFAULT NULL,
                 nutritionist_dietary_assessment_and_guidance DATE DEFAULT NULL,
                 pharmacist_medication_guidance DATE DEFAULT NULL,
                 rehab_preop_functional_and_balance_assessment DATE DEFAULT NULL,
-                rehab_preop_exercise_guidance DATE DEFAULT NULL,
-                ward_nurse_education DATE DEFAULT NULL,
-                ward_anxiety_survey_postop DATE DEFAULT NULL,
-                ward_instruction_satisfaction_survey_postop DATE DEFAULT NULL,
-                current_expert INTEGER DEFAULT 0 NOT NULL,
-                has_completed_profile INTEGER DEFAULT 0 NOT NULL
+                rehab_preop_exercise_guidance DATE DEFAULT NULL
             )
         ''')
         # Create a table for chat history
@@ -780,8 +785,8 @@ if __name__ == "__main__":
 
         # Create an admin user
         conn.execute('''
-            INSERT INTO users (record_id, password, attending_physician, hospital_stay_date, surgery_date, is_admin) VALUES (?, ?, ?, ?, ?, ?)
-        ''', ("admin", generate_password_hash("nimda"), "nimda", "2025-05-12", "2025-05-12", 1))
+            INSERT INTO users (is_admin, record_id, password, name, attending_physician, surgery_date) VALUES (?, ?, ?, ?, ?, ?)
+        ''', (1, "admin", generate_password_hash("nimda"), "admin", "attending_physician", "2025-05-27"))
         conn.commit()
         conn.close()
         print("Database initialized.")

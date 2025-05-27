@@ -10,37 +10,6 @@
         .auth-bg {
             background: linear-gradient(180deg, #2c3e50 0%, #3498db 100%);
         }
-        .profile-image-upload {
-            width: 120px;
-            height: 120px;
-            border-radius: 50%;
-            object-fit: cover;
-            cursor: pointer;
-            transition: all 0.3s ease;
-        }
-        .profile-image-upload:hover {
-            transform: scale(1.05);
-            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-        }
-        .nav-link {
-            position: relative;
-        }
-        .nav-link::after {
-            content: '';
-            position: absolute;
-            width: 0;
-            height: 2px;
-            bottom: 0;
-            left: 0;
-            background-color: #667eea;
-            transition: width 0.3s ease;
-        }
-        .nav-link:hover::after {
-            width: 100%;
-        }
-        .active-nav::after {
-            width: 100%;
-        }
         .form-section {
             border-bottom: 1px solid #e5e7eb;
             padding-bottom: 1.5rem;
@@ -63,35 +32,35 @@
             <div id="signup-screen" class="min-h-screen flex items-center justify-center p-4 auth-bg">
                 <div class="bg-white rounded-xl shadow-2xl p-8 w-full max-w-2xl">
                     <div class="text-center mb-8">
-                        <h1 class="text-3xl font-bold text-gray-800">加入 <span class="text-indigo-600">ERAS 智慧個案管理師</span></h1>
+                        <h1 class="text-3xl font-bold text-gray-800">加入 <span class="text-indigo-600">ERAS 智慧個管師</span></h1>
                         <p class="text-gray-600 mt-2">請您和醫師一起填寫以下資料</p>
                     </div>
                     
-                    <form id="signup-form" method="post" class="space-y-6">
+                    <form method="post" class="space-y-6">
                         <div class="form-section">
                             <h2 class="form-section-title">基本資料</h2>
                             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                                 <div>
-                                    <label for="signup-name" class="block text-sm font-medium text-gray-700 mb-1">姓名</label>
-                                    <input type="text" id="signup-name" required 
+                                    <label for="name" class="block text-sm font-medium text-gray-700 mb-1">姓名</label>
+                                    <input type="text" id="name" name="name" required 
                                            class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
                                 </div>
                                 
                                 <div>
-                                    <label for="signup-id" class="block text-sm font-medium text-gray-700 mb-1">病歷號</label>
-                                    <input type="text" id="signup-id" required 
+                                    <label for="record_id" class="block text-sm font-medium text-gray-700 mb-1">病歷號</label>
+                                    <input type="text" id="record_id" name="record_id" required 
                                            class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
                                 </div>
                                 
                                 <div>
-                                    <label for="signup-birthdate" class="block text-sm font-medium text-gray-700 mb-1">出生日期</label>
-                                    <input type="date" id="signup-birthdate" required 
+                                    <label for="dob" class="block text-sm font-medium text-gray-700 mb-1">出生日期</label>
+                                    <input type="date" id="dob" name="dob" required 
                                            class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
                                 </div>
                                 
                                 <div>
-                                    <label for="signup-gender" class="block text-sm font-medium text-gray-700 mb-1">性別</label>
-                                    <select id="signup-gender" required 
+                                    <label for="gender" class="block text-sm font-medium text-gray-700 mb-1">性別</label>
+                                    <select id="gender" name="gender" required 
                                             class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
                                         <option value="">選擇性別</option>
                                         <option value="male">男性</option>
@@ -106,20 +75,20 @@
                             <h2 class="form-section-title">醫療資訊</h2>
                             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                                 <div>
-                                    <label for="signup-height" class="block text-sm font-medium text-gray-700 mb-1">身高 (cm)</label>
-                                    <input type="number" id="signup-height" 
+                                    <label for="height" class="block text-sm font-medium text-gray-700 mb-1">身高 (cm)</label>
+                                    <input type="number" id="height" name="height" required
                                            class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
                                 </div>
                                 
                                 <div>
-                                    <label for="signup-weight" class="block text-sm font-medium text-gray-700 mb-1">體重 (kg)</label>
-                                    <input type="number" id="signup-weight" 
+                                    <label for="weight" class="block text-sm font-medium text-gray-700 mb-1">體重 (kg)</label>
+                                    <input type="number" id="weight" name="weight" required
                                            class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
                                 </div>
                                 
                                 <div>
                                     <label for="signup-blood-type" class="block text-sm font-medium text-gray-700 mb-1">血型</label>
-                                    <select id="signup-blood-type" 
+                                    <select id="signup-blood-type" name="signup-blood-type" required
                                             class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
                                         <option value="">選擇血型</option>
                                         <option value="A">A型</option>
@@ -131,7 +100,7 @@
                                 
                                 <div>
                                     <label for="signup-allergies" class="block text-sm font-medium text-gray-700 mb-1">過敏史</label>
-                                    <input type="text" id="signup-allergies" 
+                                    <input type="text" id="signup-allergies" name="signup-allergies" required
                                            class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
                                 </div>
                             </div>
@@ -142,19 +111,19 @@
                             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                                 <div>
                                     <label for="signup-email" class="block text-sm font-medium text-gray-700 mb-1">電子郵件</label>
-                                    <input type="email" id="signup-email" required 
+                                    <input type="email" id="signup-email" name="signup-email" required 
                                            class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
                                 </div>
                                 
                                 <div>
-                                    <label for="signup-password" class="block text-sm font-medium text-gray-700 mb-1">密碼</label>
-                                    <input type="password" id="signup-password" required 
+                                    <label for="password" class="block text-sm font-medium text-gray-700 mb-1">密碼</label>
+                                    <input type="password" id="password" name="password" required 
                                            class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
                                 </div>
                                 
                                 <div>
-                                    <label for="signup-profession" class="block text-sm font-medium text-gray-700 mb-1">主治醫師</label>
-                                    <select id="signup-profession" required 
+                                    <label for="attending_physician" class="block text-sm font-medium text-gray-700 mb-1">主治醫師</label>
+                                    <select id="attending_physician" name="attending_physician" required 
                                             class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
                                         <option value="">選擇醫師</option>
                                         <option value="1">傅醫師</option>
@@ -167,8 +136,8 @@
                                 </div>
                                 
                                 <div>
-                                    <label for="signup-phone" class="block text-sm font-medium text-gray-700 mb-1">聯絡電話</label>
-                                    <input type="tel" id="signup-phone" 
+                                    <label for="phone" class="block text-sm font-medium text-gray-700 mb-1">聯絡電話</label>
+                                    <input type="tel" id="phone" name="phone" required
                                            class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
                                 </div>
                             </div>
@@ -179,30 +148,30 @@
                             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                                 <div>
                                     <label for="signup-surgery-type" class="block text-sm font-medium text-gray-700 mb-1">手術類型</label>
-                                    <select id="signup-surgery-type" 
+                                    <select id="signup-surgery-type" name="signup-surgery-type" required
                                             class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
                                         <option value="">選擇手術類型</option>
-                                        <option value="1">腹腔鏡手術</option>
+                                        <option value="1">脊椎融合手術</option>
                                         <option value="2">開腹手術</option>
-                                        <option value="3">機器人手術</option>
+                                        <option value="3">腹腔鏡手術</option>
                                     </select>
                                 </div>
                                 
                                 <div>
-                                    <label for="signup-surgery-date" class="block text-sm font-medium text-gray-700 mb-1">手術日期</label>
-                                    <input type="date" id="signup-surgery-date" 
+                                    <label for="surgery_date" class="block text-sm font-medium text-gray-700 mb-1">手術日期</label>
+                                    <input type="date" id="surgery_date" name="surgery_date" required
                                            class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
                                 </div>
                                 
                                 <div>
                                     <label for="signup-diagnosis" class="block text-sm font-medium text-gray-700 mb-1">診斷</label>
-                                    <input type="text" id="signup-diagnosis" 
+                                    <input type="text" id="signup-diagnosis" name="signup-diagnosis" required
                                            class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
                                 </div>
                                 
                                 <div>
                                     <label for="signup-comorbidities" class="block text-sm font-medium text-gray-700 mb-1">共病症</label>
-                                    <input type="text" id="signup-comorbidities" 
+                                    <input type="text" id="signup-comorbidities" name="signup-comorbidities" required
                                            class="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition">
                                 </div>
                             </div>
