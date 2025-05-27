@@ -15,7 +15,7 @@ from qwen_vl_utils import process_vision_info
 assert torch.cuda.is_available(), "需要 CUDA GPU 才能執行 Qwen-VL 模型"
 
 # ------------------- Model & Processor ---------------------
-MODEL_ID = "Qwen/Qwen2.5-VL-32B-Instruct"
+MODEL_ID = "Qwen/Qwen2.5-VL-7B-Instruct"
 TEMPERATURE = 0.7
 MAX_HISTORY = 10
 
