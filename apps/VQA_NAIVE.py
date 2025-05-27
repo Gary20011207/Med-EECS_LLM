@@ -3,7 +3,7 @@
 """
 Multimodal ERAS Assistant – Qwen2.5-VL Integration
 ---------------------------------------------------
-* LLM : Qwen/Qwen2.5-VL-3B-Instruct
+* LLM : Qwen/Qwen2.5-VL-7B-Instruct
 * UI  : Gradio chat with optional image upload
 """
 
