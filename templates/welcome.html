@@ -193,7 +193,7 @@
 
         .grid {
             display: grid;
-            grid-template-columns: repeat(6, 1fr);
+            grid-template-columns: repeat(4, 1fr);
             gap: 10px;
             padding: 20px;
             height: 20vh;
@@ -505,22 +505,6 @@
                 {% endif %}
                 </div>
                 -->
-                {% set total_clinic = 3 %}
-                {% set done_clinic = 0 %}
-                {% if user.clinic_provide_preop_education_and_consent %}{% set done_clinic = done_clinic + 1 %}{% endif %}
-                {% if user.clinic_anxiety_survey_preop %}{% set done_clinic = done_clinic + 1 %}{% endif %}
-                {% if user.clinic_instruction_satisfaction_survey_preop %}{% set done_clinic = done_clinic + 1 %}{% endif %}
-                {% set percent_clinic = (done_clinic / total_clinic * 100) | round(0, 'floor') %}
-                <div class="grid-item {% if done_clinic == total_clinic %}completed{% endif %}">
-                    <h3><a href="/chat">門診</a></h3>
-                    <div class="progress-dashboard">
-                        <div class="progress-label">完成進度</div>
-                        <div class="progress-bar">
-                            <div class="progress-fill" style="width: {{ percent_clinic }}%;"></div>
-                        </div>
-                        <div class="progress-text">{{ done_clinic }} / {{ total_clinic }} 項完成</div>
-                    </div>
-                </div>
 
                 {% set done_anes = 1 if user.anesthesiology_preop_assessment_and_explanation else 0 %}
                 {% set total_anes = 1 %}
@@ -577,23 +561,6 @@
                             <div class="progress-fill" style="width: {{ percent_rehab }}%;"></div>
                         </div>
                         <div class="progress-text">{{ done_rehab }} / {{ total_rehab }} 項完成</div>
-                    </div>
-                </div>
-
-                {% set total_ward = 3 %}
-                {% set done_ward = 0 %}
-                {% if user.ward_nurse_education %}{% set done_ward = done_ward + 1 %}{% endif %}
-                {% if user.ward_anxiety_survey_postop %}{% set done_ward = done_ward + 1 %}{% endif %}
-                {% if user.ward_instruction_satisfaction_survey_postop %}{% set done_ward = done_ward + 1 %}{% endif %}
-                {% set percent_ward = (done_ward / total_ward * 100) | round(0, 'floor') %}
-                <div class="grid-item {% if done_ward == total_ward %}completed{% endif %}">
-                    <h3><a href="/chat">病房</a></h3>
-                    <div class="progress-dashboard">
-                        <div class="progress-label">完成進度</div>
-                        <div class="progress-bar">
-                            <div class="progress-fill" style="width: {{ percent_ward }}%;"></div>
-                        </div>
-                        <div class="progress-text">{{ done_ward }} / {{ total_ward }} 項完成</div>
                     </div>
                 </div>
             </div>
@@ -1277,7 +1244,7 @@
                     });
                 }
             });
-            switchDepartment("門診");
+            switchDepartment("麻醉科");
         });
         async function loadTodoList() {
             try {
