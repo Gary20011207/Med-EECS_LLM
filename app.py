@@ -36,7 +36,7 @@ except ImportError as e:
 WEB_DEV = "WEB" in sys.argv
 
 if not WEB_DEV:
-    from apps.RAG_MEM import generate_reply
+    # from apps.RAG_MEM import generate_reply
     # 導入 core 模組並初始化
     try:
         from core.model_manager import ModelManager
@@ -504,12 +504,6 @@ def logout():
     session.clear()
     return redirect(url_for("login"))
 
-# Chat page (must be logged in)
-@app.route("/chat")
-def chat():
-    if "user_id" not in session:
-        return redirect(url_for("login"))
-    return render_template("chat_test_v2.html")
 
 @app.route("/")
 def welcome():
@@ -557,41 +551,6 @@ def get_pdfs():
     pdfs = [f for f in os.listdir("./PDFS") if f.endswith(".pdf")]
     pdfs = ["All PDFs"] + sorted(pdfs)
     return jsonify(pdfs)
-
-# Send a message
-@app.route("/send_message", methods=["POST"])
-def send_message():
-    if "user_id" not in session:
-        return jsonify({"reply": "Unauthorized"}), 401
-
-    data = request.json
-    user_input = data.get("message")
-    doctor_name = data.get("doctor") or "default"  # 預設值
-
-    conn = get_db_connection()
-    rows = conn.execute(
-        "SELECT sender, message FROM chat_history WHERE user_id = ? AND doctor_name = ? ORDER BY id DESC LIMIT 10",
-        (session["user_id"], doctor_name)
-    ).fetchall()
-    conn.close()
-
-    rows.reverse()  # 從舊到新
-    history = [{"role": row["sender"], "content": row["message"]} for row in rows]
-    if WEB_DEV:
-        bot_reply = chatbot_response(user_input)
-    else:
-        new_history, _ = generate_reply(user_input, "All PDFs", True, history)
-        bot_reply = new_history[-1][1]
-
-    conn = get_db_connection()
-    conn.execute("INSERT INTO chat_history (user_id, sender, message, doctor_name) VALUES (?, ?, ?, ?)", 
-                 (session["user_id"], "user", user_input, doctor_name))
-    conn.execute("INSERT INTO chat_history (user_id, sender, message, doctor_name) VALUES (?, ?, ?, ?)", 
-                 (session["user_id"], "bot", bot_reply, doctor_name))
-    conn.commit()
-    conn.close()
-
-    return jsonify({"reply": bot_reply})
 
 def chatbot_response(user_input):
      if "hello" in user_input.lower():
@@ -753,11 +712,10 @@ if __name__ == "__main__":
                 signup_surgery_type TEXT DEFAULT NULL,
                 signup_diagnosis TEXT DEFAULT NULL,
                 signup_comorbidities TEXT DEFAULT NULL,
-                anesthesiology_preop_assessment_and_explanation DATE DEFAULT NULL,
-                nutritionist_dietary_assessment_and_guidance DATE DEFAULT NULL,
-                pharmacist_medication_guidance DATE DEFAULT NULL,
-                rehab_preop_functional_and_balance_assessment DATE DEFAULT NULL,
-                rehab_preop_exercise_guidance DATE DEFAULT NULL
+                anesthesiology DATE DEFAULT NULL,
+                nutritionist DATE DEFAULT NULL,
+                pharmacist DATE DEFAULT NULL,
+                rehab DATE DEFAULT NULL
             )
         ''')
         # Create a table for chat history

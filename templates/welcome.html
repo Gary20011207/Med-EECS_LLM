@@ -196,7 +196,7 @@
             grid-template-columns: repeat(4, 1fr);
             gap: 10px;
             padding: 20px;
-            height: 20vh;
+            height: 100px;
             width: 100%;
         }
 
@@ -368,7 +368,7 @@
         }
         .progress-dashboard {
             margin-top: 10px;
-            text-align: left;
+            text-align: center;
         }
 
         .progress-label {
@@ -392,7 +392,7 @@
         }
 
         .progress-text {
-            font-size: 0.75rem;
+            font-size: 1rem;
             margin-top: 2px;
             color: var(--dark-gray);
         }
@@ -413,7 +413,6 @@
                     <span>病歷號：</span>
                     <span>{{user.record_id}}</span>
                 </div>
-                <button onclick="window.location.href='/profile'" class="btn btn-primary" style="margin-top: 1rem;">個人資料</button>
                 <button onclick="window.location.href='/logout'" class="btn btn-danger" style="margin-top: 1rem;">登出</button>
             </section>
             <section class="sidebar-section">
@@ -428,139 +427,50 @@
                 </div>
             </section>
             <section class="sidebar-section">
-                <h3>待辦清單</h3>
+                <h3>與個管師對話</h3>
                 <div class="progress-dashboard">
-                    <div class="progress-label">完成進度</div>
+                    {% set finished_tasks = 0 %}
+                    {% if anesthesiology %}{% set finished_tasks = finished_tasks + 1 %}{% endif %}
+                    {% if nutritionist %}{% set finished_tasks = finished_tasks + 1 %}{% endif %}
+                    {% if pharmacist %}{% set finished_tasks = finished_tasks + 1 %}{% endif %}
+                    {% if rehab %}{% set finished_tasks = finished_tasks + 1 %}{% endif %}
+                    {% set total_tasks = 4 %}
+                    {% set progress_percentage = (finished_tasks / total_tasks) * 100 %}
+                    <div class="progress-label">完成進度: {{ finished_tasks }}/4</div>
                     <div class="progress-bar">
-                    <div class="progress-fill" id="todo-progress-fill" style="width: 0%;"></div>
+                    <div class="progress-fill" id="todo-progress-fill" style="width: {{ progress_percentage }}%;"></div>
                     </div>
-                    <div class="progress-text" id="todo-progress-text">載入中...</div>
                 </div>
-                <ul id="todo-list" style="margin-top: 1rem;"></ul>
             </section>
         </aside>
         <div class="main-content">
 
             <div class="grid">
-                <!--
-                {% if user.clinic_provide_preop_education_and_consent == None or user.clinic_anxiety_survey_preop == None or user.clinic_instruction_satisfaction_survey_preop == None %}
-                <div class="grid-item">
-                    <h3><a href="/chat">門診</a></h3>
-                        <p>未完成</p>
-                {% else %}
-                <div class="grid-item completed">
-                    <h3><a href="/chat">門診</a></h3>
-                        <p>已於{{ user.clinic_provide_preop_education_and_consent }}完成</p>
-                {% endif %}
-                </div>
-                
-                {% if user.anesthesiology_preop_assessment_and_explanation == None %}
-                <div class="grid-item">
-                    <h3><a href="/chat">麻醉科</a></h3>
-                        <p>未完成</p>
-                {% else %}
-                <div class="grid-item completed">
-                    <h3><a href="/chat">麻醉科</a></h3>
-                        <p>已於{{ user.anesthesiology_preop_assessment_and_explanation }}完成</p>
-                {% endif %}
-                </div>
-                {% if user.nutritionist_dietary_assessment_and_guidance == None %}
-                <div class="grid-item">
-                    <h3><a href="/chat">營養科</a></h3>
-                        <p>未完成</p>
-                {% else %}
-                <div class="grid-item completed">
-                    <h3><a href="/chat">營養科</a></h3>
-                        <p>已於{{ user.nutritionist_dietary_assessment_and_guidance }}完成</p>
-                {% endif %}
-                </div>
-                {% if user.pharmacist_medication_guidance == None %}
-                <div class="grid-item">
-                    <h3><a href="/chat">藥劑科</a></h3>
-                        <p>未完成</p>
-                {% else %}
-                <div class="grid-item completed">
-                    <h3><a href="/chat">藥劑科</a></h3>
-                        <p>已於{{ user.pharmacist_medication_guidance }}完成</p>
-                {% endif %}
-                </div>
-                {% if user.rehab_preop_functional_and_balance_assessment == None or user.rehab_preop_exercise_guidance == None %}
-                <div class="grid-item">
-                    <h3><a href="/chat">復健科</a></h3>
-                        <p>未完成</p>
-                {% else %}
-                <div class="grid-item completed">
-                    <h3><a href="/chat">復健科</a></h3>
-                        <p>已於{{ user.rehab_preop_functional_and_balance_assessment }}完成</p>
-                {% endif %}
-                </div>
-                {% if user.ward_nurse_education == None or user.ward_anxiety_survey_postop == None or user.ward_instruction_satisfaction_survey_postop == None %}
-                <div class="grid-item">
-                    <h3><a href="/chat">病房</a></h3>
-                        <p>未完成</p>
-                {% else %}
-                <div class="grid-item completed">
-                    <h3><a href="/chat">病房</a></h3>
-                        <p>已於{{ user.ward_nurse_education }}完成</p>
-                {% endif %}
-                </div>
-                -->
-
-                {% set done_anes = 1 if user.anesthesiology_preop_assessment_and_explanation else 0 %}
-                {% set total_anes = 1 %}
-                {% set percent_anes = (done_anes / total_anes * 100) | round(0, 'floor') %}
-                <div class="grid-item {% if done_anes == total_anes %}completed{% endif %}">
+                <div class="grid-item {% if anesthesiology %}completed{% endif %}">
                     <h3><a href="/chat">麻醉科</a></h3>
                     <div class="progress-dashboard">
-                        <div class="progress-label">完成進度</div>
-                        <div class="progress-bar">
-                            <div class="progress-fill" style="width: {{ percent_anes }}%;"></div>
-                        </div>
-                        <div class="progress-text">{{ done_anes }} / {{ total_anes }} 項完成</div>
+                        <div class="progress-text">{% if anesthesiology %}已於{{ anesthesiology }}完成{% else %}未完成{% endif %}</div>
                     </div>
                 </div>
 
-                {% set done_nutri = 1 if user.nutritionist_dietary_assessment_and_guidance else 0 %}
-                {% set total_nutri = 1 %}
-                {% set percent_nutri = (done_nutri / total_nutri * 100) | round(0, 'floor') %}
-                <div class="grid-item {% if done_nutri == total_nutri %}completed{% endif %}">
+                <div class="grid-item {% if nutritionist %}completed{% endif %}">
                     <h3><a href="/chat">營養科</a></h3>
                     <div class="progress-dashboard">
-                        <div class="progress-label">完成進度</div>
-                        <div class="progress-bar">
-                            <div class="progress-fill" style="width: {{ percent_nutri }}%;"></div>
-                        </div>
-                        <div class="progress-text">{{ done_nutri }} / {{ total_nutri }} 項完成</div>
+                        <div class="progress-text">{% if nutritionist %}已於{{ nutritionist }}完成{% else %}未完成{% endif %}</div>
                     </div>
                 </div>
 
-                {% set done_pharm = 1 if user.pharmacist_medication_guidance else 0 %}
-                {% set total_pharm = 1 %}
-                {% set percent_pharm = (done_pharm / total_pharm * 100) | round(0, 'floor') %}
-                <div class="grid-item {% if done_pharm == total_pharm %}completed{% endif %}">
+                <div class="grid-item {% if pharmacist %}completed{% endif %}">
                     <h3><a href="/chat">藥劑科</a></h3>
                     <div class="progress-dashboard">
-                        <div class="progress-label">完成進度</div>
-                        <div class="progress-bar">
-                            <div class="progress-fill" style="width: {{ percent_pharm }}%;"></div>
-                        </div>
-                        <div class="progress-text">{{ done_pharm }} / {{ total_pharm }} 項完成</div>
+                        <div class="progress-text">{% if pharmacist %}已於{{ pharmacist }}完成{% else %}未完成{% endif %}</div>
                     </div>
                 </div>
 
-                {% set total_rehab = 2 %}
-                {% set done_rehab = 0 %}
-                {% if user.rehab_preop_functional_and_balance_assessment %}{% set done_rehab = done_rehab + 1 %}{% endif %}
-                {% if user.rehab_preop_exercise_guidance %}{% set done_rehab = done_rehab + 1 %}{% endif %}
-                {% set percent_rehab = (done_rehab / total_rehab * 100) | round(0, 'floor') %}
-                <div class="grid-item {% if done_rehab == total_rehab %}completed{% endif %}">
+                <div class="grid-item {% if rehab %}completed{% endif %}">
                     <h3><a href="/chat">復健科</a></h3>
                     <div class="progress-dashboard">
-                        <div class="progress-label">完成進度</div>
-                        <div class="progress-bar">
-                            <div class="progress-fill" style="width: {{ percent_rehab }}%;"></div>
-                        </div>
-                        <div class="progress-text">{{ done_rehab }} / {{ total_rehab }} 項完成</div>
+                        <div class="progress-text">{% if rehab %}已於{{ rehab }}完成{% else %}未完成{% endif %}</div>
                     </div>
                 </div>
             </div>
@@ -589,6 +499,9 @@
         </div>
     </div>
     <script>
+        // Make user.record_id available in JS
+        window.userRecordId = "{{user.record_id}}";
+
         // Global variables
         const elements = {
             messageInput: document.getElementById('message-input'),
@@ -621,12 +534,13 @@
         let currentSourcesDiv = null;
 
         // Utility functions
-        function generateUUID() {
-            return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+        function generateUUID(recordId = '') {
+            const uuid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
                 const r = Math.random() * 16 | 0;
                 const v = c == 'x' ? r : (r & 0x3 | 0x8);
                 return v.toString(16);
             });
+            return recordId ? `${recordId}-${uuid}` : uuid;
         }
 
         function saveToLocalStorage(key, value) {
@@ -649,9 +563,11 @@
 
         // Session management
         function initializeSession() {
+            // Get record_id from global variable
+            const recordId = window.userRecordId || '';
             currentSessionId = loadFromLocalStorage('chatSessionId');
             if (!currentSessionId) {
-                currentSessionId = generateUUID();
+                currentSessionId = generateUUID(recordId);
                 saveToLocalStorage('chatSessionId', currentSessionId);
             }
             elements.sessionIdInput.value = currentSessionId;
@@ -1146,7 +1062,7 @@
             setInterval(fetchAvailableSourceFiles, 60000);
             
             console.log('ERAS聊天界面初始化完成');
-            let currentDepartment = '門診';
+            let currentDepartment = '麻醉科';
 
         }
 
@@ -1162,13 +1078,14 @@
         // Start the application
         document.addEventListener('DOMContentLoaded', init);
 
-        let currentDepartment = '門診';
+        let currentDepartment = '麻醉科';
 
         function switchDepartment(dept) {
             currentDepartment = dept;
             let existingId = loadFromLocalStorage(`deptSessionId_${dept}`);
+            const recordId = window.userRecordId || '';
             if (!existingId) {
-                existingId = `${dept}-${generateUUID()}`;
+                existingId = `${dept}-${generateUUID(recordId)}`;
                 saveToLocalStorage(`deptSessionId_${dept}`, existingId);
             }
             currentSessionId = existingId;
@@ -1210,12 +1127,10 @@
         function renderChatHistory() {
             const history = loadChatHistory();
             const greetings = {
-                "門診": "您好！我是門診智慧專屬個管師，請問有什麼可以協助您的嗎？",
                 "麻醉科": "您好，我是麻醉科智慧專屬個管師，請問有什麼可以協助您的嗎？",
                 "營養科": "您好，我是營養科智慧專屬個管師，請問有什麼可以協助您的嗎？",
                 "藥劑科": "您好，我是藥劑科智慧專屬個管師，請問有什麼可以協助您的嗎？",
                 "復健科": "您好，我是復健科智慧專屬個管師，請問有什麼可以協助您的嗎？",
-                "病房": "您好，我是病房智慧專屬個管師，請問有什麼可以協助您的嗎？"
             };
 
             elements.chatOutput.innerHTML = `
