@@ -1,0 +1,14 @@
+﻿qa_id,question,reference_answer,resource,category,qa_type_zh
+1,ERAS 是否建議術中 lidocaine infusion 延至術後？,可延長至術後 24 小時以減慢性痛風險。,De Oliveira GS. Anesth Analg. 2012;115(2):527–533.,藥劑,通用型問答
+2,術前禁食建議為何？,清流質可於術前 2 小時內飲用，固體需禁食 6 小時。,Enhanced recovery after surgery (ERAS?) society guidelines for gynecologic oncology: Addressing implementation challenges - 2023 update,營養,術前禁食
+3,碳水化合物飲品的標準建議？,術前晚 100g，術晨 2 小時內 50g 清流質含醣。,Preoperative consumption of a carbohydrate drink before laparoscopic cholecystectomy is safe and beneficial in Korea: a non-randomized controlled study,營養,術前碳水補充
+4,ESPEN 建議營養風險病人術前多久開始介入？,7–14 天。,ESPEN practical guideline: Clinical nutrition in surgery,營養,術前營養支持
+5,術後多久可進食？,4 小時內鼓勵清流質、軟質食物。,The effect of early oral postoperative feeding on the recovery of intestinal motility after gastrointestinal surgery: a systematic review and meta-analysis of randomized clinical trials,營養,通用型問答
+6,營養支持何時需由腸道轉為靜脈補充？,"若病人持續 >3 天無法經腸道進食，應考慮靜脈營養。
+解釋：腸道為優先，TPN 僅在腸功能不全或腸阻塞時考慮。","Singer P, et al. Clin Nutr. 2019;38(1):48–79.",營養,術前營養支持
+7,術後高蛋白攝取的建議量為何？,"1.2–2.0 g/kg/day。
+解釋：足夠蛋白質能促進傷口癒合與免疫功能。","Weimann A, et al. Clin Nutr. 2017;36(3):623–650.",營養,通用型問答
+8,術後多久內達成營養目標最理想？,"48–72 小時內達 80% 熱量與蛋白目標。
+解釋：可減少負氮平衡與功能衰退。",ESPEN Guidelines. Clin Nutr. 2006;25(2):224–244.,營養,通用型問答
+9,術後灌食速度的起始建議？,"每小時 10–30 mL 起始，逐日調整。
+解釋：緩慢提升可降低不耐與胃瀦留風險。",ESPEN Guidelines. Clin Nutr. 2006;25(2):224–244.,營養,通用型問答
