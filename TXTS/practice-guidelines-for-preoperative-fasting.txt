@@ -1,0 +1,4446 @@
+<zdoi;10.1097/ALN.0000000000001452>
+Anesthesiology,V 126 Ł No 3
+ 
+376
+ 
+March 2017
+P
+RACTICE
+ guidelines are systematically developed 
+recommendations that assist the practitioner and 
+patient in making decisions about health care. ˜ese recom
+-
+mendations may be adopted, modi˚ed, or rejected accord
+-
+ing to clinical needs and constraints, and are not intended 
+
+to replace local institutional policies. In addition, practice 
+
+guidelines developed by the American Society of Anesthe
+-
+
+siologists (ASA) are not intended as standards or absolute 
+
+requirements, and their use cannot guarantee any speci˚c 
+outcome. Practice guidelines are subject to revision as war
+-
+ranted by the evolution of medical knowledge, technology, 
+
+and practice. ˜ey provide basic recommendations that are 
+
+supported by a synthesis and analysis of the current litera
+-
+
+ture, exper t and practitioner opinion, open for um commen
+-
+
+tar y, and clinical feasibility data.
+˜is document updates the ﬁPractice Guidelines for  
+Preoperative Fasting and the Use of Pharmacologic Agents  
+
+to Reduce the Risk of Pulmonar y Aspiration: An Updated  
+Repor tﬂ adopted by the ASA in 2010 and published in 2011.
+ƒ
+Methodology
+De˜nition of Preoperative Fasting and Pulmonary 
+Aspiration
+
+For these guidelines, 
+preoperative fasting
+ is de˚ned as a pre
+-
+
+scribed period of time before a procedure when patients are 
+
+not allowed the oral intake of liquids or solids. 
+Perioperative 
+pulmonary aspiration
+ is de˚ned as aspiration of gastric con
+-
+
+tents occurring after induction of anesthesia, during a proce
+-
+
+dure, or in the immediate postoperative period. ˜roughout 
+these guidelines, the term ﬁpreoperativeﬂ should be consid
+-
+ered synonymous with ﬁpreprocedural,ﬂ as the latter term is 
+often used to describe procedures that are not considered to 
+be operations. Anesthesia care during procedures refers to 
+
+general anesthesia, regional anesthesia, or procedural seda
+-
+
+tion and analgesia.
+Purposes of the Guidelines
+˜e purposes of these guidelines are to provide direction for 
+
+clinical practice related to preoperative fasting and the use of 
+
+pharmacologic agents to reduce the risk of pulmonary aspi
+-
+ration and to reduce the severity of complications related 
+to perioperative pulmonar y aspiration. Clinical practice 
+includes, but is not limited to, withholding of liquids and 
+solids for speci˚ed time periods before surger y and prescrib
+-
+ing pharmacologic agents to reduce gastric volume and acid
+-
+
+ity. Enhancements in the quality and e˛ciency of anesthesia 
+
+care include, but are not limited to, the utilization of peri
+-
+
+operative preventive medication, increased patient satisfac
+-
+
+tion, avoidance of delays and cancellations, decreased risk of 
+
+dehydration or hypoglycemia from prolonged fasting, and 
+
+the minimization of perioperative morbidity. Complications 
+
+of aspiration include, but are not limited to, aspiration pneu
+-
+
+monia, respiratory compromise, and related morbidities.
+Focus
+Prevention of perioperative pulmonary aspiration is par t of  
+
+the process of preoperative evaluation and preparation of the  
+
+patient. ˜e guidelines speci˚cally focus on preoperative fast
+-
+
+ing recommendations, as well as recommendations regarding 
+This article is featured in ﬁThis Month in Anesthesiology,ﬂ page 1A. Supplemental digital content is available for this article. Direc t URL 
+citations appear in the printed tex t and are available in both the HTML and PDF versions of this ar ticle. Links to the digital ˜les are provided 
+in the HTML tex t of this ar ticle on the Jour nal™s Web site (www.anesthesiology.org.). A complete bibliography used to develop these updated 
+
+guidelines, arr anged alphabetically by author, is available as Supplemental Digital Content 1, http://links.lww.com/ALN/B340.
+Submitted for publication Oc tober 26, 2016. Accepted for publication Oc tober 26, 2016. Approved by the ASA House of Delegates on 
+Oc tober 26, 2016.
+Practice Guidelines for Preoperative Fasting and the 
+Use of Pharmacologic Agents to Reduce the Risk of 
+
+Pulmonary Aspiration: Application to Healthy Patients 
+
+Undergoing Elective Procedures
+An Updated Report by the American Society of Anesthesiologists  
+Task Force on Pr eoperative Fasting and the Use of Phar macologic  
+Agents to Reduce the Risk of Pulmonar y Aspiration*
+Copyr ight © 2017, the Amer ican Society of Anesthesiologists, Inc. Wolter s Kluwer Health, Inc. All Rights Reser ved.
+ Anesthesiology 2017;
+ 126:376Œ93
+* Updated by the American Society of Anesthesiologists Committee on Standards and Pr ac tice Par ameters: Jef frey L. Apfelbaum, M.D. 
+(Chair), Chicago, Illinois; Madhulika Agarkar, M.P.H., Schaumburg, Illinois; Richard T. Connis, Ph.D., Woodinville, Washing ton; Charles J. 
+Coté, M.D., Boston, Massachusetts; David G. Nickinovich, Ph.D., Bellevue, Washington; and Mark A. War ner, M.D., Rochester, Minnesota.
+ƒ American Society of Anesthesiologists: Pr ac tice guidelines for preoper ative fasting and the use of pharmacologic agents to reduce the 
+risk of pulmonary aspiration: An updated report. A
+NESTHESIOLOGY
+ 2011; 
+114:495Œ511
+PRACTICE PARAMETERS
+Anesthesiology 2017; 126:376-93
+ 
+377
+ 
+Pr ac tice Guidelines
+the administration of pharmacologic agents to modify the  
+volume and acidity of gastric contents during procedures in  
+which upper airway protective re˝exes may be impaired.
+Air way management techniques that are intended to  
+reduce the occurrence of pulmonar y aspiration are not the  
+focus of these guidelines. For example, a rapid-sequence  
+induction/endotracheal intubation technique or awake endo
+-
+tracheal intubation technique may be useful to prevent this  
+problem during the delivery of anesthesia care. ˜e guide
+-
+
+lines do not address the selection of anesthetic technique, nor 
+do they address enhanced recover y protocols not designed to  
+
+reduce the perioperative risk of pulmonar y aspiration.
+˜e intended patient population is limited to healthy 
+patients of all ages undergoing elective procedures. ˜e 
+guidelines do not apply to patients who undergo procedures 
+
+with no anesthesia or only local anesthesia when upper air
+-
+way protective re˝exes are not impaired and when no risk 
+factors for pulmonary aspiration are apparent.
+˜e guidelines may not apply to or may need to be modi
+-
+˚ed for patients with coexisting diseases or conditions that can  
+
+a˙ect gastric emptying or ˝uid volume (
+e.g.,
+ pregnancy, obesity,  
+
+diabetes, hiatal hernia, gastroesophageal re˝ux disease, ileus or  
+bowel obstr uction, emergency care, or enteral tube feeding)  
+and patients in whom air way management might be di˛
+-
+cult. Anesthesiologists and other anesthesia providers should  
+recognize that these conditions can increase the likelihood of  
+regurgitation and pulmonar y aspiration, and that additional or  
+alternative preventive strategies may be appropriate.
+Application
+˜ese guidelines are intended for use by anesthesiologists and 
+other anesthesia providers. ˜ey also may ser ve as a resource 
+for other health care professionals who advise or care for 
+patients who receive anesthesia care during procedures.
+Task Force Members and Consultants
+In 2015, the ASA Committee on Standards and Practice 
+Parameters requested that the updated guidelines published 
+
+in 2011 be re-evaluated. ˜is current update consists of a 
+literature evaluation and an update of the evidence-based 
+
+guideline nomenclature. A summary of recommendations is 
+found in appendix 1 (
+table 1
+).
+˜e previous update was developed by an ASA-appointed 
+Task Force of ten members, including anesthesiologists in  
+both private and academic practice from various geographic  
+areas of the United States and consulting methodologists from 
+
+the ASA Committee on Standards and Practice Parameters.
+˜e original guidelines and the previous update in 2011 
+was developed by means of a seven-step process. First, the 
+Task Force reached consensus on the criteria for evidence. 
+Second, original published research studies from peer-
+revie wed journals relevant to preoperative fasting and pulmo
+-
+nar y aspiration were revie wed and evaluated. ˜ird, expert 
+consultants were asked to: (1) par ticipate in opinion surveys 
+on the e˙ectiveness of various preoperative fasting strategies 
+and pharmacologic agents and (2) review and comment on a 
+draft of the guidelines developed by the Task Force. Fourth, 
+
+opinions about the guideline recommendations were solic
+-
+
+ited from a random sample of active members of the ASA. 
+
+Fifth, the Task Force held an open for um at a major national 
+
+meeting
+⁄
+ to solicit input on its draft recommendations. 
+Sixth, the consultants were sur veyed to assess their opinions 
+
+on the feasibility of implementing the updated guidelines. 
+
+Seventh, all available information was used to build consen
+-
+
+sus within the Task Force to ˚nalize the updated guidelines.
+Availability and Strength of Evidence
+Preparation of these guidelines followed a rigorous methodologi
+-
+
+cal process. Evidence was obtained from two principal sources:  
+
+scienti˚c evidence and opinion-based evidence (appendix 2).
+Scienti˜c Evidence.
+ Scienti˚c evidence used in the devel
+-
+opment of these updated guidelines is based on cumulative  
+
+˚ndings from literature published in peer-revie wed journals.  
+
+Literature citations are obtained from healthcare databases,  
+
+direct internet searches, Task Force members, liaisons with  
+
+other organizations, and from manual searches of references  
+located in revie wed ar ticles.
+Findings from the aggregated literature are repor ted in 
+the text of the guidelines by evidence categor y, level, and 
+
+direction and in appendix 2 (
+table 2
+). Evidence categories 
+refer speci˚cally to the strength and quality of the 
+research 
+
+design
+ of the studies. Categor y A evidence represents results 
+
+obtained from randomized controlled trials (RCTs) and Cat
+-
+
+egor y B evidence represents obser vational results obtained 
+
+from nonrandomized study designs or RCTs without per
+-
+
+tinent comparison groups. When available, Category A evi
+-
+
+dence is given precedence over Category B evidence for any 
+
+par ticular outcome. ˜ese evidence categories are fur ther 
+
+divided into evidence levels. Evidence levels refer speci˚cally 
+
+to the strength and quality of the summarized study 
+˜nd
+-
+ings
+ (
+i.e.,
+ statistical ˚ndings, type of data, and the number of 
+
+studies repor ting/replicating the ˚ndings). In this document, 
+
+only the highest level of evidence is included in the summary 
+
+report for each inter vention-outcome pair, including a direc
+-
+
+tional designation of bene˚t, harm, or equivocality.
+Category A.
+ RCTs report comparative ˚ndings between 
+clinical inter ventions for speci˚ed outcomes. Statistically 
+
+signi˚cant (
+P 
+< 0.01) outcomes are designated as either ben
+-
+e˚cial (B) or harmful (H) for the patient; statistically nonsig
+-
+ni˚cant ˚ndings are designated as equivocal (E).
+Level 1:
+  
+˜e literature contains a su˛cient number of 
+RCTs to conduct meta-analysis,
+§
+ and meta-
+analytic ˚ndings from these aggregated stud
+-
+
+ies are repor ted as evidence.
+⁄ Society for Ambulator y Anesthesia 12
+th
+ Annual Meeting, Orlando, 
+Florida, 1997.
+§ All meta-analyses are conducted by the ASA methodology group. 
+Meta-analyses from other sources are reviewed but not included as 
+
+evidence in this document.
+Anesthesiology 2017; 126:376-93
+ 
+378
+ 
+Pr ac tice Guidelines
+Level 2:
+  
+˜e literature contains multiple RCTs, but  
+the number of RCTs is not su˛cient to con
+-
+
+duct a viable meta-analysis for the purpose of  
+these updated guidelines. Findings from these  
+RCTs are reported separately as evidence.
+Level3:
+  
+˜e literature contains a single RCT and 
+˚ndings are repor ted as evidence.
+Category B.
+ Observational studies or RCTs without per
+-
+tinent comparison groups may permit 
+inference
+ of bene˚cial 
+or harmful relationships among clinical interventions and 
+
+clinical outcomes. Inferred ˚ndings are given a directional 
+
+designation of bene˚cial (B), harmful (H), or equivocal (E). 
+
+For studies that report statistical ˚ndings, the threshold for 
+signi˚cance is 
+P 
+< 0.01.
+Level1:
+  
+˜e literature contains obser vational compari
+-
+sons (
+e.g.,
+ cohor t, case-control research designs)  
+
+with comparative statistics between clinical  
+
+inter ventions for a speci˚ed clinical outcome.
+Level2:
+  
+˜e literature contains noncomparative 
+
+obser vational studies with associative statis
+-
+
+tics (
+e.g.,
+ relative risk, correlation, sensitivity 
+
+and speci˚city).
+Level3:
+  
+˜e literature contains noncomparative 
+obser vational studies with descriptive statis
+-
+tics (
+e.g.,
+ frequencies, percentages).
+Level 4:
+  
+˜e literature contains case repor ts.
+Insu˚cient Literature.
+ ˜e 
+lack
+ of su˛cient scienti˚c evi
+-
+dence in the literature may occur when the evidence is either 
+unavailable (
+i.e.,
+ no per tinent studies found) or inadequate. 
+
+Inadequate literature cannot be used to assess relationships 
+
+among clinical inter ventions and outcomes because a clear 
+
+interpretation of ˚ndings is not obtained due to method
+-
+
+ological concerns (
+e.g.,
+ confounding of study design or 
+implementation) or the study does not meet the criteria for 
+content as de˚ned in the ﬁFocusﬂ of the guidelines.
+Opinion-based Evidence.
+ All opinion-based evidence (
+e.g.,
+ 
+sur vey data, open for um testimony, internet-based comments, 
+
+letters, and editorials) relevant to each topic was considered in  
+
+the development of these updated guidelines. However, only  
+
+the ˚ndings obtained from formal sur veys are repor ted in the  
+
+current update.
+Opinion surveys were developed by the Task Force to 
+address each clinical intervention identi˚ed in the docu
+-
+
+ment. Identical surveys were distributed to expert consul
+-
+tants and a random sample of ASA members.
+Category A: Expert Opinion.
+ Survey responses from Task 
+ForceŒappointed exper t consultants are reported in sum
+-
+mar y form in the text, with a complete listing of consultant 
+
+sur vey responses reported in appendix 2 (
+table 3
+).
+Category B: Membership Opinion.
+ Sur vey responses from 
+active ASA members are reported in summar y form in the 
+
+text, with a complete listing of ASA member sur vey responses 
+
+reported in appendix 2 (
+table 4
+).
+Sur vey responses from exper t and membership sources 
+are recorded using a 5-point scale and summarized based on 
+median values.
+**
+Strongly Agree:
+ Median score of 5 (at least 50% of the 
+responses are 5)
+Agree:
+ Median score of 4 (at least 50% of the responses 
+
+are 4 or 4 and 5)
+Equivocal:
+ Median score of 3 (at least 50% of the 
+
+responses are 3, or no other response category or com
+-
+bination of similar categories contain at least 50% of 
+the responses)
+Disagree:
+ Median score of 2 (at least 50% of responses 
+
+are 2 or 1 and 2)
+Strongly Disagree:
+ Median score of 1 (at least 50% of 
+responses are 1)
+Category C: Informal Opinion.
+ Open forum testimony 
+obtained during development of these guidelines, Internet-
+based comments, letters, and editorials are all informally 
+evaluated and discussed during the formulation of guideline 
+recommendations. When warranted, the Task Force may 
+add educational information or cautionary notes based on 
+
+this information.
+Guidelines
+Preoperative Assessment
+
+A preoperative assessment includes a revie w of medical 
+records, a physical examination, and a patient sur vey or 
+inter view. No controlled trials were found that address the 
+impact of conducting a revie w of medical records, physi
+-
+cal examination, or sur vey/intervie w on the frequency or 
+severity of perioperative pulmonary aspiration of gastric 
+contents. Observational studies indicate that some predis
+-
+posing patient conditions (
+e.g.,
+ age, sex, ASA physical status, 
+emergency surger y) may be associated with the risk of peri
+-
+
+operative aspiration 
+(Category B2-H evidence).
+1Œ5
+ Observa
+-
+tional studies addressing other predisposing conditions (
+e.g.,
+ 
+
+obesity, diabetes, esophageal re˝ux, smoking history) report 
+
+inconsistent ˚ndings regarding risk of aspiration 
+(Category 
+B1-E evidence)
+.
+6Œ11
+˜e consultants and ASA members strongly agree that 
+a revie w of per tinent medical records, a physical examina
+-
+tion, and patient survey or inter view should be per formed as 
+par t of the preoperative evaluation. ˜ey also strongly agree 
+that patients should be informed of fasting requirements and 
+
+the reasons for them su˛ciently in advance of their proce
+-
+dures. In addition, both the consultants and ASA members 
+strongly agree that veri˚cation of their compliance with the 
+fasting requirements should be assessed at the time of the 
+
+procedure.
+** When an equal number of categorically distinct responses are 
+obtained, the median value is determined by calculating the arith
+-
+
+metic mean of the two middle values. Ties are calculated by a 
+
+predeter mined for mula.
+Anesthesiology 2017; 126:376-93
+ 
+379
+ 
+Pr ac tice Guidelines
+Recommendations for Preoperative Assessment
+Ł
+  
+Per form a revie w of pertinent medical records, a physical 
+examination, and patient sur vey or intervie w as par t of the 
+preoperative evaluation.
+º
+  
+˜e histor y, examination, and intervie w should include 
+
+assessment of ASA physical status, age, sex, type of sur
+-
+
+ger y, and potential for di˛cult airway management 
+as well as consideration of gastroesophageal re˝ux 
+
+disease,
+ƒƒ
+ dysphagia symptoms, other gastrointestinal 
+motility and metabolic disorders (
+e.g.,
+ diabetes melli
+-
+
+tus) that may increase the risk of regurgitation and pul
+-
+monary aspiration.
+Ł
+  
+Inform patients of fasting requirements and the reasons for 
+
+them su˛ciently in advance of their procedures.
+Ł
+  
+Verify patient compliance with fasting requirements at the 
+time of their procedure.
+Ł
+  
+When these fasting guidelines are not followed, compare 
+the risks and bene˚ts of proceeding, with consideration 
+
+given to the amount and type of liquids or solids ingested.
+Preoperative Fasting of Clear Liquids.
+ Meta-analysis of RCTs  
+
+comparing fasting times of 2 to 4 h 
+versus
+ more than 4 h repor t  
+equivocal ˚ndings for gastric volume and gastric pH values in 
+adult patients
+ given clear liquids 2 to 4 h before a procedure  
+(Categor y A1-E evidence)
+.
+12Œ21
+ RCTs repor ted less thirst and  
+hunger for fasting times of 2 to 4 h 
+versus
+ more than 4 h 
+(Cat
+-
+
+egor y A2-B evidence)
+.
+12,13,19,22Œ24
+ Similarly, RCTs comparing  
+nutritional or carbohydrate drinks at 2 to 4 h 
+versus
+ more than  
+
+4 h of fasting report equivocal ˚ndings for gastric volume,  
+gastric pH, blood glucose values, hunger, and thirst 
+(Categor y  
+
+A2-E evidence)
+.
+15,21,24Œ32
+ A meta-analysis of RCTs reports a  
+lower risk of aspiration (
+i.e.,
+ gastric volume < 25
+ 
+mL and  
+ 
+pH > 2.5) when clear liquids are given 2 to 4 h before a pro
+-
+
+cedure 
+(Categor y A1-B evidence)
+.
+12,13,16,17,19,20
+Meta-analysis of RCTs repor t higher gastric pH values 
+(Cat
+-
+egory A1-B evidence)
+ and equivocal ˚ndings regarding di˙er
+-
+
+ences in gastric volume 
+(Category A1-E evidence)
+ for 
+children
+ 
+
+given clear liquids 2 to 4 h 
+versus
+ fasting for more than 4 h  
+before a procedure.
+33Œ42
+ Ingested volumes of clear liquids in the 
+above studies range from 100
+ 
+ml to unrestricted amounts for  
+adults, and 2
+ 
+ml/kg to unrestricted amounts for children. One  
+randomized controlled trial comparing 2 h fasting with fasting  
+from midnight repor ted equivocal ˚ndings for blood glucose  
+and insulin values 
+(Categor y A3-E evidence).
+43
+Both the consultants and ASA members strongly agree 
+that for other wise healthy infants (< 2 yr of age), children 
+
+(2 to 16 yr of age) and adults, fasting from the intake of 
+clear liquids for 2 or more hours before elective procedures 
+requiring general anesthesia, regional anesthesia, or proce
+-
+dural sedation and analgesia should be maintained.
+Recommendations for Clear Liquids
+Ł
+  
+Clear liquids
+⁄⁄
+ may be ingested for up to 2 h before proce
+-
+dures requiring general anesthesia, regional anesthesia, or  
+procedural sedation and analgesia.
+º
+ 
+˜ese liquids should not include alcohol.
+Preoperative Fasting of Breast Milk.
+ ˜e literature is insuf
+-
+˚cient to evaluate the e˙ect of timing of the ingestion of 
+
+breast milk and the perioperative incidence of pulmonar y 
+aspiration, gastric volume, pH, or emesis/re˝ux. Nonran
+-
+domized comparative studies assessing the impact of ingest
+-
+ing breast milk before a procedure are equivocal for gastric 
+volume or pH when compared with the ingestion or clear 
+liquids or infant formula 
+(Category B1-E evidence)
+.
+44Œ46
+˜e consultants agree and the ASA members strongly 
+agree that for other wise healthy neonates (< 44 gestational 
+
+weeks) and infants, fasting from the intake of breast milk for 
+
+4 or more hours before elective procedures requiring general 
+
+anesthesia, regional anesthesia, or procedural sedation and 
+analgesia should be maintained.
+Recommendations for Breast Milk
+
+Ł
+  
+Breast milk may be ingested for up to 4 h before elective 
+procedures requiring general anesthesia, regional anesthe
+-
+
+sia, or procedural sedation and analgesia.
+Preoperative Fasting of Infant Formula.
+ ˜e literature is 
+insu˛cient to evaluate the e˙ect of timing of the ingestion of 
+infant formula on the perioperative incidence of pulmonary 
+
+aspiration, gastric volume, pH or emesis/re˝ux.
+Both the consultants and ASA members agree that for neo
+-
+nates and infants, fasting from the intake of infant formula for  
+6 or more hours before elective procedures requiring general  
+anesthesia, regional anesthesia, or procedural sedation and  
+
+analgesia should be maintained. ˜e consultants agree and the  
+
+ASA members strongly agree that for children, fasting from  
+
+the intake of infant formula for 6 or more hours before elective  
+
+procedures requiring general anesthesia, regional anesthesia,  
+
+or procedural sedation and analgesia should be maintained.
+Recommendations for Infant Formula
+Ł
+  
+Infant formula may be ingested for up to 6 h before elective  
+procedures requiring general anesthesia, regional anesthesia,  
+
+or procedural sedation and analgesia.
+Preoperative Fasting of Solids and Nonhuman Milk.
+ An RCT 
+
+comparing a light breakfast consumed less than 4 h before  
+a procedure with overnight fasting repor ts equivocal ˚ndings  
+for gastric volume and pH levels for adults 
+(Categor y A3-E  
+evidence)
+.
+47
+ A second RCT repor ts equivocal ˚ndings when  
+a light breakfast is allowed at 4 h compared with 6 h before a  
+cesarean section 
+(Category A3-E evidence),
+ although a signi˚
+-
+cant reduction in maternal and neonatal blood glucose levels  
+ƒƒ The ter m ﬁgastroesophageal re˚ux diseaseﬂ refers to positional 
+re˚ux and its consequent symptomology, r ather than food intoler
+-
+ances (
+e.g.,
+ﬁtomatoes do not agree with meﬂ).
+⁄⁄ Examples of clear liquids include, but are not limited to, water, 
+
+and fr uit juices without pulp, carbonated bever ages, carbohydr ate-
+
+rich nutritional drinks, clear tea, and black coffee.
+Anesthesiology 2017; 126:376-93
+ 
+380
+ 
+Pr ac tice Guidelines
+was reported when fasting was extended beyond 6 h 
+(Categor y  
+A3-H evidence)
+.
+48
+ Nonrandomized comparative studies for  
+children given nonhuman milk 4 h or less before a procedure  
+versu
+s children fasted for more than 4 h report equivocal ˚nd
+-
+ings for gastric volume and pH 
+(Categor y B1-E evidence).
+49Œ51
+ 
+One nonrandomized study indicated that fasting for more  
+than 8 h may be associated with signi˚cantly lower blood glu
+-
+cose levels 
+(Categor y B1-H evidence)
+.
+51
+ ˜e literature is insuf
+-
+˚cient to evaluate the e˙ect of the timing of ingestion of solids  
+and nonhuman milk and the perioperative incidence of pul
+-
+monary aspiration or emesis/re˝ux. Although the literature is 
+
+insu˛cient to evaluate the in˝uence of 
+preoperatively
+ adding  
+milk or milk products to clear liquids (
+e.g.,
+ tea or co˙ee) on  
+either pulmonary aspiration, gastric volume, pH, or gastric  
+emptying, some studies with healthy volunteer subjects have  
+reported equivocal ˚ndings for gastric volume and gastric 
+emptying when these products are added to clear liquids.
+52Œ54
+˜e consultants agree and the ASA members strongly 
+agree that fasting from the intake of a light meal (
+e.g
+., toast 
+
+and a clear liquid) of 6 or more hours before elective pro
+-
+cedures requiring general anesthesia, regional anesthesia, or 
+
+procedural sedation and analgesia should be maintained. 
+Both the consultants and ASA members strongly agree that 
+fasting from the intake of a meal that includes fried or fatty 
+foods for 8 or more hours before elective procedures requir
+-
+ing general anesthesia, regional anesthesia, or procedural 
+sedation and analgesia should be maintained.
+Both the consultants and ASA members agree that for 
+infants, fasting from the intake of nonhuman milk for 6 
+
+or more hours before elective procedures requiring gen
+-
+eral anesthesia, regional anesthesia, or procedural sedation 
+and analgesia should be maintained. ˜e consultants agree 
+and the ASA members strongly agree that for children and 
+
+adults, fasting from the intake of nonhuman milk for 6 or 
+more hours before elective procedures requiring general 
+anesthesia, regional anesthesia, or procedural sedation and 
+analgesia should be maintained.
+Recommendations for Solids and Nonhuman Milk
+
+Ł
+  
+A light meal or nonhuman milk may be ingested for up to 
+6 h before elective procedures requiring general anesthesia, 
+regional anesthesia, or procedural sedation and analgesia.
+§
+§
+º
+  
+Additional fasting time (
+e.g.,
+ 8 or more hours) may be 
+
+needed in cases of patient intake of fried foods, fatty 
+foods, or meat.
+Ł
+  
+Consider both the amount and type of foods ingested 
+when determining an appropriate fasting period.
+Ł
+  
+Since nonhuman milk is similar to solids in gastric empty
+-
+
+ing time, consider the amount ingested when determining 
+an appropriate fasting period.
+Preoperative Gastrointestinal Stimulants.
+ Meta-analysis of 
+placebo-controlled RCTs indicate that metoclopramide is 
+e˙ective in reducing gastric volume and pH during the peri
+-
+operative period 
+(Category A1-B evidence)
+.
+55Œ60
+ ˜e literature 
+is insu˛cient to evaluate the e˙ect of metoclopramide on 
+
+the perioperative incidence of pulmonary aspiration.
+***
+Both the consultants and ASA members disagree that 
+gastrointestinal stimulants should be routinely adminis
+-
+
+tered before elective procedures requiring general anesthe
+-
+sia, regional anesthesia, or procedural sedation and analgesia 
+in patients with no apparent increased risk for pulmonary 
+
+aspiration.
+Recommendations for Gastrointestinal Stimulants
+
+Ł
+ 
+Gastrointestinal stimulants may be preoperatively 
+administered to patients at increased risk of pulmonary 
+
+aspiration.
+Ł
+  
+Do not routinely administer preoperative gastrointestinal 
+
+stimulants for the purpose of reducing the risk of pulmo
+-
+nar y aspiration in patients with no apparent increased risk 
+for pulmonary aspiration.
+Preoperative Pharmacologic Blockade of Gastric Acid 
+
+Secretion.
+ 
+Histamine-2 receptor antagonists:
+ Meta-analysis of  
+blinded placebo-controlled RCTs indicate that orally-admin
+-
+
+istered ranitidine is e˙ective in reducing gastric volume and  
+acidity; the frequency of gastric volume > 25
+ 
+mL; the frequency  
+of gastric pH levels < 2.5; and the risk of aspiration (
+i.e.,
+ gas
+-
+tric volume > 25
+ 
+mL and pH < 2.5) during the perioperative  
+period 
+(Categor y A1-B evidence).
+56,61Œ70
+ 
+ 
+Placebo-controlled  
+RCTs of 
+intravenous
+ ranitidine report similar results for gas
+-
+tric pH 
+(Categor y A2-B evidence)
+ and equivocal ˚ndings for 
+gastric volume 
+(Category A2-E evidence)
+.
+66,71Œ74
+Meta-analysis of placebo-controlled RCTs indicate that 
+orally-administered cimetidine is e˙ective in reducing gas
+-
+tric volume and acidity; the frequency of gastric volume > 
+25
+ 
+mL; the frequency of gastric pH levels < 2.5; and the 
+risk of aspiration (
+i.e.,
+ gastric volume > 25
+ 
+mL and pH < 
+2.5) during the perioperative period 
+(Category A1-B evi
+-
+dence).
+58,59,66,75Œ87
+ Placebo-controlled RCTs of 
+intravenous
+ 
+cimetidine repor t similar results for gastric pH 
+(Categor y 
+
+A2-B evidence)
+, but equivocal ˚ndings for gastric volume 
+(Category A2-E evidence)
+.
+60,66,71,78,88
+Placebo-controlled RCTs indicate that orally-administered 
+famotidine is e˙ective in reducing gastric volume and acid
+-
+ity during the perioperative period 
+(Category A2-B evi
+-
+dence)
+.
+64,89Œ91
+ One placebo-controlled RCT repor ts similar 
+˚ndings for intramuscular famotidine 
+(Categor y A3-B evi
+-
+
+dence)
+.
+92
+ ˜e literature is insu˛cient to evaluate the e˙ect of 
+administering histamine-2 receptor antagonists on periop
+-
+erative pulmonar y aspiration or emesis/re˝ux.
+§§ The Task Force notes that intake of fried or fatty foods or meat 
+may prolong gastric emptying time.
+*** Evidentiary infor mation and recommendations regarding the 
+
+administr ation of preoperative gastrointestinal stimulants and post
+-
+
+oper ative nausea and vomiting ˜ndings may be found in: Pr ac tice 
+
+guidelines for postanesthetic care: An updated report by the Ameri
+-
+
+can Society of Anesthesiologists Task Force on Postanesthetic Care. 
+
+A
+NESTHESIOLOGY
+ 2013; 118:291Œ307.
+Anesthesiology 2017; 126:376-93
+ 
+381
+ 
+Pr ac tice Guidelines
+Proton pump inhibitors:
+ Meta-analysis of placebo-con
+-
+trolled RCTs indicate that omeprazole is e˙ective in reducing 
+gastric volume and acidity 
+(Categor y A1-B evidence).
+63,67,93Œ95
+ 
+RCTs repor t similar ˚ndings for lansoprazole 
+(Categor y 
+
+A2-B evidence),
+67,68,96,97
+ pantoprazole 
+(Category A2-B evi
+-
+dence),
+63,73,98
+ and rabeprazole 
+(Categor y A3-B evidence)
+.
+68
+ 
+˜e literature is insu˛cient to evaluate the e˙ect of admin
+-
+istering proton pump inhibitors on perioperative pulmonary 
+aspiration or emesis/re˝ux.
+Both the consultants and ASA members disagree that  
+ 
+histamine-2 receptor antagonists should be routinely admin
+-
+istered before elective procedures requiring general anesthesia,  
+regional anesthesia, or procedural sedation and analgesia in  
+patients with no apparent increased risk for pulmonar y aspi
+-
+
+ration. ASA members disagree and the consultants strongly  
+disagree that proton pump inhibitors should be routinely  
+administered before elective procedures requiring general anes
+-
+
+thesia, regional anesthesia, or procedural sedation and analge
+-
+
+sia in patients with no apparent increased risk for pulmonar y  
+aspiration
+Recommendations for Pharmacologic Blockade of Gastric 
+Acid Secretion
+Ł
+  
+Medications that block gastric acid secretion may be pre
+-
+operatively administered to patients at increased risk of 
+pulmonary aspiration.
+Ł
+  
+Do not routinely administer preoperative medications that  
+block gastric acid secretion for the purpose of reducing the  
+risk of pulmonary aspiration in patients with no apparent  
+increased risk for pulmonar y aspiration.
+Preoperative Antacids.
+ Placebo-controlled RCTs indicate 
+
+that preoperative antacids (
+e.g.,
+ sodium citrate or magne
+-
+sium trisilicate) increase gastric pH during the perioperative 
+period
+57,79,99Œ101
+ 
+(Category A2-B evidence)
+, with inconsistent 
+(
+i.e.,
+ equivocal) ˚ndings regarding gastric volume 
+(Category 
+
+A2-E evidence)
+.
+57,79,99Œ101
+ ˜e literature is insu˛cient to 
+examine the e˙ect of administering preoperative antacids on 
+
+aspiration or emesis/re˝ux.
+˜e consultants and ASA members both disagree that 
+preoperative antacids should be routinely administered 
+
+before elective procedures requiring general anesthesia, 
+
+regional anesthesia, or procedural sedation and analgesia 
+in patients with no apparent increased risk for pulmonar y 
+aspiration. ˜e consultants and ASA members both strongly 
+
+agree that, when antacids are indicated for selected patients, 
+
+only nonpar ticulate antacids should be used.
+Recommendations for Antacids
+Ł
+  
+Antacids may be preoperatively administered to patients 
+at increased risk of pulmonary aspiration.
+º
+ 
+Only administer nonparticulate antacids.
+Ł
+  
+Do not routinely administer preoperative antacids for the 
+
+purpose of reducing the risk of pulmonary aspiration in 
+
+patients with no apparent increased risk for pulmonary 
+
+aspiration.
+Preoperative Antiemetics.
+ ˜e literature is insu˛cient to 
+evaluate the e˙ect of preoperative antiemetics on the periop
+-
+
+erative incidence of pulmonary aspiration, gastric volume, 
+
+or pH.
+ƒƒƒ
+˜e consultants and ASA members both disagree that pre
+-
+operative antiemetics should be routinely administered before  
+
+elective procedures requiring general anesthesia, regional  
+
+anesthesia, or procedural sedation and analgesia in patients  
+
+with no apparent increased risk for pulmonar y aspiration.
+Recommendations for Antiemetics
+⁄⁄⁄
+Ł
+ 
+Antiemetics may be preoperatively administered to 
+patients at increased risk of postoperative nausea and 
+
+vomiting.
+Ł
+  
+˜e routine preoperative administration of antiemetics 
+
+to reduce the risk of nausea and vomiting is not recom
+-
+
+mended for patients with no apparent increased risk for 
+
+pulmonary aspiration.
+Preoperative Anticholinergics.
+ Placebo-controlled RCTs are 
+
+equivocal regarding the e˛cacy of glycopyrrolate to reduce 
+
+gastric volume or acidity 
+(Categor y A2-E evidence)
+,
+83,102
+ and 
+two nonrandomized placebo-controlled comparative studies 
+
+report equivocal ˚ndings the e˛cacy of atropine on gastric 
+
+volume and acidity 
+(Categor y B1-E evidence)
+.
+103,104
+˜e ASA members disagree and the consultants strongly 
+disagree that preoperative anticholinergics should be rou
+-
+
+tinely administered before elective procedures requir
+-
+
+ing general anesthesia, regional anesthesia, or procedural 
+
+sedation and analgesia to decrease the risk of pulmonary 
+
+aspiration.
+Recommendations for Anticholinergics
+Ł
+ 
+˜e administration of preoperative 
+ 
+anticholinergics 
+to reduce the risk of pulmonary aspiration is not 
+recommended.
+Preoperative Multiple Agents.
+ RCTs report equivocal ˚nd
+-
+
+ings for gastric volume and acidity when histamine-2 receptor 
+
+antagonists (
+i.e.,
+ cimetidine, ranitidine) are combined with 
+
+gastrointestinal stimulants (
+i.e.,
+ metoclopramide) compared 
+
+with either dr ug alone 
+(Categor y A2-E evidence)
+.
+56,58Œ60,105Œ107
+ 
+RCTs comparing histamine-2 receptor antagonists or meto
+-
+
+clopramide with sodium citrate report equivocal ˚ndings for 
+
+gastric volume and acidity 
+(Category A2-E evidence)
+.
+57,106
+˜e ASA members disagree and the consultants strongly 
+disagree that preoperative multiple agents should be 
+ƒƒƒ Evidentiar y infor mation and recommendations regarding the 
+administr ation of preoper ative antiemetics and postoper ative nau
+-
+
+sea and vomiting may be found in: Pr ac tice guidelines for post
+-
+
+anesthetic care: An updated report by the American Society of 
+
+Anesthesiologists Task Force on Postanesthetic Care. A
+NESTHESIOL
+-
+OGY
+ 2013; 118:291Œ307.
+⁄⁄⁄These guidelines do not address the use of antiemetics during 
+
+the ex tended postoper ative period af ter upper airway protec tive 
+
+re˚exes are no longer impaired.
+Anesthesiology 2017; 126:376-93
+ 
+382
+ 
+Pr ac tice Guidelines
+routinely administered before elective procedures requiring 
+general anesthesia, regional anesthesia, or procedural seda
+-
+
+tion and analgesia in patients with no apparent risk for pul
+-
+
+monary aspiration.
+Recommendations for Multiple Agents
+Ł
+ 
+˜e routine administration of preoperative multiple 
+agents is not recommended for patients with no apparent 
+
+increased risk for pulmonary aspiration.
+Appendix 1: Summary of Recommendations
+Recommendations for Preoperative Assessment
+Ł
+  
+Per form a revie w of pertinent medical records, a physical 
+examination, and patient sur vey or intervie w as par t of the 
+
+preoperative evaluation.
+º
+  
+˜e histor y, examination, and intervie w should include 
+
+assessment of ASA physical status, age, sex, type of sur
+-
+
+ger y, and potential for di˛cult air way management as 
+
+well as consideration of gastroesophageal re˝ux disease,
+* 
+dysphagia symptoms, other gastrointestinal motility 
+
+and metabolic disorders (
+e.g.,
+ diabetes mellitus) that 
+
+may increase the risk of regurgitation and pulmonar y 
+
+aspiration.
+Ł
+  
+Inform patients of fasting requirements and the reasons 
+
+for them su˛ciently in advance of their procedures.
+Ł
+  
+Verify patient compliance with fasting requirements at the 
+
+time of their procedure.
+Ł
+  
+When these fasting guidelines are not followed, com
+-
+
+pare the risks and bene˚ts of proceeding, with consider
+-
+
+ation given to the amount and type of liquids or solids 
+
+ingested.
+Recommendations for Clear Liquids
+Ł
+  
+Clear liquids
+ƒ
+ may be ingested for up to 2 h before proce
+-
+dures requiring general anesthesia, regional anesthesia, or  
+procedural sedation and analgesia.
+º
+ 
+˜ese liquids should not include alcohol.
+Recommendations for Breast Milk
+Ł
+  
+Breast milk may be ingested for up to 4 h before elective 
+procedures requiring general anesthesia, regional anesthe
+-
+
+sia, or procedural sedation and analgesia.
+Recommendations for Infant Formula
+Ł
+  
+Infant formula may be ingested for up to 6 h before elective  
+procedures requiring general anesthesia, regional anesthesia,  
+
+or procedural sedation and analgesia.
+Recommendations for Solids and Nonhuman Milk
+Ł
+  
+A light meal or nonhuman milk may be ingested for up 
+to 6 h before elective procedures requiring general anes
+-
+thesia, regional anesthesia, or procedural sedation and 
+analgesia.
+⁄
+º
+  
+Additional fasting time (
+e.g.,
+ 8 or more hours) may be 
+needed in cases of patient intake of fried foods, fatty 
+foods, or meat.
+Ł
+  
+Consider both the amount and type of foods ingested 
+
+when determining an appropriate fasting period.
+Ł
+  
+Since nonhuman milk is similar to solids in gastric empty
+-
+
+ing time, consider the amount ingested when determining 
+an appropriate fasting period.
+Recommendations for Gastrointestinal Stimulants
+Ł
+ 
+Gastrointestinal stimulants may be preoperatively 
+administered to patients at increased risk of pulmonary 
+aspiration.
+Ł
+  
+Do not routinely administer preoperative gastrointestinal 
+stimulants for the purpose of reducing the risk of pulmo
+-
+
+nar y aspiration in patients with no apparent increased risk 
+
+for pulmonary aspiration.
+Recommendations for Pharmacologic Blockade of Gastric 
+
+Acid Secretion
+Ł
+  
+Medications that block gastric acid secretion may be pre
+-
+operatively administered to patients at increased risk of 
+pulmonary aspiration.
+Ł
+  
+Do not routinely administer preoperative medications that  
+block gastric acid secretion for the purpose of reducing the  
+
+risk of pulmonar y aspiration in patients with no apparent 
+
+increased risk for pulmonary aspiration.
+Recommendations for Antacids
+Ł
+  
+Antacids may be preoperatively administered to patients 
+at increased risk of pulmonary aspiration.
+º
+ 
+Only administer nonparticulate antacids.
+Ł
+  
+Do not routinely administer preoperative antacids for the 
+
+purpose of reducing the risk of pulmonary aspiration in 
+
+patients with no apparent increased risk for pulmonary 
+
+aspiration.
+Recommendations for Antiemetics
+§
+Ł
+ 
+Antiemetics may be preoperatively administered to 
+
+patients at increased risk of postoperative nausea and 
+vomiting.
+Ł
+ 
+˜e routine preoperative administration of antiemet
+-
+
+ics to reduce the risk of nausea and vomiting is not 
+⁄ The Task Force notes that intake of fried or fatty foods or meat 
+may prolong gastric emptying time.
+* The ter m ﬁgastroesophageal re˚ux diseaseﬂ refers to positional 
+
+re˚ux and its consequent symptomology, r ather than food intoler
+-
+ances (
+e.g.,
+ﬁtomatoes do not agree with meﬂ).
+ƒ Examples of clear liquids include, but are not limited to, water, 
+
+and fr uit juices without pulp, carbonated bever ages, carbohydr ate-
+
+rich nutritional drinks, clear tea, and black coffee.
+§These guidelines do not address the use of antiemetics during 
+
+the ex tended postoper ative period af ter upper airway protec tive 
+
+re˚exes are no longer impaired.
+Anesthesiology 2017; 126:376-93
+ 
+383
+ 
+Pr ac tice Guidelines
+recommended for patients with no apparent increased risk 
+for pulmonary aspiration.
+Recommendations for Anticholinergics
+Ł
+ 
+˜e administration of preoperative anticholiner
+-
+gics to reduce the risk of pulmonar y aspiration is not 
+
+recommended.
+Recommendations for Multiple Agents
+Ł
+ 
+˜e routine administration of preoperative multiple 
+agents is not recommended for patients with no apparent 
+
+increased risk for pulmonary aspiration.
+Appendix 2: Methods and Analyses
+For these updated guidelines, systematically-reviewed 
+studies used in the development of the previous update 
+were combined with a systematic revie w of studies pub
+-
+
+lished subsequent to ASA approval in 2010. Both the sys
+-
+
+tematic literature revie w and opinion data are based on 
+evidence linkages
+, or statements regarding potential rela
+-
+tionships between preoperative fasting inter ventions and 
+
+pulmonar y aspiration or associated complications.
+*
+ ˜ e 
+inter ventions listed in the evidence model below were 
+examined to assess their impact on outcomes related to 
+perioperative pulmonar y aspiration.
+Evidence Model
+Patients 
+
+Inclusion criteria:
+Ł
+ 
+Healthy patients.
+Ł
+ 
+Patients of all ages.
+Exclusion criteria:
+Ł
+ 
+Patients with coexisting diseases.
+Ł
+ 
+Patients with conditions that can a˙ect gastric emptying 
+or ˝uid volume.
+Ł
+ 
+Patients in whom airway management might be di˛cult.
+Procedures 
+Inclusion criteria:
+Ł
+ 
+Elective procedures.
+Ł
+ 
+Procedures in which upper air way protective re˝exes may 
+be impaired.
+Exclusion criteria:
+Ł
+ 
+Procedures with no anesthesia
+Ł
+ 
+Procedures with local anesthesia
+Ł
+ 
+Procedures whereby upper air way protective re˝exes are 
+not impaired
+Ł
+ 
+Procedures whereby no risk factors for pulmonary aspira
+-
+tion are apparent
+Inter ventions 
+Identi˚cation of patients at increased risk of pulmonary aspi
+-
+
+ration (
+e.g.
+, obesity, diabetes, smoking history):
+Ł
+ 
+Medical records revie w (focused history).
+Ł
+ 
+Physical examination.
+Ł
+ 
+Patient questionnaire.
+Preoperative fasting interventions:
+
+Ł
+ 
+Clear liquids.
+º
+ 
+For adults, clear liquids between 2 and 4 h 
+versus
+ more 
+than 4 h
+º
+ 
+For children, clear liquids between 2 and 4 h 
+versus
+ 
+more than 4 h
+º
+ 
+Breast milk between 2 and 4 h 
+versus
+ more than 4 h
+º
+ 
+Formula between 2 and 4 h 
+versus
+ more than 4 h
+Ł
+ 
+Solids and nonhuman milk.
+º
+ 
+Solids less than 4 h 
+versus
+ more than 4 h
+º
+ 
+Solids between 4 and 8 h 
+versus
+ more than 8 h
+Preoperative pharmacologic interventions:
+
+Ł
+ 
+Gastrointestinal stimulants.
+º
+ 
+Metoclopramide
+º
+ 
+Cisapride
+Ł
+ 
+Gastric acid secretion blockers.
+º
+ 
+H
+2
+ receptor antagonists
+º
+ 
+Cimetidine
+
+º
+ 
+Ranitidine
+º
+ 
+Famotidine
+º
+ 
+Other H
+2
+ receptor antagonists (
+e.g.,
+ roxatidin, nazati
+-
+dine, gastrozepin)
+Ł
+ 
+Proton pump inhibitors.
+º
+ 
+Omeprazole
+
+º
+ 
+Lanzoprazole
+
+º
+ 
+Other proton pump inhibitors (
+e.g.,
+ pantoprazole, 
+rabeprazole)
+Ł
+ 
+Antacids (preoperative).
+º
+ 
+Sodium citrate
+º
+ 
+Sodium bicarbonate
+º
+ 
+Magnesium trisilicate
+Ł
+ 
+Antiemetics.
+º
+ 
+Ondansetron
+Ł
+ 
+Anticholinergics.
+º
+ 
+Atropine
+
+º
+ 
+Glycopyrrolate
+Ł
+ 
+Multiple 
+versus
+ single pharmacologic agents.
+Outcomes 
+
+Expected bene˚ts:
+Ł
+ 
+Prevention or reduction of perioperative pulmonary 
+aspiration.
+Ł
+ 
+Reduction of complications associated with pulmonary 
+aspiration.
+º
+ 
+Pneumonia
+º
+ 
+Respiratory disabilities
+º
+ 
+Perioperative morbidity
+* Unless other wise speci˜ed, outcomes for the listed inter ventions 
+refer to the occurrence of pulmonary aspir ation complications asso
+-
+
+ciated with aspiration, gastric contents, or nausea/vomiting.
+Anesthesiology 2017; 126:376-93
+ 
+384
+ 
+Pr ac tice Guidelines
+Ł
+ 
+Decreased risk of dehydration or hypoglycemia from pro
+-
+longed fasting.
+Ł
+ 
+Increased patient satisfaction.
+Ł
+ 
+Avoidance of delays and cancellations.
+Evidence Collection 
+Inclusion criteria:
+Ł
+ 
+Randomized controlled trials.
+Ł
+ 
+Prospective nonrandomized comparative studies (
+e.g.
+, 
+quasi-experimental, cohort).
+Ł
+ 
+Retrospective comparative studies (
+e.g.
+, case-control).
+Ł
+ 
+Obser vational (
+e.g.
+, correlational or descriptive statistics).
+Ł
+ 
+Case reports, case series.
+Exclusion criteria (except to obtain new citations):
+Ł
+ 
+Editorials.
+Ł
+ 
+Literature revie ws.
+Ł
+ 
+Meta-analyses.
+
+Ł
+ 
+Abstracts greater than 5 yr old.
+Ł
+ 
+Unpublished studies.
+Ł
+ 
+Studies in non-peer-reviewed journals.
+Ł
+ 
+Ne wspaper articles.
+Sur vey evidence:
+Ł
+ 
+Exper t consultant survey.
+Ł
+ 
+ASA membership survey.
+Ł
+ 
+Literature reliability survey.
+Ł
+ 
+Feasibility of implementation survey.
+State of the Literature.
+ For the systematic review, poten
+-
+tially relevant clinical studies were identi˚ed 
+via
+ electronic 
+
+and manual searches of the literature. Healthcare database 
+
+searches included PubMed,Web of Science, Google Books, 
+
+and the Cochrane Central Register of Controlled Trials. ˜e 
+
+updated searches covered a 6.5-yr period from Januar y 1, 
+
+2010, through May 31, 2016. Search terms consisted of 
+
+the interventions indicated above guided by the appropriate 
+
+inclusion/exclusion criteria as stated in the ﬁFocusﬂ section 
+
+of these updated guidelines. Only studies containing original 
+
+˚ndings from peer-revie wed journals were acceptable. Edito
+-
+
+rials, letters, and other articles without data were excluded.
+Two hundred ninety-eight ne w citations were identi˚ed 
+and revie wed, with 42 ne w studies meeting the above stated  
+
+criteria. ˜ese studies were combined with 133 pre-2010 
+
+ar ticles used in the previous update, resulting in a total of  
+
+175 articles found acceptable as evidence for these guide
+-
+
+lines. A complete bibliography of ar ticles used to develop  
+
+these updated guidelines, organized by section, is available as 
+
+Supplemental Digital Content 2, http://links.lww.com/ALN/
+
+B348.
+For these guidelines, the 
+primary
+ outcomes of interest 
+are pulmonary aspiration and the frequency or severity of 
+
+adverse consequences associated with aspiration (
+e.g.,
+ pneu
+-
+
+monitis). Although controlled studies do not su˛ciently 
+
+evaluate such relationships, the repor ted evidence does focus 
+on intermediate outcomes, including gastric contents (
+e.g.,
+ 
+volume or pH) and nausea and vomiting, typically consid
+-
+
+ered by the authors to be representative of a predicted ﬁriskﬂ 
+of pulmonary aspiration.
+Results for each per tinent outcome are summarized and, 
+when su˛cient numbers of RCTs are found, formal meta-
+
+analyses are conducted. ˜e literature relating to seven evi
+-
+dence linkages contained enough studies with well-de˚ned 
+experimental designs and statistical information to conduct 
+formal meta-analyses. ˜ese seven evidence linkages are: 
+
+(1) preoperative fasting of liquids between 2 and 4 h for 
+
+adults, (2) preoperative fasting of liquids between 2 and 4 
+h for children, (3) preoperative metoclopramide, (4) pre
+-
+operative ranitidine (orally administered), (5) preoperative 
+
+cimetidine (orally administered), (6) preoperative omepra
+-
+zole (orally administered), and (7) perioperative ondanse
+-
+tron (intravenously administered). Outcomes assessed were 
+limited to gastric volume, gastric acidity, nausea, and vom
+-
+iting (table 2).
+General variance-based e˙ect-size estimates or combined  
+probability tests were obtained for continuous outcome mea
+-
+
+sures, and Mantel-Haenszel odds ratios were obtained for  
+dichotomous outcome measures. Two combined probability  
+tests were employed as follows: (1) the Fisher combined test, pro
+-
+
+ducing chi-square values based on logarithmic transformations  
+
+of the repor ted 
+P
+ values from the independent studies, and (2)  
+the Stou˙er combined test, providing weighted representation  
+
+of the studies by weighting each of the standard normal deviates  
+by the size of the sample. An odds ratio procedure based on the  
+Mantel-Haenszel method for combining study results using 2 x  
+
+2 tables was used with outcome frequency data. An acceptable  
+signi˚cance level was set at 
+P 
+< 0.01 (one-tailed). Tests for hetero
+-
+geneity of the independent studies were conducted to assure con
+-
+sistency among the study results. When signi˚cant heterogeneity  
+was found among the studies (
+P 
+< 0.01), DerSimonian-Laird  
+random-e˙ects odds ratios were obtained. To evaluate potential  
+
+publishing bias, a ﬁfail-safe nﬂ value was calculated. No search for  
+unpublished studies was conducted, and no reliability tests for  
+
+locating research results were done. For ˚ndings to be accepted  
+
+as signi˚cant, odds ratios must agree with combined test results  
+whenever both types of data were assessed. In addition, ˚ndings  
+from both the Fisher and weighted Stou˙er combined tests must  
+agree with each other.
+Consensus-based Evidence.
+ For the previous update, con
+-
+
+sensus was obtained from multiple sources, including: (1) 
+sur vey opinion from consultants who were selected based 
+on their knowledge or expertise in preoperative fasting and 
+
+prevention of pulmonar y aspiration, (2) survey opinions 
+
+solicited from active members of the ASA membership, (3) 
+testimony from attendees of a publicly-held open for um for 
+the original guidelines held at a national anesthesia meeting, 
+(4) Internet commentary, and (5) Task Force opinion and 
+interpretation. ˜e sur vey rate of return is 59.7% (n = 37 
+
+of 62) for the consultants (table 3), and 471 responses were 
+received from active ASA members (table 4).
+Anesthesiology 2017; 126:376-93
+ 
+385
+ 
+Pr ac tice Guidelines
+Table 1.
+ 
+Fasting and Pharmacologic Recommendations
+A. Fasting Recommendations
+*
+ 
+Ingested Material
+Minimum Fasting Periodƒ
+ 
+Ł
+ 
+Clear liquids⁄
+2h
+ 
+Ł
+ 
+Breastmilk
+4h
+ 
+Ł
+ 
+Infant formula
+6h
+ 
+Ł
+ 
+Nonhumanmilk§
+6h
+ 
+Ł
+ 
+Lightmeal**
+6h
+ 
+Ł
+  
+Fried foods, fatty foods, or 
+meat
+Additional fasting time (
+e.g.,
+ 
+8 or more hours) may be 
+needed
+B. Phar macologic 
+ 
+Recommendations
+ 
+Medication Type and Common 
+Examples
+Recommendation
+Gastrointestinal stimulants:
+ 
+ 
+Ł
+ 
+Metoclopramide
+May be used/no routine use
+Gastric acid secretion blockers:
+ 
+ 
+Ł
+ 
+Cimetidine
+May be used/no routine use
+ 
+Ł
+ 
+Famotidine
+May be used/no routine use
+ 
+Ł
+ 
+Ranitidine
+May be used/no routine use
+ 
+Ł
+ 
+Omeprazole
+May be used/no routine use
+ 
+Ł
+ 
+Lansoprazole
+May be used/no routine use
+Antacids:
+ 
+ 
+Ł
+ 
+Sodiumcitrate
+May be used/no routine use
+ 
+Ł
+ 
+Sodiumbicarbonate
+May be used/no routine use
+ 
+Ł
+ 
+Magnesium trisilicate
+May be used/no routine use
+Antiemetics:
+ 
+ 
+Ł
+ 
+Ondansetron
+May be used/no routine use
+Anticholinergics:
+ 
+ 
+Ł
+ 
+Atropine
+No use
+ 
+Ł
+ 
+Scopolamine
+No use
+ 
+Ł
+ 
+Glycopyrrolate
+No use
+Combinations of the medications 
+above:
+No routine use
+*These recommendations apply to healthy patients who are undergoing 
+elective procedures. They are not intended for women in labor. Following 
+the guidelines does not guarantee complete gastric emptying.
+ƒThe fasting periods noted above apply to all ages.
+⁄Examples of clear liquids include water, fruit juices without pulp, carbon
+-
+ated beverages, clear tea, and black coffee.
+§Since nonhuman milk is similar to solids in gastric emptying time, the 
+amount ingested must be considered when determining an appropriate 
+fasting period.
+**A light meal typically consists of toast and clear liquids. Meals that 
+include fried or fatty foods or meat may prolong gastric emptying time. 
+
+Additional fasting time (
+e.g.,
+ 8 or more hours) may be needed in these 
+cases. Both the amount and type of foods ingested must be considered 
+when determining an appropriate fasting period.
+For the previous update, an additional sur vey was sent 
+to the consultants asking them to indicate which, if any, 
+of the evidence linkages would change their clinical prac
+-
+
+tices if the guidelines were instituted. ˜e percent of con
+-
+
+sultants expecting no change associated with each linkage 
+
+were as follows: preoperative assessment 95%; preopera
+-
+
+tive fasting of solids 75%; preoperative fasting of liquids 
+67%; preoperative fasting of breast milk 78%; gastrointes
+-
+
+tinal stimulants 95%; pharmacologic blockage of gastric 
+
+secretion 91%; antacids 100%; antiemetics 98%, anti
+-
+
+cholinergics 100%, and multiple agents 98%. Ninety-six 
+
+percent of the respondents indicated that the guidelines 
+
+would have no e˙ect on the amount of time spent on a 
+
+typical case.
+Anesthesiology 2017; 126:376-93
+ 
+386
+ 
+Pr ac tice Guidelines
+Table 2.
+ 
+Meta-Analysis Summary
+Evidence Linkages
+Nƒ
+Odds 
+Ratio⁄
+Con˜dence 
+Interval§
+Fisher 
+ 
+Chi-Square
+P
+ Value
+Stouffer Z
+c
+P
+ Value
+Effect 
+Sizeƒƒ
+Heterogeneity
+Signi˜
+-
+cance⁄⁄
+Effect 
+Size§§
+Pr eoperative fasting for clear 
+liquids: Adults; 2Œ4 h 
+vs.
+ > 4 h
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gastric volume 
+12Œ18,20,21
+9
+ 
+ 
+43.95
+0.001
+˚1.85
+0.032
+˚0.07
+0.074
+0.049
+ 
+Gastric volume 
+ 
+< 25
+ 
+mL 
+12,13,16Œ20
+7
+1.61
+0.97Œ2.66
+ 
+ 
+ 
+ 
+ 
+0.238
+ 
+Gastric pH 
+12Œ18,20,21
+9
+ 
+ 
+36.65
+0.006
+1.10
+0.136
+0.06
+0.543
+0.319
+ 
+Gastric pH > 2.5 
+12,13,16Œ20
+7
+1.75
+0.88Œ3.48
+ 
+ 
+ 
+ 
+ 
+0.910
+ 
+Low risk*** 
+12,13,16,17,19,20
+6
+1.87
+1.10Œ3.18
+ 
+ 
+ 
+ 
+ 
+0.452
+Pr eoperative fasting for clear 
+liquids: Children; 2Œ4 h 
+vs.
+ 
+> 4 h
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gastric volume 
+34Œ42
+9
+ 
+ 
+39.07
+0.006
+˚1.37
+0.085
+˚0.05
+0.132
+0.136
+ 
+Gastric volume 
+ 
+< 0.04
+ 
+mL/kg 
+33Œ35,37,38,41,42
+7
+1.31
+0.81Œ2.10
+ 
+ 
+ 
+ 
+ 
+0.368 
+ 
+Gastric pH 
+34Œ37,39Œ42
+8
+ 
+ 
+32.98
+0.007
+2.86
+0.002
+0.11
+0.744
+0.833
+ 
+Gastric pH > 2.5 
+33Œ35,37,38
+5
+0.81
+0.37Œ1.75
+ 
+ 
+ 
+ 
+ 
+0.558
+ 
+Low risk 
+33,35,37Œ42
+8
+1.06
+0.71Œ1.57
+ 
+ 
+ 
+ 
+ 
+0.384
+Metoclopramide 
+vs.
+ placebo:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gastric volume 
+55Œ60
+6*
+ 
+ 
+49.61
+0.001
+˚5.06
+0.001
+˚0.34
+0.599
+0.681
+ 
+Gastric pH 
+56Œ60
+5
+ 
+ 
+37.06
+0.001
+3.56
+0.001
+0.28
+0.303
+0.096
+Ranitidine 
+vs.
+ placebo: 
+ƒƒƒ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gastric volume 
+61,64Œ68
+6**
+ 
+ 
+62.72
+0.001
+˚9.27
+0.001
+˚0.66
+0.001
+0.001
+ 
+Gastric volume 
+ 
+< 25
+ 
+mL
+56,62Œ64,69Œ70
+6*
+7.60
+3.53Œ16.39
+ 
+ 
+ 
+ 
+ 
+0.046
+ 
+Gastric pH 
+61,64Œ68
+6**
+ 
+ 
+91.21
+0.001
+14.13
+0.001
+0.21
+0.285
+0.001
+ 
+Gastric pH > 2.5 
+61,62Œ66,69
+6**
+31.06
+10.17Œ94.86
+ 
+ 
+ 
+ 
+ 
+0.593
+ 
+Low risk 
+62,64,67Œ69
+5**
+29.93
+6.35Œ141.03
+ 
+ 
+ 
+ 
+ 
+0.949
+Cimetidine 
+vs.
+ placebo:
+ ƒƒƒ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gastric volume 
+58,59,66,76,77,80,81,83Œ86
+11
+ 
+ 
+87.28
+0.001
+˚6.20
+0.001
+˚0.30
+0.048
+0.021
+ 
+Gastric volume 
+ 
+< 25
+ 
+mL 
+58,79,82Œ86
+7
+5.27
+2.55Œ10.88
+ 
+ 
+ 
+ 
+ 
+0.700
+ 
+Gastric pH 
+58,59,66,76,79,80,83,85,87
+9
+ 
+ 
+120.75
+0.001
+14.07
+0.001
+0.74
+0.001
+0.001
+ 
+Gastric pH > 2.5 
+58,66,75Œ78,81Œ85
+11
+20.47
+11.03Œ37.99
+ 
+ 
+ 
+ 
+ 
+0.458
+ 
+Low risk 
+58,79,83Œ85
+5**
+8.76
+2.87Œ26.69
+ 
+ 
+ 
+ 
+ 
+0.577
+Omeprazole 
+vs.
+ placebo:
+ ƒƒƒ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gastric volume 
+63,67,93Œ95
+5**
+ 
+ 
+46.22
+0.001
+˚5.56
+0.001
+˚0.39
+0.041
+0.001
+ 
+Gastric pH 
+63,67,93Œ95
+5**
+ 
+ 
+53.25
+0.001
+5.50
+0.001
+0.37
+0.448
+0.080
+ƒNumber of studies included in the meta-analysis. If followed by * all study designs are blinded. If followed by ** all study designs are double-blind.
+⁄Mantel-Haenszel ˜xed-effect analysis (estimate of common effect size); random effect size analyses were not required.
+
+§99% CIs.
+
+ƒƒStouffer weighted effect-size estimate.
+⁄⁄Statistical signi˜cance values for homogeneity/heterogeneity of statistical tests; 
+P 
+< 0.01 indicates that the studies are signi˜cantly heterogeneous.
+§§Statistical signi˜cance values for homogeneity/heterogeneity of effect size; 
+P 
+< 0.01 indicates that the studies are signi˜cantly heterogeneous.
+***Low risk = gastric volume < 25
+ 
+ml and pH > 2.5.
+ƒƒƒOral administration.
+Anesthesiology 2017; 126:376-93
+ 
+387
+ 
+Pr ac tice Guidelines
+Table 3.
+ 
+Consultant Survey Responses*
+Percent Responding to Each Item
+ 
+N
+Strongly 
+Agree
+Agree
+Equivocal
+Disagree
+Strongly Disagree
+Preoperative Assessment
+ 
+1. 
+ 
+A review of pertinent records, a physical examination, and 
+patient survey or interview should be performed as part of the 
+
+preoperative evaluation
+37
+86.5*
+13.5
+0.0
+0.0
+0.0
+ 
+2. 
+ 
+Patients should be informed of fasting requirements and the 
+
+reasons for them suf˜ciently in advance of their procedures
+37
+97.3*
+2.7
+0.0
+0.0
+0.0
+ 
+3. 
+ 
+Veri˜cation of patient compliance with the fasting require
+-
+
+ments should be assessed immediately prior to the time of 
+
+the procedure
+36
+94.4*
+5.6
+0.0
+0.0
+0.0
+Preoperative Fasting Status
+Clear Liquids:
+
+4a. 
+ 
+For otherwise healthy 
+infants
+ (< 2 yr of age), fasting from the 
+intake of clear liquids for 
+2 or more hours
+ before elective 
+
+procedures requiring general anesthesia, regional anesthesia, 
+
+or procedural sedation and analgesia should be maintained
+37
+59.5*
+27.0
+10.8
+0.0
+2.7
+4b. 
+ 
+For otherwise healthy 
+childr en
+ (2 to 16 yr of age), fasting from 
+
+the intake of clear liquids for 
+2 or mor e hours
+ before elective 
+
+procedures requiring general anesthesia, regional anesthesia, 
+
+or procedural sedation and analgesia should be maintained
+37
+54.1*
+32.4
+10.8
+2.7
+0.0
+4c. 
+ 
+For otherwise healthy 
+adults
+, fasting from the intake of clear 
+
+liquids for 
+2 or mor e hours
+ before elective procedures requir
+-
+ing general anesthesia, regional anesthesia, or procedural 
+
+sedation and analgesia should be maintained
+37
+56.8*
+40.5
+2.7
+0.0
+0.0
+Breast Milk:
+5a. 
+ 
+For otherwise healthy 
+neonates
+ (< 44 gestational weeks), fast
+-
+ing from the intake of breast milk for 
+4 or mor e hours
+ before 
+
+elective procedures requiring general anesthesia, regional 
+
+anesthesia, or procedural sedation and analgesia should be 
+
+maintained
+37
+37.8
+35.1*
+18.9
+8.1
+0.0
+5b. 
+ 
+For otherwise healthy 
+infants
+, fasting from the intake of breast 
+
+milk for 
+4 or mor e hours
+ before elective procedures requiring 
+
+general anesthesia, regional anesthesia, or procedural seda
+-
+
+tion and analgesia should be maintained
+37
+43.2
+37.8*
+18.9
+0.0
+0.0
+Infant Formula:
+6a. 
+ 
+For 
+neonates
+, fasting from the intake of infant formula for 
+ 
+6 or more hours
+ before elective procedures requiring general 
+anesthesia, regional anesthesia, or procedural sedation and 
+
+analgesia should be maintained
+37
+27.0
+32.4*
+24.3
+13.5
+2.7
+6b. 
+ 
+For infants, fasting from the intake of infant formula for 
+ 
+
+6 or more hours
+ before elective procedures requiring general 
+
+anesthesia, regional anesthesia, or procedural sedation and 
+
+analgesia should be maintained
+36
+36.1
+30.6*
+16.7
+13.9
+2.8
+6c. 
+ 
+For children, fasting from the intake of infant formula for 
+ 
+
+6 or more hours
+ before elective procedures requiring general 
+
+anesthesia, regional anesthesia, or procedural sedation and 
+
+analgesia should be maintained
+37
+32.4
+40.5*
+21.6
+5.4
+0.0
+Nonhuman Milk:
+7a. 
+ 
+For infants, fasting from the intake of nonhuman milk for 
+ 
+6 or more hours
+ before elective procedures requiring general 
+
+anesthesia, regional anesthesia, or procedural sedation and 
+
+analgesia should be maintained
+35
+31.4
+34.3*
+22.9
+11.4
+0.0
+7b. 
+ 
+For children, fasting from the intake of nonhuman milk for 
+ 
+
+6 or more hours
+ before elective procedures requiring general 
+
+anesthesia, regional anesthesia, or procedural sedation and 
+
+analgesia should be maintained
+37
+29.7
+46.0*
+18.9
+5.4
+0.0
+7c. 
+ 
+For adults, fasting from the intake of nonhuman milk for 
+ 
+
+6 or more hours
+ before elective procedures requiring general 
+
+anesthesia, regional anesthesia, or procedural sedation and 
+
+analgesia should be maintained
+37
+43.2
+46.0*
+5.4
+5.4
+0.0
+(
+Continued
+)
+Anesthesiology 2017; 126:376-93
+ 
+388
+ 
+Pr ac tice Guidelines
+Solids:
+  
+8. 
+ 
+Fasting from the intake of a 
+light meal
+ (
+e.g.
+, toast and a clear 
+liquid) for 
+6 or more hours
+ before elective procedures requir
+-
+ing general anesthesia, regional anesthesia, or procedural 
+
+sedation and analgesia should be maintained
+36
+41.7
+44.4*
+0.0
+13.9
+0.0
+  
+9. 
+ 
+Fasting from the intake of a meal that includes 
+fried or fatty 
+
+foods
+ for 
+8 or mor e hours
+ before elective procedures requir
+-
+ing general anesthesia, regional anesthesia, or procedural 
+
+sedation and analgesia should be maintained
+36
+63.9*
+27.8
+2.8
+2.8
+2.8
+Preoperative Gastrointestinal Stimulants
+ 
+10. 
+ 
+Gastrointestinal stimulants should be routinely administered 
+before elective procedures requiring general anesthesia, 
+
+regional anesthesia, or procedural sedation and analgesia 
+
+in patients with 
+no apparent
+ increased risk for pulmonary 
+
+aspiration
+36
+0.0
+0.0
+5.6
+47.2*
+47.2
+Preoperative Pharmacologic Blockade of Gastric Acid Secretion
+ 
+1 1 .  
+ 
+Histamine-2 receptor antagonists should be routinely adminis
+-
+tered before elective procedures requiring general anesthesia,  
+
+regional anesthesia, or procedural sedation and analgesia in  
+
+patients with 
+no appar ent
+ increased risk for pulmonary aspiration
+36
+0.0
+2.8
+5.6
+44.4*
+47.2
+ 
+1 2 .  
+ 
+Proton pump inhibitors should be routinely administered before  
+elective procedures requiring general anesthesia, regional anes
+-
+
+thesia, or procedural sedation and analgesia in patients with 
+no  
+
+appar ent
+ increased risk for pulmonary aspiration
+37
+0.0
+2.7
+8.1
+37.8
+51.4*
+Preoperative Antacids
+13a. 
+ 
+Preoperative antacids should be routinely administered 
+before elective procedures requiring general anesthesia, 
+
+regional anesthesia, or procedural sedation and analgesia 
+
+in patients with 
+no apparent
+ increased risk for pulmonary 
+
+aspiration
+36
+0.0
+2.8
+2.8
+47.2*
+47.2
+13b. 
+ 
+When antacids are indicated for selected patients, only 
+ 
+
+nonparticulate antacids should be used
+36
+55.6*
+27.8
+11.1
+0.0
+5.6
+Preoperative Antiemetics
+ 
+14. 
+ 
+Preoperative antiemetics should be routinely administered 
+before elective procedures requiring general anesthesia, 
+
+regional anesthesia, or procedural sedation and analgesia 
+
+in patients with 
+no apparent
+ increased risk for pulmonary 
+
+aspiration
+37
+0.0
+5.4
+0.0
+51.4*
+43.2
+Preoperative Anticholinergics
+ 
+15. 
+ 
+Preoperative anticholinergics should be routinely adminis
+-
+tered before elective procedures requiring general anes
+-
+
+thesia, regional anesthesia, or procedural sedation and 
+
+analgesia to decrease the risk of pulmonary aspiration
+37
+0.0
+2.7
+2.7
+40.5
+54.1*
+Preoperative Multiple Agents
+ 
+16. 
+ 
+Preoperative multiple agents should be routinely adminis
+-
+tered before elective procedures requiring general anes
+-
+
+thesia, regional anesthesia, or procedural sedation and 
+
+analgesia in patients with 
+no apparent
+ increased risk for 
+
+pulmonary aspiration
+37
+0.0
+2.7
+0.0
+43.2
+54.1*
+*An asterisk beside an agreement value represents the median. 
+N = number of consultants who responded to each item.
+Table 3.
+ 
+(Continued)
+Percent Responding to Each Item
+ 
+N
+Strongly 
+ 
+Agree
+Agree
+Equivocal
+Disagree
+Strongly Disagree
+Anesthesiology 2017; 126:376-93
+ 
+389
+ 
+Pr ac tice Guidelines
+Table 4.
+ 
+ASA Members Survey Responses*
+ 
+Percent Responding to Each Item
+ 
+N
+Strongly 
+Agree
+Agree
+Equivocal
+Disagree
+Strongly Disagree
+Preoperative Assessment
+:
+ 
+1. 
+ 
+A review of pertinent records, a physical examination, and 
+patient survey or interview should be performed as part of the 
+
+preoperative evaluation
+470
+93.2*
+6.0
+0.4
+0.2
+0.2
+ 
+2. 
+ 
+Patients should be informed of fasting requirements and the 
+
+reasons for them suf˜ciently in advance of their procedures
+470
+93.4*
+6.4
+0.0
+0.0
+0.2
+ 
+3. 
+ 
+Veri˜cation of patient compliance with the fasting require
+-
+
+ments should be assessed immediately prior to the time of 
+
+the procedure
+468
+88.5*
+9.6
+1.3
+0.2
+0.4
+Preoperative Fasting Status
+Clear Liquids:
+
+4a. 
+ 
+For otherwise healthy 
+infants
+ (< 2 yr of age), fasting from the 
+intake of clear liquids for 
+2 or more hours
+ before elective pro
+-
+
+cedures requiring general anesthesia, regional anesthesia, or 
+
+procedural sedation and analgesia should be maintained
+471
+66.9*
+25.1
+5.7
+2.1
+0.2
+4b. 
+ 
+For otherwise healthy 
+childr en
+ (2 to 16 yr of age), fasting from  
+
+the intake of clear liquids for 
+2 or mor e hours
+ before elective 
+
+procedures requiring general anesthesia, regional anesthesia,  
+
+or procedural sedation and analgesia should be maintained
+467
+67.0*
+23.3
+5.6
+3.6
+0.4
+4c. 
+ 
+For otherwise healthy 
+adults
+, fasting from the intake of clear 
+
+liquids for 
+2 or mor e hours
+ before elective procedures requir
+-
+ing general anesthesia, regional anesthesia, or procedural 
+
+sedation and analgesia should be maintained
+465
+64.5*
+21.5
+6.0
+6.5
+1.5
+Breast Milk:
+5a. 
+ 
+For otherwise healthy 
+neonates
+ (< 44 gestational weeks), fast
+-
+ing from the intake of breast milk for 
+4 or mor e hours
+ before 
+
+elective procedures requiring general anesthesia, regional 
+
+anesthesia, or procedural sedation and analgesia should be 
+
+maintained
+465
+53.6*
+29.5
+13.1
+3.0
+0.9
+5b. 
+ 
+For otherwise healthy 
+infants
+, fasting from the intake of breast 
+
+milk for 
+4 or mor e hours
+ before elective procedures requiring 
+
+general anesthesia, regional anesthesia, or procedural seda
+-
+
+tion and analgesia should be maintained
+466
+55.6*
+32.4
+8.6
+2.8
+0.6
+Infant Formula:
+6a. 
+ 
+For 
+neonates
+, fasting from the intake of infant formula for 
+6 
+or more hours
+ before elective procedures requiring general 
+anesthesia, regional anesthesia, or procedural sedation and 
+
+analgesia should be maintained
+455
+45.7
+30.1*
+16.9
+5.9
+1.3
+6b. 
+ 
+For infants, fasting from the intake of infant formula for 
+6 
+
+or more hours
+ before elective procedures requiring general 
+
+anesthesia, regional anesthesia, or procedural sedation and 
+
+analgesia should be maintained
+459
+47.9
+33.8*
+12.4
+4.8
+1.1
+6c. 
+ 
+For children, fasting from the intake of infant formula for 
+6 
+
+or more hours
+ before elective procedures requiring general 
+
+anesthesia, regional anesthesia, or procedural sedation and 
+
+analgesia should be maintained
+456
+52.6*
+32.5
+10.5
+3.3
+1.1
+Nonhuman Milk:
+7a. 
+ 
+For infants, fasting from the intake of nonhuman milk for 
+6 
+or more hours
+ before elective procedures requiring general 
+
+anesthesia, regional anesthesia, or procedural sedation and 
+
+analgesia should be maintained
+458
+47.6
+33.4*
+12.5
+5.0
+1.5
+7b. 
+ 
+For children, fasting from the intake of nonhuman milk for 
+6 
+
+or more hours
+ before elective procedures requiring general 
+
+anesthesia, regional anesthesia, or procedural sedation and 
+
+analgesia should be maintained
+460
+51.1*
+34.4
+8.4
+4.8
+1.3
+7c. 
+ 
+For adults, fasting from the intake of nonhuman milk for 
+6 
+
+or more hours
+ before elective procedures requiring general 
+
+anesthesia, regional anesthesia, or procedural sedation and 
+
+analgesia should be maintained
+462
+55.6*
+33.3
+5.0
+4.8
+1.3
+(
+Continued
+)
+Anesthesiology 2017; 126:376-93
+ 
+390
+ 
+Pr ac tice Guidelines
+Solids:
+  
+8. 
+ 
+Fasting from the intake of a 
+light meal
+ (
+e.g.
+, toast and a clear 
+liquid) for 
+6 or more hours
+ before elective procedures requir
+-
+ing general anesthesia, regional anesthesia, or procedural 
+
+sedation and analgesia should be maintained
+468
+59.0*
+29.7
+4.1
+6.2
+1.1
+  
+9. 
+ 
+Fasting from the intake of a meal that includes 
+fried or fatty 
+
+foods
+ for 
+8 or mor e hours
+ before elective procedures requir
+-
+ing general anesthesia, regional anesthesia, or procedural 
+
+sedation and analgesia should be maintained
+470
+68.5*
+22.6
+4.7
+3.6
+0.6
+Preoperative Gastrointestinal Stimulants
+ 
+10. 
+ 
+Gastrointestinal stimulants should be routinely administered 
+before elective procedures requiring general anesthesia, 
+
+regional anesthesia, or procedural sedation and analgesia 
+
+in patients with 
+no apparent
+ increased risk for pulmonary 
+
+aspiration
+468
+1.9
+4.5
+8.3
+48.8*
+36.5
+Preoperative Pharmacologic Blockade of Gastric Acid Secretion
+ 
+1 1 .  
+ 
+Histamine-2 receptor antagonists should be routinely adminis
+-
+tered before elective procedures requiring general anesthesia,  
+
+regional anesthesia, or procedural sedation and analgesia in 
+
+patients with 
+no appar ent
+ increased risk for pulmonary aspiration
+470
+4.0
+7.9
+9.2
+44.7*
+34.2
+ 
+12. 
+ 
+Proton pump inhibitors should be routinely administered 
+
+before elective procedures requiring general anesthesia, 
+
+regional anesthesia, or procedural sedation and analgesia 
+
+in patients with 
+no apparent
+ increased risk for pulmonary 
+
+aspiration
+470
+1.3
+3.6
+11.9
+46.8*
+36.4
+Preoperative Antacids
+13a. 
+ 
+Preoperative antacids should be routinely administered 
+before elective procedures requiring general anesthesia, 
+
+regional anesthesia, or procedural sedation and analgesia in 
+
+patients with 
+no apparent
+ risk for pulmonary aspiration
+467
+0.6
+2.8
+6.6
+52.0*
+37.9
+13b. 
+ 
+When antacids are indicated for selected patients, only 
+ 
+
+nonparticulate antacids should be used
+466
+65.2*
+28.5
+4.5
+1.5
+0.2
+Preoperative Antiemetics
+ 
+1 4 .  
+ 
+Preoperative antiemetics should be routinely administered  
+before elective procedures requiring general anesthesia, regional  
+
+anesthesia, or procedural sedation and analgesia in patients  
+
+with 
+no appar ent
+ increased risk for pulmonary aspiration
+461
+4.3
+11.9
+8.5
+49.9*
+25.4
+Preoperative Anticholinergics
+ 
+15. 
+ 
+Preoperative anticholinergics should be routinely adminis
+-
+tered before elective procedures requiring general anesthe
+-
+
+sia, regional anesthesia, or procedural sedation to decrease 
+
+the risk of pulmonary aspiration
+466
+1.3
+1.7
+7.6
+53.4*
+36.1
+Preoperative Multiple Agents
+ 
+1 6 .  
+ 
+Preoperative multiple agents should be routinely administered 
+before elective procedures requiring general anesthesia, regional  
+
+anesthesia, or procedural sedation and analgesia in patients  
+
+with 
+no appar ent
+ increased risk for pulmonary aspiration
+470
+2.3
+4.7
+7.9
+44.3*
+40.9
+*An asterisk beside an agreement value represents the median. 
+N = number of American Society of Anesthesiologists (ASA) members who responded to each item.
+Table 4.
+ 
+(Continued)
+Percent Responding to Each Item
+ 
+N
+Strongly 
+ 
+Agree
+Agree
+Equivocal
+Disagree
+Strongly Disagree
+Anesthesiology 2017; 126:376-93
+ 
+391
+ 
+Pr ac tice Guidelines
+Acknowledgments
+Suppor t was provided solely from institutional and/or depar tmental 
+sources.
+Competing Interests
+The authors declare no competing interests.
+Correspondence
+Address cor respondence to the American Society of Anesthesiolo
+-
+
+gists: 1061 American Lane, Schaumburg, Illinois 60173. guidelines@
+
+asahq.org. These updated Pr ac tice Guidelines, and all ASA Pr ac tice 
+Par ameters, may be obtained at no cost through the Jour nal Web 
+site, www.
+ 
+anesthesiology.org.
+References
+ 
+1.
+ 
+Dunham CM, Hileman BM, Hutchinson AE, Chance EA, 
+Huang GS: Perioperative hypoxemia is common with hori
+-
+
+zontal positioning during gener al anesthesia and is associ
+-
+
+ated with major adverse outcomes: a retrospective study of 
+
+consecutive patients. BMCAnesthesiol 2014; 14:43
+ 
+2.
+ 
+Manchikanti L, Colliver JA, Mar rero TC, Roush JR: Assessment 
+
+of age-related acid aspir ation risk fac tors in pediatric, adult, 
+
+and geriatric patients.AnesthAnalg 1985; 64:11Œ7
+ 
+3.
+ 
+Phillips S, Liang SS, For maz-Preston A, Stewar t PA: High-risk 
+residual gastric content in fasted patients undergoing gastro
+-
+intestinal endoscopy: a prospec tive cohort study of preva
+-
+
+lence and predic tors. Anaesth Intensive Care 2015; 43:728Œ33
+ 
+4.
+ 
+Tiret L, Desmonts JM, Hatton F, Vourc™h G: Complications 
+
+associated with anaesthesiaŒa prospective sur vey in Fr ance. 
+
+CanAnaesth Soc J 1986; 33(3 Pt 1):336Œ44
+ 
+5.
+ 
+War ner MA, War ner ME, Weber JG: Clinical signi˜cance 
+
+of pulmonar y aspiration during the perioperative period. 
+
+A
+NESTHESIOLOGY
+ 1993; 78:56Œ62
+ 
+6.
+ 
+Adelhøj B, Petring OU, Frøsig F, Bigler DR, Jensen BN: 
+
+In˚uence of cigarette smoking on the risk of acid pulmonar y 
+
+aspir ation.Ac taAnaesthesiol Scand 1987; 31:7Œ9
+ 
+7.
+ 
+Hardy JF, Lepage Y, Bonneville-Chouinard N: Occurrence of 
+
+gastroesophageal re˚ux on induc tion of anaesthesia does 
+
+not correlate with the volume of gastric contents. Can J 
+
+Anaesth 1990; 37:502Œ8
+ 
+8.
+ 
+Har ter RL, Kelly WB, Kr amer MG, Perez CE, Dzwonczyk 
+
+RR: A comparison of the volume and pH of gastric contents 
+of obese and lean surgical patients. Anesth Analg 1998; 
+86:147Œ52
+ 
+9.
+ 
+Ishihara H, Singh H, Giesecke AH: Relationship between 
+diabetic autonomic neuropathy and gastric contents. Anesth 
+
+Analg 1994; 78:943Œ7
+ 
+10.
+ 
+Vaughan RW, Bauer S,Wise L: Volume and pH of gastric juice 
+in obese patients.A
+NESTHESIOLOGY
+ 1975; 43:686Œ9
+ 
+11.
+ 
+Wright DJ, Pandya A: Smoking and gastric juice volume in 
+outpatients. CanAnaesth Soc J 1979; 26:328Œ30
+ 
+12.
+ 
+Agar wal A, Chari P, Singh H: Fluid deprivation before oper a
+-
+tion. The ef fec t of a small drink.Anaesthesia 1989; 44:632Œ4
+ 
+13.
+ 
+Hutchinson A, Maltby JR, Reid CR: Gastric ˚uid volume and 
+pH in elec tive inpatients. Par t I: Coffee or or ange juice 
+ver sus
+ 
+
+over night fast. Can JAnaesth 1988; 35:12Œ5
+ 
+14.
+ 
+Itou K, Fukuyama T, Sasabuchi Y, Yasuda H, Suzuki N, 
+Hinenoya H, Kim C, Sanui M, Taniguchi H, Miyao H, Seo N, 
+Takeuchi M, Iwao Y, Sakamoto A, Fujita Y, Suzuki T: Safety 
+and ef ˜cacy of or al rehydr ation ther apy until 2
+ 
+h before 
+surger y: a multicenter r andomized controlled trial. J Anesth 
+
+2012; 26:20Œ7
+ 
+15.
+ 
+Jär velä K, Maar anen P, Sisto T: Pre-oper ative or al carbohy
+-
+dr ate treatment before coronar y ar ter y bypass surger y. Ac ta 
+Anaesthesiol Scand 2008; 52:793Œ7
+ 
+16.
+ 
+Maltby JR, SutherlandAD, Sale JP, Shaf fer EA: Preoper ative 
+or al ˚uids: is a ˜ve-hour fast justi˜ed prior to elec tive sur
+-
+ger y? Anesth Analg 1986; 65:1112Œ6
+ 
+17.
+ 
+McGr ady EM, Macdonald AG: Ef fec t of the preoper ative 
+administr ation of water on gastric volume and pH. Br J 
+
+Anaesth 1988; 60:803Œ5
+ 
+18.
+ 
+Nakai K, Niwa H, Kitayama M, SatohY, Hirota K: Ef fec ts 
+of or al rehydr ation ther apy on gastric volume and pH in 
+patients with preanesthetic H2 antagonist. J Anesth 2012; 
+26:936Œ8
+ 
+19.
+ 
+Phillips S, Hutchinson S, Davidson T: Preoperative drinking 
+does not affec t gastric contents. Br JAnaesth 1993; 70:6Œ9
+ 
+20.
+ 
+Sutherland AD, Maltby JR, Sale JP, Reid CR:The ef fec t of 
+preoperative or al ˚uid and r anitidine on gastric ˚uid volume 
+
+and pH. Can J Anaesth 1987; 34:117Œ21
+ 
+21.
+ 
+Yagci G, Can MF, Ozturk E, Dag B, Ozgur tas T, Cosar A, Tufan 
+T: Ef fec ts of preoperative carbohydr ate loading on glucose 
+
+metabolism and gastric contents in patients undergoing 
+
+moder ate surgery: a r andomized, controlled trial. Nutrition 
+
+2008; 24:212Œ6
+ 
+22.
+ 
+Gilbert SS, Easy WR, Fitch WW: The effec t of pre-oper ative 
+or al ˚uids on morbidity following anaesthesia for minor sur
+-
+ger y.Anaesthesia 1995; 50:79Œ81
+ 
+23.
+ 
+Goodwin AP, Rowe WL, Ogg TW, Samaan A: Or al ˚uids prior  
+to day surger y. The ef fec t of shor tening the pre-oper ative ˚uid 
+fast on postoper ative morbidity. Anaesthesia 1991; 46:1066Œ8
+ 
+24.
+ 
+Wang ZG, Wang Q, Wang WJ, Qin HL: Randomized clinical 
+trial to compare the ef fects of preoper ative or al carbohydrate 
+
+ver sus
+ placebo on insulin resistance af ter colorectal surger y. 
+
+Br J Surg 2010; 97:317Œ27
+ 
+25.
+ 
+Bopp C, Hofer S, Klein A, Weigand MA, Mar tin E, Gust R: A 
+liber al preoperative fasting regimen improves patient com
+-
+
+for t and satisfaction with anesthesia care in day-stay minor 
+
+surger y. MinervaAnestesiol 2009; 75:1Œ7
+ 
+26.
+ 
+Breuer JP, von Dossow V, von Heymann C, Griesbach M, 
+von Schickfus M, Mackh E, Hacker C, Elgeti U, Konertz W, 
+
+Wer necke KD, Spies CD: Preoper ative oral carbohydr ate 
+
+administration to ASA III-IV patients undergoing elective 
+
+cardiac surger y.AnesthAnalg 2006; 103:1099Œ108
+ 
+27.
+ 
+Kaska M, Grosmanová T, Havel E, Hyspler R, Petrová Z, Br tko 
+M, Bares P, Bares D, Schusterová B, Pyszková L, Tosnerová 
+
+V, Sluka M: The impac t and safety of preoper ative oral or 
+
+intr avenous carbohydrate administr ation 
+versus
+ fasting in 
+
+colorectal surger yŒa r andomized controlled trial. Wien Klin 
+
+Wochenschr 2010; 122:23Œ30
+ 
+28.
+ 
+Melis GC, van Leeuwen PA, von Blomberg-van der Flier BM, 
+Goedhart-Hiddinga AC, Uitdehaag BM, Strack van Schijndel 
+RJ, Wuisman PI, van Bokhorst-de van der Schueren MA: A 
+carbohydrate-rich bever age prior to surger y prevents sur
+-
+ger y-induced immunodepression: a r andomized, controlled, 
+clinical trial. JPEN J Parenter Enter al Nutr 2006; 30:21Œ6
+ 
+29.
+ 
+Pexe-Machado PA, de Oliveir a BD, Dock-Nascimento DB, 
+de Aguilar-Nascimento JE: Shrinking preoper ative fast time 
+
+with maltodex trin and protein hydrolysate in gastrointestinal 
+
+resec tions due to cancer. Nutrition 2013; 29:1054Œ9
+ 
+30.
+ 
+Sada F, Kr asniqiA, HamzaA, Gecaj-Gashi A, Bicaj B, Kavaja 
+F: A r andomized trial of preoperative or al carbohydr ates in 
+
+abdominal surger y. BMCAnesthesiol 2014; 14:93
+ 
+31.
+ 
+Yildiz H, Gunal SE, Yilmaz G, Yucel S: Or al carbohydr ate 
+supplementation reduces preoperative discomfor t in laparo
+-
+scopic cholecystectomy. J Invest Surg 2013; 26:89Œ95
+ 
+32.
+ 
+Yilmaz N, Cekmen N, Bilgin F, Er ten E, Ozhan MÖ, Co
+˜
+ar A: 
+Preoper ative carbohydr ate nutrition reduces postoperative 
+nausea and vomiting compared to preoper ative fasting. J Res 
+Med Sci 2013; 18:827Œ32
+ 
+33.
+ 
+Aun CS, Panesar NS: Paediatric glucose homeostasis during 
+anaesthesia. Br JAnaesth 1990; 64:413Œ8
+ 
+34.
+ 
+Gombar S, Dureja J, Kir an S, Gombar K, Chhabr a B:The 
+ef fec t of pre-operative intake of or al water and ranitidine on 
+Anesthesiology 2017; 126:376-93
+ 
+392
+ 
+Pr ac tice Guidelines
+gastric ˚uid volume and pH in children undergoing elec tive 
+surger y. J Indian Med Assoc 1997; 95:166Œ8
+ 
+35.
+ 
+Maekawa N, Mikawa K,Yaku H, Nishina K, Obar a H: Ef fec ts 
+of 2-, 4- and 12-hour fasting inter vals on preoper ative gas
+-
+tric ˚uid pH and volume, and plasma glucose and lipid 
+homeostasis in children. Ac ta Anaesthesiol Scand 1993; 
+37:783Œ7
+ 
+36.
+ 
+Miller BR, Tharp JA, Issacs WB: Gastric residual volume in infants  
+and children following a 3-hour fast. J Clin Anesth 1990; 2:301Œ5
+ 
+37.
+ 
+Nicolson SC, Dorsey AT, Schreiner MS: Shor tened preanes
+-
+thetic fasting inter val in pediatric cardiac surgical patients. 
+AnesthAnalg 1992; 74:694Œ7
+ 
+38.
+ 
+Schreiner MS, Triebwasser A, Keon TP: Ingestion of liquids 
+compared with preoper ative fasting in pediatric outpatients. 
+A
+NESTHESIOLOGY
+ 1990; 72:593Œ7
+ 
+39.
+ 
+Splinter WM, Schaefer JD, Zunder IH: Clear ˚uids three 
+hours before surger y do not af fect the gastric ˚uid contents 
+of children. Can JAnaesth 1990; 37:498Œ501
+ 
+40.
+ 
+Splinter WM, Schaefer JD: Ingestion of clear ˚uids is safe for ado
+-
+
+lescents up to 3
+ 
+h before anaesthesia. Br J Anaesth 1991; 66:48Œ52
+ 
+41.
+ 
+SplinterWM, Stewart JA, Muir JG: Large volumes of apple 
+juice preoper atively do not af fec t gastric pH and volume in 
+children. Can JAnaesth 1990; 37:36Œ9
+ 
+42.
+ 
+Splinter WM, Stewar t JA, Muir JG: The ef fec t of preoperative 
+apple juice on gastric contents, thirst, and hunger in chil
+-
+
+dren. Can J Anaesth 1989; 36:55Œ8
+ 
+43.
+ 
+GaweckaA, Mierzewska-Schmidt M: Toler ance of, and meta
+-
+bolic ef fec ts of, preoperative oral carbohydr ate administra
+-
+
+tion in childrenŠa preliminary report. Anaesthesiol Intensive 
+
+Ther 2014; 46:61Œ4
+ 
+44.
+ 
+Litman RS, Wu CL, Quinlivan JK: Gastric volume and pH in 
+infants fed clear liquids and breast milk prior to surgery. 
+Anesth Analg 1994; 79:482Œ5
+ 
+45.
+ 
+SethiAK, Chatterji C, Bhargava SK, Nar ang P,TyagiA: 
+Safe pre-operative fasting times after milk or clear ˚uid in 
+children. A preliminary study using real-time ultrasound. 
+
+Anaesthesia 1999; 54:51Œ9
+ 
+46.
+ 
+van der Walt JH, Foate JA, Mur rell D, Jacob R, Bentley M: A 
+study of preoperative fasting in infants aged less than three 
+
+months.Anaesth Intensive Care 1990; 18:527Œ31
+ 
+47.
+ 
+Miller M, Wishar t HY, Nimmo WS: Gastric contents at induc
+-
+tion of anaesthesia. Is a 4-hour fast necessar y? Br J Anaesth 
+1983; 55:1185Œ8
+ 
+48.
+ 
+Tauhid-ul-mulk M, Rehman SMF, Ali NP, Haque M, Chowdhury 
+MRA: In˚uence of preoper ative fasting time on maternal and 
+neonatal blood glucose level in elec tive caesarean sec tion 
+under subarachnoid block. JAFMC Bangladesh 2010;6:21Œ24
+ 
+49.
+ 
+Meakin G, Dingwall AE, Addison GM: Ef fec ts of fasting and 
+or al premedication on the pH and volume of gastric aspir ate 
+in children. Br JAnaesth 1987; 59:678Œ82
+ 
+50.
+ 
+SethiAK, Chatterji C, Bhargava SK, Nar ang P,TyagiA: 
+Safe pre-operative fasting times after milk or clear ˚uid in 
+children. A preliminary study using real-time ultrasound. 
+Anaesthesia 1999; 54:51Œ9
+ 
+51.
+ 
+Thomas DK: Hypoglycaemia in children before oper ation: its 
+incidence and prevention. Br JAnaesth 1974; 46:66Œ8
+ 
+52.
+ 
+Hillyard S, Cowman S, Ramasundar am R, Seed PT, O™Sullivan 
+G: Does adding milk to tea delay gastric emptying? Br J 
+
+Anaesth 2014; 112:66Œ71
+ 
+53.
+ 
+Larsen B, Larsen LP, Sivesgaard K, Juul S: Black or white cof
+-
+fee before anaesthesia?: A r andomised crossover trial. Eur J 
+Anaesthesiol 2016; 33:457Œ62
+ 
+54.
+ 
+Okabe T, Ter ashima H, Sakamoto A: Deter minants of liquid 
+gastric emptying: comparisons between milk and isocalori
+-
+cally adjusted clear ˚uids. Br JAnaesth 2015; 114:77Œ82
+ 
+55.
+ 
+Jellish WS, Kar tha V, Fluder E, Slogof f S: Ef fec t of metoclo
+-
+pr amide on gastric ˚uid volumes in diabetic patients who have  
+fasted before elec tive surger y.A
+NESTHESIOLOGY
+ 2005; 102:904Œ9
+ 
+56.
+ 
+Manchikanti L, Colliver JA, Mar rero TC, Roush JR: Ranitidine 
+and metoclopramide for prophylaxis of aspir ation pneumo
+-
+nitis in elective surgery.AnesthAnalg 1984; 63:903Œ10
+ 
+57.
+ 
+Manchikanti L, Grow JB, Colliver JA, Hadley CH, Hohlbein 
+LJ: Bicitra (sodium citr ate) and metoclopramide in outpatient 
+anesthesia for prophylaxis against aspir ation pneumonitis. 
+
+A
+NESTHESIOLOGY
+ 1985; 63:378Œ84
+ 
+58.
+ 
+Manchikanti L, Marrero TC, Roush JR: Preanesthetic cimeti
+-
+dine and metoclopr amide for acid aspir ation prophylaxis in 
+elec tive surger y. A
+NESTHESIOLOGY
+ 1984; 61:48Œ54
+ 
+59.
+ 
+Pandit SK, Kothary SP, Pandit UA, Mir akhur RK: Premedication 
+with cimetidine and metoclopramide. Ef fec t on the risk fac
+-
+tors of acid aspiration.Anaesthesia 1986; 41:486Œ92
+ 
+60.
+ 
+Solanki DR, Suresh M, Ethridge HC: The ef fec ts of intrave
+-
+nous cimetidine and metoclopr amide on gastric volume and 
+pH. Anesth Analg 1984; 63:599Œ602
+ 
+61.
+ 
+Andrews AD, Brock-Utne JG, Downing JW: Protec tion against 
+pulmonary acid aspiration with r anitidine. A new histamine 
+
+H2-receptor antagonist.Anaesthesia 1982; 37:22Œ5
+ 
+62.
+ 
+Aromaa U, Kalima T V: Ranitidine and prevention of pulmonar y  
+aspir ation syndrome.Ac taAnaesthesiol Scand 1986; 30:10Œ2
+ 
+63.
+ 
+Dattatraya G, Ullhas M:A Comparative ef ˜cacy of conven
+-
+tional H2 receptor blocker ranitidine and newer proton 
+pump inhibitors omepr azole, pantopr azole and esomepra
+-
+zole for improvement of gastric ˚uid proper ty in adults 
+
+undergoing elective surgery. IOSR-JDMS 2015;14:45Œ48
+ 
+64.
+ 
+Escolano F, Castaño J, Pares N, Bisbe E, Monterde J: 
+Comparison of the ef fec ts of famotidine and r anitidine on 
+gastric secretion in patients undergoing elective surger y. 
+Anaesthesia 1989; 44:212Œ5
+ 
+65.
+ 
+Fr ancis RN, Kwik RS: Or al r anitidine for prophylaxis against 
+Mendelson™s syndrome.Anesth Analg 1982; 61:130Œ2
+ 
+66.
+ 
+Morison DH, Dunn GL, Fargas-BabjakAM, Moudgil GC, 
+Smedstad K, Woo J: A double-blind comparison of cimeti
+-
+dine and r anitidine as prophylaxis against gastric aspiration 
+syndrome. Anesth Analg 1982; 61:988Œ92
+ 
+67.
+ 
+Nishina K, Mikawa K, Maekawa N,Takao Y, Shiga M, Obara 
+H: A comparison of lansoprazole, omepr azole, and r anitidine 
+for reducing preoperative gastric secretion in adult patients 
+
+undergoing elective surgery.AnesthAnalg 1996; 82:832Œ6
+ 
+68.
+ 
+Nishina K, Mikawa K,TakaoY, Shiga M, Maekawa N, Obara 
+H: A comparison of r abepr azole, lansoprazole, and r anitidine 
+for improving preoperative gastric ˚uid proper ty in adults 
+undergoing elective surgery.AnesthAnalg 2000; 90:717Œ21
+ 
+69.
+ 
+O™Connor TA, Basak J, Parker S: The ef fec t of three dif ferent 
+r anitidine dosage regimens on reducing gastric acidity and 
+
+volume in ambulatory surgical patients. Phar macotherapy 
+1995; 15:170Œ5
+ 
+70.
+ 
+Sandhar BK, Goresky GV, Maltby JR, Shaffer EA: Effect of 
+or al liquids and r anitidine on gastric ˚uid volume and pH 
+in children undergoing outpatient surgery. A
+NESTHESIOLOGY
+ 
+1989; 71:327Œ30
+ 
+71.
+ 
+Gonzalez ER, Kallar SK, Dunnavant BW: Single-dose intr ave
+-
+nous H2 blocker prophylaxis against aspiration pneumonitis: 
+assessment of dr ug concentration in gastric aspir ate. AANA J 
+1989; 57:238Œ43
+ 
+72.
+ 
+Maile CJ, Fr ancis RN: Pre-oper ative ranitidine. Ef fec t of a sin
+-
+gle intravenous dose on pH and volume of gastric aspirate. 
+Anaesthesia 1983; 38:324Œ6
+ 
+73.
+ 
+Memi
+˜
+ D, Tur an A, Karamanlioglu B, Sar al P, Türe M, Pamukçu 
+Z: The ef fec t of intravenous pantopr azole and r anitidine for 
+improving preoper ative gastric ˚uid proper ties in adults 
+undergoing elective surgery.AnesthAnalg 2003; 97:1360Œ3
+ 
+74.
+ 
+Radwan KG, Omar SH, Youssef MA, Farouk H, Kamal NM, Sabra  
+ANA: Pre-oper ative intr avenous co-administr ation of r anitidine  
+and metoclopr amide: ef fec t on gastric content in lapar ascopic  
+cholecystec tomy. Med J Cairo Univ 2010;78:125Œ130
+ 
+75.
+ 
+Bar nes PJ, Havill JH: Preoperative cimetidineŒeffec ts on gas
+-
+tric ˚uid.Anaesth Intensive Care 1980; 8:464Œ8
+Anesthesiology 2017; 126:376-93
+ 
+393
+ 
+Pr ac tice Guidelines
+ 
+76.
+ 
+Coombs DW, Hooper D, Colton T:Acid-aspiration prophy
+-
+laxis by use of preoper ative or al administration of cimeti
+-
+
+dine. A
+NESTHESIOLOGY
+ 1979; 51:352Œ6
+ 
+77.
+ 
+Detmer MD, Pandit SK, Cohen PJ: Prophylac tic single-dose 
+or al antacid ther apy in the preoperative periodŒcomparison 
+
+of cimetidine and Maalox.A
+NESTHESIOLOGY
+ 1979; 51:270Œ3
+ 
+78.
+ 
+Dur r ant JM, Str unin L: Comparative trial of the ef fec t of r aniti
+-
+dine and cimetidine on gastric secretion in fasting patients at 
+
+induction of anaesthesia. Can Anaesth Soc J 1982; 29:446Œ51
+ 
+79.
+ 
+Foulkes E, Jenkins LC: A comparative evaluation of cimeti
+-
+dine and sodium citrate to decrease gastric acidity: ef fec tive
+-
+
+ness at the time of induction of anaesthesia. Can Anaesth Soc 
+
+J 1981; 28:29Œ32
+ 
+80.
+ 
+Gonzalez ER, Butler SA, Jones MK, Mor ford DA, Walsh WM, 
+Kallar SK: Cimetidine 
+ver sus
+ r anitidine: single-dose, oral reg
+-
+
+imen for reducing gastric acidity and volume in ambulatory 
+
+surger y patients. Dr ug Intell Clin Pharm 1987; 21:192Œ5
+ 
+81.
+ 
+Husemeyer RP, Davenport HT, Rajasekar an T: Cimetidine as 
+a single or al dose for prophylaxis against Mendelson™s syn
+-
+
+drome.Anaesthesia 1978; 33:775Œ8
+ 
+82.
+ 
+Kirkegaard P, Sørensen O, Kirkegaard P: Cimetidine in 
+the prevention of acid aspiration during anesthesia. Ac ta 
+
+Anaesthesiol Scand 1980; 24:58Œ60
+ 
+83.
+ 
+Manchikanti L, Roush JR: Ef fec t of preanesthetic glycopyr
+-
+rolate and cimetidine on gastric ˚uid pH and volume in out
+-
+patients. Anesth Analg 1984; 63:40Œ6
+ 
+84.
+ 
+Salmenperä M, Kor ttila K, Kalima T: Reduc tion of the risk of acid  
+
+pulmonar y aspir ation in anaesthetized patients af ter cimetidine  
+
+premedication.Acta Anaesthesiol Scand 1980; 24:25Œ30
+ 
+85.
+ 
+Stock JG, Sutherland AD: The role of H2 receptor antagonist 
+premedication in pregnant day care patients. Can Anaesth 
+
+Soc J 1985; 32:463Œ7
+ 
+86.
+ 
+Tr yba M, Yildiz F, Kühn K, Dziuba M, Zenz M: Rectal and or al 
+cimetidine for prophylaxis of aspiration pneumonitis in pae
+-
+
+diatric anaesthesia. Ac ta Anaesthesiol Scand 1983; 27:328Œ30
+ 
+87.
+ 
+Weber L, Hirshman CA: Cimetidine for prophylaxis of aspir a
+-
+t i o n  p n e u m onitis: comparison of intr amuscular and or al dos
+-
+
+age schedules.AnesthAnalg 1979; 58:426Œ7
+ 
+8 8 .
+ 
+Callander P, Humphrey D, Brock-Utne JG: The use of gastrozepin  
+
+as a prophylaxis against pulmonary acid aspiration: a new mus
+-
+
+carinic receptor antagonist. Eur JAnaesthesiol 1987; 4:149Œ53
+ 
+89.
+ 
+Abe K, Shibata M, Demizu A, Hazano S, Sumikawa K, 
+Enomoto H, Mashimo T, Tashiro C, Yoshiya I: Ef fec t of or al 
+
+and intr amuscular famotidine on pH and volume of gastric 
+
+contents. Anesth Analg 1989; 68:541Œ4
+ 
+90.
+ 
+Jahr JS, Burckar t G, Smith SS, Shapiro J, Cook DR: Effec ts of 
+famotidine on gastric pH and residual volume in pediatric 
+
+surger y.Ac taAnaesthesiol Scand 1991; 35:457Œ60
+ 
+91.
+ 
+Khan MU, Aqil M, Hussain A, Zahr ani TA, Hillis M: Comparison 
+of the Ef fec t of Pre-operative Single Or al Dose of Tr amadol 
+
+and Famotidine on Gastric Secretions pH and Volume in 
+
+Patients Scheduled for Laparoscopic Cholecystectomy. J Coll 
+
+Physicians Surg Pak 2015; 25:320Œ3
+ 
+92.
+ 
+Enoki T, Hatano Y, Tsujimura Y, Nomura R: Attenuation of 
+
+gastric ef fec ts of famotidine by preoper ative administration 
+
+of intravenous ˚uids.Anesth Analg 1992; 74:68Œ71
+ 
+93.
+ 
+Gouda BB, Lydon AM, Badhe A, Shor ten GD: A comparison 
+
+of the effec ts of r anitidine and omeprazole on volume and 
+
+pH of gastric contents in elec tive surgical patients. Eur J 
+
+Anaesthesiol 2004; 21:260Œ4
+ 
+94.
+ 
+Haskins DA, Jahr JS, Texidor M, Ramadhyani U: Single-dose 
+
+or al omepr azole for reduc tion of gastric residual acidity in 
+
+adults for outpatient surger y. Ac ta Anaesthesiol Scand 1992; 
+
+36:513Œ5
+ 
+95.
+ 
+Nishina K, Mikawa K, Maekawa N, Tamada M, Obara H: 
+
+Omeprazole reduces preoperative gastric ˚uid acidity and 
+
+volume in children. Can J Anaesth 1994; 41:925Œ9
+ 
+96.
+ 
+Hett DA, Scott RC, Risdall JE: Lansopr azole in the prophy
+-
+
+laxis of acid aspir ation during elective surger y. Br J Anaesth 
+
+1995; 74:614Œ5
+ 
+97.
+ 
+Mikawa K, Nishina K, Maekawa N, Asano M, Obar a H: 
+
+Lansoprazole reduces preoperative gastric ˚uid acidity and 
+
+volume in children. Can J Anaesth 1995; 42:467Œ72
+ 
+98.
+ 
+Bhattacharyya T, Sarbapalli D, Pal R, Sarkar U, Kar S, Kundu 
+
+KK, Zaman FA: Evaluating r anitidine, pantoprazole and 
+
+placebo on gastric pH in elec tive surgery. Saudi J Anaesth 
+
+2011; 5:67Œ72
+ 
+99.
+ 
+Henderson JM, Spence DG, Clarke WN, Bonn GG, Noel 
+
+LP: Sodium citr ate in paediatric outpatients. Can J Anaesth 
+
+1987; 34:560Œ2
+ 
+100.
+ 
+Viegas OJ, Ravindran RS, Shumacker CA: Gastric ˚uid pH 
+in patients receiving sodium citrate. Anesth Analg 1981; 
+60:521Œ3
+ 
+101.
+ 
+Hutchinson BR: Preoperative magnesium trisilicate in 
+infants.Anaesth Intensive Care 1976; 4:192Œ5
+ 
+102.
+ 
+Ber nstein CA, Waters JH, Torjman MC, Ritter D: Preoperative 
+glycopyr rolate: or al, intr amuscular, or intravenous adminis
+-
+tr ation. J ClinAnesth 1996; 8:515Œ8
+ 
+103.
+ 
+Stoelting RK: Gastric ˚uid volume and pH af ter fentanyl, 
+en˚ur ane, or halothane-nitrous oxide anesthesia with or 
+without atropine or glycopyr rolate. Anesth Analg 1980; 
+
+59:287Œ90
+ 
+104.
+ 
+Stoelting RK: Responses to atropine, glycopyrrolate, and 
+riopan of gastric ˚uid pH and volume in adult patients. 
+A
+NESTHESIOLOGY
+ 1978; 48:367Œ9
+ 
+105.
+ 
+Dimich I, Katende R, Singh PP, Mikula S, Sonnenklar N: The 
+ef fec ts of intr avenous cimetidine and metoclopramide on 
+gastric pH and volume in outpatients. J Clin Anesth 1991; 
+
+3:40Œ4
+ 
+106.
+ 
+Atanassoff PG, Rohling R, Alon E, Br ull SJ: Ef fec ts of single-
+dose or al r anitidine and sodium citr ate on gastric pH dur
+-
+ing and af ter gener al anaesthesia. Can J Anaesth 1995; 42(5 
+Pt 1):382Œ6
+ 
+107.
+ 
+Schmidt JF, Jørgensen BC: The ef fec t of metoclopramide 
+on gastric contents af ter preoper ative ingestion of sodium 
+citr ate. Anesth Analg 1984; 63:841Œ3

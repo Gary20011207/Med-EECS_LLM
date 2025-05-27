@@ -1,0 +1,820 @@
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/
+by-nc/4.0), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+© 
+2023
+ The Korean Society of Surgical Metabolism and Nutrition 
+˜
+ The Korean Society for Parenteral and Enteral Nutrition
+I ntro duc tion
+B ackground
+Pulmonary aspiration, which causes chemical injury or 
+pneumonitis in the lungs, is considered one of the most fatal 
+complications during induction of general anesthesia [1]. To 
+prevent this complication, most surgeons and anesthesiolo
+-
+gists recommend stomach emptying before surgery, and 
+patients are given the common nil per oral (NPO) after mid
+-
+night instructions the day before the surgery.
+Ann C lin Nut r Met ab 
+2023
+;
+15
+:15-21
+https://doi.org/10.15747/ACNM.
+2023.
+15
+.
+1
+.15
+eISSN 2799-8363
+Received:
+ Novemb er 11, 
+2022
+; 
+Revised:
+ D e cemb er 26, 
+2022
+; 
+Accepted:
+ Janu ar y 11, 
+2023
+Corresponding author: 
+Hongb eom Kim, 
+email:
+ hongb eom.k im@s amsung .com
+ACNM
+Annals of Clinic al Nutrition and M etabolism
+O riginal article
+Preoperative consumption of a carbohydrate drink  
+b efore laparoscopic cholecystectomy is safe and 
+b eneficial in Korea: a non-randomized controlled 
+study
+Yoo Jin Choi
+1,2
+, Yoonhyeong B yun
+1,3
+, S eong MiYang
+4
+, Ho -Jin Lee
+4
+, Hongbeom Kim
+1,5
+1
+D ep art ment of Surger y, S e ou l Nat iona l Universit y C ol lege of Me dicine, Se ou l, Kore a; 
+2
+D ep art ment of Surger y, Kore a Universit y C ol lege 
+of Me dicine, S e ou l, Korea; 
+3
+D ep art ment of Surger y, Uij eongbu Eu lji Me dica l C enter, Uij e ongbu, Kore a; 
+4
+D ep art ment of Anest hesiolog y 
+and Pain Me dicine, S e ou l Nationa l Universit y Hospit a l, S eou l, Kore a; 
+5
+D ep art ment of Surger y, Samsung Medic a l C enter, Sung kyun kwan 
+University S cho ol of Medicine, S e oul, Kore a
+Abstrac t
+Purpose:
+ Overnight fasting prior to elective surgery is the traditional way of avoiding the risk of aspiration during 
+anest hesia induc t ion. Howe ver, it c aus es ment a l and met ab olic st ress to p at ients. Therefore, we invest igate d t he s afet y 
+and p otent ia l b enefits of t he pre op erat ive consumpt ion of a carb ohydrate drin k.
+M ethods:
+ This was a single-center prosp ec t ive, nonrandomized study with questionnaire. Pat ients scheduled for 
+ele ct ive lap aros copic chole cyste c tomy were include d. There was no rest r ic t ion on age, underly ing dis e ases, and bi liar y 
+drainage prior to surgery. They were preoperatively given either a carbohydrate drink or were instructed to fast from 
+midnight b efore surger y. Per ioperat ive emot iona l st atus was me asure d using the v isu a l analog s c a le. 
+Results:
+ The 132 p at ients completed t he questionnaire, w it h 68 re ceiv ing t he c arbohydrate dr in k and 64 follow ing 
+nil per oral after-midnight instruction. There were no postoperative complications related to preoperative drink 
+consumption or the cholecystectomy procedure itself in both groups. There were no significant differences in all the 
+ass ess ed fe elings p ostoperatively except t hat preop erat ive dis comforts, such as hunger and thirst, were sig nif ic ant ly 
+more a lle v i ate d in the g roup of pre op erat ive consumpt ion of a c arb ohydrate drin k. 
+Conclusion:
+ Preoperative consumption of a carbohydrate drink was found to be safe and effective in allevi ating 
+pre op erat ive dis comfor t in ele c tive surger y p at ients, including older p at ients and t hose w it h underly ing comorbidit ies, 
+who were at greater risk for aspiration. Therefore, we recommend considering preoperative drink consumption as an 
+a lternat ive to t raditiona l over night fast ing in ele c t ive surger y p at ients. 
+Key words: 
+C arb ohydrates; Chole c yste c tomy, l ap aros copic; Fast ing; Hunger ; Postoperat ive nause a and vomit ing 
+16
+Ann Clin Nutr Metab 2023;15:15-21
+https://doi.org/10.15747/ACNM.2023.15.1.15
+However, patients who fast often experience hunger and 
+thirst during the wait time for surgery [2,3]. Moreover, fast-
+ing induces metabolic stress and insulin resistance, which 
+may increase risk of postoperative complications [4,5]. 
+Therefore, at present, according to the guidelines outlined 
+by the Cochrane Review 2003 [6], American Society of An- 
+esthesiologists (ASA) 2017 [7], and Enhanced Recovery after 
+Surgery (ERAS) [8], preoperative overnight fasting is not rec- 
+ommended and can be shortened to six hours for solids and 
+two hours for liquids. Moreover, preoperative carbohydrate 
+loading, instead of clear water, is recommended before sur
+-
+gery.
+However, for most surgeons and anesthesiologists, it is 
+still challenging to disregard this traditional regimen of over
+-
+night fasting. Moreover, little consideration is given to the 
+evidence-based guidelines, and NPO after midnight before 
+surgery is still being imposed on surgical patients.
+Objec tives
+In this study, as medical trends are heading toward imple
+-
+menting ERAS protocol for patients, we aimed to demon
+-
+strate that preoperative oral carbohydrate supplements are 
+safe and can improve the quality of life in our patients, who 
+generally have a high risk of pulmonary aspiration.
+M etho ds
+Ethics statement 
+This study was approved by the Institutional Review Board 
+of Seoul National University Hospital (approval number: 
+2007-030-1139). All patients were given written informed 
+consent out- lining a full explanation of the procedure in the 
+study.
+Study design 
+This was a single-center prospective, non-randomized 
+study with questionnaire. It was described according to the 
+TREND statement (https://www.cdc.gov/trendstatement/in
+-
+dex.html). 
+Par ticipants 
+A total of 170 patients were electively scheduled for 
+laparoscopic or robotic cholecystectomy under general an
+-
+esthesia from April 2020 to November 2020. Patients who 
+could not comprehend the study protocol or miswrote the 
+questionnaire were excluded. There were no restrictions on 
+age, ASA grade, history of abdominal surgery, and whether 
+percutaneous transhepatic gallbladder drainage (PTGBD) or 
+endoscopic retrograde biliary drainage (ERBD) was inserted 
+before the surgery.
+Patients were divided into the two following groups
+The NPO and carbohydrate drink (CHOd) groups. First, we 
+enrolled only the NPO group, because NPO from midnight 
+was the traditional protocol for preoperative preparation, 
+which requires patients to fast for at least six hours before 
+surgery. After enrolling approximately 60 patients in the NPO 
+group, we consulted with the anesthesiologists to change the 
+traditional protocol to the ERAS protocol. Both departments 
+approved a preoperative carbohydrate drinking protocol 
+as safe as possible according to our hospital circumstances. 
+Then, we enrolled patients in the CHOd group.
+Study protocol
+The NPO group fasted after midnight before the surgery, 
+following the usual preoperative protocol. The CHOd group 
+was instructed to consume a 200 mL CHOd (NuCARE NO-
+NPO
+TM
+: 100 kcal solution containing glucose 25.6 g, sodium 
+104 mg, and potassium 96 mg; DAESANG Wellife) at least 
+two hours before surgery. For example, if the patients were 
+scheduled for the first operation of the day, which started 
+at 8 AM, or was expected to undergo surgery in the morn
+-
+ing, they consumed the drink by 6 AM. If the patients were 
+scheduled for surgery in the afternoon, they consumed the 
+drink by 10 AM.
+Surgical procedure and postoperative management
+Second-generation cephalosporin (1g iv) was injected for 
+prophylaxis 30 minutes before the surgical incision. During 
+the laparoscopic cholecystectomy, we used three trocars, 
+which were inserted at the umbilical site (12 mm), epigastric 
+area, and right mid-subclavian line (each 5 mm). We made a 
+single 3 cm incision at the umbilicus for the robotic-assisted 
+cholecystectomy. Gallbladder resection was performed fol- 
+lowing the usual surgical procedure.
+The patients were allowed to drink clear water six hours 
+after surgery and were provided a regular diet the morning 
+after surgery. The patients completed the questionnaire after 
+they were transported to their respective wards from the sur- 
+gical unit. In addition, postoperative laboratory assessment, 
+such as hemoglobin level, white-blood cell count, platelet 
+level, liver function test, blood urea nitrogen level, and cre - 
+atinine level, was conducted to examine any postoperative 
+complications. Patients with no postoperative complications 
+were routinely discharged one or two days postoperation.
+Q uestionnaires
+Before the surgery, patients scored their feelings of anxiety, 
+weakness, hunger, thirst, and discomfort on a scale from 0 
+to 10 according to the 
+visual analogue 
+scale (VAS) [9]
+ After 
+surgery, patients were asked about nausea and pain in addi
+-
+tion to the preoperative questions. The variables of the ques
+-
+tionnaire were adapted from previous studies [
+10,11
+]. Both 
+groups were asked to answer the questionnaire in the ward 
+immediately before going to the surgical unit so that the two 
+groups were in the same situation, and any feelings they had 
+toward the surgery during that time could be compared with 
+a minimal bias. The questionnaire was translated in English 
+17
+and provided (Supplement 1).
+S ample size
+Sample size was not estimated. Participants were recruited 
+from April 2020 to November 2020 till the number of en
+-
+rolled NPO group reached about 60. 
+Assignment method
+Unit of assignment to study condition is a group of NPO or 
+none. The earlier individuals were assigned to NPO group. 
+There was no matching of the participants for two groups. 
+Blinding (masking)
+There was no blinding to study condition assignment.
+Unit of analysis
+The unit of analysis is same to the unit of assignment.
+Statistical methods
+The VAS score, which was a continuous variable, was pre- 
+sented as a mean±standard deviation and compared using 
+an independent t-test. P<0.05 was considered statistically 
+significant. Nominal variables were compared using Pearson™s 
+chi-square and Fisher ™s exact test analysis. IBM SPSS Statistics 
+23.0 (IBM Corp.) software was used for statistical analysis.
+Results
+Par ticipants
+Of the 170 patients who underwent elective laparoscopic 
+or robotic cholecystectomy, 132 completed the question- 
+naire. Among them, 64 and 68 were in the NPO and CHOd 
+groups, respectively (
+Table 1
+). Variables in the preoperative 
+demographics were comparable between the two groups, 
+except for the preoperative diagnosis. Overall, the patients 
+were middle-aged (mean, 57.27±12.95 years; range, 24
+Œ
+84 
+years); 44.7% had comorbidities according to ASA classifica
+-
+tion, with 31.1% of them diagnosed with critical diseases, 
+such as neurovascular, cardiopulmonary, renal, and hepatic 
+diseases that required surgical interventions. Further, 24.2% 
+had a history of abdominal surgery, which might affect the 
+outcome of cholecystectomy.
+Preoperative radiology diagnosis revealed that calculous 
+cholecystitis was the most common case (34.8%), and acute 
+cholecystitis accounted for only 6.8%. For some patients 
+initially diagnosed with acute cholecystitis, biliary drainages 
+were performed before surgery (7.6% PTGBD or ERBD). 
+There was no open conversion case.
+Table 1.
+ Preoperative demographics
+Var iable
+Total (n=132)
+NP O (n=64)
+CHO d (n=68)
+P-v a l u e
+Ag e (yr)
+57.27±12.95
+58.06±13.89
+56.61±12.06
+0.495
+S ex , male
+52 (39.4)
+21 (32.8)
+31 (45.6)
+0.133
+B o dy mass index (kg/m
+2
+)
+23.97±3.96
+23.87±3.60
+24.05±4.29
+0.795
+ASA (˚2)
+59 (44.7)
+23 (35.9)
+35 (51.5)
+0.089
+H TN
+36 (27.3)
+18 (28.1)
+18 (26.5)
+0.788
+DM
+20 (15.2)
+12 (18.8)
+8 (11.8)
+0.247
+Other critical dis ease
+a
+41 (31.1)
+15 (23.4)
+25 (36.8)
+0.108
+Cancer
+20 (15.2)
+10 (15.6)
+10 (14.7)
+0.853
+Past ab dominal op erative histor y
+32 (24.2)
+18 (28.1)
+14 (20.6)
+0.389
+Pre op erative diag nosis
+0.043
+   GB stone
+42 (31.8)
+19 (29.7)
+23 (33.8)
+   GB p olyp
+24 (18.2)
+13 (20.3)
+11 (16.2)
+   Chronic cholec ystitis
+b
+11 (8.3)
+2 (3.1)
+9 (13.2)
+   Calculous cholec ystitis
+b
+46 (34.8)
+28 (43.8)
+18 (26.5)
+   Acute (calculous) cholec ystitis
+9 (6.8)
+2 (3.1)
+7 (10.3)
+P TG B D
+10 (7.6)
+4 (6.3)
+6 (8.8)
+0.594
+ERBD or P TBD
+10 (7.6)
+6 (9.4)
+4 (5.9)
+0.433
+Values are pres ente d as mean±standard de viation or numb er (%).
+NPO = nil per oral; CHOd = carbohydrate drink; ASA = American Society of Anesthesiologists; HTN = hypertension; DM = 
+diabetes mellitus; GB = gallbladder; PTGBD = percutaneous transhepatic gallbladder drainage; ERBD=endoscopic retrograde 
+biliar y drainag e; P TBD = percutane ous transhepatic biliar y drainag e.
+a
+Patients with neurovas cular, cardiopulmonar y, renal, and hepatic dis eas es. 
+b
+Calculous chole cystitis and chronic chole c ystitis had symptoms relate d GB.
+18
+Ann Clin Nutr Metab 2023;15:15-21
+https://doi.org/10.15747/ACNM.2023.15.1.15
+M ain results
+Operative data and postoperative complications
+Most patients (88.6%) underwent the laparoscopic proce- 
+dure with three trocar insertion methods (
+Table 2
+). According 
+to the intraoperative findings, gallbladder stones and inflam- 
+mation were observed in 71.2% and 42.4% of the patients, 
+respectively. Patients with severe inflammation had drains in- 
+serted (n=26) at the operative site. There were no significant 
+differences in operative data between the two groups.
+There were no postoperative complications related to pre- 
+operative drink consumption or cholecystectomy procedure 
+itself, such as pulmonary aspiration, pneumonia, vomiting 
+after surgery, bleeding, infection, and bile leakage that could 
+lengthen the patient™s hospital stay. The mean hospital stay 
+was 1.93±1.00 days (data not shown).
+Evaluation of perioperative emotional status
+Perioperative emotional status was measured using the VAS 
+system (
+Table 3
+). In the CHOd group, the preoperative VAS 
+of only hunger and thirst scored significantly lower than that 
+of the NPO group (hunger, P=0.035; thirst, P=0.001) before 
+surgery (
+Fig. 1
+).
+However, there were no significant differences in all the 
+assessed feelings postoperatively, including postoperative 
+nausea and pain (
+Fig. 2
+).
+D iscussion
+I nterpretation
+In general, with advancements in surgical techniques and 
+perioperative management, clinicians are beginning to focus 
+more on improving the patients™ perioperative quality of life. 
+Since the 1990s, ERAS or ﬁfast-trackﬂ programs have been 
+introduced in various surgical fields to ensure early recovery 
+from surgery or improve the catabolic conditions of patients 
+[
+12,13
+]. Among the many issues considered in ERAS proto- 
+cols, reducing perioperative NPO time has been one of the 
+main principles in most surgical fields. Despite considerable 
+efforts, we and many other centers have not adopted these 
+evidence-based suggestions, and still instruct patients to fol- 
+low the traditional regimen of overnight fasting before elec- 
+tive surgery. However, we believe that the recommendation 
+for overnight fasting should be discontinued.
+Since general anesthesia inhibits coughing and airway re- 
+flexes, reflux of gastric contents during general anesthesia in- 
+creases the risk of lung aspiration. Therefore, it is a common 
+practice for many surgeons and anesthesiologists to instruct 
+the patients to fast for six to eight hours before surgery. How- 
+ever, the operation time is not exact for each patient, and if 
+Table 2.
+ Operative data
+Var iable
+NP O (n=64)
+CHO d (n=68)
+P-v a l u e
+Laparos copic/
+   robotic
+59 (92.2)/5 (7.8)
+59 (86.8)/9 (13.2)
+0.327
+Gallbladder 
+   stones
+45 (70.3)
+49 (72.1)
+0.825
+Inflammation 
+   (intraoperative)
+28 (43.8)
+28 (41.2)
+0.765
+Drain ins ertion
+9 (14.1)
+17 (25.0)
+0.114
+Values are pres ente d as numb er (%). 
+NP O = nil per oral; CHOd = carb ohydrate drink.
+VA
+S
+score
+Anxiety
+10
+8
+6
+4
+2
+0
+W
+eakness
+Hunger
+Thirst
+Uncomfortable
+**
+NPO
+CHOd
+Emotion
+Fig. 1.
+ Preoperative emotional status. Compar ison of visual ana
+-
+logue scale ( VAS) of preoperative emotional states between the 
+nil per oral (NPO) group and car bohydrate dr ink (CHO d) group. 
+*P<0.05.
+Table 3.
+ Preoperative and postoperative emotional status 
+Var iable
+NP O
+(n=64)
+CHO d
+(n=68)
+P-v a l u e
+Pre operative
+   Anxiet y
+3.81±2.24
+4.41±2.33
+0.134
+   Weakness
+3.68±2.21
+3.07±2.22
+0.118
+   Hung er
+3.67±2.50
+2.79±2.20
+0.035*
+   Thirst
+4.11±2.44
+2.78±1.97
+0.001*
+   Uncomfortable
+3.51±2.25
+3.21±1.86
+0.302
+Postop erative
+   Anxiet y
+2.97±2.55
+3.66±2.37
+0.109
+   Weakness
+4.19±2.60
+3.81±2.49
+0.392
+   Hung er
+3.03±2.48
+3.00±2.33
+0.940
+   Thirst
+5.05±2.81
+4.53±2.67
+0.281
+   Uncomfortable
+5.33±2.53
+5.62±2.29
+0.501
+   Na u se a
+2.61±2.64
+2.90±2.45
+0.526
+   Pain
+6.13±2.22 
+5.99±2.25
+0.142
+Values are pres ente d as mean±standard de viation.
+Visual analogue s cale was use d for measurements.
+NP O = nil per oral; CHOd = carb ohydrate drink.
+*P<0.05.
+19
+the surgery is delayed, certain patients are required to fast 
+for more than the expected time. These patients are required 
+to endure the inconveniences associated with such a delay, 
+including hunger and thirst, in addition to the fear of the 
+surgery. Furthermore, prolonged fasting may lead to a cata- 
+bolic reaction that is similar to the condition after trauma. 
+For example, increased insulin resistance or catabolism may 
+increase the risk of postoperative complications [5,
+14
+].
+Comparison with previous studies
+Previous studies have demonstrated the usefulness of a 
+preoperative CHOd in various aspects, such as stabilizing 
+the emotional [2,3,
+10,11
+] and metabolic [
+15,16
+] states of 
+patients. Hausel et al. [2,
+10
+] reported that carbohydrate re
+-
+duces preoperative hunger, thirst, and anxiety. Likewise, the 
+present study revealed that the preoperative consumption of 
+a carbohydrate-containing drink alleviates preoperative hun
+-
+ger and thirst, which are the main factors of discomfort that 
+affect patients immediately before surgery [
+17
+].
+Although previous studies support the safety and feasibility 
+of preoperative administration of carbohydrate-rich drinks, 
+most of them examined patients with a low aspiration risk. 
+However, since our center is a tertiary hospital, patients 
+tended to be older, had more comorbidities, and had a his
+-
+tory of abdominal surgery or inflammation in the gallbladder. 
+Older patients usually have more functional gag reflexes than 
+that in younger patients. In addition, patients who have un
+-
+dergone abdominal surgery or had gallbladder inflammation 
+may cause abnormal bowel motility, increasing the risk of re
+-
+flux. Thus, we needed to confirm that a preoperative CHOd 
+was also safe in our cohort. However, perioperative compli
+-
+cations were not observed, and longer hospital stay was not 
+required for these patients.
+We adopted a questionnaire based on the VAS score sys- 
+tem since this system is convenient and simple for patients 
+to answer and for physicians to evaluate patients™ symptoms 
+and thoughts. Moreover, it is widely used to evaluate periop- 
+erative discomfort variables, such as thirst, hunger, anxiety, 
+nausea, and pain [3,
+10,18,19
+].
+Limitations
+There were some limitations in this single- center study. 
+First, the time to answer the questionnaire differs between 
+patients. For example, patients who were scheduled for sur- 
+gery in the afternoon may feel more discomfort than those 
+with a scheduled surgery in the morning. Since the start 
+time of the surgery could not be controlled, it was difficult 
+to tightly control the 2 to 3-hour interval between drinking a 
+carbohydrate solution and the actual time of surgery, which 
+might affect patients™ feelings and the subsequent VAS score. 
+Thus, we requested the patients to provide the time when 
+the questionnaire was completed and excluded those with a 
+response time that deviated too much. Second, we included 
+patients with cholecystitis via a PTGBD insertion. Although 
+there is no data on patients with intraabdominal inflamma- 
+tion for this type of study, preoperative consumption should 
+be avoided in these patients since intraabdominal inflamma- 
+tion negatively affects the bowel. Third, most previous stud- 
+ies provided the patients with 400 mL of CHOd before 
+surgery instead of 200 mL, which was given to the patients 
+in our study. This might affect the results of our study, as the 
+volume of the drink given to the patients may be insufficient 
+to cause any complications. However, we can conclude that 
+
+patients who are older and have comorbidities and inflamma
+-
+tion. Lastly, we could not calculate the actual sam- ple size for 
+this study, but extrapolated it from the study of Hausel et al. 
+[2] in 2005. Since the VAS score is used for the ordinal data, 
+there was no information about the true mean and standard 
+deviation from previous studies, but only me- dian value or 
+interquartile range. Thus, future research would be needed 
+with the corrected sample size according to this study.
+VA
+S
+score
+Anxiety
+10
+8
+6
+4
+2
+0
+W
+eakness
+Hunger
+Thirst
+Uncomfortable
+NPO
+CHOd
+Nausea
+Pain
+Emotion
+Fig. 2.
+ Postoperative emotional sta
+-
+tus. Comparison of visual analogue 
+scale (VAS) of postoperative emo
+-
+tional states between the nil per 
+oral (NPO) group and car bohydrate 
+dr ink (CHO d) group.
+20
+Ann Clin Nutr Metab 2023;15:15-21
+https://doi.org/10.15747/ACNM.2023.15.1.15
+Conclusion
+This study demonstrated that oral liquid consumption of 
+200 mL is safe and does not cause aspiration during anesthe- 
+sia induction. It also reduced preoperative discomfort, such 
+as hunger and thirst, thereby increasing patients™ quality of 
+life. Thus, based on the findings of our study and previous 
+studies, we can discontinue the traditional practice of over- 
+night fasting prior to surgery to reduce patients™ perioperative 
+discomfort.
+ORCID
+Yoo Jin Choi, https://orcid.org/0000-0002-1142-1842 
+Yoonhyeong Byun, https://orcid.org/0000-0002-4258-891X 
+Seong Mi Yang, https://orcid.org/0000-0002-4686-5822 
+Ho-Jin Lee, https://orcid.org/0000-0002-7134-5044 
+Hongbeom Kim, https://orcid.org/0000-0002-1595-0135
+Authors™ contribution
+Conceptualization: YJC, HK. Data curation: YB, SMY. For- 
+mal analysis: YJC, HJL. Funding acquisition: HK. Methodol- 
+ogy: YJC, YB. Supervision: HJL, HK. Validation: SMY. Writing 
+Œ original draft: YJC. Writing Œ review & editing: YJC, HK.
+Conflic t of interest
+The authors of this manuscript have no conflicts of interest 
+to declare.
+Funding
+This study was supported by the 2021 Korean Society of 
+Surgical Metabolism and Nutrition Research Grant.
+Data availabilit y
+Contact the corresponding author for data availability.
+Ack nowledgments
+None. 
+Supplementar y materials
+Supplementary materials can be found via https://doi.
+org/10.15747/ACNM.2023.15.1.15.
+Supplement 1. Anxiety scale questionnaire for pre/post 
+laparoscopic cholecystectomy.
+References
+1.
+ 
+Warner MA, Warner ME, Weber JG. Clinical significance 
+of pulmonary aspiration during the perioperative period. 
+Anesthesiology 1993;78:56-62.
+2.
+ 
+Hausel J, Nygren J, Thorell A, Lagerkranser M, Ljungqvist O.  
+Randomized clinical trial of the effects of oral preoperative 
+carbohydrates on postoperative nausea and vomiting after 
+laparoscopic cholecystectomy. Br J Surg 2005;92:415-21.
+3.
+ 
+Yildiz H, Gunal SE, Yilmaz G, Yucel S. Oral carbohydrate 
+supplementation reduces preoperative discomfort in lapa
+-
+roscopic cholecystectomy. J Invest Surg 2013;26:89-95.
+4.
+ 
+Svanfeldt M, Thorell A, Hausel J, Soop M, Rooyackers O, 
+Nygren J, et al. Randomized clinical trial of the effect of 
+preoperative oral carbohydrate treatment on postopera
+-
+tive whole -body protein and glucose kinetics. Br J Surg 
+2007;94:1342-50.
+5.
+ 
+Awad S, Varadhan KK, Ljungqvist O, Lobo DN. A meta-
+analysis of randomised controlled trials on preoperative 
+oral carbohydrate treatment in elective surgery. Clin Nutr 
+2013;32:34-44.
+6.
+ 
+Brady M, Kinn S, Stuart P. Preoperative fasting for adults to 
+prevent perioperative complications. Cochrane Database 
+Syst Rev 2003;4:CD004423.
+7.
+ 
+Practice guidelines for preoperative fasting and the use 
+of pharmacologic agents to reduce the risk of pulmonary 
+aspiration: application to healthy patients undergoing elec
+-
+tive procedures: an updated report by the American Soci
+-
+ety of Anesthesiologists Task Force on Preoperative Fasting 
+and the Use of Pharmacologic Agents to Reduce the Risk 
+of Pulmonary Aspiration. Anesthesiology 2017;126:376-
+93.
+8.
+ 
+Feldheiser A, Aziz O, Baldini G, Cox BP, Fearon KC, Feld
+-
+man LS, et al. Enhanced recovery after surgery (ERAS) for 
+gastrointestinal surgery, part 2: consensus statement for an
+-
+aesthesia practice. Acta Anaesthesiol Scand 2016;60:289-
+334.
+9.
+ 
+Kindler CH, Harms C, Amsler F, Ihde-Scholl T, Scheidegger 
+D. The visual analog scale allows effective measurement of 
+preoperative anxiety 
+and detection of patients™ anesthetic 
+concerns. Anesth Analg 2000;90:706-12.
+10.
+ 
+Hausel J, Nygren J, Lagerkranser M, Hellström PM, Ham
+-
+marqvist F, Almström C, et al. A carbohydrate-rich drink re
+-
+duces preoperative discomfort in elective surgery patients. 
+Anesth Analg 2001;93:1344-50.
+11.
+ 
+Sada F, Krasniqi A, Hamza A, Gecaj-Gashi A, Bicaj B, Kava
+-
+ja F. A randomized trial of preoperative oral carbohydrates 
+in abdominal surgery. BMC Anesthesiol 2014;14:93.
+12.
+ 
+Kehlet H. Multimodal approach to control postopera
+-
+tive pathophysiology and rehabilitation. Br J Anaesth 
+1997;78:606-17.
+13.
+ 
+Melnyk M, Casey RG, Black P, Koupparis AJ. Enhanced 
+recovery after surgery (ERAS) protocols: time to change 
+practice? Can Urol Assoc J 2011;5:342-8.
+14.
+ 
+Nygren J, Thorell A, Jacobsson H, Larsson S, Schnell PO, 
+Hylén L, et al. Preoperative gastric emptying. Effects of 
+anxiety and oral carbohydrate administration. Ann Surg 
+1995;222:728-34.
+15.
+ 
+Yuill KA, Richardson RA, Davidson HI, Garden OJ, Parks 
+RW. The administration of an oral carbohydrate -containing 
+fluid prior to major elective upper-gastrointestinal surgery 
+preserves skeletal muscle mass postoperatively--a ran
+-
+domised clinical trial. Clin Nutr 2005;24:32-7.
+21
+16.
+ 
+Can MF, Yagci G, Dag B, Ozturk E, Gorgulu S, Simsek A, et 
+al. Preoperative administration of oral carbohydrate-rich 
+solutions: comparison of glucometabolic responses and 
+tolerability between patients with and without insulin resis
+-
+tance. Nutrition 2009;25:72-7.
+17.
+ 
+Madsen M, Brosnan J, Nagy VT. Perioperative thirst: a pa
+-
+tient perspective. J Perianesth Nurs 1998;13:225-8.
+18.
+ 
+Boogaerts JG, Vanacker E, Seidel L, Albert A, Bardiau FM. 
+Assessment of postoperative nausea using a visual analogue 
+scale. Acta Anaesthesiol Scand 2000;44:470-4.
+19.
+ 
+Kindler CH, Harms C, Amsler F, Ihde-Scholl T, Scheidegger 
+D. The visual analog scale allows effective measurement of 
+preoperative anxiety and detection of patients' anesthetic 
+concerns. Anesth Analg 2000;90:706-12.

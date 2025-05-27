@@ -1,0 +1,4223 @@
+ESPEN Guideline
+ESPE Npracticalguideline:Clinicalnutrition insurgery
+*
+ArvedWeimann
+a
+,
+*
+,MarcoBraga
+b
+,FrancoCarli
+c
+,TakashiHigashiguchi
+d
+,
+Martin Hübner
+e
+,StanislawKlek
+f
+,AlessandroLaviano
+g
+,OlleLjungqvist
+h
+,DileepN.Lobo
+i
+,
+RobertG.Martindale
+k
+,DanWaitzberg
+l
+,StephanC.Bischoff
+m
+,PierreSinger
+n
+a
+DepartmentofGeneral,VisceralandOncologicalSurgery,St.GeorgeHospital,Leipzig,Germany
+b
+University ofMilano-Bicocca,SanGerardoHospital,Monza,Italy
+c
+DepartmentofAnesthesiaofMcGillUniversity,SchoolofNutrition, MontrealGeneralHospital,Montreal,Canada
+d
+YonahaGeneralHospital,Kuwana-city,Mie,Japan
+e
+Servicede chirurgievisc
+
+erale,CentreHospitalierUniversitairede Lausanne,Lausanne,Switzerland
+f
+GeneralSurgicalOncologyClinic,NationalCancerInstitute,Krakow,Poland
+g
+DepartmentofTranslationalandPrecisionMedicine,SapienzaUniversity,Rome,Italy
+h
+DepartmentofSurgery,FacultyofMedicine andHealth,OrebroUniversity,Orebro,Sweden
+i
+GastrointestinalSurgery,NottinghamDigestiveDiseasesCentre,NationalInstitute forHealthResearchNottinghamBiomedicalResearchCentre,
+NottinghamUniversityHospitalsandUniversity ofNottingham,Queen'sMedicalCentre,Nottingham,UnitedKingdom
+k
+OregonHealthSciencesUniversity,Portland,OR,USA
+l
+UniversityofSaoPauloMedicalSchool,Ganep,HumanNutrition,SaoPaulo,Brazil
+m
+UniversityofHohenheim,Institute ofNutritionalMedicine,Stuttgart,Germany
+n
+Institute forNutritionResearch,RabinMedicalCenter,BeilisonHospital,PetahTikva,Israel
+articleinfo
+Articlehistory:
+
+Received25February2021
+
+Accepted18March2021
+Keywords:
+Surgery
+
+Perioperativenutrition
+
+Nutritionaltherapy
+
+Bariatricsurgery
+Organtransplantation
+ERAS
+
+Prehabilitation
+summary
+Earlyoralfeedingisthepreferredmodeofnutritionforsurgicalpatients.Avoidanceofanynutritional
+therapy be arstheriskofunderfeedingduring thepostoperativecou rseaftermajorsurgery.Considering
+thatmalnutritionandunderfeedingareriskfactorsforpostoperativecomplications,earlyenteralfeeding
+
+isespeciallyrelevantforanysurgi cal patientatnutritionalrisk,especiallyforthoseundergoingupper
+gast rointestinalsurgery.Thefocusof thisguidelineistocoverbothnutritionalaspectsoftheEnhanced
+RecoveryAf terSurgery(ERAS) conceptandthespecialnutritionalneedsofpatientsundergoingmajor
+
+surgery,e.g.forcancer,andof thosedevelopingseverecomplicationsdespitebestperi operative care.
+Fromametabolicandnutritionalpointofview,thekeyaspectsofperioperative careincludetheinte-
+grationofnutrition intotheoverallmanagementof thepatient,avoidanceoflongperiodsofpreoperative
+
+fasti ng,re-establishment oforalfeeding as earlyas possibleafter surgery, thestart ofnutritional therapy
+
+im mediatelyifanutritionalriskbe comesapparent,metaboliccontrole.g.of bl oodglucose,reductionof
+factorswhichexacerbatestress-relatedcatabolismor impairedgast rointestinalfunction,minimizedtime
+onparalyticagentsforventilatormanagementinthepostoperativeperiod,andearlymobilizationto
+
+facilitateproteinsynthesisandmusclefunction.
+©
+2021 EuropeanSocietyforClinicalNutritionandMetabolism.PublishedbyElsevierLtd. Allrights
+reserved.
+Abbreviations:
+BMI,bodymass index;EN,enteralnutrition;ERAS,Enhanced Recovery after Surgery;LOS,hospitallengthofstay;NCJ,needlecatheterjejunostomy;
+ONS,
+oralnutritionalsupplements;PEG,percutaneousendoscopicgastrostomy;PN,parenteralnutrition;RCT,randomizedcontrolledtrial;SOP,stand
+ardoperatingprocedure.
+*
+Basedon
+ESPENguideline:Clinicalnutritioninsurgery:
+ArvedWeimann,MarcoBraga,FrancoCarli,TakashiHigashiguchi,MartinHübner,StanislawKlek,Alessandro
+Laviano,Olle Ljungqvist,DileepN. Lobo, RobertMartindale,DanL.Waitzberg,StephanC.Bischoff,PierreSinger.ClinicalNutrition2017;36:623
+e
+650.
+*
+Correspondingauthor.KlinikfürAllgemein-, Viszeral-undOnkologischeChirurgie,KlinikumSt. GeorggGmbH,DelitzscherStraße141,04129Leipz
+ig,Germany.Fax:
+þ
+49
+3419092234.
+E-mailaddress:
+Arved.Weimann@sanktgeorg.de
+(A.Weimann).
+Contentslistsavailable at
+ScienceDirect
+ClinicalNutrition
+journal homepage:
+http://www.elsevier
+.com/locate/clnu
+https://doi.org/10.1016/j.clnu.2021.03.031
+0261-5614/
+©
+2021EuropeanSocietyforClinicalNutritionandMetabolism.PublishedbyElsevierLtd.Allrightsreserved.
+ClinicalNutrition40(2021)4745
+e
+4761
+1. Principlesofmetabolicandnutritionalcare
+As akeycomponentofEnhancedRecoveryafter Surgeryprograms
+(ERAS),nutritionalmanagementisaninter-professionalchallenge.
+TheseERASprogramsalsoincludeametabolic strategytoreduce
+perioperativestressandimproveoutcomes[
+1
+].
+ﬁ
+Prehabilitation
+ﬂ
+aimsatconditioning metabolicriskforERASmeaningatrimodal
+approachincludinganutrition,physicalexercise,andstress-reducing
+psychologicalcomponent[
+2
+].Asigni
+
+cantreductioninthenumber
+of complicationswasshowninelderlyhigh-riskpatientswith
+American SocietyofAnesthesiologists(ASA)classi
+
+cationsGradeIII
+andIV,[
+3
+].Meta-analysesshowedthat prehabilitationmay
+contributetodecreased postoperativecomplicationratesand
+shortenedhospitallengthofstay(LOS)inpatientsundergoingmajor
+abdominalsurgery[
+4
+e
+6
+].
+1.1.Evidenceofnutritional therapy
+Obscuredbyobesityreducedmusclemass(sarcopenia) and
+malnutritionmaybeunderestimatedandignoredin surgical pa-
+tients.Thereisclearevidencethatmalnutritionisassociatedwith
+
+worseoutcomes,andmajorsurgicalstressandtraumawillinduce
+catabolism.Theextentof catabolismisrelatedtothemagnitude of
+surgicalstressbutalsotheoutcome.
+Inarecentmeta-analysisof29studiesincluding7179patients,
+sarcopenia wasassociatedwithanincreasedriskofpostoperative
+majorandtotalcomplications inpatientsundergoingsurgeryfor
+gastrointestinalcancer[
+7
+].
+Perioperativenutritionalsupplementationhasbeenshownina
+recentmeta-analysis of56trialsincluding6370patientsto
+decreasepostoperativeinfectiousandnon-infectiouscomplica-
+tions,and alsoLOSinpatientsundergoing gastrointestinalcancer
+surgery[
+8
+].
+Incomplexmedicalconditionsliketheperioperativepatient
+undergoingmajorsurgery,the geriatric patient,orinthe critically
+illtheoutcomewillberelated to multipleassociatedfactors.
+Regardinganutritionalintervention,an existingeffectmay betoo
+weaktoshow signi
+
+cantimpact inaprospectiverandomized
+controlledtrial(RCT)withafeasiblenumberofpatientstobe
+included,eveninamulticentersetting.However,thecombination
+ofthenutritionalinterventionwithsome othertherapeuticitems
+asatreatment bundle likeintheERASprogrammayshowsignif-
+icantbene
+
+t[
+9
+].
+2.Methodology
+Thepresentpracticalguidelineconsistsof37recommendations
+andisbasedontheESPENguideline:Clinicalnutritioninsurgery
+[
+10
+].Theoriginalguidelinewasshortenedbyrestrictingthecom-
+mentariestothegatheredevidenceandliteratureonwhichthe
+recommendationsare basedon.Therecommendations werenot
+changed, onlythelanguagewasadaptedtoAmericanEnglish,but
+thepresentationofthecontentwastransformedintoagraphical
+presentationconsistingofdecision-making
+
+owchartswherever
+possible.Theoriginalguideline wasdeveloped accordingtothe
+standardoperatingprocedure(SOP) forESPENguidelines[
+11
+].This
+SOPisorientedonthe methodology ofthe ScottishIntercollegiate
+GuidelinesNetwork (SIGN).Literaturewassearched andgraded
+into1
+e
+4accordingtoevidence,andrecommendationswere
+createdandgradedintofourclasses(A/B/0/GPP).Allrecommen-
+dationswerenotonlybasedonevidencebutalsounderwenta
+consensus process,whichresultedinapercentageofagreement
+(%).Wheneverpossible,representativesfromdifferentprofessions
+(physicians,dieticians,nurses,others)aswellaspatientrepresen-
+tativeswereinvolved.
+The guidelineprocesswas fundedexclusivelybytheESPEN
+society. Theguidelineshortageanddisseminationwere fundedin
+partbytheUEGsociety, andalsobytheESPENsociety. Forfurther
+detailsonmethodology,seethefullversionoftheESPENguideline
+[
+10
+]and theESPENSOP[
+11
+].
+3.Basic questions
+
+3.1.Ispreoperativefastingnecessary?
+Recommendation1
+Preoperative fastingfrommidnightisunnecessaryinmost
+patients.Patientsundergoingsurgery, whoareconsidered to
+havenospeci
+
+criskofaspiration,shalldrinkclear
+
+uidsuntil
+2hbeforeanesthesia. Solidsshallbealloweduntil6hbefore
+anesthesia.
+GradeofrecommendationA
+e
+strongconsensus(97%
+agreement)
+Commentary
+Thereisnoevidencethatpatientsgivenclear
+
+uidsupto2h
+beforeelectiveoperations areatanygreaterriskofaspirationor
+
+regurgitationthanthosefastedforthetraditional12horlonger
+sinceclear
+
+uidsemptythestomachwithin60
+e
+90min [
+12
+e
+14
+].
+Manynationalanesthesiasocieties have changedtheir fasting
+guidelines[
+15
+e
+17
+] andnowrecommendthatpatients maydrink
+clear
+
+uidsupto2hbeforeanesthesiafor electivesurgery.Ex-
+ceptionstothis recommendationarepatients
+ﬁ
+atspecialrisk
+ﬂ
+,
+undergoingemergencysurgery,andthosewith knowndelayed
+gastricemptyingforanyreason[
+12
+]orgastroesophagealre
+
+ux.
+Sincethe implementationof theseguidelines,therehasbeen no
+reportofadramaticriseintheincidenceofaspiration,regurgita-
+tion,orassociatedmorbidityormortality.Avoidance offastingis
+alsoakeycomponentof ERAS.Allowing intake of clear
+
+uids
+includingcoffeeandteaminimizes thediscomfortofthirstand
+headaches fromwithdrawalsymptoms.
+3.2.Ispreoperativemetabolicpreparationoftheelectivepatient
+usingcarbohydratetreatmentuseful?
+Recommendation
+In orderto reduce perioperativediscomfortincludinganxi-
+etyoralpreoperativecarbohydratetreatment(insteadof over-
+nightfasting,thenightbeforeand2hbeforesurgery)should be
+administered(B).Toimpactpostoperativeinsulinresistanceand
+LOS, preoperativecarbohydratescanbe consideredinpatients
+undergoingmajorsurgery(0).
+GradeofrecommendationB/0
+e
+strongconsensus(100%
+agreement)
+Commentary
+Preoperativeintakeofa carbohydratedrinkwith800mlthe
+nightbeforeand400mlbeforesurgerydoesnotincreasetheriskof
+aspiration[
+12
+,
+17
+,
+18
+].Fruit-basedlemonademaybeconsidereda
+safealternativewithnodifferenceingastricemptyingtime[
+19
+].
+Oralcarbohydrateshavebeenreportedtoimprovepostoperative
+wellbeing[
+20
+e
+23
+].Ameta-analysisof21RCTonpreoperativeoral
+carbohydratetreatmentinelectivesurgeryincluding 1685patients
+
+showed a signi
+
+cantreductionofLOSonlyin thepatientsunder-
+going majorsurgery.Therewasnodifferenceincomplicationrates
+[
+24
+]. Anothermeta-analysisincluding27RCTwith1976 patients,
+con
+
+rmed the reductionofLOS.Therewasnoclearin
+
+uenceonthe
+complicationrate afterelectivesurgery.Lackofadequateblinding
+inmanyplacebo-controlledstudieswasconsideredapotentialbias
+[
+25
+].Anothermeta-analysis,including43trialswith3110partici-
+pantsshowedonlya smallreductionin lengthofpostoperativestay
+comparedwithfasting,andnobene
+
+tincomparisonwithwater
+A.Weimann,M.Braga,F.Carlietal.
+ClinicalNutrition 40(2021)4745
+e
+4761
+4746
+and placebo.No differenceinthepostoperativecomplicationrate
+wasobserved[
+26
+].Foradetailedmethodological discussionseethe
+longguideline version[
+10
+].ThemostrecentmulticentricRCT
+included662patients.Whilesigni
+
+cantlylesspatientshadthe
+requirementofonedoseinsulin/dayandblood glucoselevels
+>
+140mg/dl,no differenceinclinicalcomplicationscouldbefound
+[
+27
+].Inordertoavoidanyharm carbohydratedrinkshouldnotbe
+usedinpatientswith severediabetes with specialregardtothose
+withanticipatedgastroparesis.
+3.3.Ispostoperativeinterruptionoforalnutritional intake
+generallynecessaryaftersurgery?
+Recommendation3
+Inmostinstances,oralnutritionalintakeshallbecontinued
+after surgerywithoutinterruption.
+GradeofrecommendationA
+e
+strongconsensus (90%
+agreement)
+Commentary
+Oralnutrition(balancedhospital dietand/or ONS)canbeiniti-
+ated,inmostcases,immediatelyaftersurgery.Earlyoralnutritionis
+
+alsoakeycomponentofERAS,whichdemonstratedasigni
+
+cantly
+lowerrateofcomplicationsandLOSinmeta-analysesoftheran-
+domizedstudies[
+28
+,
+29
+].Neitheresophagogastricdecompression
+nordelayedoralintake,evenafter cholecystectomyorcolorectal
+resectionhaveprovenbene
+
+cial[
+30
+e
+32
+].
+Recommendation4
+Itisrecommendedto adaptoralintakeaccording to indi-
+vidualtoleranceand tothetypeofsurgery carriedoutwith
+specialcautiontoelderlypatients.
+GradeofrecommendationGPP
+e
+strongconsensus (100%
+agreement)
+Commentary
+Incomparisonwithconventionalopensurgery,earlyoralintake
+istoleratedeven betterafterlaparoscopiccolonicresection,dueto
+earlierreturnof peristalsisandbowelfunctionwiththistechnique
+[
+33
+e
+35
+].However,incombinationwithERASnodifferenceswere
+foundbetweenlaparoscopicandconventionalopencolonicsurgery
+whenthefullERASprotocolwasemployed[
+36
+].Inthemulticenter
+RCTpostoperativeLOS was signi
+
+cantlyshorterintheERASgroup
+undergoinglaparoscopicsurgery[
+37
+].Arecentmeta-analysis
+con
+
+rmedthereductionofmajormorbidityandLOS bythecom-
+binationoflaparoscopicsurgeryandERAS[
+38
+].Theamountof
+initialoralintake shouldbeadaptedtothestateofgastrointestinal
+functionand individualtolerance.
+Recommendation5
+Oralintake,includingclearliquids,shallbeinitiated within
+hoursafter surgeryinmostpatients.
+GradeofrecommendationA
+e
+strongconsensus(100%
+agreement)
+Commentary
+Earlynormalfood orEN,includingclearliquidsonthe
+
+rstor
+secondpostoperativeday,doesnotcauseimpairment of healingof
+anastomosesinthecolonorrectum[
+32
+,
+39
+e
+42
+] andleadsto
+signi
+
+cantly shortened LOS[
+43
+].Thishasbeenemphasizedbya
+CochraneSystematicReview[
+44
+].Recentmeta-analyses [
+45
+e
+47
+]
+showedsigni
+
+cantbene
+
+tsconcerningpostoperative recoveryand
+infectionrate.Earlypostoperativenutritionisassociatedwithsig-
+ni
+
+cantreductionintotalcomplications comparedwithtraditional
+postoperativefeedingpracticesanddoeshavenonegativeeffecton
+outcomessuchasmortality,anastomoticdehiscence, resumptionof
+bowel function,orLOS[
+47
+].Thishasbeenalsoshownforpatients
+after totalgastrectomy [
+48
+]andminimallyinvasiveesophagectomy
+[
+49
+].Ameta-analysisof15studies(eight RCT)with2112adult
+patientsundergoinguppergastrointestinalsurgeryshowed
+signi
+
+cantlyshorterpostoperative LOSinearlyorallyfedpatients
+withoutadifferenceincomplicationswithspecialregardtoanas-
+tomoticleaks[
+50
+].
+4.Indicationfornutritionaltherapy(
+Fig.1
+)
+4.1.Whenisnutritionalassessmentandsupporttherapyindicated
+inthesurgicalpatient?
+Recommendation6
+Itisrecommendedtoassessthe nutritionalstatusbeforeand
+aftermajorsurgery.
+GradeofrecommendationGPP
+e
+strongconsensus(100%
+agreement)
+Commentary
+The in
+
+uenceofnutritionalstatusonpostoperativemorbidity
+andmortalityhasbeendocumentedwellinbothretrospectiveand
+prospectivestudies[
+10
+].Inadequateoralintakeformorethan14
+days isassociatedwithhighermortality[
+51
+].Twomultivariate
+analyseshaveshown, forhospitalizedpatientsingeneralandthose
+undergoingsurgeryforcancerinparticular,thatundernutritionis
+
+anindependentriskfactorfortheincidenceofcomplications,as
+wellasincreasedmortality,LOS,and costs[
+52
+,
+53
+].
+Recommendation7
+Perioperativenutritionalsupporttherapyisindicatedin
+patientswithmalnutrition andthose atnutritionalrisk.Peri-
+operativenutritionaltherapyshouldalso beinitiated ifitis
+anticipatedthatthepatientwillbe unabletoeatfor morethan
+
+vedaysperioperatively.Itisalsoindicatedinpatientsexpected
+tohavelow oralintakeandwhocannotmaintainabove50% of
+therecommendedintake formorethansevendays.Inthese
+situations,itisrecommendedtoinitiatenutritionalsupport
+therapy(preferablybytheenteralroute
+e
+oralnutritional
+supplements
+e
+tubefeeding)withoutdelay.
+GradeofrecommendationGPP
+e
+strongconsensus (92%
+agreement)
+Commentary
+Thegeneralindications fornutritional supporttherapy inpa-
+tientsundergoingsurgeryarethepreventionandtreatment of
+undernutrition,i.e. thecorrectionofundernutritionbeforesurgery
+andthemaintenanceofnutritional statusaftersurgery, whenpe-
+riods ofprolongedfastingand/or severecatabolismareexpected.
+Morbidity,LOS,andmortality areconsideredprincipaloutcome
+parameterswhenevaluatingthebene
+
+ts ofnutritionalsupport
+[
+54
+e
+63
+].Afterdischargefrom thehospitalorwhenpalliationisthe
+mainaimof nutritionalsupporttherapy,improvement innutri-
+tionalstatusand qualityoflifearethemainevaluationcriteria.
+Theenteral routeshouldalwaysbepreferredexceptforthe
+following contraindications:
+
+Intestinalobstructionorileus,
+
+Severeshock
+
+Intestinalischemia
+
+Highoutput
+
+stula
+
+Severeintestinalhemorrhage
+TheadvantagesofearlyENwithin24 hversuslatercommence-
+menthavebeenclearlyshown intwometa-analyses(oneCochrane
+systematicreview)[
+44
+,
+45
+].ForthecriticallyilltherecentESPEN
+guidelinesrecommendsinitiationofearlyenteralnutrition(within
+48h)ratherthandelayingenteralnutrition
+[64]
+.
+Recommendation8
+Ifthe energyandnutrientrequirementscannotbemetby
+oralandenteralintakealone(
+<
+50%ofcaloricrequirement)for
+morethanseven days,acombinationofenteralandparenteral
+A.Weimann,M.Braga,F.Carlietal.
+ClinicalNutrition 40(2021)4745
+e
+4761
+4747
+nutrition(PN)isrecommended(GPP). PNshallbeadministered
+assoonaspossibleifnutritiontherapyisindicatedand thereisa
+contraindicationforenteralnutrition(EN),suchasinintestinal
+obstruction. (A)
+Gradeof recommendationGPP/A
+e
+strongconsensus(100%
+agreement)
+Commentary
+4.1.1.Enteralvs.parenteral
+Themeta-analysisofM azakietal.basedon 29RCTwi th2552
+patientscon
+
+rmedthebene
+
+cialeffectsofENforalowerrateof
+infectiouscomplications,anastomo ticleaks,andshorte rLOSin
+patientsaftergastrointestinalsurgery[
+46
+].The meta-analysi sof
+Zhaoet al.basedon18 RCTwith2540patientsshoweddashorter
+timeto
+
+atus,s horterLOS,anda greaterincreasein albumin
+levels[
+65
+].However,nosig ni
+
+cantin
+
+uenceonmortalitywas
+observed.
+4.1.2.EnteraltoleranceandtimingofPN
+Forthesurg icalpatient,PN maybebene
+
+cialinthefollowing
+circumstances(ESPEN Guideline[
+66
+]):inundernouri shedpa-
+tientsin whomENisnotfeasibleornotto lerate d,andinpatients
+withposto per ativecomp l icationsimpairing g astrointe stinal
+functionwhoareunabletore ceive andabsorbadequateamounts
+oforal/ente ralfeedingforatleastseven days[
+66
+].Theremightbe
+anadvantageofPNwhenthereisa limite d to ler anceofENdueto
+inte stinal dysfunctionespeciallyintheearlypostoperativephase,
+whichisassociatedwithlowere nergyintake[
+67
+].ACochran e
+syste maticrev iewandmeta-analysissug geststhatchewing g um
+mayimp rovetheposto per ativere coveryofg astrointe stinal
+function[
+68
+].However,whenanERASprogramwas used, the
+bene
+
+ts couldnotbecon
+
+rmedin arandomizedmulticente rtrial
+[
+69
+]. Theli mite dto leranceofente ralintakeespeciallyinpatients
+with severetraumaneedstobeconsidere d[
+70
+].Adequateenergy
+intakeis bettersecuredbyPNinpatients withalimitedgastro-
+intestinaltolerance[
+71
+].Thereiss tilla paucityofcontrolleddata
+concerni ng combinedENandPN (
+ﬁ
+dual nutrition
+ﬂ
+)af terelective
+surgery.Anincre aseincaloricintakeisthemainobjectivein
+combinedEN/PN.
+Recommendation9
+FortheadministrationofPN,anall-in-one(three-chamber
+bagorpharmacyprepared)shouldbepreferredinsteadofa
+multibottlesystem.
+GradeofrecommendationB
+e
+strongconsensus(100%
+agreement)
+Commentary
+IntwoRCTsthecostbene
+
+tsofusingathree-chamberbagwere
+signi
+
+cantincomparisonwithamultibottlesystem[
+72
+,
+73
+].A
+retrospectiveanalysisofaUSdata bankshowedasigni
+
+cantly lower
+rateofblood streaminfectionsusingathree-chamber-bag[
+74
+].
+Recommendation10
+
+SOPsfornutritionalsupportarerecommendedtosecure
+effectivenutritionalsupporttherapy.
+GradeofrecommendationGPP
+e
+strongconsensus(100%
+agreement)
+Commentary
+FeedingprotocolsandSOPs haveprovenbene
+
+tsconcerningthe
+safetyandfeasibilityofachievingthecaloric target[
+75
+,
+76
+].
+Adequatesupplywithmicronutrientsisconsideredessentialfor
+long-termtotalPN.
+Fig.1.
+Flowschemeofperioperativenutritiontherapy.
+A.Weimann,M.Braga,F.Carlietal.
+ClinicalNutrition 40(2021)4745
+e
+4761
+4748
+4.2.Isthereanindicationforsupplementing glutamine?
+Recommendation11
+Parenteralglutaminesupplementationmaybeconsideredin
+patientswhocannotbefedadequatelyenterallyand,therefore,
+requireexclusive PN.
+Gradeof recommendation0
+e
+consensus(76% agreement)
+Commentary
+MostsurgicalpatientsrequiringPNhaveprolongedor even
+complicatedcoursesthat of tenrequireintensivecaretreatment.
+NumerousRCTshavebeenperformedforglutaminesupplemented
+PNinastandarddosageof 0.35g/kgbodyweightinsurgicalpa-
+tientsundergoing totalorsubtotalPN[
+10
+].Ina large multicenter
+RCTincluding428 well-nourishedpatientsundergoingmajor
+gastrointestinalsurgerynosigni
+
+cantbene
+
+twasfoundforthe
+postoperativecomplication rateandtheLOSforthosepatients,
+whohadbeensupplementedwith0.4g dipeptide/kg/dparenter-
+allythedaybeforeand
+
+vedaysaftersurgery[
+77
+].Twometa-
+analysesthat included14RCTs with587 surgicalpatients,and 40
+RCTswithmorethan2000patients,respectively,haveemphasized
+signi
+
+cantadvantagesofglutaminesupplementationconcerning
+infections andLOS[
+78
+,
+79
+].AnotherRCTnotcomprisedin these
+previousmeta-analyses included150surgicalintensivecarepa-
+tientswhoreceivedisonitrogenousisocaloricPN(1.5 g/kg/damino
+acids).Intheintervention,groupglutaminewasadministeredat
+0.5g/kg/d. Nosigni
+
+cantdifferenceswereseenwiththeprimary
+endpointsofhospitalmortalityandinfection rate[
+80
+].While
+theworking groupstillconsidersbene
+
+cialeffectsof glutamine
+supplementation,atthistimethereisnostrongevidenceto
+recommendtheuseof parenteral glutamineforsurgicalpatients.
+ExclusivePNover
+
+vetosevendaysisnotindicatedin mostsur-
+gical patientsparticularlyafter electivecolorectalsurgery withan
+uncomplicatedcourse[
+28
+,
+29
+,
+81
+].Theextenttowhichparenteral
+glutamineadministrationincombinationwithoralnutrition/EN
+mayhave apositiveeffect,cannotbe clari
+
+edatpresentduetolack
+ofavailabledata.
+Currently,noclearrecommendationcanbegivenregardingthe
+supplementationoforalglutamine(0).
+Commentary
+Dataregarding oral glutaminesupplementationasasingle
+substancearelimited.Inpancreatic surgeryoralpreconditioning
+with glutamine,antioxidants,andgreenteaextract versusplacebo
+elevated plasma vitaminCconcentrationssigni
+
+cantlyand
+improvedtotal endogenous antioxidant capacitywithoutreducing
+oxidativestressandin
+
+ammatoryresponse[
+26
+].
+4.3.Isthereanindicationforsupplementing arginine(i.v. orEN)
+alone?
+Currently,noclearrecommendationcanbegivenregardingthe
+intravenousorenteralsupplementationof arginineasasingle
+substance(0).Evidenceisinsuf
+
+cienttosuggesttheuseofarginine
+alone.
+Commentary
+
+Dataregardingargininesupplementationasasinglesubstance
+arelimited.Forpatientsundergoingsurgeryforheadandneck
+cancer,ameta-analysisincludedsixstudieswith397patients
+receivingperi/postoperativeenteralsupplementationwitharg i-
+ninein differentdosages(6.25
+e
+18.7g/l)and alsoi ncombination
+with othersubstances.Therewasa re duction in
+
+stulas(OR
+¼
+0.36,95%CI:0.14to0.95,p
+¼
+0 .03 9),and LOS( meandifference:
+
+6.8d,95%CI:
+
+12.6 to
+
+0.9d,p
+¼
+0.023).Interestingly,no
+reductioninwoundinfections(O R
+¼
+1.04,95%CI0.49 to2.17, p
+¼
+0.925)orotherinfectionswasobserved [
+82
+].A10year-long
+observatio nin32patientswithheadandneckcancerwhohad
+beenperioperativelyadministeredanarginine-enricheddiet
+showed asigni
+
+cantlylongeroverall, bette rdisease-speci
+
+csur-
+v ival,andlessloco-re g ionaltumorre curre nceintheinte rvention
+group[
+83
+]. Itmu stbeemphasizedthatthis studywasunder-
+powere dtodete ctdiffere ncesinsurvivalwhichwasnotthepri-
+maryendpointofthistrial.
+4.4.Isthereanindicationforsupplementingi.v.omega-3-fatty
+acids?
+Recommendation12
+PostoperativePNincludingomega-3-fattyacidsshouldbe
+consideredonlyinpatientswhocannotbeadequatelyfed
+enterallyand,therefore,requirePN.
+GradeofrecommendationB-majorityagreement (65%
+agreement)
+Commentary
+Forparenteralsupplementationofomega-3-fatty acids,ameta-
+analysisof13RCTson892surgicalpatientsrevealed signi
+
+cant
+advantagesconcerningthepostoperativeinfectionrateandLOS
+[
+84
+].Thishas beencon
+
+rmedbymorerecent meta-analyses
+[85
+e
+87]
+.Themethodologicalanalysisofthe singlestudiesbrings
+upconcernsregardingthelackofhomogenouscriteriaforthe
+de
+
+nitionofinfectiouscomplicationsandtheconsiderablehet-
+erogeneityof LOS.Tian et al.performeda meta-analysisforthe
+comparisonofanewlipid emulsioncontainingsoybeanoil,
+medium-chaintriglycerides,oliveoil,and
+
+sh oilversusotherolive
+oilandmedium-and long-chaintriglyceride-basedemulsions[
+88
+].
+Regardingoutcomeparametersnosigni
+
+cantdifferencewasfound.
+Ithasalsotobe arguedthatinmostofthestudiesthemajority
+ofpatients,withspecialregardto colorectalsurgery,were not
+appropriatecandidates forPNalone.Duetothesemethodological
+problemsoftheindividualstudies, theworkinggroupvotedfora
+limited Brecommendation.Thepossiblebene
+
+tsofashort-term
+perioperativeomega-3-fattyacidinfusionforatotaldurationof
+72hbefore electivesurgery,needstobeclari
+
+edfurther[
+89
+].
+4.5.Isthereanindication forspeci
+
+coral/enteralformulaenriched
+withimmunonutrients?
+Recommendation13
+Peri-oratleast postoperativeadministrationofspeci
+
+c
+formulaenrichedwith(arginine,omega-3-fattyacids,ribonu-
+cleotides)should begiveninmalnourished patientsundergoing
+majorcancersurgery(B).Thereiscurrentlynoclearevidence
+for thesoleuseoftheseformulasenrichedwithimmunonu-
+trientsvs.standardoralnutritional supplements(ONS)inthe
+preoperativeperiod(0).
+GradeofrecommendationB/0
+e
+consensus(89%agreement)
+Commentary
+15meta-analysesof RCT,ingeneral,surgicalpatients, andonein
+head/neckcancersurgerysuggestthatperioperative administra-
+tionofimmune-modulatingnutritionalformulahascontributedto
+adecreasedrateofpostoperativecomplicationsandadecreased
+LOS[
+90
+e
+114
+].Thiswascon
+
+rmedbyamorerecentmeta-analysis
+including 83RCTswith7116 patients[
+115
+].Concerningthe
+immunomodulatingsubstrates,mostof theRCTswereperformed
+witharginine,omega-3-fattyacids,and ribonucleotides.
+Ithasbeendiscussedcontroversiallyofthereisanadvantageof
+pre-,peri-andpostoperativeintakeof immune-modulatingsub-
+stratessuchasarginine, omega-3fatty acids,andnucleotides.The
+reductionofpostoperativemorbidityandLOSaftermajorabdom-
+inal cancer surgery[
+116
+e
+119
+]hasbeen shown,particularlyin
+malnourishedpatients[
+120
+,
+121
+].Inthemeta-analysisofHegazi
+etal.acleardifferentiationwasmadebetweenstudiescomparing
+A.Weimann,M.Braga,F.Carlietal.
+ClinicalNutrition 40(2021)4745
+e
+4761
+4749
+preoperativeimmunonutritionvs.ONS andthosevs.nosupple-
+ments[
+122
+].Onlyinstudies withacontrolgroup ofanoralnon-
+supplementedstandarddiet,asigni
+
+cantdifferencewas found
+forinfectiouscomplications(OR0.49,95%CI 0.30to0.83, p
+<
+0.01)
+andforLOS(meandifference
+
+2.22d,95%CI-2.99to
+
+1.45d,
+p
+<
+0.01).Inanothermeta-analysis,thesoleuseofimmunonu-
+tritionbeforesurgeryagainledtoasigni
+
+cantdecrease ofinfec-
+tious complicationswhencomparedwithnormaldietbutalso with
+isonitrogenousstandardnutritionalsupplement(OR0.52;95%CI
+0.38
+e
+0.71, p
+<
+0.0001).FortheLOSasigni
+
+cantreductionwas
+found forimmunonutritionvs.hospital diet,andatendencyvs.
+standardnutritional supplement [
+123
+].Thesedataprovideargu-
+ments forapreferentially preoperativeuse. Thecost-effectiveness
+ofsuchaformula,e.g.becauseofreducedcomplicationrates, has
+beenshown[
+121
+,
+124
+e
+126
+].
+5.Nutritionaltherapyinthepreoperativeperiod(
+Fig.2
+)
+5.1.Which patientsbene
+
+tfromnutritional therapyinthe
+preoperativeperiod?
+Recommendation14
+Patients withseverenutritionalriskshallreceivenutritional
+therapypriortomajorsurgery(A)evenifoperationsincluding
+thoseforcancer havetobedelayed(BM).A period ofsevento14
+daysmaybeappropriate(0).
+GradeofrecommendationA/0
+e
+strongconsensus(95%
+agreement)
+Commentary
+Recently,theinternationalGlobalLeadershipInitiative forthe
+de
+
+nitionofMalnutritiondrivenbytheclinicalnutritionsocieties,
+hasproposedade
+
+nitionofmalnutritionincludingphenotypical
+(non-volitionalweightloss,lowbodymassindex (BMI),reduced
+musclemass)andetiologicalcriteria(reducedfoodintakeor
+assimilation,in
+
+ammationordiseaseburden) [
+127
+].
+Inthesurgicalpatientsarcopenicobesitymay notbeunder-
+estimated,
+ﬁ
+severe
+ﬂ
+nutritionalriskhasbeende
+
+ned accordingto
+theESPENworkinggroup(2006)asthepresenceofatleastoneof
+thefollowingcriteria:
+
+Weightloss
+>
+10
+e
+15%withinsixmonths
+
+BMI
+<
+18.5kg/m
+2
+
+SGAGradeCorNRS
+>
+5(subjectiveglobal assessment, nutri-
+tionalriskscreening)
+
+Serumalbumin
+<
+30g/l(withnoevidenceofhepaticorrenal
+dysfunction)
+Theseparametersre
+
+ectundernutritionaswellasdisease-
+associatedcatabolism.Theworkinggroupagrees thathypo-
+albuminemiaisaclearsurgicalriskfactor[
+128
+,
+129
+],however,it
+re
+
+ectsdisease-associated catabolismanddiseaseseverityrather
+thanundernutrition.Theimpactofhypoalbuminemiahas been
+Fig.2.
+Flowschemeofpreoperativenutrition.
+A.Weimann,M.Braga,F.Carlietal.
+ClinicalNutrition 40(2021)4745
+e
+4761
+4750
+emphasizedbyrecentdata[
+13 0
+e
+132
+].Forpatientsathigh-risk
+preoperativeconditioninghasbeenatraditionalapproachto
+optimizethepatient'sstatusbeforemajor electivesurgery.Bene
+
+ts
+ofnutritionaltherapywereshownincasesofsevereundernutrition
+[
+13 3
+e
+135
+];andcon
+
+rmedintwometa-analyses[
+134
+,
+13 6
+]both,
+particularly concerningtherate ofpostoperative complications
+[
+13 3
+,
+13 5
+e
+137
+].Thesepatientswerefedpreoperativelyfor atleast
+sevento tendays.In 800patientswithgastriccancerundergoing
+gastrectomyandwithseverenutritional riskaccordingtothe
+ESPENde
+
+nition, theincidence ofsurgical-site-infectionswas
+signi
+
+cantlylowerinthegroupreceivingadequateenergysupport
+foratleasttendaysthaninthegroup withinadequateorevenno
+supportforlessthantendays(17.0%vs. 45.4%, p
+¼
+0.00069).In
+multivariateanalysis,nutritionaltherapywasanindependentfac-
+torassociatedwithfewersurgicalsiteinfections(oddsratio0.14,
+95%CI0.05to0.37,p
+¼
+0.0002)[
+138
+].Trimodalprehabilitation
+offersanewapproachforconditioninghighriskpatientsforERAS
+includingnutritiontherapy,physicalexercisetraining,andpsy-
+chologicalsupportforalongerperiodof2-6weeks
+[3
+e
+6]
+.
+Recommendation15
+Whenever feasible, theoral/enteral routeshallbepreferred
+(A).
+GradeofrecommendationA
+e
+strongconsensus(100%
+agreement)
+Commentary
+Withspecialregardtocancerpatientsundergoingmultimodal
+therapy supportofadietitianshouldbeintegratedvery early[
+139
+].
+IfPNisnecessarytomeetenergy needse.g.instenosis oftheupper
+gastrointestinaltract,it shouldbecombinedwith oralnutrition
+(e.g.ONS)wheneverpossible. Toavoidrefeedingsyndromein
+severelymalnourishedpatientsPNshouldbeincreasedstepwise
+includinglaboratoryandcardiacmonitoring withadequatepre-
+cautionstoreplacepotassium,magnesium, phosphate,andthia-
+mine[
+14 0
+].Thereis insuf
+
+cientdataavailable onthecomparisonof
+ENwith PNpreoperatively.Jieetal.presentedaconsecutiveseries
+of1085patientsundergoingnutritionalriskscreening(NRS-2002)
+beforeabdominalsurgery [
+141
+]andfoundthat512were atnutri-
+tionalrisk.Atthediscretionofthesurgeon,patientsreceivedENor
+PNforsevendaysbeforesurgery.Whilenodifference ininfection
+rateand LOSwas foundforpatientswithNutritionRiskScoreof3
+and4 forpatientswithandwithoutpreoperativenutritional sup-
+port,of120patientswithnutritionalriskscreening(NRS)scoreof
+at least 5thosewithpreoperative nutritionhadsigni
+
+cantlyfewer
+complications(25.6%vs.50.6%,p
+¼
+0.008)andashorter hospital
+stay(13.7
+±
+7.9dvs.17.9
+±
+11.3d,p
+¼
+0.018).
+Durationofpreoperativenutritionaltherapyaccording to
+nutritionalrisk.
+5.2.WhenispreoperativeONS/ENindicated?
+Recommendation16
+Whenpatientsdonotmeettheirenergyneedsfromnormal
+fooditisrecommendedtoencouragethese patientstotakeONS
+
+during the preoperativeperiodunrelatedtotheirnutritional
+status.
+Gradeofrecommendation GPP
+e
+consensus(86%agreement)
+Commentary
+Itisthe consensusoftheworkinggroupthatONSshould
+compriseastandard fullybalancednon-disease-speci
+
+cformula
+whichmay beusedasasolesourcefornutritionand iscomposed
+accordingtotheEuropeanUnionregulatorydirectives forFoodfor
+SpecialMedicalPurposes(FSMP)[
+14 2
+,
+143
+].Becausemanypatients
+donotmeettheirenergyneedsfromnormal fooditisthe
+consensusoftheworkinggroupto encourage themtotake
+standardONSduringthepreoperativeperiodunrelated totheir
+nutritionalstatus.
+UnrelatedtothenutritionalstatuspreoperativeONSwere
+studiedingeneralsurgicalpatientsinthreeRCTs [
+14 4
+e
+146
+].
+Althoughtwostudiesshowednosigni
+
+cantimpactonthe
+outcome,Smedleyetal.found asigni
+
+cantreductioninminor
+complications.Furthermore,preoperativeONS continued post-
+operatively,minimizedpostoperativeweight loss[
+147
+].Ithastobe
+arguedthatmostofthepatients whounderwentsurgeryfor
+colorectalcancerwerenotatnutritionalrisk.Thismightexplain
+whythemeta-analysisof thesestudiesdidnotshowsigni
+
+cant
+bene
+
+ts[
+148
+].Itisnoteworthythat Burdenetal.observed some
+bene
+
+tsforsurgicalsiteinfectionsaccordingtotheBuzbyde
+
+ni-
+tioninselectedweight losingpatients[
+146
+].Thecost-effectiveness
+ofstandardONSinhospitalizedpatientswasshowninasystematic
+reviewoftheliteratureand meta-analysis[
+14 2
+].
+Recommendation17
+Preoperatively,ONSshallbegiven toallmalnourishedcancer
+andhigh-riskpatientsundergoingmajorabdominalsurgery. A
+specialgroupof high-riskpatientsaretheelderlypeoplewith
+sarcopenia.
+GradeofrecommendationA
+e
+strongconsensus(97%
+agreement)
+Seerecommendations14and16.
+Recommendation18
+ImmunemodulatingONSincluding (arginine,omega-3fatty
+acids,andnucleotides)canbepreferred(0)andadministered
+for
+
+vetosevendayspreoperatively(GPP).
+Gradeofrecommendation0/GPP
+e
+majorityagreement,64%
+agreement
+.
+Commentary
+Seealsorecommendation13.
+Because patientcompliancetotakeONSseemstobeamatterof
+motivationpatientsshouldbe informed wellaboutthepotential
+bene
+
+ts[
+149
+].
+Recommendation19
+PreoperativeEN/ONSshouldpreferablybe administered
+priorto hospitaladmissionto avoid unnecessaryhospitaliza-
+tionandtolower theriskof nosocomialinfections.
+GradeofrecommendationGPP
+e
+strongconsensus (91%
+agreement)
+Commentary
+Thebene
+
+tsof nutritionaltherapypriortohospitaladmission
+areobviousregardingtheriskofnosocomial infectionandalso
+economy.
+For speci
+
+cimmunemodulatingdiets
+e
+seerecommendation
+13and 18.
+5.3.WhenispreoperativePNindicated?
+Seealso5.2
+ﬁ
+WhenispreoperativeONS/ENindicated?
+ﬂ
+Recommendation20
+PreoperativePN shallbeadministeredonlyinpatientswith
+malnutritionorseverenutritional riskwhereenergyrequire-
+
+mentcannotbeadequately metbyEN(A). Aperiod of7
+e
+14days
+isrecommended(0).
+GradeofrecommendationA/0
+e
+strongconsensus(100%
+agreement)
+Commentary
+Thebene
+
+tsofpreoperativePNforsevento14daysareonly
+evidentinpatientswithseveremalnutrition(weightloss10
+e
+15%)
+beforemajorgastrointestinalsurgery [
+135
+,
+137
+].WhenPNisgiven
+fortendayspreoperativelyandcontinuedfor ninedayspost-
+operativelythe rateofcomplicationsis30%lowerandthereisa
+reductioninmortality[
+137
+].Accordingtotherecoveryof
+A.Weimann,M.Braga,F.Carlietal.
+ClinicalNutrition 40(2021)4745
+e
+4761
+4751
+physiologicalfunctionandtotalbodyprotein,aconsiderablein-
+creasecanbeachieved withinsevendaysofPN.However further
+signi
+
+cantimprovementwillbeobtainedwithinthesecondweek
+[
+15 0
+].Nocontrolledstudieshavebeen performed comparingseven
+dayswithtento14 days ofPN.WhiletheASPENguidelines2009
+recommendsevendaysofPN[
+64
+],itistheopinionoftheworking
+group,thatinpatientswithseverenutritionalriskthepotential
+increaseinbene
+
+twilljustifythepreoperativeextensionofLOS
+withtento14 days.A recentCochraneanalysis ofpreoperativePN
+inpatients undergoinggastrointestinalsurgerycon
+
+rmedasig-
+ni
+
+cantreductionofcomplicationsfrom45%to28%[
+148
+].
+6.Postoperativenutrition(
+Fig. 3
+aandb)
+6.1.Which patientsbene
+
+tfromearlypostoperativeEN?
+Recommendation21
+EarlyEN(within24h)shall be initiatedin patientsinwhom
+earlyoralnutritioncannotbestarted,andinwhomoralintake
+willbeinadequate(
+<
+50%) formorethansevendays.
+
+patientsundergoingmajorheadandneckorgastrointestinal
+surgeryforcancer(A)
+
+patientswithseveretraumaincluding braininjury(A)
+
+patientswithobviousmalnutritionatthetimeofsurgery(A)
+(GPP)
+GradeofrecommendationA/GPP-strongconsensus(97%
+agreement)
+Commentary
+RecentdatafromRCTsandonemeta-analysis con
+
+rmthatim-
+mediateoralnutritioncanbeadministeredsafelyinpatientswith
+anastomosesafterpartialandtotal gastrectomy[
+50
+,
+151
+,
+152
+].A
+recentRCTinpatientsundergoingminimallyinvasiveesoph-
+agectomyshowedthatdirectoralfeedingisfeasiblewithoutany
+harm[
+49
+].AnRCTinpatientsundergoingtotal laryngectomywith
+primarypharyngealclosurealsoshowedthatinitiationoforal
+feedingonthe
+
+rstpostoperativedaywassafe [
+153
+].Nevertheless,
+patients undergoingmajorsurgeryforheadandneck,and
+abdominalcancer(larynx,pharynxoresophagealresection,gas-
+trectomy,partialpancreatectomy)of tenexhibitnutritionaldeple-
+tionbeforesurgery[
+15 4
+e
+16 2
+]andhaveahigherriskofdeveloping
+septiccomplications[
+52
+,
+154
+e
+15 8
+,
+161
+,
+163
+].Postoperatively,oral
+intakeisoften delayeddueto swelling,obstruction,orimpaired
+gastricemptying,makingitdif
+
+cultto meetnutritionalre-
+quirements.Anypostoperativecomplicationsmaydelayoraland
+enteralfeeding,anddiminishprede
+
+nedcaloric uptake [
+164
+].
+Nutritionalsupportreduces morbiditywithanincreasinglypro-
+tectiveeffectofPN,EN, andimmune-modulatingformula [
+52
+].
+Traumapatientswithanormalnutritionalstatushavea high riskof
+developingsepticcomplicationsandmultipleorganfailure.Early
+ENhasbeenclaimedtoreducesepticcomplications [
+60
+,
+16 5
+],and
+hasbeensuggestedtoreducetherate ofmultiple organfailure
+wheninitiated within24h [
+166
+].Forhead-injured patients,early
+feedingmaybeassociatedwithfewer infectionsandatrendto-
+wardsbetteroutcomesintermsofsurvivaland disability[
+16 7
+].
+6.2.Which formulashouldbeused?
+Recommendation22
+In mostpatients,astandardwholeprotein formulais
+appropriate.Fortechnicalreasonswithtubeclotting and the
+riskofinfection,theuseof home-madedietsforEN isnotrec-
+ommendedingeneral.
+GradeofrecommendationGPP-strongconsensus(94%
+agreement)
+Commentary
+Mostpatients canbeappropriatelyfedbyastandarddiet.Even
+incaseofsmallbowelaccesse.g.byaneedlecatheterjejunostomy
+(NCJ)nooligopeptidedietisrequired.Home-madedietsforENmay
+beconsideredinthe homecaresetting(preparationissolelyfor
+onepatient,andriskforcontaminationislowerthaninaninsti-
+tutionwhereseveralpreparationsaremadeatthesametime).For
+immune-modulatingformulaseecomment4.5.
+6.3.Howshouldpatientsbetubefedaftersurgery?
+Recommendation23
+With specialregardtomalnourishedpatients,placementofa
+nasojejunal tubeorNCJshouldbeconsideredforallcandidates
+forENundergoingmajoruppergastrointestinalandpancreatic
+surgery.
+GradeofrecommendationB
+e
+strongconsensus(95%
+agreement)
+Commentary
+
+Manystudies haveshownthebene
+
+tsandfeasibilityoffeeding
+viaatubeeitherinserted distalto theanastomosis,e.g. NCJ,or
+insertedviathenosewithitstippassed distallyatthetimeof
+operatione.g.nasojejunaltube[
+168
+e
+173
+].Openorevenlaparo-
+scopicplacement[
+174
+]oftheNCJaccordingtostandardizedtech-
+niquesinaspecializedcenterisassociatedwithlowrisk anda
+complicationrateofabout1.5
+e
+6%inmostseries[
+120
+,
+168
+,
+170
+,
+175
+e
+185
+]. SomeauthorsconsidertheroutineuseofNCJandover-
+treatmentandproposeconsiderationofNCJonlyinhigh-riskpa-
+tients[
+186
+e
+188
+].Forpatientsundergoingesophagealresection,an
+observationalstudydemonstratedthebene
+
+tsofsafelongtermEN
+byNCJwith special regardtoanastomoticcomplications[
+172
+,
+183
+].
+The complicationratewas low:1.5%[
+183
+].In anRCTincluding68
+patientsundergoingpancreaticoduodenectomynosigni
+
+cantdif-
+ferenceinthe complicationratewasfound(15%vs.13%)[
+189
+]. The
+postoperativeLOSwassigni
+
+cantlyshorterintheNCJgroup[
+189
+].A
+meta-analysisof
+
+veRCTsincluding 344patientsdidnotelucidatea
+cleardifferencebetweenenteralNCJfeeding and parenteral access
+[
+190
+].Inpatientsundergoingesophagectomy,anRCTshowedno
+signi
+
+cantdifferencesbetweennaso-duodenaltubeandfeeding
+jejunostomyforearlyENandcatheter-associatedcomplications
+[
+191
+].Becausenasojejunal andnasoduodenal tubes areassociated
+withasigni
+
+cantrateofearlyaccidentaldislodgement[
+187
+,
+190
+],the
+working groupagreeswithMarkidesetal.thatforpatientsat
+nutritionalrisk,
+ﬁ
+feedingjejunostomymaybesuperiorto nasojejunal
+orduodenaltubes
+ﬂ
+.Inthesepatients,itmaybereasonabletoleave
+NCJandtocontinuenutritional supporttherapyafterdischarge.
+Recommendation24
+EN shallbeinitiated within24haftersurgery.
+GradeofrecommendationA
+e
+strongconsensus(91%
+agreement)
+Commentary
+Seecommentaryrecommendation25.
+
+Recommendation25
+ItisrecommendedtostartENwithalow
+
+owrate(e.g.10
+e
+max.20ml/h)andtoincreasethefeedingratecarefullyand
+individuallyduetolimited intestinaltolerance.Thetime to
+reachthetargetintakecanbevery differentand maytake
+
+veto
+sevendays.
+GradeofrecommendationGPP
+e
+consensus(85%agreement)
+Commentary
+Tolera nceofENhastobemonitoredclosely inall patient swith
+impairedgastrointestinalfunction[
+192
+].Itmaythereforetake
+
+ve
+tosevendaysbef orenut ritional requi rementscanbeachieved by
+A.Weimann,M.Braga,F.Carlietal.
+ClinicalNutrition 40(2021)4745
+e
+4761
+4752
+Fig.3.
+a:Flowschemeofpostoperativenutritionandindicationfornutritiontherapy.b:Flowschemeofpostoperativenutritiontherapy.
+A.Weimann,M.Braga,F.Carlietal.
+ClinicalNutrition 40(2021)4745
+e
+4761
+4753
+theenteralroute[
+171
+,
+173
+,
+193
+,
+194
+].Inanecdotalreports,strangu-
+lationortoorapidadministrationoffeedmayleadtothe devel-
+opment ofsmallbowelischemia withahighriskofmortality
+[
+187
+,
+195
+e
+201
+].
+Recommendation26
+Iflong-termEN (
+>
+4weeks)is necessary,e.g.inseverehead
+injury,placementofapercutaneoustube(e.g.percutaneous
+endoscopic gastrostomy-PEG)isrecommended.
+Gradeofrecommendation GPP
+e
+strongconsensus(94%
+agreement)
+Commentary
+Percutaneousendoscopicg astrosto myshouldbe considere din
+caseoftheindicationf orlong-term ENwhenabdominalsur gery
+is notindicate de.g .severeheadinjury,neurosurgery.Forpatients
+withupperg astrointe stinalstenosisduetoesophagealcancerand
+scheduledsurgeryafte r neoadjuvant radio-chemot herapypre-
+operativePEGshouldbeonlyplacedaccordingto thediscretionof
+thesurgeon.Theg uidelinesfor PEGplacement[
+202
+]recommend
+theinterventionforENofatleasttwotothreeweeks.
+6.4.Which patientswillbene
+
+tfromENafterdischargefromthe
+hospital?
+Recommendation27
+Regularreassessmentofnutritionalstatus duringthestayin
+hospitaland,ifnecessary,acontinuationof nutritionalsupport
+therapy includingquali
+
+eddietarycounselingafterdischarge,
+isadvisedforpatients whohave receivednutritionalsupport
+therapyperioperativelyand stilldonot coverappropriately
+theirenergyrequirementsvia the oralroute.
+GradeofrecommendationGPP
+e
+strongconsensus (97%
+agreement)
+Commentary
+Despiteperioperativenutritionaltherapy,patientsdeveloping
+postoperativecomplicationsloseweight andareatriskforfurther
+deteriorationofnutritionalstatus.Thesepatientsrequirecontinuing
+nutritionalfollow-upafter discharge.Furthermore, in somepatients
+aftermajorgastrointestinalorpancreaticsurgerytheoralcaloric
+intakewillbeinadequatefora longerperiodwithariskforpost-
+operative malnutrition.Ameta-analysisof18studiesinpatientswith
+esophagectomyindicatedaweightloss of5
+e
+12% atsix monthspost-
+operatively.More than halfofpatientslost
+>
+10%ofbodyweightat
+twelvemonths[
+203
+].Dietarycounselingisstronglyrecommended
+andappreciatedby mostpatients.Ifimplementedduring surgery,NCJ
+maybeadvantageousbecauseitneedsnotberemovedatthetimeof
+dischargefromthehospital.IfnecessarysupplementaryENcanbe
+continuedviaNCJe.g.with500or1000 kcal/dovernight.Appropriate
+training willenablemostofthepatientstoadministerjejunostomy
+tubefeedsthemselves
+[204]
+.Thedatafromthesix RCTsdonotshow
+withcertaintythatroutinepostoperativeorpost-hospitaladminis-
+trationof ONSimprovesoutcomebut thereisbene
+
+tintermsof
+nutritionalstatus,rateofminorcomplications,well-being,andquality
+oflifeinpatientswhocannotmeettheirnutritionalrequirementsat
+homefromnormal food
+[144,145,205]
+.Thisappliesmainly topatients
+aftermajorgastrointestinalsurgery
+[206,207]
+,andgeriatricpatients
+withfractures[
+20 8
+e
+210
+].Amonggeriatricpatients,compliancewith
+nutritionalintakewaslow,independentlyof nutritionalstatus.
+However,totalenergyintakewas still signi
+
+cantlyhigherinthe
+treatmentcomparedwiththecontrolgroup[
+20 9
+,
+211
+].
+7.Organtransplantation(
+Fig.4
+)
+7.1.WhenisENnecessarybeforesolidorgantransplantation?
+Recommendation28
+Malnutrition isa majorfactorin
+
+uencingoutcomeafter
+transplantation,somonitoringofthenutritionalstatusisrec-
+ommended.Inmalnutrition,additionalONSorevenENis
+advised.
+GradeofrecommendationGPP
+e
+strongconsensus(100%
+agreement)
+Commentary
+Undernutri tionislikelytoleadtoafaste rprog re ssionofthe
+underlyingdisease,e speciallyinthe presence ofcardiacand
+respirato ryinsuf
+
+ciency,andleadstoimpaire dfunctionalstatus
+(seerespectiveguidelines). Negativeenergybalanceis highly
+pre valent amongpatientsonthewaitinglistforlivertrans-
+plantationandisassociatedwiththeseverityoftheliverdisease.
+Nut ritionalparamete rshavebeenshown tocorre late with
+outcomeaftertransplantation[
+212
+e
+217
+].Du ringthe oftenlong
+pre operativewaitingperiod,thereistimetotrytore pletepa-
+tientsnutritionally.Food compositionmaybei nadequa teand
+intakeofenerg yandproteinoverallto olow[
+218
+].Fourinter-
+ventionalstudies (tworandomized)onpre operativenutrition in
+patientswai ting fororgantransplantationhavebeenperfo rmed
+[
+219
+e
+222
+].Improve ment inparamete rsofnutritionalstatuswas
+shownin allfourstudies.Therewasnodiffere nce inmortality
+betweenpatientso nthewaitinglistand patientsaftertrans-
+plantation.Inthecaseofnutritionalintervention,noassociation
+wasfoundbetwee nmortal ityand nutritionalstatus[
+215
+].Inone
+RCT,theimprove dparamet ersofnutritionalstatusbeforetrans-
+plantationdidnotaffectoutcomeandmortality [
+220
+].
+Recommendation29
+Regularassessmentofnutritionalstatusandquali
+
+ed di-
+etarycounsellingshallberequired whilemonitoringpatients
+onthewaitinglistbeforetransplantation.
+GradeofrecommendationGPP
+e
+strongconsensus(100%
+agreement)
+Commentary
+Besidesmalnutrition,anddespitetheobesityparadox,obesity
+remainsasig ni
+
+cant metabolicriskfacto r for theoutcomeof
+patientsundergoingorgantransplantation[
+223
+].Therefore,
+nutritionalmo nitoring andtreatmentshouldalsoincludeobesity
+andmetabolicsyndrometoobtainweightlossandriskminimi-
+zation.Earlyre sultsconcerningthebene
+
+tsofimm une-
+modulatingformuladuringthewaitingperiod and
+
+vedaysaf-
+te rlivertransplantationshowafavorabl elong -termimp acton
+totalbodyproteinandapossiblere ductionofinfectiouscompli-
+cations[
+222
+].InaJapanesepi lotstudy,23livingdonorsforliver
+transplantationwererando mized fortheintakeo fasupplement
+enriche dwith antioxidantsfor
+
+vedaysbeforesurgery.Wh ilean
+incre aseinantioxidantcapacitywasobservedintheinte rvention
+groupnosigni
+
+cantdiffere nceswerefoundforanyimmunolog-
+icalorclinicalparamete r[
+224
+].
+Recommendation30
+Recommendations forthe livingdonorandrecipientareno
+differentfromthose forpatientsundergoingmajorabdominal
+surgery.
+GradeofrecommendationGPP
+e
+strongconsensus (97%
+agreement)
+Commentary
+
+Atpresent, thereis apaucityofdataavailableconcern ingthe
+metabolicpre conditioningof the(living )donorandre cipient.
+Experimental re sults[
+225
+]showing theimpactofnutritional
+sta tusonliverpre servationinjuryalsofavortheconceptof
+metabolicpre parationbypre operativecarbohy dratedrink.
+Particul arissuesre g ardingthein
+
+uenceofENonthecourse/
+progressionofliver diseasearediscussedinthehepato logy
+guideline[
+226
+].
+A.Weimann,M.Braga,F.Carlietal.
+ClinicalNutrition 40(2021)4745
+e
+4761
+4754
+7.2.Whenisnutritional therapyindicatedaftersolidorgan
+transplantation?
+Recommendation31
+Afterheart,lung, liver,pancreas,andkidney transplantation,
+earlyintakeofnormalfoodorENisrecommendedwithin24h.
+GradeofrecommendationGPP
+e
+strongconsensus (100%
+agreement)
+Commentary
+It isgenerallyagreedthatearly normalfoodorENshouldbe
+administeredinpatientsundergoingtransplantation [
+226
+e
+228
+].In
+casesofundernutrition, itshouldbecombinedwithPNifthe
+enteraldeliveryofnutrientsisinadequate. InsertionofanNCJ is
+feasibleinpatientsundergoinglivertransplantation[
+229
+].Forthe
+
+rst48hcaloric intake
+<
+18 kcal/kg/daymaybebene
+
+cialforthe
+earlygraftfunctionafterlivertransplantation[
+230
+].Absorption
+andbloodlevelsoftacrolimusare notaffectedbyEN[
+231
+].ENisat
+leastequaltoPNinpatients afterlivertransplantation[
+232
+]and
+hasbeenshowntoreducetheincidenceofviralandbacterialin-
+fections[
+228
+,
+233
+].ComparedwithstandardENformulaplusthe
+useofselectivedigestivedecontamination,theuseofa highsoluble
+
+berformulawithprobioticbacteria(
+Lactobacillusplantarum
+) has
+beenshowntoreducesigni
+
+cantlytherateofinfections[
+234
+].
+EarlyENenrichedwithamixture ofprobioticbacteriaandsoluble
+
+bersigni
+
+cantlyreducedbacterialinfectionratecomparedwitha
+supplementcontainingonly
+
+ber[
+235
+].
+Recommendation32
+Evenaftertransplantationof thesmall intestine,ENcanbe
+initiatedearly butshouldbeincreasedverycarefullywithinthe
+
+rstweek.
+Gradeofrecommendation GPP
+e
+strongconsensus(93%
+agreement)
+Commentary
+ENispossibledespiteincreasedintestinalsecretioninsmall
+boweltransplantationandcanbe performedatlowdeliveryrates
+inthe
+
+rstweek [
+236
+e
+238
+].Micronutrientsandmineralsshouldbe
+monitoredandsupplementedbecausede
+
+ciencieswereobserved
+in21pediatricandyoungadultpatientsundergoingintestinal
+transplantationwithspecialregardtothosewhoreceivedjejunal
+tubefeeding[
+239
+].
+Recommendation33
+IfnecessaryENandPNshould becombined.Long-term
+nutritionalmonitoringandquali
+
+eddietarycounselingare
+recommendedforalltransplants.
+GradeofrecommendationGPP
+e
+strongconsensus(100%
+agreement)
+Commentary
+ENandPNmaybeequallyimportantinpatientsafterliver
+transplantation[
+232
+].Bene
+
+tshavebeenreportedwithadminis-
+trationofMediumChainTriglycerides/LongChainTriglycerides
+lipidemulsions comparedtoLongChainTriglyceridesemulsions,
+withmorefavorable regenerationofthefunctionofthereticulo-
+endothelialsystem afterlivertransplantation[
+240
+].Therewas no
+difference inthemetabolismofbothlipidpreparations[
+241
+].When
+comparedwithroutinetreatmentincludinganoraldietoraddi-
+tionalPNwith 20%MediumChainTriglycerides/Long ChainTri-
+glycerides emulsiontheuseofan omega-3
+
+shoillipidemulsion
+forsevendaysafter liver transplantationshowedsigni
+
+cantben-
+e
+
+ts concerningischemia-reperfusiongraftinjury,infectious
+morbidity,and post-transplanthospitalstay[
+242
+,
+243
+].Thead-
+vantagesregardingtherecoveryofthegraftmaybeexpectedfrom
+theresultsofameta-analysisof21 RCTs[
+85
+].Forparenteraland
+enteraluse ofomega-3-fattyacids, themeta-analysisfromLeietal.
+[
+244
+]includedfour heterogeneous studies [
+245
+],and twostudies
+publishedinChinese.Nosigni
+
+cantdecreasewasfoundintherate
+ofinfectiouscomplications.
+Fig.4.
+Flowschemeofperioperativenutritioninorgan transplantationandbariatricsurgery.
+A.Weimann,M.Braga,F.Carlietal.
+ClinicalNutrition 40(2021)4745
+e
+4761
+4755
+Long-termn utritionalmonitoringanddietarycounselingare
+reasonablebecausemanypatientsundergoingtransplantation
+showinadequatebodycomposit ion.Increased f atandreduced
+leanbody masswereobservedin145patientsundergoingrenal
+transplantationandpatientswitha normalBMIhadbetterrenal
+graftfunctionthanthosewithobesity[
+246
+].Toimprovekidney
+f unct ion, reject ionra tes, pat ientandg raftsurv i val
+
+shoil use
+afterrenaltransplantationwasanalyzed inaCochraneSystematic
+Re v iewincluding15RCTwith733pat ient s[
+247
+].Besidesa
+modestimprovementi nHigh-
+DensityLipoproteins(HDL)
+cholesteroland diastolicblood pressure nobene
+
+tinclinical
+outc omewasfound[
+246
+].
+8.Bariatric surgery(
+Fig. 4
+)
+8.1.Whenisperioperativenutritional therapyindicatedinthe
+bariatricpatient?
+Recommendation34
+Earlyoralintakecanberecommendedafterbariatric
+surgery.
+Gradeofrecommendation0
+e
+strongconsensus(100%
+agreement)
+Commentary
+Nutritionalcareinpatientsundergoingbariatricsurgeryex-
+tendswellbeyondtheperioperative period. ERASprincipleshave
+beenappliedalsoin bariatricsurgery[
+248
+].Standardizedpathways
+havebeenshownto facilitateimplementation andtoimprove
+processquality,whileclinicalbene
+
+tswereminimalatbest
+[
+248
+,
+249
+].The preoperativeassessmentshouldincludescreening
+formalnutritionandde
+
+ciencyinvitaminsandtraceelements.
+Potentialbene
+
+tsof preoperativecarbohydrateloadingandpost-
+operativeperipheralPNvs.standardmanagementwerestudiedin
+acohortof203 laparoscopicRoux-en-Y bypasspatients.While the
+nutritionalinterventionsappearedtobesafeeveninpatientswith
+type2diabetes, carefulanalysisofvariousnutritionalparameters
+and clinicaloutcomesdidnotshowanystatisticallysigni
+
+cant
+differencebetweenthegroups[
+250
+].Consensusexistsaboutearly
+oralnutritionafterbariatricsurgery[
+251
+e
+254
+].Thereisnodiffer-
+enceinmanagementwhencomparedwithanyother(upper)
+gastrointestinalsurgicalprocedures.
+Recommendation35
+PNis notrequiredinuncomplicatedbariatricsurgery.
+Gradeofrecommendation0
+e
+strongconsensus(100%
+agreement)
+Commentary
+Whilehypocaloricnutritionispartofthetreatmentstrategyin
+patientswithanuncomplicatedcourse,thereisnoneedforsup-
+plementalPN.TheAlliedHealthNutritionalGuidelines forthe
+SurgicalWeightLossPatientdonotrecommend PNregularly[
+247
+].
+Inthesepatients,thegastrointestinaltract isusuallyworkingand
+catheter-associatedcomplicationshavetobeconsidered[
+255
+].
+Recommendation36
+Incase ofamajorcomplicationwith relaparotomy,theuseof
+anasojejunaltube/NCJmaybeconsidered.
+Gradeof recommendation0
+e
+consensus(87% agreement)
+Commentary
+Eveninthecaseofmajorcomplicationsafterbariatricproced-
+ures, EN hasprovenadvantagesconcerningmortalityandhigher
+cost-effectiveness[
+256
+e
+258
+].ForENnasojejunaltubes,NCJor
+gastrostomyinthegastricremnantmay beconsideredcarefully
+[
+256
+e
+259
+].NCJandPEGhaveaconsiderablyhigherriskof leakage
+intheobese patient.Anasojejunaltubemaybeplacedinthe
+operating room.
+Recommendation37
+Furtherrecommendationsarenotdifferentfrom thosefor
+patientsundergoingmajor abdominalsurgery(0).
+Gradeofrecommendation0
+e
+strong consensus(94%
+agreement)
+Commentary
+Earlypostoperativefoodintakeis advocated,andsupplemen-
+tationwithproteinpowdersissuggestedtomeetdailyre-
+quirementsof60gprotein/day.Ofnote,standardoralsupplements
+containhighglucoseconcentrationsandare problematicinbar-
+iatricpatientsastheycancausedumpingsyndrome.Postoperative
+nutritionalfollow-upbya dedicatedteamisamustin thesepa-
+tientsfordietarycounseling,tomonitorweightloss,andtoprevent
+de
+
+ciencies(vitamins,micronutrients)withspecial emphasison
+bonehealth(vitaminD3, Ca).Inthiscontext,physicalexercise
+shouldbeencouragedstrongly,althoughevidenceislacking.
+Con
+
+ictofinterest
+Nonedeclared.Theexpertmembersof theworkinggroupwere
+accreditedbytheESPENGuidelines Group,theESPENEducation
+andClinicalPracticeCommittee, andtheESPENexecutive.All
+expertmembershavedeclaredtheirindividualcon
+
+ictsofinterest
+accordingtotherulesoftheInternationalCommitteeofMedical
+JournalEditors(ICMJE).Ifpotentialcon
+
+ictswere indicated,they
+werereviewedbytheESPENguidelineof
+
+cersand,incasesof
+doubts,bytheESPENexecutive.Noneoftheexpertpanelhadtobe
+excludedfromtheworking grouporfromco-authorshipbecauseof
+seriouscon
+
+icts.Thecon
+
+ictof interestformsarestoredatthe
+ESPENguidelineof
+
+ceandcanbereviewedbyESPENmembers
+withlegitimateinterestuponrequesttotheESPENexecutive.
+References
+[1]
+LjungqvistO.ERAS
+Œ
+enhancedrecoveryaftersurgery:movingevidence-
+basedperioperativecaretopractice.J ParenterEnterNutr2014;38:559
+e
+66
+.
+[2]
+GillisC,CarliF.Promotingperioperativemetabolicand nutritionalcare.
+Anesthesiology2015;123:1455
+e
+72
+.
+[3]
+Barberan-GarciaA,Ubr
+
+eM,RocaJ, LacyAM,BurgosF,RiscoR,etal.Per-
+sonalisedprehabilitationinhigh-riskpatientsundergoing elective major
+abdominalsurgery:arandomizedblindedcontrolled trial.AnnSurg
+2018;267:50
+e
+6
+.
+[4]
+Hughes MJ,HackneyRJ,LambPJ,WigmoreSJ,DeansDC,SkipworthRJ.
+Prehabilitationbeforemajorabdominalsurgery:asystematicreviewand
+meta-analysis. WorldJSurg2019;43:1661
+e
+8
+.
+[5]
+DanielsSL,LeeMJ,GeorgeJ,KerrK,Moug S,etal.Prehabilitationin elective
+abdominalcancersurgeryinolderpatients:a systematicreviewandmeta-
+analysis.BJSOpen2020;4:1022
+e
+41
+.
+[6]LambertJE,HayesLD, KeeganTJ, SubarDA, GaffneyCJ.Theimpactofpre-
+habilitationonpatientoutcomesinhepatobiliary,colorectal,andupper-
+
+gastrointestinal cancersurgery-APRISMA-accordantmeta-analysis.Ann
+Surg2020.
+https://doi.org/10.1097/SLA.0000000000004527
+.
+[7]
+SimonsenC,deHeerP,BjerreED, SuettaC,HojmanP, PedersenBK,et al.
+Sarcopeniaandpostoperativecomplicationriskin gastrointestinalsurgical
+oncology:ameta-analysis. AnnSurg2018;268:58
+e
+69
+.
+[8]
+ZhangB,NajaraliZ,RuoL,AlhusainiA,SolisN,ValenciaM,etal.Effectof
+perioperativenutritionalsupplementationonpostoperativecomplica-
+tions
+d
+systematicreviewandmeta-analysis.J Gastrointest Surg2019:1
+e
+12
+.
+[9]
+KollerM, SchutzT,ValentiniL,KoppI,PichardC,LochsH,et al.Outcome
+modelsinclinicalstudies:implicationsfordesigningandevaluatingtrialsin
+clinicalnutrition.ClinNutr2013;32:650
+e
+7
+.
+[10]
+WeimannA,Braga M,CarliF,HigashiguchiT,HubnerM,KlekS,etal.ESPEN
+guideline:clinicalnutritioninsurgery.ClinNutr2017;36:623
+e
+50
+.
+[11]
+BischoffSC,SingerP,KollerM,BarazzoniR,CederholmT,vanGossumA.
+Standardoperatingprocedures forESPENguidelinesandconsensuspapers.
+ClinNutr2015;34:1043
+e
+51
+.
+[12]
+BradyM,KinnS,StuartP.Preoperativefastingforadultstoprevent peri-
+operativecomplications.CochraneDatabaseSystRev2003;4:CD004423
+.
+[13]
+LambertE,Carey S. Practiceguidelinerecommendationsonperioperative
+fasting:asystematic review.JParenterEnterNutr2016;40:1158
+e
+65
+.
+[14]
+LoboDN,HendryPO,RodriguesG,MarcianiL,TotmanJJ,WrightJW,etal.
+Gastricemptyingofthreeliquidoralpreoperativemetabolic preconditioning
+regimensmeasuredbymagneticresonanceimaging inhealthyadultvol-
+unteers:arandomiseddouble-blind,crossoverstudy.ClinNutr 2009;28:
+
+636
+e
+41
+.
+A.Weimann,M.Braga,F.Carlietal.
+ClinicalNutrition 40(2021)4745
+e
+4761
+4756
+[15]
+AmericanSocietyofAnesthesiologistsCommittee. Practiceguidelinesfor
+preoperativefastingandthe useof pharmacologicagentstoreducethe risk
+ofpulmonaryaspiration:applicationto healthy patientsundergoing elective
+procedures:anupdated reportbytheAmericanSocietyofAnesthesiologists
+CommitteeonStandardsandPracticeParameters.Anesthesiology2011;114:
+495
+e
+511
+.
+[16]
+SoreideE,FastingS,RaederJ.NewpreoperativefastingguidelinesinNor-
+way.ActaAnaesthesiolScand1997;41:799
+.
+[17]
+SpiesCD,BreuerJP,GustR,WichmannM,AdolphM,SenkalM,etal.Pre-
+operativefasting.Anupdate.Anaesthesist2003;52:1039
+e
+45
+.
+[18]
+YuillKA,RichardsonRA,DavidsonHI,GardenOJ,ParksRW.Theadminis-
+trationofanoralcarbohydrate-containing
+
+uidpriortomajorelective
+upper-gastrointestinalsurgerypreservesskeletalmuscle masspost-
+
+operatively
+Œ
+arandomisedclinicaltrial.ClinNutr2005;24:32
+e
+7
+.
+[19]
+VermeulenMA,RichirMC,GarretsenMK,vanSchie A,Ghatei MA,HolstJJ,
+etal.Gastricemptying,glucosemetabolismandguthormones:evaluationof
+acommonpreoperativecarbohydratebeverage.Nutrition2011;27:897
+e
+903
+.
+[20]
+BoppC,HoferS,KleinA,WeigandMA,Martin E,GustR.Aliberalpreoper-
+ative fastingregimenimprovespatientcomfortandsatisfactionwithanes-
+thesiacare inday-stay minor surgery.MinervaAnestesiol2011;77:680
+e
+6
+.
+[21]
+HauselJ,Nygren J,LagerkranserM,Hellstr
+€
+omPM,HammarqvistF,
+Almstr
+€
+omC,etal.Acarbohydrate-richdrinkreducespreoperativediscom-
+fortinelectivesurgerypatients.AnesthAnalg2001;93:1344
+e
+50
+.
+[22]
+KaskaM,GrosmanovaT,HavelE,HysplerR,PetrovaZ,BrtkoM,etal.The
+impactandsafetyofpreoperativeoralorintravenouscarbohydrate admin-
+istrationversusfastingincolorectalsurgery
+Œ
+arandomizedcontrolledtrial.
+WienKlinWochenschr2010;122:23
+e
+30
+.
+[23]
+MeisnerM,ErnhoferU,SchmidtJ.Liberalisationofpreoperative fasting
+guidelines:effectsonpatientcomfortandclinicalpracticabilityduring
+electivelaparoscopicsurgeryofthelowerabdomen.ZentralblChir
+
+2008;133:479
+e
+85
+.
+[24]
+AwadS,VaradhanKK,LjungqvistO,LoboDN.Ameta-analysisofrandomised
+controlledtrialsonpreoperativeoralcarbohydrate treatment inelective
+surgery.ClinNutr2013;32:34
+e
+44
+.
+[25]
+Smith MD,McCallJ,PlankL, HerbisonGP,SoopM,NygrenJ.Preoperative
+carbohydratetreatmentforenhancingrecoveryafterelectivesurgery.
+CochraneDatabaseSystRev2014;8:CD009161
+.
+[26]
+AmerMA,SmithMD,HerbisonGP,PlankLD,McCallJL.Networkmeta-
+analysisoftheeffectofpreoperative carbohydrateloadingonrecoveryaf-
+terelectivesurgery.BrJSurg2017;104:187
+e
+97
+.
+[27]
+GianottiL,Bif
+
+R,SandiniM,MarrelliD,VignaliA,CaccialanzaR,etal.Pre-
+operative oralcarbohydrateloadversusplaceboinmajorelectiveabdominal
+
+surgery(PROCY):a randomized,placebo-controlled,multicenter,phaseIII
+trial.AnnSurg2018;267:623
+e
+30
+.
+[28]
+GrecoM,CaprettiG,BerettaL,GemmaM, Pecorelli N,BragaM.Enhanced
+recoveryprogramincolorectalsurgery:ameta-analysisof randomized
+controlledtrials.WorldJSurg2014;38:1531
+e
+41
+.
+[29]
+VaradhanKK,NealKR,DejongCH,FearonKC,LjungqvistO,LoboDN. The
+enhancedrecoveryafter surgery(ERAS) pathwayforpatients undergoing
+majorelective opencolorectalsurgery:a meta-analysisofrandomized
+controlledtrials.ClinNutr2010;29:434
+e
+40
+.
+[30]
+BickelA,ShtamlerB,MizrahiS.Earlyoralfeedingfollowingremovalof
+nasogastrictube ingastrointestinaloperations.Arandomizedprospective
+study.ArchSurg1992;127:287
+e
+9.discussion9
+.
+[31]
+Elmore MF,GallagherSC,JonesJG,KoonsKK,SchmalhausenAW,StrangePS.
+Esophagogastricdecompressionandenteralfeedingfollowingcholecystec-
+tomy:acontrolled,randomizedprospective trial.JParenterEnterNutr
+1989;13:377
+e
+81
+.
+[32]
+PetrelliNJ,Stulc JP,Rodriguez-BigasM,BlumensonL.Nasogastric decom-
+pressionfollowingelectivecolorectalsurgery:a prospectiverandomized
+study.Am Surg1993;59:632
+e
+5
+.
+[33]
+Bardram L,Funch-JensenP,KehletH.Rapidrehabilitationinelderlypatients
+afterlaparoscopiccolonicresection.BrJSurg2000;87:1540
+e
+5
+.
+[34]
+ChenHH,WexnerSD,IroatulamAJ,PikarskyAJ,AlabazO,NoguerasJJ,et al.
+Laparoscopiccolectomycomparesfavorablywithcolectomyby laparotomy
+forreductionofpostoperativeileus.DisColonRectum2000;43:61
+e
+5
+.
+[35]
+SchwenkW, BohmB,HaaseO,JunghansT,MullerJM.Laparoscopicversus
+conventionalcolorectalresection:aprospectiverandomisedstudyofpost-
+operativeileus andearlypostoperative feeding.Langenbeck'sArch Surg
+1998;383:49
+e
+55
+.
+[36]
+BasseL,JakobsenDH,BardramL, BillesbølleP, LundC,MogensenT,et al.
+Functionalrecovery afteropenversuslaparoscopiccolonicresection:a
+randomized,blindedstudy.AnnSurg2005;241:416
+.
+[37]
+VlugMS,WindJ, Hollmann MW,Ubbink DT,CenseHA,Engel AF,etal.
+Laparoscopyincombinationwithfasttrackmultimodalmanagementisthe
+bestperioperativestrategyinpatientsundergoingcolonicsurgery:aran-
+
+domizedclinicaltrial(LAFA-study).AnnSurg2011;254:868
+e
+75
+.
+[38]
+SpanjersbergW,VanSambeeckJ,BremersA,RosmanC,VanLaarhovenC.
+Systematicreviewandmeta-analysisforlaparoscopic versusopencolon
+surgery withorwithoutanERASprogramme.Surg Endosc2015;29:
+3443
+e
+53
+.
+[39]
+Feo CV, RomaniniB,SortiniD,RagazziR,ZamboniP,Pansini GC,etal.Early
+oral feedingaftercolorectal resection:arandomizedcontrolledstudy.ANZJ
+
+Surg2004;74:298
+e
+301
+.
+[40]
+LassenK,KjaeveJ,FetveitT,TranoG,SigurdssonHK,HornA,etal.Allowing
+normalfoodatwillaftermajoruppergastrointestinalsurgerydoesnotin-
+creasemorbidity:arandomizedmulticentertrial.AnnSurg2008;247:
+721
+e
+9
+.
+[41]
+LewisSJ,EggerM,SylvesterPA,ThomasS.Earlyenteralfeedingversus "nil
+bymouth"aftergastrointestinalsurgery:systematicreviewandmeta-
+
+analysisofcontrolledtrials.BMJ2001;323:773
+e
+6
+.
+[42]
+ReissmanP,TeohTA,CohenSM,WeissEG,NoguerasJJ,WexnerSD.Isearly
+oralfeedingsafeafterelectivecolorectalsurgery?Aprospectiverandomized
+trial.AnnSurg1995;222:73
+e
+7
+.
+[43]
+BarlowR,PriceP,ReidTD,Hunt S,ClarkGW,HavardTJ, etal.Prospective
+multicentrerandomisedcontrolledtrialof early enteralnutritionforpatients
+undergoingmajor uppergastrointestinal surgicalresection.ClinNutr
+
+2011;30:560
+e
+6
+.
+[44]
+HerbertG,PerryR,AndersenHK,PenfoldC,LewisSJ.Earlyenteralnutrition
+within24hoflowergastrointestinalsurgery versuslatercommencementfor
+lengthofhospitalstayandpostoperativecomplications.CochraneDatabase
+SystRev2019;7:CD006506
+.
+[45]
+Lewis SJ,AndersenHK,ThomasS.Earlyenteralnutritionwithin24hofin-
+testinalsurgeryversuslatercommencementoffeeding:asystematicreview
+andmeta-analysis. JGastrointestSurg2009;13:569
+.
+[46]
+MazakiT,EbisawaK.Enteralversus parenteralnutritionaftergastrointestinal
+surgery:asystematicreviewand meta-analysisofrandomized controlled trials
+
+intheEnglishliterature.JGastrointestSurg2008;12:739
+e
+55
+.
+[47]
+OslandE,YunusRM,KhanS,MemonMA.Earlyversustraditionalpost-
+operativefeedinginpatientsundergoingresectionalgastrointestinalsur-
+gery:ameta-analysis.JParenter EnterNutr2011;35:473
+e
+87
+.
+[48]
+JangA,JeongO.Earlypostoperativeoralfeedingaftertotalgastrectomyin
+gastriccarcinoma patients:a retrospectivebefore-after studyusingpro-
+pensityscorematching.JParenterEnterNutr2019;43:649
+e
+57
+.
+[49]
+BerkelmansGHK,FransenLFC,Dolmans-ZwartjesACP,KouwenhovenEA,
+vanDetMJ,NilssonM,etal. Direct oralfeedingfollowingminimallyinvasive
+esophagectomy(NUTRIENTII trial):an international, multicenter,open-label
+randomizedcontrolledtrial.AnnSurg2020;271:41
+e
+7
+.
+[50]
+WillcuttsKF,ChungMC,ErenbergCL,FinnKL,SchirmerBD,Byham-GrayLD.
+Earlyoralfeedingas compared withtraditionaltiming oforalfeedingafter
+uppergastrointestinalsurgery:asystematic reviewandmeta-analysis.Ann
+Surg2016;264:54
+e
+63
+.
+[51]
+SandstromR, DrottC,HyltanderA,ArfvidssonB,ScherstenT,WickstromI,
+etal.Theeffectofpostoperativeintravenousfeeding(TPN)onoutcome
+followingmajorsurgeryevaluatedinarandomizedstudy.AnnSurg
+1993;217:185
+e
+95
+.
+[52]
+BozzettiF,GianottiL,BragaM,DiCarloV,MarianiL.Postoperativecompli-
+cationsin gastrointestinalcancerpatients:thejointroleofthenutritional
+statusandthenutritionalsupport.ClinNutr2007;26:698
+e
+709
+.
+[53]
+CorreiaMI,CaiaffaWT,daSilvaAL,WaitzbergDL.Riskfactorsformalnu-
+trition inpatientsundergoinggastroenterologicalandherniasurgery:an
+
+analysisof374patients.NutrHosp2001;16:59
+e
+64
+.
+[54]
+BruningPF,HallingA,Hilgers FJ,KappnerG,PoelhuisEK,Kobashi-
+Schoot AM,etal.Postoperativenasogastrictubefeedinginpatients with
+headandneck cancer:aprospectiveassessmentofnutritionalstatusand
+well-being.EurJCancerClinOncol1988;24:181
+e
+8
+.
+[55]
+HamaouiE,LefkowitzR,Olender L,Krasnopolsky-LevineE, Favale M,
+WebbH,etal. Enteralnutritionintheearlypostoperativeperiod:anew
+
+semi-elementalformulaversustotalparenteralnutrition. JParenterEnter
+Nutr1990;14:501
+e
+7
+.
+[56]
+HammerlidE,WirbladB,SandinC,MerckeC,EdstromS,KaasaS,etal.
+Malnutritionandfoodintakeinrelationto quality oflifeinhead and neck
+cancerpatients.HeadNeck1998;20:540
+e
+8
+.
+[57]
+HedbergAM,LairsonDR,AdayLA, ChowJ,SukiR,HoustonS,etal.Economic
+implicationsofanearlypostoperativeenteralfeedingprotocol.JAmDiet
+Assoc1999;99:802
+e
+7
+.
+[58]
+KornowskiA,CosnesJ, GendreJP,QuintrecY.Enteralnutritioninmalnu-
+tritionfollowinggastricresectionandcephalicpancreaticoduodenectomy.
+Hepato-Gastroenterology 1992;39:9
+e
+13
+.
+[59]
+MochizukiH,TogoS,Tanaka K,EndoI,ShimadaH.Earlyenteralnutrition
+after hepatectomytopreventpostoperative infection.Hepato-Gastroenter-
+ology2000;47:1407
+e
+10
+.
+[60]
+MooreFA,FelicianoDV, AndrassyRJ,McArdleAH,BoothFV,Morgenstein-
+WagnerTB,etal.Early enteralfeeding,comparedwithparenteral,reduces
+postoperative septiccomplications.The resultsofameta-analysis.AnnSurg
+
+1992;216:172
+e
+83
+.
+[61]
+NeumayerLA,SmoutRJ,Horn HG, Horn SD. Earlyandsuf
+
+cientfeedingre-
+duceslengthofstayandchargesinsurgicalpatients.JSurgRes2001;95:73
+e
+7
+.
+[62]
+Shaw-StiffelTA,ZarnyLA,PlebanWE, RosmanDD,RudolphRA,Bernstein LH.
+Effectofnutrition statusandotherfactorsonlengthofhospital stayafter
+
+majorgastrointestinalsurgery.Nutrition1993;9:140
+e
+5
+.
+[63]
+VelezJP,LinceLF,RestrepoJI.Earlyenteralnutritioningastrointestinal
+surgery:apilotstudy.Nutrition1997;13:442
+e
+5
+.
+[64]
+SingerP,Reintam-BlaserA,BergerMM, AlhazzaniW,CalderP,CasaerM,
+etal.Guidelineclinicalnutritionintheintensivecareunit.ClinNutr
+2019;38:48
+e
+78
+.
+[65]
+Zhao XF,Wu N,ZhaoGQ, Liu JF,DaiYF.Enteralnutritionversus parenteral
+nutritionaftermajorabdominalsurgeryinpatientswithgastrointestinal
+A.Weimann,M.Braga,F.Carlietal.
+ClinicalNutrition 40(2021)4745
+e
+4761
+475 7
+cancer:asystematicreviewandmeta-analysis.JInvestMed2016;64:
+1061
+e
+74
+.
+[66]
+BragaM,Ljungqvist O,SoetersP,FearonK,WeimannA,BozzettiF,etal.
+ESPENguidelinesonparenteralnutrition: surgery.ClinNutr 2009;28:
+378
+e
+86
+.
+[67]
+Watters JM,KirkpatrickSM,NorrisSB,ShamjiFM, WellsGA.Immediate
+postoperative enteralfeedingresultsinimpairedrespiratorymechanicsand
+decreasedmobility.AnnSurg1997;226:369
+e
+77.discussion77-80
+.
+[68]
+ShortV,Herbert G, PerryR,AtkinsonC,NessAR,PenfoldC,etal.Chewing
+gumforpostoperative recoveryofgastrointestinalfunction.Cochrane
+DatabaseSystRev2015;2:CD006506
+.
+[69]
+AtkinsonC,PenfoldCM,NessAR,Longman RJ,ThomasSJ,HollingworthW,
+etal.Randomizedclinicaltrialofpostoperativechewinggumversusstan-
+
+dardcare aftercolorectalresection.BrJSurg2016;103:962
+e
+70
+.
+[70]
+DunhamCM,Franken
+
+eldD,BelzbergH,WilesC,Cushing B,GrantZ.Gut
+failure
+d
+predictoroforcontributortomortalityinmechanically ventilated
+blunttraumapatients?JTrauma1994;37:30
+e
+4
+.
+[71]
+WoodcockNP,ZeiglerD,PalmerMD,BuckleyP,MitchellCJ,MacFieJ.Enteral
+versusparenteralnutrition:apragmaticstudy.Nutrition2001;17:1
+e
+12
+.
+[72]
+MenneR,Adolph M,BrockE, SchneiderH,SenkalM.Costanalysisof
+parenteralnutritionregimensintheintensivecareunit:three-compartment
+bagsystemvsmultibottlesystem.JParenter EnterNutr2008;32:606
+e
+12
+.
+[73]
+PichardC,SchwarzG,FreiA,KyleU,JollietP, MorelP,etal.Economic
+investigationoftheuse ofthree-compartmenttotalparenteralnutritionbag:
+prospectiverandomizedunblindedcontrolledstudy.ClinNutr2000;19:
+245
+e
+51
+.
+[74]
+TurpinRS,CanadaT,RosenthalV,Nitzki-GeorgeD,LiuFX,MercaldiCJ,etal.
+Bloodstreaminfectionsassociatedwithparenteralnutritionpreparation
+methodsintheUnitedStates:a retrospective,largedatabaseanalysis.
+JParenter EnterNutr2012;36:169
+e
+76
+.
+[75]
+BarrJ,HechtM,FlavinKE,KhoranaA,GouldMK.Outcomesincriticallyill
+patientsbeforeandaftertheimplementationofanevidence-basednutri-
+tionalmanagementprotocol.Chest 2004;125:1446
+e
+57
+.
+[76]
+DoigGS,SimpsonF,FinferS,DelaneyA,DaviesAR,Mitchell I,etal.Effectof
+evidence-basedfeedingguidelinesonmortalityofcritically illadults:a
+
+clusterrandomizedcontrolledtrial.JAm MedAssoc2008;300:2731
+e
+41
+.
+[77]
+Yao GX,XueXB,JiangZM,YangNF,WilmoreDW.Effectsofperioperative
+parenteralglutamine-dipeptidesupplementationonplasmaendotoxinlevel,
+plasmaendotoxin inactivationcapacityandclinicaloutcome.ClinNutr
+2005;24:510
+e
+5
+.
+[78]
+BollhalderL,PfeilAM,TomonagaY, SchwenkglenksM.Asystematiclitera-
+turereviewandmeta-analysis of randomized clinicaltrialsofparenteral
+
+glutaminesupplementation.ClinNutr2013;32:213
+e
+23
+.
+[79]
+WangY,JiangZM,NolanMT,JiangH, HanHR,YuK,etal.Theimpactof
+glutamine dipeptide
+e
+supplementedparenteralnutritiononoutcomesof
+surgicalpatients:ameta-analysisofrandomizedclinicaltrials.JParenter
+EnterNutr2010;34:521
+e
+9
+.
+[80]
+CuiY,HuL,LiuY-j,WuY-m,JingL.Intravenousalanyl-L-glutaminebalances
+glucose
+e
+insulinhomeostasisandfacilitatesrecoveryinpatientsundergoing
+colonicresection:arandomisedcontrolledtrial.EurJAnaesthesiol2014;31:
+212
+e
+8
+.
+[81]
+FearonKC,LjungqvistO,VonMeyenfeldtM,RevhaugA,DejongCH, LassenK,
+etal.Enhancedrecoveryaftersurgery:aconsensus reviewofclinicalcarefor
+patientsundergoingcolonicresection.ClinNutr2005;24:466
+e
+77
+.
+[82]
+Vidal-CasariegoA,Calleja-Fernandez A,Villar-TaiboR,KyriakosG,Balles-
+teros-Pomar MD. Ef
+
+cacyofarginine-enrichedenteralformulasin the
+reductionof surgicalcomplicationsinheadandneckcancer:asystematic
+reviewandmeta-analysis.ClinNutr2014;33:951
+e
+7
+.
+[83]
+BuijsN,vanBokhorst-deSchuerenMAE,LangiusJAE,LeemansCR,KuikDJ,
+VermeulenMAR,etal.Perioperativearginine-supplementednutritionin
+malnourishedpatientswithheadandneckcancerimproveslong-term
+survival.AmJClinNutr2010;92:1151
+e
+6
+.
+[84]
+ChenB,ZhouY,YangP,WanHW,WuXT.Safetyandef
+
+cacyof
+
+shoil-
+enrichedparenteralnutritionregimenonpostoperativepatientsundergo-
+ingmajorabdominalsurgery: ameta-analysisofrandomizedcontrolled
+trials.JParenter EnterNutr2010;34:387
+e
+94
+.
+[85]
+LiN-N, ZhouY,QinX-P,ChenY,HeD,FengJ-Y,etal.Doesintravenous
+
+sh
+oil bene
+
+t patientspost-surgery?Ameta-analysisofrandomisedcontrolled
+trials.ClinNutr2014;33:226
+e
+39
+.
+[86]
+PradelliL,MayerK,MuscaritoliM,HellerAR.n-3fattyacid-enriched
+parenteralnutritionregimensinelectivesurgicalandICUpatients:a
+
+meta-analysis.CritCare2012;16:R184
+.
+[87]
+PradelliL,MayerK,KlekS,AlsalehAJO ,ClarkRAC.
+u
+-3fatty-acidenr iched
+pa renteralnutritioninhospitalizedp atients:Systematicreviewwithmeta-
+analysisandtrialsequ ential analysis.J ParenterEnteral Nutr2020;44:
+44
+e
+57
+.
+[88]
+TianH, YaoX,Zeng R,SunR,TianH,Shi C,et al.Safety andef
+
+cacy ofanew
+pa renterallipidemulsion(SMOF)forsurgicalp atients:asystematicreview
+andmeta-analysisofrandomizedcontroll edtrials.NutrRev2013;71:
+815
+e
+21
+.
+[89]
+deMiranda TorrinhasRS,SantanaR,Garcia T,Cury-BoaventuraMF,
+SalesMM,Curi R,etal.Parenteral
+
+shoilasapharmacologicalagentto
+modulatepost-operativeimmuneresponse:arandomized,double-blind,
+
+andcontrolled clinicaltrialinpatientswithgastrointestinalcancer.Clin
+Nutr2013;32:503
+e
+10
+.
+[90]
+CerantolaY,HubnerM, GrassF,DemartinesN,SchaferM.Immunonutrition
+ingastrointestinalsurgery.BrJSurg2011;98:37
+e
+48
+.
+[91]
+DalyJM,Lieberman MD,Gold
+
+neJ,ShouJ,WeintraubF,RosatoEF,etal.
+Enteralnutritionwithsupplementalarginine, RNA,andomega-3fatty acids
+inpatientsafteroperation:immunologic,metabolic,andclinical outcome.
+Surgery1992;112:56
+e
+67
+.
+[92]
+DroverJW,DhaliwalR,WeitzelL,WischmeyerPE,OchoaJB,HeylandDK.
+Perioperativeuseofarginine-supplemented diets:asystematicreviewofthe
+evidence.JAm CollSurg2011;212:385
+e
+99.99e1
+.
+[93]
+GianottiL,BragaM,VignaliA,BalzanoG,ZerbiA,BisagniP,etal.Effectof
+routeofdeliveryandformulationofpostoperative nutritional supportin
+patientsundergoingmajor operationsformalignantneoplasms.ArchSurg
+1997;132:1222
+e
+30
+.
+[94]
+HeslinMJ, LatkanyL,LeungD,BrooksAD,Hochwald SN,PistersPW,etal.
+Aprospective,randomizedtrialofearlyenteral feedingafterresectionofupper
+gastrointestinalmalignancy.AnnSurg1997;226:567
+e
+77.discussion77-80
+.
+[95]
+HeylandDK,NovakF,DroverJW,JainM,SuX,SuchnerU.Shouldimmu-
+nonutritionbecomeroutineincriticallyill patients?Asystematic reviewof
+
+theevidence.JAmMedAssoc2001;286:944
+e
+53
+.
+[96]
+KlekS,KuligJ,SierzegaM,SzczepanekK,SzybinskiP,ScisloL,etal.Standard
+andimmunomodulatingenteralnutritioninpatientsafterextended
+gastrointestinalsurgery
+Œ
+aprospective, randomized, controlledclinicaltrial.
+ClinNutr2008;27:504
+e
+12
+.
+[97]
+KudskKA,MinardG,CroceMA,BrownRO,LowreyTS,PritchardFE,et al.
+Arandomizedtrialofisonitrogenous enteraldietsafterseveretrauma.An
+immune-enhancingdiet reducessepticcomplications.Ann Surg1996;224:
+531
+e
+40.discussion40-3
+.
+[98]
+MendezC,JurkovichGJ,GarciaI,Davis D,ParkerA,MaierRV.Effects ofan
+immune-enhancingdietincriticallyinjuredpatients.JTrauma1997;42:
+933
+e
+40.discussion40-1
+.
+[99]
+MooreFA,MooreEE,KudskKA,BrownRO,BowerRH,KorudaMJ,etal.
+Clinicalbene
+
+tsof animmune-enhancingdietforearlypostinjuryenteral
+feeding.JTrauma1994;37:607
+e
+15
+.
+[100]
+SenkalM,MummeA,EickhoffU,GeierB,SpathG,WulfertD,etal.Early
+postoperative enteralimmunonutrition:clinicaloutcomeandcost-
+
+comparisonanalysisinsurgicalpatients.CritCareMed1997;25:1489
+e
+96
+.
+[101]
+SnydermanCH, KachmanK,MolseedL, WagnerR,D'AmicoF,BumpousJ,
+etal.Reducedpostoperativeinfectionswithan immune-enhancingnutri-
+tionalsupplement.Laryngoscope1999;109:915
+e
+21
+.
+[102]
+WeimannA,BastianL,BischoffWE,GrotzM,HanselM,LotzJ, etal.In
+
+uence
+ofarginine,omega-3fattyacidsandnucleotide-supplementedenteralsup-
+portonsystemicin
+
+ammatoryresponsesyndromeandmultipleorgan
+failureinpatientsafterseveretrauma.Nutrition1998;14:165
+e
+72
+.
+[103]
+MarikPE,ZalogaGP.Immunonutritioninhigh-risksurgicalpatients:asys-
+tematicreviewandanalysisoftheliterature.JParenterEnter Nutr2010;34:
+378
+e
+86
+.
+[104]
+MarimuthuK,VaradhanKK,LjungqvistO,LoboDN.Ameta-analysisofthe
+effectofcombinationsofimmunemodulatingnutrientsonoutcomeinpa-
+tientsundergoingmajoropengastrointestinal surgery.AnnSurg2012;255:
+1060
+e
+8
+.
+[105]
+MontejoJC, ZarazagaA,Lopez-MartinezJ,Urrutia G,RoqueM,BlesaAL, etal.
+Immunonutrition inthe intensivecareunit.Asystematicreview and
+consensusstatement.ClinNutr2003;22:221
+e
+33
+.
+[106]
+OslandE,HossainMB,KhanS,MemonMA.Effectof timingofpharmaco-
+nutrition(immunonutrition)administrationonoutcomesofelectivesurgery
+forgastrointestinalmalignancies:asystematicreviewandmeta-analysis.
+JParenter EnterNutr2014;38:53
+e
+69
+.
+[107]
+SongGM,TianX,LiangH,YiLJ,ZhouJG, ZengZ, etal.Role ofenteral
+immunonutrition inpatientsundergoingsurgeryforgastriccancer:asys-
+
+tematicreviewandmeta-analysis ofrandomizedcontrolledtrials.Medicine
+(Baltim)2015;94:e1311
+.
+[108]
+StableforthWD,ThomasS,LewisSJ.Asystematicreviewoftheroleof
+immunonutritioninpatientsundergoingsurgeryforheadandneckcancer.
+IntJOralMaxillofacSurg2009;38:103
+e
+10
+.
+[109]
+WilhelmSM,Kale-PradhanPB.Combinationofarginine andomega-3fatty
+acidsenteral nutrition incriticallyill andsurgicalpatients:ameta-analysis.
+
+ExpertRevClinPharmacol2010;3:459
+e
+69
+.
+[110]
+ZhangY,GuY,GuoT, Li Y,CaiH. Perioperativeimmunonutritionfor
+gastrointestinalcancer:asystematicreviewofrandomizedcontrolledtrials.
+SurgOncol2012;21:e87
+e
+95
+.
+[111]
+BealeRJ,BrygDJ,BihariDJ.Immunonutritioninthecriticallyill:asystematic
+reviewofclinicaloutcome.CritCareMed1999;27:2799
+e
+805
+.
+[112]
+HeysSD,Walker LG,SmithI,EreminO.Enteralnutritionalsupplementa-
+tionwithk eynutrientsinpatientswithcriticalillnessandcancer:ameta-
+analysisofrandomizedcontrolledclinicaltrials.AnnSurg1999;229:
+467
+e
+77
+.
+[113]
+WaitzbergDL, SaitoH,PlankLD,JamiesonGG,JagannathP,HwangTL,etal.
+Postsurgicalinfectionsarereducedwithspecializednutritionsupport.World
+JSurg2006;30:1592
+e
+604
+.
+[114]
+WongCS, AlyEH.Theeffectsofenteralimmunonutritioninuppergastro-
+intestinalsurgery:asystematicreviewand meta-analysis.Int JSurg
+2016;29:137
+e
+50
+.
+[115]
+ProbstP, OhmannS,KlaiberU,HuttnerFJ,BilleterAT,UlrichA,etal.Meta-
+analysisofimmunonutritioninmajorabdominalsurgery.BrJSurg
+2017;104:1594
+e
+608
+.
+A.Weimann,M.Braga,F.Carlietal.
+ClinicalNutrition 40(2021)4745
+e
+4761
+4758
+[116]
+BragaM,GianottiL,RadaelliG,VignaliA,MariG,Gentilini O,etal.Periop-
+erative immunonutritionin patientsundergoingcancersurgery:resultsofa
+randomizeddouble-blindphase3trial.ArchSurg1999;134:428
+e
+33
+.
+[117]
+BragaM,GianottiL,VignaliA,CarloVD.Preoperative oralarginineandn-3
+fattyacidsupplementationimprovestheimmunometabolichostresponse
+andoutcomeaftercolorectalresectionforcancer.Surgery2002;132:
+
+805
+e
+14
+.
+[118]
+SenkalM,ZumtobelV,BauerKH,MarpeB,WolframG, FreiA,etal.Outcome
+andcost-effectivenessofperioperativeenteral immunonutrition inpatients
+undergoingelectiveuppergastrointestinaltractsurgery:aprospective
+randomizedstudy.ArchSurg1999;134:1309
+e
+16
+.
+[119]
+Tepaske R, TeVelthuisH,Oudemans-vanStraatenHM,HeisterkampSH,Van
+DeventerSJ,InceC,etal.Effectofpreoperativeoralimmune-enhancing
+
+nutritionalsupplementonpatientsathighriskofinfectionaftercardiac
+surgery:arandomisedplacebo-controlledtrial.Lancet2001;358:696
+e
+701
+.
+[120]
+Braga M,Gianotti L,NespoliL,RadaelliG,DiCarloV.Nutritionalapproachin
+malnourishedsurgicalpatients:aprospectiverandomizedstudy.ArchSurg
+2002;137:174
+e
+80
+.
+[121]
+KlekS,SzybinskiP,SzczepanekK.Perioperativeimmunonutritioninsurgical
+cancerpatients:asummaryofadecadeofresearch.WorldJSurg2014;38:
+803
+e
+12
+.
+[122]
+HegaziRA,HusteadDS,EvansDC.Preoperative standardoralnutrition
+supplementsvs immunonutrition:resultsof asystematicreview andmeta-
+
+analysis.JAmColl Surg2014;219:1078
+e
+87
+.
+[123]
+AdiamahA,Sko
+
+repaP, WeimannA, LoboDN. Theimpactof preoperative
+immunemodulating nutritiononoutcomesinpatientsundergoingsurgery
+forgastrointestinalcancer:a systematicreviewand meta-analysis.AnnSurg
+2019;270:247
+e
+56
+.
+[124]
+BragaM, GianottiL.Preoperativeimmunonutrition:cost-bene
+
+tanalysis.
+JParenterEnterNutr2005;29:S57
+e
+61
+.
+[125]
+Strickland A, Brogan A, KraussJ,Martindale R,CresciG.Isthe useof
+specializednutritional formulationsacost-effectivestrategy?Anational
+databaseevaluation. JParenterEnterNutr2005;29:S81
+e
+91
+.
+[126]
+Chevrou-S
+
+everacH, Pinget C,CerantolaY,DemartinesN,WasserfallenJ-B,
+Sch
+€
+aferM.Cost-effectivenessanalysisofimmune-modulatingnutritional
+support forgastrointestinalcancerpatients.ClinNutr2014;33:649
+e
+54
+.
+[127]
+CederholmT,JensenGL,CorreiaM,GonzalezMC,FukushimaR,
+HigashiguchiT,etal.GLIMcriteriaforthediagnosisofmalnutrition-a
+consensusreportfromtheglobalclinicalnutritioncommunity.ClinNutr
+2019;38:1
+e
+9
+.
+[128]
+KhuriSF,DaleyJ, HendersonW,HurK, GibbsJO,BarbourG,etal.Risk
+adjustmentofthepostoperativemortalityrateforthecomparativeassess-
+
+mentofthequalityofsurgicalcare:resultsoftheNationalVeteransAffairs
+SurgicalRiskStudy.JAmCollSurg1997;185:315
+e
+27
+.
+[129]
+MaloneDL,GenuitT,TracyJK,GannonC,Napolitano LM.Surgicalsitein-
+fections:reanalysisofriskfactors.JSurgRes2002;103:89
+e
+95
+.
+[130]
+HennesseyDB,BurkeJP,Ni-DhonochuT,ShieldsC,WinterDC,Mealy K.
+Preoperativehypoalbuminemiaisan independentriskfactorfor thedevel-
+opmentofsurgicalsiteinfectionfollowinggastrointestinalsurgery:amulti-
+institutionalstudy.AnnSurg2010;252:325
+e
+9
+.
+[131]
+Hu W-H,ChenH-H,LeeK-C,LiuL,EisensteinS,ParryL,etal.Assessmentof
+theadditionofhypoalbuminemiatoACS-NSQIPsurgical riskcalculatorin
+colorectalcancer.Medicine(Baltim)2016;95
+.
+[132]
+SudingP, JensenE, AbramsonMA,ItaniK,WilsonSE.De
+
+nitiveriskfactors
+foranastomoticleaksinelectiveopencolorectalresection.ArchSurg
+2008;143:907
+e
+11.discussion11-2
+.
+[133]
+VonMeyenfeldt MF,MeijerinkWJHJ, Rou
+
+artMMJ,BuilmaassenMTHJ,
+SoetersPB. Perioperativenutritionalsupport: arandomisedclinicaltrial.Clin
+Nutr1992;11:180
+e
+6
+.
+[134]
+Heyland DK,MontalvoM,MacDonald S,KeefeL,SuXY,DroverJW.Total
+parenteralnutritioninthesurgicalpatient:ameta-analysis.CanJSurg
+2001;44:102
+e
+11
+.
+[135]
+VeteransAffairsTotalParenteralNutritionCooperativeStudyGroup.Peri-
+operativetotalparenteral nutritioninsurgicalpatients.NEnglJMed
+1991;325:525
+e
+32
+.
+[136]
+KleinS,KinneyJ,JeejeebhoyK,AlpersD,Hellerstein M,MurrayM,etal.
+Nutritionsupportinclinicalpractice:reviewofpublisheddataandrecom-
+mendationsforfutureresearchdirections.Summaryofaconferencespon-
+soredbytheNationalInstitutesofHealth,American SocietyforParenteral
+andEnteralNutrition,andAmericanSocietyforClinicalNutrition. AmJ Clin
+Nutr1997;66:683
+e
+706
+.
+[137]
+BozzettiF,GavazziC,MiceliR,Rossi N, MarianiL,CozzaglioL,etal.Peri-
+operativetotalparenteralnutritionin malnourished,gastrointestinalcancer
+patients:arandomized,clinicaltrial.JParenterEnterNutr2000;24:7
+e
+14
+.
+[138]
+FukudaY,YamamotoK,HiraoM,NishikawaK, MaedaS,HaraguchiN,etal.
+Prevalence of malnutrition among gastriccancerpatientsundergoinggas-
+
+trectomyandoptimalpreoperativenutritionalsupportforpreventingsur-
+gicalsiteinfections.AnnSurgOncol2015;22:778
+e
+85
+.
+[139]
+Ligthart-Melis GC, WeijsPJ,teBoveldtND,BuskermolenS,EarthmanCP,
+VerheulHM,etal.Dietician-deliveredintensivenutritionalsupportisasso-
+ciatedwithadecrease inseverepostoperativecomplicationsaftersurgery in
+patientswithesophagealcancer.DisEsophagus2013;26:587
+e
+93
+.
+[140]
+StangaZ,BrunnerA,LeuenbergerM,Grimble RF,ShenkinA,AllisonSP,etal.
+Nutritioninclinicalpractice-the refeedingsyndrome:illustrativecasesand
+guidelinesforpreventionandtreatment.Eur JClinNutr2008;62:687
+e
+94
+.
+[141]
+Jie B,JiangZM,NolanMT,ZhuSN,YuK,KondrupJ.Impactofpreoperative
+nutritional supporton clinicaloutcomein abdominalsurgicalpatientsat
+nutritionalrisk.Nutrition2012;28:1022
+e
+7
+.
+[142]
+Elia M,NormandC,Norman K,LavianoA. Asystematic reviewofthe cost and
+costeffectivenessofusingstandardoralnutritionalsupplementsinthe
+hospitalsetting.ClinNutr2016;35:370
+e
+80
+.
+[143]
+StipplerD,BodeV,FischerM,KollexK, RohdeE,TisowskyB,etal.Proposal
+foranew practicablecategorization systemforfoodforspecialmedical
+purposes-enteralnutritionalproducts.ClinNutrESPEN 2015;10:e219
+e
+23
+.
+[144]
+MacFieJ,WoodcockNP,PalmerMD,WalkerA,TownsendS,MitchellCJ.Oral
+dietarysupplementsinpre-andpostoperative surgicalpatients: apro-
+spectiveandrandomizedclinicaltrial.Nutrition2000;16:723
+e
+8
+.
+[145]
+SmedleyF,BowlingT,JamesM, StokesE,GoodgerC,O'ConnorO,et al.
+Randomizedclinicaltrialoftheeffectsofpreoperativeandpostoperative
+oralnutritionalsupplementsonclinicalcourseandcostofcare.BrJSurg
+2004;91:983
+e
+90
+.
+[146]
+BurdenST,HillJ, ShafferJL,CampbellM,ToddC.Anunblindedrandomised
+controlledtrialofpreoperativeoralsupplementsincolorectalcancerpa-
+
+tients.JHum NutrDiet2011;24:441
+e
+8
+.
+[147]
+SullivanDH,NelsonCL,BoppMM,Puskarich-May CL,WallsRC.Nightly
+enteralnutritionsupportofelderlyhipfracturepatients:aphase Itrial.JAm
+Coll Nutr1998;17:155
+e
+61
+.
+[148]
+BurdenS,ToddC,HillJ, LalS.Pre-operativenutritionsupportinpatients
+undergoinggastrointestinalsurgery.CochraneDatabaseSystRev2012;11:
+CD008879
+.
+[149]
+GrassF,DemartinesN.Compliancewith preoperative oralnutritional sup-
+plementsinpatientsatnutritionalrisk: onlyaquestionofwill?EurJ Clin
+Nutr2015;69:525
+e
+9
+.
+[150]
+HillGL.Impact ofnutritional supporton theclinicaloutcomeofthesurgical
+patient.ClinNutr1994;13:331
+e
+40
+.
+[151]
+LassenK, SoopM,NygrenJ,CoxPB,HendryPO,SpiesC,etal.Consensus
+reviewofoptimalperioperativecareincolorectalsurgery:enhancedRe-
+coveryafterSurgery(ERAS)Grouprecommendations.Arch Surg 2009;144:
+961
+e
+9
+.
+[152]
+HurH,KimSG,ShimJH,SongKY, KimW,ParkCH,etal.Effectofearlyoral
+feedingaftergastriccancersurgery:aresultofrandomized clinicaltrial.
+Surgery2011;149:561
+e
+8
+.
+[153]
+SevenH,CalisAB,TurgutS.Arandomizedcontrolledtrialofearlyoral
+feedinginlaryngectomized patients.Laryngoscope 2003;113:1076
+e
+9
+.
+[154]
+vanBokhorst-devanderSchueren MAE,vanLeeuwenPAM,SauerweinHP,
+KuikDJ,SnowGB,QuakJJ.Assessment ofmalnutritionparametersinhead
+andneckcancerandtheir relation topostoperativecomplications. Head
+
+Neck1997;19:419
+e
+25
+.
+[155]
+GuoCB,MaDQ,ZhangKH. Applicabilityofthegeneralnutritionalstatus
+scoretopatientswith oralandmaxillofacialmalignancies.IntJOralMax-
+illofacSurg1994;23:167
+e
+9
+.
+[156]
+GuoCB,ZhangW,MaDQ,ZhangKH,HuangJQ.Handgripstrength:an in-
+dicator ofnutritionalstateandthemixofpostoperativecomplicationsin
+patientswithoralandmaxillofacialcancers.BrJOralMaxillofacSurg
+1996;34:325
+e
+7
+.
+[157]
+Rey-FerroM,Casta
+~
+noR, OrozcoO,SernaA,MorenoA.Nutritionaland
+immunologicevaluationofpatientswithgastriccancerbeforeandafter
+surgery.Nutrition1997;13:878
+e
+81
+.
+[158]
+vanBokhorst-devanderSchuerenMAE,vanLeeuwenPAM,KuikDJ,
+Klop WMC,SauerweinHP,SnowGB,etal.Theimpactofnutritionalstatuson
+theprognosesofpatientswithadvancedhead and neckcancer.Cancer
+1999;86:519
+e
+27
+.
+[159]
+BollschweilerE,SchroderW, HolscherAH,SiewertJR.Preoperativerisk
+analysisinpatientswithadenocarcinomaorsquamouscellcarcinomaofthe
+
+oesophagus.BrJSurg2000;87:1106
+e
+10
+.
+[160]
+SaitoT,KuwaharaA,ShigemitsuY, KinoshitaT,ShimodaK,Miyahara M,
+etal.Factorsrelatedtomalnutritionin patientswithesophagealcancer.
+Nutrition1991;7:117
+e
+21
+.
+[161]
+TakagiK, YamamoriH,MorishimaY,ToyodaY,NakajimaN,TashiroT. Pre-
+operativeimmunosuppression:itsrelationshipwithhighmorbidity and
+mortalityinpatientsreceivingthoracicesophagectomy.Nutrition2001;17:
+
+13
+e
+7
+.
+[162]
+Butters M,StraubM,KraftK,BittnerR.Studiesonnutritionalstatusin
+generalsurgerypatients byclinical,anthropometric,andlaboratorypa-
+rameters.Nutrition1996;12:405
+e
+10
+.
+[163]
+Klek S,SierzegaM, SzybinskiP,SzczepanekK,ScisloL, WalewskaE,etal.
+Perioperativenutritioninmalnourished surgicalcancerpatients-apro-
+spective,randomized,controlledclinicaltrial.ClinNutr2011;30:708
+e
+13
+.
+[164]
+BerkelmansGHK,KingmaBF,FransenLFC,NieuwenhuijzenGAP,RuurdaJP,
+vanHillegersbergR,etal.Feedingprotocoldeviationafteresophagectomy:a
+retrospectivemulticenterstudy.ClinNutr2020;39:1258
+e
+63
+.
+[165]
+KudskKA,CroceMA, Fabi anTC, Mi nardG,Tol l eyEA,PoretHA,etal .
+Ente ralversusparente ralfeeding.Effectsonsepticmorbidityafterblunt
+andpenetratingabdominaltrauma.AnnSurg1992;215:503
+e
+11.d iscu s-
+sion11-3
+.
+[166]
+KompanL,KremzarB,GadzijevE,ProsekM.Effectsofearlyenteralnutrition
+onintestinalpermeabilityandthedevelopmentofmultiple organfailure
+aftermultipleinjury.IntensiveCareMed1999;25:157
+e
+61
+.
+[167]
+PerelP,YanagawaT, BunnF,RobertsI, WentzR,PierroA.Nutritionalsupport
+forhead-injuredpatients.CochraneDatabaseSystRev2006:CD001530
+.
+A.Weimann,M.Braga,F.Carlietal.
+ClinicalNutrition 40(2021)4745
+e
+4761
+4759
+[168]
+BragaM,GianottiL,GentiliniO,LiottaS,Di Carlo V.Feedingthegutearly
+afterdigestivesurgery: resultsofanine-yearexperience.ClinNutr2002;21:
+59
+e
+65
+.
+[169]
+DalyJM,BonauR, StofbergP,BlochA,JeevanandamM,MorseM.Immediate
+postoperativejejunostomyfeeding.Clinical andmetabolicresultsinapro-
+spectivetrial.AmJSurg1987;153:198
+e
+206
+.
+[170]
+DelanyHM,CarnevaleN,GarveyJW,MossGM.Postoperativenutritional
+support usingneedlecatheterfeedingjejunostomy.AnnSurg1977;186:
+165
+e
+70
+.
+[171]
+GaborS,RennerH,MatziV,RatzenhoferB,LindenmannJ,SankinO,etal.
+Earlyenteralfeedingcomparedwithparenteralnutritionafteroesophageal
+oroesophagogastricresectionandreconstruction. Br JNutr2005;93:
+509
+e
+13
+.
+[172]
+GuptaV.Bene
+
+tsversusrisks:aprospectiveaudit.Feedingjejunostomy
+duringesophagectomy.WorldJSurg2009;33:1432
+e
+8
+.
+[173]
+Kemen M,SenkalM,HomannHH,MummeA,DauphinAK,BaierJ, etal.Early
+postoperativeenteralnutritionwitharginine-omega-3fattyacidsand
+ribonucleicacid-supplementeddietversusplaceboincancerpatients:an
+
+immunologicevaluationofImpact. CritCareMed1995;23:652
+e
+9
+.
+[174]
+SenkalM,KochJ,HummelT, ZumtobelV.Laparoscopicneedlecatheter
+jejunostomy:modi
+
+cationofthetechnique andoutcomeresults.Surg
+Endosc2004;18:307
+e
+9
+.
+[175]
+Bif
+
+R, LottiM,CenciarelliS,LucaF,Pozzi S,ZambelliM,etal.Complications
+andlong-termoutcomeof80oncologypatientsundergoingneedlecatheter
+jejunostomyplacementforearlypostoperative enteralfeeding.ClinNutr
+2000;19:277
+e
+9
+.
+[176]
+BruiningHA,SchattenkerkME,ObertopH, OngGL.Acute abdominalpain
+duetoearlypostoperativeelementalfeedingbyneedlejejunostomy.Surg
+GynecolObstet1983;157:40
+e
+2
+.
+[177]
+ChinKF,TownsendS,Wong W,MillerGV.Aprospectivecohortstudyof
+feedingneedlecatheterjejunostomyinanuppergastrointestinalsurgical
+unit.ClinNutr2004;23:691
+e
+6
+.
+[178]
+EddyVA,SnellJE,MorrisJA.Analysisofcomplicationsand long-term
+outcomeoftrauma patientswithneedlecatheterjejunostomy.Am Surg
+1996;62:40
+e
+4
+.
+[179]
+MyersJG, PageCP,StewartRM,SchwesingerWH, SirinekKR,AustJB.
+Complicationsofneedlecatheterjejunostomyin2,022consecutiveappli-
+cations.AmJSurg1995;170:547
+e
+50.discussion50-1
+.
+[180]
+RamamurthyA,Negi SS,ChaudharyA.Prophylactictubejejunostomy:a
+worthwhileundertaking.SurgToday 2008;38:420
+e
+4
+.
+[181]
+SarrMG.Appropriateuse,complic ationsandadvantagesdemonstrated
+in500consecutiveneedlecathet erjejunostomies.BrJSurg1999;86:
+
+557
+e
+61
+.
+[182]
+SchattenkerkME,ObertopH,BruiningH,VanRooyenW,vanHoutenH.
+Earlypostoperative enteralfeedingbyaneedlecatheterjejunostomyafter
+100oesophagealresectionsandreconstructionsforcancer.ClinNutr 1984;3:
+47
+e
+9
+.
+[183]
+SicaGS,SujendranV,WheelerJ,SoinB,Maynard N.Needlecatheterjeju-
+nostomyatesophagectomyforcancer.JSurgOncol2005;91:276
+e
+9
+.
+[184]
+StricklandGF,Greene FL.Needle-catheterjejunostomyforpostoperative
+nutritionalsupport.SouthMedJ1986;79:1389
+e
+92
+.
+[185]
+VestweberKH,EypaschE,PaulA,BodeC, TroidlH.Fine-needlecatheter
+jejunostomy.ZGastroenterol1989;27(Suppl2):69
+e
+72
+.
+[186]
+YermilovI,Jain S,SekerisE,BentremDJ,HinesOJ,ReberHA,etal.Utilization
+ofparenteralnutritionfollowingpancreaticoduodenectomy:isroutine
+jejunostomytubeplacementwarranted?DigDisSci2009;54:1582
+e
+8
+.
+[187]
+GerritsenA,BesselinkMG, CieslakKP,VriensMR,Steenhagen E,van
+HillegersbergR,etal. Ef
+
+cacyand complicationsofnasojejunal,jejunostomy
+andparenteralfeedingafterpancreaticoduodenectomy.JGastrointestSurg
+
+2012;16:1144
+e
+51
+.
+[188]
+DannGC,SquiresIIIMH,PostlewaitLM,KoobyDA,PoultsidesGA,WeberSM,
+etal.Anassessmentoffeedingjejunostomytube placementatthetimeof
+resectionforgastricadenocarcinoma:aseven-institutionanalysisof837
+patientsfromtheUSgastriccancercollaborative.JSurg Oncol2015;112:
+195
+e
+202
+.
+[189]
+ZhuX,WuY,QiuY, JiangC,DingY.Comparativeanalysisoftheef
+
+cacyand
+complicationsofnasojejunalandjejunostomyonpatientsundergoingpan-
+creaticoduodenectomy.JParenterEnterNutr2014;38:996
+e
+1002
+.
+[190]
+MarkidesG,Al-KhaffafB,VickersJ.Nutritionalaccessroutesfollowing
+oesophagectomy
+d
+asystematic review. EurJClinNutr2011;65:565
+e
+73
+.
+[191]
+Han-GeurtsI,HopW,VerhoefC,TranK,TilanusH.Randomizedclinicaltrial
+comparingfeedingjejunostomywith nasoduodenaltubeplacementinpa-
+tientsundergoingoesophagectomy.BrJSurg2007;94:31
+e
+5
+.
+[192]
+MartignoniME,FriessH,SellF,RickenL, ShrikhandeS,Kulli C,et al.Enteral
+nutritionprolongsdelayedgastricemptyinginpatientsafterwhipple
+resection. Am JSurg2000;180:18
+e
+23
+.
+[193]
+Beier-HolgersenR,BoesbyS.In
+
+uence of postoperativeenteral nutritionon
+postsurgicalinfections.Gut1996;39:833
+e
+5
+.
+[194]
+BowerRH,TalaminiMA,SaxHC,HamiltonF,FischerJE.Postoperativeenteral
+vsparenteralnutrition.Arandomizedcontrolledtrial.ArchSurg1986;121:
+1040
+e
+5
+.
+[195]
+ZernRT,Clarke-PearsonDL.Pneumatosisintestinalisassociatedwithenteral
+feedingbycatheterjejunostomy.ObstetGynecol1985;65:81S
+e
+3S
+.
+[196]
+SchloerbPR,WoodJG,CasillanAJ,Taw
+
+kO,Udobi K.Bowel necrosiscaused
+bywaterinjejunal feeding.JParenter EnterNutr2004;28:27
+e
+9
+.
+[197]
+GaddyMC, MaxMH,SchwabCW,KauderD.Smallbowelischemia:a
+consequenceoffeedingjejunostomy? SouthMedJ1986;79:180
+e
+2
+.
+[198]
+RaiJ,Flint LM,FerraraJJ.Smallbowelnecrosisinassociationwithjejunos-
+tomytubefeedings.AmSurg1996;62:1050
+e
+4
+.
+[199]
+LawlorDK,InculetRI,MalthanerRA.Small-bowelnecrosisassociatedwith
+jejunal tubefeeding.CanJSurg1998;41:459
+e
+62
+.
+[200]
+Scaife CL,Saf
+
+eJR,MorrisSE.Intestinalobstructionsecondarytoenteral
+feedingsinburn traumapatients.JTrauma1999;47:859
+e
+63
+.
+[201]
+JorbaR,FabregatJ,BorobiaFG,TorrasJ,PovesI,JaurrietaE.Smallbowel
+necrosisinassociationwithearlypostoperativeenteralfeedingafter
+pancreaticresection.Surgery2000;128:111
+e
+2
+.
+[202]
+L
+€
+oserC,Aschl G,HebuterneX,Mathus-VliegenE,MuscaritoliM,NivY,etal.
+ESPENguidelinesonarti
+
+cialenteralnutrition
+Œ
+percutaneousendoscopic
+gastrostomy(PEG). ClinNutr2005;24:848
+e
+61
+.
+[203]
+BakerM,HallidayV,WilliamsRN,BowreyDJ.Asystematicreviewofthe
+nutritionalconsequencesofesophagectomy.ClinNutr2016;35:987
+e
+94
+.
+[204]WobithM,WehleL,HaberzettlD,Acikg
+€
+ozA,WeimannA.Needlecatheter
+jejunostomyinpatientsundergoingsurgeryforuppergastrointestinaland
+
+pancreato-biliarycancer -impact onnutritionalandclinical outcomeinthe
+earlyand latepostoperativeperiod.Nutrients2020;12:2564.
+https://doi.org/
+10.3390/nu12092564
+.
+[205]
+KeeleA,BrayM,EmeryP,DuncanH,SilkD. Two phaserandomised
+controlledclinicaltrial ofpostoperative oraldietarysupplementsinsurgical
+
+patients.Gut1997;40:393
+e
+9
+.
+[206]
+GarazziC,ColatruglioS,ValorianiF,MazzaferoV.Impactofhomeenteral
+nutritioninmalnourishedpatientswithuppergastrointestinalcancer:a
+multicenterrandomizedclinicaltrial.Eur JCancer2016;64:107
+e
+12.dis-
+cussion60-1
+.
+[207]
+ZengJ,HuJ,ChenQ,FengJ.Homeenteralnutrition`seffectonnutritional
+status andqualityof lifeafteresophagectomy. AsiaPacJ ClinNutr2017;26:
+
+804
+e
+10
+.
+[208]
+KovalKJ,MaurerSG,SuET,AharonoffGB,ZuckermanJD. Theeffectsof
+nutritionalstatusonoutcomeafterhipfracture.JOrthopTrauma1999;13:
+164
+e
+9
+.
+[209]
+Patterson BM,CornellCN,CarboneB,LevineB,Chapman D.Proteindepletion
+andmetabolicstressinelderlypatientswhohave afractureofthehip.JBone
+JointSurgAm 1992;74:251
+e
+60
+.
+[210]
+DelmiM,RapinCH,BengoaJM,DelmasPD,VaseyH,BonjourJP.Dietary
+supplementation inelderlypatientswithfracturedneckofthefemur.Lancet
+1990;335:1013
+e
+6
+.
+[211]
+ReynoldsJV,KanwarS,Welsh FK,Windsor AC,MurchanP,BarclayGR,etal.
+Doestherouteoffeedingmodifygutbarrierfunction andclinicaloutcome in
+
+patientsaftermajoruppergastrointestinalsurgery?.1997HarryM. Vars
+ResearchAward JParenterEnterNutr1997;21:196
+e
+201
+.
+[212]
+FigueiredoF,DicksonER, PashaT,KasparovaP,TherneauT,MalinchocM,
+etal.Impactofnutritionalstatusonoutcomesafterlivertransplantation.
+Transplantation2000;70:1347
+e
+52
+.
+[213]
+Moukarzel A,NajmI,VargasJ,McDiarmidS,BusuttilR.Effectofnutritional
+statuson outcomeoforthotopiclivertransplantationinpediatricpatients.
+TransplantProc 1990;22:1560
+e
+3
+.
+[214]
+RoggeroP,CataliottiE, UllaL,Stu
+
+esserS,NebbiaG,BracaloniD,etal.
+Factorsin
+
+uencing malnutritioninchildrenwaitingforlivertransplants.Am
+JClinNutr1997;65:1852
+e
+7
+.
+[215]
+SelbergO,BottcherJ,TuschG,PichlmayrR,HenkelE, MullerMJ.Identi
+
+-
+cationofhigh-andlow-riskpatientsbeforelivertransplantation:apro-
+spectivecohortstudyofnutritionalandmetabolicparametersin150
+patients.Hepatology1997;25:652
+e
+7
+.
+[216]
+HarrisonJ,McKiernanJ,NeubergerJM.Aprospectivestudyontheeffectof
+recipientnutritionalstatusonoutcomeinlivertransplantation.TransplInt
+
+1997;10:369
+e
+74
+.
+[217]
+Ney M,AbraldesJ G,MaM,BellandD,Harvey A,RobbinsS,etal.I nsuf-
+
+cie ntproteinintakeisassociatedwithincre asedmortalityin630 pa-
+tientswi thcirrhosi sawaitinglivertransplantation.NutrClinPract
+2015;30:530
+e
+6
+.
+[218]
+FerreiraLG,FerreiraMartinsAI,CunhaCE,AnastacioLR,LimaAS,CorreiaMI.
+Negativeenergy balancesecondarytoinadequatedietaryintakeofpatients
+
+onthewaitinglistforlivertransplantation.Nutrition2013;29:1252
+e
+8
+.
+[219]
+ForliL,PedersenJI,BjortuftO,VatnM,BoeJ.Dietarysupporttounderweight
+patientswithend-stagepulmonarydiseaseassessedfor lungtrans-
+plantation. Respiration2001;68:51
+e
+7
+.
+[220]
+LeCornuKA,McKiernanFJ,KapadiaSA,NeubergerJM.Aprospectiveran-
+domizedstudyofpreoperativenutritionalsupplementationinpatients
+awaitingelectiveorthotopiclivertransplantation.Transplantation2000;69:
+1364
+e
+9
+.
+[221]
+ChinSE,ShepherdRW,ThomasBJ,CleghornGJ,Patrick MK,WilcoxJA,etal.
+Nutritionalsupportinchildrenwithend-stageliver disease:arandomized
+
+crossovertrialofabranched-chain aminoacidsupplement.AmJClinNutr
+1992;56:158
+e
+63
+.
+[222]
+PlankLD, McCallJL,GaneEJ, Ra
+
+queM,GillandersLK,Mc IlroyK,etal.
+Pre- andpostoperativeimmunonutritioninpatientsundergoingliver
+transplantation:apilotstudyofsafetyandef
+
+cacy.ClinNutr2005;24:
+288
+e
+96
+.
+[223]
+NicolettoBB,FonsecaNK, Manfro RC, GoncalvesLF,LeitaoCB,SouzaGC.
+Effectsofobesityonkidney transplantationoutcomes:a systematicreview
+andmeta-analysis.Transplantation2014;98:167
+e
+76
+.
+A.Weimann,M.Braga,F.Carlietal.
+ClinicalNutrition 40(2021)4745
+e
+4761
+4760
+[224]
+NagataS, Shirabe K,Sugimachi K,IkegamiT,YoshizumiT,UchiyamaH,etal.
+Pilotstudyofpreoperativeimmunonutritionwithantioxidantsinliving
+donorlivertransplantationdonors.FukuokaIgakuZasshi2013;104:530
+e
+8
+.
+[225]
+LindellSL,HansenT,RankinM,DanielewiczR,BelzerFO,SouthardJH.Donor
+nutritionalstatus
+Œ
+adeterminantofliverpreservationinjury.Trans-
+plantation1996;61:239
+e
+47
+.
+[226]
+PlauthM,MerliM,KondrupJ,WeimannA,FerenciP,MullerMJ,etal.ESPEN
+guidelinesfornutritioninliver diseaseandtransplantation.Clin Nutr
+1997;16:43
+e
+55
+.
+[227]
+WeimannA,KuseER,Bechstein WO,NeubergerJM,PlauthM,PichlmayrR.
+Perioperativeparenteralandenteralnutritionfor patientsundergoing
+orthotopiclivertransplantation.Resultsof aquestionnairefrom16European
+transplantunits.TransplInt1998;11(Suppl1):S289
+e
+91
+.
+[228]
+Kim JM,JohJW,KimHJ, Kim SH,RhaM,SinnDH,etal.Earlyenteralfeeding
+afterlivingdonorlivertransplantationpreventsinfectiouscomplications:a
+prospectivepilotstudy.Medicine(Baltim)2015;94:e1771
+.
+[229]
+PescovitzMD,MehtaPL,LeapmanSB,MilgromML,JindalRM,FiloRS.Tube
+jejunostomyinlivertransplantrecipients.Surgery1995;117:642
+e
+7
+.
+[230]
+KyoungK-H,LeeS-G,NamCW,NahYW.Bene
+
+cialeffectoflowcaloric
+intakeintheearlyperiodafterorthotopicli vertransplantation:anew
+conceptu singgraftweight.Hepato-Gastroenterology2014;61:1668
+e
+72
+.
+[231]
+MurrayM,GroganTA, Lever J,WartyVS,FungJ,VenkataramananR.Com-
+parisonoftacrolimusabsorptionintransplantpatients receivingcontinuous
+
+versusinterruptedenteralnutritionalfeeding.AnnPharmacother1998;32:
+633
+e
+6
+.
+[232]
+ReillyJ,MehtaR,TepermanL,CemajS,TzakisA,YanagaK,etal.Nutritional
+supportafterlivertransplantation:arandomized prospectivestudy.
+JParenterEnterNutr1990;14:386
+e
+91
+.
+[233]
+HasseJM, Blue LS,LiepaGU,GoldsteinRM,JenningsLW,MorE,etal.Early
+enteralnutritionsupportinpatientsundergoinglivertransplantation.
+
+JParenterEnterNutr1995;19:437
+e
+43
+.
+[234]
+RayesN,SeehoferD,HansenS, BoucseinK,MullerAR,SerkeS, etal.Early
+enteralsupplyoflactobacillusand
+
+berversusselectiveboweldecontami-
+nation:acontrolledtrialinliver transplantrecipients.Transplantation
+2002;74:123
+e
+7
+.
+[235]
+RayesN,SeehoferD,TheruvathT,SchillerRA,LangrehrJM,JonasS,etal.Supply
+ofpre-andprobioticsreducesbacterialinfectionratesafterlivertransplantation-
+Arandomized,double-blindtrial.AmJTransplant2005;5:125
+e
+30
+.
+[236]
+RoveraGM, GrahamTO,HutsonWR,FurukawaH,GoldbachB,TodoS,etal.
+Nutritionalmanagement ofintestinal allograftrecipients.TransplantProc
+1998;30:2517
+e
+8
+.
+[237]
+RoveraGM,SchoenRE,GoldbachB,Janson D,BondG,RakelaJ,etal.Intes-
+tinalandmultivisceraltransplantation: dynamicsof nutritionalmanagement
+andfunctionalautonomy.JParenterEnterNutr2003;27:252
+e
+9
+.
+[238]
+RoveraGM,Strohm S,BuenoJ,KocoshisSA,Abu-ElmagdK, ToduS,etal.
+Nutritionalmonitoringofpediatricintestinaltransplantrecipients. Trans-
+plantProc 1998;30:2519
+e
+20
+.
+[239]
+UbesieAC,ColeCR,NathanJD,TiaoGM,AlonsoMH,MezoffAG,etal.
+Micronutrientde
+
+ciencies inpediatricandyoungadultintestinaltransplant
+patients.PediatrTransplant2013;17:638
+e
+45
+.
+[240]
+KuseER,KotzerkeJ,MullerS,NashanB,LuckR, JaegerK.Hepaticreticulo-
+endothelialfunctionduringparenteral nutritionincludinganMCT/LCTor
+LCTemulsion afterliver transplantation-adouble-blindstudy.TransplInt
+2002;15:272
+e
+7
+.
+[241]
+DelafosseB,VialeJP,PachiaudiC,NormandS,GoudableJ,BouffardY,etal.
+Long-andmedium-chaintriglycerides duringparenteral nutritionincriti-
+callyillpatients.AmJPhysiol1997;272:E550
+e
+5
+.
+[242]
+ZhuXH,Wu YF,QiuYD,JiangCP,Ding YT.Liver-protectingeffectsofomega-
+3
+
+shoillipidemulsioninlivertransplantation.WorldJ Gastroenterol
+2012;18:6141
+e
+7
+.
+[243]
+ZhuX,Wu Y,QiuY,JiangC,Ding Y.Effectsofomega-3
+
+shoillipidemulsion
+combinedwith parenteralnutritiononpatientsundergoinglivertrans-
+plantation. JParenter EnterNutr2013;37:68
+e
+74
+.
+[244]
+LeiQ,WangX,ZhengH,BiJ,Tan S,LiN.Peri-operativeimmunonutritionin
+patientsundergoinglivertransplantation:ameta-analysisofrandomized
+controlledtrials.AsiaPacJClinNutr2015;24:583
+e
+90
+.
+[245]
+PlankLD, MathurS,GaneEJ,PengSL,GillandersLK,McIlroyK,etal.Peri-
+operativeimmunonutritioninpatientsundergoinglivertransplantation: a
+randomizeddouble-blindtrial.Hepatology2015;61:639
+e
+47
+.
+[246]
+NettoMC,Alves-FilhoG,MazzaliM.Nutritionalstatusandbodycomposition
+inpatientsearlyafterrenal transplantation.TransplantProc2012;44:2366
+e
+8
+.
+[247]
+LimAK,ManleyKJ,RobertsMA,FraenkelMB.Fishoilforkidneytransplant
+recipients.CochraneDatabaseSystRev2016;8:CD005282
+.
+[248]
+Ronellen
+
+tschU,SchwarzbachM,Kring A,KienleP,PostS,HasenbergT.The
+effectofclinicalpathwaysforbariatricsurgeryonperioperativequalityof
+
+care.ObesSurg2012;22:732
+e
+9
+.
+[249]
+Mat
+
+okM,Pe
+þ
+dziwiatrM,MajorP,K
+
+e
+þ
+kS,Budzy
+
+nskiP,Ma
+
+czakP.Onehundred
+seventy-nineconsecutivebariatricoperationsafterintroductionof protocol
+inspiredbytheprinciplesofenhancedrecoveryaftersurgery(ERAS
+®
+)in
+bariatricsurgery.MedSciMonIntMedJExpClinRes2015;21:791
+.
+[250]
+AzaguryDE,RisF,PichardC,VolonteF,KarsegardL,HuberO.Doesperi-
+operativenutrition andoralcarbohydrateloadsustainablypreservemuscle
+mass afterbariatricsurgery?Arandomizedcontroltrial.SurgObesRelat Dis
+2015;11:920
+e
+6
+.
+[251]
+TorresAJ,RubioMA.TheEndocrineSociety'sClinical PracticeGuidelineon
+endocrineandnutritional managementof thepost-bariatric surgerypatient:
+commentaryfroma EuropeanPerspective.EurJEndocrinol 2011;165:171
+e
+6
+.
+[252]
+ThorellA,MacCormick AD,AwadS,ReynoldsN,RoulinD,DemartinesN,
+etal.Guidelinesforperioperative careinbariatricsurgery:enhancedre-
+coveryaftersurgery(ERAS)societyrecommendations.WorldJSurg
+2016;40:2065
+e
+83
+.
+[253]
+MechanickJI, ApovianA,BrethauerS,GarveyWT,JoffeAM,KimJ,etal.
+Clinicalpractice guidelinesfor theperioperativenutritional,metabolic,and
+nonsurgicalsupportofpatientsundergoingbariatricprocedures-2019up-
+date:cosponsoredbyAmericanAssociation of ClinicalEndocrinologists,
+AmericanCollegeofEndocrinology,theObesitySociety,andAmericanSo-
+cietyforMetabolic
+&
+BariatricSurgery,ObesityMedicineAssociation,and
+AmericanAssociationofAnesthesiologists.Endocr Pract2019;25:1346
+e
+59
+.
+[254]
+Allied HealthSciencesSectionAdHocNutritionC,AillsL,Blankenship J,
+Buf
+
+ngton C,FurtadoM,ParrottJ. ASMBS alliedhealthnutritionalguidelines
+forthesurgical weight losspatient.SurgObesRelatDis 2008;4:S73
+e
+108
+.
+[255]
+Olmos MA,VazquezMJ,GorriaMJ,GonzalezPP,Martinez IO,ChimenoIM,
+etal.Effectofparenteralnutritiononnutritionstatusafterbariatricsurgery
+formorbidobesity.JParenterEnterNutr2005;29:445
+e
+50
+.
+[256]
+BallestaC,BerindoagueR,CabreraM,PalauM,GonzalesM.Managementof
+anastomoticleaksafterlaparoscopicRoux-en-Ygastricbypass.ObesSurg
+2008;18:623
+e
+30
+.
+[257]
+GonzalezR,NelsonLG,GallagherSF,MurrMM.Anastomoticleaksafter
+laparoscopicgastricbypass.ObesSurg2004;14:1299
+e
+307
+.
+[258]
+GonzalezR,Sarr MG, Smith CD,BaghaiM,KendrickM,SzomsteinS,etal.
+Diagnosisandcontemporarymanagement ofanastomoticleaksafter gastric
+
+bypassforobesity.JAm CollSurg2007;204:47
+e
+55
+.
+[259]
+ThibaultR,HuberO,AzaguryDE,PichardC. Twelvekeynutritionalissues in
+bariatricsurgery.ClinNutr2016;35:12
+e
+7
+.
+A.Weimann,M.Braga,F.Carlietal.
+ClinicalNutrition 40(2021)4745
+e
+4761
+4761

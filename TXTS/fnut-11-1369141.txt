@@ -1,0 +1,3311 @@
+Frontiers in 
+Nutrition
+01
+frontiersin.org
+The e˜ect of early oral 
+postoperative feeding on the  
+recovery of intestinal motility 
+after gastrointestinal surger y: a  
+systematic review and  
+meta-analysis of randomized  
+clinical trials
+Federica˚Canzan
+ 
+1
+*, Jessica˚Longhini
+ 
+1
+, Arianna˚Caliaro
+ 
+2
+, 
+Maria˚Luisa˚Cavada
+ 
+3
+, Elisabetta˚Mezzalira
+ 
+1
+, Salvatore˚Paiella
+ 
+4
+* 
+and Elisa˚Ambrosi
+ 
+1
+1
+ 
+Department of Diagnostics and Public Health, University of Verona, Verona, Italy, 
+2
+ 
+Azienda 
+Ospedaliera Universitaria Integrata Verona, Verona, Italy, 
+3
+ 
+Scuola Provinciale Superiore di Sanità, 
+Bolzano, Italy, 
+4
+ 
+Department of General and Pancreatic Surgery, University of Verona, Verona, Italy
+Background and aims:
+ Postoperative ileus is a frequent condition, leading to 
+complications and a longer hospital stay. Few studies have demonstrated the 
+bene˜t of early oral feeding in preventing ileus after gastrointestinal surgery. 
+This study aims to evaluate the e˚cacy of early versus delayed oral feeding on 
+the recovery of intestinal motility, length of hospital stay, and complications.
+Methods:
+ We conducted a systematic review and meta-analysis of randomized 
+control trials, searching PubMed, Embase, Cumulative Index to Nursing and 
+Allied Health Literature, Cochrane Central Register of Controlled Trials, and 
+the ClincalTrials.gov until 31 December 2022. We˛evaluated the ˜rst passage 
+of the stool, the ˜rst ˝atus, complications, length of postoperative stay, and 
+vomiting. We˛assessed the risk of bias using the Cochrane risk of bias tool 
+(version 2) for randomized trials and the quality of evidence using the Grading 
+of Recommendations Assessment, Development, and Evaluation methodology.
+Results:
+ We included 34 studies with a median sample size of 102 participants. 
+With a moderate certainty of the evidence, the early oral feeding may reduce 
+the time taken for the ˜rst passage of the stool (MD ˙0.99ˆ days; CI 95% ˙1.25, 
+˜
+0.72), the ˜rst ˝atus (MD ˙0.70ˆ days; CI 95% -0.87, 
+˜
+0.53), and the risk 
+of complications (RR 0.69; CI 95% 0.59Œ0.80), while with a low certainty of 
+evidence, it may reduce the length of stay (MD ˙1.31ˆdays; CI 95% ˙1.59, 
+˜
+1.03). 
+However, early feeding likely does not aˇect the risk of vomiting (RR 0.90; CI 
+95% 0.68, 1.18).
+Conclusion:
+ This review suggests that early oral feeding after gastrointestinal 
+surgery may lead to a faster intestinal recovery, shorter postoperative stays, 
+and fewer complications. However, careful interpretation is needed due to high 
+heterogeneity and the moderate-to-low quality of evidence. Future studies 
+should focus on the type and starting time of early oral feeding.
+OPEN ACCESS
+EDITED BY
+Alessandra Milani, 
+ 
+European Institute of Oncology (IEO), Italy
+REVIEWED BY
+Xuejin Gao, 
+ 
+Nanjing University, China
+Qian Xu, 
+ 
+Shandong Provincial Qianfoshan Hospital, 
+ 
+China
+*CORRESPONDENCE
+Federica Canzan
+ 
+ 
+ 
+federica.canzan@univr.it
+ 
+Salvatore Paiella
+ 
+ 
+ 
+salvatore.paiella@univr.it
+RECEIVED 
+11 January 2024
+ACCEPTED 
+29 April 2024
+PUBLISHED 
+16 May 2024
+CITATION
+Canzan F, Longhini J, Caliaro A, Cavada ML, 
+Mezzalira E, Paiella S and Ambrosi E (2024) 
+The eˇect of early oral postoperative feeding 
+on the recovery of intestinal motility after 
+gastrointestinal surgery: a systematic review 
+and meta-analysis of randomized clinical 
+trials.
+Front. Nutr.
+ 11:1369141.
+doi: 10.3389/fnut.2024.1369141
+COPYRIGHT
+© 2024 Canzan, Longhini, Caliaro, Cavada, 
+Mezzalira, Paiella and Ambrosi. This is an 
+open-access article distributed under the 
+terms of the 
+Creative Commons Attribution 
+License (CC BY )
+. The use, distribution or 
+reproduction in other forums is permitted, 
+provided the original author(s) and the 
+copyright owner(s) are credited and that the 
+original publication in this journal is cited, in 
+accordance with accepted academic 
+practice. No use, distribution or reproduction 
+is permitted which does not comply with 
+these terms.
+TYPE
+ 
+Systematic Review
+PUBLISHED
+ 
+16May2024
+DOI
+ 
+10.3389/fnut.2024.1369141
+Canzan et al.
+ 
+10.3389/fnut.2024.1369141
+Frontiers in 
+Nutrition
+02
+frontiersin.org
+KEY WORDS
+early feeding, oral feeding, gastrointestinal surgery, ileus, length of hospital stay
+1 Introduction
+Postop erat ive i leus (POI) is an i at rogenic condit ion a˜er  
+gast rointest ina l surger y, de˚ne d as t ransient de celerat ion or cess at ion  
+of intest ine mot i lit y due to a chain re ac t ion c aus e d by t he surg ic al 
+inter vent ion and t he manipul at ion of t he digest ive t rac t (
+1
+,
+ 
+2
+). Indee d,  
+POI resu lts from a p at hophysiologic a l pro cess main ly dist inguishe d  
+in an early neurogenic phas e t hat suppress es enteric neura l re˛ex  
+p at hways and a s econd immunolog ica l and in˛ammator y phas e t hat  
+usu a l ly leads to prolonge d POI (
+2
+,
+ 
+3
+).
+˝is condit ion c an manifest w it h mu lt iple sy mptoms, such as  
+intolerance to ora l int a ke, naus e a, vomit ing , and fai lure to p ass ˛ atus  
+or sto ol (
+4
+,
+ 
+5
+). No cons ensus is cur rent ly avai l able on t he t ime of  
+physiolog ic a l restorat ion of nor ma l intest ina l mot i lit y (
+4
+,
+ 
+6
+). Howe ver,  
+s ome studies rep or t t hat t he re app e arance of b owel s ounds, p assing of  
+gas or sto ol, and tolerance to fo o d and ˛uids indic ate POI  
+re s o luti on  (
+5
+,
+ 
+7
+).
+D espite s e vera l p at hophysiolog ic al and t re at ment studies avai lable 
+in the literature, POI is sti l l a common condit ion a˜er gast rointest ina l  
+surger y, w it h an est imated pre va lence rang ing f rom 17 to 80% (
+8
+).  
+Di˙erent studies have demonstrate d t he ass o ci at ion b et we en POI and  
+incre as e d he a lt h complic at ions, such as nut r it iona l re quirements and  
+protein de˚cienc y, pneumoni a, anastomot ic fai lure, rena l and hep at ic  
+fai lure, del aye d autonomy re cover y, and mort a lit y (
+6
+,
+ 
+9
+Œ
+11
+), le ading  
+to prolonge d hospit a l st ay and re admission (
+6
+). ˝is results in hig h  
+he a lt hc are costs in radiology, l ab orator y, st aˆng , and me dic at ion  
+costs (
+12
+).
+Di˙erent inter ventions have b e en de velop e d and teste d over 
+t he ye ars to re duce t his phenomenon, foc using on e very phas e of 
+t he surgic a l intervent ion: pre operative, per iop erat ive, and 
+p ostop erat ive per io ds. ˝e inter ventions refer to t he us e of 
+minima l ly invasive pro cedures (
+13
+), a long wit h prop er 
+p eriop erat ive ˛uid management b as ed on ﬁG o al-Direc te d 
+˝erapyﬂ (
+14
+), and t he us e of opioid-fre e lo ca l epidura l anest het ics 
+(
+15
+), wit h a demonst rate d e˙e c t iveness for POI prevent ion. In 
+addition, t he ﬁen hance d re cover y a˜er surger yﬂ (ER AS) program, 
+w hich has be en intensively studie d and g loba l ly re cog nize d for its 
+p osit ive e˙ec ts in accelerating p ostop erat ive re cover y (
+16
+Œ
+18
+) , 
+st rongly re commends e arly fe eding st rongly dur ing t he 
+p ostop erat ive phas e (
+19
+). E arly fee ding by mout h prevents 
+signi˚c ant met ab olic changes such as insu lin resist ance (
+20
+)  and 
+faci lit ates surg ica l wound hea ling . More over, comp are d to 
+p arentera l nutr it ion, it enables t he gastrointest ina l system to 
+regain its f unc t ions faster by stimu l ating moti lit y and accelerat ing 
+t he ˚rst p ass age of ˛atus and sto ol (
+21
+). A lthoug h e arly ora l 
+fe eding might b eˇconsidered a s afe inter vent ion for POI 
+pre vent ion, t here is no conclusive e v idence of its s afet y for 
+gast rointest ina l f unc tion and p ostop erat ive complic at ions due to 
+di˙erent asp e cts (
+9
+,
+ 
+22
+). For inst ance, a st and ard de˚nit ion of 
+ﬁe arly fe e dingﬂ is c urrent ly missing, and t he t ype of fe eding 
+repor te d in t he studies has be en p o orly descr ibe d. For example, it 
+is uncle ar w het her t he fe e ding involves liquids or s olid fo o d. 
+C ons equent ly, t he guidelines do not prov ide cle ar indic at ions 
+regarding w hen and w hat to administer in t he e arly fee ding phas e. 
+As a resu lt, the indic ations may var y w idely across surg ica l s ettings 
+and cu ltures. In addit ion, t he dire c t ass o ciat ion bet we en e arly 
+fe eding and POI has b een p art i a lly invest igate d. Avai lable re v iews 
+have considere d fe eding as a comp onent of ERAS and mult imod a l 
+programs (
+23
+) or as a single inter vent ion (
+22
+,
+ 
+24
+Œ
+30
+). ˝erefore, 
+no single re v iew has yet determine d t he imp act of e arly ora l 
+fe eding as a single or a combined intervent ion.
+More over, most pre v ious systemat ic re v ie ws considere d on ly  
+colore c t a l (
+23
+,
+ 
+26
+), lower (
+22
+), upp er gast rointest ina l surger y (
+24
+,
+ 
+25
+),  
+or cancer indic ation to surger y (
+24
+) and ass ess e d t he imp act of e arly  
+fe e ding on outcome such as the lengt h of st ay (LOS), complic at ions  
+(
+22
+,
+ 
+25
+), or nut rit iona l st atus (
+24
+). In two re v ie ws w it h POI as t he  
+pr imar y outcome (
+26
+,
+ 
+27
+), t he POI was me asure d on ly by t ime to ˚rst  
+˛ atus or b owel movement, t he inter vent ion was fo c us e d on ly on diet 
+as a sing le intervent ion (
+26
+) or ˛uids (
+27
+), and the l ast s e arch on  
+d at ab as es was in June 2019 (
+26
+) and S eptemb er 2020 (
+27
+).
+˝erefore, t his study aims to e va lu ate the eˆc ac y of e arly versus  
+del aye d ora l fe e ding on t he re cover y of intest ina l mot i lit y as t he  
+pr imar y outcome to ˚ ll t he gaps descr ib e d ab ove.
+2 Materials and methods
+We per for me d a systemat ic re v iew and met a-ana lysis according 
+to t he C o chrane guidelines (
+31
+) and repor te d it follow ing t he 
+Prefer re d R epor t ing Items for Systemat ic R ev ie ws and Met a-
+Ana lys es (PRISMA) guidelines (
+32
+). Weˇs e arche d PubMe d, Emb as e, 
+Cumu lative Index to Nursing and A llie d He alth L iterature, C ochrane 
+C ent ra l R egister of C ont rol led Tr i a ls (CENTRAL), and t he 
+C linc alTr i a ls.gov
+ reg ister f rom incept ion to 31 D e cember 2022. 
+Weˇa ls o s e arche d System for Infor mation on Gre y L iterature 
+(SIGLE) to ident if y f urt her studies or p ap ers t hat were not publishe d, 
+che cke d the references of ar t icles included and rele vant re vie ws on 
+t he topic, and cont ac ted t he cor resp onding aut hors to cl ar if y doubts 
+and consider unpublishe d d at a. ˝e s e arch in t he d at ab as es and 
+reg ist ries was conducted using b ot h f re e texts and MeSH and 
+EMTREE ter ms by adopt ing t he s e arch st r ings rep orted in 
+Supplement ar y Fi le S1
+. Weˇprospe c t ively reg istere d t he protocol in 
+t he Inter nat iona l Prosp ec t ive R eg ister of Systemat ic R ev ie ws 
+(CRD42022298777) and published it (w it h references blinde d for 
+t he re viewer).
+2.1 Inclusion and exclusion criteria
+We include d randomize d clinic a l t r i a ls (RCTs) t hat met t he  
+fol low ing inclusion cr iter i a: (i) aime d at comp ar ing t he e˙e ct of e arly  
+p ostop erat ive (˛uids and fo o d by mout h w it hin 24
+ 
+h) versus del aye d  
+ora l fe eding; (ii) t re ate d p at ients >18
+ 
+ye ars of age undergoing b ot h  
+ele c tive and emergency gast rointest ina l surger y ; (iii) ass ess e d  
+Canzan et al.
+ 
+10.3389/fnut.2024.1369141
+Frontiers in 
+Nutrition
+03
+frontiersin.org
+intest ina l re covery outcomes, complic at ions, and LOS a˜er  
+gast rointest ina l surger y ; (iv) publishe d in Eng lish, It ali an, and  
+G er man. ˝e pr imary outcome is t he t ime to t he ˚rst p ass age of stool,  
+w hi le s e cond ar y outcomes include t he t ime to ˚rst ˛atus, LOS, and 
+any negat ive e˙e cts, such as naus e a, vomit ing , infe c t ion, organ failure,  
+and maj or complic at ions, as classi˚e d according to t he C l av ien-Dindo  
+C l assi˚c at ion (
+33
+). Studies were exclude d if t he intervent ion involved  
+t he exclusive us e of t he nasogast ric tub e. More over, studies refer r ing  
+to p atients t re ate d for b ar i at r ic surger y, app ende ctomy, and  
+hemor rhoid surger y were excluded. Studies involv ing g ynecolog ic a l  
+pro ce dures were als o exclude d.
+2.2 Selection process
+˝e re cords ident i˚e d t hroug h t he se arch methods were 
+t ransfer re d to E xcel
+®
+ (Micros o˜ C or p orat ion, Re dmond, WA)  
+spre adshe ets and t hen uploade d to C ov idence. First, t wo re v ie w  
+aut hors (blinded for re v ie w) independent ly s creened t it les and  
+abst rac ts and t hen p er for me d f u ll-text re v ision. A t hird rev ie w aut hor  
+(blinde d for re v ie w) res olved any dis agre ements.
+2.3 Data extraction and management
+For e ach study, d at a were ext rac te d by t wo indep endent authors  
+using ele ct ronic d at a col le c t ion for ms in C ovidence. ˝e ext rac te d  
+d at a included ar t icle references (˚rst aut hor, j our na l, and ye ar),  
+s ett ing , res e arch met ho ds (study desig n, tota l durat ion of t he study,  
+and washout per io d), t yp e of surger y (emergenc y or ele ct ive surger y); 
+p ar t icipant charac ter istics (age and s ex), inter vent ion (exp er iment al  
+and cont rol), study™s pr imar y and s e cond ar y outcomes, main resu lts,  
+and f re e notes. Weˇdea lt w it h missing d at a by cont ac t ing t he aut hors 
+of t he t ri a ls to ret r ie ve relevant informat ion.
+2.4 Risk of bias assessment
+Two indep endent re v ie wers p erforme d t he qua lit y and r isk of bi as  
+ass essment of t he include d studies using t he re v is e d C o chrane r isk of  
+bi as to ol for randomized t ri a ls (R oB2) (
+34
+), and a t hird re v ie wer 
+s olve d any dis ag re ements. ˝e r isk of bi as in each study was cl assi˚e d  
+as high, low, or mo derate according to t he overa l l g rade agre e d up on  
+by t he re v ie wers (
+34
+).
+2.5 Data analysis
+˝e me an di˙erence (MD) w it h 95% con˚dence inter va ls (CIs) 
+was calc u l ate d to est imate t he e˙e c t size of t he cont inuous var i ables, 
+including t he ˚rst p ass age of t he sto ol, ˚rst ˛ atus, and LOS. ˝e r isk 
+rat io w it h 95% CI was ca lc u l ate d to estimate t he r isk li keli ho od of 
+inc ur r ing p ostop erat ive complic at ions and vomit ing epis odes. ˝e 
+r isk of complic at ion was de˚ned base d on t he numb er of p at ients 
+w ho under went at le ast one p ostop erat ive complication, since it was 
+not p ossible to cl assif y t he complic at ions according to t he C l av ien-
+Dindo C l assi˚cation due to missing infor mat ion in most of 
+t he ar t icles.
+A random-e˙e c t met a-ana lysis was conduc te d for a l l outcomes,  
+consider ing t he di˙erences in inter vent ion charac ter ist ics ident i˚e d  
+dur ing t he d ata colle c t ion and ext rac t ion pro cess.
+˝e st at ist ic a l heterogeneity was ass ess ed by v isu a l insp ec t ion of  
+t he forest plot and apply ing t he I2 st at istic w it h t he Q st at istic test.  
+Va lues g re ater t han 75% were considere d as expressing considerable  
+heterogeneit y (
+31
+).
+We p er for me d t wo subg roup ana lys es to explore t he s ource of  
+considerable heterogeneit y according to t he t ypes of inter vent ions and  
+t he surger y site. Typ es of inter vent ions were cl assi˚ed into t wo  
+c ategor ies, namely ﬁe arly fee dingﬂ and ﬁmu lt imo d a l inter vent ions or  
+ER AS inter vent ions.ﬂ ˝e c ategor y of mult imo d a l inter ventions  
+includes studies t hat investigate d prog rams comp os ed of early fe e ding  
+and other elements, such as fast-t rack, pre op erat ive rout ine changes  
+in fe e ding , and e arly mobi lizat ion. R egarding t he surger y sites,  
+weˇg roup e d studies into t wo c ategor ies, one t arget ing on ly p at ients  
+undergoing colon and rec t a l surger y, w hi le t he ot her including a  
+bro ader site de˚nit ion (b owel and abdominal surgeries) or di˙erent 
+sites (gast r ic surger y).
+To corrob orate t he resu lts of t he overa ll ana lysis, a sensit iv it y  
+ana lysis was p er for me d by remov ing studies at hig h risk of bi as and  
+studies w it h a s ample sma l ler t han 100 p ar ticip ants.
+We ass ess e d t he public at ion bi as t hroug h t he f unnel plot  
+insp e ct ions, and for cont inuous outcomes, weˇass esse d using Eg ger™s  
+test. ˝e ana lysis was p er for med w it h R e vMan 5.4 (
+35
+) and R s o˜ ware  
+(
+36
+). ˝e resu lts rep or te d in t he included studies as me di an and  
+interqu ar t i le ranges were des cr ib ed narrat ively.
+2.6 Summary of evidence
+˝e qu a lit y of e v idence was eva lu ate d for a ll outcomes by adopt ing  
+t he Grading of R e commend at ions Ass essment, D e velopment, and  
+Eva lu at ion (GR ADE) work ing g roup met hodology (
+37
+). ˝e le vel of  
+e v idence cer t ain ly was considere d ‚high™, ‚mo derate™, ‚low™, or ‚ver y low™  
+b as e d on t he r isk of bi as, inconsistenc y, indirec t ness, impre cision,  
+public at ion bi as, and addit iona l domains.
+3 Results
+3.1 Characteristics of studies
+A˜er remov ing duplic ates, weˇret r ieved 6,490 records, of w hich  
+35 (
+38
+Œ
+72
+) were include d (
+Figureˇ1
+;
+ 
+Supplement ar y Fi le S2
+: L ist of  
+exclude d studies). ˝e maj or it y of RCTs were conduc te d in C hina (15,  
+44.1%), fol lowe d by Kore a (4, 11.8%) (
+Tableˇ1
+). ˝e me di an s ample  
+size of t he studies was 101 p ar t icipants (IQR , 80Œ185, min =29,  
+max
+ 
+=
+ 
+1735). Fur t her more, 12 studies e va lu ate d t he ER AS proto col, 11  
+studies e va lu ate d t he e˙e c t iveness of e arly fe e ding inter vent ions, and  
+t he remaining 9 studies e va lu ate d mult imo d a l inter vent ions (
+Tableˇ1
+).  
+˝e mu lt imo d a l inter vent ions include d comp onents simi l ar to t he  
+ER AS proto col, for example, diet changes in t he pre operat ive phas e  
+(
+53
+), t he us e of che w ing gum and app et ite st imu l at ion prog rams (
+56
+),  
+and e arly mobi lizat ion (
+48
+) (
+Tableˇ1
+). Ninete en studies include d  
+p at ients undergoing colon and re c t a l surger y, w hi le anot her ot her  
+eig ht include d p at ients undergoing gastr ic surger y. ˝e remaining  
+studies refer re d to t he bowel (
+50
+,
+ 
+71
+) or ab domina l (
+56
+) surger y,  
+Canzan et al.
+ 
+10.3389/fnut.2024.1369141
+Frontiers in 
+Nutrition
+04
+frontiersin.org
+including hep atec tomy (
+51
+), liver res ec t ion (
+57
+), chole c yste ctomy  
+(
+51
+), and p ancre at ico duodene c tomy (
+61
+).
+3.2 Risk of bias and publication bias
+Twent y-t wo studies resu lte d in an uncle ar r isk of bi as due to  
+di˙erent re as ons: 16 had an uncle ar randomizat ion pro cess, 13 had  
+uncle ar infor mat ion concer ning the dev i at ions f rom t he intende d  
+inter vent ions, 13 regarding t he sele c t ion of t he resu lts, main ly due to  
+a presp e ci˚ed proto col not avai l able, and nine regarding t he  
+me asurement of t he outcome (
+Supplement ar y File S3
+). R egarding t he  
+remaining ar t icles, s e ven were judged at low r isk of bi as, w hi le t he  
+ot her six were at hig h r isk of bi as. A hig h r isk of bias was dete cte d in  
+t hre e studies due to issues relate d to t he outcome me asurement; in one  
+study, it was due to t he randomizat ion pro cess, and in anot her study,  
+it was due to outcome me asurement pro cess de v i at ions from t he  
+intende d proto col.
+˝e f unnel plot (
+Supplement ar y Fi le S4
+) and Eg ger™s test re ve a le d  
+a st rongly susp e cte d public at ion bi as in favor of t he inter vent ion for  
+t he outcomes ﬁFirst p ass age of t he sto ol,ﬂ ﬁFirst ˛ atus,ﬂ and LOS, but  
+not for ﬁC omplic at ionsﬂ and ﬁVomit ing .ﬂ
+3.3 Outcomes
+We have repor te d t he resu lts according to t he ˚ve outcomes  
+invest igate d, w hich are t he ˚rst p ass age of sto ol, t he ˚rst p ass age of 
+˛ atus, LOS, complic ations, and vomiting.
+Fur t her more, 17 t r i a ls (50%) rep or ted t he ˚rst p ass age of sto ol, 33 
+studies (94.3%) rep or te d LOS and p ostop erat ive complic at ions, 23  
+studies (65.7%) invest igate d t he ˚rst p ass age of ˛ atus, and 15 studies  
+(47.1%) rep or te d vomit ing (
+Tableˇ1
+). Met a-ana lys es were conduc te d,  
+including 12 studies for t he ˚rst pass age of sto ol, 13 studies for t he ˚rst  
+˛ atus, 12 studies for LOS, 31 studies for complic at ions, and 12 studies  
+for vomit ing (
+Tableˇ2
+).
+3.3.1 First passage of stool
+We p oole d d at a f rom 12 studies out of 17 invest igat ing t he ˚rst  
+p ass age of stool, four of w hich were e va lu ate d as inter vent ions for  
+e arly ora l fee ding , whi le eig ht were t he ER AS prog ram or ot her  
+mu lt imo d a l prog rams. Wit h a mo derate cer t aint y of e v idence  
+(
+Tableˇ2
+), e arly fe eding , w het her st and a lone or w it hin a w ider  
+prog ram, may re duce t he t ime to ˚rst p ass age of sto ol comp are d to  
+del aye d fe e ding (2,112 p at ients; MD 
+˜
+0.99
+ 
+d ays; CI95% 
+˜
+1.25, 
+˜
+0.72;  
+I2 88%, 
+Supplement ar y Fi le S5
+).
+O ut of the ˚ve studies invest igat ing mu lt imo d al (
+40
+,
+ 
+48
+) or ER AS  
+(
+63
+) inter vent ions not p o ole d in t he met a-ana lysis, t hre e rep or te d a  
+st at ist ic a lly sig ni˚c ant re duc t ion in the t ime to ˚rst defe cation in favor  
+of t he inter vent ion (
+Supplement ar y Fi le S6
+).
+3.3.2 First passage of ˛atus
+O ut of 22 studies (64.7%) e valu at ing t he t ime to ˚rst pass age of ˛ atus,  
+13 provide d usef u l d at a to b eˇpo ole d in t he met a-analysis. ˝ere is  
+mo derate cer t ainty of ev idence t hat e arly fe e ding , eit her alone or as p art  
+of a l arger program, may re duce the t ime to t he ˚rst ˛ atus among the  
+inter vent ion g roup comp are d to delaye d fe eding (2,496 p at ients; MD  
+˜
+0.70
+ 
+d ays; CI 95% 
+˜
+0.87, 
+˜
+0.53; I2 85%, 
+Tableˇ2
+;
+ 
+Supplement ar y Fi le S7
+).  
+FIGURE˜1
+PRISMA 2020 ˝ow diagram for new systematic reviews, which included searches of databases, registers, and other sources. CENTRAL, Cochrane  
+Central Register of Controlled Trials;  CINAHL, Cumulative Index to Nursing and Allied Health Literature; ICTRP, International Clinical Trials Registry 
+Platform.
+Canzan et al.
+ 
+10.3389/fnut.2024.1369141
+Frontiers in 
+Nutrition
+05
+frontiersin.org
+TABLE˜1
+ 
+Characteristics of the included studies.
+Author, year, 
+countr y Time of 
+RCT
+Intervention (G1)
+Control (G2)
+Study population
+Sample size
+Outcomes 
+investigated
+E arly fe eding
+R eissman etˇal. (1995) 
+Flor id a
+Novemb er 1992ŒApr il 1994
+C le ar liquid diet on t he ˚rst PO day and regu lar diet 
+w it hin the next 24 to 48
+ 
+h, as tolerate d (abs ence of 
+vomit ing or ab domina l distent ion). ˝e NGT was removed 
+immedi ately a˜er surger y
+NPO unti l t he resolut ion of t he ileus, t hen a cle ar liquid 
+diet, followe d by a regu lar diet. ˝e NGT was remove d 
+immedi ately a˜er surger y
+Ad undergoing ele c tive lap arotomy 
+w it h bowel res e ct ion
+161
+G1: 80
+G2: 81
+NA
+LO S
+C omplicat ions
+Or t iz etˇal. (1996)
+Sp a i n
+Not sp eci˚e d
+˝e NGT was remove d in t he post-anest hesia c are unit. 
+On t he PO evening , pat ients were a l lowe d to int a ke clear 
+liquids; this cont inued unt i l the ˚rst PO day, at w hich t ime 
+t he y progress e d to a regu l ar diet as desired.
+˝e NGT was remove d w hen the surge on considere d t hat 
+t he PO ileus had resolve d (indic ated by t he return of b owel 
+s ounds, t he abs ence of naus e a, vomit ing, and t he p ass age of 
+˛ atus or sto ol). At t he time of ileus res olut ion, p at ients were 
+st ar te d on a diet of cle ar liquids; if this was tolerate d for 
+24
+ 
+h, t hen the y were advanced to a regu l ar diet.
+Ad undergoing ele c tive colon or 
+re c t al surger y
+190
+G1: 93
+(2 exclude d)
+G1:95
+NA
+Vom iti n g
+C omplicat ions
+Har ts ell etˇa l. (1997)
+Texas
+May 1995ŒFebru ar y 1996
+POD 1: fu l l liquid diet.
+If t he pat ient consume d 1,000
+ 
+mL in a 24-h perio d, heˇwas 
+advance d to a regu l ar diet the next day.
+A˜er the retur n to nor ma l b owel func t ion w ith p ass age of 
+˛ atus or sto ol, p at ients b egan a fu l l liquid diet: if the p at ient 
+consume d 1,000
+ 
+mL in a 24-h perio d, heˇwas advanced to a 
+regu lar diet t he next d ay.
+Ad undergoing ele c tive colore c t a l 
+s u rger y
+58
+G1: 29
+G2:29
+NA
+LO S
+Naus e a/Vomiting
+C omplicat ions
+Ste war t etˇal. (1998)
+Aust ra lia
+Not sp eci˚e d
+Fre e ˛uids f rom 4
+ 
+h a˜er the op erat ion and prog ress ed to a 
+s olid diet from t he ˚rst PO d ay at their ow n discret ion.
+Fast ing unt i l p ass age of ˛ atus or bowel mot ion and was 
+t hen commence d on cle ar ˛uids and progress e d to a solid 
+diet over 24Œ48
+ 
+h at t he surge on™s dis cretion
+Ad undergoing ele c tive colore c t a l 
+res e ct ion w it h anastomosis
+80
+G1: 40
+G2:40
+NA
+Time to ˚rst ˛ atus
+LO S
+Naus e a/Vomiting
+C omplicat ions
+Zhou etˇal. (2006)
+C hina
+Janu ar yŒS eptemb er 2005
+Nas ogast r ic tub es were remove d w it hin 12Œ24
+ 
+h a˜er the 
+op eration. ˝e p at ients were imme di ately prov ided w it h 
+water and gradu a l ly transit ione d to a liquid ˚breless diet 
+a˜er 1
+ 
+d ay, fol lowed by a s emi-liquid ˚b er diet a˜er 3
+ 
+d ays.
+Nas ogast r ic tub es were remove d up on t he rep ort of p ass age 
+of ˛ atus by t he p at ient, usu a l ly wit hin 3Œ5
+ 
+d ays a˜er 
+s u rge r y.
+Ad re ceiving excision and 
+anastomosis for colore c t a l tumor.
+316
+G1: 161
+G2: 155
+Time to ˚rst defe cat ion
+Time to ˚rst ˛ atus
+LO S
+C omplicat ions
+E l Na keeb etˇa l. (2009)
+E g y pt
+June 2005ŒApr i l 2008
+E arly fe eding: p at ients b egan ˛uids on t he ˚rst PO d ay and 
+advance d to a regu l ar diet wit hin the next 24Œ48
+ 
+h, as 
+tolerated (indic ate d by an abs ence of vomit ing or 
+ab domina l distension)
+R egul ar fe e ding: NPO unt il t he res olution of i leus, then a 
+˛uid diet, fol lowe d by a regul ar diet.
+Ad undergoing ele c tive op en 
+colonic anastomosis
+120
+G1: 60
+G2: 60
+Time to ˚rst defe cat ion
+Time to ˚rst ˛ atus
+LO S
+Vom iti n g
+C omplicat ions
+C ons oli etˇal. (2010)
+Brazi l
+Ju ly 2006ŒJanu ar y 2008
+Post op erat ively, on t he 1
+ 
+d ay, p atients in the early fe d 
+g roup (EF) re ceive d 500
+ 
+mL of rest r ic te d ˛uid as t he ˚rst 
+int a ke, and if no naus e a and vomits were obs erve d, t he y 
+were able to e at a f ree diet imme di ately t herea˜er.
+˝e t radit iona l c are group (t rad) receive d ni l by mout h 
+unt i l ˛atus or e vacu at ion happene d.
+Ad undergoing ele c tive 
+l ap aroscopic colonic rese c t ion wit h 
+pr i mar y  anastomo s is
+29
+G1: 15
+G2: 14
+NA
+Time to ˚rst ˛ atus
+PO; Hospita l st ay
+Naus e a/vomiting Di ar rhea
+C omplicat ions
+(C ontinued)
+Canzan et al.
+ 
+10.3389/fnut.2024.1369141
+Frontiers in 
+Nutrition
+06
+frontiersin.org
+TABLE˜1
+ 
+(Continued)
+Author, year, 
+countr y Time of 
+RCT
+Intervention (G1)
+Control (G2)
+Study population
+Sample size
+Outcomes 
+investigated
+D a Fonse c a etˇa l. (2010) 
+Brazi l
+May 2006ŒFebru ar y 2009
+E arly fe eding g roup (EFG): POD1 p at ients re ceive d an ora l 
+liquid diet (approximately 500
+ 
+cm3) and were advance d to 
+a regul ar diet w it hin t he next 24
+ 
+h, as tolerate d (abs ence of 
+vomit ing or ab domina l distent ion) and at their dis cretion.
+Tradit ional c are g roup (TC G): p atients re ceived NPO unt il 
+t he eliminat ion of the ˚rst ˛ atus and then re ceived an ora l 
+liquid diet, fol lowe d by a regu l ar diet wit hin the next 24
+ 
+h, 
+as des crib e d for the EFG.
+Ad undergoing ele c tive colonic 
+s u rger y.
+54
+G1: 24
+(3 exclude d)
+G2: 26
+(1 exclude d)
+NA
+Time to ˚rst ˛ atus
+Naus e a/Vomiting
+LO S
+C omplicat ions
+D ag etˇal. (2011)
+Tu r k e y
+August 2007ŒSeptemb er 
+2009
+EOFŠ˛uid diet 12
+ 
+h a˜er the op erat ion; t his was g radu a l ly 
+incre as ed to a s olid diet as tolerate d by t he p at ient.
+Fast ing unt i l t he pat ient pass es ˚rst ˛atus or sto ols.
+Ad undergoing ele c tive op en 
+colore ct a l c ancer surger y
+199
+G1: 99
+G2: 100
+Time to ˚rst defe cat ion
+LO S
+C omplicat ions
+Pragat heeswarane etˇal. 
+(2014) India
+S eptember 2011ŒJu ly 2013
+E arly oral fe e ding (EOF)Š˝e nas ogast ric tub e was 
+remove d wit hin 24
+ 
+h of recover y f rom anest hesi a; cle ar 
+liquid diet of 30
+ 
+cm3 /h at t he 24t h hŠadvanced to 60
+ 
+cm3 
+/h in the next 12
+ 
+hŠf u ll ˛uid diet wit hin 48
+ 
+hŠs olid diet 
+over t he next 24
+ 
+h
+Tradit ional ora l fe eding (TOF)ŠNPO unt i l t he res olut ion 
+of t he ileus, t hen a cle ar liquid diet, progressing to a solid 
+diet as tolerate d
+E le ct ive b owel surger ies
+120
+G1: 60
+G2: 60
+Time to ˚rst defe cat ion
+Time to ˚rst ˛ atus
+Vom iti n g
+LO S
+C omplicat ions
+Wu etˇal. (2019), C hina 
+Febr u ary 2015ŒAugust 
+2017
+Water was prov ide d by nurs es in t he PACU if p atients were 
+f u l ly cons cious, had st able vit a l signs, had g rade 5 mus cle 
+st rength, and had wel l-re covere d coug h and swal low ing 
+re˛ex. Tot a l water volume 3
+ 
+mL/kg. ˝e ˚rst test volume of 
+water administere d was 1 to 5
+ 
+mL; if negat ive, p at ients 
+dran k t he remaining volume of water by t hems elves
+Pat ients cou ld not dr ink water unti l 4
+ 
+h a˜er surger y
+Ad in t he PACU w ho had 
+undergone ele c t ive lap aros copic 
+ch ol ec y s te c tomy
+1735
+G1: 867
+G2: 868
+NA
+Naus e a/Vomiting
+Mu lti m o d a l  i nter v enti on
+Fe o etˇal. (2004)
+It a l y
+March 2000ŒJuly 2002
+No NGT for decompression. POD 1: liquids, POD 2: s o˜ 
+diet, regard less of t he pass age of ˛atus, POD 3: solid diet as 
+tol e rate d.
+NG tub e was ins er ted a˜er t wo PO epis o des of vomit ing .
+NGT for decompression. A˜er t he ˚rst ˛atus, p at ients were 
+g radua l ly g iven oral fe e ding from a liquid diet to a so˜ and 
+s olid diet as tolerated. ˝e NG tub e was reins er ted a˜er t wo 
+epis o des of vomit ing t hat o ccur re d a˜er its remova l.
+Ad undergoing ele c tive lap arotomy 
+colore ct a l res e ct ion for cancer
+100
+G1: 50
+G2: 50
+Time to ˚rst defe cat ion
+LO S
+Naus e a/Vomiting
+C omplicat ions
+K ho o etˇal. (2007)
+Unite d Kingdom
+May 2003ŒOc tob er 2004
+Mu lt imo d a l g roup: Nas ogast r ic tubes were remove d in t he 
+re covery ro om; diet was al lowe d imme di ately a˜er t he 
+op eration;
+Pat ients re ceive d regul ar domper idone, mag nesium 
+hydroxide 8%, and liquid protein/ca lor ie supplements 
+f rom admission.
+C onvent iona l care: nas ogast ric tub es were remove d t he 
+fol low ing mor ning un less t here was 200
+ 
+mL of fre e drainage 
+over night. ˝e diet was commence d on ly up on obs erv ing 
+sig ns of retur ning bowel mot i lit y
+Ad undergoing ele c tive colore c t a l 
+res e ct ion for c ancer
+81
+G1:41
+G2:40
+Time to ˚rst defe cat ion
+LO S
+C omplicat ions
+(C ontinued)
+Canzan et al.
+ 
+10.3389/fnut.2024.1369141
+Frontiers in 
+Nutrition
+07
+frontiersin.org
+TABLE˜1
+ 
+(Continued)
+Author, year, 
+countr y Time of 
+RCT
+Intervention (G1)
+Control (G2)
+Study population
+Sample size
+Outcomes 
+investigated
+Iones cu etˇa l. (2009)
+Romania
+O c tob er 2006ŒMay 2007
+Fast t rack Group:
+D ay of surger y : Fluids if tolerated (no NG tub e unless 
+s e vere PONV )
+POD1: ˛uids, Solid fo o d (yogurt and che ese)
+POD2: S olid fo o d (nor mal fe e ding)
+C onvent iona l care:
+D ay of surger y : Nas ogastr ic tub e, nil by mout h
+POD1: Nas ogast r ic tub e, ni l by mout h
+POD2: If bowel p ass age occ urs, remove t he nas ogast r ic 
+tub e, and star t ˛uids oral ly ; if not, retain t he nas ogast ric 
+tu b e
+Ad w ho underwent ele ct ive op en 
+colore ct a l surgery for ne opl asm
+96
+G1: 48
+G2: 48
+NA
+LO S
+Naus e a/vomiting
+C omplicat ions
+L iu etˇal. (2010)
+C hina
+June 2006ŒJanu ar y 2007
+Mu lt imo d a l O ptimizat ion of Surg ic a l Care: E arly (f ree 
+˛uids on the d ay of surgery fol lowe d by a regul ar diet as 
+tolerated). D ay of surger y : Ora l int a ke of cle ar ˛uid 
+˚
+50
+ 
+mL
+ 
++
+ 
+GS 10% 1,000
+ 
+mL and GN 500
+ 
+mL (IV) Sit in be d 
+for ab out 20
+ 
+min. POD 1: Semi liquid diet 50Œ100
+ 
+mL
+ 
++
+ 
+GS 
+10% 1,000
+ 
+mL and GN 500
+ 
+mL St and out of be d for at least 
+20
+ 
+min; POD2: Semi liquid diet 100Œ200
+ 
+mL
+ 
++
+ 
+GS 10% 
+500
+ 
+mL and GN 500
+ 
+mL Wa lk t he lengt h of t he ward for at 
+le ast 1
+ 
+h; POD3: semi liquid diet 200Œ400
+ 
+mL
+ 
++
+ 
+GS 10% 
+500
+ 
+mL and GN 500
+ 
+mL; POD 4: Semi liquid diet; POD 5: 
+S olid diet
+C onvent iona l care: NPO unt i l b owel vent ing . D ay of 
+surgery : NPO
+ 
++
+ 
+GS 10% 1,000
+ 
+mL and GN 1500
+ 
+mL (IV); 
+POD1: NPO
+ 
++
+ 
+GS 10% 1,000
+ 
+mL and GN 1500
+ 
+mL; POD2: 
+NPO
+ 
++
+ 
+GS 10% 1,000
+ 
+mL and GN 1500
+ 
+mL; POD3: Usu a l ly 
+t he presence of b owel ˛atus; remove the nas ogast ric tub e. 
+Diet and IV ˛uid reint ro duce d in the s ame manner as in 
+t he opt imized g roup on PODs 1, 2, and 3; POD5: 
+S emiliquid diet; POD6: S olid diet
+Ad b et ween 28 and 81
+ 
+ye ars of age 
+w ho underwent gast rec tomy 
+pro cedures.
+63
+G1: 33
+G2: 30
+NA
+LO S
+Di ar rhe a/vomit ing
+C omplicat ions
+L e e etˇal. (2011)
+Ko r e a
+S eptember 2007 and 
+O c tob er 2009
+R ehabi lit at ion prog ram: D ay of surgery : Sit in a chair for 
+<1
+ 
+h Sips of water <1; POD 1: Sit in chair for >3
+ 
+h; ward 
+ambu l at ion >400
+ 
+m; mobi lize in bed S emi˛uid diet >1
+ 
+L; 
+POD 2: Ward ambul at ion >600
+ 
+m; so˜ blend diet or 
+regu lar diet; us e the l axat ive rout inely.
+C onvent iona l care: D ay of surger y : B ed rest; Not hing by 
+mout h; POD 1: Sit in chair for >1
+ 
+h; mobi lize in be d; NPO 
+unt i l ˛atus; POD 2: Ward ambu l at ion >400
+ 
+m; sips of water 
+if b owel pass age occ urs; us e the l axative if ne cess ar y.
+Ad w ho had receive d l aparos copic 
+colon surgery
+100
+G1: 46
+G2:54
+Time to ˚rst defe cat ion
+Time to ˚rst ˛ atus
+LO S
+C omplicat ions
+Wang etˇal. (2012)
+C hina
+Apr i l 2006ŒOc tob er 2009
+Fast t rack g roup: E arly fo o d int a keŠWater w hen pat ients 
+retur ned to cons ciousness, ˛uid diet on t he POD1 
+incre as ed in t he fol lowing d ays; nor mal diet on POD 3 and 
+e dible oil to facilit ate defe cat ion.
+C onvent iona l care: Fluid diet was fe d a˜er the p ass age of 
+t he ˚rst ˛ atus.
+Age
+ 
+>
+ 
+65
+ 
+ye ars wit h colore c t al 
+c ancer and undergoing 
+l ap aroscopic colore ct a l res ec t ion
+78
+G1:40
+G2:38
+NA
+Time to ˚rst ˛ atus
+LO S
+C omplicat ions
+L e e etˇal. (2013)
+Ko r e a
+Ju ly 2007ŒSeptemb er 2011
+R ehabi lit at ion prog ram: D ay of surgery : Sips of water \1
+ 
+L
+POD1: S emi-˛uid diet [1
+ 
+L]; POD 2: So˜ blend diet or 
+regu lar diet
+D ay of surger y : NPO; POD 1: Ni l by mout h unt i l ˛atus
+POD2: Sips of water if bowel p ass age o cc urs
+Ad age d 20 to 80
+ 
+ye ars under went 
+l ap aroscopic low anter ior res e c tion 
+w it h a defunc t ioning ile ostomy for 
+re c t al adeno carcinomas
+98
+G1: 52
+G2:46
+Time to ˚rst defe cat ion
+Time to ˚rst ˛ atus
+LO S
+C omplicat ions
+L i etˇal. (2014)
+C hina
+Janu ar y 2011ŒFebr u ar y 
+2012
+Fast-t rack g roup: POD1: wit h or w it hout NGT in a˜er 
+12
+ 
+h; e arly oral fe e ding of water or te a at 12
+ 
+h, us e of EN 
+emu lsion (Fresubin®), 50% of tot a l dos e in 24
+ 
+h (Tot a l 
+energy : 25Œ30
+ 
+kc a l/kg·d); no regul ar p arenteral nut r it ion 
+supp or t; POD2: ˛uid rest r ic t ion to 1,000
+ 
+mL/kg·d, 100% 
+tot a l dose of EN in 48
+ 
+h. (Tot a l energ y was 25Œ30
+ 
+kc a l/
+kg·d); POD3-5: ˛uid rest r ic t ion to 500
+ 
+mL/d
+C onvent iona l care: ˝e NGT remains; NPO unt il ˛ atus, 
+sips of water if bowel p ass age occ urs; t ransf us e ˛uid for 
+p at ients at approximately 3,000
+ 
+mL/kg unt i l t hey int a ke 
+fo o d; TPN; ora l fe eding a˜er aerocluxus.
+Ad w it h colore c t a l cancer 
+under went colore c t al surger y
+445
+G1: 208
+G2: 237
+Time to ˚rst defe cat ion
+Time to ˚rst ˛ atus
+LO S
+C omplicat ions
+(C ontinued)
+Canzan et al.
+ 
+10.3389/fnut.2024.1369141
+Frontiers in 
+Nutrition
+08
+frontiersin.org
+TABLE˜1
+ 
+(Continued)
+Author, year, 
+countr y Time of 
+RCT
+Intervention (G1)
+Control (G2)
+Study population
+Sample size
+Outcomes 
+investigated
+Feng etˇal. (2016)
+C hina
+August 2014ŒMarch 2015
+Fast-t rack g roup: POD 1: If an NGT was place d, remove it 
+a˜er 12
+ 
+h; E arly ora l fe e ding of water or te a at 12
+ 
+h: ora l 
+fe e ding of emu lsion (Fresubin®), 50% of tot a l dos e over 
+24
+ 
+h (tot a l energ y : 25Œ30
+ 
+kc a l/kg · day); POD 2: Fluid 
+rest ric t ion to 1,000
+ 
+mL/kg · day ; Nor ma l diet or emulsion 
+(100% of tot a l dos e over 48
+ 
+h; tot a l energ y of 25Œ30
+ 
+kc a l/
+kg
+ 
+d ay ; POD 3Œ4: Fluid restr ic t ion to 500
+ 
+mL/d ay.
+C onvent iona l care: ˝e NGT kept in pl ace, nil by mout h 
+unt i l ˛atus; sips of water if bowel p ass age occ urs, ˛uid 
+t ransf usion (approximately 3,000
+ 
+mL/kg
+ 
+d ay) unt il fo o d 
+int a ke beg ins, TPN, ora l fe eding a˜er aerocluxus.
+Ad b et ween t he age of 18 and 
+70
+ 
+ye ars who under went colore c t a l 
+s u rger y
+241
+G1: 121
+ana lysis (n
+ 
+=
+ 
+116)
+G2: 120
+Ana lysis (n
+ 
+=
+ 
+114)
+Time to ˚rst defe cat ion
+Time to ˚rst ˛ atus
+LO S
+C omplicat ions
+Shichinohe eta a l. (2017) 
+Ja p a n
+Not sp eci˚e d
+E lent al® fol low ing t he proto col: POD 0: 300
+ 
+mL, 
+commencing 5
+ 
+h a˜er the op erat ion and w hen t he pat ient 
+was able to sit up. POD 1Œ2: water and ED 900
+ 
+mL/d ay ; 
+p er iphera l p arentera l nut r it ion 500
+ 
+mL; POD 3: ED 300Œ
+900
+ 
+mL with t he st ar t of diet ar y int ake of hospit a l fo o d; 
+POD 4: me dium s olid diet. Elent al®: ˝e composit ion of 
+s olut ion prep are d is 1
+ 
+kc aL/mL, 906
+ 
+mOsm/kg, and a 
+300
+ 
+mL solution (1 p ackage) cont ains 63.41
+ 
+g 
+c arb ohydrates (prov ide d as dextr in), 13.14
+ 
+g amino acids 
+(prov ide d as 17 amino acids including 9 ess ent i a l amino 
+acids), 0.51
+ 
+g of fat, and v it amins and minera ls
+POD 0: nil 
+per OS
+ and p eriphera l parentera l nut rit ion as 
+ne e ded; POD 1Œ2: Periphera l parentera l nutr it ion 2000
+ 
+mL.
+POD 3: Per iphera l parentera l nut r it ion 1,000
+ 
+mL; POD 4: 
+nor ma l diet.
+Ad under 76
+ 
+ye ars of age di ag nos e d 
+colore ct a l c ancer loc ate d in the 
+colon and t he re c tosigmoid, 
+pl anne d lap aros copic surger y, 
+histolog ica l ly proven colore c t a l 
+adeno carcinoma.
+102
+G1: 45
+A l loc ate d 51
+G2: 49
+A l loc ate d 51
+Time to ˚rst defe cat ion
+Time to ˛ atus
+LO S
+Naus e a/Vomiting
+C omplicat ions
+Sun etˇal. (2017)
+C hina
+Apr i l 2014ŒApr i l 2016
+Mu lt imo d a l e arly ora l nut r ition: (1) che w ing sugar-f re e 
+gum (30
+ 
+min 3 times per d ay) unt il ˚rst defe cat ion; (2) 
+app etite st imu lat ion (including pl ay ing a favorite fo o d-
+rel ated me di a program) [30
+ 
+min 3 times/d ay], se eing 
+colors of and t ast ing favor ite fo o ds [5
+ 
+min at least 3Œ4 
+t imes/day], watching other p e ople dine [15
+ 
+min 3 times/
+d ay] unti l ˚rst defe c at ion; (3) drin k ing water imme diately 
+on wa k ing and dr in k ing 100
+ 
+mL juice (orange juice, apple 
+juice or grap e juice, cont aining 30
+ 
+g of glucos e) 6
+ 
+h a˜er 
+surgery, ora l administrat ion of 300
+ 
+mL entera l nut r it ion 
+susp ension (Pept is orb liquid, Nut r icia) div ide d into 4Œ5 
+administ rat ions f rom 12
+ 
+h a˜er surger y ; entera l nut r it ion 
+500
+ 
+mL at 24
+ 
+h a˜er surger y, and oral int a ke gradu a l ly 
+incre as ed
+D ay of surger y : 6
+ 
+h a˜er the op erat ion, p arenteral nut r it ion 
+st ar te d in bot h g roups. From POD2 to POD7, p arenteral 
+nut r ition was init i ate d a˜er 6
+ 
+p.m. if ora l nut rit ion was not 
+suˆcient.
+C onvent iona l care: p at ients were s ent to t he ward, inta ke of 
+water and 300
+ 
+mL enteral nut r ition susp ension (Pept is orb 
+liquid, Nut r ici a) that was div ide d into 4Œ5 administrat ions 
+was commence d a˜er the ˚rst defec at ion, and oral int a ke 
+was g radua l ly incre ase d. Int a ke of water a˜er the op erat ion 
+according to t he p at ients™ w ishes. Bot h reg imens were 
+is onit rogenous [0.2
+ 
+g/kg (±0.01 Kc a l) (±5%)] and is oc a lor ic 
+[24 Kca l/kg (±1.2 Kc a l) (±5%)]. Vit amins and ele c t rolytes 
+were added as re quire d.
+Ad undergoing maj or ab dominal 
+s u rger y
+107
+G1:53
+G2:54
+Time to ˚rst defe cat ion
+Time to ˛ atus
+LO S
+(C ontinued)
+Canzan et al.
+ 
+10.3389/fnut.2024.1369141
+Frontiers in 
+Nutrition
+09
+frontiersin.org
+TABLE˜1
+ 
+(Continued)
+Author, year, 
+countr y Time of 
+RCT
+Intervention (G1)
+Control (G2)
+Study population
+Sample size
+Outcomes 
+investigated
+Wend ler etˇal. (2022)
+Brazi l
+Not sp eci˚e d
+24-h postop erat ive per io d: liquid diet +1,000
+ 
+mL of ringer 
+l a ct at e
+s olut ion, 1,000
+ 
+mL of glucos e s olut ion, ant ibiot ic 
+prophy l axis
+(Kefazol 1
+ 
+g 8/8
+ 
+h), ana lgesics and ant iemet ics, w hen 
+needed.
+48
+ 
+h p ostoperat ive per io d: restr ic te d liquid diet
+36
+ 
+h p ostoperat ive per io d: 500
+ 
+mL of ringer l act ate, 500
+ 
+mL 
+of g lucos e s olut ion, ana lgesics, and ant iemet ics if 
+ne cess ar y.
+24-h postop erat ive per io d: fast ing +2000
+ 
+mL of physiolog ic 
+s olut ion, 1,000
+ 
+mL of glucos e s olut ion, ant ibiot ic 
+prophy l axis (Kefazol 1
+ 
+g 8/8
+ 
+h), ana lgesics, and ant iemet ics, 
+if ne ede d.
+48
+ 
+h p ostoperat ive per io d: restr ic te d liquid diet
+36
+ 
+h p ostoperat ive per io d: 1000
+ 
+mL of physiolog ic a l 
+s olut ion, 1,000
+ 
+mL of glucos e s olut ion, ana lgesics, and 
+ant iemetics, if ne e de d.
+Pat ients indic ate d for R oux-en-Y 
+gast ro j ejuna l Byp ass, BMI
+ 
+>
+ 
+35
+ 
+kg/
+m
+2
++ hyp ertension and/or diab etes 
+or BMI 40Œ46
+ 
+kg/m
+2
+, surgic a l 
+t ime
+ 
+<
+ 
+120
+ 
+min
+ 
++
+ 
+pro ce dure by t he 
+s am e  t e am .
+80
+G1:40
+G2:40
+NA
+Time to ˚rst ˛ atus
+Na u s e a
+E R AS
+R en etˇal. (2012)
+C hina
+Ju ly 2007ŒMay 2010
+ER AS proto col. Ora l int ake of c arb ohydrate-lo ade d liquids 
+unt i l 2
+ 
+h b efore surger y, drin k ing 500
+ 
+mL of water as e arly 
+as 6
+ 
+h a˜er surger y, incre as e d to 1,000
+ 
+mL combine d w it h 
+500
+ 
+mL of nut r it iona l supplements on each POD. ˝e 
+p at ients shi˜e d to a cle ar liquid diet a˜er the ˚rst ˛atus.
+˝e cont rol pat ients under went preoperat ive fasting and 
+did not st art ora l int ake (diet consisted of f u l l liquids) unt i l 
+t he ˚rst ˛ atus a˜er surger y.
+Ad b et ween 20 and 80
+ 
+ye ars of age 
+w ho underwent op en radica l 
+res e ct ion for colorec t a l cancer.
+676 (79 exclude d)
+G1: 299
+G2:298
+NA
+Time to ˚rst ˛ atus
+LO S
+C omplicat ions
+Ab di kar im etˇa l. (2015) 
+C hina
+June 2010ŒDe cember 2012
+ER AS proto col. Int raop erat ive: No NGT or drainage tub e; 
+POD 1: Soluble cont rast swal low study is done to che ck 
+t he anastomosis. If int ac t, ˛uids are st ar ted; POD 2: Pat ient 
+st ar te d on s o˜ fo o d. POD 3: Pat ient prog ress es to s olid 
+food.
+C onvent iona l: Int raop erat ive: rout ine use of ab domina l 
+drainage tubes. POD 1: keep NPO; POD 2: NPO; POD 3: 
+R emove NGT and liquids star te d POD 4: solid fo o d inta ke.
+Gast r ic cancer Ad, under 75
+ 
+ye ars 
+of age, who under went ele c t ive 
+l ap aroscopic-assiste d radica l 
+gastrec tomy.
+61
+G1: 30
+G2:31
+Time to ˚rst defe cat ion
+LO S
+C omplicat ions
+He etˇal. (2015)
+C hina
+Apr i l 2014ŒOc tob er 2014
+ER AS g roup: Water int ake b egan at 4
+ 
+h a˜er surger y and 
+liquid diet restore d 12
+ 
+h a˜er surger y.
+C onvent iona l care: if t he gast rointest inal t rac t restores 
+p er ist a lsis, anus exhaust, and defe c ation w it hout ab dominal 
+p ain or ab domina l distension, p at ients c an b eˇadvanced to 
+fe e d liquid fo o d, then g radu al ly to ordinar y foo d.
+Ad undergoing lap aros copic 
+h e p ate c tomy.
+99
+G1:50
+Ana lyze d 48
+G2:49
+Ana lyze d 38
+NA
+Time to ˚rst ˛ atus
+LO S
+C omplicat ions
+Mar i etˇal. (2016)
+It a l y
+Not sp eci˚e d
+ER AS proto col. POD 0: st ar t of ora l fe eding and remova l 
+of t he nasogast r ic tub e
+C onvent iona l care. POD0: ˝e NGT kept in pl ace, ni l by 
+mout h; POD1: st ar t of oral fe e ding and remova l of t he 
+nas ogast r ic tub e
+Ad age d over 70
+ 
+ye ars undergoing 
+ele ct ive colore ct a l l aparoscopic 
+s u rger y
+83
+G1:40
+38 ana lyze d
+G2:43
+NA
+Time to ˚rst ˛ atus
+LO S
+C omplicat ions
+L i ang etˇal. (2018)
+C hina
+August 2015ŒJune 2016
+ER AS proto col. POD 0: dr ink water 6
+ 
+h a˜er surger y ; 
+R est ric te d ev ˛uid; PONV e valu ate d and mult imo d a l 
+PONV prophy laxis; POD 1: Oral nut r itiona l supplements 
+(liquid) or s emi-liquid diet; rest r ic ted e v ˛uid; POD 2: ora l 
+s emi-liquid diet; stop maintenance ev ˛uid; POD 3: 
+nor ma l diet
+C onvent iona l. POD 0: fast; ˛uid t herapy at the dire c tion of 
+t he medic a l team (2500Œ3,000
+ 
+mL); PONV drugs or use d 
+b as ed on t he sy mptom of PONV; POD 1: fast or liquid if 
+gast rointestina l f unc tion was re covered; POD 2: liquid; 
+POD 3: liquid or s emi-liquid diet.
+Ad b et ween t he age of 16 and 
+85
+ 
+ye ars who under went 
+l ap aroscopic liver rese c t ion.
+126
+G1: a l loc ate d 60, 
+ana lyze d 58
+G2: a l loc ate d 66, 
+ana lyze d 61
+NA
+LO S
+Naus e a/Vomiting
+C omplicat ions
+(C ontinued)
+Canzan et al.
+ 
+10.3389/fnut.2024.1369141
+Frontiers in 
+Nutrition
+10
+frontiersin.org
+TABLE˜1
+ 
+(Continued)
+Author, year, 
+countr y Time of 
+RCT
+Intervention (G1)
+Control (G2)
+Study population
+Sample size
+Outcomes 
+investigated
+Mingjie etˇal. (2017)
+C hina
+S eptember 2013ŒAugust 
+2014
+ER AS rehabi lit at ion. POD1: NG tub e remove d, ora l ˛uids 
+0,5
+ 
+L; I/V ˛uids 1
+ 
+mL/Kg/h; POD2: stop I/V ˛uids if dr inks 
+>2000
+ 
+mL; oral diet init iate d f rom water to c arbohydrate 
+dr in k to entera l nut r it iona l susp ension, t hen to s emi˛uids 
+and nor ma l fo o d; POD 3Œ4: cont inue as ab ove
+C onvent iona l PO. POD1: Parenteral nut r ition unt i l ˛atus; 
+POD2: Parentera l nut r ition unt i l ˛atus; POD3-4: ora l liquid 
+st ar te d; POD 5Œ6: oral diet change d from liquids to 
+s emi˛uids and nor ma l fo o d
+Ad undergoing ele c tive 
+l ap aroscopic radic a l gast re ctomy 
+for c ancer
+152
+G1: 76 (3 not 
+re ceived 
+inter vent ion)
+G2: 76
+Time to ˚rst defe cat ion
+LO S
+C omplicat ions
+Kang etˇal. (2018)
+Ko r e a
+O c tob er 2012ŒAugust 2014
+ER AS proto col, w hich prov ides for e arly fee ding: D ay of 
+surgery : No NGT ins ert ion; ˛uid rest r ic t ion (1Œ2
+ 
+L), Po d1: 
+sips of water if tolerable; ˛uid restr ic t ion (1Œ2
+ 
+L)
+Po d2: semi˛uid diet if tolerable; Fluid remova l, Po d3: s o˜ 
+blende d diet, if tolerable
+C onvent iona l: Day of surgery : No NGT ins ert ion; Fluid 
+(D extros e 5% according to weight), Po d1: NPO; ˛uid 
+(D extros e 5% according to weight), Po d2: sips of water ; 
+Fluid (dextros e 5% according to b ody weig ht), Pod3: 
+s emi˛uid diet, Pod4: s o˜ blende d diet
+Ad age d 20 to 80
+ 
+ye ars, undergoing 
+tot a l ly lap aros copic dista l 
+gast re ctomy for gast ric c ancer
+97
+G1:46
+G2:51
+NA
+LO S
+PO ˚rst ˛ atus
+C omplicat ions
+G eubb els etˇal. (2019), 
+Ne t he rland s
+Janu ar y 2013ŒJu ly 2014
+ER AS proto col. A˜er surgery : No nas ogast ric tubing
+E arly oral fe e ding , rest r ic te d administ rat ion of ˛uids, 
+C le ar ant iemet ic proto col
+Nas ogast r ic tubing on t he indic at ion, No e arly ora l fe eding
+C onvent iona l administ ration of ˛uids, No cle ar ant iemetic 
+proto col, at the dis cretion of t he c aring st a˙
+Ad <76
+ 
+ye ars, BMI was 40
+ 
+kg/m
+2
+ or  
+ab ove or 35
+ 
+kg/m
+2
+, undergoing 
+ele ct ive l ap aroscopic R oux-en-Y 
+gast r ic byp ass surgery
+220
+G1: 110
+G2: 110
+intent ion-to-t re at
+NA
+LO S
+Naus e a/Vomiting
+C omplicat ions
+Hwang etˇal. (2019)
+Ko r e a
+March 2015ŒMay 2017
+ER AS Guidelines: Pre vent ing PO naus e a and vomit ing 
+w it h prok inet ic agents; PO glycemic cont rol; E arly ora l 
+int a ke (PO ar t i˚cia l nut r it ion not rout inely applied); 
+St imul at ion of b owel movement (oral l axat ives and 
+che w ing gum); Ar ti˚ci a l nut r it ion in the c as e of del aye d 
+gast r ic empt y ing .
+C onvent iona l: PO glycemic cont rol; PO nas ogast r ic 
+intub at ion; Prob ably fast ing
+Ad <76
+ 
+ye ars of age undergoing 
+ele ct ive op en 
+p ancreatico duo denec tomy
+276
+G1:138
+123 Ana lyze d
+G2: 138
+124 Ana lyze d
+NA
+LO S
+C omplicat ions
+L i etˇal. (2019)
+C hina
+June 2014ŒJune 2017
+ER AS g roup: ˝e ER AS group fo c us e d on the ne e ds of the 
+p at ients and avoide d excessive ˛uid int a ke, main ly as oral 
+water supplement at ion to pre vent gast rointest ina l e dema
+C onvent iona l group: Glucose s a line and amino acid were 
+administere d e v on t he day of surger y, w hich was 
+re as onably cont rolle d according to t he p at ient™s 
+physiolog ica l re quirements, inta ke, and output.
+C ancer Ad age d 55 to 65
+ 
+ye ars 
+undergoing ele c t ive l ap aros copic 
+colore ct a l surgery
+200
+G1:100
+G2:100
+Time to ˚rst defe cat ion
+PO exhaust
+C omplicat ions
+(C ontinued)
+Canzan et al.
+ 
+10.3389/fnut.2024.1369141
+Frontiers in 
+Nutrition
+11
+frontiersin.org
+TABLE˜1
+ 
+(Continued)
+Author, year, 
+countr y Time of 
+RCT
+Intervention (G1)
+Control (G2)
+Study population
+Sample size
+Outcomes 
+investigated
+Wang etˇal. (2019)
+C hina
+MarchŒO ctob er 2016
+Attempt to drin k war m water (B50 mL/h) 6
+ 
+h a˜er surger y. 
+R out ine pre vent ion of naus e a and vomit ing for 2Œ3
+ 
+d ays; 
+POD1: Oral ˛uid int ake 500
+ 
+mL, ev ˛uid volume reduce d, 
+c a loric int a ke 25Œ30
+ 
+kc a l/kg per day; NGT remove d 
+according to accepte d criter i a for extub at ion; ora l l actu los e 
+for 2
+ 
+d ays (in genera l) and stoppe d a˜er passing of ˛atus; 
+C he wing gum; POD2: Oral ˛uid int a ke 1,000
+ 
+mL, liquid 
+diet, ev ˛uids re duced; POD 3: Oral ˛uid int a ke 1,500
+ 
+mL, 
+liquid diet incre as ed, e v ˛uid reduce d; POD 4: fre quent 
+sma l l amounts of ora l ˛uids, sma ll amounts of semi-liquid 
+fo o ds (por r idge, no o d les, or ot her s o˜ foo ds), e v ˛uids 
+stopp e d if possible, and ora l int a ke incre as e d; POD 5: 
+f re quent sma l l amounts of ora l ˛uids, g radua l t ransit ion to 
+tot a l semi-liquid diet and s o˜ foo ds; tot a l inta ke 
+m ai nt ai n e d .
+No water for 6
+ 
+h b efore surger y. POD 1, out-of-b ed 
+ac t ivit ies were arrange d according to t he w i ll of t he 
+p at ients. ˝e number of e v ˛uids was not cont rol led, and 
+ora l ˛uids and fo o d were per mitted a˜er ˛ atus was p ass e d.
+Gast r ic cancer Ad <76
+ 
+ye ars of age 
+undergoing ele c t ive radic a l 
+gastrec tomy
+60
+G1:30
+G2:30
+Time to ˚rst defe cat ion
+LO S
+Time to ˚rst ˛ atus
+Naus e a/Vomiting
+C omplicat ions
+C ao etˇal. (2021)
+C hina January 2014Œ
+D e cemb er 2018
+ER AS proto col, w hich prov ides for e arly fee ding: 
+Int raoperat ive: No NGT drainage; ora l int a ke of a little 
+cle ar water a˜er-e˙ec ts of anest hesia dis app ear ; POD1: 
+St ar t of cle ar liquid diet at dinner; POD3: St ar t of so˜ diet 
+as tolerated
+Int raoperat ive: R outine us e of NGT drainage
+PO: Ev infusion of 2.0Œ3.0
+ 
+L of R inger l act ate for 3
+ 
+d ays; 
+st ar t to dr in k water if bowel sounds are he ard; diet build-up 
+f rom t he d ay a˜er ˛ atus; t hre e steps (cle ar liquid-fu l l liquid-
+s o˜ diet)
+Ad age d 65 to 85
+ 
+ye ars, wit h 
+pr imary gast r ic c ancer, undergoing 
+ele ct ive l ap aroscopy-assiste d 
+radic al gast re ctomy.
+171
+G1: 85
+G2: 86
+Time to ˚rst defe cat ion
+Time to ˚rst ˛ atus
+LO S
+Ev, int ravenous; Ad, adu lts; POD; Postop erative Day, ER AS; Enhance d R e cover y A˜er Surger y ; LOS, lengt h of postoperat ive stay NGT; Nas ogast r ic tub e, NPO; Ni l p er os.
+Canzan et al.
+ 
+10.3389/fnut.2024.1369141
+Frontiers in 
+Nutrition
+12
+frontiersin.org
+S e ven out of eig ht studies, w hich were not p oole d in t he met a-ana lysis, 
+showed a st at istic a lly sig ni˚cant di˙erence in t he time to the ˚rst ˛atus in  
+favor of t he inter vent ion (
+Supplement ar y Fi le S6
+). Two of thes e studies  
+involved early fe e ding (
+65
+,
+ 
+68
+), w hile t he remaining us ed the ER AS  
+program (
+51
+,
+ 
+57
+,
+ 
+58
+,
+ 
+63
+) or mult imod a l inter vent ions (
+45
+,
+ 
+48
+). One study  
+investigat ing a mu lt imod a l inter vent ion rep or ted no di˙erences b etwe en  
+t he g roups (
+72
+).
+3.3.3 Los
+A l l but t wo of t he 34 include d studies e va lu ate d LOS. Po ole d 
+d at a f rom 16 studies w it h low cer t aint y of e v idence showe d t hat 
+e arly fe eding , eit her a lone or as p ar t of a l arger prog ram, may le ad 
+to a re duce d p ostop erat ive hospit a l st ay (2,819 p at ients; MD 
+˜
+1.31
+ 
+d ays; CI 95% 
+˜
+1.59, 
+˜
+1.03
+ 
+d ays; I2 83%, 
+Tableˇ2
+;
+ 
+Supplement ar y File S8
+).
+Sixte en studies rep or te d me di an va lues, and in ha lf of t hes e  
+studies, e arly fee ding favore d t he intervent ion g roup w it h st at ist ic a l ly  
+sig ni˚cant resu lts (
+Supplement ar y Fi le S6
+), b ot h as a sing le  
+inter vent ion (
+45
+,
+ 
+65
+) and w hen emb edde d in a mu lt imo da l (
+40
+,
+ 
+56
+)  or  
+ER AS prog ram (
+51
+,
+ 
+57
+,
+ 
+58
+,
+ 
+63
+).
+3.3.4 Complications
+˝ir ty-t hre e studies (94.2%) invest igate d t he o ccur rence of  
+p ostoperat ive complic at ions and were p o ole d in the meta-ana lysis to  
+ass ess t he r isk li keli ho o d of inc urr ing at le ast one complic at ion. ˝e most  
+common complic at ions were anastomotic le a kage and wound infe ct ion  
+(
+Supplement ar y Fi le S9
+). Wit h moderate cert aint y of t he ev idence, early  
+fe e ding , eit her a lone or as par t of a l arger program, may re duce the risk  
+of inc ur r ing at le ast one complic at ion by 31%, w it h the r isk re duc t ion  
+rang ing f rom 41 to 20% compared to del aye d fee ding (4,887 part icipants;  
+RR 0.69; CI 95% 0.59, 0.80; I
+2
+ 34%, 
+Supplement ar y Fi le S10A
+).
+3.3.5 Vomiting
+Vomit ing was rep or te d in 15 studies. B as e d on a met a-ana lysis of  
+13 studies, t here is mo derate cer t aint y in the e v idence t hat e arly  
+fe e ding , either a lone or as p ar t of a l arger prog ram, has no overa l l  
+e˙e c t on vomiting comp are d to delayed fe e ding (2,856 p at ients; RR  
+0.90; CI 95% 0.68, 1.18; I
+2
+ 32%, 
+Supplement ar y Fi le S10B
+).
+3.4 Subgroup and sensitivity analyses
+˝e subg roup ana lysis was p er for me d for t he ˚rst p ass age of t he 
+sto ol, t he ˚rst ˛ atus, and LOS due to t he signi˚c ant heterogeneit y 
+dete c te d in t he overa l l analysis. ˝e subg roup ana lysis b as e d t he 
+t yp e of t he inter vent ion (e arly ora l fe e ding vs. mu lt imo d a l/ER AS 
+inter vent ions) re ve a le d no di˙erences in t he t ime to t he ˚rst p ass age 
+of t he sto ol (
+Supplement ar y Fi les S11A, S12
+ studies) and t he ˚rst 
+˛ at u s  (
+Supplement ar y Fi les S12A, S13
+ studies). Howe ver, 
+mu lt imod a l or ER AS prog rams le d to a gre ater re duc t ion in LOS 
+(
+p
+ 
+=
+ 
+0.02, 
+Supplement ar y Fi les S13A, S16
+ studies). Howe ver, 
+heterogeneit y remained hig h among subg roups for a l l t he outcomes. 
+TABLE˜2
+ 
+Summary of ˚ndings Table.
+Outcome 
+‘
+ of  
+participants 
+(studies)
+Relative 
+e˜ect (95% 
+CI)
+Anticipated absolute e˜ects (95% CI)
+Certainty
+What happens
+Without 
+early feeding
+With early 
+feeding
+Di˜erence
+First pass age of stool N of 
+p ar t icip ants: 2112 (12 
+RCTs)
+Œ
+Œ
+MD 
+0.99
+ 
+d ays l ower
+ 
+(1.25 lower to 0.72 
+lower)
+˛˛˛˝
+ 
+Mo derate
+a,b
+E arly fe eding may result in a 
+l arge re duc t ion in the t ime of 
+˚ rst  p a ss age  of  sto ol.
+First Flatus N of 
+p ar t icip ants: 2496 (13 
+RCTs)
+Œ
+Œ
+MD 
+0.7
+ 
+d ays l ower
+ 
+(0.87 lower to 0.53 
+lower)
+˛˛˛˝
+ 
+Mo derate
+a,b
+E arly fe eding prob ably re duces 
+t he t ime to t he ˚rst ˛ atus.
+LOS N of par t icip ants: 
+2421 (12 RCTs)
+Œ
+Œ
+MD 
+1.54
+ 
+d ays l ower
+ 
+(1.98 lower to 1.1 
+lower)
+˛˛˝˝
+ 
+L ow
+a,b,c
+E arly fe eding may result in a 
+l arge re duc t ion of the 
+p ostop erat ive length of hospit a l 
+s t ay
+C omplicat ions N of 
+p ar t icip ants: 4887 (33 
+RCTs)
+RR 0.69
+ (0.59 to 
+0.80)
+23.5%
+16%
+ (13.9 to 
+18.8)
+7.3% fe wer
+ (9,7 fewer 
+to 4,7 fewer)
+˛˛˛˝
+ 
+Mo derate
+d
+E arly fe eding prob ably re duces 
+complicat ions.
+Vomit ing N of 
+p ar t icip ants: 2796 (12 
+RCTs)
+RR 0.89
+ (0.67 to 
+1.18)
+10.3%
+9.1%
+ (6.9 to 12.1)
+1.1% fe wer
+ (3,4 fewer 
+to 1,8 more)
+˛˛˛˝
+ 
+Mo derate
+e
+E arly fe eding li kely does not 
+re duce vomit ing .
+Pat ient or p opu l ation: p at ients undergoing gast rointest ina l surger y. Inter vent ion: Early ora l fe eding . C ompar is on: D elaye d ora l fee ding . 
+*
+˝e r isk in t he inter vent ion group (and its 95% 
+con˚dence inter va l) is b as e d on t he assumed risk in the comp ar ison g roup and t he rel at ive e˙ec t of t he inter vent ion (and its 95% CI). CI, con˚dence inter va l; LOS, L engt h of p ostop erat ive 
+hospit a l st ay ; MD, mean di˙erence; N, numb er ; RR , r isk rat io. GR ADE Working Group g rades of e vidence. High cer t aint y: weˇare ver y con˚dent t hat t he t r ue e˙ec t lies clos e to that of t he 
+est imate of t he e˙ec t. Mo derate cer t aint y: weˇare mo derately con˚dent in t he e˙e ct est imate: the t r ue e˙e c t is li kely to b eˇclos e to t he est imate of t he e˙e c t, but t here is a p ossibi lit y that it is 
+subst ant i al ly di˙erent. Low cer t ainty : our con˚dence in t he e˙e c t estimate is limite d: t he tr ue e˙e ct may b eˇsubst ant i a l ly di˙erent f rom the est imate of t he e˙e ct. Ver y low cer t aint y : weˇhave 
+ver y litt le con˚dence in t he e˙e c t est imate: t he t rue e˙e ct is li kely to b eˇsubst ant ia l ly di˙erent f rom t he est imate of e˙e c t. E xplanat ions: 
+a
+D ow ng rade d for inconsistenc y (Wide var i ance of point 
+est imates across studies and considerable heterogeneity). 
+b
+Funnel plots and Eg ger™s Test sug gest a public at ion bi as in favor of the inter vention. 
+c
+D ow ng rade d for indire c t ness (L engt h of hospit a l 
+st ay was deeme d to beˇin˛uenced by s e veral ot her intervent ions in the mu lt imo d a l and ERAS prog ram). 
+d
+D ow ng rade d for indirec t ness (outcome including di˙erent complic at ions: minor and 
+maj or complic at ions in a l l grades of Cl av ien-Dindo C l assi˚c at ion). 
+e
+D ow ng rade d for indirec t ness (include d various epis o des of vomit ing, naus e a and vomit ing , vomit ing and di ar rhe a).
+Canzan et al.
+ 
+10.3389/fnut.2024.1369141
+Frontiers in 
+Nutrition
+13
+frontiersin.org
+˝e subgroup ana lysis b ase d on the site of inter vent ion (colon and 
+re c t a l surger y vs. b owel/ab domina l/gast r ic surger y) showe d no 
+di˙erences in t he outcomes (
+Supplement ar y Fi les S11BŒS13B
+) . 
+Howe ver, a reduct ion f rom an overal l considerable (I
+2
+ 
+=
+ 
+85%) to 
+subst ant i a l (I
+2
+ 
+=
+ 
+52%) heterogeneit y was obs er ve d among studies 
+t arget ing colon and re c t a l surger y for t he outcome ﬁFirst ˛ atusﬂ 
+(
+Supplement ar y Fi le S12B
+).
+A l l t he s ensit ivity ana lys es con˚rme d t he resu lts obt aine d f rom 
+t he overa l l ana lysis (
+Supplement ar y Fi les S14ŒS18
+).
+3.5 E˜ects on outcomes by the type of oral 
+feeding
+A met a-ana lysis according to t he t ype of ora l fee ding or st ar t of the 
+ora l diet was not p ossible due to t he hig h heterogeneit y among studies.  
+Howe ver, a v isu a l represent at ion shows t hat t here is no hyp ot het ic a l  
+ass o ciation b et we en t he typ e of ora l fe e ding on the ˚rst postop erat ive  
+d ay and di˙erences in outcomes (
+Supplement ar y Fi le S19
+).
+4 Discussion
+4.1 Main ˝ndings
+To t he best of our k nowle dge, t his is the ˚rst re v iew ass essing t he  
+e˙e c tiveness of e arly ora l fe e ding , b ot h a lone and w it hin a w ider p er i-
+op erat ive prog ram, on t he re cover y of intest ina l mot i lit y among  
+p at ients undergoing gast rointestinal surger y. In 34 t ri a ls, our ˚ndings  
+sug gest t hat e arly ora l fe e ding may re duce the t ime to t he ˚rst  
+defe c at ion and ˛ atus w hi le re ducing t he lengt h of hospit a l st ay (LOS)  
+and p ostoperat ive complic at ions w it hout incre asing t he r isk of  
+vomit ing . Studies supp or t t he s afet y of e arly ora l fe e ding, whet her  
+st and a lone or w it hin bro ader prog rams. ˝e subg roup ana lysis  
+indic ates t hat t he inter vent ion t yp e and t he surger y site do not imp ac t  
+its e˙e c t iveness in re ducing t ime to ˚rst defe cat ion, ˛atus, and  
+LOS. However, mu ltimo d a l and ERAS prog rams show a g reater LOS  
+re duc t ion comp are d to studies on e arly ora l fe e ding a lone, p ossibly  
+due to addit iona l comp onents such as e arly mobilizat ion and diverse  
+p ain management st rategies.
+˝e expl anat ion for t he considerable st at ist ic a l heterogeneity 
+among studies may have b e en miss e d due to di˙erences in 
+inter vent ion comp onents, which made it diˆc u lt to g roup t he 
+studies. For example, Sun etˇa l. (
+56
+) invest igate d mu lt iple ora l 
+fe e ding st rateg ies, including app et ite st imu lat ion prog rams, 
+dr in k ing juice, entera l nut r ition susp ension, and t he us e of chew ing 
+gum, a l l of w hich demonst rate d eˆcac y in re ducing t he li keli ho o d 
+of p ostop erat ive i leus (POI) (
+73
+). R ele vant di˙erences in nas ogast r ic 
+tub e management were a ls o dete cted; for example, in some studies, 
+t he tub e was not p osit ione d (
+52
+), remove d according to accepte d 
+cr iter i a for extub at ing (
+60
+), or remove d w it hin 12Œ24
+ 
+h a˜er surgery 
+(
+38
+,
+ 
+50
+). Di˙erent t yp es of diet and st ar t t iming of ˛uids and s olid 
+fo o d were dete cte d, w it h or wit hout p arentera l nut r it ion (
+53
+) or ora l 
+supplements (
+56
+,
+ 
+57
+). ˝e administ rat ion of ˛uids a lone (
+38
+) 
+comp are d w it h a s o˜ diet on t he ˚rst postoperat ive d ay, as wel l as 
+administer ing l ac tu los e (
+60
+) or l axat ives (
+61
+), cou ld a ls o a˙e c t t he 
+re cover y of intest ina l moti lit y.
+We cou ld not c ategor ize ar t icles by fee ding mo d a lit y due to  
+missing infor mat ion, ter minology var iat ions, and di˙erences in the 
+t iming and t yp e of diets. C ons e quent ly, re commend at ions on t he most  
+b ene˚cia l e arly oral fe e ding t yp e for invest igate d outcomes are  
+unavai l able. D espite divers e concepts and t imings of ﬁe arly oral  
+fe e ding ,ﬂ a l l e˙e c t est imates for t he pr imar y endp oint, ˚rst sto ol  
+p ass age, consistent ly favor sig ni˚cance.
+In addit ion, di˙erences in t he t yp e of intervent ion and t he  
+underly ing pat holog y cou ld di˙erent ly imp ac t t he incidence and  
+lengt h of POI, LOS, and complic at ions and, t herefore, incre as e the  
+st at ist ic a l heterogeneity among studies. Howe ver, ana lyzing t he ˚rst  
+sto ol p ass age as a proxy for p ostop erat ive i leus (POI), weˇconducte d a  
+subg roup ana lysis comp ar ing colon-re c t a l inter vent ions to b owel,  
+ab domina l, and gast r ic surger ies. No outcome di˙erences were  
+obs er ve d, aˆr ming t he reli abi lit y of t he resu lts.
+More over, di˙erences b et we en count r ies mig ht b eˇrele vant in  
+ter ms of prog ress in surgery te chniques and p er iop erat ive  
+management proto cols.
+D espite t he sig ni˚c ant heterogeneit y among t he studies, resu lts  
+supp or t t he s afe and b ene˚ci a l transferabi lit y of e arly ora l fe e ding in  
+clinic a l prac t ice. Howe ver, public at ion bias in favor of e arly fe e ding  
+for t he t ime to ˚rst defe cat ion, ˚rst ˛ atus, and LOS among studies  
+include d in t he met a-ana lysis shou ld b eˇconsidere d in inter pret ing  
+resu lts since it might resu lt in overest imat ing e˙e c ts. Howe ver, among  
+t he studies not include d in t he met a-analysis, t wo, one, and eight  
+studies w it h no st at ist ic a l ly signi˚c ant resu lts were found for t he t ime  
+to t he ˚rst defe c at ion, ˚rst sto ol, and LOS, resp ec t ively. ˝is b a l ances  
+t he public at ion bi as, f ur t her mit igate d by t he negat ive rat ing assig ne d  
+by applying t he GR ADE appro ach, t hus re ducing t he qu a lit y of t he  
+e v idence. According to t he GR ADE appro ach, t he resu lts are b as e d on  
+a mo derate qua lit y of e v idence for the ˚rst p ass age of sto ol, the ˚rst  
+˛ atus, complic at ions, and vomit ing , me aning t hat weˇare mo derately  
+con˚dent t hat t he t r ue e˙ec t is li kely to b eˇclos e to t he est imate of t he  
+e˙e c t. ˝e e v idence was rated low qu a lit y for t he LOS, re ducing our  
+con˚dence in t he e˙ec t est imate b e c aus e t he t r ue e˙e c t may  
+b eˇsubst ant i a lly di˙erent.
+4.2 Comparison with previous evidence
+O ur ˚ndings were most ly consistent w it h t he e v idence avai lable  
+on t he t ime to ˚rst sto ol p ass age, LOS, and vomiting , w hi le dis cord ant  
+resu lts emerge d on complic at ions. Weˇcomp ared our ˚ndings w it h  
+t hos e of ˚ve re cent ly published re v ie ws on t he e˙e c t iveness of early 
+fe e ding in gast rointest ina l surger y (
+28
+) (14 studies), digest ive t rac t  
+surger y (
+29
+) (11 studies), lower gast rointest ina l surger y (
+22
+) (17  
+studies), and colore c t a l surger y [7 studies (
+30
+), plus 8 of on ly  
+˛uids (
+27
+)].
+We found a simi l ar re duc t ion in t he t ime to t he ˚rst defe cation  
+(
+28
+) (
+˜
+0.99 vs. 
+˜
+1
+ 
+d ay) in t he g roup re ceiv ing e arly nut r itional supp or t  
+comp are d to t hos e re ceiv ing del aye d fe eding (
+28
+).
+According to pre v ious rev ie ws, e arly fe eding re duces LOS (
+22
+,
+ 
+28
+,
+ 
+30
+); howe ver, weˇfound a sma l ler re duct ion of 
+˜
+1.31
+ 
+d ays comp are d  
+to  
+˜
+1.59
+ 
+d ays (
+30
+), 
+˜
+1.95
+ 
+d ays (
+22
+), and
+ 
+˜
+ 
+2.29
+ 
+d ays (
+28
+).
+By comp ar ing the f indings on complic at ion pre vent ion, 
+dis cord ant resu lts emerge d. Sp ecif ic a l ly, weˇfound a signif ic ant 
+re duc t ion in t he li keli ho od of inc urring a p ostop erat ive 
+Canzan et al.
+ 
+10.3389/fnut.2024.1369141
+Frontiers in 
+Nutrition
+14
+frontiersin.org
+complic at ion, according to t wo pre v ious re vie ws w it h almost 
+simi l ar st at ist ic a l ly sig nif ic ant resu lts [RR 0.70 comp ared to 0.70 
+(
+30
+), 0.72 (
+29
+), and 0.61 (
+28
+)]. In addit ion, our p osit ive results on 
+complic at ions are f ur t her supp or te d by t he re v ie w of Shu and 
+col le agues (
+29
+), which showe d a re duc t ion in infe c t ious 
+complic at ion rates (RR 0.50, CI95% 0.38, 0.67). Howe ver, two 
+re v ie ws rep or te d no ef fe c ts on complicat ion pre vent ion by early 
+fe e ding (
+22
+,
+ 
+27
+), but Herb er t and col leagues™ re v ie w was not 
+ent irely comp arable w it h our resu lts, as t he authors ana lyze d t he 
+r isk of mor t a lit y, anastomot ic le a kage, wound infe c t ion, 
+ab domina l abscess, and pneumoni a s ep arately. Regarding naus e a 
+and vomit ing , t his re v ie w found no e v idence of t he b enef ici a l 
+ef fe c t of early fe e ding , w hich is consistent w ith t he pre v ious 
+literature (
+22
+,
+ 
+27
+,
+ 
+30
+).
+˝erefore, f uture rese arch shou ld fo c us on t he e˙e c t of e arly ora l  
+fe e ding on LOS to con˚r m t he consistency of our p osit ive ˚ndings.  
+Fur t her more, despite t he mo derate con˚dence in the e˙e c t est imate,  
+more studies are ne e de d to invest igate the e˙e c t of e arly fe e ding on  
+s e veral t yp es of complic at ions since weˇinvest igate d t he r isk of at le ast  
+one complic at ion w it hout spe cif y ing it.
+O t her sug gestions for f uture res e arch, gat here d by comp ar ing 
+w it h pre v ious res e arch studies, encomp ass t he ne e d for a 
+st and ardize d def init ion of early ora l fee ding and the ne e d to 
+invest igate t he rel at ionship b et we en dif ferent mo d a lit ies of e arly 
+ora l fe e ding w it h components of t he multimo d a l prog ram 
+re commende d by t he ERAS guidelines (
+19
+). The l ack of cl ar it y on 
+t he typ e of fo o d, st ar t t iming , and fo o d consistenc y could 
+t hre aten t he reli abi lit y of t he comp ar is on b et we en studies, and 
+f ur t her ef for ts shou ld b eˇ de vote d to s olv ing t his issue by 
+ac ademics and clinici ans. This cou ld beˇhelp e d by a more det ai le d 
+rep or t ing of interventions in t he publishe d studies. According to 
+t he ER AS guidelines, e arly ora l fee ding is considere d s afe in 
+p at ients w it h a ne w non-diver te d colorec t a l anastomosis, st ar t ing 
+4
+ 
+h p ost-surger y. Fur t her more, adopting a low residue diet and 
+incor p orat ing ora l nut r it iona l supplements mig ht b etter improve 
+outcomes (
+19
+). Howe ver, weˇwere not able to conf ir m t hes e 
+resu lts or prov ide f ur t her re commend ations due to heterogeneit y 
+among studies. Therefore, weˇsug gest addit iona l res e arch to 
+deter mine t he b est typ e of e arly diet and its most ef fe c t ive 
+combinat ion w it h ot her p eriop erat ive intervent ions. 
+Fur t her more, dif ferences in surgery sites and te chniques shou ld 
+b eˇf urt her invest igate d as confounders of t he ef fe c t of e arly oral 
+fe e ding on POI and LOS.
+4.3 Strengths and limitations
+˝is rev ie w has s ome st rengths and limit ations. ˝e inclusion of  
+studies ass essing t he mu lt imod a l or ER AS program was considered  
+b ot h a we a k ness and a st rengt h p oint. Sp eci˚c a l ly, our ˚ndings might  
+have b een bi as e d by ot her inter vent ions, including t he us e of opioids,  
+vomit ing pre vent ion proto col, p arentera l nut r it ion, and e arly  
+mobi lizat ion. Howe ver, t he subg roup ana lysis con˚r me d t he b ene˚t  
+of e arly fe e ding a lone and prov ide d e v idence for the e˙e c t iveness of  
+mu lt imo d a l and ERAS inter vent ions in promot ing recovery of  
+intest ina l moti lit y and LOS. ˝is subgroup ana lysis was p ossible since  
+weˇinclude d e arly ora l fe eding b oth as a single inter vent ion or a  
+comp onent of complex inter ventions, w hich is di˙erent f rom pre vious  
+re v ie ws. Inde e d, avai l able re v ie ws include d studies only on ora l  
+fe e ding or mu lt imo d al inter ventions, w it h a range of 7 (
+26
+,
+ 
+27
+,
+ 
+30
+)  to  
+17 (
+22
+) studies, w hi le weˇgat here d 34 studies.
+C ombining complicat ions into a single outcome p oses a limit ation in  
+ass essing the p ostop erative r isk, p otent i a lly y ielding bi ase d results due to  
+var i at ions in s e ver it y. E arly fee ding may not beˇdire ct ly linke d to many  
+detec te d complic at ions, and outcomes cou ld b eˇin˛uence d by  
+p eriop erat ive pat ient management in studies incor p orat ing mu lt imo d a l 
+or ER AS prog rams. If st at ist ic al ly sig ni˚cant resu lts favore d t he  
+inter vent ion, con˚dence in est ablishing a dire c t ass o ci at ion b etwe en e arly  
+fe eding and mort a lity, blee ding, anastomot ic le a kage, and infe ct ions  
+wou ld b eˇuncer t ain. Vomit ing was t he on ly dire c tly ass o ciable  
+complic at ion, and weˇp er for me d a s ep arate ana lysis for it.
+Addit iona l ly, our study did not sp e cif y a public ation t ime f rame,  
+encomp assing studies from 1995 to 2021. ˝is l ack of temp ora l sp e ci˚cit y  
+cou ld have int roduce d p otent i a l in˛uences f rom advancements in  
+surg ica l te chniques and LOS re duc t ion. Ne vertheless, up on s crutinizing  
+t he ext rac te d dat a, weˇfound no linear improvement in LOS or ot her 
+outcomes b as ed on the public at ion ye ar or t he study™s count ry.
+Fina l ly, there was subst ant i al heterogeneit y in t he surger ies  
+include d in ter ms of (i) t he t yp e (upp er and lower gast rointest ina l  
+surger ies and hep atobi liop ancre atic pro ce dures); (ii) t he underly ing  
+dis e as e (b enig n dise as es and malig nant tumors); (iii) t he complexit y  
+(l ap aros copic chole c ystec tomy and s ome b ar i atric surger ies have a  
+lower risk of POI, comp are d to p ancre at ico duo dene ctomy or  
+colore c t a l surger ies); and (iv) t he surgic a l appro ach (b ot h op en and  
+minima lly invasive surgic a l appro aches were gat here d). ˝is merger  
+re as onably may have imp acte d t he resu lts. Howe ver, weˇst il l consider  
+t hat t he resu lts are reliable and genera lizable.
+5 Conclusion
+O ur study supp orts the prac t ice of p ostop erative early ora l 
+fe e ding as a stand a lone intervent ion or w it hin a mult i-comp onent 
+program, including t he ERAS protocol, a˜er gast rointest ina l surger y, 
+esp eci a lly refer r ing to colore ct a l, b owel, ab dominal, and gast ric 
+surger ies. Weˇshowe d t hat p ostop erat ive e arly ora l fe e ding may 
+shor ten the t ime of t he ˚rst p ass age of t he stool by 1
+ 
+d ay on average, 
+t hereby re ducing POI by fastening intest ina l mobi lit y. ˝is cou ld 
+help to improve t he nut rit iona l st atus and autonomy re cover y and 
+pre vent complicat ions and prolonge d LOS (
+6
+,
+ 
+9
+Œ
+11
+). Inde ed, our 
+resu lts supp or t mo derate con˚dence to a 30% re duc t ion in t he r isk 
+complic at ions and a de cre ase of 1.3
+ 
+d ays in LOS, e ven t hough t he 
+e˙e ct on LOS is of lower con˚dence.
+Data availability statement
+˝e or ig ina l cont r ibutions presente d in t he study are include d in  
+t he ar t icle/
+Supplement ar y mater i a l
+, f ur t her inquir ies c an b eˇdire c te d  
+to t he cor responding author.
+Author contributions
+FC: C onceptu a lizat ion, Met ho dolog y, Proj e ct administ rat ion,  
+Wr it ing Œ re v ie w & edit ing . JL: For ma l ana lysis, Invest igat ion,  
+Canzan et al.
+ 
+10.3389/fnut.2024.1369141
+Frontiers in 
+Nutrition
+15
+frontiersin.org
+Visu a lizat ion, Wr it ing Œ or igina l dra˜. AC: Invest igat ion,  
+Met ho dolog y, Wr it ing Œ re v ie w & e dit ing. MC: C onceptua lizat ion,  
+Met ho dolog y, Wr it ing Œ re v ie w & e dit ing . EM: Invest igat ion,  
+Met ho dolog y, Wr iting Œ re v ie w & e dit ing . SP: C onceptu a lizat ion,  
+Met ho dolog y, Wr it ing Œ rev ie w & e dit ing . EA: D at a curat ion,  
+Invest igat ion, Met ho dolog y, Proj e c t administ ration, Writing Œ rev ie w  
+& e dit ing .
+Funding
+The aut hor(s) de cl are t hat no f inanci al suppor t was 
+ 
+re ceive d for t he res e arch, authorship, and/or publicat ion of 
+t his ar t icle.
+Acknowledgments
+˝e University of Verona is ack now le dge d for t he suppor t  
+prov ide d t hroug h t he ext raordinar y universit y f und for O p en  
+Access public at ions.
+Con˛ict of interest
+˝e authors de cl are that t he rese arch was conduc ted in the 
+abs ence of any commerci a l or ˚nanci a l rel at ionships that cou ld  
+b eˇconst rue d as a p otent i a l con˛ic t of interest.
+Publisher's note
+A l l cl aims expresse d in t his art icle are s olely t hos e of t he aut hors and  
+do not ne cess ar i ly represent t hos e of t heir aˆ li ate d organizations, or t hose  
+of t he publisher, t he editors and t he re v iewers. Any produc t t hat may  
+b eˇe va lu ated in t his ar t icle, or cl aim t hat may b eˇmade by its manufacturer,  
+is not gu arante e d or endorse d by the publisher.
+Supplementar y material
+˝e Supplementary mater i a l for t his ar t icle c an b eˇfound on line  
+at: 
+https://w w w.f ront iersin.org/ar t icles/10.3389/f nut.2024.1369141/
+f u l l#supplement ary-mater i a l
+References
+ 
+1.
+ 
+Venara A, Neun list M, Slim K, B arbieux J, C ol as PA, Hamy A, et a l. Postop erat ive 
+i leus: p at hophysiology, incidence, and pre vent ion. 
+J  Vi s c  Sur g
+. (2016) 153:439Œ46. doi: 
+10.1016/j.jviscsurg .2016.08.010
+ 
+2.
+ 
+Bus c ai l E, D erais on C. Postop erat ive i leus: a phar macolog ica l persp e ct ive. 
+Br J 
+P har macol
+. (2022) 179:3283Œ305. doi: 
+10.1111/bph.15800
+ 
+3.
+ 
+Sui C, Tao L, B ai C, Shao L, Mi ao J, C hen K, et al. Mole c u lar and cellu l ar 
+me chanisms underly ing p ostop erat ive p ara lyt ic ileus by various immune cel l t ypes. 
+Front  P har macol
+. (2022) 13:929901. doi: 
+10.3389/f phar.2022.929901
+ 
+4.
+ 
+Brag g D, E l-Sharkaw y AM, Ps a lt is E, Maxwel l-Ar mst rong CA, L obo DN. 
+Postop erat ive i leus: re cent developments in p at hophysiology and management. 
+C lin  
+Nu t r
+. (2015) 34:367Œ76. doi: 
+10.1016/j.clnu.2015.01.016
+ 
+5.
+ 
+He dr ick TL, McEvoy MD, Myt hen MMG, B ergamas chi R , Gupt a R , Holubar SD, 
+et a l. Amer ic an S ociet y for En hanced R e cover y and Per iop erat ive Q ua lit y Init i at ive Joint 
+C ons ensus St atement on p ostop erative gast rointestina l dysf unct ion w it hin an en hance d 
+re covery p at hway for elec t ive colorec t a l surger y. 
+An e s t h  An a l g
+. (2018) 126:1896Œ907. 
+doi: 
+10.1213/ANE.0000000000002742
+ 
+6.
+ 
+Sme ets BJJ, Luyer MDP. Nutr it iona l intervent ions to improve re covery from 
+p ostop erat ive i leus. 
+Cur r Opin Clin Nutr Metab C are
+. (2018) 21:394Œ8. doi: 
+10.1097/
+MC O.0000000000000494
+ 
+7.
+ 
+C hapman SJ, ˝or pe G, Va l lance AE, Har ji DP, L e e MJ, Fe ar n he ad NS. Systemat ic 
+re v ie w of de˚nit ions and outcome measures for retur n of b owel f unct ion a˜er 
+gast rointestina l surgery. 
+BJS Open
+. (2019) 3:1Œ10. doi: 
+10.1002/bjs5.102
+ 
+8.
+ 
+Bugae v N, Bhatt achar ya B, C hiu WC, C omo JJ, Cr ipps MW, Fer rad a P, et a l. 
+Promot i lity agents for t he t re at ment of i leus in adu lt surg ica l p at ients: a pract ice 
+management guideline f rom t he e aster n Ass o ci at ion for t he Surgery of t rauma. 
+J Trauma 
+Acute Care Surg
+. (2019) 87:922Œ34. doi: 
+10.1097/TA.0000000000002381
+ 
+9.
+ 
+C hapman SJ, Per icle ous A, D ow ne y C, Jayne D G. Postop erat ive i leus fol low ing 
+maj or colore c t a l surger y. 
+Br  J  Sur g
+. (2018) 105:797Œ810. doi: 
+10.1002/bjs.10781
+ 
+10.
+ 
+Peters EG, Patt amatt a M, Sme ets BJJ, Br in k man DJ, Evers S, de Jonge WJ, et a l. ˝e 
+clinica l and e conomica l imp ac t of p ostop erat ive i leus in pat ients undergoing colore ct a l 
+surgery. 
+Neurogastroenterol Motil
+. (2020) 32:e13862. doi: 
+10.1111/nmo.13862
+ 
+11.
+ 
+S c arb orough JE, S chumacher J, Kent KC, Heise CP, Gre enberg C C. Ass oci at ions 
+of sp e ci˚c postop erative complic at ions w it h outcomes a˜er elec t ive C olon res e ct ion: a 
+pro cedure-t argete d appro ach toward surg ic a l qu a lity improvement. 
+JAMA Surg
+. (2017) 
+152:e164681. doi: 
+10.1001/j amasurg .2016.4681
+ 
+12.
+ 
+Traeger L, Kou l louros M, B e dr i kovetski S, Kro on HM, Mo ore JW, Sammour T. 
+Glob a l cost of p ostop erat ive i leus follow ing ab domina l surger y: meta-ana lysis. 
+BJS O pen
+. 
+(2023) 7:zrad054. doi: 
+10.1093/bjs open/zrad054
+ 
+13.
+ 
+S chwen k W, Haase O, Neude cker J, Mü ller JM. Shor t ter m b ene˚ts for lap aros copic 
+colore ct a l res ec t ion. 
+C ochrane D atabase Syst Re v
+. (2005) 2008:CD003145. doi: 
+10.1002/14651858.CD003145.pub2
+ 
+14.
+ 
+C orcoran T, R ho des JE, C l arke S, My les PS, Ho KM. Per iop erative ˛uid 
+management st rateg ies in maj or surger y : a st rat i˚e d met a-ana lysis. 
+An e s t h  An a l g
+. (2012) 
+114:640Œ51. doi: 
+10.1213/ANE.0b013e318240d6eb
+ 
+15.
+ 
+Gu ay J, Nishimori M, Kopp S. Epidural loc a l anaesthet ics versus opioid-b as ed ana lgesic 
+reg imens for p ostoperat ive gast rointestina l p ara lysis, vomit ing and p ain a˜er ab domina l  
+surger y. 
+C ochrane Databas e Syst Re v
+. (2016) 2017:CD001893. doi: 
+10.1002/14651858.
+CD001893.pub2
+ 
+16.
+ 
+Hu ang ZD, Gu HY, Zhu J, Luo J, Shen XF, D eng QF, et a l. ˝e applic at ion of 
+en hance d re cover y a˜er surger y for upp er gast rointest ina l surger y : Met a-ana lysis. 
+BMC 
+Sur g
+. (2020) 20:3. doi: 
+10.1186/s12893-019-0669-3
+ 
+17.
+ 
+Hajib andeh S, Hajib andeh S, Bi l l V, Sat yad as T. Met a-ana lysis of en hance d 
+re covery a˜er surger y (ER AS) proto cols in emergenc y ab domina l surger y. 
+Wo r l d  J  Sur g
+. 
+(2020) 44:1336Œ48. doi: 
+10.1007/s00268-019-05357-5
+ 
+18.
+ 
+Ni X, Ji a D, Guo Y, Sun X, Suo J. The ef f ic ac y and s afet y of en hance d re cover y 
+af ter surger y (ER AS) prog ram in lap aros copic digestive system surger y : a met a-
+ana lysis of randomize d cont rol le d t ri a ls. 
+Int  J  Sur g
+. (2019) 69:108Œ15. doi: 
+10.1016/j.ijsu.2019.07.034
+ 
+19.
+ 
+ER AS S o ciet y. En hance d re cover y a˜er surger y Avail able at: 
+https://erass o ciet y.org
+ 
+20.
+ 
+Fu kuzawa J, Terashima H, Oh kohchi N. E arly p ostoperat ive ora l fe eding 
+accelerates upp er gast rointest ina l anastomotic he a ling in t he rat mo del. 
+Wo r l d  J  Sur g
+. 
+(2007) 31:1234Œ9. doi: 
+10.1007/s00268-007-9003-9
+ 
+21.
+ 
+B o elens PG, He es ak kers FF, Luyer MD, van B arne veld KW, de Hing h IH, 
+Nieuwen huijzen GA, et a l. R e duct ion of p ostop erative i leus by e arly entera l nutr it ion in 
+p at ients undergoing maj or re ct a l surger y : prospe c t ive, randomized, cont rol le d t r i al. 
+An n  
+Sur g
+. (2014) 259:649Œ55. doi: 
+10.1097/SLA.0000000000000288
+ 
+22.
+ 
+Herb ert G, Per r y R , Andersen HK, At k ins on C, Penfold C, L e w is SJ, et a l. Early 
+enteral nutr it ion w it hin 24 hours of lower gastrointest ina l surgery versus later 
+commencement for lengt h of hospit al stay and p ostop erative complic at ions. 
+C o c hra n e  
+D atabase Syst Re v
+. (2019) 2019:CD004080. doi: 
+10.1002/14651858.CD004080.pub4
+ 
+23.
+ 
+Ashcrof t J, Sing h AA, R amachandran B, Habe eb A, Huds on V, Me yer J, et a l. 
+R e ducing i leus af ter colorec t a l surger y: a net work met a-analysis of t herap eut ic 
+inter vent ions. 
+C lin  Nut r
+. (2021) 40:4772Œ82. doi: 
+10.1016/j.clnu.2021.05.030
+ 
+24.
+ 
+C ar michael L, R o cc a R , L aing E, Ashford P, C ol lins J, Jacks on L, et al. E arly 
+p ostop erat ive fe eding fol low ing surger y for upper gast rointestina l c ancer: a systemat ic 
+re v ie w. 
+J Hum Nutr Diet
+. (2022) 35:33Œ48. doi: 
+10.1111/jhn.12930
+ 
+25.
+ 
+Wi l lcutts KF, C hung MC, Erenb erg CL, Finn KL, S chir mer BD, By ham-Gray LD. 
+E arly Ora l fe e ding as compare d w ith t raditiona l t iming of Ora l fe e ding a˜er upp er 
+gast rointestina l surger y : a systemat ic re v iew and Met a-ana lysis. 
+Ann  Sur g
+. (2016) 
+264:54Œ63. doi: 
+10.1097/SLA.0000000000001644
+ 
+26.
+ 
+Hogan S, Ste˙ens D, R angan A, S olomon M, C arey S. ˝e e˙e c t of diets delivere d 
+into t he gast rointest ina l trac t on gut moti lit y a˜er colore ct a l surger y-a systemat ic rev ie w 
+Canzan et al.
+ 
+10.3389/fnut.2024.1369141
+Frontiers in 
+Nutrition
+16
+frontiersin.org
+and met a-ana lysis of randomis e d cont rol le d t ri a ls. 
+Eur J Clin Nutr
+. (2019) 73:1331Œ42. 
+doi: 
+10.1038/s41430-019-0474-1
+ 
+27.
+ 
+MacVicar E, Cu llen F, Kastora SL, Par naby C, Mackay C, R ams ay G. A systemat ic 
+re v ie w of t he imp act of p ost-operat ive ora l ˛uid int a ke on i leus fol low ing ele c t ive 
+colore ct a l surgery. 
+Int  J  Sur g
+. (2022) 103:106651. doi: 
+10.1016/j.ijsu.2022.106651
+ 
+28.
+ 
+He LB, L iu MY, He Y, Guo AL. Nutr it iona l st atus eˆc ac y of e arly nut r it iona l 
+supp or t in gast rointest ina l care: a systemat ic re v iew and met a-ana lysis. 
+World J 
+G a st rointest  Sur g
+. (2023) 15:953Œ64. doi: 
+10.4240/wjgs.v15.i5.953
+ 
+29.
+ 
+Shu XL, Kang K, Gu LJ, Zhang YS. E˙e ct of e arly entera l nut r it ion on p at ients w it h 
+digest ive t ract surgery : a met a-analysis of randomize d cont rol led t ri a ls. 
+E xp ˜er Med
+. 
+(2016) 12:2136Œ44. doi: 
+10.3892/etm.2016.3559
+ 
+30.
+ 
+Zhu ang CL, Ye XZ, Zhang CJ, D ong QT, C hen BC, Yu Z. E arly versus t radit iona l 
+p ostop erat ive oral fe eding in p at ients undergoing ele c tive colore ct a l surger y : a met a-
+ana lysis of randomized clinic a l tr i a ls. 
+D i g  Surg
+. (2013) 30:225Œ32. doi: 
+10.1159/000353136
+ 
+31.
+ 
+Hig g ins J, ˝omas J, C hand ler JC M, L i T, Page M, Welch V. C o chrane handb ook 
+for systemat ic re vie ws of inter vent ions version 6.3 (up d ate d 2022). In: C o chrane, e ditor. 
+Avai l able at: 
+w w w.t raining .co chrane.org/handb o ok.2022
+ 
+32.
+ 
+Page MJ, McKenzie JE, B ossuyt PM, B out ron I, Ho˙ mann TC, Mu lrow CD, et a l. 
+˝e PRISMA 2020 st atement: an up d ate d guideline for rep ort ing systemat ic rev ie ws. 
+BMJ
+. (2021) 372:n71. doi: 
+10.1136/bmj.n71
+ 
+33.
+ 
+Dindo D, D emar t ines N, C l av ien PA. C lassi˚c at ion of surg ica l complic at ions: a 
+ne w propos a l w it h e va lu ation in a cohort of 6336 p at ients and resu lts of a sur ve y. 
+An n  
+Sur g
+. (2004) 240:205Œ13. doi: 
+10.1097/01.sl a.0000133083.54934.ae
+ 
+34.
+ 
+Ster ne JAC, Savovi˘ J, Page MJ, E lbers RG, Blencowe NS, B out ron I, et a l. R oB 2: 
+a re v ise d to ol for ass essing risk of bi as in randomise d t r i als. 
+BMJ
+. (2019) 366:l4898. doi: 
+10.1136/bmj.l4898
+ 
+35.
+ 
+C ol l aborat ion TC. R e v iew Manager (R e vMan) [C omputer prog ram]. Version 5.4. 
+˝e C o chrane C ol l ab orat ion, (2020).
+ 
+36.
+ 
+R C ore Te am. R: a l angu age and env ironment for st at ist ic a l comput ing In: 
+R 
+foun d at i on for  stat i sti c al  c omput ing
+. Vienna, Aust r i a: (2022)
+ 
+37.
+ 
+S chünemann H, Broek J, Guyatt G, Oxman A. 
+GR ADE handbook for g rading 
+quality of e v idence and streng th of recommendations
+ Grading of R e commend at ions, 
+Ass essment, D e velopment and Evaluat ion (GRADE) Work ing Group Avai l able at: 
+https://gdt.gradepro.org/app/handbo ok/handb o ok.ht ml
+ (2013).
+ 
+38.
+ 
+Zhou T, Wu XT, Zhou YJ, Hu ang X, Fan W, Li YC. E arly remov ing gast rointest ina l 
+de compression and e arly oral fee ding improve p at ients' rehabi lit at ion a˜er 
+colore ctostomy. 
+World J G astroenterol
+. (2006) 12:2459Œ63. doi: 
+10.3748/wjg.v12.i15.2459
+ 
+39.
+ 
+Mingjie X, Luyao Z, Ze T, YinQ u an Z, Q u an W. L ap aroscopic radic a l gast re c tomy 
+for R es ec t able advance d gast r ic C ancer wit hin en hance d re covery programs: a 
+prosp ec t ive randomize d cont rol le d tr i a l. 
+J L aparoendosc Adv Surg Tech A
+. (2017) 
+27:959Œ64. doi: 
+10.1089/lap.2016.0057
+ 
+40.
+ 
+K ho o CK, Vicker y CJ, Forsyt h N, Vina ll NS, Ey re-Brook IA. A prosp e c t ive 
+randomize d cont rol le d t r i al of mu lt imod a l p er ioperat ive management proto col in 
+p at ients undergoing elec t ive colore c t a l res e ct ion for c ancer. 
+Ann  Sur g
+. (2007) 
+245:867Œ72. doi: 
+10.1097/01.sl a.0000259219.08209.36
+ 
+41.
+ 
+E l Na ke eb A, Fi k r y A, E l Met wa l ly T, Foud a E, Youss ef M, Ghazy H, et a l. E arly 
+ora l fe e ding in p at ients undergoing ele ct ive colonic anastomosis. 
+Int  J  Sur g
+. (2009) 
+7:206Œ9. doi: 
+10.1016/j.ijsu.2009.03.003
+ 
+42.
+ 
+Iones cu D, Iancu C, Ion D, A l-Hajj ar N, Margar it S, Mo c an L, et a l. Implement ing 
+fast-t rack proto col for colore c t a l surger y : a prosp ec t ive randomized clinic a l t r i a l. 
+Wo r l d  
+J  Sur g
+. (2009) 33:2433Œ8. doi: 
+10.1007/s00268-009-0197-x
+ 
+43.
+ 
+d a Fons e ca LM, Profet a d a Luz MM, L acerd a-Fil ho A, C or rei a MI, G omes d a Si lva 
+R . A simpli˚ed rehabi lit at ion prog ram for p at ients undergoing elec t ive colonic 
+surgeryŠrandomize d cont rol le d clinic a l t r i al. 
+Int J C olor D i s
+. (2011) 26:609Œ16. doi: 
+10.1007/s00384-010-1089-0
+ 
+44.
+ 
+L e e TG, Kang SB, Kim DW, Hong S, He o SC, Park KJ. C omp arison of e arly 
+mobi lizat ion and diet rehabi lit at ion program w it h convent iona l c are a˜er l ap aros copic 
+colon surgery : a prospe c t ive randomize d cont rol le d t ri a l. 
+Dis Colon Rectum
+. (2011) 
+54:21Œ8. doi: 
+10.1007/DCR .0b013e3181fcdb3e
+ 
+45.
+ 
+Wang Q, Suo J, Jiang J, Wang C, Zhao YQ, C ao X. E˙e c tiveness of fast-t rack 
+rehabi lit at ion vs convent iona l c are in lap aros copic colore ct a l res e ct ion for elderly 
+p at ients: a randomize d t r i al. 
+C olor  D i s
+. (2012) 14:1009Œ13. doi: 
+10.1111/j.1463-1318.2011.02855.x
+ 
+46.
+ 
+R en L, Zhu D, Wei Y, Pan X, L i ang L, Xu J, et a l. En hanced re covery a˜er surger y 
+(ER AS) prog ram attenu ates stress and accelerates re cover y in p at ients a˜er radica l 
+res e ct ion for colore c t a l c ancer: a prospe c t ive randomized cont rol le d t r i al. 
+Wo r l d  J  Sur g
+. 
+(2012) 36:407Œ14. doi: 
+10.1007/s00268-011-1348-4
+ 
+47.
+ 
+D ag A, C ol a k T, Turk menog lu O, Gundogdu R , Aydin S. A randomize d cont rol le d 
+t r i al e va lu at ing early versus t radit iona l ora l fe e ding a˜er colorec t a l surger y. 
+Clinics (S ão 
+Pa u l o)
+. (2011) 66:2001Œ5. doi: 
+10.1590/S1807-59322011001200001
+ 
+48.
+ 
+L e e SM, Kang SB, Jang JH, Park JS, Hong S, L e e TG, et a l. E arly rehabi lit at ion 
+versus convent ional c are a˜er l ap aros copic rec t a l surger y : a prosp e ct ive, randomize d, 
+controlled trial. 
+Sur g  En d o s c
+. (2013) 27:3902Œ9. doi: 
+10.1007/s00464-013-3006-4
+ 
+49.
+ 
+L i K, L i JP, Peng NH, Ji ang LL, Hu YJ, Hu ang MJ. Fast-t rack improves p ost-
+op erat ive nutr it ion and outcomes of colore ct a l surger y : a sing le-center prospe c t ive t r ia l 
+in C hina. 
+Asia Pac J Clin Nutr
+. (2014) 23:41Œ7. doi: 
+10.6133/apj cn.2014.23.1.09
+ 
+50.
+ 
+Pragat heeswarane M, Mut hu kumarass amy R , Kad amb ar i D, Kate V. E arly ora l 
+fe e ding vs. t raditiona l fee ding in pat ients undergoing ele ct ive op en bowel surger y-a 
+randomize d cont rol le d t r i al. 
+J  G a st rointe st  Sur g
+. (2014) 18:1017Œ23. doi: 
+10.1007/
+s11605-014-2489-1
+ 
+51.
+ 
+He F, L in X, X ie F, Hu ang Y, Yu an R . ˝e e˙e c t of en hance d re cover y prog ram for 
+p at ients undergoing p ar t i al l ap aros copic hep ate ctomy of liver c ancer. 
+Clin Transl O ncol
+. 
+(2015) 17:694Œ701. doi: 
+10.1007/s12094-015-1296-9
+ 
+52 .
+ 
+Ab di karim I, C ao XY, L i SZ, Zhao YQ, Taupy k Y, Wang Q. En hanced re cover y a˜er 
+surgery w it h lap aros copic radica l gast re c tomy for stomach c arcinomas. 
+World J 
+G a st roe nte rol
+. (2015) 21:13339Œ44. doi: 
+10.3748/wjg.v21.i47.13339
+ 
+53.
+ 
+Shichinohe T, Sas a k i T, Kit ashiro S, Mor it a T, Ono K, S enmar u N, et a l. Imp ac t of 
+element a l diet on e arly re covery a˜er l ap aros copic cole c tomy: ˚ndings of a randomize d 
+controlled trial. 
+Sur g  To d ay
+. (2017) 47:166Œ73. doi: 
+10.1007/s00595-016-1365-x
+ 
+54.
+ 
+Feng J, L i K, L i L, Wang X, Hu ang M, Yang J, et a l. ˝e e˙e c ts of fast-t rack surger y 
+on in˛ ammation and immunit y in pat ients undergoing colore c ta l surger y. 
+Int J C olor 
+Dis
+. (2016) 31:1675Œ82. doi: 
+10.1007/s00384-016-2630-6
+ 
+55.
+ 
+Mar i G, C ost anzi A, Cr ipp a J, Fa lb o R , Mirand a A, R ossi M, et a l. Surg ic a l 
+st ress re duc t ion in elderly p at ients undergoing ele c t ive colore c t a l l ap aros copic 
+surger y w it hin an ER AS proto col. 
+Chir urg ia (Bucur)
+. (2016) 111:476Œ80. doi: 
+10.21614/chir urg i a.111.6.476
+ 
+56.
+ 
+Sun DL, L i WM, L i SM, C en YY, Xu QW, L i YJ, et a l. C omp ar ison of multi-mo d a l 
+e arly oral nut r it ion for t he tolerance of ora l nut r ition w it h convent iona l c are a˜er maj or 
+ab domina l surger y : a prosp e ct ive, randomized, sing le-blind t r i a l. 
+Nu t r  J
+. (2017) 16:11. 
+doi: 
+10.1186/s12937-017-0228-7
+ 
+57.
+ 
+L i ang X, Ying H, Wang H, Xu H, L iu M, Zhou H, et a l. Enhance d re cover y c are 
+versus t radit iona l c are a˜er l ap aros copic liver res e c t ions: a randomize d cont rolle d t r ia l. 
+Sur g  En d o s c
+. (2018) 32:2746Œ57. doi: 
+10.1007/s00464-017-5973-3
+ 
+58.
+ 
+Kang SH, L e e Y, Min SH, Park YS, A hn SH, Park DJ, et a l. Mu lt imo d al en hance d 
+re covery a˜er surger y (ER AS) prog ram is t he opt ima l p er ioperat ive Care in Patients 
+Undergoing Tot a lly L aparos copic Dist a l Gast re ctomy for gast ric Cancer: a prospe c t ive, 
+randomize d. 
+Clinical Tr ial Ann Surg Oncol
+. (2018) 25:3231Œ8. doi: 
+10.1245/
+s10434-018-6625-0
+ 
+59.
+ 
+Wu M, Yang L, Zeng X, Wang T, Ji a A, Zuo Y, et al. Safet y and fe asibi lit y of e arly 
+Ora l hydrat ion in t he Post anest hesi a c are unit a˜er lap aros copic chole c ystec tomy : a 
+prosp ec t ive, randomize d, and cont rolle d study. 
+J Per ianesth Nurs
+. (2019) 34:425Œ30. doi: 
+10.1016/j.j opan.2018.06.093
+ 
+60.
+ 
+Wang WK, Tu CY, Shao CX, C hen W, Zhou QY, Zhu JD, et a l. Imp ac t of enhance d 
+re covery a˜er surger y on p ostop erative rehabi litat ion, in˛ ammat ion, and immunit y in 
+gast r ic c arcinoma p at ients: a randomize d clinic a l t r ia l. 
+Braz J Med Biol Res
+. (2019) 
+52:e8265. doi: 
+10.1590/1414-431x20198265
+ 
+61.
+ 
+Hwang DW, Kim HJ, L ee JH, S ong KB, Kim MH, L e e SK, et a l. E˙ec t of enhanced 
+re covery a˜er surger y prog ram on p ancre at ico duo dene c tomy : a randomize d cont rol le d 
+tr ial. 
+J Hepatobiliar y Pancreat S ci
+. (2019) 26:360Œ9. doi: 
+10.1002/jhbp.641
+ 
+62.
+ 
+G eubb els N, Ev ren I, Acher man YIZ, Br uin SC, van de Laar A, Ho en MB, et a l. 
+R andomized clinic a l t r i a l of an en hance d re cover y a˜er surgery prog ramme versus 
+convent ional c are in l ap aros copic roux-en-Y gast r ic byp ass surgery. 
+BJS Open.
+ (2019) 
+3:274Œ81. doi: 
+10.1002/bjs5.50143
+ 
+63.
+ 
+C ao S, Zheng T, Wang H, Niu Z, C hen D, Zhang J, et al. En hanced re covery a˜er 
+surgery in elderly gastr ic C ancer p at ients undergoing l ap aros copic Tota l gast re c tomy. 
+J 
+Sur g  R e s
+. (2021) 257:579Œ86. doi: 
+10.1016/j.jss.2020.07.037
+ 
+64.
+ 
+L i Q, Du L, Lu L, Tong Y, Wu S, Yang Y, et a l. C linica l applic at ion of en hance d 
+re cover y af ter surger y in per iop erat ive p er io d of l ap aros copic colore c t a l C ancer 
+surger y. 
+J L aparoendos c Adv Surg Tech A
+. (2019) 29:178Œ83. doi: 
+10.1089/
+l ap.2018.0708
+ 
+65.
+ 
+C ons oli M, Fonse c a L, Si lva R , C or rei a M. E arly p ostop erat ive ora l fee ding imp ac ts 
+p ositively in p at ients undergoing colonic res e ct ion: results of a pi lot study. 
+Nutr ic ión  
+Ho s pitalar i a
+. (2010) 25:806Œ9. doi: 
+10.3305/n h.2010.25.5.4777
+ 
+66.
+ 
+L iu X X, Ji ang ZW, Wang ZM, L i JS. Mu lt imo d a l opt imizat ion of surg ic a l c are 
+shows b ene˚ci a l outcome in gast re c tomy surger y. 
+JPEN J Parenter Enteral Nutr
+. (2010) 
+34:313Œ21. doi: 
+10.1177/0148607110362583
+ 
+67.
+ 
+Fe o CV, R omanini B, S or t ini D, R agazzi R , Z amb oni P, Pansini GC, et a l. E arly ora l 
+fe e ding a˜er colore ct a l res e ct ion: a randomize d cont rol le d study. 
+ANZ J Surg
+. (2004) 
+74:298Œ301. doi: 
+10.1111/j.1445-1433.2004.02985.x
+ 
+68.
+ 
+Ste war t BT, Woo ds RJ, C ol lopy BT, Fin k RJ, Mackay JR , Ke ck JO. E arly fe e ding 
+a˜er ele c t ive open colore ct a l res e ct ions: a prospe c t ive randomize d t ri a l. 
+Au st N Z J Surg
+. 
+(1998) 68:125Œ8. doi: 
+10.1111/j.1445-2197.1998.tb04721.x
+ 
+69.
+ 
+Har ts ell PA, Frazee RC, Har r is on JB, Smit h RW. Early postop erat ive fee ding a˜er 
+ele ct ive colore c t a l surgery. 
+Arc h  Sur g
+. (1997) 132:518. doi: 
+10.1001/
+archsurg .1997.01430290064011
+ 
+70.
+ 
+Or t iz H, Ar mend ar iz P, Yar noz C. Is e arly p ostop erat ive fee ding fe asible in ele c t ive 
+colon and re c t al surger y? 
+Int J C olor D i s
+. (1996) 11:119Œ21. doi: 
+10.1007/s003840050032
+Canzan et al.
+ 
+10.3389/fnut.2024.1369141
+Frontiers in 
+Nutrition
+17
+frontiersin.org
+ 
+71.
+ 
+R eissman P, Te oh TA, Cohen SM, Weiss EG, Nogueras JJ, Wexner SD. Is e arly 
+ora l fe e ding s afe af ter ele c t ive colore c t a l surger y? A prosp e ct ive 
+ 
+randomize d t r i a l. 
+Ann  Sur g
+. (1995) 222:73Œ7. doi: 
+10.1097/00000658-199507000-00012
+ 
+72.
+ 
+Wend ler E, Nassif PAN, Ma l afai a O, Br ites Neto JL, R ib eiro JGA, Pro enç a LB, et a l. 
+Shor ten pre op erat ive fast ing and int ro ducing early e at ing assist ance in re cover y a˜er 
+gast roj ejunal byp ass? 
+Arq Bras Cir D ig
+. (2022) 34:e1606. doi: 
+10.1590/0102-
+ 
+672020210003e1606
+ 
+73.
+ 
+R osl an F, Kushair i A, C appuy ns L, D a liya P, Adi ama h A. ˝e imp act of sham 
+fe e ding w it h che w ing gum on postop erat ive i leus fol low ing colore c t a l surgery : a Met a-
+ana lysis of randomis e d cont rolle d t r i a ls. 
+J  G a st rointe st Sur g
+. (2020) 24:2643Œ53. doi: 
+10.1007/s11605-019-04507-3
