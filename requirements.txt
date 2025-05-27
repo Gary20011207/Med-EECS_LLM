@@ -41,6 +41,8 @@ tqdm>=4.66.0
 # 評估指標
 nltk
 rouge
+bert-score
+seaborn
 
 # 前端與展示
 gradio

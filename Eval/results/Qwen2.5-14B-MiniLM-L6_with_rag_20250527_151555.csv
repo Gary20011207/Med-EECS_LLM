@@ -1,0 +1,79 @@
+qa_id,question,reference_answer,resource,category,llm_answer,human_eval,bertscore_f1,response_length,response_time,used_rag_resources
+0,為何 ERAS 建議多模式鎮痛而非阿片單用？,減少阿片副作用如噁心與腸道遲緩，提升康復速度。,Kehlet,藥劑,"根據 ERAS 的原則，建議使用多模式鎮痛策略而非單一的阿片類藥物，主要是因為多模式鎮痛可以提供更全面的疼痛管理，同時減少單一藥物的副作用和風險。以下是幾個主要原因：
+
+1. **減少阿片類藥物用量**：多模式鎮痛通過結合不同作用機制的鎮痛藥物（如非甾體抗炎藥、局部麻醉藥等），能夠有效降低對阿片類藥物的需求，從而減少其相關的不良反應，如便秘、嗜睡、呼吸抑制等。
+
+2. **改善患者恢復**：研究表明，多模式鎮痛不僅能更好地控制術後疼痛，還有助於促進腸道功能恢復，減少住院時間，並提高患者的整體滿意度。
+
+3. **減少長期阿片類藥物使用的風險**：避免過度依賴阿片類藥物，可降低患者發展成慢性疼痛或阿片類藥物濫用的可能性。
+
+這些優勢與 ERAS 強調的加速術後恢復目標一致，即通過最佳的疼痛管理和減少不必要的治療來促進患者的快速康復。如果您需要更多具體的指導或案例研究支持，請隨時告訴我！",,0.1587032526731491,397.0,43.96764516830444,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf, Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf"
+1,ERAS 是否建議術前給予 acetaminophen？,是，為術後鎮痛提供基礎效果，且副作用低。,Apfelbaum,藥劑,"根據 ERAS 的指導原則，術前給予 **acetaminophen** 是被推薦的做法，特別是在婦科腫瘤手術中，有多項隨機對照試驗顯示，在手術前使用非甾體抗炎藥（如 acetaminophen）可以改善術後疼痛控制並減少阿片類藥物的需求。
+
+在其他領域，例如成人和新生兒的外科手術，acetaminophen 也被廣泛用作多模式鎮痛方案的一部分，以限制阿片類藥物的使用，從而促進術後恢復。因此，術前給藥 acetaminophen 是 ERAS 規範的一部分，旨在提供更好的術後疼痛管理，減少對阿片類止痛藥的依賴。
+
+引用文獻：
+- 文檔 3 提到，術前使用非甾體抗炎藥（如 acetaminophen）可以改善術後疼痛控制並減少阿片類藥物的需求。
+- 文檔 5 強調了在新生兒腸道手術中，IV 設備的 acetaminophen 可以減少術後嗎啡消耗。",,0.055290013551712036,378.0,13.743857622146606,"Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Consensus statement for perioperative care in lumbar spinal fusion Enhanced Recovery After Surgery (ERAS®) Society recommendations.pdf, Consensus Guidelines for Perioperative Care in Neonatal Intestinal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations.pdf"
+2,gabapentin 在 ERAS 中的應用？,可減術後疼痛與阿片使用，但有鎮靜風險。,Tiippana,藥劑,"根據 ERAS（手術加速康復）指南，加巴噴丁（gabapentin）被用作多模式鎮痛策略的一部分，以減少阿片類藥物的使用。以下是其在不同手術類型中的應用：
+
+1. **脊柱手術**：研究表明，術前使用加巴噴丁可以有效降低術後早期的疼痛評分和阿片類藥物的使用量（文獻 [98] 和 [99]）。然而，目前沒有臨床證據表明它能減少慢性術後疼痛（文獻 [217]）。
+
+2. **開胸手術**：加巴噴丁被推薦作為多模式鎮痛策略的一部分，幫助減少阿片類藥物的需求（文獻 [218]）。
+
+3. **主動脈血管手術**：術前口服止痛藥，包括加巴噴丁，已被廣泛接受為多模式阿片類節約的術前鎮痛策略之一（文獻 [132]）。
+
+需要注意的是，對於年長患者（尤其是超過65歲的患者），由於美國老年學會的強烈建議，應避免使用苯二氮卓類藥物（文獻 [132]）。
+
+總結來說，加巴噴丁在 ERAS 策略中主要用於減少術後早期疼痛和阿片類藥物的使用，但其對慢性術後疼痛的影響尚無充分證據支持。在使用時應考慮患者的個體情況，並遵循相關指南進行合理應用。如有疑問，建議進一步諮詢專業醫療人員。",,0.09136340022087097,483.0,19.484473705291748,"Consensus statement for perioperative care in lumbar spinal fusion Enhanced Recovery After Surgery (ERAS®) Society recommendations.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for enhanced recovery after lung surgery recommendations of the Enhanced Recovery After Surgery (ERAS®) Society and the European Society of Thoracic Surgeons (ESTS).pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for enhanced recovery after lung surgery recommendations of the Enhanced Recovery After Surgery (ERAS®) Society and the European Society of Thoracic Surgeons (ESTS).pdf"
+3,NSAIDs 是否適用於 ERAS？,是，但需監控出血風險與腎功能。,White,藥劑,"根據 ERAS 的指導原則，非類固醇抗炎藥（NSAIDs）在術後疼痛管理中扮演重要角色，但其使用需謹慎，特別是在某些特定情況下。
+
+1. **一般應用**：NSAIDs 是多模式鎮痛策略的一部分，與對乙酰氨基酚和阿片類藥物一起使用，可以提供更好的鎮痛效果，減少對阿片類藥物的依賴，從而促進恢復 [文檔 4]。
+
+2. **血管手術患者**：對於進行開放性主動脈手術的患者，應小心使用 NSAIDs 和加巴噴丁類藥物，因為這些患者的年齡和腎功能可能影響劑量選擇。此外，還需考慮 NSAIDs 引起出血的風險 [文檔 2]。
+
+3. **急性腹腔鏡手術患者**：在急性腹腔鏡手術中，由於患者有較高的急性腎損傷（AKI）風險，因此在圍手術期使用 NSAIDs 時需格外小心，以避免血小板功能障礙導致的出血和腎血流的影響 [文檔 5]。
+
+總結來說，NSAIDs 在 ERAS 中是有效的鎮痛工具，但在使用時需根據患者具體情況進行個別化調整，並密切監控可能的副作用。在某些高風險患者群體中，可能需要在腎功能未受損且出血風險降低後才開始使用。如有疑問，建議諮詢專業醫療團隊。",,0.10891232639551163,482.0,18.553720951080322,"Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf"
+4,術前使用 celecoxib 有哪些優點？,COX-2 抑制效果佳，胃腸副作用低。,Reuben,藥劑,"根據 ERAS 的原則，celecoxib（塞來昔布）在術前使用可以幫助減少術後疼痛和炎症，從而促進患者的快速恢復。Celecoxib 是一種選擇性 COX-2 抑制剂，能夠有效減輕疼痛，同時降低胃腸道不適的風險，因為它不像非選擇性的 NSAIDs 那樣會刺激胃黏膜。
+
+此外，celecoxib 可以幫助減少阿片類藥物的需求，這有助於減少與阿片類藥物相關的副作用，如便秘、嗜睡和呼吸抑制等。這樣不僅能提高患者的舒適度，還能減少住院時間，促進更快的康復。
+
+需要注意的是，在使用 celecoxib 時應遵循醫生的指導，並監控可能的不良反應。如果您有更多關於 celecoxib 使用的具體問題，請隨時提出。",,0.14594359695911407,304.0,10.732973337173462,"Guidelines for Antenatal and Preoperative care in Cesarean Delivery Enhanced Recovery After Surgery Society Recommendations (Part 1).pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, fsurg-07-573398.pdf"
+5,ERAS 是否推薦 preemptive analgesia？,是，術前止痛能降低術後敏感化。,Katz,藥劑,"根據 ERAS 的原則，預防性鎮痛（preemptive analgesia）是被推薦的。這是在手術前使用多模式鎮痛策略的一部分，旨在減少手術後的疼痛反應。這種方法基於多因素性和複雜性的手術疼痛途徑，通過不同類型的藥物在多個位點作用來控制疼痛。
+
+文獻指出，ERAS 程序中多模式鎮痛策略的調整不僅旨在改善手術後的疼痛控制，還可以減少阿片類藥物的使用，從而避免不希望的副作用。這樣的做法有助於促進早期活動、腸道功能恢復和進食，最終加速患者的康復過程。
+
+因此，在 ERAS 計劃中，預防性鎮痛是多模式鎮痛策略的一部分，並且是為了更好地管理患者的手術後疼痛而設計的。不過，具體的鎮痛方案應該根據每位患者的具體情況進行個別化調整。",,0.11646852642297745,313.0,11.851397037506104,"Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinalsurgery, part 1 pathophysiological considerations.pdf, Guidelines for Perioperative Care in Cytoreductive Surgery (CRS) with or without hyperthermic IntraPEritoneal chemotherapy (HIPEC) Enhanced Recovery After Surgery (ERAS) Society Recommendations — Part2.pdf"
+6,ketamine 於 ERAS 的角色為何？,可減術後慢性疼痛並保護中樞抑制。,Bell,藥劑,"根據提供的 ERAS 指南文件，並沒有直接提到 ketamine 在 ERAS 中的角色。然而，Ketamine 是一種非競爭性 NMDA 受體拮抗劑，常被用於多模式鎮痛中，因其具有鎮痛和抗發炎作用，並且可以減少阿片類藥物的使用及其副作用，如嗜睡、便秘和呼吸抑制。
+
+在某些情況下，Ketamine 被認為對 ERAS 有潛力，特別是在減少阿片類藥物的需求方面。不過，其具體的使用方法（例如劑量、給藥時間等）以及長期效果仍需進一步研究來確認。如果您需要更詳細的信息，建議參考最新的臨床試驗或諮詢專業麻醉醫師。",,0.04267711192369461,254.0,9.34454083442688,"Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf"
+7,靜脈 lidocaine 有哪些臨床效果？,減痛、抗炎並促進腸道功能恢復。,McCarthy,藥劑,"靜脈注射利多卡因（lidocaine）在臨床上被用於減少手術期間和術後的阿片類藥物使用，從而降低疼痛和相關的副作用。根據 ERAS 指南，利多卡因 infusion 可以幫助：
+
+1. **減少術中和術後的疼痛**：通過阻斷神經元的鈉通道，利多卡因可以減輕疼痛，減少對強效鎮痛藥的需求。
+ 
+2. **減少阿片類藥物的使用**：這有助於減少阿片類藥物引起的副作用，如呼吸抑制、便秘和成癮風險。
+
+3. **促進腸道功能恢復**：利多卡因可能有助於加速腸胃功能的恢復，縮短住院時間。
+
+然而，利多卡因的最佳劑量、給藥時間和持續時間在不同患者之間可能存在差異，因此需要進一步的研究來確定最佳的應用方法。此外，使用利多卡因時需密切監控患者的反應，以確保安全性和有效性。
+
+引用文獻：
+- 文檔 2 提到利多卡因 infusion 正在被越來越多地用於減少術中和術後的阿片類藥物使用。
+- 文檔 5 記載了利多卡因的作用機制及其與膽鹼能、多巴胺能和煙鹼能受體的交互作用，這些作用在較低的血漿濃度下發生，不需要達到神經鈉通道阻滯所需的濃度。利多卡因 infusion 已顯示出減少術中和術後疼痛的效果。",,0.07282919436693192,496.0,19.860384464263916,"Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf, Guidelines for Perioperative Care for Pancreatoduodenectomy Enhanced Recovery After Surgery (ERAS) Recommendations 2019.pdf, Consensus Guidelines for Perioperative Care for Emergency Laparotomy Enhanced Recovery After Surgery (ERAS®) Society Recommendations Part 2—Emergency Laparotomy Intra- and Postoperative Care.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf"
+8,ERAS 是否鼓勵區域麻醉？,是，有助降低阿片使用與加速恢復。,McDonnell,藥劑,"根據 ERAS 的原則，區域麻醉（如椎管內麻醉或周邊神經阻斷）通常被推薦作為多模式鎮痛的一部分，以減少全身性阿片類藥物的使用及其相關副作用，如呼吸抑制和腸麻痹。這有助於促進患者的快速恢復。
+
+在文檔 5 中提到，ERAS 強調使用多模式鎮痛策略，包括非阿片類止痛藥、區域麻醉技術和其他方法來控制疼痛，從而改善患者的手術後恢復。因此，區域麻醉是 ERAS 區域中的一個重要組成部分。
+
+如果您需要具體的 ERAS 指南中關於區域麻醉的詳細信息，請告訴我，我可以提供更進一步的指導。",,0.16025830805301666,239.0,9.334346771240234,"Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf, Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2 consensus statement for anaesthesia practice.pdf"
+9,為什麼 ERAS 強調使用 BIS？,減少麻醉過度與術後譫妄。,Radtke,藥劑,"根據提供的文檔，並沒有直接提到 ERAS 強調使用 BIS（腦電雙頻指數）。BIS 是一種監測麻醉深度的技術，用於確保患者在接受手術時處於合適的鎮靜狀態，從而減少併發症和改善恢復。
+
+然而，在 ERAS 的背景下，強調的是多方面的優化措施，以促進手術後的快速康復。這些措施包括但不限於：
+
+- **麻醉管理**：確保患者在手術期間得到適當的鎮靜和止痛。
+- **早期活動**：鼓勵患者在手術後盡快下床活動。
+- **營養支持**：提供適當的營養支持，幫助患者更快地恢復。
+- **疼痛管理**：使用多模式鎮痛策略來控制術後疼痛。
+- **減少禁食時間**：縮短術前禁食時間，以減少患者的不適。
+
+如果您需要更詳細的信息，或者有其他關於 ERAS 的問題，請隨時告訴我！",,0.10031169652938843,334.0,12.584622144699097,"Guidelines for Perioperative Care in Esophagectomy EnhancedRecovery After Surgery (ERASÒ) Society Recommendations.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology Addressing implementation challenges -.pdf, Perioperative care in open aortic vascular surgery A consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery.pdf, Guidelines for Perioperative Care in Elective Colorectal Surgery Enhanced Recovery After Surgery (ERAS®) Society Recommendations 2018.pdf"
