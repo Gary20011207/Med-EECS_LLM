@@ -10,7 +10,7 @@ import uuid
 
 # 設置日誌
 logging.basicConfig(
-    level=logging.INFO,
+    level=logging.DEBUG,
     format='%(asctime)s - %(name)s - %(levelname)s - [%(funcName)s:%(lineno)d] - %(message)s',
     handlers=[
         logging.StreamHandler(sys.stdout),
@@ -676,16 +676,30 @@ def get_doctor_list():
     conn.close()
     return jsonify([dict(d) for d in doctors])
 
-# def ensure_chat_history_column():
-#     conn = get_db_connection()
-#     cursor = conn.cursor()
-#     cursor.execute("PRAGMA table_info(chat_history)")
-#     columns = [row["name"] for row in cursor.fetchall()]
-#     if "doctor_name" not in columns:
-#         print("Adding missing column: doctor_name")
-#         cursor.execute("ALTER TABLE chat_history ADD COLUMN doctor_name TEXT")
-#         conn.commit()
-#     conn.close()
+@app.route("/finish_chat", methods=["POST"])
+def finish_chat():
+    if "user_id" not in session:
+        return jsonify({"error": "Unauthorized"}), 401
+    data = request.json
+    docter = data.get("docter")
+    if not docter:
+        return jsonify({"error": "Doctor name required"}), 400
+    
+    from datetime import datetime
+    today = datetime.now().strftime("%Y-%m-%d")
+
+    conn = get_db_connection()
+    if docter == "anesthesiology":
+        conn.execute("UPDATE users SET anesthesiology = ? WHERE id = ?", (today, session["user_id"],))
+    if docter == "nutritionist":
+        conn.execute("UPDATE users SET nutritionist = ? WHERE id = ?", (today, session["user_id"],))
+    if docter == "pharmacist":
+        conn.execute("UPDATE users SET pharmacist = ? WHERE id = ?", (today, session["user_id"],))
+    if docter == "rehab":
+        conn.execute("UPDATE users SET rehab = ? WHERE id = ?", (today, session["user_id"],))
+    conn.commit()
+    conn.close()
+    return jsonify({"success": True, "message": f"已結束與 {docter} 的對話"})
 
 if __name__ == "__main__":
     # Initialize the database if it doesn't exist
