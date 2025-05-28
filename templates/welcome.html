@@ -321,6 +321,10 @@
             border-bottom-left-radius: 4px;
         }
 
+        .message-assistant ul {
+            margin-left: 30px;
+        }
+
         .message-sources {
             font-size: 0.8rem;
             color: var(--dark-gray);
@@ -490,7 +494,7 @@
 
                 <div class="input-area" style="display: flex; padding: 1.5rem; background: var(--white); border-top: 1px solid var(--medium-gray);">
                     <input type="text" id="message-input" class="form-control" placeholder="請輸入您的問題..." aria-label="輸入訊息" style="flex: 1; margin-right: 1rem; padding: 1rem; border-radius: 25px;">
-                    <button id="send-stream-button" class="send-button btn-stream" title="串流傳送" style="padding: 1rem 1.5rem; border-radius: 25px; background: var(--success-color); color: white; border: none; font-weight: bold; margin-left: 0.5rem;">
+                    <button id="send-button" class="send-button btn-send" title="傳送訊息" style="padding: 1rem 1.5rem; border-radius: 25px; background: var(--secondary-color); color: white; border: none; font-weight: bold;">
                         💬 傳送
                     </button>
                     <button id="finish-chat-button" class="send-button btn-warning" title="結束本次專科對話" style="padding: 1rem 1.5rem; border-radius: 25px; background: var(--warning-color); color: white; border: none; font-weight: bold; margin-left: 0.5rem;">
@@ -501,6 +505,8 @@
             </div>
         </div>
     </div>
+    <!-- Marked -->
+	<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
         // Make user.record_id available in JS
         window.userRecordId = "{{user.record_id}}";
@@ -605,18 +611,45 @@
 
         // Message display
         function displayMessage(role, text, sources = []) {
+            const textQueue = [];
+            let isTyping = false;
+            let responseStr = ''; // Initialize responseStr for this message's typing effect
+
+            function typeText(element, textToType) { // Renamed parameter to avoid conflict
+                textQueue.push(...textToType);
+                if (!isTyping) {
+                    isTyping = true;
+                    typeNextCharacter(element);
+                }
+            }
+            function typeNextCharacter(element) {
+                if (textQueue.length > 0) {
+                    const char = textQueue.shift();
+                    responseStr += char; // Appends to the local responseStr
+                    if (window.marked) {
+                        element.innerHTML = window.marked.parse(responseStr);
+                    } else {
+                        element.textContent = responseStr;
+                    }
+                    const delay = Math.random() * 30 + 10;
+                    setTimeout(() => typeNextCharacter(element), delay);
+                } else {
+                    isTyping = false;
+                    if (role === 'assistant' && sources && sources.length > 0) {
+                        const sourcesDiv = document.createElement('div');
+                        sourcesDiv.classList.add('message-sources');
+                        sourcesDiv.textContent = '資料來源: ' + sources.join(', ');
+                        element.appendChild(sourcesDiv);
+                    }
+                }
+            }
             const messageDiv = document.createElement('div');
             messageDiv.classList.add('message', `message-${role}`);
-            messageDiv.textContent = text;
-            
-            if (role === 'assistant' && sources && sources.length > 0) {
-                const sourcesDiv = document.createElement('div');
-                sourcesDiv.classList.add('message-sources');
-                sourcesDiv.textContent = '資料來源: ' + sources.join(', ');
-                messageDiv.appendChild(sourcesDiv);
-            }
-            
+            // messageDiv.textContent = text; // This line is replaced
             elements.chatOutput.appendChild(messageDiv);
+            typeText(messageDiv, text); // Call the nested typeText to display the message
+            
+            
             elements.chatOutput.scrollTop = elements.chatOutput.scrollHeight;
             return messageDiv;
         }
@@ -872,31 +905,6 @@
             let currentSourcesDiv = null;
             let accumulatedResponse = '';
             let finalSources = [];
-            let responseStr = '';
-            const textQueue = [];
-            let isTyping = false;
-            function typeText(element, text) {
-                textQueue.push(...text);
-                if (!isTyping) {
-                    isTyping = true;
-                    typeNextCharacter(element);
-                }
-            }
-            function typeNextCharacter(element) {
-                if (textQueue.length > 0) {
-                    const char = textQueue.shift();
-                    responseStr += char;
-                    if (window.marked) {
-                        element.innerHTML = window.marked.parse(responseStr);
-                    } else {
-                        element.textContent = responseStr;
-                    }
-                    const delay = Math.random() * 30 + 10;
-                    setTimeout(() => typeNextCharacter(element), delay);
-                } else {
-                    isTyping = false;
-                }
-            }
 
             while (true) {
                 const { value, done } = await reader.read();
@@ -922,14 +930,14 @@
                                 removeTypingIndicator();
                                 currentAssistantMessageDiv = displayMessage('assistant', '', []);
                                 currentAssistantText = currentAssistantMessageDiv.firstChild;
-                                responseStr = '';
                             }
 
                             if (chunk.reply !== undefined) {
                                 // 後端現在發送每個文本片段，不是累積的
                                 accumulatedResponse += chunk.reply;
+                                
                                 if (currentAssistantText) {
-                                    typeText(currentAssistantText, chunk.reply);
+                                    currentAssistantText.textContent = accumulatedResponse;
                                 }
                                 elements.chatOutput.scrollTop = elements.chatOutput.scrollHeight;
                             }
@@ -938,6 +946,7 @@
                                 // 處理來源信息
                                 if (chunk.sources && chunk.sources.length > 0) {
                                     finalSources = chunk.sources;
+                                    
                                     // 更新來源顯示
                                     if (!currentSourcesDiv && currentAssistantMessageDiv) {
                                         currentSourcesDiv = document.createElement('div');
@@ -948,6 +957,7 @@
                                         currentSourcesDiv.textContent = '資料來源: ' + chunk.sources.join(', ');
                                     }
                                 }
+
                                 // Update history
                                 const updatedHistory = currentHistory.concat([
                                     {role: 'user', content: message},
