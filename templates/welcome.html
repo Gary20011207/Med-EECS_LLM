@@ -301,6 +301,16 @@
             animation: fadeIn 0.3s ease;
         }
 
+        .typing-dots {
+            margin-left: 0.5rem;
+        }
+
+        .typing-dots::after {
+            content: '';
+            display: inline-block;
+            animation: typing 1.5s infinite;
+        }
+
         @keyframes fadeIn {
             from { opacity: 0; transform: translateY(10px); }
             to { opacity: 1; transform: translateY(0); }
@@ -322,6 +332,10 @@
         }
 
         .message-assistant ul {
+            margin-left: 30px;
+        }
+
+        .message-assistant ol {
             margin-left: 30px;
         }
 
@@ -500,6 +514,9 @@
                     <button id="finish-chat-button" class="send-button btn-warning" title="結束本次專科對話" style="padding: 1rem 1.5rem; border-radius: 25px; background: var(--warning-color); color: white; border: none; font-weight: bold; margin-left: 0.5rem;">
                         ✅ 結束本次對話
                     </button>
+                    <button id="clear-history-button" class="send-button btn-danger" title="清除對話歷史" style="padding: 1rem 1.5rem; border-radius: 25px; background: var(--danger-color); color: white; border: none; font-weight: bold; margin-left: 0.5rem;">
+                        🗑️ 清除歷史
+                    </button>
                 </div>
                 
             </div>
@@ -610,7 +627,7 @@
         }
 
         // Message display
-        function displayMessage(role, text, sources = []) {
+        function displayMessage(role, text, sources = [], generating = false) {
             const textQueue = [];
             let isTyping = false;
             let responseStr = ''; // Initialize responseStr for this message's typing effect
@@ -640,14 +657,25 @@
                         sourcesDiv.classList.add('message-sources');
                         sourcesDiv.textContent = '資料來源: ' + sources.join(', ');
                         element.appendChild(sourcesDiv);
+                        elements.chatOutput.scrollTop = elements.chatOutput.scrollHeight;
                     }
                 }
             }
             const messageDiv = document.createElement('div');
             messageDiv.classList.add('message', `message-${role}`);
-            // messageDiv.textContent = text; // This line is replaced
             elements.chatOutput.appendChild(messageDiv);
-            typeText(messageDiv, text); // Call the nested typeText to display the message
+            if(generating){
+                typeText(messageDiv, text); // Call the nested typeText to display the message
+            }
+            else{
+                messageDiv.innerHTML = window.marked.parse(text); // This line is replaced
+                if (role === 'assistant' && sources && sources.length > 0) {
+                    const sourcesDiv = document.createElement('div');
+                    sourcesDiv.classList.add('message-sources');
+                    sourcesDiv.textContent = '資料來源: ' + sources.join(', ');
+                    messageDiv.appendChild(sourcesDiv);
+                }
+            }
             
             
             elements.chatOutput.scrollTop = elements.chatOutput.scrollHeight;
@@ -881,7 +909,7 @@
                 return;
             }
 
-            displayMessage('assistant', result.reply, result.sources || []);
+            displayMessage('assistant', result.reply, result.sources || [], true);
             
             // Update history - 注意保存格式
             const updatedHistory = currentHistory.concat([
@@ -981,9 +1009,9 @@
                 return;
             }
 
-            if (!confirm(`確定要清除對話ID "${currentSessionId}" 的所有歷史記錄嗎？`)) {
-                return;
-            }
+            // if (!confirm(`確定要清除對話ID "${currentSessionId}" 的所有歷史記錄嗎？`)) {
+            //     return;
+            // }
 
             try {
                 // 先清除本地歷史
@@ -999,7 +1027,7 @@
 
                 const result = await response.json();
                 if (result.success) {
-                    alert('歷史記錄已清除');
+                    // alert('歷史記錄已清除');
                 } else {
                     alert(`清除操作確認失敗: ${result.message || result.error}`);
                 }
@@ -1053,8 +1081,8 @@
         // Event listeners
         function setupEventListeners() {
             // Send message events
-            // elements.sendButton.addEventListener('click', () => sendMessage(true));
-            elements.sendStreamButton.addEventListener('click', () => sendMessage(true));
+            elements.sendButton.addEventListener('click', () => sendMessage(true));
+            // elements.sendStreamButton.addEventListener('click', () => sendMessage(true));
             
             // Enter key to send
             elements.messageInput.addEventListener('keypress', (e) => {
@@ -1065,7 +1093,7 @@
             });
 
             // Clear history
-            // elements.clearHistoryButton.addEventListener('click', clearChatHistory);
+            elements.clearHistoryButton.addEventListener('click', clearChatHistory);
 
             // Rebuild database
             // elements.rebuildDbButton.addEventListener('click', rebuildDatabase);
