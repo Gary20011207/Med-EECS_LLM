@@ -187,3 +187,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# === Custom for Med-EECS_LLM ===
+# LoRA training outputs and checkpoints
+LoRA/**/adapter_model.safetensors
+LoRA/**/optimizer.pt
+LoRA/**/training_args.bin
+LoRA/**/scheduler.pt
+LoRA/**/trainer_state.json
+LoRA/**/pytorch_model.bin
+
+# VectorDB and image cache folders
+/VectorDB/
+/VectorDB_backup/
+/Images/
