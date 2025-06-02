@@ -1015,7 +1015,7 @@
 
             try {
                 // 先清除本地歷史
-                localStorage.removeItem(`chatHistory_${currentSessionId}`);
+                localStorage.removeItem(`chatHistory_${window.userRecordId}_${currentSessionId}`);
                 renderChatHistory();
                 
                 // 通知後端（可選，因為後端不再儲存歷史）
@@ -1081,7 +1081,7 @@
         // Event listeners
         function setupEventListeners() {
             // Send message events
-            elements.sendButton.addEventListener('click', () => sendMessage(true));
+            elements.sendButton.addEventListener('click', () => sendMessage(false));
             // elements.sendStreamButton.addEventListener('click', () => sendMessage(true));
             
             // Enter key to send
