@@ -589,25 +589,25 @@
 
         // Session management
         function initializeSession() {
-            // Get record_id from global variable
             const recordId = window.userRecordId || '';
-            currentSessionId = loadFromLocalStorage('chatSessionId');
+            const key = `chatSessionId_${recordId}`;
+            currentSessionId = loadFromLocalStorage(key);
             if (!currentSessionId) {
                 currentSessionId = generateUUID(recordId);
-                saveToLocalStorage('chatSessionId', currentSessionId);
+                saveToLocalStorage(key, currentSessionId);
             }
             elements.sessionIdInput.value = currentSessionId;
             renderChatHistory();
         }
 
         function saveChatHistory(history) {
-            if (!currentSessionId) return;
-            saveToLocalStorage(`chatHistory_${currentSessionId}`, history);
+            if (!currentSessionId || !window.userRecordId) return;
+            saveToLocalStorage(`chatHistory_${window.userRecordId}_${currentSessionId}`, history);
         }
 
         function loadChatHistory() {
-            if (!currentSessionId) return [];
-            return loadFromLocalStorage(`chatHistory_${currentSessionId}`) || [];
+            if (!currentSessionId || !window.userRecordId) return [];
+            return loadFromLocalStorage(`chatHistory_${window.userRecordId}_${currentSessionId}`) || [];
         }
 
         function renderChatHistory() {
@@ -1153,7 +1153,7 @@
                 saveToLocalStorage(`deptSessionId_${dept}`, existingId);
             }
             currentSessionId = existingId;
-            saveToLocalStorage('chatSessionId', currentSessionId);
+            saveToLocalStorage(`chatSessionId_${recordId}`, currentSessionId);
             elements.sessionIdInput.value = currentSessionId;
             renderChatHistory();
             highlightDepartment(dept);
