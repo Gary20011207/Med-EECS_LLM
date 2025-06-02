@@ -1,28 +1,52 @@
-FROM nvidia/cuda:12.8.0-cudnn8-runtime-ubuntu22.04
+# Base image with CUDA 12.8.0, CUDNN 8, on Ubuntu 24.04
+FROM nvidia/cuda:12.8.0-cudnn-runtime-ubuntu24.04
 
-# 安裝 Python 與必要工具（無快取、減少體積）
+# Set DEBIAN_FRONTEND to noninteractive to prevent apt-get from prompting
+ENV DEBIAN_FRONTEND=noninteractive
+ENV TZ=Asia/Taipei
+ENV LANG=C.UTF-8
+ENV LC_ALL=C.UTF-8
+
+# If not, Python 3.13 would need to be compiled from source.
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
-    python3.10 python3-pip python3.10-venv && \
+    git \
+    python3 \
+    python3-pip \
+    python3-venv \
+    python3.12-dev \
+    gcc \
+    g++ \
+    wget \
+    curl \
+    libgl1 \
+    libglib2.0-0 \
+    build-essential \
+    ca-certificates && \
+    apt-get autoremove -y && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
-# 設定 python 為預設版本
-RUN update-alternatives --install /usr/bin/python python /usr/bin/python3.10 1
+# Set up a virtual environment
+ENV VENV_PATH=/app/venv
+ENV PATH="${VENV_PATH}/bin:${PATH}"
 
-# 建立工作目錄
+# Create working directory
 WORKDIR /app
 
-# 只安裝依賴，不 COPY 原始碼
+RUN python3 -m venv ${VENV_PATH}
+
+# Copy only requirements.txt first to leverage Docker cache
 COPY requirements.txt ./
 
-# 安裝 CUDA 12.8 對應的 PyTorch + 其他依賴
-RUN pip install --upgrade pip && \
-    pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128 && \
-    pip install -r requirements.txt
+#
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cu128 && \
+    pip install --no-cache-dir -r requirements.txt
 
-# 開放 Flask port
+# Expose Flask port (if your app.py uses Flask on this port)
 EXPOSE 5001
 
-# 啟動主程式
+# Start the main application
+# This will use the python from the virtual environment due to the PATH modification
 CMD ["python", "app.py"]

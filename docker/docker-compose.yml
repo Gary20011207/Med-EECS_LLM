@@ -13,7 +13,9 @@ services:
             - capabilities: [gpu]
     volumes:
       - ../app.py:/app/app.py
-      - ../apps:/app/apps
+      - ../config.py:/app/config.py
+      - ../core:/app/core
       - ../templates:/app/templates
-      - ../requirements.txt:/app/requirements.txt
+      - ../PDFS:/app/PDFS
+      - ~/.cache:/root/.cache
     restart: always
