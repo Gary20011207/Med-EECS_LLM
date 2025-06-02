@@ -1,8 +1,6 @@
-Radiography  of  KUB+L-S  Spine  Lateral  View(Standing)  Show:
-
-Scoliosis  of  lumbar  spine  
-Degenerative  change  of  lumbar  spine  with  spurs  formation  .  
-Spondylolisthesis  of  L4-5  post  laminectomy  and  transpedicle  screws  fixation.
-Compression  fracture  at  the    T12  post  vertebroplasty  with  cement  leakage  into  adjacent  disc.
-Compression  fracture  at  the  L1.
-
+Radiography of KUB and L-S Spine (Standing Lateral View) Show:
+- Scoliosis of lumbar spine.
+- Degenerative change of lumbar spine with spurs formation.
+- Spondylolisthesis of L4-5 post laminectomy and transpedicle screws fixation.
+- Compression fracture at the T12 post vertebroplasty with cement leakage into adjacent disc.
+- Compression fracture at the L1.

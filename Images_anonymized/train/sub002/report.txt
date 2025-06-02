@@ -1,5 +1,4 @@
-Radiography  of  L-S  Spine  Lateral  View,L-S  Spine  A-P  View  Show:
-
-Spondylolisthesis  of  L4-5  post  laminectomy  and  transpedicle  screws  fixation.
-Compression  fracture  at  the    T12  post  vertebroplasty.
-Compression  fracture  at  the  T11.
+Radiography of L-S Spine (Lateral View, A-P View) Show:
+- Spondylolisthesis of L4-5 post laminectomy and transpedicle screws fixation.
+- Compression fracture at the T12 post vertebroplasty.
+- Compression fracture at the T11.

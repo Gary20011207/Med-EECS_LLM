@@ -1,7 +1,6 @@
-Radiography  of  Lumbar  2  View(AP+Lat)  Show:
-
-S/P  L1-S1  laminectomy  with  transpedicle  screw  fixation.
-S/P  interspinous  fusion  at  L3-4,  L4-5  and  L5-S1.  
-Drainage  tube  in  spinal  canal.  
-Gaseous  distension  of  bowel  loops.
-Surgical  clips  in  RUQ  of  abdomen.  
+Radiography of Lumbar Spine (A-P and Lateral Views) Show:
+- S/P L1-S1 laminectomy with transpedicle screw fixation.
+- S/P interspinous fusion at L3-4, L4-5 and L5-S1.
+- Drainage tube in spinal canal.
+- Gaseous distension of bowel loops.
+- Surgical clips in RUQ of abdomen.
