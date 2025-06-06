@@ -83,7 +83,7 @@ def infer_folder(root: str, model, processor):
         model_answer = generate_report(imgs, model, processor)
 
         print(f"\n--- {os.path.basename(sub)} ---")
-        print("📄 Model Answer:\n", model_answer)
+        print("Model Answer:\n", model_answer)
 
         # With ground truth
         if os.path.exists(rpt_path):

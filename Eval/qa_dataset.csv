@@ -1,820 +1,177 @@
-﻿qa_id,question,reference_answer,resource,category
-0,為何 ERAS 建議多模式鎮痛而非阿片單用？,減少阿片副作用如噁心與腸道遲緩，提升康復速度。,Kehlet,藥劑
-1,ERAS 是否建議術前給予 acetaminophen？,是，為術後鎮痛提供基礎效果，且副作用低。,Apfelbaum,藥劑
-2,gabapentin 在 ERAS 中的應用？,可減術後疼痛與阿片使用，但有鎮靜風險。,Tiippana,藥劑
-3,NSAIDs 是否適用於 ERAS？,是，但需監控出血風險與腎功能。,White,藥劑
-4,術前使用 celecoxib 有哪些優點？,COX-2 抑制效果佳，胃腸副作用低。,Reuben,藥劑
-5,ERAS 是否推薦 preemptive analgesia？,是，術前止痛能降低術後敏感化。,Katz,藥劑
-6,ketamine 於 ERAS 的角色為何？,可減術後慢性疼痛並保護中樞抑制。,Bell,藥劑
-7,靜脈 lidocaine 有哪些臨床效果？,減痛、抗炎並促進腸道功能恢復。,McCarthy,藥劑
-8,ERAS 是否鼓勵區域麻醉？,是，有助降低阿片使用與加速恢復。,McDonnell,藥劑
-9,為什麼 ERAS 強調使用 BIS？,減少麻醉過度與術後譫妄。,Radtke,藥劑
-10,ERAS 中 PONV 的預防建議？,雙重止吐策略：dexamethasone＋ondansetron。,Gan,藥劑
-11,術中使用 dexamethasone 有何額外益處？,除止吐外，可能具有鎮痛與抗炎作用。,De,藥劑
-12,術前減敏處理與 prehabilitation 有何關聯？,可減低術後疼痛與阿片需求。,Carli,藥劑
-13,ERAS 是否支持 spinal anesthesia？,是，尤其在下腹部與下肢手術中優先選擇。,Guay,藥劑
-14,ERAS 是否限制術中液體補充？,鼓勵 goal-directed therapy（GDT）以維持灌流。,Grocott,藥劑
-15,何謂 opioid-sparing anesthesia？,麻醉過程中避免或最小化使用阿片。,Lavand’homme,藥劑
-16,ERAS 是否鼓勵術後 PCA（patient-controlled analgesia）？,可使用但應搭配非阿片藥物優化效果。,Chou,藥劑
-17,使用 alpha-2 agonist（如 dexmedetomidine）有何效益？,可減少術後阿片使用並穩定血壓與焦慮。,Lin,藥劑
-18,ERAS 是否限制 benzodiazepines？,除非病人高度焦慮，應避免使用。,Sampson,藥劑
-19,術後麻醉復甦階段的優先重點？,快速清醒與疼痛控制平衡。,Myles,藥劑
-20,術前禁食建議為何？,清流質可於術前 2 小時內飲用，固體需禁食 6 小時。,,營養
-21,碳水化合物飲品的標準建議？,術前晚 100g，術晨 2 小時內 50g 清流質含醣。,,營養
-22,ESPEN 建議營養風險病人術前多久開始介入？,7–14 天。,,營養
-23,術後多久可進食？,4 小時內鼓勵清流質、軟質食物。,,營養
-24,免疫營養（IMN）組成？,Arginine、omega-3、核苷酸。,,營養
-25,術前 NPO 是否需常規靜脈營養支持？,不建議，首選腸道營養。,,營養
-26,營養支持何時需由腸道轉為靜脈補充？,"若病人持續 >3 天無法經腸道進食，應考慮靜脈營養。
-解釋：腸道為優先，TPN 僅在腸功能不全或腸阻塞時考慮。","Singer P, et al. Clin Nutr. 2019;38(1):48–79.",營養
-27,術後高蛋白攝取的建議量為何？,"1.2–2.0 g/kg/day。
-解釋：足夠蛋白質能促進傷口癒合與免疫功能。","Weimann A, et al. Clin Nutr. 2017;36(3):623–650.",營養
-28,術後可否使用口服營養補充（ONS）？,"建議使用，能提升總能量與蛋白攝取。
-解釋：ONS 適合術後胃口差或恢復期間使用。","Cawood AL, et al. Clin Nutr. 2012;31(3):293–312.",營養
-29,長期術後營養不良的後果？,"延遲癒合、感染率升高、住院延長。
-解釋：營養狀態直接影響免疫與修復功能。","Correia MI, et al. Curr Opin Clin Nutr Metab Care. 2014;17(5):488–494.",營養
-30,術後多久內達成營養目標最理想？,"48–72 小時內達 80% 熱量與蛋白目標。
-解釋：可減少負氮平衡與功能衰退。",ESPEN Guidelines. Clin Nutr. 2006;25(2):224–244.,營養
-31,術後是否需額外補充 omega-3？,"癌症與重症病人中證據支持補充。
-解釋：omega-3 可抗發炎並改善營養狀態。",Calder PC. Proc Nutr Soc. 2010;69(3):305–318.,營養
-32,營養風險評估常用工具？,"NRS-2002 與 MUST。
-解釋：這些工具可早期識別需要營養介入的患者。","Kondrup J, et al. Clin Nutr. 2003;22(4):415–421.",營養
-33,術後腸蠕動未恢復可否使用腸道營養？,"應依臨床耐受度，少量開始可行。
-解釋：即使無腸音，也可在無嘔吐無腹脹情況下給予。","McClave SA, et al. JPEN. 2016;40(2):159–211.",營養
-34,術後灌食速度的起始建議？,"每小時 10–30 mL 起始，逐日調整。
-解釋：緩慢提升可降低不耐與胃瀦留風險。",ESPEN Guidelines. Clin Nutr. 2006;25(2):224–244.,營養
-35,術後低磷血症與 refeeding syndrome 風險？,"高風險病人應補充電解質並緩慢進食。
-解釋：低營養狀態者重新餵食會導致電解質移動與心衰。",Crook MA. J Clin Pathol. 2001;54(11):876–877.,營養
-36,術後早期飲食不耐應如何調整？,"減少進食量、改為低脂清流質。
-解釋：避免噁心與腹脹，讓腸道逐步適應。",Lewis SJ. BMJ. 2009;338:b748.,營養
-37,術後是否應限制膳食纖維？,"初期應以低渣飲食為主，逐步增加。
-解釋：高纖初期可能增加脹氣與排便困難。",ESPEN Guidelines. Clin Nutr. 2006;25(2):224–244.,營養
-38,術後老年人常見營養障礙？,"咀嚼困難、食慾差、蛋白質攝取不足。
-解釋：可採用高能量密度與少量多餐策略。",Volkert D. Clin Geriatr Med. 2019;35(2):201–211.,營養
-39,術後口服營養介入最佳時機？,"術後即開始、每日評估進度與耐受度。
-解釋：早期介入比延後有更好結局。",Stratton RJ. Clin Nutr. 2003;22(6):515–522.,營養
-40,術後患者是否需限制脂肪？,"視手術類型與脂質代謝狀況決定。
-解釋：肝膽手術可採低脂，但一般手術不需嚴格限制。",ESPEN Guidelines. Clin Nutr. 2006;25(2):224–244.,營養
-41,術後不明發熱是否可能因營養不良？,"可能，需排除微量營養素缺乏。
-解釋：缺鋅、維生素 C 可干擾免疫與癒合。",Gombart AF. Nutrients. 2020;12(1):236.,營養
-42,術後營養管理是否包含心理支持？,"是，尤其在癌症與慢病手術中。
-解釋：焦慮與抑鬱會抑制食慾與影響順從性。",Anderson JR. Psychooncology. 2014;23(7):739–746.,營養
-43,ERAS 對術後糖尿病病人的營養建議？,"使用含纖維的糖控營養配方。
-解釋：可改善血糖控制與胃排空耐受度。",Gavin JR. Clin Diabetes. 2010;28(4):150–159.,營養
-44,術後心臟手術病人如何調整營養？,"建議低鈉、高蛋白、足熱量飲食。
-解釋：支持心肌修復並預防水腫。",Casey R. Nutr Clin Pract. 2012;27(2):176–183.,營養
-45,術後延遲排氣是否與營養有關？,"可能與缺乏腸道刺激與早期進食延遲有關。
-解釋：可考慮少量液體飲食與口服益生菌。",Andersson RE. World J Surg. 2012;36(7):1509–1516.,營養
-46,使用鼻胃管病人如何轉換為口服？,"應進行漸進式轉換與進食訓練。
-解釋：需由營養師與語言治療師共同監測。",Cichero JA. Clin Nutr. 2011;30(6):671–677.,營養
-47,口腔手術術後如何提供營養？,"液態或軟質營養飲品。
-解釋：確保能量攝取同時避免刺激傷口。",Elad S. Support Care Cancer. 2008;16(4):447–456.,營養
-48,胃繞道術後飲食建議？,"少量多餐、避免高糖。
-解釋：預防 Dumping syndrome 並控制體重。",Mechanick JI. Obesity. 2013;21(S1):S1–S27.,營養
-49,ERAS 是否支持術後個人化營養計畫？,"是，依手術類型、疾病與年齡調整。
-解釋：提升療效並減少營養不足與併發症。",Thibault R. Clin Nutr. 2011;30(2):160–165.,營養
-50,術後營養照護團隊需包含誰？,"醫師、營養師、護理師、藥師。
-解釋：跨領域整合能提升營養順從性與療效。",Schuetz P. Clin Nutr. 2020;39(3):685–693.,營養
-51,手術後麻醉相關的處理是什麼？,"手術後，您將被轉移到術後麻醉恢復室（PACU）或可能到重症監護
-病房（ICU）進行密切監測，以確保您從麻醉中安全甦醒。ERAS 指南強調
-術後觀察的重要性，以早期發現任何問題。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-52,術後我的疼痛會如何管理？,"您的疼痛將通過藥物管理，可能包括靜脈注射藥物或區域麻醉技術，
-如 ERAS 路徑中建議的，目標是讓您感到舒適並促進恢復。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-53,緊急手術的麻醉有風險嗎？,"所有麻醉都有一定風險，但 ERAS 指南強調，您的麻醉科醫師會快速
-評估您的狀況並制定麻醉計劃，以盡量減少風險，特別考慮到手術的緊急
-性質。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-54,麻醉效果需要多久才會消退？,"全身麻醉的效果通常在幾小時內消退，但您可能會感覺昏昏沉沉一段
-時間。ERAS 指南建議在 PACU 進行密切監測，以確保您從麻醉中安全恢
-復。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-55,我需要向麻醉科醫師提供哪些健康信息？,"請提供您完整的醫療病史，包括目前的和過去的疾病（如心臟病、糖
-尿病）、過敏史（特別是藥物或麻醉劑過敏）以及家族中是否有麻醉併發症
-史。ERAS 指南強調準確的術前評估對安全麻醉至關重要。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-56,我應該告訴醫師我正在服用的藥物嗎？,"是的，請告知所有正在使用的藥物，包括處方藥、非處方藥、維生
-素、草藥或補充劑。某些藥物可能需要停用或調整，以確保麻醉和手術安
-全，符合 ERAS 的快速審查建議。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-57,手術前我需要禁食嗎？,"由於緊急手術的急迫性，禁食時間可能有限，但醫療團隊會根據您的
-情況提供具體指導，例如停止進食或飲水。這能降低麻醉期間誤吸的風
-險，請嚴格遵循指示。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-58,如果我最近生病了，應該告訴醫師嗎？,"應該。如果您有發燒、感冒、呼吸道感染或其他近期健康問題，請告
-知麻醉科醫師。這些狀況可能影響麻醉安全，ERAS 指南建議快速評估患
-者的最新生理狀態。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-59,吸煙或喝酒會影響麻醉嗎？,"是的，吸煙和飲酒可能影響麻醉效果和術後恢復。雖然緊急手術無法
-提前計劃，但請告知您的吸煙或飲酒史，麻醉科醫師會據此調整計劃。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-60,麻醉科醫師會問我什麼問題？,"他們可能會問您是否有過麻醉經驗、是否曾有麻醉併發症（如惡性高
-熱或噁心嘔吐），以及您的身體狀況（如呼吸困難）。誠實回答有助於制定
-適合您的麻醉方案。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-61,手術前需要做哪些檢查？,"根據您的健康狀況，可能需要血液檢查、心電圖或其他快速檢查，以
-確認您適合麻醉。這些是 ERAS 指南中快速術前優化的一部分，確保手術
-安全。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-62,我的家人可以參與麻醉相關討論嗎？,"可以。ERAS 指南建議讓家人或照護者參與術前討論，特別是高風險
-患者。這有助於記錄您的意願並確保照護目標明確。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-63,麻醉時會用什麼藥物來保護我的氣道？,"麻醉師會使用琥珀膽鹼（1-2 mg/kg）或羅庫溴銨（0.9-1.2 mg/kg）等
-快速肌肉鬆弛劑，配合氣管插管保護氣道。藥物選擇會根據您的狀況調
-整。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-64,什麼是環甲膜壓迫？為什麼需要？,"環甲膜壓迫是一種技術，麻醉師在插管時壓迫您的喉部以防止胃內容
-物反流。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-65,麻醉期間如何確保我的血壓穩定？,"麻醉師會選擇適合的麻醉藥物並小心調整劑量，必要時使用血管加壓
-藥，維持平均動脈壓（MAP）在 60-65 mmHg，保護您的器官功能。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-66,手術中會如何控制我的體溫？,"麻醉團隊會使用主動加溫設備和溫熱靜脈液，監測您的核心體溫，保
-持正常體溫（36-37°C），降低感染和併發症風險。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-67,手術中如何預防噁心和嘔吐？,"麻醉師會使用多模式方法，包括減少鴉片類藥物和給予止吐藥，降低
-術後噁心嘔吐（PONV）的風險，特別針對高風險的 EL 患者。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-68,麻醉結束時如何決定是否拔管？,"麻醉師和外科團隊會共同評估您的呼吸功能和整體狀況，確保拔管安
-全，降低術後肺部併發症風險。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-69,如何降低緊急剖腹手術患者的靜脈血栓栓塞（VTE）風險？,"在入院時使用經過驗證的工具評估患者的 VTE 風險。如果藥物預防
-不可行，應使用機械預防措施（如間歇性氣壓治療）。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-
-World journal of surgery, 2023, 47.8: 1850-1880.
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",麻醉
-70,手術前可以喝東西嗎？,"ERAS 指南建議在手術前 2-3 小時飲用水或碳水化合物飲料，以減少
-術前焦慮、口渴和飢餓感，並防止脫水。","Reference: 1. NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society
-guidelines for gynecologic oncology: Addressing implementation challenges-
-2023 update. Gynecologic oncology, 2023, 173: 58-67.",麻醉
-71,如果我有嚴重的青黴素過敏怎麼辦？,"若您有確診嚴重的青黴素過敏，醫療團隊可能避免使用β-內酰胺類抗
-生素，改用替代藥物以預防手術部位感染。","Reference: 1. NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society
-guidelines for gynecologic oncology: Addressing implementation challenges-
-2023 update. Gynecologic oncology, 2023, 173: 58-67.",麻醉
-72,為什麼手術前可以吃輕食？,"您可以在麻醉前 6 小時吃輕食，因為現代禁食規則顯示這是安全的，
-且能減少術後胰島素抵抗，促進恢復。","Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
-Recovery After Surgery Society recommendations. American journal of
-obstetrics and gynecology, 2020, 223.4: 475-485.",麻醉
-73,手術會使用哪種麻醉方式？,"可能使用全身麻醉或區域麻醉（如脊椎或硬膜外麻醉），具體取決於您
-的手術。","Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
-Recovery After Surgery Society recommendations. American journal of
-obstetrics and gynecology, 2020, 223.4: 475-485.",麻醉
-74,為什麼推薦短效麻醉藥？,"短效麻醉藥能加快恢復，讓您更快恢復正常活動，如進食和行動，減
-少手術壓力反應","Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
-Recovery After Surgery Society recommendations. American journal of
-obstetrics and gynecology, 2020, 223.4: 475-485.",麻醉
-75,什麼是全靜脈麻醉（TIVA）,"全靜脈麻醉（TIVA）是一種使用靜脈藥物而非吸入氣體的全身麻醉方
-式，並能減少術後噁心嘔吐。","Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
-Recovery After Surgery Society recommendations. American journal of
-obstetrics and gynecology, 2020, 223.4: 475-485.",麻醉
-76,陰道子宮切除術前會給我抗生素嗎？,是的，您會在手術前 60 分鐘內接受靜脈抗生素，以降低感染風險。,"Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
-Recovery After Surgery Society recommendations. American journal of
-obstetrics and gynecology, 2020, 223.4: 475-485.",麻醉
-77,外陰手術會使用抗生素嗎？,"外陰手術，特別是根治性外陰切除術，建議使用抗生素，因其感染風
-險高。","Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
-Recovery After Surgery Society recommendations. American journal of
-obstetrics and gynecology, 2020, 223.4: 475-485.",麻醉
-78,剖腹產前喝東西安全嗎？,"是的，您可以在手術前 2 小時飲用清澈液體，如無果肉果汁、不加奶
-的咖啡或茶。","Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
-cesarean delivery: Enhanced Recovery After Surgery Society recommendations
-(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",麻醉
-79,剖腹產前可以吃東西嗎？,您可以在手術前 6 小時吃輕食。,"Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
-cesarean delivery: Enhanced Recovery After Surgery Society recommendations
-(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",麻醉
-80,為什麼手術前要給我抗酸劑？,"抗酸劑（如非顆粒性檸檬酸鈉）用於中和胃酸，降低麻醉期間罕見但
-嚴重的誤吸性肺炎風險。","Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
-cesarean delivery: Enhanced Recovery After Surgery Society recommendations
-(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",麻醉
-81,剖腹產會使用哪種麻醉方式？,"建議使用區域麻醉，如脊椎或硬膜外麻醉，因為它比全身麻醉更安
-全，但某些情況可能需要全身麻醉。","Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
-cesarean delivery: Enhanced Recovery After Surgery Society recommendations
-(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",麻醉
-82,麻醉科醫師如何確保麻醉期間我的安全？,"麻醉科醫師會使用抗酸劑、組織胺 H2 受體拮抗劑 (histamine H2
-receptor antagonists)，並儘可能使用區域麻醉，以降低誤吸等風險，確保手
-術安全。","Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
-cesarean delivery: Enhanced Recovery After Surgery Society recommendations
-(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",麻醉
-83,手術前可以吃止痛藥來減輕術後疼痛嗎？,"是的，醫生可能會給您乙醯氨酚、非甾體抗炎藥或加巴噴丁類藥物，
-這些藥物能減少術後疼痛和對阿片類藥物的需求。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
-spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
-recommendations. The spine journal, 2021, 21.5: 729-752.",麻醉
-84,手術中的麻醉會怎麼進行？,"麻醉通常結合全身麻醉和局部麻醉技術（如硬膜外或鞘內麻醉），以確
-保您無痛並減少術後不適，具體方案依醫院設備而定。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
-spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
-recommendations. The spine journal, 2021, 21.5: 729-752.",麻醉
-85,手術中會不會因為體溫太低而有風險？,"醫生會在手術前和手術中用加溫設備保持您的正常體溫，這能降低術
-後併發症風險。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
-spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
-recommendations. The spine journal, 2021, 21.5: 729-752.",麻醉
-86,手術後我會不會很痛？局部麻醉有幫助嗎？,"局部麻醉（如傷口滲透或硬膜外麻醉）能有效減輕術後疼痛，讓您更
-舒適。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
-spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
-recommendations. The spine journal, 2021, 21.5: 729-752.",麻醉
-87,"聽說區域阻斷麻醉 (Regional Block Anesthesia) 可以減緩疼痛，這適合
-我嗎？","區域阻斷麻醉 (Regional Block Anesthesia) 可能有助於疼痛管理，但效
-果因人而異，醫生會根據您的情況決定是否使用。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
-spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
-recommendations. The spine journal, 2021, 21.5: 729-752.",麻醉
-88,術後我可以繼續吃術前用的止痛藥嗎？,"可以，術後通常繼續使用乙醯氨酚或非甾體抗炎藥，這些藥物能減少
-對強效止痛藥的需求，降低副作用。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
-spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
-recommendations. The spine journal, 2021, 21.5: 729-752.",麻醉
-89,我很擔心術後會噁心想吐，有什麼預防方法？,"醫生會在手術前評估您的噁心風險，並可能在手術中使用抗嘔吐藥物
-來預防術後噁心感。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
-spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
-recommendations. The spine journal, 2021, 21.5: 729-752.",麻醉
-90,什麼時候可以開始術後復健？,"通常在手術後第一天（術後第 0 或 1 天），如果您的狀況穩定，復健
-科可能會開始協助您進行簡單的活動，如床上移動或坐起來。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-91,術後我需要做哪些復健運動？,"復健運動可能包括深呼吸練習、床上翻身、坐到站立的練習，以及逐
-步增加步行距離。這些活動由復健科根據您的狀況量身定制，遵循 ERAS
-的早期活動原則。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-92,復健時如何避免傷口疼痛或受傷？,遵循復健科的指導，進行溫和的運動，並避免突然用力或過度伸展。,"Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-93,如果我感到虛弱，該如何進行復健？,"復健科會根據您的體力設計輕量活動，例如從簡單的床上運動開始，
-逐步增加強度。ERAS 指南特別提到，對於高風險或虛弱患者，應提供個
-別化的復健計劃。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-94,復健能幫助我避免哪些術後問題？,早期復健有助於預防肺部感染、血栓形成和肌肉萎縮等併發症。,"Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-95,我需要多久才能恢復正常活動？,"恢復時間因人而異，視您的健康狀況和手術複雜性而定。復健科會設
-定逐步目標，幫助您在數週內逐步恢復日常活動。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-96,我需要去復健中心嗎，還是可以在家復健？,"初期復健通常在醫院進行，由復健科指導。出院後，您可能會收到居
-家復健計劃，或在門診繼續復健。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-97,復健科會如何評估我的進展？,"復健科會定期評估您的移動能力、力量和功能，例如您是否能獨立行
-走或完成日常活動。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-98,術後我可以自己運動嗎？,"在復健科或醫療團隊指導前，不建議自行進行劇烈運動。過早或不當
-的運動可能影響傷口癒合。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-99,復健會幫助我更快出院嗎？,"是的，積極參與復健能加速您的恢復，幫助您更快達到出院標準，例
-如獨立行走或自理能力。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-100,復健過程中我應該注意什麼？,"注意任何異常症狀，如傷口疼痛加劇、呼吸困難或腫脹，並立即告知
-醫療團隊。遵循復健科的指導，避免過度用力。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-101,如果我感到虛弱或疲倦，該怎麼辦？,"告訴復健科或醫療團隊您的感受。他們會調整復健計劃，例如縮短活
-動時間或選擇更輕鬆的運動。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-102,復健時需要特別注意飲食嗎？,"是的，均衡飲食有助於恢復。確保攝取足夠蛋白質和水分，支持肌肉
-修復和傷口癒合。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-103,我應該如何保護手術傷口？,"避免直接壓迫傷口，保持傷口清潔乾燥，並遵循醫療團隊的傷口護理
-指導，復健時選擇不會拉扯傷口的運動。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-104,復健過程中如何預防跌倒？,"使用助行器或醫療團隊的協助進行行走練習，穿防滑鞋，並確保環境
-安全（如移除絆倒物）。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-105,我可以什麼時候停止復健？,復健應持續進行，直到您恢復日常功能或達到醫療團隊設定的目標。,"Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-106,復健時應該如何管理疼痛？,"與醫療團隊討論您的疼痛狀況，他們可能會調整止痛藥、建議放鬆技
-巧或設計更低疼痛的運動。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-107,我需要每天都做復健嗎？,是的，規律的復健活動（即使是短時間）有助於加快恢復。,"Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-108,復健時需要呼吸訓練嗎？,"是的，ERAS 建議術後進行呼吸理療，包括深呼吸和痰液清除訓練，
-增強呼吸肌力，預防肺部併發症。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-109,如果我超過 65 歲，復健有什麼特別注意事項？,"老年患者應接受術後譫妄篩查，復健時注重認知刺激和規律作息，運
-動計劃應更溫和，減少併發症風險。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-110,如果我有尿液導管，復健時需要注意什麼？,確保導管固定，避免拉扯，醫療團隊會每天評估是否可移除。,"Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-111,術前認知評估如何幫助復健？,"對 65 歲以上患者進行簡單的認知功能評估（如 Mini-Cog），有助於
-識別術後譫妄和認知功能障礙的風險患者，從而制定針對性的復健計劃。","Reference: 1. PEDEN, Carol J., et al. Guidelines for perioperative care for emergency
-laparotomy Enhanced Recovery After Surgery (ERAS) Society
-recommendations: part 1—preoperative: diagnosis, rapid assessment and
-optimization. World journal of surgery, 2021, 45.5: 1272-1290.
-2. SCOTT, Michael J., et al. Consensus guidelines for perioperative care for
-emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society
-recommendations part 2—emergency laparotomy: intra-and postoperative care.
-World journal of surgery, 2023, 47.8: 1850-1880.
-
-3. PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society
-consensus guidelines for emergency laparotomy part 3: organizational aspects
-and general considerations for management of the emergency laparotomy
-patient. World journal of surgery, 2023, 47.8: 1881-1898.",復健
-112,手術後多久可以開始進食？,"通常在手術後不久可以開始飲用清澈液體 (水或碳水化合物飲料)，並
-在一日內進展到輕食，以減少併發症和住院時間。","Reference: 1. NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society
-guidelines for gynecologic oncology: Addressing implementation challenges-
-2023 update. Gynecologic oncology, 2023, 173: 58-67.",復健
-113,手術後如何預防血栓？,"您可能會接受靜脈血栓栓塞（VTE）預防措施，如肝素，並被鼓勵術
-後進行適度活動以預防血栓。","Reference: 1. NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society
-guidelines for gynecologic oncology: Addressing implementation challenges-
-2023 update. Gynecologic oncology, 2023, 173: 58-67.",復健
-114,我可以做哪些運動來避免血栓？,"在床上進行簡單的腿部運動以及手術後不久的短距離行走，由醫療團
-隊指導，有助於改善血流並預防血栓","Reference: 1. NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society
-guidelines for gynecologic oncology: Addressing implementation challenges-
-2023 update. Gynecologic oncology, 2023, 173: 58-67.",復健
-115,外陰或陰道手術後何時可以開始進食？,"建議在手術後 24 小時內開始正常飲食，早期進食安全，有助於腸道功
-能恢復並縮短住院時間。","Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
-Recovery After Surgery Society recommendations. American journal of
-obstetrics and gynecology, 2020, 223.4: 475-485.",復健
-116,什麼是逆行膀胱充填，為什麼可能使用？,"逆行膀胱充填是在手術室或恢復室向膀胱注入液體，以測試陰道手術
-後的排尿功能。","Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
-Recovery After Surgery Society recommendations. American journal of
-obstetrics and gynecology, 2020, 223.4: 475-485.",復健
-117,手術後需要陰道填塞嗎？,"陰道填塞非必要，因其不會減少出血或血腫，且可能增加疼痛或感染
-風險，若使用陰道填塞，應在 24 小時內移除，以避免感染風險增加和延長
-尿管使用。","Reference: 1. ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced
-Recovery After Surgery Society recommendations. American journal of
-obstetrics and gynecology, 2020, 223.4: 475-485.",復健
-118,我應該了解剖腹產的哪些風險？,"您將被告知短期風險（如感染、血栓、疼痛）和長期風險（如未來妊
-娠子宮破裂），尤其是當手術缺乏醫學指徵時。","Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
-cesarean delivery: Enhanced Recovery After Surgery Society recommendations
-(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",復健
-119,肥胖會影響剖腹產恢復？,若您的 BMI 超過 40，感染或傷口問題的風險較高。,"Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
-cesarean delivery: Enhanced Recovery After Surgery Society recommendations
-(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",復健
-120,為什麼術前管理高血壓很重要？,"慢性高血壓增加子癲前症 (Preeclampsia) 和早產風險，孕期控制高血
-壓可改善結果並減少剖腹產併發症。","Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
-cesarean delivery: Enhanced Recovery After Surgery Society recommendations
-(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",復健
-121,糖尿病管理會影響我的恢復？,"控制糖尿病（原有或妊娠期）可減少子癇前症、巨嬰症和剖腹產風
-險，通過生活方式和藥物管理改善恢復。","Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
-cesarean delivery: Enhanced Recovery After Surgery Society recommendations
-(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",復健
-122,為什麼剖腹產前要檢查貧血？,"貧血可能會增加母體死亡、胎兒體重過輕、早產和手術併發症風險，
-通過鐵劑 (口服或靜脈注射) 補充可改善貧血。","Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
-cesarean delivery: Enhanced Recovery After Surgery Society recommendations
-(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",復健
-123,剖腹產前是否應該戒菸？,是的，孕早期戒菸可減少胎兒體重過輕、早產和死胎等風險。,"Reference: 1. WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in
-cesarean delivery: Enhanced Recovery After Surgery Society recommendations
-(part 1)—2025 update. American journal of obstetrics and gynecology, 2025.",復健
-124,我的飲食會影響手術恢復嗎？,"是的，醫生會檢查您的營養狀況，若有營養不良，會建議飲食調整或
-補充營養品，以減少併發症。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
-spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
-recommendations. The spine journal, 2021, 21.5: 729-752.",復健
-125,我抽菸，會不會影響手術恢復？,"抽菸會增加術後併發症風險，建議至少在手術前 4 週戒菸，能顯著改
-善恢復效果。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
-spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
-recommendations. The spine journal, 2021, 21.5: 729-752.",復健
-126,喝酒對手術恢復有什麼影響？,過量飲酒可能增加感染和血栓風險，建議手術前 4-8 週戒酒，以促進恢復。,"Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
-spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
-recommendations. The spine journal, 2021, 21.5: 729-752.",復健
-127,如果我有貧血，會影響恢復嗎？,"貧血可能延長住院時間和增加併發症，醫生會在手術前檢查並改善貧
-血症狀，幫助您更好地恢復。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
-spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
-recommendations. The spine journal, 2021, 21.5: 729-752.",復健
-128,術後什麼時候可以開始吃東西？,"通常建議術後儘早恢復正常飲食，這能幫助腸道功能恢復，促進康
-復。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
-spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
-recommendations. The spine journal, 2021, 21.5: 729-752.",復健
-129,手術中怎麼防止感染來幫助恢復？,"醫生會使用抗生素和氯己定或碘酒清潔皮膚，這些措施能降低感染風
-險，讓您恢復更順利。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
-spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
-recommendations. The spine journal, 2021, 21.5: 729-752.",復健
-130,手術後需要一直插尿管嗎？,"對於簡單的腰椎融合手術，通常不需要尿管；若有使用，會在術後幾
-小時內移除，以減少不適。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
-spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
-recommendations. The spine journal, 2021, 21.5: 729-752.",復健
-131,手術後怎麼避免血栓影響恢復？,"醫生可能會使用氣壓加壓裝置或藥物來預防血栓，這能降低血栓風
-險，幫助安全恢復。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
-spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
-recommendations. The spine journal, 2021, 21.5: 729-752.",復健
-132,術後多久我可以恢復正常活動？,"ERAS 協議通過減少併發症和促進早期活動，幫助您更快恢復，但具
-體時間取決於您的狀況，需與醫生討論。","Reference: 1. DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar
-spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society
-recommendations. The spine journal, 2021, 21.5: 729-752.",復健
+﻿qa_id,category,sub_category,type,question,ground_truth,references
+0,麻醉,通用型問答（General Q&A）,closed,麻醉期間如何確保我的血壓穩定？,麻醉師會選擇適合的麻醉藥物並小心調整劑量，必要時使用血管加壓藥，維持平均動脈壓（MAP）在 65 mmHg 以上，保護您的器官功能。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752. || MCGINIGLE, Katharine L., et al. Perioperative care in open aortic vascular surgery: a consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery. Journal of vascular surgery, 2022, 75.6: 1796-1820."
+1,麻醉,通用型問答（General Q&A）,closed,手術中會如何控制我的體溫？,麻醉團隊會使用主動加溫設備和溫熱靜脈液，監測您的核心體溫，保持正常體溫（36-37°C），降低感染和併發症風險。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752. || MCGINIGLE, Katharine L., et al. Perioperative care in open aortic vascular surgery: a consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery. Journal of vascular surgery, 2022, 75.6: 1796-1820."
+2,麻醉,"緊急腹腔手術（Emergency Laparotomy, EL）",closed,麻醉時會用什麼藥物來保護我的氣道？,麻醉師會使用琥珀膽鹼（1-2 mg/kg）或羅庫溴銨（0.9-1.2 mg/kg）等快速肌肉鬆弛劑，配合氣管插管保護氣道。藥物選擇會根據您的狀況調整。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898."
+3,麻醉,婦科腫瘤學（Gynecologic Oncology）,closed,手術前可以喝東西嗎？,ERAS 指南建議在手術前 2-3 小時飲用水或碳水化合物飲料，以減少術前焦慮、口渴和飢餓感，並防止脫水。,"NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67."
+4,麻醉,婦科：外陰部和陰道手術（Gynecologic：vulvar and vaginal surgery）,closed,為什麼手術前可以吃輕食？,您可以在麻醉前 6 小時吃輕食，因為現代禁食規則顯示這是安全的，且能減少術後胰島素抵抗，促進恢復。,"ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485."
+5,麻醉,婦科：外陰部和陰道手術（Gynecologic：vulvar and vaginal surgery）,closed,陰道子宮切除術前會給我抗生素嗎？,是的，您會在手術前 60 分鐘內接受靜脈抗生素，以降低感染風險。,"ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485."
+6,麻醉,婦科：剖腹產（Gynecologic：Cesarean Delivery）,closed,剖腹產前喝東西安全嗎？,是的，您可以在手術前 2 小時飲用清澈液體，如無果肉果汁、不加奶的咖啡或茶。,"WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025."
+7,麻醉,婦科：剖腹產（Gynecologic：Cesarean Delivery）,closed,剖腹產前可以吃東西嗎？,您可以在手術前 6 小時吃輕食。,"WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025."
+8,麻醉,開放主動脈血管手術（Open aortic vascular surgery）,closed,手術中如何監測我的心臟和血壓？,會使用動脈導管進行侵入性心血管監測，確保您的平均動脈壓（MAP）接近正常值，且至少高於 65 mmHg。,"MCGINIGLE, Katharine L., et al. Perioperative care in open aortic vascular surgery: a consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery. Journal of vascular surgery, 2022, 75.6: 1796-1820."
+9,麻醉,開放主動脈血管手術（Open aortic vascular surgery）,closed,會給我抗生素來預防感染嗎？,是的，您會在手術前 30-60 分鐘接受預防性靜脈抗生素，必要時術中會再次給藥，以降低感染風險。,"MCGINIGLE, Katharine L., et al. Perioperative care in open aortic vascular surgery: a consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery. Journal of vascular surgery, 2022, 75.6: 1796-1820."
+10,復健,"緊急腹腔手術（Emergency Laparotomy, EL）",closed,什麼時候可以開始術後復健？,通常在手術後第一天（術後第 0 或 1 天），如果您的狀況穩定，復健科可能會開始協助您進行簡單的活動，如床上移動或坐起來。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898."
+11,復健,婦科腫瘤學（Gynecologic Oncology）,closed,手術後多久可以開始進食？,通常在手術後不久可以開始飲用清澈液體 (水或碳水化合物飲料)，並在 1 日內進展到輕食，以減少併發症和住院時間。,"NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67."
+12,復健,婦科：外陰部和陰道手術（Gynecologic：vulvar and vaginal surgery）,closed,外陰或陰道手術後何時可以開始進食？,建議在手術後 24 小時內開始正常飲食，早期進食安全，有助於腸道功能恢復並縮短住院時間。,"ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced      Recovery After Surgery Society recommendations. American journal of      obstetrics and gynecology, 2020, 223.4: 475-485."
+13,復健,婦科：外陰部和陰道手術（Gynecologic：vulvar and vaginal surgery）,closed,手術後需要陰道填塞嗎？,陰道填塞非必要，因其不會減少出血或血腫，且可能增加疼痛或感染風險，若使用陰道填塞，應在 24 小時內移除，以避免感染風險增加和延長尿管使用。,"ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced      Recovery After Surgery Society recommendations. American journal of      obstetrics and gynecology, 2020, 223.4: 475-485."
+14,復健,婦科：剖腹產（Gynecologic：Cesarean Delivery）,closed,肥胖會影響剖腹產恢復？,若您的 BMI 超過 40，感染或傷口問題的風險較高。,"WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025."
+15,復健,骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）,closed,我抽菸，會不會影響手術恢復？,抽菸會增加術後併發症風險，建議至少在手術前 4 週戒菸，能顯著改善恢復效果。,"DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+16,藥劑,通用型問答,closed,ERAS 是否建議術中 lidocaine infusion 延至術後？,可延長至術後 24 小時以減慢性痛風險。,De Oliveira GS. Anesth Analg. 2012;115(2):527–533.
+17,營養,術前禁食,closed,術前禁食建議為何？,清流質可於術前 2 小時內飲用，固體需禁食 6 小時。,Enhanced recovery after surgery (ERAS?) society guidelines for gynecologic oncology: Addressing implementation challenges - 2023 update
+18,營養,術前碳水補充,closed,碳水化合物飲品的標準建議？,術前晚 100g，術晨 2 小時內 50g 清流質含醣。,Preoperative consumption of a carbohydrate drink before laparoscopic cholecystectomy is safe and beneficial in Korea: a non-randomized controlled study
+19,營養,術前營養支持,closed,ESPEN 建議營養風險病人術前多久開始介入？,7–14 天。,ESPEN practical guideline: Clinical nutrition in surgery
+20,營養,通用型問答,closed,術後多久可進食？,4 小時內鼓勵清流質、軟質食物。,The effect of early oral postoperative feeding on the recovery of intestinal motility after gastrointestinal surgery: a systematic review and meta-analysis of randomized clinical trials
+21,營養,術前營養支持,closed,營養支持何時需由腸道轉為靜脈補充？,若病人持續 >3 天無法經腸道進食，應考慮靜脈營養。 解釋：腸道為優先，TPN 僅在腸功能不全或腸阻塞時考慮。,"Singer P, et al. Clin Nutr. 2019;38(1):48–79."
+22,營養,通用型問答,closed,術後高蛋白攝取的建議量為何？,1.2–2.0 g/kg/day。 解釋：足夠蛋白質能促進傷口癒合與免疫功能。,"Weimann A, et al. Clin Nutr. 2017;36(3):623–650."
+23,營養,通用型問答,closed,術後多久內達成營養目標最理想？,48–72 小時內達 80% 熱量與蛋白目標。 解釋：可減少負氮平衡與功能衰退。,ESPEN Guidelines. Clin Nutr. 2006;25(2):224–244.
+24,營養,通用型問答,closed,術後灌食速度的起始建議？,每小時 10–30 mL 起始，逐日調整。 解釋：緩慢提升可降低不耐與胃瀦留風險。,ESPEN Guidelines. Clin Nutr. 2006;25(2):224–244.
+25,復健,骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）,closed,喝酒對手術恢復有什麼影響？,過量飲酒可能增加感染和血栓風險，建議手術前 4-8 週避免飲酒，以促進恢復。,"DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+26,麻醉,通用型問答（General Q&A）,open,麻醉效果需要多久才會消退？,全身麻醉的效果通常在幾小時內消退，但您可能會感覺昏昏沉沉一段 時間。ERAS 指南建議在 PACU 進行密切監測，以確保您從麻醉中安全恢復。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar      spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society      recommendations. The spine journal, 2021, 21.5: 729-752. || MCGINIGLE, Katharine L., et al. Perioperative care in open aortic vascular surgery: a consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery. Journal of vascular surgery, 2022, 75.6: 1796-1820."
+27,麻醉,通用型問答（General Q&A）,open,我需要向麻醉科醫師提供哪些健康信息？,請提供您完整的醫療病史，包括目前的和過去的疾病（如心臟病、糖尿病）、過敏史（特別是藥物或麻醉劑過敏）以及家族中是否有麻醉併發症史。ERAS指南強調準確的術前評估對安全麻醉至關重要。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar      spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society      recommendations. The spine journal, 2021, 21.5: 729-752. || MCGINIGLE, Katharine L., et al. Perioperative care in open aortic vascular surgery: a consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery. Journal of vascular surgery, 2022, 75.6: 1796-1820."
+28,麻醉,通用型問答（General Q&A）,open,我應該告訴醫師我正在服用的藥物嗎？,是的，請告知所有正在使用的藥物，包括處方藥、非處方藥、維生素、草藥或補充劑。某些藥物可能需要停用或調整，以確保麻醉和手術安全，符合ERAS的快速審查建議。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar      spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society      recommendations. The spine journal, 2021, 21.5: 729-752. || MCGINIGLE, Katharine L., et al. Perioperative care in open aortic vascular surgery: a consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery. Journal of vascular surgery, 2022, 75.6: 1796-1820."
+29,麻醉,通用型問答（General Q&A）,open,如果我最近生病了，應該告訴醫師嗎？,應該。如果您有發燒、感冒、呼吸道感染或其他近期健康問題，請告知麻醉科醫師。這些狀況可能影響麻醉安全，ERAS指南建議快速評估患者的最新生理狀態。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar      spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society      recommendations. The spine journal, 2021, 21.5: 729-752. || MCGINIGLE, Katharine L., et al. Perioperative care in open aortic vascular surgery: a consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery. Journal of vascular surgery, 2022, 75.6: 1796-1820."
+30,麻醉,通用型問答（General Q&A）,open,吸煙或喝酒會影響麻醉嗎？,是的，吸煙和飲酒可能影響麻醉效果和術後恢復。雖然緊急手術無法提前計劃，但請告知您的吸煙或飲酒史，麻醉科醫師會據此調整計劃。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar      spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society      recommendations. The spine journal, 2021, 21.5: 729-752. || MCGINIGLE, Katharine L., et al. Perioperative care in open aortic vascular surgery: a consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery. Journal of vascular surgery, 2022, 75.6: 1796-1820."
+31,麻醉,通用型問答（General Q&A）,open,麻醉科醫師會問我什麼問題？,他們可能會問您是否有過麻醉經驗、是否曾有麻醉併發症（如惡性高熱或噁心嘔吐），以及您的身體狀況（如呼吸困難）。誠實回答有助於制定適合您的麻醉方案。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar      spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society      recommendations. The spine journal, 2021, 21.5: 729-752. || MCGINIGLE, Katharine L., et al. Perioperative care in open aortic vascular surgery: a consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery. Journal of vascular surgery, 2022, 75.6: 1796-1820."
+32,麻醉,通用型問答（General Q&A）,open,手術前需要做哪些檢查？,根據您的健康狀況，可能需要血液檢查、心電圖或其他快速檢查，以確認您適合麻醉。這些是ERAS指南中快速術前優化的一部分，確保手術安全。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar      spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society      recommendations. The spine journal, 2021, 21.5: 729-752. || MCGINIGLE, Katharine L., et al. Perioperative care in open aortic vascular surgery: a consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery. Journal of vascular surgery, 2022, 75.6: 1796-1820."
+33,麻醉,通用型問答（General Q&A）,open,我的家人可以參與麻醉相關討論嗎？,可以。ERAS指南建議讓家人或照護者參與術前討論，特別是高風險患者。這有助於記錄您的意願並確保照護目標明確。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar      spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society      recommendations. The spine journal, 2021, 21.5: 729-752. || MCGINIGLE, Katharine L., et al. Perioperative care in open aortic vascular surgery: a consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery. Journal of vascular surgery, 2022, 75.6: 1796-1820."
+34,麻醉,通用型問答（General Q&A）,open,手術中如何預防噁心和嘔吐？,麻醉師會使用多模式方法，包括減少鴉片類藥物和給予止吐藥，降低術後噁心嘔吐（PONV）的風險，特別針對高風險的EL 患者。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar      spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society      recommendations. The spine journal, 2021, 21.5: 729-752. || MCGINIGLE, Katharine L., et al. Perioperative care in open aortic vascular surgery: a consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery. Journal of vascular surgery, 2022, 75.6: 1796-1820."
+35,麻醉,"緊急腹腔手術（Emergency Laparotomy, EL）",open,手術後麻醉相關的處理是什麼？,手術後，您將被轉移到術後麻醉恢復室（PACU）或可能到重症監護病房（ICU）進行密切監測，以確保您從麻醉中安全甦醒。ERAS指南強調術後觀察的重要性，以早期發現任何問題。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898."
+36,麻醉,"緊急腹腔手術（Emergency Laparotomy, EL）",open,術後我的疼痛會如何管理？,您的疼痛將通過藥物管理，可能包括靜脈注射藥物或區域麻醉技術， 如 ERAS路徑中建議的，目標是讓您感到舒適並促進恢復。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898."
+37,麻醉,"緊急腹腔手術（Emergency Laparotomy, EL）",open,緊急手術的麻醉有風險嗎？,所有麻醉都有一定風險，但ERAS指南強調，您的麻醉科醫師會快速評估您的狀況並制定麻醉計劃，以盡量減少風險，特別考慮到手術的緊急性質。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898."
+38,麻醉,"緊急腹腔手術（Emergency Laparotomy, EL）",open,手術前我需要禁食嗎？,由於緊急手術的急迫性，禁食時間可能有限，但醫療團隊會根據您的情況提供具體指導，例如停止進食或飲水。這能降低麻醉期間誤吸的風險，請嚴格遵循指示。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898."
+39,麻醉,"緊急腹腔手術（Emergency Laparotomy, EL）",open,什麼是環甲膜壓迫？為什麼需要？,環甲膜壓迫是一種技術，麻醉師在插管時壓迫您的喉部以防止胃內容物反流。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898."
+40,麻醉,"緊急腹腔手術（Emergency Laparotomy, EL）",open,麻醉結束時如何決定是否拔管？,麻醉師和外科團隊會共同評估您的呼吸功能和整體狀況，確保拔管安全，降低術後肺部併發症風險。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898."
+41,麻醉,"緊急腹腔手術（Emergency Laparotomy, EL）",open,如何降低緊急剖腹手術患者的靜脈血栓栓塞（VTE）風險？,在入院時使用經過驗證的工具評估患者的VTE 風險。如果藥物預防 不可行，應使用機械預防措施（如間歇性氣壓治療）。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898."
+42,麻醉,婦科腫瘤學（Gynecologic Oncology）,open,如果我有嚴重的青黴素過敏怎麼辦？,若您有確診嚴重的青黴素過敏，醫療團隊可能避免使用β-內酰胺類抗生素，改用替代藥物以預防手術部位感染。,"NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67."
+43,麻醉,婦科： 外陰部和陰道手術（Gynecologic：vulvar and vaginal surgery）,open,手術會使用哪種麻醉方式？,可能使用全身麻醉或區域麻醉（如脊椎或硬膜外麻醉），具體取決於您的手術。,"ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485."
+44,麻醉,婦科： 外陰部和陰道手術（Gynecologic：vulvar and vaginal surgery）,open,為什麼推薦短效麻醉藥？,短效麻醉藥能加快恢復，讓您更快恢復正常活動，如進食和行動，減少手術壓力反應。,"ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485."
+45,麻醉,婦科： 外陰部和陰道手術（Gynecologic：vulvar and vaginal surgery）,open,什麼是全靜脈麻醉（TIVA）,全靜脈麻醉（TIVA）是一種使用靜脈藥物而非吸入氣體的全身麻醉方式，並能減少術後噁心嘔吐。,"ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485."
+46,麻醉,婦科： 外陰部和陰道手術（Gynecologic：vulvar and vaginal surgery）,open,外陰手術會使用抗生素嗎？,外陰手術，特別是根治性外陰切除術，建議使用抗生素，因其感染風險高。,"ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485."
+47,麻醉,婦科：剖腹產（Gynecologic：Cesarean Delivery）,open,為什麼手術前要給我抗酸劑？,抗酸劑（如非顆粒性檸檬酸鈉）用於中和胃酸，降低麻醉期間罕見但嚴重的誤吸性肺炎風險。,"WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025."
+48,麻醉,婦科：剖腹產（Gynecologic：Cesarean Delivery）,open,剖腹產會使用哪種麻醉方式？,建議使用區域麻醉，如脊椎或硬膜外麻醉，因為它比全身麻醉更安全，但某些情況可能需要全身麻醉。,"WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025."
+49,麻醉,婦科：剖腹產（Gynecologic：Cesarean Delivery）,open,麻醉科醫師如何確保麻醉期間我的安全？,麻醉科醫師會使用抗酸劑、組織胺H2 受體拮抗劑 (histamine H2 receptor antagonists)，並儘可能使用區域麻醉，以降低誤吸等風險，確保手術安全。,"WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025."
+50,麻醉,骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）,open,手術前可以吃止痛藥來減輕術後疼痛嗎？,是的，醫生可能會給您乙醯氨酚、非甾體抗炎藥或加巴噴丁類藥物，這些藥物能減少術後疼痛和對阿片類藥物的需求。,"DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+51,麻醉,骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）,open,手術中的麻醉會怎麼進行？,麻醉通常結合全身麻醉和局部麻醉技術（如硬膜外或鞘內麻醉），以確保您無痛並減少術後不適，具體方案依醫院設備而定。,"DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+52,麻醉,骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）,open,手術中會不會因為體溫太低而有風險？,醫生會在手術前和手術中用加溫設備保持您的正常體溫，這能降低術後併發症風險。,"DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+53,麻醉,骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）,open,手術後我會不會很痛？局部麻醉有幫助嗎？,局部麻醉（如傷口滲透或硬膜外麻醉）能有效減輕術後疼痛，讓您更     舒適。,"DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+54,麻醉,骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）,open,聽說區域阻斷麻醉 (Regional Block Anesthesia) 可以減緩疼痛，這適合我嗎？,區域阻斷麻醉 (Regional Block Anesthesia) 可能有助於疼痛管理，但效 果因人而異，醫生會根據您的情況決定是否使用。,"DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+55,麻醉,骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）,open,術後我可以繼續吃術前用的止痛藥嗎？,可以，術後通常繼續使用乙醯氨酚或非甾體抗炎藥，這些藥物能減少     對強效止痛藥的需求，降低副作用。,"DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+56,麻醉,骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）,open,我很擔心術後會噁心想吐，有什麼預防方法？,醫生會在手術前評估您的噁心風險，並可能在手術中使用抗嘔吐藥物     來預防術後噁心感。,"DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+57,麻醉,開放主動脈血管手術（Open aortic vascular surgery）,open,如果手術中失血很多，我的血會被回收利用嗎？,會使用細胞回收技術，收集並回輸您術中失血，減少輸血需求。,"MCGINIGLE, Katharine L., et al. Perioperative care in open aortic vascular surgery: a consensus statement by the Enhanced Recovery After Surgery (ERAS) Society and Society for Vascular Surgery. Journal of vascular surgery, 2022, 75.6: 1796-1820."
+58,復健,通用型問答（General Q&A）,open,復健能幫助我避免哪些術後問題？,早期復健有助於預防肺部感染、血栓形成和肌肉萎縮等併發症。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+59,復健,通用型問答（General Q&A）,open,我需要多久才能恢復正常活動？,恢復時間因人而異，視您的健康狀況和手術複雜性而定。復健科會設     定逐步目標，幫助您在數週內逐步恢復日常活動。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+60,復健,通用型問答（General Q&A）,open,我需要去復健中心嗎，還是可以在家復健？,初期復健通常在醫院進行，由復健科指導。出院後，您可能會收到居     家復健計劃，或在門診繼續復健。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+61,復健,通用型問答（General Q&A）,open,復健科會如何評估我的進展？,復健科會定期評估您的移動能力、力量和功能，例如您是否能獨立行     走或完成日常活動。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+62,復健,通用型問答（General Q&A）,open,術後我可以自己運動嗎？,在復健科或醫療團隊指導前，不建議自行進行劇烈運動。過早或不當     的運動可能影響傷口癒合。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+63,復健,通用型問答（General Q&A）,open,復健會幫助我更快出院嗎？,是的，積極參與復健能加速您的恢復，幫助您更快達到出院標準，例     如獨立行走或自理能力。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+64,復健,通用型問答（General Q&A）,open,復健過程中我應該注意什麼？,注意任何異常症狀，如傷口疼痛加劇、呼吸困難或腫脹，並立即告知     醫療團隊。遵循復健科的指導，避免過度用力。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+65,復健,通用型問答（General Q&A）,open,如果我感到虛弱或疲倦，該怎麼辦？,告訴復健科或醫療團隊您的感受。他們會調整復健計劃，例如縮短活     動時間或選擇更輕鬆的運動。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+66,復健,通用型問答（General Q&A）,open,復健時需要特別注意飲食嗎？,是的，均衡飲食有助於恢復。確保攝取足夠蛋白質和水分，支持肌肉     修復和傷口癒合。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+67,復健,通用型問答（General Q&A）,open,我應該如何保護手術傷口？,避免直接壓迫傷口，保持傷口清潔乾燥，並遵循醫療團隊的傷口護理     指導，復健時選擇不會拉扯傷口的運動。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+68,復健,通用型問答（General Q&A）,open,復健過程中如何預防跌倒？,使用助行器或醫療團隊的協助進行行走練習，穿防滑鞋，並確保環境     安全（如移除絆倒物）。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+69,復健,通用型問答（General Q&A）,open,我可以什麼時候停止復健？,復健應持續進行，直到您恢復日常功能或達到醫療團隊設定的目標。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+70,復健,通用型問答（General Q&A）,open,復健時應該如何管理疼痛？,與醫療團隊討論您的疼痛狀況，他們可能會調整止痛藥、建議放鬆技     巧或設計更低疼痛的運動。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+71,復健,通用型問答（General Q&A）,open,我需要每天都做復健嗎？,是的，規律的復健活動（即使是短時間）有助於加快恢復。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+72,復健,通用型問答（General Q&A）,open,如果我有尿液導管，復健時需要注意什麼？,確保導管固定，避免拉扯，醫療團隊會每天評估是否可移除。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+73,復健,通用型問答（General Q&A）,open,術前認知評估如何幫助復健？,對 65 歲以上患者進行簡單的認知功能評估（如Mini-Cog），有助於     識別術後譫妄和認知功能障礙的風險患者，從而制定針對性的復健計劃。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898. || NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67. || ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485. || WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025. || DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+74,復健,"緊急腹腔手術（Emergency Laparotomy, EL）",open,術後我需要做哪些復健運動？,復健運動可能包括深呼吸練習、床上翻身、坐到站立的練習，以及逐     步增加步行距離。這些活動由復健科根據您的狀況量身定制，遵循ERAS     的早期活動原則。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898."
+75,復健,"緊急腹腔手術（Emergency Laparotomy, EL）",open,復健時如何避免傷口疼痛或受傷？,遵循復健科的指導，進行溫和的運動，並避免突然用力或過度伸展。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898."
+76,復健,"緊急腹腔手術（Emergency Laparotomy, EL）",open,如果我感到虛弱，該如何進行復健？,復健科會根據您的體力設計輕量活動，例如從簡單的床上運動開始，     逐步增加強度。ERAS指南特別提到，對於高風險或虛弱患者，應提供個     別化的復健計劃。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898."
+77,復健,"緊急腹腔手術（Emergency Laparotomy, EL）",open,復健時需要呼吸訓練嗎？,是的，ERAS建議術後進行呼吸理療，包括深呼吸和痰液清除訓練，     增強呼吸肌力，預防肺部併發症。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898."
+78,復健,"緊急腹腔手術（Emergency Laparotomy, EL）",open,如果我超過65 歲，復健有什麼特別注意事項？,老年患者應接受術後譫妄篩查，復健時注重認知刺激和規律作息，運     動計劃應更溫和，減少併發症風險。,"PEDEN, Carol J., et al. Guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS) Society recommendations: part 1—preoperative: diagnosis, rapid assessment and optimization. World journal of surgery, 2021, 45.5: 1272-1290. || SCOTT, Michael J., et al. Consensus guidelines for perioperative care for emergency laparotomy Enhanced Recovery After Surgery (ERAS®) Society recommendations part 2—emergency laparotomy: intra-and postoperative care. World journal of surgery, 2023, 47.8: 1850-1880. || PEDEN, Carol J., et al. Enhanced Recovery After Surgery (ERAS®) Society consensus guidelines for emergency laparotomy part 3: organizational aspects and general considerations for management of the emergency laparotomy patient. World journal of surgery, 2023, 47.8: 1881-1898."
+79,復健,婦科腫瘤學（Gynecologic Oncology）,open,手術後如何預防血栓？,您可能會接受靜脈血栓栓塞（VTE）預防措施，如肝素，並被鼓勵術     後進行適度活動以預防血栓。,"NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67."
+80,復健,婦科腫瘤學（Gynecologic Oncology）,open,我可以做哪些運動來避免血栓？,在床上進行簡單的腿部運動以及手術後不久的短距離行走，由醫療團     隊指導，有助於改善血流並預防血栓,"NELSON, G., et al. Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: Addressing implementation challenges- 2023 update. Gynecologic oncology, 2023, 173: 58-67."
+81,復健,婦科：外陰部和陰道手術（Gynecologic：vulvar and vaginal surgery）,open,什麼是逆行膀胱充填，為什麼可能使用？,逆行膀胱充填是在手術室或恢復室向膀胱注入液體，以測試陰道手術     後的排尿功能。,"ALTMAN, Alon D., et al. Guidelines for vulvar and vaginal surgery: Enhanced Recovery After Surgery Society recommendations. American journal of obstetrics and gynecology, 2020, 223.4: 475-485."
+82,復健,婦科：剖腹產（Gynecologic：Cesarean Delivery）,open,我應該了解剖腹產的哪些風險？,您將被告知短期風險（如感染、血栓、疼痛）和長期風險（如未來妊     娠子宮破裂），尤其是當手術缺乏醫學指徵時。,"WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025."
+83,復健,婦科：剖腹產（Gynecologic：Cesarean Delivery）,open,為什麼術前管理高血壓很重要？,慢性高血壓增加子癲前症 (Preeclampsia) 和早產風險，孕期控制高血     壓可改善結果並減少剖腹產併發症。,"WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025."
+84,復健,婦科：剖腹產（Gynecologic：Cesarean Delivery）,open,糖尿病管理會影響我的恢復？,控制糖尿病（原有或妊娠期）可減少子癇前症、巨嬰症和剖腹產風     險，通過生活方式和藥物管理改善恢復。,"WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025."
+85,復健,婦科：剖腹產（Gynecologic：Cesarean Delivery）,open,為什麼剖腹產前要檢查貧血？,貧血可能會增加母體死亡、胎兒體重過輕、早產和手術併發症風險，     通過鐵劑 (口服或靜脈注射) 補充可改善貧血。,"WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025."
+86,復健,婦科：剖腹產（Gynecologic：Cesarean Delivery）,open,剖腹產前是否應該戒菸？,是的，孕早期戒菸可減少胎兒體重過輕、早產和死胎等風險。,"WILSON, R. Douglas, et al. Guidelines for antenatal and preoperative care in cesarean delivery: Enhanced Recovery After Surgery Society recommendations (part 1)—2025 update. American journal of obstetrics and gynecology, 2025."
+87,復健,骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）,open,我的飲食會影響手術恢復嗎？,是的，醫生會檢查您的營養狀況，若有營養不良，會建議飲食調整或     補充營養品，以減少併發症。,"DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+88,復健,骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）,open,如果我有貧血，會影響恢復嗎？,貧血可能延長住院時間和增加併發症，醫生會在手術前檢查並改善貧     血症狀，幫助您更好地恢復。,"DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+89,復健,骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）,open,術後什麼時候可以開始吃東西？,通常建議術後儘早恢復正常飲食，這能幫助腸道功能恢復，促進康     復。,"DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+90,復健,骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）,open,手術中怎麼防止感染來幫助恢復？,醫生會使用抗生素和氯己定或碘酒清潔皮膚，這些措施能降低感染風     險，讓您恢復更順利。,"DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+91,復健,骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）,open,手術後需要一直插尿管嗎？,對於簡單的腰椎融合手術，通常不需要尿管；若有使用，會在術後幾     小時內移除，以減少不適。,"DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+92,復健,骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）,open,手術後怎麼避免血栓影響恢復？,醫生可能會使用氣壓加壓裝置或藥物來預防血栓，這能降低血栓風     險，幫助安全恢復。,"DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+93,復健,骨科：腰椎融合術（Orthopaedic：Lumbar spinal fusion）,open,術後多久我可以恢復正常活動？,ERAS協議通過減少併發症和促進早期活動，幫助您更快恢復，但具     體時間取決於您的狀況，需與醫生討論。,"DEBONO, Bertrand, et al. Consensus statement for perioperative care in lumbar spinal fusion: Enhanced Recovery After Surgery (ERAS®) Society recommendations. The spine journal, 2021, 21.5: 729-752."
+94,藥劑,多模式鎮痛,open,為何 ERAS 建議多模式鎮痛而非阿片單用？,減少阿片副作用如噁心與腸道遲緩，提升康復速度。,Kehlet
+95,藥劑,常用止痛藥物,open,ERAS 是否建議術前給予 acetaminophen？,是，為術後鎮痛提供基礎效果，且副作用低。,Apfelbaum
+96,藥劑,神經調節藥物,open,gabapentin 在 ERAS 中的應用？,可減術後疼痛與阿片使用，但有鎮靜風險。,Tiippana
+97,藥劑,常用止痛藥物,open,NSAIDs 是否適用於 ERAS？,是，但需監控出血風險與腎功能。,White
+98,藥劑,通用型問答,open,術前使用 celecoxib 有哪些優點？,COX-2 抑制效果佳，胃腸副作用低。,Reuben
+99,藥劑,通用型問答,open,ERAS 是否推薦 preemptive analgesia？,是，術前止痛能降低術後敏感化。,Katz
+100,藥劑,通用型問答,open,ketamine 於 ERAS 的角色為何？,可減術後慢性疼痛並保護中樞抑制。,Bell
+101,藥劑,通用型問答,open,靜脈 lidocaine 有哪些臨床效果？,減痛、抗炎並促進腸道功能恢復。,McCarthy
+102,藥劑,麻醉管理,open,ERAS 是否鼓勵區域麻醉？,是，有助降低阿片使用與加速恢復。,McDonnell
+103,藥劑,通用型問答,open,為什麼 ERAS 強調使用 BIS？,減少麻醉過度與術後譫妄。,Radtke
+104,藥劑,通用型問答,open,ERAS 中 PONV 的預防建議？,雙重止吐策略：dexamethasone＋ondansetron。,Gan
+105,藥劑,止吐與輔助用藥,open,術中使用 dexamethasone 有何額外益處？,除止吐外，可能具有鎮痛與抗炎作用。,De
+106,藥劑,通用型問答,open,術前減敏處理與 prehabilitation 有何關聯？,可減低術後疼痛與阿片需求。,Carli
+107,藥劑,通用型問答,open,ERAS 是否支持 spinal anesthesia？,是，尤其在下腹部與下肢手術中優先選擇。,Guay
+108,藥劑,通用型問答,open,ERAS 是否限制術中液體補充？,鼓勵 goal-directed therapy（GDT）以維持灌流。,Grocott
+109,藥劑,通用型問答,open,何謂 opioid-sparing anesthesia？,麻醉過程中避免或最小化使用阿片。,Lavand’homme
+110,藥劑,多模式鎮痛,open,ERAS 是否鼓勵術後 PCA（patient-controlled analgesia）？,可使用但應搭配非阿片藥物優化效果。,Chou
+111,藥劑,通用型問答,open,使用 alpha-2 agonist（如 dexmedetomidine）有何效益？,可減少術後阿片使用並穩定血壓與焦慮。,Lin
+112,藥劑,通用型問答,open,ERAS 是否限制 benzodiazepines？,除非病人高度焦慮，應避免使用。,Sampson
+113,藥劑,麻醉管理,open,術後麻醉復甦階段的優先重點？,快速清醒與疼痛控制平衡。,Myles
+114,藥劑,通用型問答,open,ERAS 是否建議術中使用 magnesium sulfate？,是，能降低阿片需求與神經敏感。,Tramer MR. Anesth Analg. 1996;83(6):1177–1183.
+115,藥劑,多模式鎮痛,open,ERAS 是否適合使用 esmolol 作為術中鎮痛輔助？,是，esmolol 可抑制交感反應並減少阿片使用。,Chia YY. Br J Anaesth. 2004;93(3):371–375.
+116,藥劑,常用止痛藥物,open,NSAIDs 與 COX-2 抑制劑在腎功能不全患者中應用？,建議減量或替代使用 acetaminophen。,Whelton A. Am J Med. 1999;106(5B):13S–24S.
+117,藥劑,多模式鎮痛,open,ERAS 是否支持術後 IV PCA 結合非阿片藥物？,是，可強化鎮痛效果並減少副作用。,McNicol ED. Cochrane. 2015;CD003348.
+118,藥劑,通用型問答,open,alpha-2 agonists 的術後應用建議？,適用於需穩定鎮靜與減阿片劑量的情境。,Wijeysundera DN. JAMA. 2009;302(14):1574–1582.
+119,藥劑,通用型問答,open,ERAS 是否建議術後使用 parecoxib？,是，為靜脈 COX-2 抑制劑，可作早期止痛。,Reuben SS. Anesth Analg. 2002;95(4):918–923.
+120,藥劑,通用型問答,open,術中氣道刺激過強是否與疼痛控制相關？,是，適當鎮痛可減少交感過度反應。,Levy JH. Anesthesiology. 1988;68(6):835–837.
+121,藥劑,麻醉管理,open,"ERAS 是否提倡針對性麻醉劑量（target-controlled infusion, TCI）？",是，可提升麻醉精準度與術後恢復品質。,Absalom AR. Br J Anaesth. 2016;117(2):148–160.
+122,藥劑,加護/急性照護,open,術中避免 volatile anesthetics 是否有助術後早醒？,可能有助，但需視手術需求與患者特性。,Koo CH. Korean J Anesthesiol. 2021;74(1):3–11.
+123,藥劑,多模式鎮痛,open,ERAS 是否建議術後儘早移除 PCA？,是，應根據疼痛控制狀況盡早轉為口服止痛。,Carr DB. Anesthesiology. 2005;102(2):401–403.
+124,藥劑,通用型問答,open,術中使用 nitrous oxide 是否建議於 ERAS？,多數 ERAS 路徑避免使用。,Petersen KD. Br J Anaesth. 2001;87(5):794–799.
+125,藥劑,通用型問答,open,術後中樞神經敏感如何藥物處理？,可考慮 NMDA 拮抗劑（如 ketamine）或 gabapentin。,Katz J. Anesthesiology. 2002;96(2):527–542.
+126,藥劑,通用型問答,open,術中 remifentanil 使用注意事項？,需監控術後痛覺過敏。,Joly V. Anesthesiology. 2005;103(1):147–155.
+127,藥劑,麻醉管理,open,ERAS 是否推薦 regional block 搭配 sedation？,是，可降低系統性鎮痛需求。,Ilfeld BM. Reg Anesth Pain Med. 2011;36(2):111–117.
+128,藥劑,多模式鎮痛,open,術中阿片類最小化策略的安全風險？,可能導致不穩定的血壓與術中痛覺覺醒。,Lavand’homme P. Curr Opin Anaesthesiol. 2019;32(5):622–627.
+129,藥劑,通用型問答,open,ERAS 是否推薦定期術後疼痛評估？,是，應每日使用 VAS 或 NRS 評估指數。,Wu CL. Anesthesiology. 2005;103(4):837–844.
+130,藥劑,多模式鎮痛,open,術後 delirium 發生與阿片使用有關？,是，高齡患者更易受到阿片誘發譫妄。,Inouye SK. N Engl J Med. 2006;354:1157–1165.
+131,藥劑,通用型問答,open,COX-2 抑制劑是否增加心血管風險？,長期使用有風險，短期術後應用相對安全。,Nussmeier NA. Circulation. 2005;111(22):2858–2865.
+132,藥劑,多模式鎮痛,open,ERAS 是否建議持續神經阻斷術後止痛？,是，可減少全身藥物依賴，利於早期復健。,Ilfeld BM. Reg Anesth Pain Med. 2005;30(3):218–226.
+133,營養,免疫營養補充,open,免疫營養（IMN）組成？,Arginine、omega-3、核?酸。,Am J Surg. 2002 Jun;183(6):630-41. doi: 10.1016/s0002-9610(02)00866-8.
+134,營養,術前禁食,open,術前 NPO 是否需常規靜脈營養支持？,不建議，首選腸道營養。,Anesth Analg 2003;97:534–40
+135,營養,通用型問答,open,術後可否使用口服營養補充（ONS）？,建議使用，能提升總能量與蛋白攝取。 解釋：ONS 適合術後胃口差或恢復期間使用。,"Cawood AL, et al. Clin Nutr. 2012;31(3):293–312."
+136,營養,通用型問答,open,長期術後營養不良的後果？,延遲癒合、感染率升高、住院延長。 解釋：營養狀態直接影響免疫與修復功能。,"Correia MI, et al. Curr Opin Clin Nutr Metab Care. 2014;17(5):488–494."
+137,營養,免疫營養補充,open,術後是否需額外補充 omega-3？,癌症與重症病人中證據支持補充。 解釋：omega-3 可抗發炎並改善營養狀態。,Calder PC. Proc Nutr Soc. 2010;69(3):305–318.
+138,營養,術前營養支持,open,營養風險評估常用工具？,NRS-2002 與 MUST。 解釋：這些工具可早期識別需要營養介入的患者。,"Kondrup J, et al. Clin Nutr. 2003;22(4):415–421."
+139,營養,通用型問答,open,術後腸蠕動未恢復可否使用腸道營養？,應依臨床耐受度，少量開始可行。 解釋：即使無腸音，也可在無嘔吐無腹脹情況下給予。,"McClave SA, et al. JPEN. 2016;40(2):159–211."
+140,營養,通用型問答,open,術後低磷血症與 refeeding syndrome 風險？,高風險病人應補充電解質並緩慢進食。 解釋：低營養狀態者重新餵食會導致電解質移動與心衰。,Crook MA. J Clin Pathol. 2001;54(11):876–877.
+141,營養,通用型問答,open,術後早期飲食不耐應如何調整？,減少進食量、改為低脂清流質。 解釋：避免噁心與腹脹，讓腸道逐步適應。,Lewis SJ. BMJ. 2009;338:b748.
+142,營養,通用型問答,open,術後是否應限制膳食纖維？,初期應以低渣飲食為主，逐步增加。 解釋：高纖初期可能增加脹氣與排便困難。,ESPEN Guidelines. Clin Nutr. 2006;25(2):224–244.
+143,營養,高齡手術照護,open,術後老年人常見營養障礙？,咀嚼困難、食慾差、蛋白質攝取不足。 解釋：可採用高能量密度與少量多餐策略。,Volkert D. Clin Geriatr Med. 2019;35(2):201–211.
+144,營養,通用型問答,open,術後口服營養介入最佳時機？,術後即開始、每日評估進度與耐受度。 解釋：早期介入比延後有更好結局。,Stratton RJ. Clin Nutr. 2003;22(6):515–522.
+145,營養,通用型問答,open,術後患者是否需限制脂肪？,視手術類型與脂質代謝狀況決定。 解釋：肝膽手術可採低脂，但一般手術不需嚴格限制。,ESPEN Guidelines. Clin Nutr. 2006;25(2):224–244.
+146,營養,通用型問答,open,術後不明發熱是否可能因營養不良？,可能，需排除微量營養素缺乏。 解釋：缺鋅、維生素 C 可干擾免疫與癒合。,Gombart AF. Nutrients. 2020;12(1):236.
+147,營養,通用型問答,open,術後營養管理是否包含心理支持？,是，尤其在癌症與慢病手術中。 解釋：焦慮與抑鬱會抑制食慾與影響順從性。,Anderson JR. Psychooncology. 2014;23(7):739–746.
+148,營養,通用型問答,open,ERAS 對術後糖尿病病人的營養建議？,使用含纖維的糖控營養配方。 解釋：可改善血糖控制與胃排空耐受度。,Gavin JR. Clin Diabetes. 2010;28(4):150–159.
+149,營養,通用型問答,open,術後心臟手術病人如何調整營養？,建議低鈉、高蛋白、足熱量飲食。 解釋：支持心肌修復並預防水腫。,Casey R. Nutr Clin Pract. 2012;27(2):176–183.
+150,營養,通用型問答,open,術後延遲排氣是否與營養有關？,可能與缺乏腸道刺激與早期進食延遲有關。 解釋：可考慮少量液體飲食與口服益生菌。,Andersson RE. World J Surg. 2012;36(7):1509–1516.
+151,營養,通用型問答,open,使用鼻胃管病人如何轉換為口服？,應進行漸進式轉換與進食訓練。 解釋：需由營養師與語言治療師共同監測。,Cichero JA. Clin Nutr. 2011;30(6):671–677.
+152,營養,通用型問答,open,口腔手術術後如何提供營養？,液態或軟質營養飲品。 解釋：確保能量攝取同時避免刺激傷口。,Elad S. Support Care Cancer. 2008;16(4):447–456.
+153,營養,通用型問答,open,胃繞道術後飲食建議？,少量多餐、避免高糖。 解釋：預防 Dumping syndrome 並控制體重。,Mechanick JI. Obesity. 2013;21(S1):S1–S27.
+154,營養,通用型問答,open,ERAS 是否支持術後個人化營養計畫？,是，依手術類型、疾病與年齡調整。 解釋：提升療效並減少營養不足與併發症。,Thibault R. Clin Nutr. 2011;30(2):160–165.
+155,營養,通用型問答,open,術後營養照護團隊需包含誰？,醫師、營養師、護理師、藥師。 解釋：跨領域整合能提升營養順從性與療效。,Schuetz P. Clin Nutr. 2020;39(3):685–693.
+156,營養,通用型問答,open,術後營養補給中何時考慮蛋白質水解配方？,腸道吸收不良或蛋白質需求升高患者。 解釋：水解蛋白較易吸收，適合重症與胃切除術後。,Btaiche IF. Nutr Clin Pract. 2004;19(1):49–61.
+157,營養,通用型問答,open,術後病人是否適合使用植物性營養粉？,可作為替代選擇，須補足必需胺基酸。 解釋：適合乳糖不耐與宗教限制者。,Mariotti F. Curr Opin Clin Nutr Metab Care. 2015;18(6):534–539.
+158,營養,通用型問答,open,如何監測術後營養介入效果？,使用體重、血清白蛋白與肌力測試。 解釋：可客觀追蹤恢復與功能改善。,Jensen GL. JPEN. 2015;39(1):1–13.
+159,營養,高齡手術照護,open,術後高齡患者常見營養補充障礙？,味覺改變、牙齒問題與社交孤立。 解釋：須個別化配方與輔助進食工具。,Volkert D. Clin Geriatr Med. 2019;35(2):201–211.
+160,營養,加護/急性照護,open,是否推薦在 ICU 中早期開始 enteral nutrition？,是，可降低感染率與住院日。 解釋：腸道營養保護黏膜屏障功能。,McClave SA. JPEN. 2016;40(2):159–211.
+161,營養,通用型問答,open,術後營養介入是否應與復健同步？,是，合併運動可提升肌肉恢復速度。 解釋：特別對骨科與腫瘤手術有效。,Deutz NEP. Clin Nutr. 2016;35(5):1096–1103.
+162,營養,通用型問答,open,ERAS 是否建議手術病人額外補充維生素D？,如有缺乏可補充，有助免疫與骨骼修復。 解釋：維生素D 不足常見於住院病人。,Holick MF. N Engl J Med. 2007;357(3):266–281.
+163,營養,通用型問答,open,術後病人有腸炎風險是否可使用低 FODMAP 營養？,可考慮，特別對術後腸躁症樣表現者。 解釋：可減少腹瀉與脹氣。,Staudacher HM. Gastroenterology. 2017;153(4):936–947.
+164,營養,加護/急性照護,open,ERAS 是否有特別針對 bariatric surgery 的營養策略？,是，需高蛋白、低糖並補充維生素B群。 解釋：手術會影響吸收，需定期檢查。,Mechanick JI. Obesity. 2013;21(S1):S1–S27.
+165,營養,通用型問答,open,術後病人若長期食慾不振該如何處理？,可考慮短期使用營養刺激劑如 megestrol。 解釋：促進食慾並增加體重。,Yavuzsen T. Support Care Cancer. 2005;13(3):152–157.
+166,營養,通用型問答,open,術後腸造口病人是否需營養追蹤？,是，需關注水分與電解質流失。 解釋：每日排放量需紀錄，適時調整補充。,Nordgaard I. Gut. 1994;35(12):1760–1763.
+167,營養,通用型問答,open,病人術後合併糖尿病時營養重點？,穩定碳水來源、延緩糖分吸收。 解釋：使用低升糖指數飲食與纖維可穩定血糖。,Gavin JR. Clin Diabetes. 2010;28(4):150–159.
+168,營養,通用型問答,open,術後胰島素阻抗如何透過營養改善？,術前含糖清流質可降低其程度。 解釋：可維持血糖穩定，減少炎症反應。,Nygren J. Clin Nutr. 2012;31(6):817–826.
+169,營養,通用型問答,open,術後厭食患者的首選營養補充方式？,口服營養補充劑（ONS）。 解釋：方便給予、口味多元，且不需侵入性。,Stratton RJ. Clin Nutr. 2003;22(6):515–522.
+170,營養,通用型問答,open,進行腸道手術者術後多久可恢復飲食？,建議術後4小時內進行清流質測試。 解釋：可縮短住院時間並促進腸蠕動。,Lassen K. Br J Surg. 2009;96(2):149–158.
+171,營養,通用型問答,open,術後使用高熱量配方的適應對象？,營養不良、高代謝或重建手術病人。 解釋：需更高能量支援癒合與體重維持。,Elia M. Clin Nutr. 2016;35(3):545–552.
+172,營養,通用型問答,open,術後開始腸道營養的風險監控？,腹脹、胃瀦留、腹瀉需每日觀察。 解釋：及早發現不耐可即時調整。,McClave SA. JPEN. 2016;40(2):159–211.
+173,營養,通用型問答,open,術後 hypoalbuminemia 是否需立即補充白蛋白？,視臨床狀況決定，非常規建議。 解釋：白蛋白下降常因發炎，非純營養不足。,Vincent JL. Crit Care Med. 2003;31(1):S121–S125.
+174,營養,通用型問答,open,營養干預是否能降低再住院率？,可，特別是在術後虛弱與高齡族群。 解釋：完整的營養照護能減少併發症與跌倒風險。,Philipson TJ. J Parenter Enteral Nutr. 2013;37(1):80–85.
+175,營養,通用型問答,open,術後便秘與低纖飲食有何關聯？,長期低渣可能抑制腸蠕動。 解釋：恢復進食後應逐步增加膳食纖維。,M?ller-Lissner SA. Aliment Pharmacol Ther. 2005;22(2):139–152.
