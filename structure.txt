@@ -1,47 +1,191 @@
 ./
-├── app_log.txt
+├── anonymizer.py
 ├── app.py
-├── apps/
-│   ├── __pycache__/
-│   │   └── RAG_NAIVE2.cpython-310.pyc
+├── apps
+│   ├── __init__.py
+│   ├── LLM_init.py
+│   ├── RAG_build.py
 │   ├── RAG_MEM.py
-│   ├── RAG_NAIVE2.py
 │   ├── RAG_NAIVE.py
+│   ├── RAG_NAIVE2.py
 │   ├── RAG_QA_API.py
-│   └── RAG_requirements.txt
-├── chat.db
-├── docs/
+│   ├── RAG_QA_stream.py
+│   └── VQA_NAIVE.py
+├── config.py
+├── core
+│   ├── __init__.py
+│   ├── db_manager.py
+│   ├── model_manager.py
+│   └── rag_engine.py
+├── docker
+│   ├── docker-compose.yml
+│   ├── Dockerfile
+│   └── README.md
+├── docs
+│   ├── 智慧醫療對話系統_ERAS輔助應用_書面報告.pdf
+│   ├── 2025-05-06-meeting.html
 │   ├── 2025-05-06-meeting.md
+│   ├── 2025-05-13-meeting.md
+│   ├── 2025-05-20-meeting.md
+│   ├── chat_flow.md
+│   ├── ERAS case sample.xlsx
 │   ├── eras-algorithm.md
 │   ├── guidance.md
-│   └── meetings.md
+│   ├── meetings.md
+│   ├── Pasted image 20250520185702.png
+│   └── workflow_chage.md
+├── Eval
+│   ├── model_config.json
+│   ├── model_eval_script_bert.py
+│   ├── model_eval_script.py
+│   ├── QA_Dataset_RAW.xlsx
+│   ├── qa_dataset_sim_0519_numerical v.csv
+│   ├── qa_dataset_sim_0519.csv
+│   ├── qa_dataset.csv
+│   ├── qa_numerical_with_type_sim_0527.csv
+│   ├── qa_text_with_type_sim_0527.csv
+│   ├── README.md
+│   ├── results
+│   │   ├── Closed.py
+│   │   ├── COMPARE.csv
+│   │   ├── Expert_Eval.csv
+│   │   ├── Feedback.py
+│   │   ├── Plot.py
+│   │   ├── Plot2.py
+│   │   ├── Plot3.py
+│   │   ├── Plot4.py
+│   │   ├── Plot5.py
+│   │   ├── Qwen2.5-14B-e5-large_no_rag_20250603_032926.csv
+│   │   ├── Qwen2.5-14B-e5-large_with_rag_20250519_154418.csv
+│   │   ├── Qwen2.5-14B-e5-large_with_rag_20250602_144248.csv
+│   │   ├── Qwen2.5-14B-MiniLM-L6_no_rag_20250519_234421.csv
+│   │   ├── Qwen2.5-14B-MiniLM-L6_no_rag_20250603_022028.csv
+│   │   ├── Qwen2.5-14B-MiniLM-L6_with_rag_20250517_204558.csv
+│   │   ├── Qwen2.5-14B-MiniLM-L6_with_rag_20250527_151555.csv
+│   │   └── TEST.py
+│   ├── visualization_script_bert.py
+│   ├── visualization-script.py
+│   └── visualizations_output
+│       ├── comparison_20250519_233711
+│       │   ├── bleu-1_vs_rouge-l_scatter.png
+│       │   ├── ...
+│       │   └── rouge-l_vs_meteor_scatter.png
+│       ├── comparison_20250519_235310
+│       │   ├── bleu-1_vs_rouge-l_scatter.png
+│       │   ├── ...
+│       │   └── rouge-l_vs_meteor_scatter.png
+│       ├── Qwen2.5-14B_with_e5_large_with_rag_20250519_154418_20250519_231736
+│       │   ├── bleu-1_vs_rouge-l_scatter.png
+│       │   ├── ...
+│       │   └── rouge-l_vs_meteor_scatter.png
+│       ├── Qwen2.5-14B_with_rag_with_rag_20250517_204558_20250519_231411
+│       │   ├── bleu-1_vs_rouge-l_scatter.png
+│       │   ├── ...
+│       │   └── rouge-l_vs_meteor_scatter.png
+│       └── Qwen2.5-14B-MiniLM-L6_with_rag_20250527_151555
+│           ├── category_bertscore_comparison.png
+│           ├── Qwen2.5-14B-MiniLM-L6_RAG_length_vs_bertscore.png
+│           ├── Qwen2.5-14B-MiniLM-L6_RAG_worst_questions.png
+│           ├── response_length_distribution.png
+│           └── response_time_comparison.png
+├── Figures
+│   ├── bertscore_by_category_cmp.png
+│   ├── ...
+│   └── vqa_data_split.png
+├── gen_report
+│   ├── Eval.py
+│   ├── generate_report.py
+│   ├── LOG_PURE.txt
+│   ├── LOG.txt
+│   ├── lora_finetune.py
+│   ├── lora_merged.py
+│   └── Plot.py
+├── Images_anonymized
+│   ├── original
+│   │   ├── sub001
+│   │   │   ├── ap.jpg
+│   │   │   ├── lat.jpg
+│   │   │   └── report.txt
+│   │   ├── ...
+│   │   └── sub014
+│   │       ├── ap.jpg
+│   │       ├── lat.jpg
+│   │       └── report.txt
+│   ├── test
+│   │   ├── sub007
+│   │   │   ├── ap.jpg
+│   │   │   ├── lat.jpg
+│   │   │   └── report.txt
+│   │   ├── sub010
+│   │   │   ├── ap.jpg
+│   │   │   ├── lat.jpg
+│   │   │   └── report.txt
+│   │   └── sub013
+│   │       ├── ap.jpg
+│   │       ├── lat.jpg
+│   │       └── report.txt
+│   └── train
+│       ├── sub001
+│       │   ├── ap.jpg
+│       │   ├── lat.jpg
+│       │   └── report.txt
+│       ├── ...
+│       └── sub014
+│           ├── ap.jpg
+│           ├── lat.jpg
+│           └── report.txt
 ├── LICENSE
-├── PDFS/
+├── LoRA_Weights
+│   └── qwen25vl_lora_merged.zip
+├── PDFS
 │   ├── A-framework-for-perioperative-care-for-lower-extremity-vascular-bypasses-a-Consensus-Statement-by-the-Enhanced-Recovery-after-Surgery-ERAS-Society-and-Society-for-Vascular-Surgery.pdf
 │   ├── ...
 │   └── Using_a_Mobile_Application_for_Real-Time_Collectio.pdf
-├── rag_log.txt
+├── PROMPTS
+│   ├── ERAS prompt 復健.pdf
+│   ├── ERAS prompt 營養.pdf
+│   ├── ERAS prompt 藥師.pdf
+│   ├── ERAS prompt 麻醉.pdf
+│   ├── ERAS prompt 復健.txt
+│   ├── ERAS prompt 營養.txt
+│   ├── ERAS prompt 藥師.txt
+│   └── ERAS prompt 麻醉.txt
+├── QA
+│   ├── 麻醉&復健QA問答_有準確數字的問答.txt
+│   ├── 麻醉&復健QA問答_沒有準確數字的問答.txt
+│   ├── Category.txt
+│   ├── ERAS QA lumbar spinal fusion.txt
+│   ├── QA問答_復健_整理版.txt
+│   ├── QA問答_麻醉_整理版.txt
+│   ├── QA問答_復健.txt
+│   ├── QA問答_麻醉.txt
+│   └── QA_藥劑營養.txt
 ├── README.md
 ├── requirements.txt
 ├── structure.txt
-├── templates/
+├── templates
 │   ├── admin.html
+│   ├── chat_test_v2.html
+│   ├── chat_test.html
 │   ├── chat.html
 │   ├── login.html
 │   ├── profile.html
 │   ├── register.html
-│   └── user_details.html
-├── TXTS/
-│   ├── British Journal of Surgery - 2014 - Mortensen - Consensus guidelines for enhanced recovery after gastrectomy.txt
-│   ├── ...
-│   └── Using_a_Mobile_Application_for_Real-Time_Collectio.txt
-└── VectorDB/
-    ├── 9e2bb630-383d-4cdc-b146-4cea30a9f691/
-    │   ├── data_level0.bin
-    │   ├── header.bin
-    │   ├── index_metadata.pickle
-    │   ├── length.bin
-    │   └── link_lists.bin
-    └── chroma.sqlite3
+│   ├── user_details.html
+│   └── welcome.html
+├── test
+│   ├── __init__.py
+│   ├── Llama3.1-nano.py
+│   ├── model.py
+│   ├── Phi-4.py
+│   ├── Qwen3.py
+│   ├── RAG.py
+│   ├── test_chat.py
+│   ├── test_db.py
+│   └── test_model.py
+└── TXTS
+    ├── 1-s2.0-S0002961002008668-main.txt
+    ├── ...
+    └── Using_a_Mobile_Application_for_Real-Time_Collectio.txt
 
-9 directories, 103 files
+55 directories, 374 files
