@@ -89,7 +89,7 @@ cd Med-EECS_LLM
 ```
 
 ### 2. 建立環境
-可以使用 conda 或是 venv
+可以使用 conda 或是 venv  
 **conda:**
 ```
 conda create -n langchain-rag python=3.10 -y
