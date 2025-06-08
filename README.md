@@ -19,11 +19,11 @@
 
 ### 前台（Web）
 
-- **管理員系統**
-  - 管理病患清單與醫療團隊名單
-  - 監控進度與任務分派
-- **病患登入系統**
-  - 檢視並完成個人化 To-Do List
+- **病患登入頁面**
+  - 建立帳號 / 登入帳號
+- **聊天頁面**
+  - 向專家 LLM 提問 / 對話
+  - 紀錄當前與各科別完成進度
 
 ### 病患互動模組
 
@@ -80,12 +80,60 @@
 
 ---
 
+## 本地端架設
+
+### 1. Git clone
+```bash
+git clone https://github.com/Gary20011207/Med-EECS_LLM.git
+cd Med-EECS_LLM
+```
+
+### 2. 建立環境
+可以使用 conda 或是 venv
+**conda:**
+```
+conda create -n langchain-rag python=3.10 -y
+conda activate langchain-rag
+pip install -r requirements.txt
+```
+**venv:**
+```
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+### 3. 啟動網頁伺服器
+```
+python3 app.py
+```
+第一次執行的時候會自動建立 VectorDB（向量資料庫）和 `chat.db`（使用者資料庫）
+
+---
+
 ## 專案進度
 
 - 架構設計與資料結構已完成
 - 初步 RAG 實作（`apps/RAG_NAIVE.py`）
 - 前端模板基本設計
 - VQA 與 LLM Fine-tuning 功能開發中
+
+### 登入頁面
+![登入頁面](./Figures/demo/login.png)
+
+### 註冊頁面
+![註冊頁面](./Figures/demo/register.png)
+
+### 聊天頁面
+
+1. 主頁面
+![主頁面](./Figures/demo/chat1.png)
+
+2. 可以跟專家 LLM 對話
+![跟專家 LLM 對話](./Figures/demo/chat2.png)
+
+3. 對話完成後，可以點選完成，跟下一位專家 LLM 繼續對話
+![完成對話/切換專家LLM](./Figures/demo/chat3.png)
 
 ---
 
@@ -99,9 +147,23 @@
 - **自訂QA**：整理常見問題及標準答案
 - **影像蒐集**：蒐集術後影像及對應報告 
 
+
+| 組員 | 主要負責內容 |
+| --- | --- |
+| 傅冠豪 | 概念發想、組織架構 |
+| 金哲安 | 網頁前端、網頁後端 |
+| 陳孟潔 | 網頁前端、網頁後端 |
+| 陳冠宇 | LLM 系統架構整合 (RAG、LoRA)、QA 及 VQA 集評估、簡報、書面報告 |
+| 楊哲瑜 | QA 集設計、查找、整理 |
+| 倪昕 | QA 集設計、查找、整理、書面報告 |
+| 張玠 | 一點QA 集、Prompt 設計、查找、整理、簡報 |
 ---
+
+## 書面報告
+- [智慧醫療對話系統_ERAS輔助應用_書面報告](./docs/智慧醫療對話系統_ERAS輔助應用_書面報告.pdf)
 
 ## 近期會議
 
 - [2025/05/13](./docs/2025-05-13-meeting.md)
+- [2025/05/20](./docs/2025-05-20-meeting.md)
 
